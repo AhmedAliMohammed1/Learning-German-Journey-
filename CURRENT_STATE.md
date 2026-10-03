@@ -35,8 +35,8 @@ Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europ
 - Current/latest file: days/2026-10-03.md.
 - Status: **reopened**.
 - Live sessions: **2**.
-- Active session ID: **2026-10-03-S02**.
-- S02 E01–E20 completed; S02 E21–E30 pending.
+- Active session ID: **2026-10-03-S02**. Progression-first policy is active.
+- S02 E01–E20 completed; S02 E21–E30 preserved as deferred review while progression moves to verbs 61–70.
 - Older preserved pending work: S01 E41–E50.
 
 ## Strengths and review priorities
@@ -117,3 +117,15 @@ Existing day remains **closed**, Session S01 remains completed, and **E41–E50 
 - V112 Regenschirm has two independent uses.
 - Next: S02 E21–E30.
 - Fresh item: **V113 — der Koffer (die Koffer)**.
+
+
+## Progression-first policy — explicit learner preference, 2026-10-03
+
+- Do not keep the learner in repeated review cycles after meaningful practice.
+- Before a new numbered batch, use at most a short 3–5 sentence diagnostic when needed; recent evidence can make even that unnecessary.
+- Default practice after a new batch: about **70% new-verb-centered material + 30% embedded old material / grammar / mistake retests**.
+- A single weak pattern does not block progression; weave it into new-verb sentences.
+- Long review-only batches are reserved for explicit Full/Targeted review requests or broad regression that genuinely blocks progress.
+- Evidence controls frequency: repeated independent success reduces review frequency; repeated errors increase future embedding frequency.
+- S02 E21–E30 is preserved as **deferred review**, not required before new verbs.
+- Next teaching action: **introduce numbered verbs 61–70**.
