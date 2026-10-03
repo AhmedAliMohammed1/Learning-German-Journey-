@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T18:12:01+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T18:27:21+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -23,9 +23,11 @@ Updated: **2026-10-03T18:12:01+02:00**. Calendar timezone: **Europe/Berlin**.
 - Latest actual study date: **2026-10-03**.
 - The learner selected **Full review**.
 - Active session: **2026-10-03-S01**.
-- Batch 1 contains ten exact pending prompts, E01–E10, mixing verbs 1–60, Genitiv, weak patterns, and new practical vocabulary.
-- No learner answers have been submitted for this live batch yet, so no fresh correctness evidence has been counted.
-- Exact continuation point: answer E01–E10 in full German sentences; correct and log each before moving to the next review batch.
+- Batch 1 E01–E10 was answered independently and corrected.
+- E05 and E09 were fully correct; several other answers had correct verb choice but errors in Genitiv/case structure.
+- Fresh changes: M05 sitzen/setzen **weak → improving**; M10 anfangen conjugation **needs_check → improving**; M24 suchen + Akk **stable → improving** after a fresh error.
+- Main active weakness remains Genitiv: article/noun endings, nested possession, and adjective endings.
+- Exact continuation point: continue the full review with a fresh batch targeting those weaknesses plus recent verbs 51–60.
 
 ## Day and session state
 
@@ -38,11 +40,11 @@ Updated: **2026-10-03T18:12:01+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Strengths and review priorities
 
-**Weak / active:** darf/darfst (incorrect darft), sitzen/setzen, Genitiv articles/noun endings, nested Genitiv, Genitiv adjective endings.
+**Weak / active:** darf/darfst (one fresh correct `darfst`, still needs reinforcement), Genitiv articles/noun endings, nested Genitiv, Genitiv adjective endings.
 
-**Improving:** possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
+**Improving:** sitzen/setzen; anfangen conjugation; possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; suchen + Akk after a fresh error; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
 
-**More stable:** wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; suchen/kennen + Akk; sehen/hören + Akk.
+**More stable:** wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
 Minor spelling issues remain low priority and separate. M10 anfangen conjugation is a retained diagnostic without a newer reliability assessment.
 
@@ -50,7 +52,7 @@ Minor spelling issues remain low priority and separate. M10 anfangen conjugation
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**106 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. Fresh item V106: **der Termin (die Termine) = الموعد**, introduced in the active review batch.
+**106 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin (die Termine) = الموعد** was used independently and correctly in E09.
 
 ## History and limits
 
