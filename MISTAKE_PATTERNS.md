@@ -107,3 +107,17 @@ The reference sentences above are correct forms or historical study examples; th
 - **M17 improving:** E19 correctly used **um ... zu holen**.
 - **M21 improving:** capitalization errors in **Arbeiten** and **wasser**.
 - **M27 weak — new live pattern:** stationary location takes Dativ, destination takes Akkusativ with two-way prepositions. E13 used **im Kühlschrank** after **stellen**; correct is **in den Kühlschrank**. E15 correctly used **auf den Tisch**.
+
+
+## Fresh live evidence — 2026-10-03 — S01 Batch 3
+
+- **M01 improving:** E21 again used **darf ... öffnen** correctly; article error was separate.
+- **M11 weak:** E22 still had a wrong possessor form; E25/E26 showed some correct Genitiv endings.
+- **M12 weak:** E25 correctly formed **des Hauses des Chefs**; one fresh success after the latest error.
+- **M13 weak:** E26 again needs **des öffentlichen Parks**.
+- **M19 improving:** E27 correctly placed the verb at the end of the indirect **wo** clause; subject case was the remaining problem.
+- **M18 improving:** E28 failed **aufhören + zu + Infinitiv** and needs another retest.
+- **M17 improving:** E30 used **weil** instead of **um ... zu** for same-subject purpose.
+- **M21 improving:** E29 wrote **arbeit** lowercase.
+- **M27 improving:** E23 correctly used **auf den Schreibtisch** for destination and E24 **auf dem Schreibtisch** for location; weak -> improving.
+- **M28 weak — new live pattern:** after a fronted phrase, the finite verb must remain second: **Nach der Arbeit treffe ich ...**. E29 repeated the earlier V2 issue.
