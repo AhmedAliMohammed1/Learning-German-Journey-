@@ -180,3 +180,20 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M21 improving:** E33 wrote **arbeit**; nouns remain capitalized: **Arbeit**.
 - No new weak grammar pattern was created from E31–E40.
 - All numbered verbs 61–70 were independently correct in their first practice. This supports **practicing**, not mastery.
+
+
+## Fresh live evidence — 2026-10-03 — S02 E41–E50
+
+- M29 stehen/stellen: E48 correctly used **steht neben der Tür**. One fresh success after the latest error; keep weak until another independent success.
+- M16 warten auf + Akk: E49 fully correct; remains improving.
+- M18 anfangen/aufhören + zu: E50 fully correct; remains improving.
+- M14 verb-specific case: E42 used Dativ with **anrufen**; correct is **ihre Freundin anrufen** (Akk) and separable **an**.
+- Repeated temporal case error: E42 and E46 used **nach dem Arbeit**; correct is **nach der Arbeit**.
+- E47 needs **mit + Dativ plural: mit unseren Freunden**.
+
+### M30 — nach + Dativ in temporal phrases
+- Status: improving
+- Priority: medium
+- Reference: **nach der Arbeit**, **nach dem Essen**
+- Fresh evidence: S02 E42 and E46.
+- Policy: embed this in new-verb practice; do not block progression.
