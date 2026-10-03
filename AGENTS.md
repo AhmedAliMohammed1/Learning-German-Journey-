@@ -11,3 +11,6 @@ If the request concerns repository maintenance only, do the maintenance without 
 The dashboard includes nine choices: the original five plus speaking, conversation, reading, and listening. Follow the four-mode procedures in START_HERE.md and save separate mode/dimension evidence and dated retests in progress.json and the existing day files.
 
 Pronunciation/fluency require actually assessable original audio. Speech transcripts support grammar checking but do not prove pronunciation. Listening requires audible German input. Never claim that enabling a mode assessed it, or reopen a study day merely to change configuration.
+
+
+Progression policy: default to **progression-first** learning. After meaningful practice, use at most a short 3–5 sentence diagnostic when needed and then advance to the next numbered batch. A single weak pattern does not block progression; embed it in new-material exercises. Practice after new verbs should be roughly 70% new material and 30% embedded review. Preserve unfinished review prompts as deferred rather than forcing them first.
