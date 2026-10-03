@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T21:28:00+02:00",
+  "last_updated_at": null,
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "reopened",
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
-  "last_verified_study_at": "2026-10-03T21:28:00+02:00",
-  "active_topic": "new_study_session_short_cumulative_review",
-  "next_action": "Learner answers 2026-10-03-S02-E01 through 2026-10-03-S02-E10 as full German sentences. Preserve 2026-10-03-S01-E41 through E50 as the paused continuation from the prior session.",
+  "last_verified_study_at": null,
+  "active_topic": "s02_batch_2_cumulative_review",
+  "next_action": "Answer 2026-10-03-S02-E11 through E20; preserve S01 E41-E50.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -96,71 +96,71 @@
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E01",
-      "prompt_ar": "بعد الشغل، أخويا بيقفل الباب.",
+      "id": "2026-10-03-S02-E11",
+      "prompt_ar": "بعد العشاء، أنا ببدأ أقرأ كتاب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E02",
-      "prompt_ar": "المخبز قريب من الحديقة العامة.",
+      "id": "2026-10-03-S02-E12",
+      "prompt_ar": "الفندق قريب من المطعم الجديد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E03",
-      "prompt_ar": "أنا بحط الجاكيت على الكرسي.",
+      "id": "2026-10-03-S02-E13",
+      "prompt_ar": "أنا بحط المظلة جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E04",
-      "prompt_ar": "الجاكيت موجود على الكرسي.",
+      "id": "2026-10-03-S02-E14",
+      "prompt_ar": "المظلة موجودة جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E05",
-      "prompt_ar": "أنا بدي المدرس مفتاح أختي.",
+      "id": "2026-10-03-S02-E15",
+      "prompt_ar": "بعد الشغل، أنا بستنى المدرس قدام الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E06",
-      "prompt_ar": "أنا بستنى صاحبي قدام المستشفى.",
+      "id": "2026-10-03-S02-E16",
+      "prompt_ar": "أنا بدي أمي مفتاح العربية.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E07",
-      "prompt_ar": "أنا ببدأ أكتب رسالة بعد العشاء.",
+      "id": "2026-10-03-S02-E17",
+      "prompt_ar": "أنا بتوقف عن الكتابة الساعة عشرة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E08",
-      "prompt_ar": "هي بتساعد أخوها يفتح الشباك.",
+      "id": "2026-10-03-S02-E18",
+      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E09",
-      "prompt_ar": "أنا عارف أمي بتشتغل فين.",
+      "id": "2026-10-03-S02-E19",
+      "prompt_ar": "هي بتساعد أختها تدور على الموبايل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E10",
-      "prompt_ar": "أنا بروح محطة القطر علشان أقابل صاحبي.",
+      "id": "2026-10-03-S02-E20",
+      "prompt_ar": "أنا بروح السوبرماركت علشان أشتري لبن.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -206,7 +206,17 @@
     "2026-10-03-S01-E37",
     "2026-10-03-S01-E38",
     "2026-10-03-S01-E39",
-    "2026-10-03-S01-E40"
+    "2026-10-03-S01-E40",
+    "2026-10-03-S02-E01",
+    "2026-10-03-S02-E02",
+    "2026-10-03-S02-E03",
+    "2026-10-03-S02-E04",
+    "2026-10-03-S02-E05",
+    "2026-10-03-S02-E06",
+    "2026-10-03-S02-E07",
+    "2026-10-03-S02-E08",
+    "2026-10-03-S02-E09",
+    "2026-10-03-S02-E10"
   ],
   "verbs": {
     "introduced_total": 60,
@@ -1677,7 +1687,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 111,
+    "registered_entries_count": 112,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3373,13 +3383,13 @@
         "type": "noun",
         "article": "die",
         "plural": "die Jacken",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-03",
         "source": "2026-10-03-S02 short cumulative review batch 1",
         "usage_example": "Die Jacke liegt auf dem Stuhl.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
         "evidence": [
           {
             "date": "2026-10-03",
@@ -3390,6 +3400,22 @@
             "note": "Introduced as new practical vocabulary and reused in E04; no learner attempt yet."
           }
         ]
+      },
+      {
+        "id": "V112",
+        "german": "der Regenschirm",
+        "meaning_ar": "المظلة / الشمسيّة",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Regenschirme",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S02 batch 2",
+        "usage_example": "Der Regenschirm steht neben der Tür.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -3764,17 +3790,17 @@
     {
       "id": "M13",
       "topic": "genitiv_adjective_ending",
-      "status": "weak",
+      "status": "improving",
       "title": "Genitiv adjective ending",
       "reference_example": "des öffentlichen Parks",
       "severity": "grammar_or_usage",
-      "priority": "high",
+      "priority": "medium",
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
+      "recorded_errors": 2,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [],
       "last_checked": "2026-10-03",
       "evidence": [
@@ -3784,6 +3810,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E10 needs des öffentlichen Parks."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E02",
+          "independent": true,
+          "note": "Second post-error success: des öffentlichen Parks."
         }
       ]
     },
@@ -3798,12 +3832,21 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E10",
+          "independent": true,
+          "note": "treffen requires Akk: meinen Freund."
+        }
+      ]
     },
     {
       "id": "M15",
@@ -3891,9 +3934,9 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "recorded_errors": 3,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3913,23 +3956,31 @@
           "exercise_id": "2026-10-03-S01-E17",
           "independent": true,
           "note": "E17 independently formed aufhören + zu arbeiten correctly; only capitalization error."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E07",
+          "independent": true,
+          "note": "anfangen + zu structure incorrect."
         }
       ]
     },
     {
       "id": "M19",
       "topic": "weil_wo_final_verb",
-      "status": "improving",
+      "status": "stable",
       "title": "sentence-final verb with weil and wo",
       "reference_example": "weil ich kein Auto habe; Ich weiß, wo er wohnt.",
       "severity": "grammar_or_usage",
-      "priority": "medium",
+      "priority": "low",
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 4,
+      "independent_correct_since_last_error": 4,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3950,6 +4001,14 @@
           "exercise_id": "2026-10-03-S01-E20",
           "independent": true,
           "note": "E18 indirect wo word order wrong; E20 weil clause verb-final order correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E09",
+          "independent": true,
+          "note": "wo-clause order correct again."
         }
       ]
     },
@@ -3982,7 +4041,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 2,
+      "recorded_errors": 3,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
@@ -4003,6 +4062,14 @@
           "exercise_id": "2026-10-03-S01-E19",
           "independent": true,
           "note": "E17 wrote Arbeiten and E19 wasser; nouns uppercase, ordinary infinitive lowercase."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E08",
+          "independent": true,
+          "note": "Ihrem should be ihrem."
         }
       ]
     },
@@ -4107,17 +4174,17 @@
     {
       "id": "M27",
       "topic": "two_way_preposition_location_destination",
-      "status": "improving",
+      "status": "stable",
       "title": "Two-way prepositions: stationary Dativ vs destination Akkusativ",
       "reference_example": "Die Milch ist im Kühlschrank. Ich stelle die Milch in den Kühlschrank.",
       "severity": "grammar_or_usage",
-      "priority": "high",
+      "priority": "low",
       "assessment_source": "fresh_live_evidence",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 7,
+      "independent_correct_since_last_error": 7,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -4138,26 +4205,43 @@
           "exercise_id": "2026-10-03-S01-E15",
           "independent": true,
           "note": "Correctly used auf den Tisch with stellen."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E04",
+          "independent": true,
+          "note": "Destination/location pair correct again."
         }
       ]
     },
     {
       "id": "M28",
       "topic": "verb_second_after_fronted_element",
-      "status": "weak",
+      "status": "improving",
       "title": "Verb-second after a fronted phrase",
       "reference_example": "Nach der Arbeit treffe ich meinen Freund.",
       "severity": "grammar_or_usage",
-      "priority": "high",
+      "priority": "medium",
       "assessment_source": "fresh_live_evidence",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [],
       "last_checked": "2026-10-03",
-      "evidence": []
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E01",
+          "independent": true,
+          "note": "Second post-error success: correct V2 after Nach der Arbeit."
+        }
+      ]
     }
   ],
   "workflow": {
@@ -4196,7 +4280,7 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03 reopened for Session 2026-10-03-S02. New short cumulative review E01-E10 is active; prior Session S01 Batch 5 E41-E50 remains preserved and unattempted.",
+  "latest_study_state": "S02 E01-E10 corrected; S02 E11-E20 pending; S01 E41-E50 preserved.",
   "next_suggested_action": "Complete the active 2026-10-03-S02 short cumulative review first; do not discard the preserved S01 E41-E50 continuation.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
@@ -4329,10 +4413,7 @@
       "evidence": []
     }
   ],
-  "active_mistake_pattern_ids": [
-    "M13",
-    "M28"
-  ],
+  "active_mistake_pattern_ids": [],
   "study_history": [
     {
       "date": "2026-09-30",
@@ -4416,6 +4497,13 @@
       "session_id": "2026-10-03-S02",
       "event": "day_reopened_session_started",
       "note": "Learner chose Start a new study day on the same date. Reopened the existing day file, preserved S01 E41-E50, introduced V111 die Jacke, and started a fresh short cumulative review E01-E10."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "s02_batch_1_checkpoint",
+      "note": "E01-E10 corrected; M13/M28 improving, M27/M19 stable; V112 introduced for E11-E20."
     }
   ],
   "exercise_results": [
@@ -4648,6 +4736,126 @@
       "hint_used": false,
       "independent": true,
       "note": "weil-clause word order correct; comma needed."
+    },
+    {
+      "id": "2026-10-03-S02-E01",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Nach der Arbeit schleißt meinem Bruder die Tür",
+      "correction": "Nach der Arbeit schließt mein Bruder die Tür.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "V2 correct; use mein Bruder; spell schließt."
+    },
+    {
+      "id": "2026-10-03-S02-E02",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Der Bäckerei ist in der Nähe des öffentlichen Parks",
+      "correction": "Die Bäckerei ist in der Nähe des öffentlichen Parks.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "des öffentlichen Parks correct; Bäckerei is feminine."
+    },
+    {
+      "id": "2026-10-03-S02-E03",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich lege die Jacke auf den Stuhl",
+      "correction": "Ich lege die Jacke auf den Stuhl.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "legen + destination Akk correct."
+    },
+    {
+      "id": "2026-10-03-S02-E04",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Die Jacke liegt auf dem Stuhl",
+      "correction": "Die Jacke liegt auf dem Stuhl.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "liegen + stationary Dat correct."
+    },
+    {
+      "id": "2026-10-03-S02-E05",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich gebe dem Lehrer den Schlüssel der Schwester",
+      "correction": "Ich gebe dem Lehrer den Schlüssel meiner Schwester.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Dat person + Akk thing correct; prompt means my sister's."
+    },
+    {
+      "id": "2026-10-03-S02-E06",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich warte auf meinen Freund vor dem Krankenhaus",
+      "correction": "Ich warte auf meinen Freund vor dem Krankenhaus.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "warten auf + Akk correct."
+    },
+    {
+      "id": "2026-10-03-S02-E07",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich fange nach dem Abendessen die Nachricht an zu schreiben",
+      "correction": "Ich fange nach dem Abendessen an, eine Nachricht zu schreiben.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "anfangen + zu structure needs correction."
+    },
+    {
+      "id": "2026-10-03-S02-E08",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Sie hilft Ihrem Bruder das Fenster zu öffnen",
+      "correction": "Sie hilft ihrem Bruder, das Fenster zu öffnen.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "helfen + Dat correct; ihrem lowercase."
+    },
+    {
+      "id": "2026-10-03-S02-E09",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich weiß wo meine Mutter arbeitet",
+      "correction": "Ich weiß, wo meine Mutter arbeitet.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "wo clause order correct; comma missing."
+    },
+    {
+      "id": "2026-10-03-S02-E10",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich gehe zum Bahnhof um mein Freund zu treffen",
+      "correction": "Ich gehe zum Bahnhof, um meinen Freund zu treffen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "um...zu correct; treffen takes Akk meinen Freund."
     }
   ],
   "skill_tracking": {
