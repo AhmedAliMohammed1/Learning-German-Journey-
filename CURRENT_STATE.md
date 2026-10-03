@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T20:22:15+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T20:28:05+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -43,11 +43,11 @@ Updated: **2026-10-03T20:22:15+02:00**. Calendar timezone: **Europe/Berlin**.
 ## Day and session state
 
 - Current/latest file: days/2026-10-03.md.
-- Status: **open**.
+- Status: **closed**.
 - Individually logged live sessions: **1**.
-- Active live session ID: **2026-10-03-S01**.
-- Session started at **2026-10-03T18:12:01+02:00**.
-- Same-date continuation must use this file and this active session until paused/completed; close on "أنا خلصت النهارده".
+- Active live session ID: **none**.
+- Session 2026-10-03-S01 ran from **2026-10-03T18:12:01+02:00** to **2026-10-03T20:28:05+02:00**.
+- Batch 5 E41–E50 is preserved as pending continuation and was not attempted.
 
 ## Strengths and review priorities
 
@@ -73,3 +73,12 @@ Egyptian Arabic; full-sentence Arabic → German translation; numbered batches o
 - 2026-10-03: recent 51–60 plus Genitiv; paused before cumulative 1–60 + Genitiv review.
 
 Backfilled from learner-provided prior-conversation history. Exact historical study times, session boundaries, original answer transcripts, and numerical success/error counts remain unknown. The old missing-verb-mapping notice is superseded.
+
+
+## End-of-day state — 2026-10-03
+
+- Learner ended the day after completing and correcting **E01–E40**.
+- **E41–E50 remain pending** and are the exact continuation if the learner later chooses Continue previous session.
+- Weak priorities at close: **M13 Genitiv adjective ending** and **M28 verb-second after a fronted phrase**.
+- Improved today: M01 darf/darfst, M05 sitzen/setzen, M11 Genitiv article/noun endings, M12 nested Genitiv, M27 Wo/Wohin, M10 anfangen conjugation.
+- Vocabulary register: **110 entries**; fresh live items include der Termin, der Kühlschrank, der Schreibtisch, der Rucksack, and der Brief.
