@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T18:12:01+02:00",
+  "last_updated_at": "2026-10-03T18:27:21+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,144 +21,22 @@
   "day_status": "open",
   "current_session_id": "2026-10-03-S01",
   "sessions_recorded": 1,
-  "last_verified_study_at": "2026-10-03T18:12:01+02:00",
+  "last_verified_study_at": "2026-10-03T18:27:21+02:00",
   "active_topic": "full_review_verbs_1_60_genitiv",
-  "next_action": "Await learner answers for 2026-10-03-S01-E01 through E10; correct every sentence, record independent evidence, then continue the cumulative full review.",
-  "pending_exercises": [
-    {
-      "id": "2026-10-03-S01-E01",
-      "prompt_ar": "هل مسموح لك تفتح الشباك هنا؟",
-      "focus": [
-        "dürfen",
-        "öffnen",
-        "modal_infinitive",
-        "M01"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E02",
-      "prompt_ar": "الكتاب موجود على ترابيزة أخويا.",
-      "focus": [
-        "liegen",
-        "Genitiv",
-        "M11"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E03",
-      "prompt_ar": "أنا بدي أختي مفتاح أخويا.",
-      "focus": [
-        "geben",
-        "Dativ_person_Akk_thing",
-        "Genitiv",
-        "M15"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E04",
-      "prompt_ar": "الطفل قاعد بالقرب من مدخل المدرسة.",
-      "focus": [
-        "sitzen",
-        "in_der_Nähe_Genitiv",
-        "nested_Genitiv",
-        "M05",
-        "M12"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E05",
-      "prompt_ar": "أنا بقعّد الطفل على الكرسي.",
-      "focus": [
-        "setzen",
-        "Akk_destination",
-        "M05"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E06",
-      "prompt_ar": "أنا بستنى صاحبي قدام محطة القطر.",
-      "focus": [
-        "warten_auf_Akk",
-        "M16"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E07",
-      "prompt_ar": "بعد الشغل، أنا ببدأ أقرأ كتاب.",
-      "focus": [
-        "anfangen_zu",
-        "M10",
-        "M18"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E08",
-      "prompt_ar": "أنا بساعد أخويا يدور على المفتاح.",
-      "focus": [
-        "helfen_Dativ",
-        "suchen_Akk",
-        "M06",
-        "M24"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E09",
-      "prompt_ar": "عندي ميعاد بكرة، عشان كده لازم أقوم بدري.",
-      "focus": [
-        "haben",
-        "der Termin",
-        "deshalb_word_order",
-        "müssen",
-        "aufstehen",
-        "M03",
-        "M09"
-      ],
-      "introduced_vocab": [
-        "V106"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    },
-    {
-      "id": "2026-10-03-S01-E10",
-      "prompt_ar": "المطعم قريب من الحديقة العامة.",
-      "focus": [
-        "sein",
-        "in_der_Nähe_Genitiv",
-        "Genitiv_adjective_ending",
-        "M13"
-      ],
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null
-    }
+  "next_action": "Continue the full review with a fresh batch focused on Genitiv, sitzen/setzen, liegen/stellen, modal forms, and infinitive constructions.",
+  "pending_exercises": [],
+  "completed_exercise_ids": [
+    "2026-10-03-S01-E01",
+    "2026-10-03-S01-E02",
+    "2026-10-03-S01-E03",
+    "2026-10-03-S01-E04",
+    "2026-10-03-S01-E05",
+    "2026-10-03-S01-E06",
+    "2026-10-03-S01-E07",
+    "2026-10-03-S01-E08",
+    "2026-10-03-S01-E09",
+    "2026-10-03-S01-E10"
   ],
-  "completed_exercise_ids": [],
   "verbs": {
     "introduced_total": 60,
     "mastered_total": null,
@@ -3098,13 +2976,13 @@
         "type": "noun",
         "article": "der",
         "plural": "die Termine",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-03",
         "source": "2026-10-03-S01 full review batch 1",
         "usage_example": "Ich habe morgen einen Termin.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
         "evidence": [
           {
             "date": "2026-10-03",
@@ -3113,6 +2991,16 @@
             "exercise_id": "2026-10-03-S01-E09",
             "kind": "introduced_in_exercise_prompt",
             "note": "Introduced as new practical vocabulary before the learner response; no mastery evidence yet."
+          },
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:27:21+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E09",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent use: einen Termin."
           }
         ]
       }
@@ -3150,11 +3038,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E01 correct darfst; window article/number error unrelated."
+        }
+      ]
     },
     {
       "id": "M02",
@@ -3186,11 +3084,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E09 deshalb + verb-second correct."
+        }
+      ]
     },
     {
       "id": "M04",
@@ -3213,7 +3121,7 @@
     {
       "id": "M05",
       "topic": "sitzen_setzen",
-      "status": "weak",
+      "status": "improving",
       "title": "sitzen vs setzen",
       "reference_example": "Das Kind sitzt auf dem Stuhl. Ich setze das Kind auf den Stuhl.",
       "severity": "grammar_or_usage",
@@ -3222,11 +3130,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E04 sitzt and E05 setze independently correct; weak -> improving."
+        }
+      ]
     },
     {
       "id": "M06",
@@ -3240,11 +3158,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E08 helfen + meinem Bruder correct."
+        }
+      ]
     },
     {
       "id": "M07",
@@ -3294,16 +3222,26 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E09 modal + final infinitive correct."
+        }
+      ]
     },
     {
       "id": "M10",
       "topic": "anfangen_conjugation",
-      "status": "needs_check",
+      "status": "improving",
       "title": "anfangen conjugation (previous reported diagnostic)",
       "reference_example": "ich fange an; du fängst an; er/sie fängt an",
       "severity": "grammar_or_usage",
@@ -3312,11 +3250,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E07 ich fange an conjugation correct; needs_check -> improving."
+        }
+      ]
     },
     {
       "id": "M11",
@@ -3329,12 +3277,22 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
-      "independent_correct": 0,
+      "recorded_errors": 3,
+      "independent_correct": 1,
       "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "Genitiv ownership/endings wrong in E02/E03/E04; des Parks correct in E10."
+        }
+      ]
     },
     {
       "id": "M12",
@@ -3347,12 +3305,20 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E04 nested Genitiv needs des Eingangs der Schule."
+        }
+      ]
     },
     {
       "id": "M13",
@@ -3365,12 +3331,20 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E10 needs des öffentlichen Parks."
+        }
+      ]
     },
     {
       "id": "M14",
@@ -3420,11 +3394,21 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E06 warten auf meinen Freund correct."
+        }
+      ]
     },
     {
       "id": "M17",
@@ -3455,12 +3439,20 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E07 omitted zu before lesen."
+        }
+      ]
     },
     {
       "id": "M19",
@@ -3555,7 +3547,7 @@
     {
       "id": "M24",
       "topic": "suchen_akk",
-      "status": "stable",
+      "status": "improving",
       "title": "suchen + Akk",
       "reference_example": "Ich suche den Schlüssel.",
       "severity": "grammar_or_usage",
@@ -3563,12 +3555,20 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:27:21+02:00",
+          "session_id": "2026-10-03-S01",
+          "independent": true,
+          "note": "E08 search-object construction wrong; stable -> improving."
+        }
+      ]
     },
     {
       "id": "M25",
@@ -3637,7 +3637,7 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "Full review session 2026-10-03-S01 active; batch 1 (E01-E10) is pending.",
+  "latest_study_state": "2026-10-03-S01 active; Batch 1 E01-E10 answered and corrected.",
   "next_suggested_action": "Answer 2026-10-03-S01-E01 through E10 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
@@ -3772,7 +3772,6 @@
   ],
   "active_mistake_pattern_ids": [
     "M01",
-    "M05",
     "M11",
     "M12",
     "M13"
@@ -3825,6 +3824,125 @@
       "event": "session_started",
       "mode": "full_review",
       "note": "Cumulative verbs 1-60 + Genitiv review started; batch 1 E01-E10 pending."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "session_id": "2026-10-03-S01",
+      "event": "batch_1_checkpoint",
+      "note": "E01-E10 answered independently and corrected. Main active weakness remains Genitiv structure."
+    }
+  ],
+  "exercise_results": [
+    {
+      "id": "2026-10-03-S01-E01",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Darfst du hier die Fenster öffnen ?",
+      "correction": "Darfst du hier das Fenster öffnen?",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E02",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Das Buch liegt auf meinem Bruder Tisch",
+      "correction": "Das Buch liegt auf dem Tisch meines Bruders.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E03",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Ich gebe meiner Schwester meinen Bruder Schlüssel",
+      "correction": "Ich gebe meiner Schwester den Schlüssel meines Bruders.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E04",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Das Kind sitzt in der Nähe des Eingang des Schule",
+      "correction": "Das Kind sitzt in der Nähe des Eingangs der Schule.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E05",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Ich setze das Kind auf den Stuhl",
+      "correction": "Ich setze das Kind auf den Stuhl.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E06",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Ich warte auf meinen Freund in vom Bahnhof",
+      "correction": "Ich warte vor dem Bahnhof auf meinen Freund.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E07",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Nach dem Arbeit, Ich fange an ein Buch lesen",
+      "correction": "Nach der Arbeit fange ich an, ein Buch zu lesen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E08",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Ich helfe meinem Bruder zu dem Schlüssel suchen",
+      "correction": "Ich helfe meinem Bruder, den Schlüssel zu suchen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E09",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Ich habe morgen einen Termin, deshalb muss ich früh aufstehen",
+      "correction": "Ich habe morgen einen Termin, deshalb muss ich früh aufstehen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E10",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:27:21+02:00",
+      "learner_answer": "Die Restaurant ist in der Nähe des Parks öffentlich",
+      "correction": "Das Restaurant ist in der Nähe des öffentlichen Parks.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
     }
   ]
 }
