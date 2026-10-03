@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T22:38:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 70 / 100 numbered verbs introduced
 
@@ -23,13 +23,13 @@ Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europ
 
 - Latest actual study date: **2026-10-03**.
 - Active session: **2026-10-03-S02**.
-- S02 E11–E20 completed and corrected.
-- New weak pattern: **M29 stehen vs stellen**.
-- **M28 fronted-phrase V2** is now stable.
-- M11 Genitiv noun endings, M16 warten auf + Akk, and M18 anfangen/aufhören + zu remain improving.
-- V112 **der Regenschirm** has two independent uses and is practicing.
-- S02 E21–E30 is pending; V113 **der Koffer (die Koffer)** is newly introduced.
-- S01 E41–E50 remains preserved and unattempted.
+- First independent practice of numbered verbs **61–70** is complete.
+- All ten new verbs were used correctly; only minor non-verb issues appeared: **Arbeit** capitalization and **ein Paket** vs **das Paket**.
+- Group 61–70 moved from introduced to **practicing**.
+- Active next batch: **S02 E41–E50**, using the progression-first 70/30 mix.
+- New vocabulary: **V115 — die Geschichte (die Geschichten)**.
+- If this next batch stays strong, the next progression target is **71–80**, not another long review cycle.
+- Earlier deferred review remains preserved.
 
 ## Day and session state
 
@@ -54,7 +54,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**114 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**115 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
