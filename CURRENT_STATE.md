@@ -2,11 +2,12 @@
 
 Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europe/Berlin**.
 
-## Progress — 60 / 100 numbered verbs introduced
+## Progress — 70 / 100 numbered verbs introduced
 
 - **1–50:** introduced and reviewed multiple times; generally retained / strong group baseline. Continue cumulative reviews. This does not mean every verb is fully mastered.
 - **51–60:** recent and **practicing**: liegen, legen, stellen, setzen, öffnen, schließen, anfangen, aufhören, warten, treffen.
-- Exact numbered identities and meanings are now complete in curriculum/verbs.md and progress.json.
+- **61–70:** newly introduced under the progression-first policy: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
+- Exact numbered identities and meanings are complete through **70** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
 - No invented mastery percentages. Target 100 is confirmed by the learner.
 
@@ -53,7 +54,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**113 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**114 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -129,3 +130,24 @@ Existing day remains **closed**, Session S01 remains completed, and **E41–E50 
 - Evidence controls frequency: repeated independent success reduces review frequency; repeated errors increase future embedding frequency.
 - S02 E21–E30 is preserved as **deferred review**, not required before new verbs.
 - Next teaching action: **introduce numbered verbs 61–70**.
+
+
+## New numbered batch — 61–70
+
+Introduced on 2026-10-03 under the progression-first policy:
+
+61. sagen — يقول
+62. erzählen — يحكي / يروي
+63. anrufen — يتصل هاتفيًا
+64. schicken — يرسل
+65. tragen — يحمل / يرتدي
+66. waschen — يغسل
+67. putzen — ينظف
+68. laufen — يمشي / يجري
+69. spielen — يلعب
+70. reisen — يسافر
+
+- Status: **introduced / beginning practice**; no mastery claim.
+- Active practice: **2026-10-03-S02-E31–E40**.
+- New practical noun: **V114 — das Paket (die Pakete) = الطرد / الشحنة**.
+- S02 E21–E30 and S01 E41–E50 remain preserved as deferred review.
