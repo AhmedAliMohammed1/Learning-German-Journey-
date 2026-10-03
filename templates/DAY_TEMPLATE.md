@@ -15,6 +15,12 @@ Copy only when days/{{DATE}}.md does not exist. Replace {{DATE}} with the actual
 
 ## Starting state
 
+- Numbered verbs introduced / target (supplemental entries excluded):
+- Latest requested activity and whether it is pending or completed:
+- Historical source: live session / Backfilled from prior conversation.
+- For backfill only: exact times and original session count may be unknown; do not fabricate them. Record a historical summary separately from live session sections. sessions counts the actual live sections, not estimated historical sessions.
+
+
 - Verbs introduced and group statuses:
 - Current grammar focus:
 - Vocabulary snapshot and active mistakes:
@@ -31,7 +37,10 @@ Append once actual study starts:
 - Started at:
 - Ended at:
 - Topics and material:
-- New verbs / grammar / vocabulary actually introduced:
+- New numbered verbs (batch of 10) / grammar / vocabulary actually introduced:
+- Supplemental entries (excluded from numbered total):
+- Old material reused in cumulative review:
+- New vocabulary included in this review:
 - Preferences changed:
 - Next action:
 
@@ -67,7 +76,9 @@ Append one summary per closure after new work:
 - Mistakes and changes:
 - Remaining practice:
 - Next session starting point:
-- Files updated and persistence result:
+- Files updated (day, curriculum, mistakes, preferences if changed, CURRENT_STATE, progress.json, README dashboard if changed) and persistence result:
+
+On closing set status: closed and preserve this summary. When actual study resumes on the same date, set reopened, append the next session, and preserve previous closures. Do not create a second date file. Repeating a close without new work must not duplicate this summary.
 
 ## Save status
 

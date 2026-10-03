@@ -1,37 +1,82 @@
 # Adaptive mistake tracking
 
-Imported patterns were reported in the prior conversation. Exact learner answers, occurrence counts, and dates were not available. Initial status **needs_check** means reported and awaiting fresh evidence; it does not assert a measured weakness.
+**Backfilled from prior conversation**, based on the learner's supplied assessment on 2026-10-03. These status labels represent reported historical progress; they are not calculated from invented exercise counts.
 
-## Status and evidence rules
+## Active / weak — deliberate retesting
 
-- needs_check → weak after an independently observed relevant error; or → improving after a fresh independent correct use.
+- **M01 — darf vs darfst; incorrect darft**: ich/er/sie/es darf; du darfst; ihr dürft
+- **M05 — sitzen vs setzen**: Das Kind sitzt auf dem Stuhl. Ich setze das Kind auf den Stuhl.
+- **M11 — Genitiv article and noun ending selection**: in der Nähe des Bahnhofs; in der Nähe der Schule
+- **M12 — nested Genitiv phrases**: in der Nähe des Hauses meiner Freundin
+- **M13 — Genitiv adjective ending**: des öffentlichen Parks
+
+## Improving — cumulative spaced practice
+
+- **M02 — mein / meinen / meinem**: Mein Bruder kommt. Ich sehe meinen Bruder. Ich helfe meinem Bruder.
+- **M03 — deshalb + verb + subject**: Deshalb suche ich ihn.
+- **M08 — ihn / sie / es by noun gender**: der Schlüssel → ihn; die Tasche → sie; das Handy → es
+- **M09 — modal verb + final infinitive**: Ich muss morgen arbeiten.
+- **M14 — Akk vs Dat after specific verbs**: Ich sehe meinen Bruder. Ich helfe meinem Bruder.
+- **M15 — Dat person + Akk thing**: Ich gebe meiner Schwester ein Geschenk.
+- **M16 — warten auf + Akk**: Ich warte auf den Bus.
+- **M17 — um ... zu**: Ich gehe zum Supermarkt, um Milch zu holen.
+- **M18 — anfangen / aufhören + zu**: Ich fange an zu lesen. Ich höre auf zu arbeiten.
+- **M19 — sentence-final verb with weil and wo**: weil ich kein Auto habe; Ich weiß, wo er wohnt.
+- **M20 — eine Tasse Wasser / Kaffee for intended quantity**: eine Tasse Kaffee, rather than Kaffeetasse for a quantity of coffee
+- **M21 — capitalized nouns; lowercase ordinary pronouns mid-sentence**: Ich helfe ihr. Ich schreibe eine Nachricht. Polite Sie/Ihnen stay uppercase.
+
+## More stable than before — lighter maintenance checks
+
+- **M04 — wissen vs kennen**: Ich weiß die Antwort. Ich kenne diesen Mann.
+- **M06 — helfen + Dat**: Ich helfe meinem Bruder.
+- **M07 — denken an + Akk**: Ich denke an meine Mutter.
+- **M22 — danken + Dat**: Ich danke meinem Bruder.
+- **M23 — antworten + Dat**: Ich antworte meinem Lehrer.
+- **M24 — suchen + Akk**: Ich suche den Schlüssel.
+- **M25 — kennen + Akk**: Ich kenne diesen Mann.
+- **M26 — sehen / hören + Akk**: Ich sehe meinen Bruder. Ich höre die Musik.
+
+"Stable" means more reliable than earlier according to the history, not permanently mastered. Continue sampling these naturally.
+
+## Previous diagnostic retained
+
+**M10 — anfangen conjugation** remains needs_check: ich fange an; du fängst an; er/sie fängt an. The earlier record flagged it, and the current backfill supplies the correct forms but no separate reliability assessment. It is distinct from M18, the improving anfangen/aufhören + zu construction.
+
+Active verb contrast liegen/legen/stellen also needs continued practice. Do not label it a repeated-error pattern until an actual error or explicit learner report supports that classification.
+
+## Minor spelling issues — separate, low priority
+
+- SP01: **Nachricht**
+- SP02: **antworten**
+- SP03: **helfen**
+- SP04: **erklären**
+- SP05: **Regel**
+- SP06: **Freund**
+- SP07: **Vater**
+- SP08: **Kaffee**
+- SP09: **Restaurant**
+- SP10: **Kirche**
+
+These spellings were reported as previously troublesome. Individual improvement and frequencies are unknown; "improving" here is a low-priority practice label, not a measured streak. Correct them briefly without treating them as severe grammar weaknesses.
+
+## Future adaptive evidence rules
+
+- A new relevant error after needs_check makes the pattern weak; fresh independent correct use can make it improving.
 - weak → improving after at least 2 independent correct uses in different sentences after the latest error.
 - improving → stable after at least 4 independent correct uses across at least 2 actual sessions after the latest error.
 - stable → improving after a new relevant error; repeated errors return it to weak.
-- A hint or copied correction does not advance the independent success streak.
-- These thresholds are adjustable defaults. Record dated reasons for changes; never fabricate historical counts.
-- Prioritize weak patterns, include occasional improving checks, and sample stable patterns less often. Use fresh sentences and vocabulary.
-- Examples below are tutor reference examples, not answers submitted by the learner.
+- A hint, copied solution, or repeated corrected answer does not advance an independent success streak.
+- Imported statuses remain the baseline. Do not reset them because fresh in-repository counters start at 0.
+- Adjust the thresholds when useful and record why. Use high priority for weak, medium for improving, and occasional checks for stable.
+- Retest in fresh full sentences with useful new vocabulary, not repeated identical questions.
 
-| ID | Reported pattern | Rule / correct example | Status | Recorded errors | Independent correct | Last checked |
-| --- | --- | --- | --- | --- | --- | --- |
-| M01 | darf / darfst | ich/er/sie/es darf; du darfst. Mein Bruder darf zu Hause bleiben. | needs_check | 0 | 0 | unknown |
-| M02 | meinem / meinen / mein; Akk/Dat | Ich helfe meinem Bruder. Ich sehe meinen Bruder. Mein Bruder kommt. | needs_check | 0 | 0 | unknown |
-| M03 | deshalb word order | deshalb occupies position 1; finite verb position 2. Deshalb bleibe ich zu Hause. | needs_check | 0 | 0 | unknown |
-| M04 | wissen / kennen | Ich weiß, wo er wohnt. Ich kenne diesen Mann. | needs_check | 0 | 0 | unknown |
-| M05 | sitzen / setzen | Ich sitze auf dem Stuhl. Ich setze mich auf den Stuhl. | needs_check | 0 | 0 | unknown |
-| M06 | helfen + Dativ | Ich helfe meiner Schwester. Perfekt: Ich habe ihr geholfen. | needs_check | 0 | 0 | unknown |
-| M07 | denken an + Akkusativ | Ich denke an meinen Bruder. | needs_check | 0 | 0 | unknown |
-| M08 | object pronouns with vergessen | Der Schlüssel: Ich habe ihn vergessen. Die Tasche: sie. Das Handy: es. | needs_check | 0 | 0 | unknown |
-| M09 | infinitive after modal verbs | Ich muss heute arbeiten. Infinitive at the end. | needs_check | 0 | 0 | unknown |
-| M10 | anfangen conjugation | Ich fange an. Du fängst an. Er fängt an. | needs_check | 0 | 0 | unknown |
+## Evidence and provenance
 
-Zero counts mean no attempts recorded in this repository, not zero historical mistakes.
+Individual original answers, error frequencies, independent-success counts, and exact times were not supplied. Historical counts are **unknown**. Fresh recorded counters begin at **0**, meaning no post-backfill measured attempts, not no prior practice.
 
-## Current grammar diagnostic
+The reference sentences above are correct forms or historical study examples; they are not raw learner answers. Future evidence must include date, session/exercise ID, original answer, correction, hint status, independent success/error, and status change reason. Mirror the same IDs/statuses in progress.json.mistake_patterns and keep spelling in its separate spelling_patterns list.
 
-Check in der Nähe + Genitiv naturally during practice. It is an active study focus, not yet an evidenced recurring mistake. Create a separate mistake pattern only if actual answers justify it.
+## Import changes
 
-## Evidence log
-
-No fresh evidence at initialization. Append: date, session/exercise ID, learner answer, correction, error or independent success, hint status, and resulting status. Mirror counters and status into progress.json.mistake_patterns.
+- Initialization retained ten reported patterns with needs_check because their reliability was unknown.
+- 2026-10-03 backfill supplies current weak/improving/stable assessments, adds Genitiv and other historical patterns, and preserves M10 as a diagnostic without inventing new observations.

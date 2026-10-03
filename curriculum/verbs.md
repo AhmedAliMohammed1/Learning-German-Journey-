@@ -1,86 +1,101 @@
-# Verb curriculum
+# Verb curriculum — 60 / 100
 
-**60 introduced**: IDs 1–50 reviewed multiple times; IDs 51–60 recently introduced and practicing. Exact historical attempt counts and mastery are unknown.
+**Numbered target: 100. Introduced: 60.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
 
-The original ZIP/list was not available in the retrieved conversation. Preserve every ID and its group status; do not invent identities or their order. All identity fields are null in progress.json until verified against the original list or confirmed by the learner.
+- **1–50:** reviewed multiple times, generally retained; group baseline **strong**, with ongoing cumulative practice and individual weak patterns still tracked.
+- **51–60:** introduced on 2026-10-03, recent and **practicing**.
+- Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
-| ID | Infinitive | Initial status | Historical review count | Mastery |
+| ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
 | --- | --- | --- | --- | --- |
-| 1 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 2 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 3 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 4 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 5 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 6 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 7 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 8 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 9 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 10 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 11 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 12 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 13 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 14 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 15 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 16 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 17 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 18 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 19 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 20 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 21 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 22 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 23 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 24 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 25 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 26 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 27 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 28 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 29 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 30 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 31 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 32 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 33 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 34 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 35 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 36 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 37 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 38 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 39 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 40 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 41 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 42 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 43 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 44 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 45 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 46 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 47 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 48 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 49 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 50 | not recovered | reviewed_multiple_times | unknown | unknown |
-| 51 | not recovered | practicing_recent | unknown | unknown |
-| 52 | not recovered | practicing_recent | unknown | unknown |
-| 53 | not recovered | practicing_recent | unknown | unknown |
-| 54 | not recovered | practicing_recent | unknown | unknown |
-| 55 | not recovered | practicing_recent | unknown | unknown |
-| 56 | not recovered | practicing_recent | unknown | unknown |
-| 57 | not recovered | practicing_recent | unknown | unknown |
-| 58 | not recovered | practicing_recent | unknown | unknown |
-| 59 | not recovered | practicing_recent | unknown | unknown |
-| 60 | not recovered | practicing_recent | unknown | unknown |
+| 1 | sein | يكون | strong | Keep in cumulative full-sentence reviews. |
+| 2 | haben | يملك / عنده | strong | Keep in cumulative full-sentence reviews. |
+| 3 | machen | يفعل / يعمل | strong | Keep in cumulative full-sentence reviews. |
+| 4 | gehen | يذهب | strong | Keep in cumulative full-sentence reviews. |
+| 5 | kommen | يأتي | strong | Keep in cumulative full-sentence reviews. |
+| 6 | fahren | يذهب بوسيلة / يقود | strong | ich fahre; du fährst; er/sie fährt |
+| 7 | bleiben | يبقى | strong | Keep in cumulative full-sentence reviews. |
+| 8 | wohnen | يسكن | strong | Keep in cumulative full-sentence reviews. |
+| 9 | arbeiten | يعمل | strong | Keep in cumulative full-sentence reviews. |
+| 10 | lernen | يتعلم | strong | Keep in cumulative full-sentence reviews. |
+| 11 | sehen | يرى | strong | + Akk |
+| 12 | hören | يسمع | strong | + Akk |
+| 13 | lesen | يقرأ | strong | Keep in cumulative full-sentence reviews. |
+| 14 | schreiben | يكتب | strong | Keep in cumulative full-sentence reviews. |
+| 15 | fragen | يسأل | strong | + Akk (person) |
+| 16 | antworten | يجيب | strong | + Dat (person) |
+| 17 | helfen | يساعد | strong | + Dat; jemandem helfen, etwas zu tun |
+| 18 | danken | يشكر | strong | + Dat |
+| 19 | geben | يعطي | strong | + Dat person + Akk thing |
+| 20 | zeigen | يُري | strong | + Dat person + Akk thing |
+| 21 | verstehen | يفهم | strong | Keep in cumulative full-sentence reviews. |
+| 22 | wissen | يعرف معلومة | strong | information: Ich weiß die Antwort. |
+| 23 | kennen | يعرف شخصًا أو مكانًا | strong | person/place + Akk |
+| 24 | denken | يفكر | strong | denken an + Akk |
+| 25 | glauben | يعتقد / يؤمن | strong | glauben an + Akk (believe in) |
+| 26 | meinen | يقصد / يعتقد | strong | Keep in cumulative full-sentence reviews. |
+| 27 | finden | يجد | strong | + Akk |
+| 28 | suchen | يبحث عن | strong | + Akk |
+| 29 | brauchen | يحتاج | strong | + Akk |
+| 30 | wollen | يريد | strong | modal + final infinitive |
+| 31 | möchten | يود / يرغب بأدب | strong | polite möchten form of mögen; retained as numbered entry 31 |
+| 32 | können | يستطيع | strong | modal + final infinitive |
+| 33 | müssen | يجب / مضطر | strong | modal + final infinitive |
+| 34 | sollen | ينبغي / من المفترض | strong | modal + final infinitive |
+| 35 | dürfen | يُسمح له | strong | ich/er/sie darf; du darfst; wir/sie dürfen; ihr dürft |
+| 36 | nehmen | يأخذ | strong | Keep in cumulative full-sentence reviews. |
+| 37 | bringen | يجلب / يحضر | strong | bring to someone/place |
+| 38 | holen | يذهب ليحضر شيئًا | strong | go and fetch |
+| 39 | bekommen | يحصل على / يتلقى | strong | Keep in cumulative full-sentence reviews. |
+| 40 | kaufen | يشتري | strong | Keep in cumulative full-sentence reviews. |
+| 41 | bezahlen | يدفع | strong | Keep in cumulative full-sentence reviews. |
+| 42 | verkaufen | يبيع | strong | Keep in cumulative full-sentence reviews. |
+| 43 | bestellen | يطلب | strong | Keep in cumulative full-sentence reviews. |
+| 44 | essen | يأكل | strong | Keep in cumulative full-sentence reviews. |
+| 45 | trinken | يشرب | strong | Keep in cumulative full-sentence reviews. |
+| 46 | kochen | يطبخ | strong | Keep in cumulative full-sentence reviews. |
+| 47 | schlafen | ينام | strong | Keep in cumulative full-sentence reviews. |
+| 48 | aufstehen | يستيقظ / يقوم من السرير | strong | separable: Ich stehe früh auf. |
+| 49 | sitzen | يكون جالسًا | strong | stationary sitting; contrast setzen |
+| 50 | stehen | يكون واقفًا | strong | stationary standing; contrast stellen |
+| 51 | liegen | يكون موضوعًا / مستلقيًا | practicing | stationary lying; location + Dat |
+| 52 | legen | يضع شيئًا أفقيًا | practicing | lay something horizontally; destination + Akk |
+| 53 | stellen | يضع شيئًا قائمًا | practicing | place upright; jemandem eine Frage stellen |
+| 54 | setzen | يُجلس / يضع في وضع الجلوس | practicing | seat someone; sich setzen to sit down; contrast sitzen |
+| 55 | öffnen | يفتح | practicing | Keep in cumulative full-sentence reviews. |
+| 56 | schließen | يغلق | practicing | Keep in cumulative full-sentence reviews. |
+| 57 | anfangen | يبدأ | practicing | ich fange an; du fängst an; er/sie fängt an; + zu + infinitive |
+| 58 | aufhören | يتوقف | practicing | separable; + zu + infinitive |
+| 59 | warten | ينتظر | practicing | warten auf + Akk |
+| 60 | treffen | يقابل | practicing | + Akk |
 
-## Named verbs confirmed in imported notes
+## Counting and identity rules
 
-dürfen, wissen, kennen, sitzen, setzen, helfen, denken, vergessen, anfangen.
+Keep the numbering exactly as shown in progress.json.verbs.items. Entry 31 is deliberately **möchten**, as in the learner's original sequence: technically a polite Konjunktiv-II form of mögen, not a separate lexical infinitive. Preserve its numbered position rather than renumbering the course.
 
-These names were mentioned in reported mistake notes; their numeric positions and exact membership in the 1–50 / 51–60 groups were not supplied. Do not assign them guessed IDs or introduce them again as new. The form geholfen belongs to helfen; it is not a separate introduced verb.
+**erklären** and **besuchen** are supplemental vocabulary, outside the numbered 60. **mit jemandem sprechen** is a supplemental construction. **vergessen** was encountered in earlier object-pronoun notes and is also outside this numbered list. Supplemental introductions do not change 60 / 100.
 
-Reference usage: helfen + Dativ; denken an + Akkusativ; sich setzen describes sitting down; sitzen describes being seated; anfangen is separable and has du/er fängst/fängt an.
+## Contrasts and reference examples already studied
 
-## Updating the register
+- wissen = information: **Ich weiß die Antwort.** kennen = person/place: **Ich kenne diesen Mann.**
+- bringen = bring to someone/place; holen = go and fetch something.
+- liegen / legen: **Das Buch liegt auf dem Tisch.** / **Ich lege das Buch auf den Tisch.**
+- sitzen / setzen: **Das Kind sitzt auf dem Stuhl.** / **Ich setze das Kind auf den Stuhl.**
+- stellen = place upright: **Ich stelle die Flasche auf den Tisch.**
 
-For each confirmed mapping, replace "not recovered" and progress.json.verbs.items[id].infinitive; retain the original ID and group history. Mapping an existing ID does not increase 60.
+dürfen: ich darf; du darfst; er/sie/es darf; wir dürfen; ihr dürft; sie/Sie dürfen. The incorrect darft remains an active weak pattern.
+fahren: ich fahre; du fährst; er/sie fährt.
+anfangen: ich fange an; du fängst an; er/sie fängt an.
 
-For actual practice, record last-reviewed date, stable session/exercise IDs, errors, and independent correct uses. Add a newly introduced verb once under the next unused ID only after it is actually taught. Keep mastery distinct from introduction/review status.
+These are historical practiced examples, not reconstructed independent attempts or scored test results.
 
-## Log
+## Future updates
 
-2026-10-03: Imported baseline only. No new verbs or exercise results recorded.
+Introduce numbered verbs in batches of **10**, after a quick cumulative review. Mix every new batch with all earlier groups over subsequent reviews. When adding 61–70, increase the introduced total only for actually introduced numbered entries.
+
+For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
+
+## Import history
+
+- 2026-10-03 initialization: preserved the known 60 IDs while their names were unavailable.
+- 2026-10-03 backfill: learner supplied all 60 exact names and meanings. Existing IDs were completed; no additional numbered verbs were introduced by this repository update.

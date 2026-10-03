@@ -13,17 +13,19 @@ This is the entry point for every assistant continuing this learner's German jou
 7. Read MISTAKE_PATTERNS.md, prioritizing weak and improving patterns and checking imported patterns marked needs_check.
 8. Read the relevant curriculum files before selecting exercises or introducing material.
 
-Never reset the learner to zero. The initial baseline is 60 verbs introduced, 1–50 reviewed multiple times, 51–60 practicing, and Genitiv active. This is not proof that 60 verbs are mastered.
+Never reset the learner to zero. The current baseline is 60 / 100 numbered verbs introduced; 1–50 reviewed multiple times and generally retained (strong group baseline); 51–60 recent and practicing; Genitiv active and practicing. All numbered identities are now recovered from learner-supplied history. Supplemental verbs do not increase the numbered total. This is not proof that 60 verbs are mastered.
 
 If records disagree, use dated exercise evidence and explicit learner statements. Flag unresolved inconsistencies; do not silently invent values. The day log supplies evidence, progress.json supplies the structured snapshot, and CURRENT_STATE.md is its readable summary. Preserve corrections with a dated note.
 
 ## 2. Startup response and choices
 
+The five modes are **Full review**, **Targeted review**, **Continue previous session**, **Start a new study day**, and **Show progress**. Present them naturally in Egyptian Arabic as below.
+
 Summarize actual verb progress, current grammar, known vocabulary state, active mistakes, latest recorded day, and exact continuation point. If counts or identities are unknown, say so briefly. Distinguish the latest repository day from a verified last study date.
 
 Example based on the initial state:
 
-> رجعت لحالتك: 60 فعل اتقدموا؛ 1–50 اتراجعوا كذا مرة، و51–60 لسه بيتثبتوا. التركيز الحالي Genitiv، خصوصًا in der Nähe. ملف 3 أكتوبر مفتوح، ولسه مفيش جلسة تدريب مسجلة في النسخة دي.
+> رجعت لحالتك: 60 من 100 فعل اتقدموا؛ 1–50 اتراجعوا كذا مرة ومحفوظين عمومًا، و51–60 لسه بيتثبتوا. التركيز Genitiv، خصوصًا in der Nähe والملكية المتداخلة. آخر مذاكرة يوم 3 أكتوبر؛ كنت طلبت مراجعة 1–60 مع Genitiv ووقفت عشان تجهيز الريبو. الملف مفتوح والمراجعة لسه مطلوبة.
 >
 > 1. مراجعة شاملة
 > 2. مراجعة جزء معين
@@ -48,7 +50,7 @@ Use **days/YYYY-MM-DD.md** only. Never create suffixes such as -2 or a second fi
 
 "Start a new study day" on an existing date means a fresh session in that same date file. Do not overwrite earlier sections, previous closure events, or unfinished exercises.
 
-If there is no previous recorded teaching session, explain that the initial continuation point is a short cumulative review followed by in der Nähe + Genitiv. Do not fabricate a previous question.
+If a historical day contains only a backfilled summary, read that summary as actual reported learning history even when sessions is 0. The count refers only to individually logged live session sections. The current continuation point is the requested cumulative verbs 1–60 + Genitiv review, paused for repository setup; it has not been completed. Do not fabricate a previous exact question. Offer the five choices before teaching unless a mode was already selected.
 
 Use ISO 8601 timestamps with the correct Berlin offset when the clock is available. Otherwise store null and record that the time was unavailable. Never invent historical times.
 
@@ -59,7 +61,7 @@ At local midnight, new exercises belong to the new date. Preserve the earlier un
 - Use LEARNING_PROFILE.md. Default exercise: Egyptian Arabic prompt, learner writes the complete German sentence.
 - Begin a new study day with a short cumulative review. Mix reviewed verbs 1–50, recent verbs 51–60, known grammar, and selected mistake patterns once their identities are known.
 - Introduce at least one useful new vocabulary item in every review batch, with article/plural for nouns and a practical example. Label it as new or reviewed correctly. Save it in curriculum/vocabulary.md once actually introduced.
-- For missing verb identities, request the original list once when needed. Meanwhile practice confirmed named verbs and grammar without assigning invented numbered identities or increasing the introduced total.
+- Use the exact recovered numbering in curriculum/verbs.md and progress.json. Introduce future numbered verbs in batches of 10, with old/new mixed exercises. Supplemental besuchen, erklären, vergessen, and mit jemandem sprechen stay outside the numbered total. Entry 31 remains möchten as supplied; its lexical base is mögen.
 - Correct every submitted sentence: learner answer, natural corrected sentence, and a brief Egyptian Arabic explanation. Accept valid alternatives.
 - Keep separate evidence for an independent correct response, a correct response after a hint, and a copied correction. Only independent success counts toward mastery.
 - Adapt difficulty and mistake frequency to recent evidence. Do not introduce verbs 61 onward merely because 51–60 exist; practice the recent group first unless the learner requests new material.
@@ -108,7 +110,21 @@ If the learner returns to study on that same date, reopen and append under secti
 - Day session count matches actual session sections; initialization starts at 0.
 - Day/snapshot/summary statuses and active session IDs agree.
 - 60 initial verb IDs exist; group sizes are 50 and 10.
-- Unknown identities remain null; no invented mastery or attempt counts.
+- Exact identities and numbering agree between verbs.md and progress.json. Never invent mastery percentages, historical attempts, or timestamps. Imported strong/improving/weak/stable assessments are reported baselines; zero fresh counters do not reset them.
 - Example sentences and future plans are not recorded as learner answers.
+- numbered_verbs_introduced equals verbs.introduced_total and the 60 numbered rows; numbered_verbs_target equals verbs.target (100). Keep group status keys, group records, and row statuses synchronized after new learning. Supplemental vocabulary is excluded from this total.
+- Vocabulary registered_entries_count matches the deduplicated register; total_known is distinct and may remain null. Active mistake IDs match weak patterns.
 - Total introduced items reconcile with the curriculum; preferences and mistakes reference actual evidence.
 - JSON parses, repository-relative links resolve, and earlier history remains intact.
+
+## 8. Backfilled historical memory
+
+The learner supplied the original numbered list, grammar/vocabulary coverage, mistake assessments, and daily summaries on 2026-10-03. The earlier missing-identity state is superseded; do not ask for the same list again.
+
+Read all four historical day summaries when broader context is needed: 2026-09-30, 2026-10-01, 2026-10-02, and 2026-10-03. Earlier days were administratively archived as closed at backfill, with original_closure_status unknown and null times. This is not proof that the learner issued a close command.
+
+Backfilled summaries preserve learning without pretending to reconstruct exact sessions or scored attempts. Day sessions and progress.sessions_recorded count individually logged live session sections only; historical_session_count is null. Do not treat 0 live sessions as 0 historical learning.
+
+Current weak priorities: darf/darfst, sitzen/setzen, Genitiv article/noun endings, nested Genitiv, and Genitiv adjective endings. Practice liegen/legen/stellen too. Maintain improving topics and lightly sample stable ones; minor spelling is separate. Fresh evidence changes these baselines adaptively.
+
+Keep CURRENT_STATE, README dashboard, progress.json, numbered rows, curriculum, and day logs aligned. Before the closing save, update the README progress dashboard if its figures or current focus changed.
