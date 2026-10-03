@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
   "last_verified_study_at": null,
-  "active_topic": "s02_batch_3_cumulative_review",
-  "next_action": "Answer 2026-10-03-S02-E21 through E30; preserve S01 E41-E50.",
+  "active_topic": "prepare_numbered_verbs_61_70",
+  "next_action": "Introduce numbered verbs 61-70 now. Use approximately 70% new-verb-centered practice and 30% embedded review. Preserve S02 E21-E30 and S01 E41-E50 as deferred review work.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -100,70 +100,90 @@
       "prompt_ar": "بعد الشغل، أنا بحط شنطة السفر جنب الباب.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E22",
       "prompt_ar": "شنطة السفر موجودة جنب الباب.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E23",
       "prompt_ar": "المكتبة قريبة من المتحف الجديد.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E24",
       "prompt_ar": "أنا بستنى أخويا قدام محطة القطر.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E25",
       "prompt_ar": "أنا بدي أبويا مفتاح العربية.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E26",
       "prompt_ar": "أنا ببدأ أطبخ الساعة ستة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E27",
       "prompt_ar": "أنا بتوقف عن القراءة الساعة حداشر.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E28",
       "prompt_ar": "أنا عارف أختي بتشتغل فين.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E29",
       "prompt_ar": "هي بتساعد أخوها يكتب رسالة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
       "id": "2026-10-03-S02-E30",
       "prompt_ar": "أنا بروح السوبرماركت علشان أشتري سلطة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "deferred_review",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     }
   ],
   "completed_exercise_ids": [
@@ -3479,7 +3499,7 @@
     "correct_every_sentence": true,
     "explain_case_and_word_order_reasons": true,
     "practical_everyday_german": true,
-    "new_study_day_starts_with_review": true,
+    "new_study_day_starts_with_review": false,
     "never_reteach_introduced_verbs_as_new": true,
     "reduce_priority_when_consistently_correct": true,
     "persist_preference_changes": true,
@@ -3505,7 +3525,16 @@
     "new_vocabulary_in_each_skill_activity": true,
     "adaptive_cross_mode_tracking": true,
     "retain_unfinished_activities_on_pause": true,
-    "delayed_retention_retesting": true
+    "delayed_retention_retesting": true,
+    "progression_first": true,
+    "diagnostic_review_max_sentences": 5,
+    "new_batch_practice_mix": {
+      "new_material_fraction": 0.7,
+      "embedded_review_fraction": 0.3
+    },
+    "weak_patterns_block_new_batches": false,
+    "review_only_long_batches_when": "learner_explicitly_selects_review_or_broad_regression_blocks_progress",
+    "learn_from_evidence_frequency": true
   },
   "mistake_patterns": [
     {
@@ -4456,8 +4485,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "S02 E11-E20 completed/corrected; S02 E21-E30 pending; S01 E41-E50 preserved.",
-  "next_suggested_action": "Complete the active 2026-10-03-S02 short cumulative review first; do not discard the preserved S01 E41-E50 continuation.",
+  "latest_study_state": "Learner explicitly changed the workflow to progression-first after extended review. S02 E21-E30 is deferred review; next teaching action is verbs 61-70.",
+  "next_suggested_action": "Start numbered verb batch 61-70; do not force another long review first.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -4689,6 +4718,13 @@
       "session_id": "2026-10-03-S02",
       "event": "s02_batch_2_checkpoint",
       "note": "E11-E20 corrected. M29 stehen/stellen created weak; M28 moved to stable; warten auf and Genitiv noun ending retest needed. V113 der Koffer introduced for E21-E30."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "progression_policy_updated",
+      "note": "Learner explicitly requested automatic progression after sufficient review. New default: max 3-5 sentence diagnostic when needed, then next verb batch; ~70% new material / 30% embedded review. S02 E21-E30 preserved as deferred review."
     }
   ],
   "exercise_results": [
@@ -5399,7 +5435,7 @@
   },
   "review_queue": [],
   "adaptive_learning": {
-    "policy_version": 1,
+    "policy_version": 2,
     "configuration_updated_on": "2026-10-03",
     "content_selection_sources": [
       "learner_selected_mode",
@@ -5485,7 +5521,27 @@
       "last_result",
       "evidence_ids"
     ],
-    "next_decision_reason_required": true
+    "next_decision_reason_required": true,
+    "progression_policy": {
+      "mode": "progression_first",
+      "diagnostic_before_new_batch_max_sentences": 5,
+      "diagnostic_can_be_skipped_when_recent_evidence_is_sufficient": true,
+      "new_material_fraction": 0.7,
+      "embedded_review_fraction": 0.3,
+      "single_weak_pattern_blocks_progress": false,
+      "explicit_request_for_new_verbs_overrides_review_default": true,
+      "long_review_trigger": [
+        "learner_selected_full_or_targeted_review",
+        "broad_recent_regression_blocks_comprehension_or_production"
+      ],
+      "deferred_review_policy": "preserve unfinished review prompts without forcing them before new material",
+      "evidence_adaptation": {
+        "repeated_independent_success": "reduce future review frequency",
+        "repeated_errors": "increase embedding frequency inside future new-material exercises",
+        "stable_patterns": "sample lightly",
+        "weak_or_improving_patterns": "embed naturally in new-material practice"
+      }
+    }
   },
   "feature_config_updated_on": "2026-10-03"
 }
