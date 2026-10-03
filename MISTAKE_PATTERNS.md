@@ -158,3 +158,17 @@ At skill checkpoints, update progress.skill_tracking and its review_queue as wel
 - M15, M16, M17 and M10 had fresh correct evidence.
 
 Latest live weak set: none. Continue spaced checks of improving patterns.
+
+
+## Fresh live evidence — 2026-10-03 — S02 Batch 2
+
+- **M29 weak — new live pattern:** E13 correctly used **stellen** for placement, but E14 used **stellt** for a stationary object. Correct contrast: **Ich stelle den Koffer neben die Tür. / Der Koffer steht neben der Tür.**
+- **M28 stable:** E11 and E15 again kept the finite verb second after fronted phrases. Post-error evidence now spans enough fresh uses across two sessions.
+- **M11 improving:** E12 got **des neuen** right but needs **Restaurants** with Genitiv -s.
+- **M16 improving:** E15 omitted **auf** in **warten auf den Lehrer**.
+- **M18 improving:** E11 still needs the standard **Ich fange ... an, etwas zu lesen** structure; E17 then correctly used **aufhören + zu schreiben**.
+- **M15 improving:** E16 correctly used the Dativ recipient **meiner Mutter**; the Autoschlüssel article error is separate.
+- **M19 stable:** E18 was fully correct.
+- **M06 stable:** E19 correctly used **hilft ihrer Schwester**.
+- **M24 improving:** E19 correctly used **das Handy suchen**.
+- **M17 improving:** E20 was fully correct with **um Milch zu kaufen**.
