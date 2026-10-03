@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T21:28:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -21,39 +21,38 @@ Updated: **2026-10-03T21:28:00+02:00**. Calendar timezone: **Europe/Berlin**.
 ## Latest study state and continuation
 
 - Latest actual study date: **2026-10-03**.
-- The learner selected **Start a new study day** after the earlier closure on the same calendar date.
-- Current active session: **2026-10-03-S02**.
-- A fresh short cumulative review **2026-10-03-S02-E01–E10** is pending learner answers.
-- Deliberate weak-pattern checks: **M13 Genitiv adjective ending** and **M28 verb-second after a fronted phrase**.
-- New vocabulary for this session: **V111 — die Jacke (die Jacken) = الجاكيت**.
-- The prior Session S01 Batch 5 **E41–E50 remains preserved and unattempted**; it was not overwritten.
+- Active session: **2026-10-03-S02**.
+- S02 E01–E10 completed and corrected.
+- M13 Genitiv adjective ending and M28 fronted-phrase V2 moved **weak -> improving**.
+- M27 Wo/Wohin and M19 indirect wo/weil verb-final order are now **stable**.
+- V111 **die Jacke** has two correct independent uses and is practicing.
+- S02 E11–E20 is pending; V112 **der Regenschirm (die Regenschirme)** is newly introduced.
+- S01 E41–E50 remains preserved and unattempted.
 
 ## Day and session state
 
 - Current/latest file: days/2026-10-03.md.
 - Status: **reopened**.
-- Individually logged live sessions: **2**.
-- Active live session ID: **2026-10-03-S02**.
-- Session S01 remains closed at 2026-10-03T20:28:05+02:00.
-- Session S02 started at **2026-10-03T21:28:00+02:00**.
-- Current work: S02 E01–E10 short cumulative review.
-- Preserved older pending work: S01 E41–E50.
+- Live sessions: **2**.
+- Active session ID: **2026-10-03-S02**.
+- S02 E01–E10 completed; S02 E11–E20 pending.
+- Older preserved pending work: S01 E41–E50.
 
 ## Strengths and review priorities
 
-**Weak / active:** Genitiv adjective ending and verb-second after a fronted phrase.
+**Weak / active:** none at the latest live checkpoint.
 
-**Improving:** darf/darfst; sitzen/setzen; liegen/legen/stellen with Wo/Wohin; anfangen conjugation; possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; suchen + Akk; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
+**Improving:** M13 Genitiv adjective ending; M28 fronted-phrase V2; anfangen/aufhören + zu; um ... zu; warten auf; Dat person + Akk thing; verb-specific Akk/Dat; capitalization; Genitiv article/noun endings; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
 
-**More stable:** wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
+**More stable:** M27 stationary Dativ vs destination Akkusativ; M19 final verb with weil/wo; wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
-Minor spelling issues remain low priority and separate. M10 anfangen conjugation is improving according to the latest live evidence.
+Minor spelling issues remain low priority and separate.
 
 ## Teaching profile and vocabulary
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**111 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**112 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -98,3 +97,12 @@ Existing day remains **closed**, Session S01 remains completed, and **E41–E50 
 - **V111 die Jacke — die Jacken** was introduced in the prompts and has no learner-attempt evidence yet.
 - S01 E41–E50 remain preserved as paused older work.
 - No grammar/mistake status was changed merely by creating the new prompts.
+
+
+## S02 Batch 1 checkpoint — 2026-10-03; time unavailable
+
+- E01–E10 completed and corrected.
+- M13/M28 are improving; M27/M19 are stable.
+- V111 die Jacke has two correct independent uses.
+- Next: S02 E11–E20.
+- Fresh item: **V112 — der Regenschirm (die Regenschirme)**.
