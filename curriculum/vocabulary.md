@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**109 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**110 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -114,7 +114,8 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V106 | der Termin | die Termine | الموعد | noun | practicing |
 | V107 | der Kühlschrank | die Kühlschränke | التلاجة / الثلاجة | noun | practicing |
 | V108 | der Schreibtisch | die Schreibtische | المكتب / ترابيزة المكتب | noun | practicing |
-| V109 | der Rucksack | die Rucksäcke | backpack | noun | introduced |
+| V109 | der Rucksack | die Rucksäcke | شنطة الظهر | noun | practicing |
+| V110 | der Brief | die Briefe | الخطاب / الرسالة الورقية | noun | introduced |
 
 ## Fresh live introductions
 
@@ -145,6 +146,15 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 - Source: **2026-10-03-S01, Full review, Batch 3**
 - No learner attempt recorded yet.
 
+### V110 — der Brief
+
+- Article / plural: **der Brief — die Briefe**
+- Egyptian Arabic: **الخطاب / الرسالة الورقية**
+- Natural example: **Der Brief ist im Rucksack.**
+- Introduced on: **2026-10-03**
+- Source: **2026-10-03-S01, Full review, Batch 5**
+- No learner attempt recorded yet.
+
 ## Supplemental material and counting
 
 - besuchen = يزور, typically besuchen + Akk.
@@ -169,4 +179,4 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 109). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 110). total_known remains null because no measured known-word total was established.
