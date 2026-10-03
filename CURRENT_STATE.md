@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T19:24:44+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T20:22:15+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -34,7 +34,11 @@ Updated: **2026-10-03T19:24:44+02:00**. Calendar timezone: **Europe/Berlin**.
 - M27 Wo/Wohin moved **weak → improving** after the correct pair **auf den Schreibtisch / auf dem Schreibtisch**.
 - M28 is a new weak pattern: after a fronted phrase such as **Nach der Arbeit**, the finite verb must stay in position 2.
 - Nested Genitiv showed one fresh correct use: **des Hauses des Chefs**.
-- Exact continuation point: Batch 4 E31–E40 is pending. Fresh vocabulary: **der Rucksack — die Rucksäcke**.
+- Batch 4 E31–E40 is answered and corrected.
+- M11 Genitiv article/noun endings and M12 nested Genitiv are now **improving**.
+- M13 Genitiv adjective ending remains **weak**, with one fresh correct use.
+- M28 verb-second after a fronted phrase remains **weak**, with one fresh correct retest.
+- Exact continuation point: Batch 5 E41–E50 is pending. New vocabulary: **der Brief — die Briefe**.
 
 ## Day and session state
 
@@ -47,7 +51,7 @@ Updated: **2026-10-03T19:24:44+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Strengths and review priorities
 
-**Weak / active:** Genitiv articles/noun endings, nested Genitiv, Genitiv adjective endings, and verb-second after a fronted phrase.
+**Weak / active:** Genitiv adjective ending and verb-second after a fronted phrase.
 
 **Improving:** darf/darfst; sitzen/setzen; liegen/legen/stellen with Wo/Wohin; anfangen conjugation; possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; suchen + Akk; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
 
@@ -59,7 +63,7 @@ Minor spelling issues remain low priority and separate. M10 anfangen conjugation
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**109 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**110 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
