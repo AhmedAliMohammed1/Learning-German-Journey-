@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**114 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**115 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -119,7 +119,8 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V111 | die Jacke | die Jacken | الجاكيت | noun | practicing |
 | V112 | der Regenschirm | die Regenschirme | المظلة / الشمسيّة | noun | practicing |
 | V113 | der Koffer | die Koffer | شنطة السفر / الحقيبة | noun | introduced |
-| V114 | das Paket | die Pakete | الطرد / الشحنة | noun | introduced |
+| V114 | das Paket | die Pakete | الطرد / الشحنة | noun | practicing |
+| V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | introduced |
 
 ## Fresh live introductions
 
@@ -195,6 +196,15 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 - Source: **2026-10-03-S02, numbered verbs 61–70 practice**
 - First learner attempt pending in E34.
 
+### V115 — die Geschichte
+
+- Article / plural: **die Geschichte — die Geschichten**
+- Egyptian Arabic: **القصة / الحكاية**
+- Natural example: **Ich erzähle meinem Bruder eine Geschichte.**
+- Introduced on: **2026-10-03**
+- Source: **2026-10-03-S02, verbs 61–70 mixed practice**
+- First learner attempt pending in E41.
+
 ## Supplemental material and counting
 
 - besuchen = يزور, typically besuchen + Akk.
@@ -219,4 +229,4 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 114). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 115). total_known remains null because no measured known-word total was established.
