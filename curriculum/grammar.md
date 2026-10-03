@@ -223,3 +223,13 @@ After in der Nähe:
 The learner reports these examples as already practiced, but individual original answers, hints, attempt counts, and exact timestamps were not supplied. They are historical reference evidence, not scored exercise transcripts.
 
 Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Genitiv** practice, then paused to set up the repository. Offer startup choices before resuming that review. Keep new practical vocabulary in each batch.
+
+
+## Live grammar checkpoint — S02 Batch 1, 2026-10-03
+
+- Genitiv adjective ending was correct again in **des öffentlichen Parks**: M13 weak -> improving.
+- Verb-second after a fronted phrase was correct again: M28 weak -> improving.
+- The location/destination contrast now has enough live evidence for M27 stable.
+- Indirect **wo/weil** final-verb order now has enough live evidence for M19 stable.
+- **anfangen + zu** still needs work: **Ich fange ... an, etwas zu schreiben/lesen.**
+- **treffen + Akk** needs maintenance: **meinen Freund treffen**.
