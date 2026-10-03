@@ -59,7 +59,7 @@ Minor spelling issues remain low priority and separate. M10 anfangen conjugation
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**108 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin** is practicing; V107 **der Kühlschrank** is practicing; fresh V108 **der Schreibtisch (die Schreibtische)** is introduced for Batch 3.
+**109 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
