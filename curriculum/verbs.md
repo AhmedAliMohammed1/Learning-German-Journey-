@@ -95,7 +95,7 @@
 
 Keep the numbering exactly as shown in progress.json.verbs.items. Entry 31 is deliberately **möchten**, as in the learner's original sequence: technically a polite Konjunktiv-II form of mögen, not a separate lexical infinitive. Preserve its numbered position rather than renumbering the course.
 
-**erklären** and **besuchen** are supplemental vocabulary, outside the numbered 60. **mit jemandem sprechen** is a supplemental construction. **vergessen** was encountered in earlier object-pronoun notes and is also outside this numbered list. Supplemental introductions do not change 60 / 100.
+**erklären** and **besuchen** are supplemental vocabulary outside the numbered course. **mit jemandem sprechen** is a supplemental construction. **vergessen** is also outside the numbered list. Supplemental introductions do not change the current numbered total.
 
 ## Contrasts and reference examples already studied
 
@@ -113,7 +113,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **81–90**.
+Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **81–90**. First, 71–80 need their initial practice batch E51–E60.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -136,3 +136,8 @@ S02 E31–E40: all ten new verbs were used correctly independently on first prac
 ## Progression update — 71–80
 
 Introduced live on 2026-10-03 after the second 61–70 mixed batch. Progression-first policy remains active. First practice is S02 E51–E60 with older grammar/mistake patterns embedded inside the new-verb sentences.
+
+
+## End-of-day continuation after 71–80 introduction
+
+The learner ended 2026-10-03 after verbs 71–80 were introduced but before their first practice. Keep 71–80 at **introduced**, not practicing. Resume with S02 E51–E60 next session. Do not force older deferred review before this batch.
