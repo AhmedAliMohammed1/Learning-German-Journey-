@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**106 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**107 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -112,6 +112,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V104 | in der Nähe + Genitiv | — | قريب من؛ صيغة Genitiv | expression | introduced |
 | V105 | in der Nähe von + Dativ | — | قريب من؛ بديل von + Dativ | expression | introduced |
 | V106 | der Termin | die Termine | الموعد | noun | practicing |
+| V107 | der Kühlschrank | die Kühlschränke | التلاجة / الثلاجة | noun | introduced |
 
 ## Fresh live introductions
 
@@ -123,6 +124,15 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 - Introduced on: **2026-10-03**
 - Source: **2026-10-03-S01, Full review, Batch 1**
 - Exercise evidence: **2026-10-03-S01-E09** — learner independently used **einen Termin** correctly. Status: practicing.
+
+### V107 — der Kühlschrank
+
+- Article / plural: **der Kühlschrank — die Kühlschränke**
+- Egyptian Arabic: **التلاجة / الثلاجة**
+- Natural example: **Die Milch ist im Kühlschrank.**
+- Introduced on: **2026-10-03**
+- Source: **2026-10-03-S01, Full review, next batch**
+- No learner attempt recorded yet.
 
 ## Supplemental material and counting
 
@@ -148,4 +158,4 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 106). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 107). total_known remains null because no measured known-word total was established.
