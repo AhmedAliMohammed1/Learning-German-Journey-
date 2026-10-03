@@ -4,7 +4,7 @@
 
 - **1–50:** reviewed multiple times, generally retained; group baseline **strong**, with ongoing cumulative practice and individual weak patterns still tracked.
 - **51–60:** introduced on 2026-10-03, recent and **practicing**.
-- **61–70:** introduced on 2026-10-03 under the progression-first policy; currently **introduced / beginning practice**.
+- **61–70:** introduced on 2026-10-03 under the progression-first policy; first independent batch completed successfully; currently **practicing**.
 - Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
 | ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
@@ -69,16 +69,16 @@
 | 58 | aufhören | يتوقف | practicing | separable; + zu + infinitive |
 | 59 | warten | ينتظر | practicing | warten auf + Akk |
 | 60 | treffen | يقابل | practicing | + Akk |
-| 61 | sagen | يقول | introduced | jemandem etwas sagen; Dat person + content/object |
-| 62 | erzählen | يحكي / يروي | introduced | jemandem etwas erzählen; Dat person + content |
-| 63 | anrufen | يتصل هاتفيًا | introduced | separable; jemanden anrufen + Akk: Ich rufe meine Mutter an. |
-| 64 | schicken | يرسل | introduced | Dat person + Akk thing: Ich schicke meinem Freund ein Paket. |
-| 65 | tragen | يحمل / يرتدي | introduced | + Akk; du trägst; er/sie trägt |
-| 66 | waschen | يغسل | introduced | + Akk; du wäschst; er/sie wäscht |
-| 67 | putzen | ينظف | introduced | + Akk; das Fenster putzen / die Zähne putzen |
-| 68 | laufen | يمشي / يجري | introduced | du läufst; er/sie läuft |
-| 69 | spielen | يلعب | introduced | Fußball spielen; mit + Dat |
-| 70 | reisen | يسافر | introduced | nach München reisen |
+| 61 | sagen | يقول | practicing | jemandem etwas sagen; Dat person + content/object |
+| 62 | erzählen | يحكي / يروي | practicing | jemandem etwas erzählen; Dat person + content |
+| 63 | anrufen | يتصل هاتفيًا | practicing | separable; jemanden anrufen + Akk: Ich rufe meine Mutter an. |
+| 64 | schicken | يرسل | practicing | Dat person + Akk thing: Ich schicke meinem Freund ein Paket. |
+| 65 | tragen | يحمل / يرتدي | practicing | + Akk; du trägst; er/sie trägt |
+| 66 | waschen | يغسل | practicing | + Akk; du wäschst; er/sie wäscht |
+| 67 | putzen | ينظف | practicing | + Akk; das Fenster putzen / die Zähne putzen |
+| 68 | laufen | يمشي / يجري | practicing | du läufst; er/sie läuft |
+| 69 | spielen | يلعب | practicing | Fußball spielen; mit + Dat |
+| 70 | reisen | يسافر | practicing | nach München reisen |
 
 ## Counting and identity rules
 
@@ -115,3 +115,8 @@ For each actual attempt, save date, session/exercise IDs, hints, errors, and ind
 ## Progression update — 61–70
 
 Introduced live on 2026-10-03 after the learner explicitly requested new material instead of continued long review. No mastery is claimed yet. First active practice is S02 E31–E40. Weak/improving older patterns should be embedded inside these new-verb exercises rather than used to block progression.
+
+
+## First practice result — 61–70
+
+S02 E31–E40: all ten new verbs were used correctly independently on first practice. Minor errors were outside the verb choice/construction (capitalization of **Arbeit** and article specificity **ein Paket**). Keep status **practicing**; one batch is not mastery. Use one further 70/30 mixed batch, then progress to 71–80 if performance remains strong.
