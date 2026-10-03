@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-03T22:38:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "reopened",
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
-  "last_verified_study_at": null,
-  "active_topic": "numbered_verbs_61_70_practice",
-  "next_action": "Learner studies verbs 61-70 and answers S02 E31-E40. Use weak/improving patterns inside the new-verb practice. Deferred review E21-E30 and S01 E41-E50 stay preserved.",
+  "last_verified_study_at": "2026-10-03T22:38:00+02:00",
+  "active_topic": "verbs_61_70_mixed_practice",
+  "next_action": "Answer 2026-10-03-S02-E41 through E50: 70% new verbs, 30% embedded review. After this batch, evaluate moving to 71-80 rather than starting another long review cycle.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -186,94 +186,104 @@
       "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
     },
     {
-      "id": "2026-10-03-S02-E31",
-      "prompt_ar": "أنا بقول لأخويا الإجابة.",
+      "id": "2026-10-03-S02-E41",
+      "prompt_ar": "أنا بحكي لأخويا قصة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E32",
-      "prompt_ar": "أنا بحكي لأختي حاجة.",
+      "id": "2026-10-03-S02-E42",
+      "prompt_ar": "بعد الشغل، أختي بتتصل بصاحبتها.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E33",
-      "prompt_ar": "بعد الشغل، أنا بتصل بأمي.",
+      "id": "2026-10-03-S02-E43",
+      "prompt_ar": "أنا ببعت لأمي صورة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E34",
-      "prompt_ar": "أنا ببعت لصاحبي طرد.",
+      "id": "2026-10-03-S02-E44",
+      "prompt_ar": "أخويا لابس قميص جديد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E35",
-      "prompt_ar": "أنا لابس الجاكيت.",
+      "id": "2026-10-03-S02-E45",
+      "prompt_ar": "هي بتغسل إيديها قبل الأكل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E36",
-      "prompt_ar": "أنا بغسل الجاكيت.",
+      "id": "2026-10-03-S02-E46",
+      "prompt_ar": "أنا بنضف المكتب بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E37",
-      "prompt_ar": "أنا بنضف الشباك.",
+      "id": "2026-10-03-S02-E47",
+      "prompt_ar": "إحنا بنلعب مع أصحابنا في الحديقة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "new_material"
     },
     {
-      "id": "2026-10-03-S02-E38",
-      "prompt_ar": "أنا بجري في الحديقة كل يوم.",
+      "id": "2026-10-03-S02-E48",
+      "prompt_ar": "شنطة السفر موجودة جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "embedded_review"
     },
     {
-      "id": "2026-10-03-S02-E39",
-      "prompt_ar": "أخويا بيلعب مع صاحبه في الحديقة.",
+      "id": "2026-10-03-S02-E49",
+      "prompt_ar": "أنا بستنى صاحبي قدام محطة القطر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "embedded_review"
     },
     {
-      "id": "2026-10-03-S02-E40",
-      "prompt_ar": "أنا بسافر ميونخ بكرة.",
+      "id": "2026-10-03-S02-E50",
+      "prompt_ar": "أنا ببدأ أقرأ الساعة تمانية.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "activity": "numbered_verbs_61_70",
-      "priority": "active_new_material"
+      "activity": "verbs_61_70_mixed_practice",
+      "priority": "active_new_material",
+      "mix": "embedded_review"
     }
   ],
   "completed_exercise_ids": [
@@ -336,7 +346,17 @@
     "2026-10-03-S02-E17",
     "2026-10-03-S02-E18",
     "2026-10-03-S02-E19",
-    "2026-10-03-S02-E20"
+    "2026-10-03-S02-E20",
+    "2026-10-03-S02-E31",
+    "2026-10-03-S02-E32",
+    "2026-10-03-S02-E33",
+    "2026-10-03-S02-E34",
+    "2026-10-03-S02-E35",
+    "2026-10-03-S02-E36",
+    "2026-10-03-S02-E37",
+    "2026-10-03-S02-E38",
+    "2026-10-03-S02-E39",
+    "2026-10-03-S02-E40"
   ],
   "verbs": {
     "introduced_total": 70,
@@ -367,11 +387,12 @@
         "from": 61,
         "to": 70,
         "count": 10,
-        "status": "introduced",
-        "recency": "new",
+        "status": "practicing",
+        "recency": "recent",
         "introduced_on": "2026-10-03",
         "assessment_basis": "live introduction after explicit learner progression request",
-        "historical_review_count": null
+        "historical_review_count": null,
+        "last_reviewed": "2026-10-03"
       }
     ],
     "items": [
@@ -1640,15 +1661,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E31",
+            "independent": true,
+            "correct": true,
+            "note": "sagen + Dativ person + content correct."
+          }
+        ],
         "meaning_ar": "يقول",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "jemandem etwas sagen; Dat person + content/object",
         "entry_kind": "infinitive"
@@ -1659,15 +1690,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E32",
+            "independent": true,
+            "correct": true,
+            "note": "erzählen + Dativ person correct."
+          }
+        ],
         "meaning_ar": "يحكي / يروي",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "jemandem etwas erzählen; often Dat person + content",
         "entry_kind": "infinitive"
@@ -1678,15 +1719,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E33",
+            "independent": true,
+            "correct": true,
+            "note": "anrufen + Akk and separable word order correct; Arbeit must be capitalized."
+          }
+        ],
         "meaning_ar": "يتصل هاتفيًا",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "separable; jemanden anrufen + Akk: Ich rufe meine Mutter an.",
         "entry_kind": "infinitive"
@@ -1697,15 +1748,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E34",
+            "independent": true,
+            "correct": true,
+            "note": "schicken + Dat person + Akk thing correct; prompt says an unspecified package, so ein Paket is more accurate."
+          }
+        ],
         "meaning_ar": "يرسل",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "Dat person + Akk thing: Ich schicke meinem Freund ein Paket.",
         "entry_kind": "infinitive"
@@ -1716,15 +1777,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E35",
+            "independent": true,
+            "correct": true,
+            "note": "tragen + Akk correct."
+          }
+        ],
         "meaning_ar": "يحمل / يرتدي",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "Akk; du trägst, er/sie trägt",
         "entry_kind": "infinitive"
@@ -1735,15 +1806,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E36",
+            "independent": true,
+            "correct": true,
+            "note": "waschen + Akk correct."
+          }
+        ],
         "meaning_ar": "يغسل",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "Akk; du wäschst, er/sie wäscht",
         "entry_kind": "infinitive"
@@ -1754,15 +1835,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E37",
+            "independent": true,
+            "correct": true,
+            "note": "putzen + Akk correct."
+          }
+        ],
         "meaning_ar": "ينظف",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "Akk; e.g. das Fenster putzen / die Zähne putzen",
         "entry_kind": "infinitive"
@@ -1773,15 +1864,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E38",
+            "independent": true,
+            "correct": true,
+            "note": "laufen correctly used for running in context."
+          }
+        ],
         "meaning_ar": "يمشي / يجري",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "du läufst, er/sie läuft; context decides walk/run",
         "entry_kind": "infinitive"
@@ -1792,15 +1893,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E39",
+            "independent": true,
+            "correct": true,
+            "note": "spielen + mit + Dativ correct."
+          }
+        ],
         "meaning_ar": "يلعب",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "e.g. Fußball spielen; mit + Dat for playing with someone",
         "entry_kind": "infinitive"
@@ -1811,15 +1922,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E40",
+            "independent": true,
+            "correct": true,
+            "note": "reisen + nach + city correct."
+          }
+        ],
         "meaning_ar": "يسافر",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "e.g. nach München reisen",
         "entry_kind": "infinitive"
@@ -2007,7 +2128,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 114,
+    "registered_entries_count": 115,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3781,11 +3902,38 @@
         "type": "noun",
         "article": "das",
         "plural": "die Pakete",
+        "status": "practicing",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": "2026-10-03",
+        "source": "2026-10-03-S02 numbered verbs 61-70 practice",
+        "usage_example": "Ich schicke meinem Freund ein Paket.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T22:38:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E34",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct lexical use of Paket; article specificity should be ein Paket for the prompt."
+          }
+        ]
+      },
+      {
+        "id": "V115",
+        "german": "die Geschichte",
+        "meaning_ar": "القصة / الحكاية",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Geschichten",
         "status": "introduced",
         "introduced_on": "2026-10-03",
         "last_reviewed": null,
-        "source": "2026-10-03-S02 numbered verbs 61-70 practice",
-        "usage_example": "Ich schicke meinem Freund ein Paket.",
+        "source": "2026-10-03-S02 verbs 61-70 mixed practice",
+        "usage_example": "Ich erzähle meiner Schwester eine Geschichte.",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -4496,7 +4644,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
+      "recorded_errors": 4,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
@@ -4525,6 +4673,14 @@
           "exercise_id": "2026-10-03-S02-E08",
           "independent": true,
           "note": "Ihrem should be ihrem."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T22:38:00+02:00",
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E33",
+          "independent": true,
+          "note": "Wrote arbeit; noun Arbeit must be capitalized."
         }
       ]
     },
@@ -4691,8 +4847,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 4,
-      "independent_correct_since_last_error": 4,
+      "independent_correct": 5,
+      "independent_correct_since_last_error": 5,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02"
@@ -4714,6 +4870,14 @@
           "exercise_id": "2026-10-03-S02-E15",
           "independent": true,
           "note": "V2 correct again after Nach der Arbeit; enough post-error evidence across two sessions -> stable."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T22:38:00+02:00",
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E33",
+          "independent": true,
+          "note": "Correct V2 after Nach der Arbeit with separable anrufen."
         }
       ]
     },
@@ -4791,8 +4955,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "Numbered verbs 61-70 introduced under progression-first policy; first practice batch S02 E31-E40 pending.",
-  "next_suggested_action": "Practice newly introduced verbs 61-70; do not return to a long review cycle.",
+  "latest_study_state": "First independent practice of verbs 61-70 completed strongly; all ten verbs used correctly. Mixed E41-E50 now pending.",
+  "next_suggested_action": "Complete one mixed practice batch for verbs 61-70, then progress toward 71-80 if performance remains strong.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -5038,6 +5202,13 @@
       "session_id": "2026-10-03-S02",
       "event": "verbs_61_70_introduced",
       "note": "Introduced numbered verbs 61-70 under progression-first policy: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen. Added V114 das Paket. Created active practice E31-E40."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "session_id": "2026-10-03-S02",
+      "event": "verbs_61_70_first_practice_checkpoint",
+      "note": "E31-E40 completed independently. All ten numbered verbs 61-70 were used correctly; minor issues were Arbeit capitalization and ein/das Paket specificity. Group moved introduced -> practicing. V115 die Geschichte introduced for the next 70/30 mixed batch."
     }
   ],
   "exercise_results": [
@@ -5510,6 +5681,126 @@
       "hint_used": false,
       "independent": true,
       "note": "um ... zu construction is fully correct."
+    },
+    {
+      "id": "2026-10-03-S02-E31",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich sage meinem Bruder die Antwort",
+      "correction": "Ich sage meinem Bruder die Antwort.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "sagen + Dativ person + content correct."
+    },
+    {
+      "id": "2026-10-03-S02-E32",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich erzähle meiner Schwester etwas",
+      "correction": "Ich erzähle meiner Schwester etwas.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "erzählen + Dativ person correct."
+    },
+    {
+      "id": "2026-10-03-S02-E33",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Nach der arbeit rufe ich meine Mutter an",
+      "correction": "Nach der Arbeit rufe ich meine Mutter an.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "anrufen + Akk and separable word order correct; Arbeit must be capitalized."
+    },
+    {
+      "id": "2026-10-03-S02-E34",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich schicke meinem Freund das Paket",
+      "correction": "Ich schicke meinem Freund ein Paket.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "schicken + Dat person + Akk thing correct; prompt says an unspecified package, so ein Paket is more accurate."
+    },
+    {
+      "id": "2026-10-03-S02-E35",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich trage die Jacke",
+      "correction": "Ich trage die Jacke.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "tragen + Akk correct."
+    },
+    {
+      "id": "2026-10-03-S02-E36",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich wasche die Jacke",
+      "correction": "Ich wasche die Jacke.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "waschen + Akk correct."
+    },
+    {
+      "id": "2026-10-03-S02-E37",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich putze das Fenster",
+      "correction": "Ich putze das Fenster.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "putzen + Akk correct."
+    },
+    {
+      "id": "2026-10-03-S02-E38",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich laufe jeden Tag im Park",
+      "correction": "Ich laufe jeden Tag im Park.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "laufen correctly used for running in context."
+    },
+    {
+      "id": "2026-10-03-S02-E39",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Mein Bruder spielt mit seinem Freund im Park",
+      "correction": "Mein Bruder spielt mit seinem Freund im Park.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "spielen + mit + Dativ correct."
+    },
+    {
+      "id": "2026-10-03-S02-E40",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:38:00+02:00",
+      "learner_answer": "Ich reise morgen nach München",
+      "correction": "Ich reise morgen nach München.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "reisen + nach + city correct."
     }
   ],
   "skill_tracking": {
@@ -5857,5 +6148,5 @@
     }
   },
   "feature_config_updated_on": "2026-10-03",
-  "verbs_61_70_status": "introduced"
+  "verbs_61_70_status": "practicing"
 }
