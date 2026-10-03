@@ -172,3 +172,11 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M06 stable:** E19 correctly used **hilft ihrer Schwester**.
 - **M24 improving:** E19 correctly used **das Handy suchen**.
 - **M17 improving:** E20 was fully correct with **um Milch zu kaufen**.
+
+
+## Fresh live evidence — 2026-10-03 — verbs 61–70 first practice
+
+- **M28 stable:** E33 correctly used verb-second after **Nach der Arbeit** with separable **anrufen**.
+- **M21 improving:** E33 wrote **arbeit**; nouns remain capitalized: **Arbeit**.
+- No new weak grammar pattern was created from E31–E40.
+- All numbered verbs 61–70 were independently correct in their first practice. This supports **practicing**, not mastery.
