@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T18:27:21+02:00",
+  "last_updated_at": "2026-10-03T18:49:04+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,76 +21,76 @@
   "day_status": "open",
   "current_session_id": "2026-10-03-S01",
   "sessions_recorded": 1,
-  "last_verified_study_at": "2026-10-03T18:27:21+02:00",
+  "last_verified_study_at": "2026-10-03T18:49:04+02:00",
   "active_topic": "full_review_verbs_1_60_genitiv",
-  "next_action": "Await learner answers for 2026-10-03-S01-E11 through E20.",
+  "next_action": "Await learner answers for 2026-10-03-S01-E21 through E30.",
   "pending_exercises": [
     {
-      "id": "2026-10-03-S01-E11",
-      "prompt_ar": "مسموح لأخويا يقفل الباب الساعة عشرة.",
+      "id": "2026-10-03-S01-E21",
+      "prompt_ar": "أخويا مسموح له يفتح الشباك بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E12",
-      "prompt_ar": "موبايل أختي موجود على ترابيزة المدير.",
+      "id": "2026-10-03-S01-E22",
+      "prompt_ar": "الكتاب بتاع أختي موجود على مكتب المدير.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E13",
-      "prompt_ar": "أنا بحط اللبن في التلاجة.",
+      "id": "2026-10-03-S01-E23",
+      "prompt_ar": "أنا بحط الموبايل على المكتب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E14",
-      "prompt_ar": "الزجاجة واقفة على الترابيزة.",
+      "id": "2026-10-03-S01-E24",
+      "prompt_ar": "الموبايل موجود على المكتب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E15",
-      "prompt_ar": "أنا بحط الزجاجة على الترابيزة.",
+      "id": "2026-10-03-S01-E25",
+      "prompt_ar": "المطعم قريب من بيت المدير.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E16",
-      "prompt_ar": "إحنا بنقابل المدرس بالقرب من بيت صاحبتنا.",
+      "id": "2026-10-03-S01-E26",
+      "prompt_ar": "محطة الباص قريبة من الحديقة العامة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E17",
-      "prompt_ar": "أنا بتوقف عن الشغل الساعة ستة.",
+      "id": "2026-10-03-S01-E27",
+      "prompt_ar": "أنا عارف المدرس بيشتغل فين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E18",
-      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "id": "2026-10-03-S01-E28",
+      "prompt_ar": "أنا بتوقف عن القراءة الساعة 11.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E19",
-      "prompt_ar": "أنا بروح السوبر ماركت علشان أجيب مية.",
+      "id": "2026-10-03-S01-E29",
+      "prompt_ar": "بعد الشغل، أنا بقابل صاحبي قدام محطة القطر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E20",
-      "prompt_ar": "هي بتقفل الشباك لأن الجو بارد.",
+      "id": "2026-10-03-S01-E30",
+      "prompt_ar": "أنا بشتري قهوة علشان أشربها في الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -106,7 +106,17 @@
     "2026-10-03-S01-E07",
     "2026-10-03-S01-E08",
     "2026-10-03-S01-E09",
-    "2026-10-03-S01-E10"
+    "2026-10-03-S01-E10",
+    "2026-10-03-S01-E11",
+    "2026-10-03-S01-E12",
+    "2026-10-03-S01-E13",
+    "2026-10-03-S01-E14",
+    "2026-10-03-S01-E15",
+    "2026-10-03-S01-E16",
+    "2026-10-03-S01-E17",
+    "2026-10-03-S01-E18",
+    "2026-10-03-S01-E19",
+    "2026-10-03-S01-E20"
   ],
   "verbs": {
     "introduced_total": 60,
@@ -201,10 +211,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E19",
+            "independent": true,
+            "correct": true,
+            "note": "gehen correctly used."
+          }
+        ],
         "meaning_ar": "يذهب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -543,10 +563,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E18",
+            "independent": true,
+            "correct": false,
+            "note": "wissen correct, but indirect wo clause word order incorrect."
+          }
+        ],
         "meaning_ar": "يعرف معلومة",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -791,10 +821,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E11",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent use of darf with final infinitive."
+          }
+        ],
         "meaning_ar": "يُسمح له",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -848,10 +888,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E19",
+            "independent": true,
+            "correct": true,
+            "note": "holen correctly used in um ... zu."
+          }
+        ],
         "meaning_ar": "يذهب ليحضر شيئًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -1076,10 +1126,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E14",
+            "independent": true,
+            "correct": true,
+            "note": "stehen correctly used for stationary upright bottle."
+          }
+        ],
         "meaning_ar": "يكون واقفًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -1095,10 +1155,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E12",
+            "independent": true,
+            "correct": false,
+            "note": "Intended liegen, but wrote lieft; form incorrect."
+          }
+        ],
         "meaning_ar": "يكون موضوعًا / مستلقيًا",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1133,10 +1203,29 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E13",
+            "independent": true,
+            "correct": true,
+            "note": "stellen correctly chosen for placing milk."
+          },
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E15",
+            "independent": true,
+            "correct": true,
+            "note": "stellen correctly used with destination."
+          }
+        ],
         "meaning_ar": "يضع شيئًا قائمًا",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1190,10 +1279,29 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E11",
+            "independent": true,
+            "correct": true,
+            "note": "schließen correctly placed as final infinitive."
+          },
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E20",
+            "independent": true,
+            "correct": true,
+            "note": "schließt correctly conjugated."
+          }
+        ],
         "meaning_ar": "يغلق",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1228,10 +1336,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E17",
+            "independent": true,
+            "correct": true,
+            "note": "aufhören + zu arbeiten structure correct; capitalization only."
+          }
+        ],
         "meaning_ar": "يتوقف",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1266,10 +1384,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-03",
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E16",
+            "independent": true,
+            "correct": true,
+            "note": "treffen + den Lehrer correct."
+          }
+        ],
         "meaning_ar": "يقابل",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1459,7 +1587,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 107,
+    "registered_entries_count": 108,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3082,11 +3210,38 @@
         "type": "noun",
         "article": "der",
         "plural": "die Kühlschränke",
+        "status": "practicing",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": "2026-10-03",
+        "source": "2026-10-03-S01 full review next batch",
+        "usage_example": "Die Milch ist im Kühlschrank.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:49:04+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E13",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct lexical use of Kühlschrank; case/preposition around it was wrong."
+          }
+        ]
+      },
+      {
+        "id": "V108",
+        "german": "der Schreibtisch",
+        "meaning_ar": "المكتب / ترابيزة المكتب",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Schreibtische",
         "status": "introduced",
         "introduced_on": "2026-10-03",
         "last_reviewed": null,
-        "source": "2026-10-03-S01 full review next batch",
-        "usage_example": "Die Milch ist im Kühlschrank.",
+        "source": "2026-10-03-S01 full review batch 3",
+        "usage_example": "Das Handy liegt auf dem Schreibtisch.",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -3116,7 +3271,7 @@
     {
       "id": "M01",
       "topic": "darf_darfst",
-      "status": "weak",
+      "status": "improving",
       "title": "darf vs darfst; incorrect darft",
       "reference_example": "ich/er/sie/es darf; du darfst; ihr dürft",
       "severity": "grammar_or_usage",
@@ -3125,8 +3280,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3138,6 +3293,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E01 correct darfst; window article/number error unrelated."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E11",
+          "independent": true,
+          "note": "E11 correctly used Mein Bruder darf ... schließen; second fresh independent correct use."
         }
       ]
     },
@@ -3364,7 +3527,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
+      "recorded_errors": 5,
       "independent_correct": 1,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [
@@ -3378,6 +3541,22 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "Genitiv ownership/endings wrong in E02/E03/E04; des Parks correct in E10."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E12",
+          "independent": true,
+          "note": "E12 owner phrase needs des Chefs; E16 final possessor phrase incorrect although des Hauses was correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E16",
+          "independent": true,
+          "note": "E12 owner phrase needs des Chefs; E16 final possessor phrase incorrect although des Hauses was correct."
         }
       ]
     },
@@ -3392,7 +3571,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
+      "recorded_errors": 2,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
@@ -3404,6 +3583,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E04 nested Genitiv needs des Eingangs der Schule."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E16",
+          "independent": true,
+          "note": "E16 partially formed nested Genitiv: des Hauses correct, possessor unserer Freundin incorrect."
         }
       ]
     },
@@ -3509,11 +3696,22 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E19",
+          "independent": true,
+          "note": "E19 independently formed um Wasser zu holen correctly; capitalization error unrelated."
+        }
+      ]
     },
     {
       "id": "M18",
@@ -3527,9 +3725,11 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
       "last_checked": "2026-10-03",
       "evidence": [
         {
@@ -3538,6 +3738,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E07 omitted zu before lesen."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E17",
+          "independent": true,
+          "note": "E17 independently formed aufhören + zu arbeiten correctly; only capitalization error."
         }
       ]
     },
@@ -3552,12 +3760,31 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
-      "independent_correct": 0,
+      "recorded_errors": 1,
+      "independent_correct": 1,
       "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E18",
+          "independent": true,
+          "note": "E18 indirect wo word order wrong; E20 weil clause verb-final order correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E20",
+          "independent": true,
+          "note": "E18 indirect wo word order wrong; E20 weil clause verb-final order correct."
+        }
+      ]
     },
     {
       "id": "M20",
@@ -3588,12 +3815,29 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 2,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E17",
+          "independent": true,
+          "note": "E17 wrote Arbeiten and E19 wasser; nouns uppercase, ordinary infinitive lowercase."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E19",
+          "independent": true,
+          "note": "E17 wrote Arbeiten and E19 wasser; nouns uppercase, ordinary infinitive lowercase."
+        }
+      ]
     },
     {
       "id": "M22",
@@ -3692,6 +3936,43 @@
       "successful_session_ids": [],
       "last_checked": null,
       "evidence": []
+    },
+    {
+      "id": "M27",
+      "topic": "two_way_preposition_location_destination",
+      "status": "weak",
+      "title": "Two-way prepositions: stationary Dativ vs destination Akkusativ",
+      "reference_example": "Die Milch ist im Kühlschrank. Ich stelle die Milch in den Kühlschrank.",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "fresh_live_evidence",
+      "assessment_date": "2026-10-03",
+      "historical_error_count": null,
+      "recorded_errors": 1,
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [
+        "2026-10-03-S01"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E13",
+          "independent": true,
+          "note": "Used im Kühlschrank with stellen; destination requires in den Kühlschrank."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": "2026-10-03T18:49:04+02:00",
+          "session_id": "2026-10-03-S01",
+          "exercise_id": "2026-10-03-S01-E15",
+          "independent": true,
+          "note": "Correctly used auf den Tisch with stellen."
+        }
+      ]
     }
   ],
   "workflow": {
@@ -3724,8 +4005,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03-S01 active; Batch 1 completed and corrected; Batch 2 E11-E20 pending.",
-  "next_suggested_action": "Answer 2026-10-03-S01-E11 through E20 in full German sentences.",
+  "latest_study_state": "2026-10-03-S01 active; Batch 2 E11-E20 answered and corrected; Batch 3 E21-E30 pending.",
+  "next_suggested_action": "Answer 2026-10-03-S01-E21 through E30 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -3858,10 +4139,10 @@
     }
   ],
   "active_mistake_pattern_ids": [
-    "M01",
     "M11",
     "M12",
-    "M13"
+    "M13",
+    "M27"
   ],
   "study_history": [
     {
@@ -3918,6 +4199,13 @@
       "session_id": "2026-10-03-S01",
       "event": "batch_1_checkpoint",
       "note": "E01-E10 answered independently and corrected. Main active weakness remains Genitiv structure."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "session_id": "2026-10-03-S01",
+      "event": "batch_2_checkpoint",
+      "note": "E11-E20 answered independently. M01 weak->improving. Added M27 for stationary Dativ vs destination Akkusativ. V107 Kühlschrank practiced; V108 Schreibtisch introduced for Batch 3."
     }
   ],
   "exercise_results": [
@@ -4030,6 +4318,126 @@
       "result": "needs_correction",
       "hint_used": false,
       "independent": true
+    },
+    {
+      "id": "2026-10-03-S01-E11",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Mein Bruder darf um sechs Uhm die Tür schließen",
+      "correction": "Mein Bruder darf um zehn Uhr die Tür schließen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "dürfen/modal structure correct; prompt asked ten, not six; Uhr spelling."
+    },
+    {
+      "id": "2026-10-03-S01-E12",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Das Hendy meiner Schwester lieft auf dem Tisch meins Chefs",
+      "correction": "Das Handy meiner Schwester liegt auf dem Tisch des Chefs.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "meiner Schwester is correct Genitiv; Handy/liegt spelling and des Chefs need correction."
+    },
+    {
+      "id": "2026-10-03-S01-E13",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Ich stelle die Milch im Kühlschrank",
+      "correction": "Ich stelle die Milch in den Kühlschrank.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "stellen is correct; movement/destination requires in + Akkusativ: in den Kühlschrank."
+    },
+    {
+      "id": "2026-10-03-S01-E14",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Die Flasche steht auf dem Tisch",
+      "correction": "Die Flasche steht auf dem Tisch.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "stehen + stationary location with Dativ correct."
+    },
+    {
+      "id": "2026-10-03-S01-E15",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Ich stelle die Flasche auf den Tisch",
+      "correction": "Ich stelle die Flasche auf den Tisch.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "stellen + destination with Akkusativ correct."
+    },
+    {
+      "id": "2026-10-03-S01-E16",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Wir treffen den Lehrer in der Nähe des Hauses meins Freund",
+      "correction": "Wir treffen den Lehrer in der Nähe des Hauses unserer Freundin.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "treffen + Akk and des Hauses correct; owner must be unserer Freundin for 'our female friend'."
+    },
+    {
+      "id": "2026-10-03-S01-E17",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Ich höre um sechs Uhr auf zu Arbeiten",
+      "correction": "Ich höre um sechs Uhr auf zu arbeiten.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "aufhören + zu + infinitive correct; arbeiten is lowercase."
+    },
+    {
+      "id": "2026-10-03-S01-E18",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Ich weiß wo wohnt meinen Freund",
+      "correction": "Ich weiß, wo mein Freund wohnt.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Indirect wo clause: nominative subject mein Freund and finite verb at the end."
+    },
+    {
+      "id": "2026-10-03-S01-E19",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Ich gehe zum Supermarkt, um wasser zu holen",
+      "correction": "Ich gehe zum Supermarkt, um Wasser zu holen.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "um ... zu construction correct; Wasser must be capitalized."
+    },
+    {
+      "id": "2026-10-03-S01-E20",
+      "session_id": "2026-10-03-S01",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:49:04+02:00",
+      "learner_answer": "Sie schließt das Fenster weil das Wetter kalt ist",
+      "correction": "Sie schließt das Fenster, weil das Wetter kalt ist.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "weil-clause word order correct; comma needed."
     }
   ]
 }
