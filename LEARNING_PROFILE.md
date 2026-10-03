@@ -7,14 +7,14 @@
 - Prefer Arabic → German full-sentence translation over fill-in-the-blank exercises.
 - Introduce numbered verbs in batches of **10**.
 - Every new verb batch must include practice mixing new verbs with old verbs.
-- Review cumulatively across **ALL previously learned verbs**, not only the latest 10. Rotate older groups across batches while including recent verbs.
+- Review cumulatively across previously learned verbs, but **rotate** them rather than forcing a long review of all old material before progress. Old material should be sampled inside new-material practice.
 - Continuously introduce some **new vocabulary** in reviews while reusing older vocabulary.
 - Correct every submitted sentence, including valid alternative phrasing.
 - Explain **WHY** the case, word order, pronoun, adjective ending, or noun ending is appropriate.
 - Prioritize practical everyday German and useful full sentences.
 - Track repeated mistakes and deliberately retest them later with fresh sentences.
 - Reduce the priority of a mistake when independent correct use becomes consistent.
-- Start new study days with a quick cumulative review before introducing material.
+- Start new study days with only a **short diagnostic review (normally 3–5 sentences)** when useful, then move to new material. Do not spend repeated 10-sentence batches on review unless the learner explicitly chooses review or recent evidence shows broad regression.
 - Keep learned verbs in reviews and never present them as newly learned again.
 - Preserve the exact continuation point across chats and sessions.
 - Do not automatically begin pending exercises on opening a new chat. First offer the nine startup choices, unless the learner already chose a mode; continue from the exact latest checkpoint when requested.
@@ -40,7 +40,8 @@ Follow explicit changes immediately and store the date, learner wording, and tea
 | Date | Source | Change |
 | --- | --- | --- |
 | 2026-10-03 | Initialization request and prior conversation | Egyptian Arabic, full-sentence translation, cumulative review, new vocabulary, adaptive mistakes, same-date continuity. |
-| 2026-10-03 | Learner-provided history backfill | Explicit batches of 10, review all earlier groups, explain why, practical everyday German, and load choices before starting the pending review. |
+| 2026-10-03 | Learner-provided history backfill | Explicit batches of 10, review earlier groups, explain why, practical everyday German, and load choices before starting pending work. |
+| 2026-10-03 | Explicit learner request after extended review | Progression-first: stop long automatic review cycles; use short diagnostics, then new verbs; ~70% new / 30% embedded review; learn from evidence and reduce repeated drilling. |
 
 ## Tentative observations
 
@@ -63,3 +64,18 @@ None added. No exam goal, CEFR level, speed requirement, or numerical mastery es
 | Date | Source | Change |
 | --- | --- | --- |
 | 2026-10-03 | Explicit learner request | Four skill modes; oral sentence translation; guided role-play; reading/listening comprehension with Arabic → German scaffolding; actual audio pronunciation checks; adaptive selection and delayed retests. |
+
+
+## Progression-first learning policy — 2026-10-03
+
+This is an explicit learner preference and overrides older review-heavy defaults.
+
+- The main goal is **continuous progression**, not endless review.
+- Once a numbered verb group has had meaningful practice, move to the next batch of 10 instead of requiring every improving/weak detail to become stable first.
+- A single weak grammar/verb contrast must **not block new verbs**. Embed it naturally inside sentences using the new verbs.
+- Before a new numbered batch, use at most a short **3–5 sentence diagnostic** when needed. Skip even that when the learner explicitly asks to continue with new verbs and recent evidence is sufficient.
+- Practice after introducing a new verb batch should be approximately **70% centered on the new verbs and 30% old material / grammar / mistake retests**.
+- Full 10-sentence or longer review batches happen only when the learner explicitly selects Full review / Targeted review, or recent evidence shows broad regression that blocks comprehension or production.
+- Stable patterns should be sampled lightly. Improving/weak patterns should be woven into new-material exercises, not drilled in isolation for many consecutive batches.
+- Learn from dated evidence: repeated independent success lowers review frequency; repeated errors increase how often that pattern appears in future **new-material** exercises.
+- Preserve unfinished review batches as deferred work when the learner chooses progression; do not force them before new material and do not mark them completed.
