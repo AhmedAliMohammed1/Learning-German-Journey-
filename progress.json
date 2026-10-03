@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-03T18:12:01+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,12 +19,145 @@
   "current_day": "2026-10-03",
   "latest_day": "2026-10-03",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 0,
-  "last_verified_study_at": null,
-  "active_topic": "genitiv_in_der_naehe",
-  "next_action": "Offer the five startup choices; when continuing, resume the requested cumulative verbs 1–60 + Genitiv review with new vocabulary.",
-  "pending_exercises": [],
+  "current_session_id": "2026-10-03-S01",
+  "sessions_recorded": 1,
+  "last_verified_study_at": "2026-10-03T18:12:01+02:00",
+  "active_topic": "full_review_verbs_1_60_genitiv",
+  "next_action": "Await learner answers for 2026-10-03-S01-E01 through E10; correct every sentence, record independent evidence, then continue the cumulative full review.",
+  "pending_exercises": [
+    {
+      "id": "2026-10-03-S01-E01",
+      "prompt_ar": "هل مسموح لك تفتح الشباك هنا؟",
+      "focus": [
+        "dürfen",
+        "öffnen",
+        "modal_infinitive",
+        "M01"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E02",
+      "prompt_ar": "الكتاب موجود على ترابيزة أخويا.",
+      "focus": [
+        "liegen",
+        "Genitiv",
+        "M11"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E03",
+      "prompt_ar": "أنا بدي أختي مفتاح أخويا.",
+      "focus": [
+        "geben",
+        "Dativ_person_Akk_thing",
+        "Genitiv",
+        "M15"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E04",
+      "prompt_ar": "الطفل قاعد بالقرب من مدخل المدرسة.",
+      "focus": [
+        "sitzen",
+        "in_der_Nähe_Genitiv",
+        "nested_Genitiv",
+        "M05",
+        "M12"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E05",
+      "prompt_ar": "أنا بقعّد الطفل على الكرسي.",
+      "focus": [
+        "setzen",
+        "Akk_destination",
+        "M05"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E06",
+      "prompt_ar": "أنا بستنى صاحبي قدام محطة القطر.",
+      "focus": [
+        "warten_auf_Akk",
+        "M16"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E07",
+      "prompt_ar": "بعد الشغل، أنا ببدأ أقرأ كتاب.",
+      "focus": [
+        "anfangen_zu",
+        "M10",
+        "M18"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E08",
+      "prompt_ar": "أنا بساعد أخويا يدور على المفتاح.",
+      "focus": [
+        "helfen_Dativ",
+        "suchen_Akk",
+        "M06",
+        "M24"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E09",
+      "prompt_ar": "عندي ميعاد بكرة، عشان كده لازم أقوم بدري.",
+      "focus": [
+        "haben",
+        "der Termin",
+        "deshalb_word_order",
+        "müssen",
+        "aufstehen",
+        "M03",
+        "M09"
+      ],
+      "introduced_vocab": [
+        "V106"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E10",
+      "prompt_ar": "المطعم قريب من الحديقة العامة.",
+      "focus": [
+        "sein",
+        "in_der_Nähe_Genitiv",
+        "Genitiv_adjective_ending",
+        "M13"
+      ],
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    }
+  ],
   "completed_exercise_ids": [],
   "verbs": {
     "introduced_total": 60,
@@ -1377,7 +1510,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 105,
+    "registered_entries_count": 106,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -2957,6 +3090,31 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V106",
+        "german": "der Termin",
+        "meaning_ar": "الموعد",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Termine",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S01 full review batch 1",
+        "usage_example": "Ich habe morgen einen Termin.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T18:12:01+02:00",
+            "session_id": "2026-10-03-S01",
+            "exercise_id": "2026-10-03-S01-E09",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical vocabulary before the learner response; no mastery evidence yet."
+          }
+        ]
       }
     ]
   },
@@ -3479,22 +3637,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": {
-    "date": "2026-10-03",
-    "state": "paused_for_repository_setup",
-    "last_material": [
-      "verbs_51_60",
-      "genitiv",
-      "in_der_naehe",
-      "nested_genitiv",
-      "genitiv_adjective_endings"
-    ],
-    "pending_activity": "cumulative review of numbered verbs 1–60 mixed with Genitiv",
-    "pending_activity_status": "requested_not_completed",
-    "exact_pending_prompt_available": false,
-    "startup_requires_choice": true
-  },
-  "next_suggested_action": "Offer the five startup choices; when continuing, resume the requested cumulative verbs 1–60 + Genitiv review with new vocabulary.",
+  "latest_study_state": "Full review session 2026-10-03-S01 active; batch 1 (E01-E10) is pending.",
+  "next_suggested_action": "Answer 2026-10-03-S01-E01 through E10 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -3673,6 +3817,14 @@
       "day_status": "open",
       "closure_basis": null,
       "original_closure_status": "not_closed_in_current_task"
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T18:12:01+02:00",
+      "session_id": "2026-10-03-S01",
+      "event": "session_started",
+      "mode": "full_review",
+      "note": "Cumulative verbs 1-60 + Genitiv review started; batch 1 E01-E10 pending."
     }
   ]
 }

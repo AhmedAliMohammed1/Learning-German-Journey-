@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated by history backfill: **2026-10-03**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T18:12:01+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -20,26 +20,21 @@ Updated by history backfill: **2026-10-03**. Calendar timezone: **Europe/Berlin*
 
 ## Latest study state and continuation
 
-- Latest actual reported study date: **2026-10-03**.
-- Last state: requested a cumulative **verbs 1–60 + Genitiv** review, then paused to create the GitHub tracking system.
-- That review is pending, not completed. Exact unanswered exercise prompts were not supplied.
-- **Do not automatically start the review on opening a new chat.**
-- First offer:
-  1. Full review — مراجعة شاملة.
-  2. Targeted review — مراجعة جزء معين.
-  3. Continue previous session — نكمّل المراجعة المطلوبة.
-  4. Start a new study day — نبدأ يوم مذاكرة جديد.
-  5. Show progress — أعرض تقدمي.
-- If the learner already selected a mode, follow it after loading state.
-- When continuing, mix all 1–60 cumulatively with Genitiv and genuinely new vocabulary, while reusing older vocabulary.
+- Latest actual study date: **2026-10-03**.
+- The learner selected **Full review**.
+- Active session: **2026-10-03-S01**.
+- Batch 1 contains ten exact pending prompts, E01–E10, mixing verbs 1–60, Genitiv, weak patterns, and new practical vocabulary.
+- No learner answers have been submitted for this live batch yet, so no fresh correctness evidence has been counted.
+- Exact continuation point: answer E01–E10 in full German sentences; correct and log each before moving to the next review batch.
 
 ## Day and session state
 
 - Current/latest file: days/2026-10-03.md.
-- Status: **open**; the learner paused and did not issue an end-of-day command in this repository task.
-- Individually logged live sessions: **0**. Historical learning is backfilled as daily summaries; its actual session count is unknown.
-- Active live session ID: none.
-- Same-date return uses this file. Close on "أنا خلصت النهارده"; later same-date study reopens and appends a session.
+- Status: **open**.
+- Individually logged live sessions: **1**.
+- Active live session ID: **2026-10-03-S01**.
+- Session started at **2026-10-03T18:12:01+02:00**.
+- Same-date continuation must use this file and this active session until paused/completed; close on "أنا خلصت النهارده".
 
 ## Strengths and review priorities
 
@@ -55,7 +50,7 @@ Minor spelling issues remain low priority and separate. M10 anfangen conjugation
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**105 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score.
+**106 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. Fresh item V106: **der Termin (die Termine) = الموعد**, introduced in the active review batch.
 
 ## History and limits
 
