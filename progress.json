@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
   "last_verified_study_at": null,
-  "active_topic": "prepare_numbered_verbs_61_70",
-  "next_action": "Introduce numbered verbs 61-70 now. Use approximately 70% new-verb-centered practice and 30% embedded review. Preserve S02 E21-E30 and S01 E41-E50 as deferred review work.",
+  "active_topic": "numbered_verbs_61_70_practice",
+  "next_action": "Learner studies verbs 61-70 and answers S02 E31-E40. Use weak/improving patterns inside the new-verb practice. Deferred review E21-E30 and S01 E41-E50 stay preserved.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -184,6 +184,96 @@
       "learner_answer": null,
       "priority": "deferred_review",
       "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+    },
+    {
+      "id": "2026-10-03-S02-E31",
+      "prompt_ar": "أنا بقول لأخويا الإجابة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E32",
+      "prompt_ar": "أنا بحكي لأختي حاجة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E33",
+      "prompt_ar": "بعد الشغل، أنا بتصل بأمي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E34",
+      "prompt_ar": "أنا ببعت لصاحبي طرد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E35",
+      "prompt_ar": "أنا لابس الجاكيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E36",
+      "prompt_ar": "أنا بغسل الجاكيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E37",
+      "prompt_ar": "أنا بنضف الشباك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E38",
+      "prompt_ar": "أنا بجري في الحديقة كل يوم.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E39",
+      "prompt_ar": "أخويا بيلعب مع صاحبه في الحديقة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E40",
+      "prompt_ar": "أنا بسافر ميونخ بكرة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_61_70",
+      "priority": "active_new_material"
     }
   ],
   "completed_exercise_ids": [
@@ -249,7 +339,7 @@
     "2026-10-03-S02-E20"
   ],
   "verbs": {
-    "introduced_total": 60,
+    "introduced_total": 70,
     "mastered_total": null,
     "groups": [
       {
@@ -271,6 +361,16 @@
         "recency": "recent",
         "introduced_on": "2026-10-03",
         "assessment_basis": "learner reported recent introduction and continued practice",
+        "historical_review_count": null
+      },
+      {
+        "from": 61,
+        "to": 70,
+        "count": 10,
+        "status": "introduced",
+        "recency": "new",
+        "introduced_on": "2026-10-03",
+        "assessment_basis": "live introduction after explicit learner progression request",
         "historical_review_count": null
       }
     ],
@@ -1533,6 +1633,196 @@
         "assessment_basis": "reported recent introduction and practice",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
+      },
+      {
+        "id": 61,
+        "infinitive": "sagen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يقول",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "jemandem etwas sagen; Dat person + content/object",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 62,
+        "infinitive": "erzählen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يحكي / يروي",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "jemandem etwas erzählen; often Dat person + content",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 63,
+        "infinitive": "anrufen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يتصل هاتفيًا",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "separable; jemanden anrufen + Akk: Ich rufe meine Mutter an.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 64,
+        "infinitive": "schicken",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يرسل",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "Dat person + Akk thing: Ich schicke meinem Freund ein Paket.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 65,
+        "infinitive": "tragen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يحمل / يرتدي",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "Akk; du trägst, er/sie trägt",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 66,
+        "infinitive": "waschen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يغسل",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "Akk; du wäschst, er/sie wäscht",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 67,
+        "infinitive": "putzen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "ينظف",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "Akk; e.g. das Fenster putzen / die Zähne putzen",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 68,
+        "infinitive": "laufen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يمشي / يجري",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "du läufst, er/sie läuft; context decides walk/run",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 69,
+        "infinitive": "spielen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يلعب",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "e.g. Fußball spielen; mit + Dat for playing with someone",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 70,
+        "infinitive": "reisen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يسافر",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
+        "usage_note": "e.g. nach München reisen",
+        "entry_kind": "infinitive"
       }
     ],
     "named_verbs_without_confirmed_id": [],
@@ -1717,7 +2007,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 113,
+    "registered_entries_count": 114,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3483,6 +3773,22 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V114",
+        "german": "das Paket",
+        "meaning_ar": "الطرد / الشحنة",
+        "type": "noun",
+        "article": "das",
+        "plural": "die Pakete",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S02 numbered verbs 61-70 practice",
+        "usage_example": "Ich schicke meinem Freund ein Paket.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -4481,12 +4787,12 @@
     "skill_progress_file": "progress.json"
   },
   "numbered_verbs_target": 100,
-  "numbered_verbs_introduced": 60,
+  "numbered_verbs_introduced": 70,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "Learner explicitly changed the workflow to progression-first after extended review. S02 E21-E30 is deferred review; next teaching action is verbs 61-70.",
-  "next_suggested_action": "Start numbered verb batch 61-70; do not force another long review first.",
+  "latest_study_state": "Numbered verbs 61-70 introduced under progression-first policy; first practice batch S02 E31-E40 pending.",
+  "next_suggested_action": "Practice newly introduced verbs 61-70; do not return to a long review cycle.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -4725,6 +5031,13 @@
       "session_id": "2026-10-03-S02",
       "event": "progression_policy_updated",
       "note": "Learner explicitly requested automatic progression after sufficient review. New default: max 3-5 sentence diagnostic when needed, then next verb batch; ~70% new material / 30% embedded review. S02 E21-E30 preserved as deferred review."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "verbs_61_70_introduced",
+      "note": "Introduced numbered verbs 61-70 under progression-first policy: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen. Added V114 das Paket. Created active practice E31-E40."
     }
   ],
   "exercise_results": [
@@ -5543,5 +5856,6 @@
       }
     }
   },
-  "feature_config_updated_on": "2026-10-03"
+  "feature_config_updated_on": "2026-10-03",
+  "verbs_61_70_status": "introduced"
 }
