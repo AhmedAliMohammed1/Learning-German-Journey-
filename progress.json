@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T22:38:00+02:00",
+  "last_updated_at": null,
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "reopened",
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
-  "last_verified_study_at": "2026-10-03T22:38:00+02:00",
-  "active_topic": "verbs_61_70_mixed_practice",
-  "next_action": "Answer 2026-10-03-S02-E41 through E50: 70% new verbs, 30% embedded review. After this batch, evaluate moving to 71-80 rather than starting another long review cycle.",
+  "last_verified_study_at": null,
+  "active_topic": "prepare_numbered_verbs_71_80",
+  "next_action": "Introduce numbered verbs 71-80 now; keep review embedded rather than starting a review-only batch.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -184,106 +184,6 @@
       "learner_answer": null,
       "priority": "deferred_review",
       "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
-    },
-    {
-      "id": "2026-10-03-S02-E41",
-      "prompt_ar": "أنا بحكي لأخويا قصة.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E42",
-      "prompt_ar": "بعد الشغل، أختي بتتصل بصاحبتها.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E43",
-      "prompt_ar": "أنا ببعت لأمي صورة.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E44",
-      "prompt_ar": "أخويا لابس قميص جديد.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E45",
-      "prompt_ar": "هي بتغسل إيديها قبل الأكل.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E46",
-      "prompt_ar": "أنا بنضف المكتب بعد الشغل.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E47",
-      "prompt_ar": "إحنا بنلعب مع أصحابنا في الحديقة.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "new_material"
-    },
-    {
-      "id": "2026-10-03-S02-E48",
-      "prompt_ar": "شنطة السفر موجودة جنب الباب.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "embedded_review"
-    },
-    {
-      "id": "2026-10-03-S02-E49",
-      "prompt_ar": "أنا بستنى صاحبي قدام محطة القطر.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "embedded_review"
-    },
-    {
-      "id": "2026-10-03-S02-E50",
-      "prompt_ar": "أنا ببدأ أقرأ الساعة تمانية.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "activity": "verbs_61_70_mixed_practice",
-      "priority": "active_new_material",
-      "mix": "embedded_review"
     }
   ],
   "completed_exercise_ids": [
@@ -356,7 +256,17 @@
     "2026-10-03-S02-E37",
     "2026-10-03-S02-E38",
     "2026-10-03-S02-E39",
-    "2026-10-03-S02-E40"
+    "2026-10-03-S02-E40",
+    "2026-10-03-S02-E41",
+    "2026-10-03-S02-E42",
+    "2026-10-03-S02-E43",
+    "2026-10-03-S02-E44",
+    "2026-10-03-S02-E45",
+    "2026-10-03-S02-E46",
+    "2026-10-03-S02-E47",
+    "2026-10-03-S02-E48",
+    "2026-10-03-S02-E49",
+    "2026-10-03-S02-E50"
   ],
   "verbs": {
     "introduced_total": 70,
@@ -4955,8 +4865,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "First independent practice of verbs 61-70 completed strongly; all ten verbs used correctly. Mixed E41-E50 now pending.",
-  "next_suggested_action": "Complete one mixed practice batch for verbs 61-70, then progress toward 71-80 if performance remains strong.",
+  "latest_study_state": "61-70 mixed practice completed; progression threshold met; next step is 71-80.",
+  "next_suggested_action": "Start numbered verb batch 71-80.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -5801,6 +5711,116 @@
       "hint_used": false,
       "independent": true,
       "note": "reisen + nach + city correct."
+    },
+    {
+      "id": "2026-10-03-S02-E41",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich erzähle meinem Bruder eine Geschichte",
+      "correction": "Ich erzähle meinem Bruder eine Geschichte.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E42",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Nach dem Arbeit ruft meine Schwester ihrer Freundin",
+      "correction": "Nach der Arbeit ruft meine Schwester ihre Freundin an.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E43",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich schicke meiner Mutter das Bild",
+      "correction": "Ich schicke meiner Mutter ein Bild.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E44",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Mein Bruder trägt ein neues Hemd",
+      "correction": "Mein Bruder trägt ein neues Hemd.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E45",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Sie wascht ihre arme bevor die Essen",
+      "correction": "Sie wäscht ihre Hände vor dem Essen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E46",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich putze nach dem Arbeit den Schreibtisch",
+      "correction": "Ich putze nach der Arbeit den Schreibtisch.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E47",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Wie spielen mit unseren Freunde im Park",
+      "correction": "Wir spielen mit unseren Freunden im Park.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E48",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Die Reisetasche steht neben der Tür",
+      "correction": "Die Reisetasche steht neben der Tür.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E49",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich warte vor dem Bahnhof auf meinen Freund",
+      "correction": "Ich warte vor dem Bahnhof auf meinen Freund.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-03-S02-E50",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich fange um acht Uhr an zu lesen",
+      "correction": "Ich fange um acht Uhr an zu lesen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
     }
   ],
   "skill_tracking": {
