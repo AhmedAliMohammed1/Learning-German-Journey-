@@ -233,3 +233,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - Indirect **wo/weil** final-verb order now has enough live evidence for M19 stable.
 - **anfangen + zu** still needs work: **Ich fange ... an, etwas zu schreiben/lesen.**
 - **treffen + Akk** needs maintenance: **meinen Freund treffen**.
+
+
+## Live grammar checkpoint — S02 Batch 2, 2026-10-03
+
+- New weak contrast: **stehen vs stellen**.
+  - **Ich stelle den Koffer neben die Tür.** = I place the suitcase next to the door.
+  - **Der Koffer steht neben der Tür.** = The suitcase is standing next to the door.
+- Fronted-phrase V2 now has enough fresh post-error evidence for M28 stable.
+- Genitiv adjective ending in **des neuen Restaurants** was correct; the noun ending **Restaurants** still needs maintenance.
+- **warten auf + Akk** needs another check after **warte ich den Lehrer**.
+- **aufhören + zu** was correct again.
