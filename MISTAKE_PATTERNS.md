@@ -121,3 +121,16 @@ The reference sentences above are correct forms or historical study examples; th
 - **M21 improving:** E29 wrote **arbeit** lowercase.
 - **M27 improving:** E23 correctly used **auf den Schreibtisch** for destination and E24 **auf dem Schreibtisch** for location; weak -> improving.
 - **M28 weak — new live pattern:** after a fronted phrase, the finite verb must remain second: **Nach der Arbeit treffe ich ...**. E29 repeated the earlier V2 issue.
+
+
+## Fresh live evidence — 2026-10-03 — S01 Batch 4
+
+- **M11 improving:** E33 still missed the masculine Genitiv noun ending (**des Vaters**), then E34 and E35 independently produced correct Genitiv forms (**des Eingangs des Krankenhauses**, **des öffentlichen Parks**). Two fresh successes after the latest error -> weak to improving.
+- **M12 improving:** E34 correctly formed **des Eingangs des Krankenhauses**; together with E25 **des Hauses des Chefs**, this gives two independent correct nested-Genitiv uses after the latest error -> weak to improving.
+- **M13 weak:** E35 correctly used **des öffentlichen Parks** once after the latest error. Keep weak until another independent success.
+- **M27 improving:** E31 correctly used destination **in den Rucksack** and E32 stationary **im Rucksack**.
+- **M28 weak:** E36 correctly used **Nach der Arbeit gehe ich ...** after the latest error. One fresh success; keep weak pending another.
+- **M19 improving:** E37 correctly used the indirect **wo** clause with the verb at the end; only the comma was missing.
+- **M18 improving:** E38 correctly used **aufhören + zu kochen**.
+- **M17 improving:** E39 correctly used **um ... zu** for same-subject purpose; add **ihn** to match the explicit object and add the comma.
+- **M15 improving:** E33 correctly used **meiner Schwester das Handy** (Dat person + Akk thing); the remaining error belonged to Genitiv ownership.
