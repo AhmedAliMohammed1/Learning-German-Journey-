@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**115 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**116 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -120,7 +120,8 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V112 | der Regenschirm | die Regenschirme | المظلة / الشمسيّة | noun | practicing |
 | V113 | der Koffer | die Koffer | شنطة السفر / الحقيبة | noun | introduced |
 | V114 | das Paket | die Pakete | الطرد / الشحنة | noun | practicing |
-| V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | introduced |
+| V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | practicing |
+| V116 | das Formular | die Formulare | الاستمارة / النموذج | noun | introduced |
 
 ## Fresh live introductions
 
@@ -229,4 +230,14 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 115). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 116). total_known remains null because no measured known-word total was established.
+
+
+### V116 — das Formular
+
+- Article / plural: **das Formular — die Formulare**
+- Egyptian Arabic: **الاستمارة / النموذج**
+- Natural example: **Ich fülle das Formular aus.**
+- Introduced on: **2026-10-03**
+- Source: **2026-10-03-S02, verbs 71–80**
+- Learner attempt: none yet; first active prompt is E59.
