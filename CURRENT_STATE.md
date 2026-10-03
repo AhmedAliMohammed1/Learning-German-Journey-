@@ -22,11 +22,12 @@ Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europ
 
 - Latest actual study date: **2026-10-03**.
 - Active session: **2026-10-03-S02**.
-- S02 E01–E10 completed and corrected.
-- M13 Genitiv adjective ending and M28 fronted-phrase V2 moved **weak -> improving**.
-- M27 Wo/Wohin and M19 indirect wo/weil verb-final order are now **stable**.
-- V111 **die Jacke** has two correct independent uses and is practicing.
-- S02 E11–E20 is pending; V112 **der Regenschirm (die Regenschirme)** is newly introduced.
+- S02 E11–E20 completed and corrected.
+- New weak pattern: **M29 stehen vs stellen**.
+- **M28 fronted-phrase V2** is now stable.
+- M11 Genitiv noun endings, M16 warten auf + Akk, and M18 anfangen/aufhören + zu remain improving.
+- V112 **der Regenschirm** has two independent uses and is practicing.
+- S02 E21–E30 is pending; V113 **der Koffer (die Koffer)** is newly introduced.
 - S01 E41–E50 remains preserved and unattempted.
 
 ## Day and session state
@@ -35,16 +36,16 @@ Updated: **2026-10-03; checkpoint time unavailable**. Calendar timezone: **Europ
 - Status: **reopened**.
 - Live sessions: **2**.
 - Active session ID: **2026-10-03-S02**.
-- S02 E01–E10 completed; S02 E11–E20 pending.
+- S02 E01–E20 completed; S02 E21–E30 pending.
 - Older preserved pending work: S01 E41–E50.
 
 ## Strengths and review priorities
 
-**Weak / active:** none at the latest live checkpoint.
+**Weak / active:** M29 stehen vs stellen.
 
-**Improving:** M13 Genitiv adjective ending; M28 fronted-phrase V2; anfangen/aufhören + zu; um ... zu; warten auf; Dat person + Akk thing; verb-specific Akk/Dat; capitalization; Genitiv article/noun endings; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
+**Improving:** M11 Genitiv article/noun endings; M13 Genitiv adjective ending; M16 warten auf + Akk; M18 anfangen/aufhören + zu; M14 verb-specific Akk/Dat; M15 Dat person + Akk thing; M17 um ... zu; capitalization; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
 
-**More stable:** M27 stationary Dativ vs destination Akkusativ; M19 final verb with weil/wo; wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
+**More stable:** M28 V2 after a fronted phrase; M27 stationary Dativ vs destination Akkusativ; M19 final verb with weil/wo; wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
 Minor spelling issues remain low priority and separate.
 
@@ -52,7 +53,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**112 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**113 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -106,3 +107,13 @@ Existing day remains **closed**, Session S01 remains completed, and **E41–E50 
 - V111 die Jacke has two correct independent uses.
 - Next: S02 E11–E20.
 - Fresh item: **V112 — der Regenschirm (die Regenschirme)**.
+
+
+## S02 Batch 2 checkpoint — 2026-10-03; time unavailable
+
+- E11–E20 completed and corrected.
+- M29 stehen/stellen is now the only weak live pattern.
+- M28 V2 is stable; warten auf and anfangen + zu remain improving.
+- V112 Regenschirm has two independent uses.
+- Next: S02 E21–E30.
+- Fresh item: **V113 — der Koffer (die Koffer)**.
