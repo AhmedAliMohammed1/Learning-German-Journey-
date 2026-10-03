@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T19:24:44+02:00",
+  "last_updated_at": "2026-10-03T20:22:15+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,76 +21,76 @@
   "day_status": "open",
   "current_session_id": "2026-10-03-S01",
   "sessions_recorded": 1,
-  "last_verified_study_at": "2026-10-03T19:24:44+02:00",
+  "last_verified_study_at": "2026-10-03T20:22:15+02:00",
   "active_topic": "full_review_verbs_1_60_genitiv",
-  "next_action": "Await learner answers for 2026-10-03-S01-E31 through E40.",
+  "next_action": "Await learner answers for 2026-10-03-S01-E41 through E50.",
   "pending_exercises": [
     {
-      "id": "2026-10-03-S01-E31",
-      "prompt_ar": "أنا بحط الكتاب في شنطة الظهر.",
+      "id": "2026-10-03-S01-E41",
+      "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E32",
-      "prompt_ar": "الكتاب موجود في شنطة الظهر.",
+      "id": "2026-10-03-S01-E42",
+      "prompt_ar": "الخطاب موجود في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E33",
-      "prompt_ar": "أنا بدي أختي موبايل أبويا.",
+      "id": "2026-10-03-S01-E43",
+      "prompt_ar": "أنا بدي أمي مفتاح عربية أبويا.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E34",
-      "prompt_ar": "المخبز قريب من مدخل المستشفى.",
+      "id": "2026-10-03-S01-E44",
+      "prompt_ar": "المكتبة قريبة من مدخل الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E35",
-      "prompt_ar": "محطة القطر قريبة من الحديقة العامة.",
+      "id": "2026-10-03-S01-E45",
+      "prompt_ar": "الفندق قريب من الحديقة العامة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E36",
-      "prompt_ar": "بعد الشغل، أنا بروح السوبرماركت.",
+      "id": "2026-10-03-S01-E46",
+      "prompt_ar": "بعد الشغل، أخويا بيفتح الشباك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E37",
-      "prompt_ar": "أنا عارف أخويا ساكن فين.",
+      "id": "2026-10-03-S01-E47",
+      "prompt_ar": "أنا عارف أختي بتشتغل فين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E38",
-      "prompt_ar": "أنا بتوقف عن الطبخ الساعة سبعة.",
+      "id": "2026-10-03-S01-E48",
+      "prompt_ar": "أنا بتوقف عن الكتابة الساعة تسعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E39",
-      "prompt_ar": "أنا بطلب قهوة علشان أشربها هنا.",
+      "id": "2026-10-03-S01-E49",
+      "prompt_ar": "أنا بطلب شاي علشان أشربه هنا.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E40",
-      "prompt_ar": "أنا بوري أخويا الصورة.",
+      "id": "2026-10-03-S01-E50",
+      "prompt_ar": "أنا بوري أختي الكتاب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -126,7 +126,17 @@
     "2026-10-03-S01-E27",
     "2026-10-03-S01-E28",
     "2026-10-03-S01-E29",
-    "2026-10-03-S01-E30"
+    "2026-10-03-S01-E30",
+    "2026-10-03-S01-E31",
+    "2026-10-03-S01-E32",
+    "2026-10-03-S01-E33",
+    "2026-10-03-S01-E34",
+    "2026-10-03-S01-E35",
+    "2026-10-03-S01-E36",
+    "2026-10-03-S01-E37",
+    "2026-10-03-S01-E38",
+    "2026-10-03-S01-E39",
+    "2026-10-03-S01-E40"
   ],
   "verbs": {
     "introduced_total": 60,
@@ -1597,7 +1607,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 109,
+    "registered_entries_count": 110,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3263,10 +3273,25 @@
         "type": "noun",
         "article": "der",
         "plural": "die Rucksäcke",
+        "status": "practicing",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": "2026-10-03",
+        "source": "2026-10-03-S01 full review batch 4",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V110",
+        "german": "der Brief",
+        "meaning_ar": "الخطاب / الرسالة الورقية",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Briefe",
         "status": "introduced",
         "introduced_on": "2026-10-03",
         "last_reviewed": null,
-        "source": "2026-10-03-S01 full review batch 4",
+        "source": "2026-10-03-S01 full review batch 5",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -3544,7 +3569,7 @@
     {
       "id": "M11",
       "topic": "genitiv_article_noun_ending",
-      "status": "weak",
+      "status": "improving",
       "title": "Genitiv article and noun ending selection",
       "reference_example": "in der Nähe des Bahnhofs; in der Nähe der Schule",
       "severity": "grammar_or_usage",
@@ -3588,7 +3613,7 @@
     {
       "id": "M12",
       "topic": "nested_genitiv",
-      "status": "weak",
+      "status": "improving",
       "title": "nested Genitiv phrases",
       "reference_example": "in der Nähe des Hauses meiner Freundin",
       "severity": "grammar_or_usage",
@@ -4048,8 +4073,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03-S01 active; Batch 3 E21-E30 completed; Batch 4 E31-E40 pending.",
-  "next_suggested_action": "Answer 2026-10-03-S01-E31 through E40 in full German sentences.",
+  "latest_study_state": "2026-10-03-S01 active; Batch 4 E31-E40 completed; Batch 5 E41-E50 pending.",
+  "next_suggested_action": "Answer 2026-10-03-S01-E41 through E50 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -4182,8 +4207,6 @@
     }
   ],
   "active_mistake_pattern_ids": [
-    "M11",
-    "M12",
     "M13",
     "M28"
   ],
@@ -4249,6 +4272,13 @@
       "session_id": "2026-10-03-S01",
       "event": "batch_2_checkpoint",
       "note": "E11-E20 answered independently. M01 weak->improving. Added M27 for stationary Dativ vs destination Akkusativ. V107 Kühlschrank practiced; V108 Schreibtisch introduced for Batch 3."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T20:22:15+02:00",
+      "session_id": "2026-10-03-S01",
+      "event": "batch_4_checkpoint",
+      "note": "Batch 4 completed. M11 and M12 moved weak->improving; M13 and M28 remain weak. Batch 5 E41-E50 prepared; V110 der Brief introduced."
     }
   ],
   "exercise_results": [
