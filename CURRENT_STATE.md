@@ -2,11 +2,12 @@
 
 Updated: **2026-10-03T22:38:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
-## Progress — 70 / 100 numbered verbs introduced
+## Progress — 80 / 100 numbered verbs introduced
 
 - **1–50:** introduced and reviewed multiple times; generally retained / strong group baseline. Continue cumulative reviews. This does not mean every verb is fully mastered.
 - **51–60:** recent and **practicing**: liegen, legen, stellen, setzen, öffnen, schließen, anfangen, aufhören, warten, treffen.
-- **61–70:** newly introduced under the progression-first policy: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
+- **61–70:** practicing: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
+- **71–80:** newly introduced: aufräumen, duschen, anziehen, ausziehen, einkaufen, mieten, umziehen, anmelden, ausfüllen, unterschreiben.
 - Exact numbered identities and meanings are complete through **70** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
 - No invented mastery percentages. Target 100 is confirmed by the learner.
@@ -54,7 +55,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
 
-**115 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**116 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -151,3 +152,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Active practice: **2026-10-03-S02-E31–E40**.
 - New practical noun: **V114 — das Paket (die Pakete) = الطرد / الشحنة**.
 - S02 E21–E30 and S01 E41–E50 remain preserved as deferred review.
+
+
+## Progression checkpoint — 80 / 100
+
+- Mixed 61–70 practice completed; enough evidence to progress.
+- New active group: **71–80**.
+- New vocabulary: **V116 — das Formular (die Formulare)**.
+- Active practice: **S02 E51–E60**.
+- Embedded review targets: **nach der Arbeit**, **anrufen + Akk + separable an**, **mit + Dativ plural**, plus light maintenance of **stehen**, **warten auf**, and **anfangen + zu**.
