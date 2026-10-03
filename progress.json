@@ -23,8 +23,79 @@
   "sessions_recorded": 1,
   "last_verified_study_at": "2026-10-03T18:27:21+02:00",
   "active_topic": "full_review_verbs_1_60_genitiv",
-  "next_action": "Continue the full review with a fresh batch focused on Genitiv, sitzen/setzen, liegen/stellen, modal forms, and infinitive constructions.",
-  "pending_exercises": [],
+  "next_action": "Await learner answers for 2026-10-03-S01-E11 through E20.",
+  "pending_exercises": [
+    {
+      "id": "2026-10-03-S01-E11",
+      "prompt_ar": "مسموح لأخويا يقفل الباب الساعة عشرة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E12",
+      "prompt_ar": "موبايل أختي موجود على ترابيزة المدير.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E13",
+      "prompt_ar": "أنا بحط اللبن في التلاجة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E14",
+      "prompt_ar": "الزجاجة واقفة على الترابيزة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E15",
+      "prompt_ar": "أنا بحط الزجاجة على الترابيزة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E16",
+      "prompt_ar": "إحنا بنقابل المدرس بالقرب من بيت صاحبتنا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E17",
+      "prompt_ar": "أنا بتوقف عن الشغل الساعة ستة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E18",
+      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E19",
+      "prompt_ar": "أنا بروح السوبر ماركت علشان أجيب مية.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S01-E20",
+      "prompt_ar": "هي بتقفل الشباك لأن الجو بارد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    }
+  ],
   "completed_exercise_ids": [
     "2026-10-03-S01-E01",
     "2026-10-03-S01-E02",
@@ -1388,7 +1459,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 106,
+    "registered_entries_count": 107,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3003,6 +3074,22 @@
             "note": "Correct independent use: einen Termin."
           }
         ]
+      },
+      {
+        "id": "V107",
+        "german": "der Kühlschrank",
+        "meaning_ar": "التلاجة / الثلاجة",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Kühlschränke",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S01 full review next batch",
+        "usage_example": "Die Milch ist im Kühlschrank.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -3637,8 +3724,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03-S01 active; Batch 1 E01-E10 answered and corrected.",
-  "next_suggested_action": "Answer 2026-10-03-S01-E01 through E10 in full German sentences.",
+  "latest_study_state": "2026-10-03-S01 active; Batch 1 completed and corrected; Batch 2 E11-E20 pending.",
+  "next_suggested_action": "Answer 2026-10-03-S01-E11 through E20 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
