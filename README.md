@@ -6,15 +6,16 @@
 
 | جزء المذاكرة | الحالة الحالية |
 | --- | --- |
-| الأفعال المرقمة | **60 / 100 اتقدموا** |
+| الأفعال المرقمة | **70 / 100 اتقدموا** |
 | 1–50 | اتراجعوا عدة مرات، محفوظين عمومًا، ويستمروا في المراجعة التراكمية |
 | 51–60 | حديثين ولسه **practicing** |
+| 61–70 | **جديدين واتقدموا دلوقتي**: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen |
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | stehen/stellen هو الضعف الحالي؛ V2 بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **113 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| سجل المفردات | **114 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-03** |
-| آخر نقطة | سياسة التعلم اتغيرت لـ progression-first؛ S02 E21–E30 مراجعة مؤجلة، والخطوة التالية **الأفعال 61–70** |
+| آخر نقطة | الأفعال **61–70** اتقدموا؛ التمرين النشط S02 E31–E40، والمراجعات القديمة محفوظة كمؤجلة |
 | ملف اليوم | **reopened**؛ Session **2026-10-03-S02** نشطة، وإجمالي الجلسات الحية 2 |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
@@ -68,7 +69,7 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 | [LEARNING_PROFILE.md](LEARNING_PROFILE.md) | طريقة المذاكرة والتفضيلات |
 | [MISTAKE_PATTERNS.md](MISTAKE_PATTERNS.md) | الأخطاء الضعيفة، المتحسنة، والأكثر ثباتًا |
 | [progress.json](progress.json) | الحالة المقروءة آليًا |
-| [curriculum/verbs.md](curriculum/verbs.md) | الأفعال 1–60 بنفس الترقيم الأصلي |
+| [curriculum/verbs.md](curriculum/verbs.md) | الأفعال 1–70 بنفس الترقيم الحالي |
 | [curriculum/grammar.md](curriculum/grammar.md) | القواعد اللي اتدرست وتركيز Genitiv |
 | [curriculum/vocabulary.md](curriculum/vocabulary.md) | المفردات بدون تكرار، والأفعال الإضافية |
 | [days/2026-09-30.md](days/2026-09-30.md) | بدايات المراجعة والقضايا النحوية |
