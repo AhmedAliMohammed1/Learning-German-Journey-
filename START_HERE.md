@@ -13,7 +13,7 @@ This is the entry point for every assistant continuing this learner's German jou
 7. Read MISTAKE_PATTERNS.md, prioritizing weak and improving patterns and checking imported patterns marked needs_check.
 8. Read the relevant curriculum files before selecting exercises or introducing material.
 
-Never reset the learner to zero. The current baseline is 60 / 100 numbered verbs introduced; 1–50 reviewed multiple times and generally retained (strong group baseline); 51–60 recent and practicing; Genitiv active and practicing. All numbered identities are now recovered from learner-supplied history. Supplemental verbs do not increase the numbered total. This is not proof that 60 verbs are mastered.
+Never reset the learner to zero. Read the live count from progress.json/CURRENT_STATE.md rather than relying on an old frozen number. As of the latest 2026-10-03 checkpoint, **70 / 100** numbered verbs are introduced: 1–50 strong group baseline, 51–60 practicing, and 61–70 newly introduced. Supplemental verbs do not increase the numbered total. Introduced never means mastered.
 
 If records disagree, use dated exercise evidence and explicit learner statements. Flag unresolved inconsistencies; do not silently invent values. The day log supplies evidence, progress.json supplies the structured snapshot, and CURRENT_STATE.md is its readable summary. Preserve corrections with a dated note.
 
@@ -121,10 +121,10 @@ If the learner returns to study on that same date, reopen and append under secti
 - Exactly one date file per calendar date.
 - Day session count matches actual session sections; initialization starts at 0.
 - Day/snapshot/summary statuses and active session IDs agree.
-- 60 initial verb IDs exist; group sizes are 50 and 10.
+- The original 60 baseline verb IDs remain intact, and later numbered batches append without renumbering. Current introduced count must match the actual numbered rows.
 - Exact identities and numbering agree between verbs.md and progress.json. Never invent mastery percentages, historical attempts, or timestamps. Imported strong/improving/weak/stable assessments are reported baselines; zero fresh counters do not reset them.
 - Example sentences and future plans are not recorded as learner answers.
-- numbered_verbs_introduced equals verbs.introduced_total and the 60 numbered rows; numbered_verbs_target equals verbs.target (100). Keep group status keys, group records, and row statuses synchronized after new learning. Supplemental vocabulary is excluded from this total.
+- numbered_verbs_introduced equals verbs.introduced_total and the actual introduced numbered rows; numbered_verbs_target remains 100. Keep group status keys, group records, and row statuses synchronized after new learning. Supplemental vocabulary is excluded from this total.
 - Vocabulary registered_entries_count matches the deduplicated register; total_known is distinct and may remain null. Active mistake IDs match weak patterns.
 - Total introduced items reconcile with the curriculum; preferences and mistakes reference actual evidence.
 - JSON parses, repository-relative links resolve, and earlier history remains intact.
