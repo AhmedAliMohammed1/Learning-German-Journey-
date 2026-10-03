@@ -144,3 +144,17 @@ Pronunciation is a separate category, created only after a reliably heard issue 
 Keep minor spelling separate. Arabic fallback can demonstrate reading/listening comprehension while German production still needs assistance. A corrected repeat does not raise independent-success counters.
 
 At skill checkpoints, update progress.skill_tracking and its review_queue as well as grammar/vocabulary/mistake evidence. No new observed mistake, pronunciation assessment, or counter was created by adding the modes.
+
+
+## Fresh live evidence — 2026-10-03 — S02 Batch 1
+
+- M13 improving: E02 used **des öffentlichen Parks** correctly again.
+- M28 improving: E01 kept verb-second after **Nach der Arbeit**.
+- M27 stable: E03 **auf den Stuhl** and E04 **auf dem Stuhl** were both correct.
+- M19 stable: E09 had correct indirect-**wo** word order; only the comma was missing.
+- M18 remains improving after the E07 anfangen + zu error.
+- M14 remains improving after E10 needs **meinen Freund** with treffen.
+- M21 remains improving after E08 used **Ihrem** instead of **ihrem**.
+- M15, M16, M17 and M10 had fresh correct evidence.
+
+Latest live weak set: none. Continue spaced checks of improving patterns.
