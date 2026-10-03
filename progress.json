@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T18:49:04+02:00",
+  "last_updated_at": "2026-10-03T19:24:44+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,76 +21,76 @@
   "day_status": "open",
   "current_session_id": "2026-10-03-S01",
   "sessions_recorded": 1,
-  "last_verified_study_at": "2026-10-03T18:49:04+02:00",
+  "last_verified_study_at": "2026-10-03T19:24:44+02:00",
   "active_topic": "full_review_verbs_1_60_genitiv",
-  "next_action": "Await learner answers for 2026-10-03-S01-E21 through E30.",
+  "next_action": "Await learner answers for 2026-10-03-S01-E31 through E40.",
   "pending_exercises": [
     {
-      "id": "2026-10-03-S01-E21",
-      "prompt_ar": "أخويا مسموح له يفتح الشباك بعد الشغل.",
+      "id": "2026-10-03-S01-E31",
+      "prompt_ar": "أنا بحط الكتاب في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E22",
-      "prompt_ar": "الكتاب بتاع أختي موجود على مكتب المدير.",
+      "id": "2026-10-03-S01-E32",
+      "prompt_ar": "الكتاب موجود في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E23",
-      "prompt_ar": "أنا بحط الموبايل على المكتب.",
+      "id": "2026-10-03-S01-E33",
+      "prompt_ar": "أنا بدي أختي موبايل أبويا.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E24",
-      "prompt_ar": "الموبايل موجود على المكتب.",
+      "id": "2026-10-03-S01-E34",
+      "prompt_ar": "المخبز قريب من مدخل المستشفى.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E25",
-      "prompt_ar": "المطعم قريب من بيت المدير.",
+      "id": "2026-10-03-S01-E35",
+      "prompt_ar": "محطة القطر قريبة من الحديقة العامة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E26",
-      "prompt_ar": "محطة الباص قريبة من الحديقة العامة.",
+      "id": "2026-10-03-S01-E36",
+      "prompt_ar": "بعد الشغل، أنا بروح السوبرماركت.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E27",
-      "prompt_ar": "أنا عارف المدرس بيشتغل فين.",
+      "id": "2026-10-03-S01-E37",
+      "prompt_ar": "أنا عارف أخويا ساكن فين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E28",
-      "prompt_ar": "أنا بتوقف عن القراءة الساعة 11.",
+      "id": "2026-10-03-S01-E38",
+      "prompt_ar": "أنا بتوقف عن الطبخ الساعة سبعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E29",
-      "prompt_ar": "بعد الشغل، أنا بقابل صاحبي قدام محطة القطر.",
+      "id": "2026-10-03-S01-E39",
+      "prompt_ar": "أنا بطلب قهوة علشان أشربها هنا.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S01-E30",
-      "prompt_ar": "أنا بشتري قهوة علشان أشربها في الشغل.",
+      "id": "2026-10-03-S01-E40",
+      "prompt_ar": "أنا بوري أخويا الصورة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -116,7 +116,17 @@
     "2026-10-03-S01-E17",
     "2026-10-03-S01-E18",
     "2026-10-03-S01-E19",
-    "2026-10-03-S01-E20"
+    "2026-10-03-S01-E20",
+    "2026-10-03-S01-E21",
+    "2026-10-03-S01-E22",
+    "2026-10-03-S01-E23",
+    "2026-10-03-S01-E24",
+    "2026-10-03-S01-E25",
+    "2026-10-03-S01-E26",
+    "2026-10-03-S01-E27",
+    "2026-10-03-S01-E28",
+    "2026-10-03-S01-E29",
+    "2026-10-03-S01-E30"
   ],
   "verbs": {
     "introduced_total": 60,
@@ -1587,7 +1597,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 108,
+    "registered_entries_count": 109,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3237,11 +3247,26 @@
         "type": "noun",
         "article": "der",
         "plural": "die Schreibtische",
+        "status": "practicing",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": "2026-10-03",
+        "source": "2026-10-03-S01 full review batch 3",
+        "usage_example": "Das Handy liegt auf dem Schreibtisch.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V109",
+        "german": "der Rucksack",
+        "meaning_ar": "شنطة الظهر",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Rucksäcke",
         "status": "introduced",
         "introduced_on": "2026-10-03",
         "last_reviewed": null,
-        "source": "2026-10-03-S01 full review batch 3",
-        "usage_example": "Das Handy liegt auf dem Schreibtisch.",
+        "source": "2026-10-03-S01 full review batch 4",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -3940,7 +3965,7 @@
     {
       "id": "M27",
       "topic": "two_way_preposition_location_destination",
-      "status": "weak",
+      "status": "improving",
       "title": "Two-way prepositions: stationary Dativ vs destination Akkusativ",
       "reference_example": "Die Milch ist im Kühlschrank. Ich stelle die Milch in den Kühlschrank.",
       "severity": "grammar_or_usage",
@@ -3973,6 +3998,24 @@
           "note": "Correctly used auf den Tisch with stellen."
         }
       ]
+    },
+    {
+      "id": "M28",
+      "topic": "verb_second_after_fronted_element",
+      "status": "weak",
+      "title": "Verb-second after a fronted phrase",
+      "reference_example": "Nach der Arbeit treffe ich meinen Freund.",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "fresh_live_evidence",
+      "assessment_date": "2026-10-03",
+      "historical_error_count": null,
+      "recorded_errors": 1,
+      "independent_correct": 0,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [],
+      "last_checked": "2026-10-03",
+      "evidence": []
     }
   ],
   "workflow": {
@@ -4005,8 +4048,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03-S01 active; Batch 2 E11-E20 answered and corrected; Batch 3 E21-E30 pending.",
-  "next_suggested_action": "Answer 2026-10-03-S01-E21 through E30 in full German sentences.",
+  "latest_study_state": "2026-10-03-S01 active; Batch 3 E21-E30 completed; Batch 4 E31-E40 pending.",
+  "next_suggested_action": "Answer 2026-10-03-S01-E31 through E40 in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -4142,7 +4185,7 @@
     "M11",
     "M12",
     "M13",
-    "M27"
+    "M28"
   ],
   "study_history": [
     {
