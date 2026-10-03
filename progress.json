@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
   "last_verified_study_at": null,
-  "active_topic": "prepare_numbered_verbs_71_80",
-  "next_action": "Introduce numbered verbs 71-80 now; keep review embedded rather than starting a review-only batch.",
+  "active_topic": "numbered_verbs_71_80_practice",
+  "next_action": "Learner studies verbs 71-80 and answers S02 E51-E60; embed old grammar/mistake retests inside the new-verb sentences.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -184,6 +184,96 @@
       "learner_answer": null,
       "priority": "deferred_review",
       "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+    },
+    {
+      "id": "2026-10-03-S02-E51",
+      "prompt_ar": "أنا برتب أوضتي بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E52",
+      "prompt_ar": "أنا بستحم كل صباح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E53",
+      "prompt_ar": "أنا بلبس الجاكيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E54",
+      "prompt_ar": "أنا بخلع الجاكيت في البيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E55",
+      "prompt_ar": "أنا بتسوق في السوبرماركت يوم السبت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E56",
+      "prompt_ar": "أنا بستأجر شقة قريبة من الجامعة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E57",
+      "prompt_ar": "أنا بنقل سكني لميونخ.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E58",
+      "prompt_ar": "أنا بسجل نفسي في الكورس.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E59",
+      "prompt_ar": "أنا بملا الاستمارة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-03-S02-E60",
+      "prompt_ar": "أنا بوقّع الاستمارة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "numbered_verbs_71_80",
+      "priority": "active_new_material"
     }
   ],
   "completed_exercise_ids": [
@@ -269,7 +359,7 @@
     "2026-10-03-S02-E50"
   ],
   "verbs": {
-    "introduced_total": 70,
+    "introduced_total": 80,
     "mastered_total": null,
     "groups": [
       {
@@ -303,6 +393,16 @@
         "assessment_basis": "live introduction after explicit learner progression request",
         "historical_review_count": null,
         "last_reviewed": "2026-10-03"
+      },
+      {
+        "from": 71,
+        "to": 80,
+        "count": 10,
+        "status": "introduced",
+        "recency": "new",
+        "introduced_on": "2026-10-03",
+        "assessment_basis": "live introduction under progression-first policy",
+        "historical_review_count": null
       }
     ],
     "items": [
@@ -1854,6 +1954,196 @@
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "e.g. nach München reisen",
         "entry_kind": "infinitive"
+      },
+      {
+        "id": 71,
+        "infinitive": "aufräumen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يرتب / يلم المكان",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich räume mein Zimmer auf.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 72,
+        "infinitive": "duschen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يستحم",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "Ich dusche jeden Morgen.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 73,
+        "infinitive": "anziehen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يرتدي / يلبس",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich ziehe die Jacke an.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 74,
+        "infinitive": "ausziehen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يخلع / ينتقل من السكن",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich ziehe die Jacke aus.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 75,
+        "infinitive": "einkaufen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يتسوق / يشتري احتياجات",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich kaufe im Supermarkt ein.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 76,
+        "infinitive": "mieten",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يستأجر",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "mieten + Akk: Ich miete eine Wohnung.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 77,
+        "infinitive": "umziehen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "ينتقل إلى سكن جديد",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich ziehe nach München um.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 78,
+        "infinitive": "anmelden",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يسجّل / يشترك",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "often reflexive: Ich melde mich für den Kurs an.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 79,
+        "infinitive": "ausfüllen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يملأ استمارة",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich fülle das Formular aus.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 80,
+        "infinitive": "unterschreiben",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يوقّع",
+        "review_status": "newly_introduced",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "unterschreiben + Akk: Ich unterschreibe das Formular.",
+        "entry_kind": "infinitive"
       }
     ],
     "named_verbs_without_confirmed_id": [],
@@ -2038,7 +2328,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 115,
+    "registered_entries_count": 116,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3847,6 +4137,22 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V116",
+        "german": "das Formular",
+        "meaning_ar": "الاستمارة / النموذج",
+        "type": "noun",
+        "article": "das",
+        "plural": "die Formulare",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S02 verbs 71-80 practice",
+        "usage_example": "Ich fülle das Formular aus.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -4861,12 +5167,12 @@
     "skill_progress_file": "progress.json"
   },
   "numbered_verbs_target": 100,
-  "numbered_verbs_introduced": 70,
+  "numbered_verbs_introduced": 80,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "61-70 mixed practice completed; progression threshold met; next step is 71-80.",
-  "next_suggested_action": "Start numbered verb batch 71-80.",
+  "latest_study_state": "Numbered verbs 71-80 introduced; active practice S02 E51-E60 pending.",
+  "next_suggested_action": "Practice numbered verbs 71-80.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -5119,6 +5425,13 @@
       "session_id": "2026-10-03-S02",
       "event": "verbs_61_70_first_practice_checkpoint",
       "note": "E31-E40 completed independently. All ten numbered verbs 61-70 were used correctly; minor issues were Arbeit capitalization and ein/das Paket specificity. Group moved introduced -> practicing. V115 die Geschichte introduced for the next 70/30 mixed batch."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "verbs_71_80_introduced",
+      "note": "Introduced verbs 71-80 and V116 das Formular. Active practice E51-E60 created."
     }
   ],
   "exercise_results": [
@@ -6168,5 +6481,6 @@
     }
   },
   "feature_config_updated_on": "2026-10-03",
-  "verbs_61_70_status": "practicing"
+  "verbs_61_70_status": "practicing",
+  "verbs_71_80_status": "introduced"
 }
