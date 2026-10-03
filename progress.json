@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-03",
-  "last_updated_at": "2026-10-03T20:28:05+02:00",
+  "last_updated_at": "2026-10-03T21:28:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-03",
   "latest_day": "2026-10-03",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 1,
-  "last_verified_study_at": "2026-10-03T20:28:05+02:00",
-  "active_topic": "full_review_closed_resume_batch_5",
-  "next_action": "On the next study session, offer the nine startup choices. If the learner chooses to continue, resume the preserved Batch 5 E41-E50 rather than creating new prompts.",
+  "day_status": "reopened",
+  "current_session_id": "2026-10-03-S02",
+  "sessions_recorded": 2,
+  "last_verified_study_at": "2026-10-03T21:28:00+02:00",
+  "active_topic": "new_study_session_short_cumulative_review",
+  "next_action": "Learner answers 2026-10-03-S02-E01 through 2026-10-03-S02-E10 as full German sentences. Preserve 2026-10-03-S01-E41 through E50 as the paused continuation from the prior session.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -91,6 +91,76 @@
     {
       "id": "2026-10-03-S01-E50",
       "prompt_ar": "أنا بوري أختي الكتاب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E01",
+      "prompt_ar": "بعد الشغل، أخويا بيقفل الباب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E02",
+      "prompt_ar": "المخبز قريب من الحديقة العامة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E03",
+      "prompt_ar": "أنا بحط الجاكيت على الكرسي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E04",
+      "prompt_ar": "الجاكيت موجود على الكرسي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E05",
+      "prompt_ar": "أنا بدي المدرس مفتاح أختي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E06",
+      "prompt_ar": "أنا بستنى صاحبي قدام المستشفى.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E07",
+      "prompt_ar": "أنا ببدأ أكتب رسالة بعد العشاء.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E08",
+      "prompt_ar": "هي بتساعد أخوها يفتح الشباك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E09",
+      "prompt_ar": "أنا عارف أمي بتشتغل فين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
+    },
+    {
+      "id": "2026-10-03-S02-E10",
+      "prompt_ar": "أنا بروح محطة القطر علشان أقابل صاحبي.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -1607,7 +1677,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 110,
+    "registered_entries_count": 111,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3295,6 +3365,31 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V111",
+        "german": "die Jacke",
+        "meaning_ar": "الجاكيت",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Jacken",
+        "status": "introduced",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": null,
+        "source": "2026-10-03-S02 short cumulative review batch 1",
+        "usage_example": "Die Jacke liegt auf dem Stuhl.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": "2026-10-03T21:28:00+02:00",
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E03",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical vocabulary and reused in E04; no learner attempt yet."
+          }
+        ]
       }
     ]
   },
@@ -4101,8 +4196,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "2026-10-03 closed after Session 2026-10-03-S01. Batches 1-4 (E01-E40) completed and corrected; Batch 5 (E41-E50) remains pending for a future session.",
-  "next_suggested_action": "Resume Batch 5 E41-E50 when the learner chooses Continue previous session.",
+  "latest_study_state": "2026-10-03 reopened for Session 2026-10-03-S02. New short cumulative review E01-E10 is active; prior Session S01 Batch 5 E41-E50 remains preserved and unattempted.",
+  "next_suggested_action": "Complete the active 2026-10-03-S02 short cumulative review first; do not discard the preserved S01 E41-E50 continuation.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -4314,6 +4409,13 @@
       "session_id": "2026-10-03-S01",
       "event": "day_closed",
       "note": "Learner said كفايه كدا انهردا. Closed the day after completing/correcting E01-E40. Preserved E41-E50 as pending continuation; no attempt counted for Batch 5."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T21:28:00+02:00",
+      "session_id": "2026-10-03-S02",
+      "event": "day_reopened_session_started",
+      "note": "Learner chose Start a new study day on the same date. Reopened the existing day file, preserved S01 E41-E50, introduced V111 die Jacke, and started a fresh short cumulative review E01-E10."
     }
   ],
   "exercise_results": [
