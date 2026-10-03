@@ -1,10 +1,11 @@
-# Verb curriculum — 70 / 100
+# Verb curriculum — 80 / 100
 
-**Numbered target: 100. Introduced: 70.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
+**Numbered target: 100. Introduced: 80.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
 
 - **1–50:** reviewed multiple times, generally retained; group baseline **strong**, with ongoing cumulative practice and individual weak patterns still tracked.
 - **51–60:** introduced on 2026-10-03, recent and **practicing**.
-- **61–70:** introduced on 2026-10-03 under the progression-first policy; first independent batch completed successfully; currently **practicing**.
+- **61–70:** introduced on 2026-10-03 under the progression-first policy; currently **practicing**.
+- **71–80:** newly introduced on 2026-10-03; currently **introduced / beginning practice**.
 - Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
 | ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
@@ -79,6 +80,16 @@
 | 68 | laufen | يمشي / يجري | practicing | du läufst; er/sie läuft |
 | 69 | spielen | يلعب | practicing | Fußball spielen; mit + Dat |
 | 70 | reisen | يسافر | practicing | nach München reisen |
+| 71 | aufräumen | يرتب / يلم المكان | introduced | separable; Ich räume mein Zimmer auf. |
+| 72 | duschen | يستحم | introduced | Ich dusche jeden Morgen. |
+| 73 | anziehen | يرتدي / يلبس | introduced | separable; Ich ziehe die Jacke an. |
+| 74 | ausziehen | يخلع / ينتقل من السكن | introduced | separable; Ich ziehe die Jacke aus. |
+| 75 | einkaufen | يتسوق / يشتري احتياجات | introduced | separable; Ich kaufe im Supermarkt ein. |
+| 76 | mieten | يستأجر | introduced | mieten + Akk: Ich miete eine Wohnung. |
+| 77 | umziehen | ينتقل إلى سكن جديد | introduced | separable; Ich ziehe nach München um. |
+| 78 | anmelden | يسجّل / يشترك | introduced | often reflexive: Ich melde mich für den Kurs an. |
+| 79 | ausfüllen | يملأ استمارة | introduced | separable; Ich fülle das Formular aus. |
+| 80 | unterschreiben | يوقّع | introduced | unterschreiben + Akk: Ich unterschreibe das Formular. |
 
 ## Counting and identity rules
 
@@ -102,7 +113,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **71–80**.
+Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **81–90**.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -120,3 +131,8 @@ Introduced live on 2026-10-03 after the learner explicitly requested new materia
 ## First practice result — 61–70
 
 S02 E31–E40: all ten new verbs were used correctly independently on first practice. Minor errors were outside the verb choice/construction (capitalization of **Arbeit** and article specificity **ein Paket**). Keep status **practicing**; one batch is not mastery. Use one further 70/30 mixed batch, then progress to 71–80 if performance remains strong.
+
+
+## Progression update — 71–80
+
+Introduced live on 2026-10-03 after the second 61–70 mixed batch. Progression-first policy remains active. First practice is S02 E51–E60 with older grammar/mistake patterns embedded inside the new-verb sentences.
