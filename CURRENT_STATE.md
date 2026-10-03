@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T18:49:04+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-03T19:24:44+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 60 / 100 numbered verbs introduced
 
@@ -30,7 +30,11 @@ Updated: **2026-10-03T18:49:04+02:00**. Calendar timezone: **Europe/Berlin**.
 - Batch 2 E11–E20 is now answered and corrected.
 - M01 darf/darfst moved **weak → improving** after a second fresh independent correct use.
 - New active pattern M27: stationary Dativ vs destination Akkusativ with two-way prepositions.
-- Exact continuation point: Batch 3 E21–E30 is pending; it retests Genitiv, location/destination, indirect wo clauses, and recent verbs.
+- Batch 3 E21–E30 is answered and corrected.
+- M27 Wo/Wohin moved **weak → improving** after the correct pair **auf den Schreibtisch / auf dem Schreibtisch**.
+- M28 is a new weak pattern: after a fronted phrase such as **Nach der Arbeit**, the finite verb must stay in position 2.
+- Nested Genitiv showed one fresh correct use: **des Hauses des Chefs**.
+- Exact continuation point: Batch 4 E31–E40 is pending. Fresh vocabulary: **der Rucksack — die Rucksäcke**.
 
 ## Day and session state
 
@@ -43,9 +47,9 @@ Updated: **2026-10-03T18:49:04+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Strengths and review priorities
 
-**Weak / active:** Genitiv articles/noun endings, nested Genitiv, Genitiv adjective endings, and two-way prepositions for stationary Dativ vs destination Akkusativ.
+**Weak / active:** Genitiv articles/noun endings, nested Genitiv, Genitiv adjective endings, and verb-second after a fronted phrase.
 
-**Improving:** darf/darfst; sitzen/setzen; anfangen conjugation; possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; suchen + Akk after a fresh error; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
+**Improving:** darf/darfst; sitzen/setzen; liegen/legen/stellen with Wo/Wohin; anfangen conjugation; possessives; specific-verb Akk/Dat; deshalb order; modal infinitive; object pronouns; Dat person + Akk thing; warten auf; um ... zu; anfangen/aufhören + zu; suchen + Akk; final verbs with weil/wo; quantity expression eine Tasse Wasser/Kaffee; capitalization.
 
 **More stable:** wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
