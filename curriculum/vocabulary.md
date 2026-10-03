@@ -111,7 +111,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V103 | vergessen | — | ينسى | supplemental_verb | introduced |
 | V104 | in der Nähe + Genitiv | — | قريب من؛ صيغة Genitiv | expression | introduced |
 | V105 | in der Nähe von + Dativ | — | قريب من؛ بديل von + Dativ | expression | introduced |
-| V106 | der Termin | die Termine | الموعد | noun | introduced |
+| V106 | der Termin | die Termine | الموعد | noun | practicing |
 
 ## Fresh live introductions
 
@@ -122,7 +122,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 - Natural example: **Ich habe morgen einen Termin.**
 - Introduced on: **2026-10-03**
 - Source: **2026-10-03-S01, Full review, Batch 1**
-- Exercise evidence: **2026-10-03-S01-E09** uses the new word; learner answer is still pending, so this is introduction evidence only and not mastery evidence.
+- Exercise evidence: **2026-10-03-S01-E09** — learner independently used **einen Termin** correctly. Status: practicing.
 
 ## Supplemental material and counting
 
