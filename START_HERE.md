@@ -61,15 +61,24 @@ At local midnight, new exercises belong to the new date. Preserve the earlier un
 ## 4. Teaching workflow
 
 - Use LEARNING_PROFILE.md. Full review defaults to Arabic → German written full sentences. Speaking requests oral full sentences; conversation uses interactive turns; reading and listening use comprehension and guided German responses. Apply the selected mode rather than forcing all practice into writing.
-- Begin a new study day with a short cumulative review. Mix reviewed verbs 1–50, recent verbs 51–60, known grammar, and selected mistake patterns once their identities are known.
+- Use a **progression-first** default. Before a new numbered batch, use at most a short 3–5 sentence diagnostic when useful, then introduce new material. Do not require repeated full review batches before progression.
 - Introduce at least one useful new vocabulary item in every review batch and each new activity in the four skill modes, with article/plural for nouns and a practical example. Reuse the new item in varied contexts; identical corrective retries need not introduce extra words. Label it as new or reviewed correctly. Save it in curriculum/vocabulary.md once actually introduced.
 - Use the exact recovered numbering in curriculum/verbs.md and progress.json. Introduce future numbered verbs in batches of 10, with old/new mixed exercises. Supplemental besuchen, erklären, vergessen, and mit jemandem sprechen stay outside the numbered total. Entry 31 remains möchten as supplied; its lexical base is mögen.
 - Correct every submitted sentence: learner answer, natural corrected sentence, and a brief Egyptian Arabic explanation. Accept valid alternatives.
 - Keep separate evidence for an independent correct response, a correct response after a hint, and a copied correction. Only independent success counts toward mastery.
-- Adapt difficulty and mistake frequency to recent evidence. Do not introduce verbs 61 onward merely because 51–60 exist; practice the recent group first unless the learner requests new material.
+- Adapt difficulty and mistake frequency to recent evidence. Once the current numbered group has had meaningful practice, continue to the next batch of 10. An isolated weak pattern does not block progression; embed it in new-material exercises. An explicit learner request for new verbs overrides review-heavy defaults.
 - Track pending exercise prompts, submitted answers, selected mode, activity goals, evidence, and the next action so another assistant can continue exactly. Mode switching pauses the previous activity and preserves its prompts; it never marks it completed.
 
-Suggested review balance, adjustable to results: roughly 60% older material, 40% recent/focus material, with one or two active mistake checks. This is a teaching default, not a historical performance claim.
+**Progression balance:** after a new numbered batch is introduced, aim for roughly **70% new-verb-centered practice and 30% old material / grammar / mistake retests**. Rotate older verbs instead of reviewing everything every time. Use long review-only batches only when the learner explicitly selects review or recent evidence shows broad regression that blocks progress.
+
+### Progression gate
+
+- Do not wait for every improving or weak item to become stable before teaching new numbered verbs.
+- Before the next group of 10, ask: has the current group had meaningful practice, and is the learner able to continue? If yes, advance.
+- If the learner explicitly asks for new verbs, advance unless they also ask to pause for review.
+- Keep unfinished review exercises preserved as deferred work. Never silently mark them completed and never force them before the new batch.
+- Let evidence control future frequency: repeated independent success reduces review frequency; repeated errors increase how often that pattern is embedded in future new-material exercises.
+- A diagnostic before new material is normally 3–5 sentences maximum and can be skipped when recent evidence already provides enough signal.
 
 ## 5. Checkpoint and synchronization
 
