@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-03-S02",
   "sessions_recorded": 2,
   "last_verified_study_at": null,
-  "active_topic": "s02_batch_2_cumulative_review",
-  "next_action": "Answer 2026-10-03-S02-E11 through E20; preserve S01 E41-E50.",
+  "active_topic": "s02_batch_3_cumulative_review",
+  "next_action": "Answer 2026-10-03-S02-E21 through E30; preserve S01 E41-E50.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -96,71 +96,71 @@
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E11",
-      "prompt_ar": "بعد العشاء، أنا ببدأ أقرأ كتاب.",
+      "id": "2026-10-03-S02-E21",
+      "prompt_ar": "بعد الشغل، أنا بحط شنطة السفر جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E12",
-      "prompt_ar": "الفندق قريب من المطعم الجديد.",
+      "id": "2026-10-03-S02-E22",
+      "prompt_ar": "شنطة السفر موجودة جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E13",
-      "prompt_ar": "أنا بحط المظلة جنب الباب.",
+      "id": "2026-10-03-S02-E23",
+      "prompt_ar": "المكتبة قريبة من المتحف الجديد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E14",
-      "prompt_ar": "المظلة موجودة جنب الباب.",
+      "id": "2026-10-03-S02-E24",
+      "prompt_ar": "أنا بستنى أخويا قدام محطة القطر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E15",
-      "prompt_ar": "بعد الشغل، أنا بستنى المدرس قدام الجامعة.",
+      "id": "2026-10-03-S02-E25",
+      "prompt_ar": "أنا بدي أبويا مفتاح العربية.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E16",
-      "prompt_ar": "أنا بدي أمي مفتاح العربية.",
+      "id": "2026-10-03-S02-E26",
+      "prompt_ar": "أنا ببدأ أطبخ الساعة ستة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E17",
-      "prompt_ar": "أنا بتوقف عن الكتابة الساعة عشرة.",
+      "id": "2026-10-03-S02-E27",
+      "prompt_ar": "أنا بتوقف عن القراءة الساعة حداشر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E18",
-      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "id": "2026-10-03-S02-E28",
+      "prompt_ar": "أنا عارف أختي بتشتغل فين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E19",
-      "prompt_ar": "هي بتساعد أختها تدور على الموبايل.",
+      "id": "2026-10-03-S02-E29",
+      "prompt_ar": "هي بتساعد أخوها يكتب رسالة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
     },
     {
-      "id": "2026-10-03-S02-E20",
-      "prompt_ar": "أنا بروح السوبرماركت علشان أشتري لبن.",
+      "id": "2026-10-03-S02-E30",
+      "prompt_ar": "أنا بروح السوبرماركت علشان أشتري سلطة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -216,7 +216,17 @@
     "2026-10-03-S02-E07",
     "2026-10-03-S02-E08",
     "2026-10-03-S02-E09",
-    "2026-10-03-S02-E10"
+    "2026-10-03-S02-E10",
+    "2026-10-03-S02-E11",
+    "2026-10-03-S02-E12",
+    "2026-10-03-S02-E13",
+    "2026-10-03-S02-E14",
+    "2026-10-03-S02-E15",
+    "2026-10-03-S02-E16",
+    "2026-10-03-S02-E17",
+    "2026-10-03-S02-E18",
+    "2026-10-03-S02-E19",
+    "2026-10-03-S02-E20"
   ],
   "verbs": {
     "introduced_total": 60,
@@ -1687,7 +1697,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 112,
+    "registered_entries_count": 113,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -3408,11 +3418,48 @@
         "type": "noun",
         "article": "der",
         "plural": "die Regenschirme",
+        "status": "practicing",
+        "introduced_on": "2026-10-03",
+        "last_reviewed": "2026-10-03",
+        "source": "2026-10-03-S02 batch 2",
+        "usage_example": "Der Regenschirm steht neben der Tür.",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "evidence": [
+          {
+            "date": "2026-10-03",
+            "timestamp": null,
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E13",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct lexical use of Regenschirm."
+          },
+          {
+            "date": "2026-10-03",
+            "timestamp": null,
+            "session_id": "2026-10-03-S02",
+            "exercise_id": "2026-10-03-S02-E14",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct lexical use of Regenschirm."
+          }
+        ]
+      },
+      {
+        "id": "V113",
+        "german": "der Koffer",
+        "meaning_ar": "شنطة السفر / الحقيبة",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Koffer",
         "status": "introduced",
         "introduced_on": "2026-10-03",
         "last_reviewed": null,
-        "source": "2026-10-03-S02 batch 2",
-        "usage_example": "Der Regenschirm steht neben der Tür.",
+        "source": "2026-10-03-S02 batch 3",
+        "usage_example": "Der Koffer steht neben der Tür.",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -3601,7 +3648,7 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 1,
+      "independent_correct": 2,
       "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-03-S01"
@@ -3614,6 +3661,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E08 helfen + meinem Bruder correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E19",
+          "independent": true,
+          "note": "helfen + Dativ ihrer Schwester correct."
         }
       ]
     },
@@ -3720,7 +3775,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 5,
+      "recorded_errors": 6,
       "independent_correct": 1,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [
@@ -3750,6 +3805,14 @@
           "exercise_id": "2026-10-03-S01-E16",
           "independent": true,
           "note": "E12 owner phrase needs des Chefs; E16 final possessor phrase incorrect although des Hauses was correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E12",
+          "independent": true,
+          "note": "Genitiv article/adjective correct, but Restaurant needed -s: des neuen Restaurants."
         }
       ]
     },
@@ -3799,8 +3862,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 2,
+      "independent_correct": 3,
+      "independent_correct_since_last_error": 3,
       "successful_session_ids": [],
       "last_checked": "2026-10-03",
       "evidence": [
@@ -3818,6 +3881,14 @@
           "exercise_id": "2026-10-03-S02-E02",
           "independent": true,
           "note": "Second post-error success: des öffentlichen Parks."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E12",
+          "independent": true,
+          "note": "Correct adjective ending neuen in des neuen Restaurants."
         }
       ]
     },
@@ -3860,11 +3931,20 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E16",
+          "independent": true,
+          "note": "Correct Dat recipient meiner Mutter + direct object slot; article gender error separate."
+        }
+      ]
     },
     {
       "id": "M16",
@@ -3877,9 +3957,9 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3891,6 +3971,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E06 warten auf meinen Freund correct."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E15",
+          "independent": true,
+          "note": "Missing auf with warten; correct warten auf den Lehrer."
         }
       ]
     },
@@ -3906,8 +3994,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3920,6 +4008,14 @@
           "exercise_id": "2026-10-03-S01-E19",
           "independent": true,
           "note": "E19 independently formed um Wasser zu holen correctly; capitalization error unrelated."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E20",
+          "independent": true,
+          "note": "um Milch zu kaufen fully correct."
         }
       ]
     },
@@ -3934,9 +4030,9 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
+      "recorded_errors": 4,
       "independent_correct": 2,
-      "independent_correct_since_last_error": 0,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -3964,6 +4060,22 @@
           "exercise_id": "2026-10-03-S02-E07",
           "independent": true,
           "note": "anfangen + zu structure incorrect."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E11",
+          "independent": true,
+          "note": "anfangen + zu structure still needs correction."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E17",
+          "independent": true,
+          "note": "Correct aufhören + zu schreiben after the earlier batch error."
         }
       ]
     },
@@ -3979,7 +4091,7 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 4,
+      "independent_correct": 5,
       "independent_correct_since_last_error": 4,
       "successful_session_ids": [
         "2026-10-03-S01"
@@ -4009,6 +4121,14 @@
           "exercise_id": "2026-10-03-S02-E09",
           "independent": true,
           "note": "wo-clause order correct again."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E18",
+          "independent": true,
+          "note": "Indirect wo clause fully correct."
         }
       ]
     },
@@ -4121,8 +4241,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [],
       "last_checked": "2026-10-03",
       "evidence": [
@@ -4132,6 +4252,14 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E08 search-object construction wrong; stable -> improving."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E19",
+          "independent": true,
+          "note": "suchen + Akk das Handy correct."
         }
       ]
     },
@@ -4219,18 +4347,21 @@
     {
       "id": "M28",
       "topic": "verb_second_after_fronted_element",
-      "status": "improving",
+      "status": "stable",
       "title": "Verb-second after a fronted phrase",
       "reference_example": "Nach der Arbeit treffe ich meinen Freund.",
       "severity": "grammar_or_usage",
-      "priority": "medium",
+      "priority": "low",
       "assessment_source": "fresh_live_evidence",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 2,
-      "successful_session_ids": [],
+      "independent_correct": 4,
+      "independent_correct_since_last_error": 4,
+      "successful_session_ids": [
+        "2026-10-03-S01",
+        "2026-10-03-S02"
+      ],
       "last_checked": "2026-10-03",
       "evidence": [
         {
@@ -4240,6 +4371,51 @@
           "exercise_id": "2026-10-03-S02-E01",
           "independent": true,
           "note": "Second post-error success: correct V2 after Nach der Arbeit."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E15",
+          "independent": true,
+          "note": "V2 correct again after Nach der Arbeit; enough post-error evidence across two sessions -> stable."
+        }
+      ]
+    },
+    {
+      "id": "M29",
+      "topic": "stehen_stellen",
+      "status": "weak",
+      "title": "stehen vs stellen",
+      "reference_example": "Der Koffer steht neben der Tür. Ich stelle den Koffer neben die Tür.",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "fresh_live_evidence",
+      "assessment_date": "2026-10-03",
+      "historical_error_count": null,
+      "recorded_errors": 1,
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [
+        "2026-10-03-S02"
+      ],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E13",
+          "independent": true,
+          "note": "Correct stellen for placing the Regenschirm."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E14",
+          "independent": true,
+          "note": "Used stellt for stationary location; correct is steht."
         }
       ]
     }
@@ -4280,7 +4456,7 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "S02 E01-E10 corrected; S02 E11-E20 pending; S01 E41-E50 preserved.",
+  "latest_study_state": "S02 E11-E20 completed/corrected; S02 E21-E30 pending; S01 E41-E50 preserved.",
   "next_suggested_action": "Complete the active 2026-10-03-S02 short cumulative review first; do not discard the preserved S01 E41-E50 continuation.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
@@ -4413,7 +4589,9 @@
       "evidence": []
     }
   ],
-  "active_mistake_pattern_ids": [],
+  "active_mistake_pattern_ids": [
+    "M29"
+  ],
   "study_history": [
     {
       "date": "2026-09-30",
@@ -4504,6 +4682,13 @@
       "session_id": "2026-10-03-S02",
       "event": "s02_batch_1_checkpoint",
       "note": "E01-E10 corrected; M13/M28 improving, M27/M19 stable; V112 introduced for E11-E20."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "s02_batch_2_checkpoint",
+      "note": "E11-E20 corrected. M29 stehen/stellen created weak; M28 moved to stable; warten auf and Genitiv noun ending retest needed. V113 der Koffer introduced for E21-E30."
     }
   ],
   "exercise_results": [
@@ -4856,6 +5041,126 @@
       "hint_used": false,
       "independent": true,
       "note": "um...zu correct; treffen takes Akk meinen Freund."
+    },
+    {
+      "id": "2026-10-03-S02-E11",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Nach dem Abendessen, fange ich das Buch an zu lesen",
+      "correction": "Nach dem Abendessen fange ich an, ein Buch zu lesen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "V2 is correct. Use anfangen ... an + infinitive group; prompt says ein Buch. No comma after the fronted phrase."
+    },
+    {
+      "id": "2026-10-03-S02-E12",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Das Hotel ist in der Nähe des neuen Restaurant",
+      "correction": "Das Hotel ist in der Nähe des neuen Restaurants.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Genitiv adjective ending neuen is correct; Restaurant needs Genitiv -s."
+    },
+    {
+      "id": "2026-10-03-S02-E13",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich stelle den Regenschirm neben die Tür",
+      "correction": "Ich stelle den Regenschirm neben die Tür.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "stellen + destination Akkusativ neben die Tür is correct."
+    },
+    {
+      "id": "2026-10-03-S02-E14",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Der Regenschirm stellt neben der Tür",
+      "correction": "Der Regenschirm steht neben der Tür.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Stationary upright object uses stehen, not stellen. Dativ neben der Tür is correct."
+    },
+    {
+      "id": "2026-10-03-S02-E15",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Nach dem Arbeit warte ich den Lehrer vor der Hochschule",
+      "correction": "Nach der Arbeit warte ich vor der Universität auf den Lehrer.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Use nach der Arbeit; warten auf + Akk. V2 is correct."
+    },
+    {
+      "id": "2026-10-03-S02-E16",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich gebe meiner Mutter das Autoschlüssel",
+      "correction": "Ich gebe meiner Mutter den Autoschlüssel.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Dat recipient is correct; der Autoschlüssel -> Akk den Autoschlüssel."
+    },
+    {
+      "id": "2026-10-03-S02-E17",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich höre um zehn Uhr auf, zu schreiben",
+      "correction": "Ich höre um zehn Uhr auf zu schreiben.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "aufhören + zu + Infinitiv is correct; the comma is unnecessary here."
+    },
+    {
+      "id": "2026-10-03-S02-E18",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich weiß, wo mein Freund wohnt",
+      "correction": "Ich weiß, wo mein Freund wohnt.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Indirect wo-clause is fully correct."
+    },
+    {
+      "id": "2026-10-03-S02-E19",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Sie hilft ihrer Schwester, das Handy zu suchen",
+      "correction": "Sie hilft ihrer Schwester, das Handy zu suchen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "helfen + Dativ and suchen + Akk are correct."
+    },
+    {
+      "id": "2026-10-03-S02-E20",
+      "session_id": "2026-10-03-S02",
+      "date": "2026-10-03",
+      "timestamp": null,
+      "learner_answer": "Ich gehe zum Supermarkt, um Milch zu kaufen",
+      "correction": "Ich gehe zum Supermarkt, um Milch zu kaufen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "um ... zu construction is fully correct."
     }
   ],
   "skill_tracking": {
