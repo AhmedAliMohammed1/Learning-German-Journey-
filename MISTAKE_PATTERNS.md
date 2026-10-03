@@ -80,3 +80,18 @@ The reference sentences above are correct forms or historical study examples; th
 
 - Initialization retained ten reported patterns with needs_check because their reliability was unknown.
 - 2026-10-03 backfill supplies current weak/improving/stable assessments, adds Genitiv and other historical patterns, and preserves M10 as a diagnostic without inventing new observations.
+
+
+## Fresh live evidence — 2026-10-03 — S01 Batch 1
+
+- M01 remains weak: E01 used **darfst** correctly once.
+- M05 moved **weak -> improving**: E04 used **sitzt** correctly and E05 used **setze** correctly.
+- M11 remains weak: Genitiv ownership/endings were wrong in E02, E03, and E04; E10 did correctly form **des Parks**.
+- M12 remains weak: E04 needs **des Eingangs der Schule**.
+- M13 remains weak: E10 needs **des öffentlichen Parks**.
+- M16 remains improving: E06 correctly used **warten auf meinen Freund**.
+- M10 moved **needs_check -> improving**: E07 used **ich fange an** correctly.
+- M18 remains improving with a fresh error: E07 omitted **zu** before *lesen*.
+- M06 remains stable: E08 correctly used **helfen + Dativ**.
+- M24 moved **stable -> improving**: E08 used an incorrect object construction with **suchen**.
+- M03 and M09 remain improving: E09 correctly used **deshalb + verb-second** and modal + final infinitive.
