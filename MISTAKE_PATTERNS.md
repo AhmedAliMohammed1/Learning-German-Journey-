@@ -95,3 +95,15 @@ The reference sentences above are correct forms or historical study examples; th
 - M06 remains stable: E08 correctly used **helfen + Dativ**.
 - M24 moved **stable -> improving**: E08 used an incorrect object construction with **suchen**.
 - M03 and M09 remain improving: E09 correctly used **deshalb + verb-second** and modal + final infinitive.
+
+
+## Fresh live evidence — 2026-10-03 — S01 Batch 2
+
+- **M01 improving:** E11 used **Mein Bruder darf ... schließen** correctly; second fresh independent success, weak -> improving.
+- **M11 weak:** E12 and E16 still show Genitiv possessor-ending problems.
+- **M12 weak:** E16 got **des Hauses** right but failed the second possession layer.
+- **M18 improving:** E17 correctly used **aufhören + zu arbeiten**.
+- **M19 improving:** E18 indirect **wo** clause wrong; E20 **weil** clause word order correct.
+- **M17 improving:** E19 correctly used **um ... zu holen**.
+- **M21 improving:** capitalization errors in **Arbeiten** and **wasser**.
+- **M27 weak — new live pattern:** stationary location takes Dativ, destination takes Akkusativ with two-way prepositions. E13 used **im Kühlschrank** after **stellen**; correct is **in den Kühlschrank**. E15 correctly used **auf den Tisch**.
