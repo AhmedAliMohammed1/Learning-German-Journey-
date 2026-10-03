@@ -8,7 +8,7 @@ Updated: **2026-10-03T22:38:00+02:00**. Calendar timezone: **Europe/Berlin**.
 - **51–60:** recent and **practicing**: liegen, legen, stellen, setzen, öffnen, schließen, anfangen, aufhören, warten, treffen.
 - **61–70:** practicing: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
 - **71–80:** newly introduced: aufräumen, duschen, anziehen, ausziehen, einkaufen, mieten, umziehen, anmelden, ausfüllen, unterschreiben.
-- Exact numbered identities and meanings are complete through **70** in curriculum/verbs.md and progress.json.
+- Exact numbered identities and meanings are complete through **80** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
 - No invented mastery percentages. Target 100 is confirmed by the learner.
 
@@ -23,29 +23,30 @@ Updated: **2026-10-03T22:38:00+02:00**. Calendar timezone: **Europe/Berlin**.
 ## Latest study state and continuation
 
 - Latest actual study date: **2026-10-03**.
-- Active session: **2026-10-03-S02**.
-- First independent practice of numbered verbs **61–70** is complete.
-- All ten new verbs were used correctly; only minor non-verb issues appeared: **Arbeit** capitalization and **ein Paket** vs **das Paket**.
-- Group 61–70 moved from introduced to **practicing**.
-- Active next batch: **S02 E41–E50**, using the progression-first 70/30 mix.
-- New vocabulary: **V115 — die Geschichte (die Geschichten)**.
-- If this next batch stays strong, the next progression target is **71–80**, not another long review cycle.
-- Earlier deferred review remains preserved.
+- Day is **closed** after Session S02.
+- Numbered verbs **61–70** were introduced and practiced; group remains **practicing**, not mastered.
+- Numbered verbs **71–80** were introduced but their first exercise batch has **not been attempted yet**.
+- Primary continuation next time: **S02 E51–E60** for verbs 71–80.
+- Older review batches **S02 E21–E30** and **S01 E41–E50** remain preserved as deferred work and must not be forced before 71–80.
+- Progression-first policy remains active.
+- Fresh embedded targets from the latest mixed batch: **nach der Arbeit**, **anrufen + Akk + separable an**, **mit + Dativ plural**.
+- Fresh successful maintenance: **stehen** in a stationary sentence, **warten auf + Akk**, and **anfangen + zu**.
 
 ## Day and session state
 
 - Current/latest file: days/2026-10-03.md.
-- Status: **reopened**.
-- Live sessions: **2**.
-- Active session ID: **2026-10-03-S02**. Progression-first policy is active.
-- S02 E01–E20 completed; S02 E21–E30 preserved as deferred review while progression moves to verbs 61–70.
-- Older preserved pending work: S01 E41–E50.
+- Status: **closed**.
+- Live sessions recorded: **2**.
+- Active session ID: **none**.
+- Last session: **2026-10-03-S02**, closed with unfinished active practice preserved.
+- Primary next-session continuation: **S02 E51–E60**.
+- Deferred review: **S02 E21–E30** and **S01 E41–E50**.
 
 ## Strengths and review priorities
 
 **Weak / active:** M29 stehen vs stellen.
 
-**Improving:** M11 Genitiv article/noun endings; M13 Genitiv adjective ending; M16 warten auf + Akk; M18 anfangen/aufhören + zu; M14 verb-specific Akk/Dat; M15 Dat person + Akk thing; M17 um ... zu; capitalization; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
+**Improving:** M11 Genitiv article/noun endings; M13 Genitiv adjective ending; M16 warten auf + Akk; M18 anfangen/aufhören + zu; M14 verb-specific Akk/Dat; M15 Dat person + Akk thing; M17 um ... zu; **M30 nach + Dativ in temporal phrases**; capitalization; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
 
 **More stable:** M28 V2 after a fronted phrase; M27 stationary Dativ vs destination Akkusativ; M19 final verb with weil/wo; wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
@@ -53,7 +54,7 @@ Minor spelling issues remain low priority and separate.
 
 ## Teaching profile and vocabulary
 
-Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; cumulative reviews across all earlier groups; correct every sentence and explain why; new practical vocabulary in every review.
+Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
 **116 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
@@ -161,3 +162,14 @@ Introduced on 2026-10-03 under the progression-first policy:
 - New vocabulary: **V116 — das Formular (die Formulare)**.
 - Active practice: **S02 E51–E60**.
 - Embedded review targets: **nach der Arbeit**, **anrufen + Akk + separable an**, **mit + Dativ plural**, plus light maintenance of **stehen**, **warten auf**, and **anfangen + zu**.
+
+
+## End-of-day state — 2026-10-03 — S02 closure
+
+- Learner explicitly ended the day after verbs 71–80 were introduced.
+- 80 / 100 numbered verbs are introduced.
+- 71–80 are **introduced only**; do not count E51–E60 as completed.
+- Resume next time from **S02 E51–E60**.
+- Keep the progression-first policy active; embed review rather than reopening a long review cycle.
+- Current weak live pattern: **M29 stehen vs stellen**.
+- M30 **nach + Dativ** is improving and should be embedded in future new-material practice.
