@@ -1,9 +1,10 @@
-# Verb curriculum — 60 / 100
+# Verb curriculum — 70 / 100
 
-**Numbered target: 100. Introduced: 60.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
+**Numbered target: 100. Introduced: 70.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
 
 - **1–50:** reviewed multiple times, generally retained; group baseline **strong**, with ongoing cumulative practice and individual weak patterns still tracked.
 - **51–60:** introduced on 2026-10-03, recent and **practicing**.
+- **61–70:** introduced on 2026-10-03 under the progression-first policy; currently **introduced / beginning practice**.
 - Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
 | ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
@@ -68,6 +69,16 @@
 | 58 | aufhören | يتوقف | practicing | separable; + zu + infinitive |
 | 59 | warten | ينتظر | practicing | warten auf + Akk |
 | 60 | treffen | يقابل | practicing | + Akk |
+| 61 | sagen | يقول | introduced | jemandem etwas sagen; Dat person + content/object |
+| 62 | erzählen | يحكي / يروي | introduced | jemandem etwas erzählen; Dat person + content |
+| 63 | anrufen | يتصل هاتفيًا | introduced | separable; jemanden anrufen + Akk: Ich rufe meine Mutter an. |
+| 64 | schicken | يرسل | introduced | Dat person + Akk thing: Ich schicke meinem Freund ein Paket. |
+| 65 | tragen | يحمل / يرتدي | introduced | + Akk; du trägst; er/sie trägt |
+| 66 | waschen | يغسل | introduced | + Akk; du wäschst; er/sie wäscht |
+| 67 | putzen | ينظف | introduced | + Akk; das Fenster putzen / die Zähne putzen |
+| 68 | laufen | يمشي / يجري | introduced | du läufst; er/sie läuft |
+| 69 | spielen | يلعب | introduced | Fußball spielen; mit + Dat |
+| 70 | reisen | يسافر | introduced | nach München reisen |
 
 ## Counting and identity rules
 
@@ -91,7 +102,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10**, after a quick cumulative review. Mix every new batch with all earlier groups over subsequent reviews. When adding 61–70, increase the introduced total only for actually introduced numbered entries.
+Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **71–80**.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -99,3 +110,8 @@ For each actual attempt, save date, session/exercise IDs, hints, errors, and ind
 
 - 2026-10-03 initialization: preserved the known 60 IDs while their names were unavailable.
 - 2026-10-03 backfill: learner supplied all 60 exact names and meanings. Existing IDs were completed; no additional numbered verbs were introduced by this repository update.
+
+
+## Progression update — 61–70
+
+Introduced live on 2026-10-03 after the learner explicitly requested new material instead of continued long review. No mastery is claimed yet. First active practice is S02 E31–E40. Weak/improving older patterns should be embedded inside these new-verb exercises rather than used to block progression.
