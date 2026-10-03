@@ -23,7 +23,7 @@
   "sessions_recorded": 1,
   "last_verified_study_at": "2026-10-03T20:28:05+02:00",
   "active_topic": "full_review_closed_resume_batch_5",
-  "next_action": "On the next study session, offer the five startup choices. If the learner chooses to continue, resume the preserved Batch 5 E41-E50 rather than creating new prompts.",
+  "next_action": "On the next study session, offer the nine startup choices. If the learner chooses to continue, resume the preserved Batch 5 E41-E50 rather than creating new prompts.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -3315,7 +3315,29 @@
     "never_reteach_introduced_verbs_as_new": true,
     "reduce_priority_when_consistently_correct": true,
     "persist_preference_changes": true,
-    "startup_show_choices_before_teaching": true
+    "startup_show_choices_before_teaching": true,
+    "enabled_skill_modes": [
+      "speaking",
+      "conversation",
+      "reading",
+      "listening"
+    ],
+    "speaking_prompt_language": "Egyptian Arabic",
+    "speaking_answer_mode": "learner_says_full_German_sentence",
+    "conversation_method": "adaptive_practical_role_play_one_turn_at_a_time",
+    "reading_tasks": [
+      "full_or_partial_translation",
+      "comprehension_questions"
+    ],
+    "listening_method": "audible_German_topic_then_questions",
+    "comprehension_answer_language": "German_preferred_Arabic_scaffold_allowed",
+    "arabic_fallback_then_independent_german_retest": true,
+    "pronunciation_requires_assessable_original_audio": true,
+    "listening_requires_actual_audio_delivery": true,
+    "new_vocabulary_in_each_skill_activity": true,
+    "adaptive_cross_mode_tracking": true,
+    "retain_unfinished_activities_on_pause": true,
+    "delayed_retention_retesting": true
   },
   "mistake_patterns": [
     {
@@ -4050,7 +4072,11 @@
       "targeted_review",
       "continue_previous_session",
       "start_new_study_day",
-      "show_progress"
+      "show_progress",
+      "speaking",
+      "conversation",
+      "reading",
+      "listening"
     ],
     "day_file_pattern": "days/YYYY-MM-DD.md",
     "same_date_policy": "append_to_same_file",
@@ -4066,7 +4092,9 @@
     ],
     "event_idempotency": "stable_session_and_exercise_ids",
     "startup_requires_choice": true,
-    "backfilled_history_policy": "daily summaries preserve historical learning; do not invent session counts or scored answers"
+    "backfilled_history_policy": "daily summaries preserve historical learning; do not invent session counts or scored answers",
+    "skill_modes_protocol": "START_HERE.md sections 9–11",
+    "skill_progress_file": "progress.json"
   },
   "numbered_verbs_target": 100,
   "numbered_verbs_introduced": 60,
@@ -4519,5 +4547,330 @@
       "independent": true,
       "note": "weil-clause word order correct; comma needed."
     }
-  ]
+  ],
+  "skill_tracking": {
+    "speaking": {
+      "status": "not_assessed",
+      "trend": "unknown",
+      "assessment_basis": "no_mode_specific_attempts_recorded",
+      "last_practiced_on": null,
+      "last_assessed_on": null,
+      "pending_activity_id": null,
+      "dimensions": {
+        "german_production": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "grammar": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "vocabulary": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "fluency": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        }
+      },
+      "activities": [],
+      "evidence": [],
+      "next_action": "Run a short suitable diagnostic only after the learner selects this mode."
+    },
+    "conversation": {
+      "status": "not_assessed",
+      "trend": "unknown",
+      "assessment_basis": "no_mode_specific_attempts_recorded",
+      "last_practiced_on": null,
+      "last_assessed_on": null,
+      "pending_activity_id": null,
+      "dimensions": {
+        "german_production": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "grammar": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "vocabulary": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "turn_taking": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "fluency": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        }
+      },
+      "activities": [],
+      "evidence": [],
+      "next_action": "Run a short suitable diagnostic only after the learner selects this mode."
+    },
+    "reading": {
+      "status": "not_assessed",
+      "trend": "unknown",
+      "assessment_basis": "no_mode_specific_attempts_recorded",
+      "last_practiced_on": null,
+      "last_assessed_on": null,
+      "pending_activity_id": null,
+      "dimensions": {
+        "comprehension": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "german_production": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "grammar": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "vocabulary": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        }
+      },
+      "activities": [],
+      "evidence": [],
+      "next_action": "Run a short suitable diagnostic only after the learner selects this mode."
+    },
+    "listening": {
+      "status": "not_assessed",
+      "trend": "unknown",
+      "assessment_basis": "no_mode_specific_attempts_recorded",
+      "last_practiced_on": null,
+      "last_assessed_on": null,
+      "pending_activity_id": null,
+      "dimensions": {
+        "comprehension": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "german_production": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "grammar": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "vocabulary": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "recorded_attempts": 0,
+          "independent_correct": 0,
+          "correct_with_support": 0,
+          "needs_retry": 0,
+          "last_assessed_on": null,
+          "evidence_ids": []
+        }
+      },
+      "activities": [],
+      "evidence": [],
+      "next_action": "Run a short suitable diagnostic only after the learner selects this mode."
+    }
+  },
+  "review_queue": [],
+  "adaptive_learning": {
+    "policy_version": 1,
+    "configuration_updated_on": "2026-10-03",
+    "content_selection_sources": [
+      "learner_selected_mode",
+      "numbered_verbs_and_supplemental_inventory",
+      "grammar_topic_statuses",
+      "vocabulary_inventory_and_evidence",
+      "latest_mistake_patterns",
+      "recent_comparable_skill_attempts",
+      "pending_activities",
+      "due_review_queue",
+      "available_audio_capabilities"
+    ],
+    "current_level_policy": "Do not infer a CEFR level or oral mastery from the numbered verb count or written answers.",
+    "new_vocabulary_policy": {
+      "per_new_short_activity_initial_range": [
+        1,
+        2
+      ],
+      "familiar_vocabulary_initial_fraction": 0.8,
+      "reuse_in_varied_contexts": true,
+      "adjust_to_results": true,
+      "corrective_retries_require_extra_new_words": false
+    },
+    "audio_evidence_policy": {
+      "transcript_supports_grammar": true,
+      "transcript_proves_pronunciation": false,
+      "silent_text_counts_as_listening": false,
+      "ambiguous_audio_action": "request_repeat_before_diagnosing"
+    },
+    "skill_status_rules": {
+      "statuses": [
+        "not_assessed",
+        "practicing",
+        "improving",
+        "strong"
+      ],
+      "improving_requires": "At least two fresh independent variations meeting task goals.",
+      "strong_requires": "Varied independent contexts across at least two sessions with a successful delayed retest; do not generalize one simple task to an entire skill.",
+      "unassessed_dimensions_remain_unassessed": true,
+      "trend_comparison_window": [
+        3,
+        5
+      ],
+      "support_or_copy_counts_as_independent": false
+    },
+    "retest_policy": {
+      "timezone": "Europe/Berlin",
+      "interval_days": [
+        1,
+        3,
+        7
+      ],
+      "anchor": "last_meaningful_practice_or_retest_date",
+      "interval_index_initial": 0,
+      "next_after_independent_success": "advance interval index, capped at the 7-day maintenance interval",
+      "after_hints_or_errors": "fresh supported practice plus next-day delayed retest; retain unfinished target",
+      "deduplicate_by": "target_key = mode + activity_or_learning_target",
+      "inspect_due_on": "future_study_startup_and_checkpoints",
+      "max_suggested_due_tests_per_startup": 2,
+      "respect_selected_mode": true,
+      "background_reminders_enabled": false
+    },
+    "assessment_result_values": [
+      "independent_correct",
+      "correct_with_support",
+      "needs_retry",
+      "not_assessed"
+    ],
+    "activity_status_values": [
+      "active",
+      "paused",
+      "completed"
+    ],
+    "queue_entry_fields": [
+      "id",
+      "target_key",
+      "mode",
+      "activity_id",
+      "target",
+      "due_on",
+      "interval_index",
+      "status",
+      "last_result",
+      "evidence_ids"
+    ],
+    "next_decision_reason_required": true
+  },
+  "feature_config_updated_on": "2026-10-03"
 }

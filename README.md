@@ -27,15 +27,29 @@
 
 > Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first.
 
-**For AI assistants: Read START_HERE.md first.** Load CURRENT_STATE.md, LEARNING_PROFILE.md, progress.json, today's day file, latest day file, and MISTAKE_PATTERNS.md before teaching. Then offer:
+**For AI assistants: Read START_HERE.md first.** Load CURRENT_STATE.md, LEARNING_PROFILE.md, progress.json, today's day file, latest day file, and MISTAKE_PATTERNS.md before teaching. Then offer these nine choices:
 
 1. Full review.
 2. Targeted review.
 3. Continue previous session.
 4. Start a new study day.
 5. Show progress.
+6. **التحدث (Speaking)** — جمل بالمصري، وإنت تقول ترجمتها بالألماني بصوتك.
+7. **المحادثة (Conversation)** — موقف واقعي وحوار خطوة خطوة مع تصحيح وإعادة اختبار.
+8. **القراءة (Reading)** — قطعة ألماني، ترجمة وفهم وأسئلة، ومساعدة لحد إجابتك بالألماني.
+9. **السماعي (Listening)** — موضوع مسموع بالألماني، ثم أسئلة وإجابات وتدريب على الفهم.
 
-Do not automatically start the pending 1–60 + Genitiv review. Honor a study choice already supplied by the learner.
+Do not automatically start the pending Batch 5 E41–E50. Honor a study choice already supplied by the learner.
+
+## متابعة الأربع مهارات
+
+كل مود بيختار محتوى من مستواك الفعلي وسجل أخطائك، ويمزج الكلمات القديمة بكلمات جديدة، ويفرّق بين الإجابة المستقلة والإجابة بمساعدة. لو احتجت تجاوب بالعربي في القراءة أو السماعي، المساعد يساعدك تحوّل المعنى لجملة ألماني ثم يختبرك من غير مساعدة.
+
+تصحيح **النطق** يحتاج صوت أصلي مسموع وقابل للتقييم؛ النص أو تفريغ الكلام لوحده مش كفاية. السماعي يحتاج صوت فعلي، والمساعد ما يعتبرش قراءة النص تدريب سماعي.
+
+بعد التدريب، أهداف محتاجة مراجعة بتتحفظ بموعد إعادة اختبار: مبدئيًا اليوم التالي، ثم بعد 3 أيام و7 أيام حسب الأداء. المساعد يفحصها لما ترجع تذاكر؛ المواعيد دي مش إشعارات تلقائية.
+
+الأربع مهارات لسه **غير مقيمة**؛ إضافتها مش جلسة مذاكرة ومش دليل إتقان. تقدمك المكتوب ونقطة استكمال E41–E50 محفوظين.
 
 ## اليوم والجلسات
 
@@ -68,4 +82,4 @@ Do not automatically start the pending 1–60 + Genitiv review. Honor a study ch
 
 **Backfilled from prior conversation** باستخدام التاريخ والقائمة اللي قدّمهم المتعلم يوم 2026-10-03. أسماء الـ60 اكتملت بعد التهيئة الأولى؛ مفيش أسماء ناقصة دلوقتي.
 
-ملخصات الأيام تقريبية، وأوقات المذاكرة وعدد الجلسات وإجابات التمارين الأصلية غير متاحة. الأيام القديمة مقفولة إداريًا للأرشفة فقط؛ ده مش ادعاء إن أمر الإغلاق اتقال وقتها. يوم 3 أكتوبر فضل مفتوح، وتاريخ التهيئة محفوظ جوّه نفس الملف.
+ملخصات الأيام تقريبية، وأوقات المذاكرة وعدد الجلسات وإجابات التمارين الأصلية غير متاحة. الأيام القديمة مقفولة إداريًا للأرشفة فقط؛ ده مش ادعاء إن أمر الإغلاق اتقال وقتها. تاريخ التهيئة محفوظ جوّه نفس الملف؛ الحالة الحالية بتتحدد من آخر checkpoint وإغلاق اليوم المسجّل، مش من ملخص التهيئة القديم.

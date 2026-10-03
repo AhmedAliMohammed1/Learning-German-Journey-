@@ -134,3 +134,13 @@ The reference sentences above are correct forms or historical study examples; th
 - **M18 improving:** E38 correctly used **aufhören + zu kochen**.
 - **M17 improving:** E39 correctly used **um ... zu** for same-subject purpose; add **ihn** to match the explicit object and add the comma.
 - **M15 improving:** E33 correctly used **meiner Schwester das Handy** (Dat person + Akk thing); the remaining error belonged to Genitiv ownership.
+
+## Cross-mode evidence and pronunciation rules — 2026-10-03 configuration
+
+Use the latest structured statuses and dated live checkpoints, not the old backfill classification. Retest a known grammar pattern in speaking/conversation/reading/listening using its existing M ID; retain the mode, exercise/activity ID, modality, and support flags on new evidence.
+
+Pronunciation is a separate category, created only after a reliably heard issue in actually assessable original audio. Record the word/sound, observed issue, relevant audio/attempt reference where accessible, correction, independent retry, and later retest. Do not infer sound errors from a transcript, spelling error, speech-recognition output, or accent alone. If audio is unclear, ask for a repeat; mark the dimension not_assessed when assessment is unavailable.
+
+Keep minor spelling separate. Arabic fallback can demonstrate reading/listening comprehension while German production still needs assistance. A corrected repeat does not raise independent-success counters.
+
+At skill checkpoints, update progress.skill_tracking and its review_queue as well as grammar/vocabulary/mistake evidence. No new observed mistake, pronunciation assessment, or counter was created by adding the modes.

@@ -17,7 +17,7 @@
 - Start new study days with a quick cumulative review before introducing material.
 - Keep learned verbs in reviews and never present them as newly learned again.
 - Preserve the exact continuation point across chats and sessions.
-- Do not automatically begin the pending 1–60 + Genitiv review on opening a new chat. First offer the five startup choices, unless the learner already chose a mode.
+- Do not automatically begin pending exercises on opening a new chat. First offer the nine startup choices, unless the learner already chose a mode; continue from the exact latest checkpoint when requested.
 
 ## Correction format
 
@@ -29,7 +29,7 @@
 
 ## Adaptive review priorities
 
-Highest priority: darf/darfst, sitzen/setzen, Genitiv articles and noun endings, nested Genitiv, and Genitiv adjective endings. Continue practicing liegen/legen/stellen.
+Use the latest progress.json and dated evidence to set priorities rather than freezing the historical list. At this update M13 Genitiv adjective endings and M28 V2 after a fronted phrase remain weak; M01, M05, M11, M12, M27, and M10 have improved. Continue rotating earlier material.
 
 Maintain improving patterns through spaced review. Sample stable patterns occasionally rather than repeatedly reteaching them. Minor spelling issues are separate from grammar weaknesses.
 
@@ -45,3 +45,21 @@ Follow explicit changes immediately and store the date, learner wording, and tea
 ## Tentative observations
 
 None added. No exam goal, CEFR level, speed requirement, or numerical mastery estimate was established.
+
+## Speaking, conversation, reading, and listening preferences — 2026-10-03
+
+- Speaking: Arabic prompts; learner says the full German sentence themselves. Correct grammar and genuinely assessable pronunciation.
+- Conversation: choose a suitable practical scenario, respond interactively, correct one step at a time, and stay with the target until independent variations are successful. Respect a requested pause and save unfinished goals.
+- Reading: provide an appropriate German passage; offer all/partial translation and comprehension questions. Aim for German responses while accepting Arabic as a bridge when blocked.
+- Listening: deliver a suitable German topic through real voice/audio, then ask questions. Avoid revealing the transcript before the initial listen.
+- In reading/listening, help turn an Arabic comprehension answer into German gradually; then test a fresh answer independently.
+- Reuse old vocabulary and introduce a small amount of new vocabulary in every new activity. Practise each new word in varied contexts and later retests.
+- Select difficulty, content, correction style, and next steps from actual repository evidence; independently track each mode and its dimensions.
+- When a target improves, reduce repeated drilling and check retention later. When errors/hints recur, keep supporting that target.
+- Do not equate transcript correction with pronunciation assessment, or reading with listening.
+- Store immediate independent success separately from delayed retention. Initial retest intervals: 1, 3, 7 days, adjusted to results.
+- Add four modes as choices 6–9 while preserving existing choices 1–5. Do not start a new study session simply because settings are changed.
+
+| Date | Source | Change |
+| --- | --- | --- |
+| 2026-10-03 | Explicit learner request | Four skill modes; oral sentence translation; guided role-play; reading/listening comprehension with Arabic → German scaffolding; actual audio pronunciation checks; adaptive selection and delayed retests. |

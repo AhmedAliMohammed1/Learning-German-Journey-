@@ -57,7 +57,7 @@ Updated: **2026-10-03T20:28:05+02:00**. Calendar timezone: **Europe/Berlin**.
 
 **More stable:** wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
 
-Minor spelling issues remain low priority and separate. M10 anfangen conjugation is a retained diagnostic without a newer reliability assessment.
+Minor spelling issues remain low priority and separate. M10 anfangen conjugation is improving according to the latest live evidence.
 
 ## Teaching profile and vocabulary
 
@@ -82,3 +82,20 @@ Backfilled from learner-provided prior-conversation history. Exact historical st
 - Weak priorities at close: **M13 Genitiv adjective ending** and **M28 verb-second after a fronted phrase**.
 - Improved today: M01 darf/darfst, M05 sitzen/setzen, M11 Genitiv article/noun endings, M12 nested Genitiv, M27 Wo/Wohin, M10 anfangen conjugation.
 - Vocabulary register: **110 entries**; fresh live items include der Termin, der Kühlschrank, der Schreibtisch, der Rucksack, and der Brief.
+
+## Added skill modes — configuration only, 2026-10-03
+
+Startup choices are now: 1 Full review, 2 Targeted review, 3 Continue previous session, 4 Start a new study day, 5 Show progress, **6 Speaking / التحدث**, **7 Conversation / المحادثة**, **8 Reading / القراءة**, **9 Listening / السماعي**.
+
+| Skill | Baseline | What to assess |
+| --- | --- | --- |
+| Speaking | not_assessed | Oral production/grammar/vocabulary; pronunciation only with assessable audio |
+| Conversation | not_assessed | Practical dialogue goals, turn-taking, independent responses; audio dimensions where assessable |
+| Reading | not_assessed | German passage comprehension separately from German answer production |
+| Listening | not_assessed | Real-audio comprehension separately from answer production and assessable pronunciation |
+
+Do not infer these baselines from the completed written review. Start with a short mode-specific diagnostic using familiar material and a small amount of new vocabulary; use actual M13/M28 weakness and the improving patterns as context, not as a reason to overload every activity.
+
+Skill review queue: **empty**, because no new-mode activity was attempted during this configuration request. Schedule targets only after real practice; inspect due dates at future study startup. Arabic fallback in reading/listening is supported toward a German answer, followed by an independent fresh test.
+
+Existing day remains **closed**, Session S01 remains completed, and **E41–E50 stay pending**. Selecting a different mode preserves that batch. No study session, new vocabulary introduction, or correctness counter was added by this configuration update.
