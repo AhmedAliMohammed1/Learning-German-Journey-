@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-03",
   "latest_day": "2026-10-03",
-  "day_status": "reopened",
-  "current_session_id": "2026-10-03-S02",
+  "day_status": "closed",
+  "current_session_id": null,
   "sessions_recorded": 2,
   "last_verified_study_at": null,
-  "active_topic": "numbered_verbs_71_80_practice",
-  "next_action": "Learner studies verbs 71-80 and answers S02 E51-E60; embed old grammar/mistake retests inside the new-verb sentences.",
+  "active_topic": "numbered_verbs_71_80_practice_paused",
+  "next_action": "Next study session: practice numbered verbs 71-80 with preserved S02 E51-E60. Keep progression-first policy; embed M30 nach + Dativ, anrufen + Akk/separable, mit + Dativ plural, and standing/placing contrasts. Do not force deferred review first.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -4254,12 +4254,21 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E47",
+          "independent": true,
+          "note": "mit + Dativ plural: mit unseren Freunden."
+        }
+      ]
     },
     {
       "id": "M03",
@@ -4602,7 +4611,7 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
+      "recorded_errors": 2,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
@@ -4615,6 +4624,14 @@
           "exercise_id": "2026-10-03-S02-E10",
           "independent": true,
           "note": "treffen requires Akk: meinen Freund."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E42",
+          "independent": true,
+          "note": "anrufen requires Akkusativ: ihre Freundin; separable an is also required."
         }
       ]
     },
@@ -4657,8 +4674,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -4678,6 +4695,14 @@
           "exercise_id": "2026-10-03-S02-E15",
           "independent": true,
           "note": "Missing auf with warten; correct warten auf den Lehrer."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E49",
+          "independent": true,
+          "note": "Correct warten auf + Akk: auf meinen Freund."
         }
       ]
     },
@@ -4730,8 +4755,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 3,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -4775,6 +4800,14 @@
           "exercise_id": "2026-10-03-S02-E17",
           "independent": true,
           "note": "Correct aufhören + zu schreiben after the earlier batch error."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E50",
+          "independent": true,
+          "note": "Correct anfangen + zu: Ich fange ... an zu lesen."
         }
       ]
     },
@@ -5109,8 +5142,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-03-S02"
       ],
@@ -5131,6 +5164,49 @@
           "exercise_id": "2026-10-03-S02-E14",
           "independent": true,
           "note": "Used stellt for stationary location; correct is steht."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E48",
+          "independent": true,
+          "note": "Correct stationary stehen: Die Reisetasche steht neben der Tür."
+        }
+      ]
+    },
+    {
+      "id": "M30",
+      "topic": "nach_dativ_temporal",
+      "status": "improving",
+      "title": "nach + Dativ in temporal phrases",
+      "reference_example": "nach der Arbeit; nach dem Essen",
+      "severity": "grammar_or_usage",
+      "priority": "medium",
+      "assessment_source": "fresh_live_evidence",
+      "assessment_date": "2026-10-03",
+      "historical_error_count": null,
+      "recorded_errors": 2,
+      "independent_correct": 0,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [],
+      "last_checked": "2026-10-03",
+      "evidence": [
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E42",
+          "independent": true,
+          "note": "Used nach dem Arbeit; correct nach der Arbeit."
+        },
+        {
+          "date": "2026-10-03",
+          "timestamp": null,
+          "session_id": "2026-10-03-S02",
+          "exercise_id": "2026-10-03-S02-E46",
+          "independent": true,
+          "note": "Repeated nach dem Arbeit; correct nach der Arbeit."
         }
       ]
     }
@@ -5171,8 +5247,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-03",
-  "latest_study_state": "Numbered verbs 71-80 introduced; active practice S02 E51-E60 pending.",
-  "next_suggested_action": "Practice numbered verbs 71-80.",
+  "latest_study_state": "Day closed after introducing verbs 71-80. E51-E60 remain unattempted and are the primary continuation point. Older review batches remain deferred.",
+  "next_suggested_action": "Resume verbs 71-80 at E51-E60.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -5432,6 +5508,13 @@
       "session_id": "2026-10-03-S02",
       "event": "verbs_71_80_introduced",
       "note": "Introduced verbs 71-80 and V116 das Formular. Active practice E51-E60 created."
+    },
+    {
+      "date": "2026-10-03",
+      "timestamp": null,
+      "session_id": "2026-10-03-S02",
+      "event": "s02_closed_after_verbs_71_80_intro",
+      "note": "Learner ended the day after verbs 71-80 were introduced but before E51-E60 were attempted. Primary next-session continuation is E51-E60. Progression-first remains active; old review batches stay deferred."
     }
   ],
   "exercise_results": [
