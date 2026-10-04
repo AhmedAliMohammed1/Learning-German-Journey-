@@ -208,3 +208,12 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M19 stable:** E06 kept the verb at the end of the indirect **wo** clause; capitalization of **weiß** was separate.
 - **M30 improving:** E01 correctly used **nach der Arbeit** after the previous repeated error.
 - Minor form targets from the batch: **der/den Koffer**, **Das Hotel ist**, lowercase **weiß**, and **mein Zimmer**.
+
+
+## Fresh live evidence — 2026-10-04 — S01 Batch 2
+
+- **M30 improving:** E14 correctly used **nach der Arbeit** again.
+- **M19 stable:** E19 used correct verb-final order after **weil**; comma and lowercase article were separate surface errors.
+- **M11 improving:** E20 used **der Eingangs**; correct masculine Genitiv is **des Eingangs**. Reset the fresh success streak for this target.
+- **M12 improving:** E20 needs the nested phrase **des Eingangs der Hochschule**. The second layer **der Hochschule** was correct, but the first layer was not.
+- New verb-form retest targets: **ausziehen = ziehe ... aus** and **umziehen = nach + place + um**. These are currently verb-specific learning targets, not separate mistake IDs yet.
