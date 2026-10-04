@@ -191,7 +191,7 @@ Introduced on 2026-10-03 under the progression-first policy:
 
 ## 2026-10-04 Full review — Batch 1 checkpoint
 
-- Day remains **open**; active session: **2026-10-04-S01**.
+- Day remains **open**; Session **2026-10-04-S01** is paused.
 - E01–E10 completed independently and corrected.
 - **M29 stehen vs stellen: weak -> improving.**
 - **M13 Genitiv adjective ending: improving -> stable.**
@@ -230,4 +230,13 @@ Introduced on 2026-10-03 under the progression-first policy:
 - **M27 liegen/legen** is stable from fresh correct contrast.
 - V119 **die Kaution** is now practicing.
 - New vocabulary for Batch 4: **V120 — die Unterschrift (die Unterschriften)**.
-- Active exercises: **E31–E40**.
+- Pending continuation: **E31–E40**.
+
+
+## 2026-10-04 pause checkpoint
+
+- Learner paused after Full Review Batch 3 and plans to continue later today.
+- Day remains **open**; no end-of-day closure was triggered.
+- Session **2026-10-04-S01** is paused.
+- Exact continuation: **E31–E40**.
+- Do not regenerate or replace those prompts on resume.
