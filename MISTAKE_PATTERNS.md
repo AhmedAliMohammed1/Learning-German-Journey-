@@ -217,3 +217,14 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M11 improving:** E20 used **der Eingangs**; correct masculine Genitiv is **des Eingangs**. Reset the fresh success streak for this target.
 - **M12 improving:** E20 needs the nested phrase **des Eingangs der Hochschule**. The second layer **der Hochschule** was correct, but the first layer was not.
 - New verb-form retest targets: **ausziehen = ziehe ... aus** and **umziehen = nach + place + um**. These are currently verb-specific learning targets, not separate mistake IDs yet.
+
+
+## Fresh live evidence — 2026-10-04 — S01 Batch 3
+
+- **M11 improving, priority high:** E24 repeated the masculine Genitiv error. Correct: **des Eingangs**.
+- **M12 improving, priority high:** E24 still needs the nested phrase **des Eingangs des Krankenhauses**; the second Genitiv layer was correct.
+- **M16 improving:** E25 omitted **auf** again in **warten auf meinen Bruder**.
+- **M15 improving:** E26 kept the Dativ-recipient + direct-object pattern structurally correct.
+- **M27 stable:** E27/E28 correctly contrasted **liegen + Dativ** and **legen + Akkusativ**.
+- **M30 improving:** E30 used **nach der Termin**; correct is **nach dem Termin**. The learner is reliable with **nach der Arbeit**, but masculine Dativ articles still need practice.
+- Verb-specific retest: E23 used **auf** instead of **aus** with **ausfüllen**.
