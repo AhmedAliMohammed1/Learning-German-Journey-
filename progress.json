@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-03",
-  "last_updated_at": null,
+  "last_updated": "2026-10-04",
+  "last_updated_at": "2026-10-04T13:08:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,14 +16,14 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-03",
-  "latest_day": "2026-10-03",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 2,
+  "current_day": "2026-10-04",
+  "latest_day": "2026-10-04",
+  "day_status": "open",
+  "current_session_id": "2026-10-04-S01",
+  "sessions_recorded": 3,
   "last_verified_study_at": null,
-  "active_topic": "numbered_verbs_71_80_practice_paused",
-  "next_action": "Next study session: practice numbered verbs 71-80 with preserved S02 E51-E60. Keep progression-first policy; embed M30 nach + Dativ, anrufen + Akk/separable, mit + Dativ plural, and standing/placing contrasts. Do not force deferred review first.",
+  "active_topic": "full_review_1_80_genitiv_and_71_80",
+  "next_action": "Learner answers 2026-10-04-S01-E01 through E10 independently in full German sentences.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -274,6 +274,96 @@
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
       "priority": "active_new_material"
+    },
+    {
+      "id": "2026-10-04-S01-E01",
+      "prompt_ar": "بعد الشغل، أنا بتصل بأخويا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E02",
+      "prompt_ar": "أنا بحط شنطة السفر جنب الباب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E03",
+      "prompt_ar": "شنطة السفر موجودة جنب الباب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E04",
+      "prompt_ar": "الفندق قريب من الحديقة العامة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E05",
+      "prompt_ar": "أنا بدي أختي مفتاح عربية أبويا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E06",
+      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E07",
+      "prompt_ar": "أنا برتب أوضتي كل صباح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E08",
+      "prompt_ar": "أنا بلبس الجاكيت قبل الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E09",
+      "prompt_ar": "أنا بستأجر شقة قريبة من الجامعة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
+    },
+    {
+      "id": "2026-10-04-S01-E10",
+      "prompt_ar": "أنا بوقّع عقد الإيجار.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review",
+      "priority": "active_review"
     }
   ],
   "completed_exercise_ids": [
@@ -2328,7 +2418,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 116,
+    "registered_entries_count": 117,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -4153,6 +4243,31 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V117",
+        "german": "der Mietvertrag",
+        "meaning_ar": "عقد الإيجار",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Mietverträge",
+        "status": "introduced",
+        "introduced_on": "2026-10-04",
+        "last_reviewed": null,
+        "source": "2026-10-04-S01 full review batch 1",
+        "usage_example": "Ich unterschreibe den Mietvertrag.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": "2026-10-04T13:08:00+02:00",
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E10",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical vocabulary in the full-review batch; learner attempt pending."
+          }
+        ]
       }
     ]
   },
@@ -5246,9 +5361,9 @@
   "numbered_verbs_introduced": 80,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
-  "latest_study_date": "2026-10-03",
-  "latest_study_state": "Day closed after introducing verbs 71-80. E51-E60 remain unattempted and are the primary continuation point. Older review batches remain deferred.",
-  "next_suggested_action": "Resume verbs 71-80 at E51-E60.",
+  "latest_study_date": "2026-10-04",
+  "latest_study_state": "open",
+  "next_suggested_action": "Learner answers 2026-10-04-S01-E01 through E10 independently in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
