@@ -152,3 +152,21 @@ Full-review S01 Batch 1 added fresh independent evidence for part of the 71–80
 - 80 **unterschreiben**: E10 fully correct.
 - 73 **anziehen** was not actually tested: the learner used valid **tragen** for “wear” in E08.
 - Group 71–80 is therefore **partially practiced**, not yet promoted as a fully practiced group.
+
+
+## 2026-10-04 full first-pass coverage — 71–80
+
+Across Full Review S01 Batches 1–2, every numbered verb 71–80 now has at least one learner attempt.
+
+- 71 **aufräumen**: structure correct; possessive form needed repair.
+- 72 **duschen**: correct.
+- 73 **anziehen**: correct.
+- 74 **ausziehen**: needs retry; learner used **auf** instead of separable **aus**.
+- 75 **einkaufen**: correct.
+- 76 **mieten**: correct.
+- 77 **umziehen**: needs retry; destination/time construction needs repair.
+- 78 **anmelden**: correct.
+- 79 **ausfüllen**: separable verb structure correct; noun/location errors were separate.
+- 80 **unterschreiben**: correct.
+
+Group status moves from **introduced** to **practicing**. No mastery claim.
