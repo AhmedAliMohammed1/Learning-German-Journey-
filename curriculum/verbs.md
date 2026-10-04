@@ -170,3 +170,12 @@ Across Full Review S01 Batches 1–2, every numbered verb 71–80 now has at lea
 - 80 **unterschreiben**: correct.
 
 Group status moves from **introduced** to **practicing**. No mastery claim.
+
+
+## 2026-10-04 Batch 3 retest — selected 71–80
+
+- 74 **ausziehen**: fresh independent retry correct — **Ich ziehe ... aus.**
+- 77 **umziehen**: destination/separable structure correct — **nach Berlin um**; time-expression ending was separate.
+- 79 **ausfüllen**: fresh regression — learner used **auf** instead of **aus**; keep practicing and retest.
+- 80 **unterschreiben**: verb use remained correct; object/temporal article forms were separate issues.
+- 71–80 remains **practicing**.
