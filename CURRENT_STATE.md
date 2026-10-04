@@ -56,7 +56,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
-**119 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**120 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -181,12 +181,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Status: **open**
 - Active session: **2026-10-04-S01**
 - Selected mode: **Full review**
-- Batches 1–2 **E01–E20 completed**; active exercises: **E21–E30**
+- Batches 1–3 **E01–E30 completed**; active exercises: **E31–E40**
 - Numbered verbs remain **80 / 100**; no new numbered verbs introduced by opening this review.
 - New practical vocabulary: **V117 — der Mietvertrag (die Mietverträge)**.
 - Main embedded checks: **M29 stehen vs stellen**, Genitiv endings, **nach + Dativ**, anrufen + Akk + separable **an**, Dativ person + Akk thing, indirect **wo** clause.
 - Verbs 71–80 remain introduced; their previously saved dedicated first-practice batch remains pending separately.
-- Next action: learner writes **E21–E30** independently.
+- Next action: learner writes **E31–E40** independently.
 
 
 ## 2026-10-04 Full review — Batch 1 checkpoint
@@ -216,3 +216,18 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V118 **die Miete** is now practicing.
 - New vocabulary for Batch 3: **V119 — die Kaution (die Kautionen)**.
 - Active exercises: **E21–E30**.
+
+
+## 2026-10-04 Full review — Batch 3 checkpoint
+
+- E21–E30 completed independently and corrected.
+- 74 **ausziehen** retry succeeded.
+- 77 **umziehen** structure succeeded; only **Nächsten Monat** needed repair.
+- 79 **ausfüllen** needs another retry after **auf** instead of **aus**.
+- **M11/M12 Genitiv** remain active after repeated **des Eingangs ...** errors.
+- **M16 warten auf + Akk** needs another retest.
+- **M30 nach + Dativ** remains improving; **nach dem Termin** is the current masculine target.
+- **M27 liegen/legen** is stable from fresh correct contrast.
+- V119 **die Kaution** is now practicing.
+- New vocabulary for Batch 4: **V120 — die Unterschrift (die Unterschriften)**.
+- Active exercises: **E31–E40**.
