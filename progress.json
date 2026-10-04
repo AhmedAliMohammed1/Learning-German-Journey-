@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-04-S01",
   "sessions_recorded": 3,
   "last_verified_study_at": null,
-  "active_topic": "full_review_batch_2_71_80_and_grammar",
-  "next_action": "Learner answers 2026-10-04-S01-E11 through E20 independently in full German sentences.",
+  "active_topic": "full_review_batch_3_retests_and_cumulative",
+  "next_action": "Learner answers 2026-10-04-S01-E21 through E30 independently in full German sentences.",
   "pending_exercises": [
     {
       "id": "2026-10-03-S01-E41",
@@ -276,8 +276,8 @@
       "priority": "active_new_material"
     },
     {
-      "id": "2026-10-04-S01-E11",
-      "prompt_ar": "أنا بستحم قبل الشغل.",
+      "id": "2026-10-04-S01-E21",
+      "prompt_ar": "أنا بخلع القميص في البيت.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -285,8 +285,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E12",
-      "prompt_ar": "أنا بلبس الجاكيت الصبح.",
+      "id": "2026-10-04-S01-E22",
+      "prompt_ar": "الشهر الجاي، أنا بنقل لبرلين.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -294,8 +294,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E13",
-      "prompt_ar": "أنا بخلع الجاكيت في البيت.",
+      "id": "2026-10-04-S01-E23",
+      "prompt_ar": "أنا بملا الاستمارة قبل الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -303,8 +303,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E14",
-      "prompt_ar": "أنا بتسوق بعد الشغل.",
+      "id": "2026-10-04-S01-E24",
+      "prompt_ar": "محطة القطر قريبة من مدخل المستشفى.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -312,8 +312,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E15",
-      "prompt_ar": "أنا بنقل سكني لميونخ الشهر الجاي.",
+      "id": "2026-10-04-S01-E25",
+      "prompt_ar": "بعد الشغل، أنا بستنى أخويا قدام الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -321,8 +321,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E16",
-      "prompt_ar": "أنا بسجل نفسي في الكورس.",
+      "id": "2026-10-04-S01-E26",
+      "prompt_ar": "أنا ببعت لأختي صورة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -330,8 +330,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E17",
-      "prompt_ar": "أنا بملا الاستمارة في المكتب.",
+      "id": "2026-10-04-S01-E27",
+      "prompt_ar": "الجاكيت موجود على الكرسي.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -339,8 +339,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E18",
-      "prompt_ar": "الإيجار غالي.",
+      "id": "2026-10-04-S01-E28",
+      "prompt_ar": "أنا بحط الكتاب على المكتب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -348,8 +348,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E19",
-      "prompt_ar": "أنا بستأجر شقة صغيرة لأن الإيجار مش غالي.",
+      "id": "2026-10-04-S01-E29",
+      "prompt_ar": "التأمين 500 يورو.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -357,8 +357,8 @@
       "priority": "active_review"
     },
     {
-      "id": "2026-10-04-S01-E20",
-      "prompt_ar": "المكتبة قريبة من مدخل الجامعة.",
+      "id": "2026-10-04-S01-E30",
+      "prompt_ar": "أنا بوقّع عقد الإيجار بعد الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -456,7 +456,17 @@
     "2026-10-04-S01-E07",
     "2026-10-04-S01-E08",
     "2026-10-04-S01-E09",
-    "2026-10-04-S01-E10"
+    "2026-10-04-S01-E10",
+    "2026-10-04-S01-E11",
+    "2026-10-04-S01-E12",
+    "2026-10-04-S01-E13",
+    "2026-10-04-S01-E14",
+    "2026-10-04-S01-E15",
+    "2026-10-04-S01-E16",
+    "2026-10-04-S01-E17",
+    "2026-10-04-S01-E18",
+    "2026-10-04-S01-E19",
+    "2026-10-04-S01-E20"
   ],
   "verbs": {
     "introduced_total": 80,
@@ -2108,15 +2118,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E11",
+            "independent": true,
+            "correct": true,
+            "note": "duschen correct."
+          }
+        ],
         "meaning_ar": "يستحم",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
         "usage_note": "Ich dusche jeden Morgen.",
         "entry_kind": "infinitive"
@@ -2124,63 +2144,6 @@
       {
         "id": 73,
         "infinitive": "anziehen",
-        "identity_status": "course_selected",
-        "introduced": true,
-        "introduction_date": "2026-10-03",
-        "study_status": "introduced",
-        "mastery": "unknown",
-        "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
-        "meaning_ar": "يرتدي / يلبس",
-        "review_status": "newly_introduced",
-        "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich ziehe die Jacke an.",
-        "entry_kind": "infinitive"
-      },
-      {
-        "id": 74,
-        "infinitive": "ausziehen",
-        "identity_status": "course_selected",
-        "introduced": true,
-        "introduction_date": "2026-10-03",
-        "study_status": "introduced",
-        "mastery": "unknown",
-        "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
-        "meaning_ar": "يخلع / ينتقل من السكن",
-        "review_status": "newly_introduced",
-        "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich ziehe die Jacke aus.",
-        "entry_kind": "infinitive"
-      },
-      {
-        "id": 75,
-        "infinitive": "einkaufen",
-        "identity_status": "course_selected",
-        "introduced": true,
-        "introduction_date": "2026-10-03",
-        "study_status": "introduced",
-        "mastery": "unknown",
-        "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
-        "meaning_ar": "يتسوق / يشتري احتياجات",
-        "review_status": "newly_introduced",
-        "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich kaufe im Supermarkt ein.",
-        "entry_kind": "infinitive"
-      },
-      {
-        "id": 76,
-        "infinitive": "mieten",
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
@@ -2195,7 +2158,103 @@
             "date": "2026-10-04",
             "timestamp": null,
             "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E12",
+            "independent": true,
+            "correct": true,
+            "note": "anziehen separable structure correct."
+          }
+        ],
+        "meaning_ar": "يرتدي / يلبس",
+        "review_status": "practicing",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich ziehe die Jacke an.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 74,
+        "infinitive": "ausziehen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 1,
+        "independent_correct": 0,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E13",
+            "independent": true,
+            "correct": false,
+            "note": "Used auf instead of separable aus for ausziehen."
+          }
+        ],
+        "meaning_ar": "يخلع / ينتقل من السكن",
+        "review_status": "practicing",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich ziehe die Jacke aus.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 75,
+        "infinitive": "einkaufen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E14",
+            "independent": true,
+            "correct": true,
+            "note": "einkaufen separable structure correct."
+          }
+        ],
+        "meaning_ar": "يتسوق / يشتري احتياجات",
+        "review_status": "practicing",
+        "assessment_basis": "introduced live under progression-first policy",
+        "usage_note": "separable; Ich kaufe im Supermarkt ein.",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 76,
+        "infinitive": "mieten",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-03",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
             "exercise_id": "2026-10-04-S01-E09",
+            "independent": true,
+            "correct": true,
+            "note": "mieten + Akk correct."
+          },
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E19",
             "independent": true,
             "correct": true,
             "note": "mieten + Akk correct."
@@ -2213,15 +2272,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E15",
+            "independent": true,
+            "correct": false,
+            "note": "Used separable um but incorrect object/time construction; needs retry."
+          }
+        ],
         "meaning_ar": "ينتقل إلى سكن جديد",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
         "usage_note": "separable; Ich ziehe nach München um.",
         "entry_kind": "infinitive"
@@ -2232,15 +2301,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E16",
+            "independent": true,
+            "correct": true,
+            "note": "sich anmelden für + Akk and separable an correct."
+          }
+        ],
         "meaning_ar": "يسجّل / يشترك",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
         "usage_note": "often reflexive: Ich melde mich für den Kurs an.",
         "entry_kind": "infinitive"
@@ -2251,15 +2330,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-03",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-04",
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E17",
+            "independent": true,
+            "correct": true,
+            "note": "ausfüllen separable structure correct; noun/location issues separate."
+          }
+        ],
         "meaning_ar": "يملأ استمارة",
-        "review_status": "newly_introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
         "usage_note": "separable; Ich fülle das Formular aus.",
         "entry_kind": "infinitive"
@@ -2476,7 +2565,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 118,
+    "registered_entries_count": 119,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -4293,14 +4382,25 @@
         "type": "noun",
         "article": "das",
         "plural": "die Formulare",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-04",
         "source": "2026-10-03-S02 verbs 71-80 practice",
         "usage_example": "Ich fülle das Formular aus.",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "evidence": []
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E17",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": false,
+            "note": "Wrote Formula; correct noun is Formular. ausfüllen structure itself was correct."
+          }
+        ]
       },
       {
         "id": "V117",
@@ -4344,13 +4444,13 @@
         "type": "noun",
         "article": "die",
         "plural": "die Mieten",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-04",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-04",
         "source": "2026-10-04-S01 full review batch 2",
         "usage_example": "Die Miete ist teuer.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
         "evidence": [
           {
             "date": "2026-10-04",
@@ -4359,6 +4459,41 @@
             "exercise_id": "2026-10-04-S01-E18",
             "kind": "introduced_in_exercise_prompt",
             "note": "Introduced and reused in E18-E19; learner attempts pending."
+          },
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E18",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent use: Die Miete ist teuer."
+          }
+        ]
+      },
+      {
+        "id": "V119",
+        "german": "die Kaution",
+        "meaning_ar": "التأمين / مبلغ التأمين",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Kautionen",
+        "status": "introduced",
+        "introduced_on": "2026-10-04",
+        "last_reviewed": null,
+        "source": "2026-10-04-S01 full review batch 3",
+        "usage_example": "Die Kaution ist 500 Euro.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-04",
+            "timestamp": null,
+            "session_id": "2026-10-04-S01",
+            "exercise_id": "2026-10-04-S01-E29",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical rental vocabulary; learner attempt pending."
           }
         ]
       }
@@ -4687,13 +4822,13 @@
       "title": "Genitiv article and noun ending selection",
       "reference_example": "in der Nähe des Bahnhofs; in der Nähe der Schule",
       "severity": "grammar_or_usage",
-      "priority": "high",
+      "priority": "medium",
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 6,
+      "recorded_errors": 7,
       "independent_correct": 2,
-      "independent_correct_since_last_error": 1,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01"
       ],
@@ -4737,6 +4872,14 @@
           "exercise_id": "2026-10-04-S01-E04",
           "independent": true,
           "note": "Correct des öffentlichen Parks phrase."
+        },
+        {
+          "date": "2026-10-04",
+          "timestamp": null,
+          "session_id": "2026-10-04-S01",
+          "exercise_id": "2026-10-04-S01-E20",
+          "independent": true,
+          "note": "Wrong Genitiv article for Eingang: der Eingangs -> des Eingangs."
         }
       ]
     },
@@ -4747,15 +4890,15 @@
       "title": "nested Genitiv phrases",
       "reference_example": "in der Nähe des Hauses meiner Freundin",
       "severity": "grammar_or_usage",
-      "priority": "high",
+      "priority": "medium",
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 2,
+      "recorded_errors": 3,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-04",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -4771,6 +4914,14 @@
           "exercise_id": "2026-10-03-S01-E16",
           "independent": true,
           "note": "E16 partially formed nested Genitiv: des Hauses correct, possessor unserer Freundin incorrect."
+        },
+        {
+          "date": "2026-10-04",
+          "timestamp": null,
+          "session_id": "2026-10-04-S01",
+          "exercise_id": "2026-10-04-S01-E20",
+          "independent": true,
+          "note": "Nested Genitiv needs des Eingangs der Hochschule; second layer der Hochschule was correct."
         }
       ]
     },
@@ -5057,8 +5208,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 6,
-      "independent_correct_since_last_error": 5,
+      "independent_correct": 7,
+      "independent_correct_since_last_error": 6,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-04-S01"
@@ -5104,6 +5255,14 @@
           "exercise_id": "2026-10-04-S01-E06",
           "independent": true,
           "note": "Correct indirect wo word order; capitalization error separate."
+        },
+        {
+          "date": "2026-10-04",
+          "timestamp": null,
+          "session_id": "2026-10-04-S01",
+          "exercise_id": "2026-10-04-S01-E19",
+          "independent": true,
+          "note": "weil clause verb-final order correct; punctuation/capitalization errors separate."
         }
       ]
     },
@@ -5447,8 +5606,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-04-S01"
       ],
@@ -5475,6 +5634,14 @@
           "timestamp": null,
           "session_id": "2026-10-04-S01",
           "exercise_id": "2026-10-04-S01-E01",
+          "independent": true,
+          "note": "Correct nach der Arbeit."
+        },
+        {
+          "date": "2026-10-04",
+          "timestamp": null,
+          "session_id": "2026-10-04-S01",
+          "exercise_id": "2026-10-04-S01-E14",
           "independent": true,
           "note": "Correct nach der Arbeit."
         }
@@ -5518,7 +5685,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-04",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-04-S01-E11 through E20 independently in full German sentences.",
+  "next_suggested_action": "Learner answers 2026-10-04-S01-E21 through E30 independently in full German sentences.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6605,6 +6772,126 @@
       "hint_used": false,
       "independent": true,
       "note": "Fully correct; first independent use of V117."
+    },
+    {
+      "id": "2026-10-04-S01-E11",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich dusche vor der Arbeit",
+      "correction": "Ich dusche vor der Arbeit.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "duschen correct."
+    },
+    {
+      "id": "2026-10-04-S01-E12",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich ziehe am Morgen die Jacke an",
+      "correction": "Ich ziehe am Morgen die Jacke an.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "anziehen separable structure correct."
+    },
+    {
+      "id": "2026-10-04-S01-E13",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich ziehe in dem Haus die Jacke auf",
+      "correction": "Ich ziehe zu Hause die Jacke aus.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "For taking clothes off use ausziehen: ziehe ... aus. zu Hause is natural for at home."
+    },
+    {
+      "id": "2026-10-04-S01-E14",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich kaufe nach der Arbeit ein",
+      "correction": "Ich kaufe nach der Arbeit ein.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "einkaufen separable structure and nach der Arbeit correct."
+    },
+    {
+      "id": "2026-10-04-S01-E15",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich ziehe meine Wohnung um, nächste Monat nach München",
+      "correction": "Ich ziehe nächsten Monat nach München um.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "umziehen is intransitive here; use nach München um and nächsten Monat."
+    },
+    {
+      "id": "2026-10-04-S01-E16",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich melde mich für den Kurs an",
+      "correction": "Ich melde mich für den Kurs an.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "sich anmelden für + Akk and separable an correct."
+    },
+    {
+      "id": "2026-10-04-S01-E17",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich fülle das Formula aus",
+      "correction": "Ich fülle das Formular im Büro aus.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "ausfüllen structure is correct; noun is Formular and the location im Büro was omitted."
+    },
+    {
+      "id": "2026-10-04-S01-E18",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Die Miete ist teuer",
+      "correction": "Die Miete ist teuer.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Fully correct first independent use of V118."
+    },
+    {
+      "id": "2026-10-04-S01-E19",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Ich miete eine kleine Wohnung weil Die Miete nicht teuer ist",
+      "correction": "Ich miete eine kleine Wohnung, weil die Miete nicht teuer ist.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "weil word order is correct; add comma and lowercase die."
+    },
+    {
+      "id": "2026-10-04-S01-E20",
+      "session_id": "2026-10-04-S01",
+      "date": "2026-10-04",
+      "timestamp": null,
+      "learner_answer": "Die Bibliothek ist in der Nähe der Eingangs der Hochschule",
+      "correction": "Die Bibliothek ist in der Nähe des Eingangs der Hochschule.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Eingang is masculine Genitiv: des Eingangs; der Hochschule is correct."
     }
   ],
   "skill_tracking": {
@@ -6953,5 +7240,5 @@
   },
   "feature_config_updated_on": "2026-10-03",
   "verbs_61_70_status": "practicing",
-  "verbs_71_80_status": "introduced"
+  "verbs_71_80_status": "practicing"
 }
