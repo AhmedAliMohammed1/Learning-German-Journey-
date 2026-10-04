@@ -255,3 +255,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **Dativ person + Akk thing:** **meiner Schwester den Autoschlüssel** correct.
 - **Indirect wo clause:** **Ich weiß, wo mein Freund wohnt.** structurally correct; only lowercase **weiß**.
 - Minor current form targets: **der/den Koffer**, **Das Hotel ist**, **mein Zimmer**.
+
+
+## Live grammar checkpoint — 2026-10-04 S01 Batch 2
+
+- **ausziehen:** separable prefix is **aus**: *Ich ziehe die Jacke aus.*
+- **umziehen:** natural destination pattern: *Ich ziehe nächsten Monat nach München um.* Do not use the apartment as a direct object in this meaning.
+- **anmelden:** *Ich melde mich für den Kurs an.* was correct.
+- **ausfüllen:** separable structure was correct; lexical form is **das Formular**.
+- **weil:** verb-final order was correct in E19; comma and lowercase **die** needed repair.
+- **Nested Genitiv:** use **in der Nähe des Eingangs der Hochschule**.
+- All verbs 71–80 now have at least one actual attempt; group status is practicing.
