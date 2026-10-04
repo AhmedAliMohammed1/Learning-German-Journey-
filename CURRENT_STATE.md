@@ -56,7 +56,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
-**118 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**119 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -181,12 +181,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Status: **open**
 - Active session: **2026-10-04-S01**
 - Selected mode: **Full review**
-- Batch 1 **E01–E10 completed**; active exercises: **E11–E20**
+- Batches 1–2 **E01–E20 completed**; active exercises: **E21–E30**
 - Numbered verbs remain **80 / 100**; no new numbered verbs introduced by opening this review.
 - New practical vocabulary: **V117 — der Mietvertrag (die Mietverträge)**.
 - Main embedded checks: **M29 stehen vs stellen**, Genitiv endings, **nach + Dativ**, anrufen + Akk + separable **an**, Dativ person + Akk thing, indirect **wo** clause.
 - Verbs 71–80 remain introduced; their previously saved dedicated first-practice batch remains pending separately.
-- Next action: learner writes **E11–E20** independently.
+- Next action: learner writes **E21–E30** independently.
 
 
 ## 2026-10-04 Full review — Batch 1 checkpoint
@@ -202,3 +202,17 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V118 **die Miete (die Mieten)** introduced for Batch 2.
 - 71–80 is **partially practiced**, not yet fully practiced as a group.
 - Next action: **E11–E20**.
+
+
+## 2026-10-04 Full review — Batch 2 checkpoint
+
+- E11–E20 completed independently and corrected.
+- All numbered verbs **71–80 now have at least one actual learner attempt**; group status: **practicing**.
+- Stronger fresh uses: **duschen, anziehen, einkaufen, anmelden, ausfüllen structure, mieten**.
+- Priority verb retests: **ausziehen** and **umziehen**.
+- **M30 nach + Dativ** had another correct use.
+- **M19 weil/wo final-verb order** remained structurally correct.
+- **M11/M12 Genitiv** still need work after **der Eingangs**; correct is **des Eingangs der Hochschule**.
+- V118 **die Miete** is now practicing.
+- New vocabulary for Batch 3: **V119 — die Kaution (die Kautionen)**.
+- Active exercises: **E21–E30**.
