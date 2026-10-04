@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-03T22:38:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-04T13:08:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 80 / 100 numbered verbs introduced
 
@@ -173,3 +173,17 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Keep the progression-first policy active; embed review rather than reopening a long review cycle.
 - Current weak live pattern: **M29 stehen vs stellen**.
 - M30 **nach + Dativ** is improving and should be embedded in future new-material practice.
+
+
+## Current study session — 2026-10-04
+
+- Day file: **days/2026-10-04.md**
+- Status: **open**
+- Active session: **2026-10-04-S01**
+- Selected mode: **Full review**
+- Active exercises: **E01–E10**
+- Numbered verbs remain **80 / 100**; no new numbered verbs introduced by opening this review.
+- New practical vocabulary: **V117 — der Mietvertrag (die Mietverträge)**.
+- Main embedded checks: **M29 stehen vs stellen**, Genitiv endings, **nach + Dativ**, anrufen + Akk + separable **an**, Dativ person + Akk thing, indirect **wo** clause.
+- Verbs 71–80 remain introduced; their previously saved dedicated first-practice batch remains pending separately.
+- Next action: learner writes all ten complete German sentences independently.
