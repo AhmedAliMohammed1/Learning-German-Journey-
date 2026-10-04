@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**116 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**117 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -122,6 +122,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V114 | das Paket | die Pakete | الطرد / الشحنة | noun | practicing |
 | V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | practicing |
 | V116 | das Formular | die Formulare | الاستمارة / النموذج | noun | introduced |
+| V117 | der Mietvertrag | die Mietverträge | عقد الإيجار | noun | introduced |
 
 ## Fresh live introductions
 
@@ -241,3 +242,13 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-03**
 - Source: **2026-10-03-S02, verbs 71–80**
 - Learner attempt: none yet; first active prompt is E59.
+
+
+### V117 — der Mietvertrag
+
+- Article / plural: **der Mietvertrag — die Mietverträge**
+- Egyptian Arabic: **عقد الإيجار**
+- Natural example: **Ich unterschreibe den Mietvertrag.**
+- Introduced on: **2026-10-04**
+- Source: **2026-10-04-S01, Full review, Batch 1**
+- Learner attempt: pending in E10.
