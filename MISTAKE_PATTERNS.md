@@ -197,3 +197,14 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - Reference: **nach der Arbeit**, **nach dem Essen**
 - Fresh evidence: S02 E42 and E46.
 - Policy: embed this in new-verb practice; do not block progression.
+
+
+## Fresh live evidence — 2026-10-04 — S01 Batch 1
+
+- **M29 improving:** E02 used **stellen** correctly for placement and E03 used **stehen** correctly for a stationary object. The Koffer article/number errors were separate.
+- **M13 stable:** E04 again used **des öffentlichen Parks** correctly. Post-error independent success now spans more than one live session.
+- **M11 improving:** E04 correctly used **des ... Parks**; broader Genitiv endings still need spaced review.
+- **M15 improving:** E05 correctly used **meiner Schwester den Autoschlüssel**.
+- **M19 stable:** E06 kept the verb at the end of the indirect **wo** clause; capitalization of **weiß** was separate.
+- **M30 improving:** E01 correctly used **nach der Arbeit** after the previous repeated error.
+- Minor form targets from the batch: **der/den Koffer**, **Das Hotel ist**, lowercase **weiß**, and **mein Zimmer**.
