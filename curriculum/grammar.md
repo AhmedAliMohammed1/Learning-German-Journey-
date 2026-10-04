@@ -266,3 +266,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **weil:** verb-final order was correct in E19; comma and lowercase **die** needed repair.
 - **Nested Genitiv:** use **in der Nähe des Eingangs der Hochschule**.
 - All verbs 71–80 now have at least one actual attempt; group status is practicing.
+
+
+## Live grammar checkpoint — 2026-10-04 S01 Batch 3
+
+- **ausziehen** retry succeeded: *Ich ziehe zu Hause das Hemd aus.*
+- **umziehen** destination structure succeeded: *... ziehe ich nach Berlin um*; only **nächsten Monat** needed repair.
+- **ausfüllen** needs another retry: **fülle ... aus**, not **auf**.
+- Temporal **vor/nach + Dativ** with masculine **der Termin**: **vor dem Termin**, **nach dem Termin**.
+- **warten auf + Akk** needs another retry: **auf meinen Bruder**.
+- Nested Genitiv target: **in der Nähe des Eingangs des Krankenhauses**.
+- **liegen/legen** contrast was fully correct: **auf dem Stuhl** vs **auf den Schreibtisch**.
