@@ -56,7 +56,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
-**116 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**118 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -181,9 +181,24 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Status: **open**
 - Active session: **2026-10-04-S01**
 - Selected mode: **Full review**
-- Active exercises: **E01–E10**
+- Batch 1 **E01–E10 completed**; active exercises: **E11–E20**
 - Numbered verbs remain **80 / 100**; no new numbered verbs introduced by opening this review.
 - New practical vocabulary: **V117 — der Mietvertrag (die Mietverträge)**.
 - Main embedded checks: **M29 stehen vs stellen**, Genitiv endings, **nach + Dativ**, anrufen + Akk + separable **an**, Dativ person + Akk thing, indirect **wo** clause.
 - Verbs 71–80 remain introduced; their previously saved dedicated first-practice batch remains pending separately.
-- Next action: learner writes all ten complete German sentences independently.
+- Next action: learner writes **E11–E20** independently.
+
+
+## 2026-10-04 Full review — Batch 1 checkpoint
+
+- Day remains **open**; active session: **2026-10-04-S01**.
+- E01–E10 completed independently and corrected.
+- **M29 stehen vs stellen: weak -> improving.**
+- **M13 Genitiv adjective ending: improving -> stable.**
+- Fresh correct evidence: **nach der Arbeit**, Dativ person + Akk thing, indirect **wo**, **mieten**, **unterschreiben**, and partial **aufräumen**.
+- Minor repair targets: **der/den Koffer**, **Das Hotel ist**, lowercase **weiß**, **mein Zimmer**.
+- E08 used valid **tragen**; numbered verb 73 **anziehen** remains untested.
+- V117 **der Mietvertrag** is now practicing.
+- V118 **die Miete (die Mieten)** introduced for Batch 2.
+- 71–80 is **partially practiced**, not yet fully practiced as a group.
+- Next action: **E11–E20**.
