@@ -141,3 +141,14 @@ Introduced live on 2026-10-03 after the second 61–70 mixed batch. Progression-
 ## End-of-day continuation after 71–80 introduction
 
 The learner ended 2026-10-03 after verbs 71–80 were introduced but before their first practice. Keep 71–80 at **introduced**, not practicing. Resume with S02 E51–E60 next session. Do not force older deferred review before this batch.
+
+
+## 2026-10-04 partial practice — 71–80
+
+Full-review S01 Batch 1 added fresh independent evidence for part of the 71–80 group:
+
+- 71 **aufräumen**: separable structure correct in E07; possessive **mein Zimmer** needed correction.
+- 76 **mieten**: E09 fully correct.
+- 80 **unterschreiben**: E10 fully correct.
+- 73 **anziehen** was not actually tested: the learner used valid **tragen** for “wear” in E08.
+- Group 71–80 is therefore **partially practiced**, not yet promoted as a fully practiced group.
