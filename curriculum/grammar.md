@@ -244,3 +244,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - Genitiv adjective ending in **des neuen Restaurants** was correct; the noun ending **Restaurants** still needs maintenance.
 - **warten auf + Akk** needs another check after **warte ich den Lehrer**.
 - **aufhören + zu** was correct again.
+
+
+## Live grammar checkpoint — 2026-10-04 S01 Batch 1
+
+- **stehen / stellen:** learner selected both verbs correctly in fresh contrasting sentences; M29 weak -> improving. Article/number errors on **Koffer** were separate.
+- **Genitiv adjective ending:** **des öffentlichen Parks** correct again; M13 improving -> stable.
+- **Genitiv article/noun selection:** the same phrase was correct; broader M11 remains improving due to earlier variability.
+- **nach + Dativ:** **nach der Arbeit** correct after earlier repeated errors; M30 remains improving.
+- **Dativ person + Akk thing:** **meiner Schwester den Autoschlüssel** correct.
+- **Indirect wo clause:** **Ich weiß, wo mein Freund wohnt.** structurally correct; only lowercase **weiß**.
+- Minor current form targets: **der/den Koffer**, **Das Hotel ist**, **mein Zimmer**.
