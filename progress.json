@@ -6232,7 +6232,7 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-05",
-  "latest_study_state": "active",
+  "latest_study_state": "paused_at_main_menu",
   "next_suggested_action": "Await learner main-menu choice. If continuing the current learning path, use a short fresh retest of article/case details around verbs 81-90; do not force older deferred review.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
