@@ -23,8 +23,58 @@
   "sessions_recorded": 5,
   "last_verified_study_at": "2026-10-05T23:58:00+02:00",
   "active_topic": "Full review after batch 1",
-  "next_action": "Continue full review with a second mixed batch.",
+  "next_action": "Answer E11-E20 in the current full review.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S01-E11",
+      "prompt_ar": "أنا بلغي الموعد بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "absagen"
+    },
+    {
+      "id": "2026-10-06-S01-E12",
+      "prompt_ar": "أنا بحجز ترابيزة لشخصين في المطعم.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "reservieren"
+    },
+    {
+      "id": "2026-10-06-S01-E13",
+      "prompt_ar": "أنا بدي أختي الإيصال.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "geben"
+    },
+    {
+      "id": "2026-10-06-S01-E14",
+      "prompt_ar": "أنا بستنى أخويا قدام المستشفى.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "warten"
+    },
+    {
+      "id": "2026-10-06-S01-E15",
+      "prompt_ar": "أنا بحط الموبايل على المكتب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "legen"
+    },
     {
       "id": "2026-10-03-S01-E41",
       "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
