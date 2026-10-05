@@ -277,3 +277,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **warten auf + Akk** needs another retry: **auf meinen Bruder**.
 - Nested Genitiv target: **in der Nähe des Eingangs des Krankenhauses**.
 - **liegen/legen** contrast was fully correct: **auf dem Stuhl** vs **auf den Schreibtisch**.
+
+
+## Live grammar checkpoint — 2026-10-05 S01 verbs 81–90
+
+- **V2 after fronted time phrase** stayed correct with separable verbs: **Nach der Arbeit hole ich ... ab / sage ich ... ab**.
+- **Dativ recipient without zu:** **Ich gebe meinem Freund das Buch zurück.**
+- **Akkusativ object with mitbringen:** **Ich bringe meinen Reisepass zum Termin mit.**
+- **Temporal expression:** **nächsten Monat**.
+- Article/case maintenance: **mein Handy**, **ein Zimmer**, **in einem Hotel**, **das Wochenende**, **das Paket**, **zum Termin**.
+- With **absagen**, include the object when the prompt names it: **Ich sage den Termin ab.**
+- These are current repair targets, not evidence of a new broad grammar regression.
