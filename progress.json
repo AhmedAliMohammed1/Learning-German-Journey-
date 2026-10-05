@@ -2947,7 +2947,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 123,
+    "registered_entries_count": 124,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -4990,6 +4990,21 @@
             "note": "Introduced as new practical vocabulary; learner attempt pending."
           }
         ]
+      },
+      {
+        "id": "V124",
+        "german": "die Quittung",
+        "meaning_ar": "receipt",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Quittungen",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S01 full review batch 2",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
