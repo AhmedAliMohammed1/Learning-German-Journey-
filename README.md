@@ -91,6 +91,8 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 ## Live checkpoint — 2026-10-05
 
 - Current day: **2026-10-05**, Session **S01**, status **open**.
-- Numbered verbs: **80 / 100** introduced.
-- Active work: 5-sentence diagnostic, then progression to **81–90**.
+- Numbered verbs: **90 / 100** introduced.
+- Active work: first practice **E06–E15** for newly introduced verbs **81–90**.
 - New vocabulary: **V121 der Ausweis (die Ausweise)**.
+
+- 2026-10-05 progression vocabulary: **V122 der Reisepass (die Reisepässe)**.
