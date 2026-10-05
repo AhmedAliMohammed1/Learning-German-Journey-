@@ -2,22 +2,23 @@
 
 ده سجل مذاكرتك للألماني، عشان أي AI يقدر يعرف وصلت لفين ويكمّل معاك بنفس طريقة المذاكرة.
 
-## Dashboard — 4 أكتوبر 2026
+## Dashboard — 5 أكتوبر 2026
 
 | جزء المذاكرة | الحالة الحالية |
 | --- | --- |
-| الأفعال المرقمة | **80 / 100 اتقدموا** |
+| الأفعال المرقمة | **90 / 100 اتقدموا** |
 | 1–50 | اتراجعوا عدة مرات، محفوظين عمومًا، ويستمروا في المراجعة التراكمية |
 | 51–60 | حديثين ولسه **practicing** |
 | 61–70 | **practicing** |
-| 71–80 | **practicing**؛ كل العشرة اتجرّبوا مرة على الأقل، وausfüllen وwarten auf + Akk وdes Eingangs محتاجين متابعة |
+| 71–80 | **practicing**؛ كل العشرة اتجرّبوا مرة على الأقل |
+| 81–90 | **practicing**؛ أول batch مستقل خلص يوم 2026-10-05، والتركيز دلوقتي على articles/cases حوالين الأفعال |
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **120 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
-| آخر تاريخ مذاكرة | **2026-10-04** |
-| آخر نقطة | اليوم **open**؛ Full Review Batches 1–3 خلصوا، والجلسة paused؛ الاستكمال E31–E40 |
-| ملف اليوم | **open**؛ Session 2026-10-04-S01 paused لحد ما نكمل بالليل |
+| سجل المفردات | **122 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| آخر تاريخ مذاكرة | **2026-10-05** |
+| آخر نقطة | اليوم **open**؛ 81–90 اتعمل لهم أول practice والجلسة paused عند القائمة الرئيسية |
+| ملف اليوم | **open**؛ Session 2026-10-05-S01 paused، والاختيار الجاي من القائمة الرئيسية |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -70,14 +71,15 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 | [LEARNING_PROFILE.md](LEARNING_PROFILE.md) | طريقة المذاكرة والتفضيلات |
 | [MISTAKE_PATTERNS.md](MISTAKE_PATTERNS.md) | الأخطاء الضعيفة، المتحسنة، والأكثر ثباتًا |
 | [progress.json](progress.json) | الحالة المقروءة آليًا |
-| [curriculum/verbs.md](curriculum/verbs.md) | الأفعال 1–80 بنفس الترقيم الحالي |
+| [curriculum/verbs.md](curriculum/verbs.md) | الأفعال 1–90 بنفس الترقيم الحالي |
 | [curriculum/grammar.md](curriculum/grammar.md) | القواعد اللي اتدرست وتركيز Genitiv |
 | [curriculum/vocabulary.md](curriculum/vocabulary.md) | المفردات بدون تكرار، والأفعال الإضافية |
 | [days/2026-09-30.md](days/2026-09-30.md) | بدايات المراجعة والقضايا النحوية |
 | [days/2026-10-01.md](days/2026-10-01.md) | استكمال مجموعات الأفعال والتمارين |
 | [days/2026-10-02.md](days/2026-10-02.md) | مراجعات 1–50 |
 | [days/2026-10-03.md](days/2026-10-03.md) | 51–60، Genitiv، وبداية 71–80 |
-| [days/2026-10-04.md](days/2026-10-04.md) | Full review الحالي وBatch 1/2 |
+| [days/2026-10-04.md](days/2026-10-04.md) | Full review ومراجعة 71–80 |
+| [days/2026-10-05.md](days/2026-10-05.md) | التشخيص، تقديم وممارسة 81–90 |
 | [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | قالب يوم جديد |
 | [AGENTS.md](AGENTS.md) | نقطة الدخول لأدوات البرمجة التي تقرأه |
 
@@ -90,9 +92,10 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 
 ## Live checkpoint — 2026-10-05
 
-- Current day: **2026-10-05**, Session **S01**, status **open**.
+- Current day: **2026-10-05**, status **open**; Session **S01 paused**.
 - Numbered verbs: **90 / 100** introduced.
-- Active work: first practice **E06–E15** for newly introduced verbs **81–90**.
+- **E06–E15 completed**; verbs **81–90 are practicing**.
+- Next action: await a main-menu choice; if continuing, use a short case/article retest rather than a long review.
 - New vocabulary: **V121 der Ausweis (die Ausweise)**.
 
 - 2026-10-05 progression vocabulary: **V122 der Reisepass (die Reisepässe)**.
