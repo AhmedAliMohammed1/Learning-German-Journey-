@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-04T13:08:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-05T19:52:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 80 / 100 numbered verbs introduced
 
@@ -56,7 +56,7 @@ Minor spelling issues remain low priority and separate.
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
-**120 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**121 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
@@ -240,3 +240,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Session **2026-10-04-S01** is paused.
 - Exact continuation: **E31–E40**.
 - Do not regenerate or replace those prompts on resume.
+
+
+## Current study session — 2026-10-05
+
+- Day file: **days/2026-10-05.md**.
+- Status: **open**; active session: **2026-10-05-S01**.
+- Learner selected **Start a new study day**.
+- Numbered verbs remain **80 / 100** at session opening.
+- Active task: short diagnostic **E01–E05**, then progress to numbered verbs **81–90**.
+- Diagnostic targets: **ausfüllen**, **warten auf + Akk**, nested Genitiv **des Eingangs ...**, **vor/nach + Dativ**, and light **legen + destination** maintenance.
+- New practical vocabulary: **V121 — der Ausweis (die Ausweise)**.
+- Previous 2026-10-04 E31–E40 and older deferred work remain preserved; they are not forced before progression.
