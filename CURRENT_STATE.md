@@ -2,13 +2,14 @@
 
 Updated: **2026-10-05T19:52:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
-## Progress — 80 / 100 numbered verbs introduced
+## Progress — 90 / 100 numbered verbs introduced
 
 - **1–50:** introduced and reviewed multiple times; generally retained / strong group baseline. Continue cumulative reviews. This does not mean every verb is fully mastered.
 - **51–60:** recent and **practicing**: liegen, legen, stellen, setzen, öffnen, schließen, anfangen, aufhören, warten, treffen.
 - **61–70:** practicing: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
-- **71–80:** newly introduced: aufräumen, duschen, anziehen, ausziehen, einkaufen, mieten, umziehen, anmelden, ausfüllen, unterschreiben.
-- Exact numbered identities and meanings are complete through **80** in curriculum/verbs.md and progress.json.
+- **71–80:** practicing: aufräumen, duschen, anziehen, ausziehen, einkaufen, mieten, umziehen, anmelden, ausfüllen, unterschreiben.
+- **81–90:** introduced on 2026-10-05: verlieren, benutzen, wechseln, buchen, reservieren, abholen, zurückgeben, mitbringen, vereinbaren, absagen.
+- Exact numbered identities and meanings are complete through **90** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
 - No invented mastery percentages. Target 100 is confirmed by the learner.
 
@@ -252,3 +253,13 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Diagnostic targets: **ausfüllen**, **warten auf + Akk**, nested Genitiv **des Eingangs ...**, **vor/nach + Dativ**, and light **legen + destination** maintenance.
 - New practical vocabulary: **V121 — der Ausweis (die Ausweise)**.
 - Previous 2026-10-04 E31–E40 and older deferred work remain preserved; they are not forced before progression.
+
+
+## 2026-10-05 diagnostic checkpoint and progression
+
+- E01–E05 completed independently.
+- Fresh correct evidence: **warten auf + Akk**, **des Eingangs des Krankenhauses**, **nach dem Termin**, destination **in den Rucksack**.
+- Still active: **ausfüllen = fülle ... aus**; **den Mietvertrag** in Akkusativ; prefer **legen** for a flat Ausweis.
+- Numbered verbs **81–90** introduced. Total is now **90 / 100**.
+- New vocabulary: **V122 der Reisepass (die Reisepässe)**.
+- Active exercises: **2026-10-05-S01-E06–E15**.
