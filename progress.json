@@ -22,62 +22,92 @@
   "current_session_id": "2026-10-06-S01",
   "sessions_recorded": 5,
   "last_verified_study_at": "2026-10-05T23:58:00+02:00",
-  "active_topic": "Full review after batch 1",
-  "next_action": "Answer 2026-10-06-S01-E11 through E20 independently.",
+  "active_topic": "Full review batch 3",
+  "next_action": "Answer 2026-10-06-S01-E21 through E30 independently.",
   "pending_exercises": [
     {
-      "id": "2026-10-06-S01-E16",
-      "prompt_ar": "الموبايل موجود على المكتب.",
+      "id": "2026-10-06-S01-E21",
+      "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "liegen"
+      "target": "mitbringen"
     },
     {
-      "id": "2026-10-06-S01-E17",
-      "prompt_ar": "أنا بتوقف عن الكتابة الساعة تسعة.",
+      "id": "2026-10-06-S01-E22",
+      "prompt_ar": "أنا بملا الاستمارة قبل الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "aufhören"
+      "target": "ausfüllen"
     },
     {
-      "id": "2026-10-06-S01-E18",
-      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "id": "2026-10-06-S01-E23",
+      "prompt_ar": "المكتبة قريبة من مدخل الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "wissen"
+      "target": "nested Genitiv"
     },
     {
-      "id": "2026-10-06-S01-E19",
-      "prompt_ar": "أنا بتصل بأمي بعد الموعد.",
+      "id": "2026-10-06-S01-E24",
+      "prompt_ar": "أنا بحط الزجاجة على الترابيزة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "anrufen"
+      "target": "stellen"
     },
     {
-      "id": "2026-10-06-S01-E20",
-      "prompt_ar": "المكتب قريب من الحديقة العامة.",
+      "id": "2026-10-06-S01-E25",
+      "prompt_ar": "الزجاجة موجودة على الترابيزة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "Genitiv"
+      "target": "stehen"
     },
     {
-      "id": "2026-10-06-S01-E11",
-      "prompt_ar": "أنا بلغي الموعد بعد الشغل.",
+      "id": "2026-10-06-S01-E26",
+      "prompt_ar": "أنا بسجل في الكورس النهارده.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "anmelden"
+    },
+    {
+      "id": "2026-10-06-S01-E27",
+      "prompt_ar": "أنا بحكي لأخويا قصة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "erzählen"
+    },
+    {
+      "id": "2026-10-06-S01-E28",
+      "prompt_ar": "أنا بقرأ جدول المواعيد قبل ما أروح المحطة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "Fahrplan"
+    },
+    {
+      "id": "2026-10-06-S01-E29",
+      "prompt_ar": "بعد الشغل، أنا بلغي الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -86,44 +116,14 @@
       "target": "absagen"
     },
     {
-      "id": "2026-10-06-S01-E12",
-      "prompt_ar": "أنا بحجز ترابيزة لشخصين في المطعم.",
+      "id": "2026-10-06-S01-E30",
+      "prompt_ar": "أنا بدي صاحبي تذكرة القطر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_full_review",
       "activity": "full_review",
-      "target": "reservieren"
-    },
-    {
-      "id": "2026-10-06-S01-E13",
-      "prompt_ar": "أنا بدي أختي الإيصال.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_full_review",
-      "activity": "full_review",
-      "target": "geben"
-    },
-    {
-      "id": "2026-10-06-S01-E14",
-      "prompt_ar": "أنا بستنى أخويا قدام المستشفى.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_full_review",
-      "activity": "full_review",
-      "target": "warten"
-    },
-    {
-      "id": "2026-10-06-S01-E15",
-      "prompt_ar": "أنا بحط الموبايل على المكتب.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_full_review",
-      "activity": "full_review",
-      "target": "legen"
+      "target": "geben + Fahrkarte"
     },
     {
       "id": "2026-10-03-S01-E41",
@@ -601,7 +601,17 @@
     "2026-10-06-S01-E07",
     "2026-10-06-S01-E08",
     "2026-10-06-S01-E09",
-    "2026-10-06-S01-E10"
+    "2026-10-06-S01-E10",
+    "2026-10-06-S01-E11",
+    "2026-10-06-S01-E12",
+    "2026-10-06-S01-E13",
+    "2026-10-06-S01-E14",
+    "2026-10-06-S01-E15",
+    "2026-10-06-S01-E16",
+    "2026-10-06-S01-E17",
+    "2026-10-06-S01-E18",
+    "2026-10-06-S01-E19",
+    "2026-10-06-S01-E20"
   ],
   "verbs": {
     "introduced_total": 90,
@@ -3047,7 +3057,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 124,
+    "registered_entries_count": 125,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5098,10 +5108,37 @@
         "type": "noun",
         "article": "die",
         "plural": "die Quittungen",
+        "status": "practicing",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": "2026-10-06",
+        "source": "2026-10-06-S01 full review batch 2",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": null,
+            "session_id": "2026-10-06-S01",
+            "exercise_id": "2026-10-06-S01-E13",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent use of die Quittung."
+          }
+        ]
+      },
+      {
+        "id": "V125",
+        "german": "der Fahrplan",
+        "meaning_ar": "جدول المواعيد / مواعيد المواصلات",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Fahrpläne",
         "status": "introduced",
         "introduced_on": "2026-10-06",
         "last_reviewed": null,
-        "source": "2026-10-06-S01 full review batch 2",
+        "source": "2026-10-06-S01 full review batch 3",
+        "usage_example": "Ich lese den Fahrplan vor der Fahrt.",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -6383,7 +6420,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_full_review",
-  "next_suggested_action": "Answer 2026-10-06-S01-E11 through E20 independently.",
+  "next_suggested_action": "Answer 2026-10-06-S01-E21 through E30 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6676,6 +6713,13 @@
       "session_id": "2026-10-06-S01",
       "event": "full_review_started",
       "note": "New calendar-day full review started. E01-E10 active; V123 die Fahrkarte introduced. Older pending work preserved."
+    },
+    {
+      "date": "2026-10-06",
+      "timestamp": null,
+      "session_id": "2026-10-06-S01",
+      "event": "full_review_batch_2_checkpoint",
+      "note": "E11-E20 completed. Strong: Dat+Akk, warten auf, legen/liegen, aufhören+zu, wo-clause, Genitiv adjective ending. Batch 3 E21-E30 opened; V125 der Fahrplan introduced."
     }
   ],
   "exercise_results": [
@@ -8028,6 +8072,126 @@
       "result": "correct_with_note",
       "hint_used": false,
       "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E11",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich sage meinen Termin nach der Arbeit ab",
+      "correction": "Ich sage den Termin nach der Arbeit ab.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "absagen structure correct; den Termin better matches the definite prompt."
+    },
+    {
+      "id": "2026-10-06-S01-E12",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich reserviere einen Tisch im Hotel für zwei Personen",
+      "correction": "Ich reserviere einen Tisch im Restaurant für zwei Personen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "reservieren and grammar correct; wrong place noun."
+    },
+    {
+      "id": "2026-10-06-S01-E13",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich gebe meiner Schwester die Quittung",
+      "correction": "Ich gebe meiner Schwester die Quittung.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Dativ person + Akk thing correct."
+    },
+    {
+      "id": "2026-10-06-S01-E14",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich warte vor dem Krankenhaus auf meinen Bruder",
+      "correction": "Ich warte vor dem Krankenhaus auf meinen Bruder.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "warten auf + Akk correct."
+    },
+    {
+      "id": "2026-10-06-S01-E15",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich lege das Handy auf den Schreibtisch",
+      "correction": "Ich lege das Handy auf den Schreibtisch.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "legen + destination Akk correct."
+    },
+    {
+      "id": "2026-10-06-S01-E16",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Das Handy liegt auf dem Schreibtisch",
+      "correction": "Das Handy liegt auf dem Schreibtisch.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "liegen + location Dativ correct."
+    },
+    {
+      "id": "2026-10-06-S01-E17",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich höre um neun Uhr auf zu schreiben",
+      "correction": "Ich höre um neun Uhr auf zu schreiben.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "aufhören + zu correct."
+    },
+    {
+      "id": "2026-10-06-S01-E18",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich weiß, wo mein Freund wohnt",
+      "correction": "Ich weiß, wo mein Freund wohnt.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "wo-clause word order correct."
+    },
+    {
+      "id": "2026-10-06-S01-E19",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich rufe meine Mutter Nach der Arbeit an",
+      "correction": "Ich rufe meine Mutter nach dem Termin an.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "anrufen structure correct; prompt required after the appointment, not after work."
+    },
+    {
+      "id": "2026-10-06-S01-E20",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Der Schreibtisch ist in der Nähe des öffentlichen Parks",
+      "correction": "Das Büro ist in der Nähe des öffentlichen Parks.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Genitiv phrase fully correct; Büro better matches office."
     }
   ],
   "skill_tracking": {
