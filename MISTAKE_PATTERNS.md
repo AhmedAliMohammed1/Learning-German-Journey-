@@ -238,3 +238,14 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M30 improving:** E04 correctly used **nach dem Termin**; the later Mietvertrag article error is separate.
 - **M27 stable:** E05 correctly used destination **in den Rucksack**; **legen** is more natural than *stellen* for a flat Ausweis.
 - Verb-specific target 79 **ausfüllen** repeated the prefix error in E01: **fülle ... aus**, not *auf*.
+
+
+## Fresh live evidence — 2026-10-05 — verbs 81–90
+
+- **M28 stable:** E11 and E15 kept verb-second after **Nach der Arbeit** with separable verbs.
+- **M15 improving:** E12 used **zu meinem Freund** with zurückgeben; natural structure is **Ich gebe meinem Freund das Buch zurück** — Dativ recipient directly, without *zu*.
+- **M14 improving:** E13 showed a fresh object-case issue with **der Reisepass**; the object of mitbringen is Akkusativ: **meinen Reisepass**.
+- Time-expression form needs maintenance after E08: **nächsten Monat**, not *nächster Monat*.
+- Article/case maintenance from the batch: **mein Handy**, **ein Zimmer**, **in einem Hotel**, **das Wochenende**, **das Paket**, **zum Termin**.
+- E15 correctly formed separable **absagen** but omitted the explicit object; use **den Termin absagen** when the thing being cancelled is stated.
+- Do not create a new weak pattern from these one-off surface errors yet; embed them in future new-material practice and promote only if repeated evidence supports it.
