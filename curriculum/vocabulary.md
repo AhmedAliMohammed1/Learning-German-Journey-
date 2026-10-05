@@ -127,7 +127,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V119 | die Kaution | die Kautionen | التأمين / مبلغ التأمين | noun | practicing |
 | V120 | die Unterschrift | die Unterschriften | التوقيع | noun | introduced |
 | V121 | der Ausweis | die Ausweise | بطاقة الهوية / إثبات الهوية | noun | practicing |
-| V122 | der Reisepass | die Reisepässe | جواز السفر | noun | introduced |
+| V122 | der Reisepass | die Reisepässe | جواز السفر | noun | practicing |
 
 ## Fresh live introductions
 
@@ -306,4 +306,4 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Natural example: **Ich bringe meinen Reisepass zum Termin mit.**
 - Introduced on: **2026-10-05**
 - Source: **2026-10-05-S01, verbs 81–90 first practice**
-- First learner attempt pending in **E13**.
+- Learner attempt on 2026-10-05 E13: vocabulary choice **Reisepass** was correct; article/case needed **meinen Reisepass**. Status: practicing.
