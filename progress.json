@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-05",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-05T23:58:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,112 +19,12 @@
   "current_day": "2026-10-05",
   "latest_day": "2026-10-05",
   "day_status": "open",
-  "current_session_id": "2026-10-05-S01",
+  "current_session_id": null,
   "sessions_recorded": 4,
-  "last_verified_study_at": "2026-10-05T19:52:00+02:00",
-  "active_topic": "Numbered verbs 81-90 first practice",
-  "next_action": "Answer 2026-10-05-S01-E06 through E15 independently.",
+  "last_verified_study_at": "2026-10-05T23:58:00+02:00",
+  "active_topic": "Main menu; numbered verbs 81-90 are practicing",
+  "next_action": "Await learner main-menu choice. If continuing the current learning path, use a short fresh retest of article/case details around verbs 81-90; do not force older deferred review.",
   "pending_exercises": [
-    {
-      "id": "2026-10-05-S01-E06",
-      "prompt_ar": "أنا بضيّع المفتاح في محطة القطر.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "verlieren"
-    },
-    {
-      "id": "2026-10-05-S01-E07",
-      "prompt_ar": "أنا بستخدم الموبايل في الشغل.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "benutzen"
-    },
-    {
-      "id": "2026-10-05-S01-E08",
-      "prompt_ar": "الشهر الجاي، أنا بغيّر البنك.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "wechseln"
-    },
-    {
-      "id": "2026-10-05-S01-E09",
-      "prompt_ar": "أنا بحجز أوضة في فندق لعطلة نهاية الأسبوع.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "buchen"
-    },
-    {
-      "id": "2026-10-05-S01-E10",
-      "prompt_ar": "أنا بحجز ترابيزة لشخصين في المطعم.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "reservieren"
-    },
-    {
-      "id": "2026-10-05-S01-E11",
-      "prompt_ar": "بعد الشغل، أنا بروح أستلم الطرد.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "abholen"
-    },
-    {
-      "id": "2026-10-05-S01-E12",
-      "prompt_ar": "أنا برجع الكتاب لصاحبي.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "zurückgeben"
-    },
-    {
-      "id": "2026-10-05-S01-E13",
-      "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "mitbringen"
-    },
-    {
-      "id": "2026-10-05-S01-E14",
-      "prompt_ar": "أنا بحدد موعد مع مديري.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "vereinbaren"
-    },
-    {
-      "id": "2026-10-05-S01-E15",
-      "prompt_ar": "بعد الشغل، أنا بلغي الموعد.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_new_material",
-      "activity": "numbered_verbs_81_90",
-      "target": "absagen"
-    },
     {
       "id": "2026-10-03-S01-E41",
       "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
@@ -581,7 +481,17 @@
     "2026-10-05-S01-E02",
     "2026-10-05-S01-E03",
     "2026-10-05-S01-E04",
-    "2026-10-05-S01-E05"
+    "2026-10-05-S01-E05",
+    "2026-10-05-S01-E06",
+    "2026-10-05-S01-E07",
+    "2026-10-05-S01-E08",
+    "2026-10-05-S01-E09",
+    "2026-10-05-S01-E10",
+    "2026-10-05-S01-E11",
+    "2026-10-05-S01-E12",
+    "2026-10-05-S01-E13",
+    "2026-10-05-S01-E14",
+    "2026-10-05-S01-E15"
   ],
   "verbs": {
     "introduced_total": 90,
@@ -634,11 +544,12 @@
         "from": 81,
         "to": 90,
         "count": 10,
-        "status": "introduced",
+        "status": "practicing",
         "recency": "new",
         "introduced_on": "2026-10-05",
-        "assessment_basis": "live introduction after short progression diagnostic",
-        "historical_review_count": null
+        "assessment_basis": "all ten verbs received first independent practice on 2026-10-05; sentence-level article/case errors remain",
+        "historical_review_count": null,
+        "last_reviewed": "2026-10-05"
       }
     ],
     "items": [
@@ -2559,15 +2470,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E06",
+            "independent": true,
+            "correct": true,
+            "note": "Correct verb use of verlieren; station phrasing was the only note."
+          }
+        ],
         "meaning_ar": "يفقد / يضيّع",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2578,15 +2499,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E07",
+            "independent": true,
+            "correct": true,
+            "note": "Correct verb use of benutzen; mein Handy / bei der Arbeit needed repair."
+          }
+        ],
         "meaning_ar": "يستخدم",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2597,15 +2528,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E08",
+            "independent": true,
+            "correct": true,
+            "note": "Correct verb use of wechseln and V2; nächsten Monat needed repair."
+          }
+        ],
         "meaning_ar": "يغيّر / يبدّل",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2616,15 +2557,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E09",
+            "independent": true,
+            "correct": true,
+            "note": "Correct verb use of buchen; noun/article/case forms needed repair."
+          }
+        ],
         "meaning_ar": "يحجز فندق/تذكرة",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2635,15 +2586,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E10",
+            "independent": true,
+            "correct": true,
+            "note": "Correct verb use of reservieren; sentence was structurally correct."
+          }
+        ],
         "meaning_ar": "يحجز مكان/ترابيزة",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2654,15 +2615,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E11",
+            "independent": true,
+            "correct": true,
+            "note": "Correct separable abholen; Paket article needed repair."
+          }
+        ],
         "meaning_ar": "يستلم / يروح يجيب",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "separable",
         "entry_kind": "infinitive"
@@ -2673,15 +2644,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E12",
+            "independent": true,
+            "correct": true,
+            "note": "Correct separable zurückgeben; recipient should be Dativ without zu."
+          }
+        ],
         "meaning_ar": "يرجّع / يعيد",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "separable",
         "entry_kind": "infinitive"
@@ -2692,15 +2673,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E13",
+            "independent": true,
+            "correct": true,
+            "note": "Correct separable mitbringen; Reisepass and Termin case forms needed repair."
+          }
+        ],
         "meaning_ar": "يحضر معه",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "separable",
         "entry_kind": "infinitive"
@@ -2711,15 +2702,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E14",
+            "independent": true,
+            "correct": true,
+            "note": "Correct vereinbaren construction; indefinite einen Termin is more natural."
+          }
+        ],
         "meaning_ar": "يحدد / يتفق على موعد",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
         "entry_kind": "infinitive"
@@ -2730,15 +2731,25 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-05",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-05",
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E15",
+            "independent": true,
+            "correct": true,
+            "note": "Correct separable absagen and V2; explicit object den Termin was omitted."
+          }
+        ],
         "meaning_ar": "يلغي موعدًا",
-        "review_status": "introduced",
+        "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "separable",
         "entry_kind": "infinitive"
@@ -4925,14 +4936,25 @@
         "type": "noun",
         "article": "der",
         "plural": "die Reisepässe",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-05",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-05",
         "source": "2026-10-05-S01 verbs 81-90",
         "usage_example": "Ich bringe meinen Reisepass zum Termin mit.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T23:58:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E13",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Reisepass vocabulary was selected correctly; Akkusativ article needed repair."
+          }
+        ]
       }
     ]
   },
@@ -6178,7 +6200,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-05",
   "latest_study_state": "active",
-  "next_suggested_action": "Answer 2026-10-05-S01-E06 through E15 independently.",
+  "next_suggested_action": "Await learner main-menu choice. If continuing the current learning path, use a short fresh retest of article/case details around verbs 81-90; do not force older deferred review.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6457,6 +6479,13 @@
       "session_id": "2026-10-05-S01",
       "event": "diagnostic_completed_and_verbs_81_90_introduced",
       "note": "E01-E05 completed. Progressed to verbs 81-90; V122 der Reisepass introduced."
+    },
+    {
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "session_id": "2026-10-05-S01",
+      "event": "verbs_81_90_first_practice_checkpoint",
+      "note": "E06-E15 completed independently. All ten target verbs were selected correctly; most sentence repairs were articles, cases, prepositions, or an omitted object. Session then paused for main menu."
     }
   ],
   "exercise_results": [
@@ -7579,6 +7608,126 @@
       "hint_used": false,
       "independent": true,
       "note": "Destination Akkusativ correct; legen is more natural for a flat Ausweis."
+    },
+    {
+      "id": "2026-10-05-S01-E06",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich verliere in dem Bahnhof den Schlüssel",
+      "correction": "Ich verliere den Schlüssel am Bahnhof.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Verb correct; am Bahnhof is more natural for the intended general location."
+    },
+    {
+      "id": "2026-10-05-S01-E07",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich benutze in der Arbeit meinen Handy",
+      "correction": "Ich benutze mein Handy bei der Arbeit.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "das Handy -> mein Handy; prefer bei der Arbeit."
+    },
+    {
+      "id": "2026-10-05-S01-E08",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Nächster Monat wechsele ich die Bank",
+      "correction": "Nächsten Monat wechsle ich die Bank.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Time expression needs nächsten Monat; V2 and verb choice correct."
+    },
+    {
+      "id": "2026-10-05-S01-E09",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich buche in dem Hotel eine Zimmer für die Wochenende",
+      "correction": "Ich buche ein Zimmer in einem Hotel für das Wochenende.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct verb; repair Zimmer/Hotel/Wochenende articles and case."
+    },
+    {
+      "id": "2026-10-05-S01-E10",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich reserviere in dem Restaurant einen Tisch für zwei Personen",
+      "correction": "Ich reserviere im Restaurant einen Tisch für zwei Personen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct; im Restaurant is the natural contraction."
+    },
+    {
+      "id": "2026-10-05-S01-E11",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Nach der Arbeit hole ich die Paket ab",
+      "correction": "Nach der Arbeit hole ich das Paket ab.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct abholen and V2; das Paket."
+    },
+    {
+      "id": "2026-10-05-S01-E12",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich gebe das Buch zu meinem Freund zurück",
+      "correction": "Ich gebe meinem Freund das Buch zurück.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct zurückgeben; recipient takes Dativ directly without zu."
+    },
+    {
+      "id": "2026-10-05-S01-E13",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich bringe dem Reisepass zu den Termin mit",
+      "correction": "Ich bringe meinen Reisepass zum Termin mit.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct mitbringen; object is Akkusativ, and zu dem Termin -> zum Termin."
+    },
+    {
+      "id": "2026-10-05-S01-E14",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Ich vereinbare mit meinem Chef den Termin",
+      "correction": "Ich vereinbare einen Termin mit meinem Chef.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct construction; indefinite einen Termin better matches the prompt."
+    },
+    {
+      "id": "2026-10-05-S01-E15",
+      "session_id": "2026-10-05-S01",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T23:58:00+02:00",
+      "learner_answer": "Nach der Arbeit sage ich ab",
+      "correction": "Nach der Arbeit sage ich den Termin ab.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct absagen and V2; explicit object den Termin was omitted."
     }
   ],
   "skill_tracking": {
@@ -7928,5 +8077,5 @@
   "feature_config_updated_on": "2026-10-03",
   "verbs_61_70_status": "practicing",
   "verbs_71_80_status": "practicing",
-  "verbs_81_90_status": "introduced"
+  "verbs_81_90_status": "practicing"
 }
