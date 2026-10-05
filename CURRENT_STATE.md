@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-06; exact time unavailable**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-06T00:37:49+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 90 / 100 numbered verbs introduced
 
@@ -299,3 +299,16 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V124 **die Quittung** is practicing.
 - Active next batch: **E21–E30**.
 - V125 **der Fahrplan (die Fahrpläne)** introduced.
+
+
+## End-of-day — 2026-10-06
+
+- Day status: **closed**.
+- Session **2026-10-06-S01** completed for the day.
+- Full Review **E01–E20** completed and corrected.
+- **E21–E30 remain pending** as Batch 3 and must be preserved exactly.
+- Numbered verbs remain **90 / 100**.
+- Vocabulary register: **125 entries**.
+- Strong fresh evidence: Dativ recipient patterns, warten auf + Akk, legen/liegen, aufhören + zu, indirect wo clause, Genitiv adjective ending, and V2 after fronted time phrases.
+- Active repair targets: **meinen Reisepass zum Termin mitbringen**, **fülle ... aus**, nested Genitiv **des Eingangs des Krankenhauses**, and **anfangen ... an zu lesen**.
+- Next startup should offer the main menu. If the learner chooses **Continue previous session**, resume with **E21–E30**.
