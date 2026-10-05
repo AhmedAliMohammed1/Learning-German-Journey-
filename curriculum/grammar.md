@@ -288,3 +288,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - Article/case maintenance: **mein Handy**, **ein Zimmer**, **in einem Hotel**, **das Wochenende**, **das Paket**, **zum Termin**.
 - With **absagen**, include the object when the prompt names it: **Ich sage den Termin ab.**
 - These are current repair targets, not evidence of a new broad grammar regression.
+
+
+## Live grammar checkpoint — 2026-10-06 S01 Batch 2
+
+- **Dativ recipient + Akk object:** **Ich gebe meiner Schwester die Quittung.**
+- **warten auf + Akk:** **Ich warte vor dem Krankenhaus auf meinen Bruder.**
+- **Two-way prepositions:** destination **auf den Schreibtisch** vs location **auf dem Schreibtisch** both correct.
+- **aufhören + zu:** **Ich höre um neun Uhr auf zu schreiben.**
+- **indirect wo clause:** **Ich weiß, wo mein Freund wohnt.**
+- **anrufen + Akk** was correct; only the requested temporal phrase needed **nach dem Termin**.
+- **Genitiv adjective ending:** **des öffentlichen Parks** was correct.
