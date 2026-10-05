@@ -86,3 +86,11 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 **Backfilled from prior conversation** باستخدام التاريخ والقائمة اللي قدّمهم المتعلم يوم 2026-10-03. أسماء الـ60 اكتملت بعد التهيئة الأولى؛ مفيش أسماء ناقصة دلوقتي.
 
 ملخصات الأيام تقريبية، وأوقات المذاكرة وعدد الجلسات وإجابات التمارين الأصلية غير متاحة. الأيام القديمة مقفولة إداريًا للأرشفة فقط؛ ده مش ادعاء إن أمر الإغلاق اتقال وقتها. تاريخ التهيئة محفوظ جوّه نفس الملف؛ الحالة الحالية بتتحدد من آخر checkpoint وإغلاق اليوم المسجّل، مش من ملخص التهيئة القديم.
+
+
+## Live checkpoint — 2026-10-05
+
+- Current day: **2026-10-05**, Session **S01**, status **open**.
+- Numbered verbs: **80 / 100** introduced.
+- Active work: 5-sentence diagnostic, then progression to **81–90**.
+- New vocabulary: **V121 der Ausweis (die Ausweise)**.
