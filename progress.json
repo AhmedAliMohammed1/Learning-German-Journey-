@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-05",
-  "last_updated_at": "2026-10-05T23:58:00+02:00",
+  "last_updated": "2026-10-06",
+  "last_updated_at": null,
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,15 +16,115 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-05",
-  "latest_day": "2026-10-05",
+  "current_day": "2026-10-06",
+  "latest_day": "2026-10-06",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 4,
+  "current_session_id": "2026-10-06-S01",
+  "sessions_recorded": 5,
   "last_verified_study_at": "2026-10-05T23:58:00+02:00",
-  "active_topic": "Main menu; numbered verbs 81-90 are practicing",
-  "next_action": "Await learner main-menu choice. If continuing the current learning path, use a short fresh retest of article/case details around verbs 81-90; do not force older deferred review.",
+  "active_topic": "Full review across verbs 1-90 with current case/article targets",
+  "next_action": "Answer 2026-10-06-S01-E01 through E10 independently.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S01-E01",
+      "prompt_ar": "أنا برجع لصاحبي الكتاب بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "zurückgeben + Dativ recipient"
+    },
+    {
+      "id": "2026-10-06-S01-E02",
+      "prompt_ar": "الشهر الجاي، أنا بغيّر البنك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "nächsten Monat + wechseln"
+    },
+    {
+      "id": "2026-10-06-S01-E03",
+      "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "mitbringen + Akk + zum Termin"
+    },
+    {
+      "id": "2026-10-06-S01-E04",
+      "prompt_ar": "أنا بملا الاستمارة قبل الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "ausfüllen + vor dem Termin"
+    },
+    {
+      "id": "2026-10-06-S01-E05",
+      "prompt_ar": "الصيدلية قريبة من مدخل المستشفى.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "nested Genitiv"
+    },
+    {
+      "id": "2026-10-06-S01-E06",
+      "prompt_ar": "أنا ببدأ أقرأ الساعة تمانية.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "anfangen + zu"
+    },
+    {
+      "id": "2026-10-06-S01-E07",
+      "prompt_ar": "شنطة السفر موجودة جنب الباب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "stehen stationary"
+    },
+    {
+      "id": "2026-10-06-S01-E08",
+      "prompt_ar": "أنا بحط تذكرة القطر في شنطة الظهر.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "legen + destination + V123"
+    },
+    {
+      "id": "2026-10-06-S01-E09",
+      "prompt_ar": "أنا ببعت لأختي صورة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "schicken Dat person + Akk thing"
+    },
+    {
+      "id": "2026-10-06-S01-E10",
+      "prompt_ar": "أنا بستأجر شقة صغيرة لأن الإيجار غالي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "mieten + weil word order"
+    },
     {
       "id": "2026-10-03-S01-E41",
       "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
@@ -2937,7 +3037,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 122,
+    "registered_entries_count": 123,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -4955,6 +5055,31 @@
             "note": "Reisepass vocabulary was selected correctly; Akkusativ article needed repair."
           }
         ]
+      },
+      {
+        "id": "V123",
+        "german": "die Fahrkarte",
+        "meaning_ar": "تذكرة المواصلات / القطار",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Fahrkarten",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S01 full review",
+        "usage_example": "Ich lege die Fahrkarte in den Rucksack.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": null,
+            "session_id": "2026-10-06-S01",
+            "exercise_id": "2026-10-06-S01-E08",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical vocabulary; learner attempt pending."
+          }
+        ]
       }
     ]
   },
@@ -6231,9 +6356,9 @@
   "numbered_verbs_introduced": 90,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
-  "latest_study_date": "2026-10-05",
-  "latest_study_state": "paused_at_main_menu",
-  "next_suggested_action": "Await learner main-menu choice. If continuing the current learning path, use a short fresh retest of article/case details around verbs 81-90; do not force older deferred review.",
+  "latest_study_date": "2026-10-06",
+  "latest_study_state": "active_full_review",
+  "next_suggested_action": "Answer 2026-10-06-S01-E01 through E10 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6519,6 +6644,13 @@
       "session_id": "2026-10-05-S01",
       "event": "verbs_81_90_first_practice_checkpoint",
       "note": "E06-E15 completed independently. All ten target verbs were selected correctly; most sentence repairs were articles, cases, prepositions, or an omitted object. Session then paused for main menu."
+    },
+    {
+      "date": "2026-10-06",
+      "timestamp": null,
+      "session_id": "2026-10-06-S01",
+      "event": "full_review_started",
+      "note": "New calendar-day full review started. E01-E10 active; V123 die Fahrkarte introduced. Older pending work preserved."
     }
   ],
   "exercise_results": [
