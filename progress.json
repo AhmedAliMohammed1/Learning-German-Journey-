@@ -7803,6 +7803,116 @@
       "hint_used": false,
       "independent": true,
       "note": "Correct absagen and V2; explicit object den Termin was omitted."
+    },
+    {
+      "id": "2026-10-06-S01-E01",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich gebe meinem Freund nach der Arbeit das Buch zurück",
+      "correction": "Ich gebe meinem Freund nach der Arbeit das Buch zurück.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E02",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Nächsten Monat wechsle ich die Bank",
+      "correction": "Nächsten Monat wechsle ich die Bank.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E03",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich bringe meinem Reisepass im Termin mit",
+      "correction": "Ich bringe meinen Reisepass zum Termin mit.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E04",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich fülle das Formular auf",
+      "correction": "Ich fülle das Formular vor dem Termin aus.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E05",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Die Apotheke ist in der Nähe des Einganges der Krankenhauses",
+      "correction": "Die Apotheke ist in der Nähe des Eingangs des Krankenhauses.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E06",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich fange um acht Uhr zu lesen an",
+      "correction": "Ich fange um acht Uhr an zu lesen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E07",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Der Koffer steht neben dem Tür",
+      "correction": "Der Koffer steht neben der Tür.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E08",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich lege die Fahrkarte im Rucksack",
+      "correction": "Ich lege die Fahrkarte in den Rucksack.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E09",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich schicke meiner Schwester das Bild",
+      "correction": "Ich schicke meiner Schwester ein Bild.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true
+    },
+    {
+      "id": "2026-10-06-S01-E10",
+      "session_id": "2026-10-06-S01",
+      "date": "2026-10-06",
+      "timestamp": null,
+      "learner_answer": "Ich miete eine kleine Wohnung weil die Miete teuer ist",
+      "correction": "Ich miete eine kleine Wohnung, weil die Miete teuer ist.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true
     }
   ],
   "skill_tracking": {
