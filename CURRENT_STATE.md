@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-05T23:58:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-06; exact time unavailable**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 90 / 100 numbered verbs introduced
 
@@ -275,3 +275,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Session **2026-10-05-S01** is now paused at the learner's request to return to the main menu.
 - Day **2026-10-05 remains open**; active session ID is none.
 - Next action: await the learner's main-menu choice. If they choose to continue the current path, use a short fresh retest around the above case/article targets rather than a long review.
+
+
+## Current study session — 2026-10-06
+
+- Day file: **days/2026-10-06.md**.
+- Status: **open**; active session: **2026-10-06-S01**.
+- Selected mode: **Full review**.
+- Numbered verbs remain **90 / 100**; 81–90 are practicing.
+- Active exercises: **E01–E10**.
+- Main checks: **zurückgeben + Dativ recipient**, **nächsten Monat**, **mitbringen + Akk / zum Termin**, **ausfüllen = fülle ... aus**, nested Genitiv, **anfangen + zu**, stationary **stehen**, destination **legen**, Dativ person + Akk thing, and **weil** word order.
+- New practical vocabulary: **V123 — die Fahrkarte (die Fahrkarten)**.
+- Older pending work remains preserved and is not forced ahead of this selected Full review.
