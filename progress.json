@@ -23,8 +23,58 @@
   "sessions_recorded": 5,
   "last_verified_study_at": "2026-10-05T23:58:00+02:00",
   "active_topic": "Full review after batch 1",
-  "next_action": "Answer E11-E20 in the current full review.",
+  "next_action": "Answer 2026-10-06-S01-E11 through E20 independently.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S01-E16",
+      "prompt_ar": "الموبايل موجود على المكتب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "liegen"
+    },
+    {
+      "id": "2026-10-06-S01-E17",
+      "prompt_ar": "أنا بتوقف عن الكتابة الساعة تسعة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "aufhören"
+    },
+    {
+      "id": "2026-10-06-S01-E18",
+      "prompt_ar": "أنا عارف صاحبي ساكن فين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "wissen"
+    },
+    {
+      "id": "2026-10-06-S01-E19",
+      "prompt_ar": "أنا بتصل بأمي بعد الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "anrufen"
+    },
+    {
+      "id": "2026-10-06-S01-E20",
+      "prompt_ar": "المكتب قريب من الحديقة العامة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_full_review",
+      "activity": "full_review",
+      "target": "Genitiv"
+    },
     {
       "id": "2026-10-06-S01-E11",
       "prompt_ar": "أنا بلغي الموعد بعد الشغل.",
@@ -6333,7 +6383,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_full_review",
-  "next_suggested_action": "Answer 2026-10-06-S01-E01 through E10 independently.",
+  "next_suggested_action": "Answer 2026-10-06-S01-E11 through E20 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
