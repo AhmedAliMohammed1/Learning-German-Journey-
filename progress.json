@@ -5463,11 +5463,11 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 2,
+      "recorded_errors": 3,
       "independent_correct": 0,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-05",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5484,6 +5484,14 @@
           "exercise_id": "2026-10-03-S02-E42",
           "independent": true,
           "note": "anrufen requires Akkusativ: ihre Freundin; separable an is also required."
+        },
+        {
+          "date": "2026-10-05",
+          "timestamp": "2026-10-05T23:58:00+02:00",
+          "session_id": "2026-10-05-S01",
+          "exercise_id": "2026-10-05-S01-E13",
+          "independent": true,
+          "note": "mitbringen object used with Dativ article; correct Akkusativ: meinen Reisepass."
         }
       ]
     },
@@ -5498,11 +5506,11 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 3,
-      "independent_correct_since_last_error": 3,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-05",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5527,6 +5535,14 @@
           "exercise_id": "2026-10-04-S01-E26",
           "independent": true,
           "note": "Correct Dativ recipient + direct-object slot: meiner Schwester ... Bild."
+        },
+        {
+          "date": "2026-10-05",
+          "timestamp": "2026-10-05T23:58:00+02:00",
+          "session_id": "2026-10-05-S01",
+          "exercise_id": "2026-10-05-S01-E12",
+          "independent": true,
+          "note": "zurückgeben used with zu meinem Freund; correct Dativ recipient directly: meinem Freund."
         }
       ]
     },
@@ -6005,13 +6021,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 5,
-      "independent_correct_since_last_error": 5,
+      "independent_correct": 7,
+      "independent_correct_since_last_error": 7,
       "successful_session_ids": [
         "2026-10-03-S01",
-        "2026-10-03-S02"
+        "2026-10-03-S02",
+        "2026-10-05-S01"
       ],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-05",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6036,6 +6053,22 @@
           "exercise_id": "2026-10-03-S02-E33",
           "independent": true,
           "note": "Correct V2 after Nach der Arbeit with separable anrufen."
+        },
+        {
+          "date": "2026-10-05",
+          "timestamp": "2026-10-05T23:58:00+02:00",
+          "session_id": "2026-10-05-S01",
+          "exercise_id": "2026-10-05-S01-E11",
+          "independent": true,
+          "note": "Correct V2 after fronted Nach der Arbeit with separable abholen."
+        },
+        {
+          "date": "2026-10-05",
+          "timestamp": "2026-10-05T23:58:00+02:00",
+          "session_id": "2026-10-05-S01",
+          "exercise_id": "2026-10-05-S01-E15",
+          "independent": true,
+          "note": "Correct V2 after fronted Nach der Arbeit with separable absagen."
         }
       ]
     },
