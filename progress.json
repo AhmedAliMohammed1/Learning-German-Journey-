@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-06",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-06T00:37:49+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-06",
   "latest_day": "2026-10-06",
-  "day_status": "open",
-  "current_session_id": "2026-10-06-S01",
+  "day_status": "closed",
+  "current_session_id": null,
   "sessions_recorded": 5,
-  "last_verified_study_at": "2026-10-05T23:58:00+02:00",
-  "active_topic": "Full review batch 3",
-  "next_action": "Answer 2026-10-06-S01-E21 through E30 independently.",
+  "last_verified_study_at": "2026-10-06T00:37:49+02:00",
+  "active_topic": "Full review paused after E01-E20; Batch 3 E21-E30 preserved",
+  "next_action": "If learner chooses Continue previous session, resume 2026-10-06-S01-E21 through E30 exactly; otherwise honor the selected mode and preserve them.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S01-E21",
@@ -6419,8 +6419,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
-  "latest_study_state": "active_full_review",
-  "next_suggested_action": "Answer 2026-10-06-S01-E21 through E30 independently.",
+  "latest_study_state": "closed",
+  "next_suggested_action": "If learner chooses Continue previous session, resume 2026-10-06-S01-E21 through E30 exactly; otherwise honor the selected mode and preserve them.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6720,6 +6720,13 @@
       "session_id": "2026-10-06-S01",
       "event": "full_review_batch_2_checkpoint",
       "note": "E11-E20 completed. Strong: Dat+Akk, warten auf, legen/liegen, aufhören+zu, wo-clause, Genitiv adjective ending. Batch 3 E21-E30 opened; V125 der Fahrplan introduced."
+    },
+    {
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T00:37:49+02:00",
+      "session_id": "2026-10-06-S01",
+      "event": "2026-10-06_day_closed",
+      "note": "Learner explicitly ended the day after completing E01-E20. Batch 3 E21-E30 remains pending and must be preserved for the next continuation."
     }
   ],
   "exercise_results": [
