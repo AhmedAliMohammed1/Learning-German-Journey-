@@ -80,16 +80,26 @@
 | 68 | laufen | يمشي / يجري | practicing | du läufst; er/sie läuft |
 | 69 | spielen | يلعب | practicing | Fußball spielen; mit + Dat |
 | 70 | reisen | يسافر | practicing | nach München reisen |
-| 71 | aufräumen | يرتب / يلم المكان | introduced | separable; Ich räume mein Zimmer auf. |
-| 72 | duschen | يستحم | introduced | Ich dusche jeden Morgen. |
-| 73 | anziehen | يرتدي / يلبس | introduced | separable; Ich ziehe die Jacke an. |
-| 74 | ausziehen | يخلع / ينتقل من السكن | introduced | separable; Ich ziehe die Jacke aus. |
-| 75 | einkaufen | يتسوق / يشتري احتياجات | introduced | separable; Ich kaufe im Supermarkt ein. |
-| 76 | mieten | يستأجر | introduced | mieten + Akk: Ich miete eine Wohnung. |
-| 77 | umziehen | ينتقل إلى سكن جديد | introduced | separable; Ich ziehe nach München um. |
-| 78 | anmelden | يسجّل / يشترك | introduced | often reflexive: Ich melde mich für den Kurs an. |
-| 79 | ausfüllen | يملأ استمارة | introduced | separable; Ich fülle das Formular aus. |
-| 80 | unterschreiben | يوقّع | introduced | unterschreiben + Akk: Ich unterschreibe das Formular. |
+| 71 | aufräumen | يرتب / يلم المكان | practicing | separable; Ich räume mein Zimmer auf. |
+| 72 | duschen | يستحم | practicing | Ich dusche jeden Morgen. |
+| 73 | anziehen | يرتدي / يلبس | practicing | separable; Ich ziehe die Jacke an. |
+| 74 | ausziehen | يخلع / ينتقل من السكن | practicing | separable; Ich ziehe die Jacke aus. |
+| 75 | einkaufen | يتسوق / يشتري احتياجات | practicing | separable; Ich kaufe im Supermarkt ein. |
+| 76 | mieten | يستأجر | practicing | mieten + Akk: Ich miete eine Wohnung. |
+| 77 | umziehen | ينتقل إلى سكن جديد | practicing | separable; Ich ziehe nach München um. |
+| 78 | anmelden | يسجّل / يشترك | practicing | often reflexive: Ich melde mich für den Kurs an. |
+| 79 | ausfüllen | يملأ استمارة | practicing | separable; Ich fülle das Formular aus. |
+| 80 | unterschreiben | يوقّع | practicing | unterschreiben + Akk: Ich unterschreibe das Formular. |
+| 81 | verlieren | يفقد / يضيّع | introduced | + Akk; Ich verliere meinen Schlüssel. |
+| 82 | benutzen | يستخدم | introduced | + Akk; Ich benutze mein Handy. |
+| 83 | wechseln | يغيّر / يبدّل | introduced | + Akk; Ich wechsle die Bank. |
+| 84 | buchen | يحجز فندق/تذكرة | introduced | + Akk; Ich buche ein Hotelzimmer. |
+| 85 | reservieren | يحجز مكان/ترابيزة | introduced | + Akk; Ich reserviere einen Tisch. |
+| 86 | abholen | يستلم / يروح يجيب | introduced | separable; Ich hole das Paket ab. |
+| 87 | zurückgeben | يرجّع / يعيد | introduced | separable; Ich gebe das Buch zurück. |
+| 88 | mitbringen | يحضر معه | introduced | separable; Ich bringe meinen Reisepass mit. |
+| 89 | vereinbaren | يحدد / يتفق على موعد | introduced | + Akk; einen Termin vereinbaren. |
+| 90 | absagen | يلغي موعدًا | introduced | separable; Ich sage den Termin ab. |
 
 ## Counting and identity rules
 
@@ -113,7 +123,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The next future numbered batch is **81–90**. First, 71–80 need their initial practice batch E51–E60.
+Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The current numbered batch is **81–90**, introduced on 2026-10-05 after a short diagnostic. Verbs 71–80 are practicing.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -179,3 +189,8 @@ Group status moves from **introduced** to **practicing**. No mastery claim.
 - 79 **ausfüllen**: fresh regression — learner used **auf** instead of **aus**; keep practicing and retest.
 - 80 **unterschreiben**: verb use remained correct; object/temporal article forms were separate issues.
 - 71–80 remains **practicing**.
+
+
+## Progression update — 81–90
+
+Introduced live on 2026-10-05 after a five-sentence diagnostic. Current local weaknesses do not block progression. First active practice is 2026-10-05-S01 E06–E15. Status is **introduced**, not mastered.
