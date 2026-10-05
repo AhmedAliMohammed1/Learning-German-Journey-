@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-04",
-  "last_updated_at": "2026-10-04T14:19:00+02:00",
+  "last_updated": "2026-10-05",
+  "last_updated_at": "2026-10-05T19:52:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,15 +16,65 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-04",
-  "latest_day": "2026-10-04",
+  "current_day": "2026-10-05",
+  "latest_day": "2026-10-05",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 3,
-  "last_verified_study_at": null,
-  "active_topic": "full_review_batch_4_paused",
-  "next_action": "Resume later today from 2026-10-04-S01-E31 through E40. Preserve all pending exercises unchanged.",
+  "current_session_id": "2026-10-05-S01",
+  "sessions_recorded": 4,
+  "last_verified_study_at": "2026-10-05T19:52:00+02:00",
+  "active_topic": "Short diagnostic before progression to numbered verbs 81-90",
+  "next_action": "Answer 2026-10-05-S01-E01 through E05 independently; then introduce numbered verbs 81-90.",
   "pending_exercises": [
+    {
+      "id": "2026-10-05-S01-E01",
+      "prompt_ar": "أنا بملا الاستمارة قبل الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_short_diagnostic",
+      "activity": "2026-10-05-new-day-diagnostic",
+      "target": "M30 + ausfüllen retest"
+    },
+    {
+      "id": "2026-10-05-S01-E02",
+      "prompt_ar": "أنا بستنى أختي قدام محطة القطر.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_short_diagnostic",
+      "activity": "2026-10-05-new-day-diagnostic",
+      "target": "M16 warten auf + Akk retest"
+    },
+    {
+      "id": "2026-10-05-S01-E03",
+      "prompt_ar": "الصيدلية قريبة من مدخل المستشفى.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_short_diagnostic",
+      "activity": "2026-10-05-new-day-diagnostic",
+      "target": "M11/M12 Genitiv retest"
+    },
+    {
+      "id": "2026-10-05-S01-E04",
+      "prompt_ar": "أنا بوقّع عقد الإيجار بعد الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_short_diagnostic",
+      "activity": "2026-10-05-new-day-diagnostic",
+      "target": "M30 nach + Dativ retest"
+    },
+    {
+      "id": "2026-10-05-S01-E05",
+      "prompt_ar": "أنا بحط بطاقة الهوية في شنطة الظهر.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_short_diagnostic",
+      "activity": "2026-10-05-new-day-diagnostic",
+      "target": "M27 maintenance + V121"
+    },
     {
       "id": "2026-10-03-S01-E41",
       "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
@@ -2620,7 +2670,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 120,
+    "registered_entries_count": 121,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -4586,6 +4636,31 @@
             "note": "Introduced as new practical vocabulary; learner attempt pending."
           }
         ]
+      },
+      {
+        "id": "V121",
+        "german": "der Ausweis",
+        "meaning_ar": "بطاقة الهوية / إثبات الهوية",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Ausweise",
+        "status": "introduced",
+        "introduced_on": "2026-10-05",
+        "last_reviewed": null,
+        "source": "2026-10-05-S01 new-day diagnostic",
+        "usage_example": "Ich lege den Ausweis in den Rucksack.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-05",
+            "timestamp": "2026-10-05T19:52:00+02:00",
+            "session_id": "2026-10-05-S01",
+            "exercise_id": "2026-10-05-S01-E05",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced as new practical vocabulary; learner attempt pending."
+          }
+        ]
       }
     ]
   },
@@ -5829,9 +5904,9 @@
   "numbered_verbs_introduced": 80,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
-  "latest_study_date": "2026-10-04",
-  "latest_study_state": "open",
-  "next_suggested_action": "Resume later today from 2026-10-04-S01-E31 through E40. Preserve all pending exercises unchanged.",
+  "latest_study_date": "2026-10-05",
+  "latest_study_state": "active",
+  "next_suggested_action": "Answer 2026-10-05-S01-E01 through E05 independently; then introduce numbered verbs 81-90.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6096,6 +6171,13 @@
       "session_id": "2026-10-03-S02",
       "event": "s02_closed_after_verbs_71_80_intro",
       "note": "Learner ended the day after verbs 71-80 were introduced but before E51-E60 were attempted. Primary next-session continuation is E51-E60. Progression-first remains active; old review batches stay deferred."
+    },
+    {
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T19:52:00+02:00",
+      "session_id": "2026-10-05-S01",
+      "event": "new_study_day_opened",
+      "note": "Learner selected Start a new study day. Opened a 5-sentence diagnostic on current weak/improving patterns; progression to verbs 81-90 follows. V121 der Ausweis introduced."
     }
   ],
   "exercise_results": [
