@@ -287,3 +287,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Main checks: **zurückgeben + Dativ recipient**, **nächsten Monat**, **mitbringen + Akk / zum Termin**, **ausfüllen = fülle ... aus**, nested Genitiv, **anfangen + zu**, stationary **stehen**, destination **legen**, Dativ person + Akk thing, and **weil** word order.
 - New practical vocabulary: **V123 — die Fahrkarte (die Fahrkarten)**.
 - Older pending work remains preserved and is not forced ahead of this selected Full review.
+
+
+## 2026-10-06 Full review Batch 2 checkpoint
+
+- E11–E20 completed independently and corrected.
+- Strong fresh evidence: geben Dat+Akk, warten auf+Akk, legen/liegen, aufhören+zu, indirect wo clause, and **des öffentlichen Parks**.
+- E19: anrufen structure correct; use **nach dem Termin** for the requested meaning.
+- E12: grammar correct; use **Restaurant** rather than **Hotel** to match the prompt.
+- E20: Genitiv phrase correct; **Büro** better matches "office" than **Schreibtisch**.
+- V124 **die Quittung** is practicing.
+- Active next batch: **E21–E30**.
+- V125 **der Fahrplan (die Fahrpläne)** introduced.
