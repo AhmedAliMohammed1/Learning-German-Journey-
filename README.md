@@ -15,9 +15,9 @@
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **123 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| سجل المفردات | **125 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-06** |
-| آخر نقطة | اليوم **open**؛ Full review جديد شغال، Active Batch E01–E10 |
+| آخر نقطة | اليوم **open**؛ Full review شغال، E01–E20 خلصوا وBatch 3 E21–E30 active |
 | ملف اليوم | **open**؛ Session 2026-10-06-S01 active |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
@@ -107,5 +107,7 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 - Current day: **2026-10-06**, Session **S01**, status **open**.
 - Numbered verbs: **90 / 100** introduced.
 - Selected mode: **Full review**.
-- Active work: **E01–E10**.
+- Active work: **E21–E30**.
 - New vocabulary: **V123 die Fahrkarte (die Fahrkarten)**.
+
+- 2026-10-06 review vocabulary: **V125 der Fahrplan (die Fahrpläne)**.
