@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-05T19:52:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-05T23:58:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Progress — 90 / 100 numbered verbs introduced
 
@@ -8,7 +8,7 @@ Updated: **2026-10-05T19:52:00+02:00**. Calendar timezone: **Europe/Berlin**.
 - **51–60:** recent and **practicing**: liegen, legen, stellen, setzen, öffnen, schließen, anfangen, aufhören, warten, treffen.
 - **61–70:** practicing: sagen, erzählen, anrufen, schicken, tragen, waschen, putzen, laufen, spielen, reisen.
 - **71–80:** practicing: aufräumen, duschen, anziehen, ausziehen, einkaufen, mieten, umziehen, anmelden, ausfüllen, unterschreiben.
-- **81–90:** introduced on 2026-10-05: verlieren, benutzen, wechseln, buchen, reservieren, abholen, zurückgeben, mitbringen, vereinbaren, absagen.
+- **81–90:** practicing after first independent batch on 2026-10-05: verlieren, benutzen, wechseln, buchen, reservieren, abholen, zurückgeben, mitbringen, vereinbaren, absagen.
 - Exact numbered identities and meanings are complete through **90** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
 - No invented mastery percentages. Target 100 is confirmed by the learner.
@@ -263,3 +263,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Numbered verbs **81–90** introduced. Total is now **90 / 100**.
 - New vocabulary: **V122 der Reisepass (die Reisepässe)**.
 - Active exercises: **2026-10-05-S01-E06–E15**.
+
+
+## 2026-10-05 verbs 81–90 first-practice checkpoint
+
+- E06–E15 completed independently and corrected.
+- All ten target verbs were selected correctly; group **81–90 = practicing**, not mastered.
+- Separable structures **abholen, zurückgeben, mitbringen, absagen** were understood.
+- Main repair targets are article/case/preposition details: **mein Handy**, **nächsten Monat**, **ein Zimmer / in einem Hotel / das Wochenende**, **das Paket**, **meinem Freund**, **meinen Reisepass / zum Termin**, and **den Termin absagen**.
+- Older active retest **ausfüllen = fülle ... aus** remains important.
+- Session **2026-10-05-S01** is now paused at the learner's request to return to the main menu.
+- Day **2026-10-05 remains open**; active session ID is none.
+- Next action: await the learner's main-menu choice. If they choose to continue the current path, use a short fresh retest around the above case/article targets rather than a long review.
