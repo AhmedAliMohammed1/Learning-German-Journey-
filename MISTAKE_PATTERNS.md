@@ -228,3 +228,13 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M27 stable:** E27/E28 correctly contrasted **liegen + Dativ** and **legen + Akkusativ**.
 - **M30 improving:** E30 used **nach der Termin**; correct is **nach dem Termin**. The learner is reliable with **nach der Arbeit**, but masculine Dativ articles still need practice.
 - Verb-specific retest: E23 used **auf** instead of **aus** with **ausfüllen**.
+
+
+## Fresh live evidence — 2026-10-05 — new-day diagnostic
+
+- **M11 improving:** E03 correctly used **des Eingangs** after the latest errors.
+- **M12 improving:** E03 correctly formed **des Eingangs des Krankenhauses**.
+- **M16 improving:** E02 correctly used **warten auf meine Schwester**.
+- **M30 improving:** E04 correctly used **nach dem Termin**; the later Mietvertrag article error is separate.
+- **M27 stable:** E05 correctly used destination **in den Rucksack**; **legen** is more natural than *stellen* for a flat Ausweis.
+- Verb-specific target 79 **ausfüllen** repeated the prefix error in E01: **fülle ... aus**, not *auf*.
