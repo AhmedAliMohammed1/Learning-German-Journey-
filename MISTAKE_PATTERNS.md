@@ -249,3 +249,15 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - Article/case maintenance from the batch: **mein Handy**, **ein Zimmer**, **in einem Hotel**, **das Wochenende**, **das Paket**, **zum Termin**.
 - E15 correctly formed separable **absagen** but omitted the explicit object; use **den Termin absagen** when the thing being cancelled is stated.
 - Do not create a new weak pattern from these one-off surface errors yet; embed them in future new-material practice and promote only if repeated evidence supports it.
+
+
+## Fresh live evidence — 2026-10-06 — Full review Batch 2
+
+- **Dativ recipient + Akk thing:** E13 was fully correct: **meiner Schwester die Quittung**.
+- **warten auf + Akk:** E14 was fully correct: **auf meinen Bruder**.
+- **Wo/Wohin contrast:** E15 **auf den Schreibtisch** and E16 **auf dem Schreibtisch** were both correct.
+- **aufhören + zu:** E17 was fully correct.
+- **indirect wo clause:** E18 was fully correct.
+- **anrufen:** E19 used the verb and Akkusativ object correctly, but the prompt required **nach dem Termin**, not **nach der Arbeit**.
+- **Genitiv adjective ending:** E20 correctly used **des öffentlichen Parks**.
+- No new broad weak pattern is created from the Hotel/Restaurant or office/desk lexical mismatches.
