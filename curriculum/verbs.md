@@ -90,16 +90,16 @@
 | 78 | anmelden | يسجّل / يشترك | practicing | often reflexive: Ich melde mich für den Kurs an. |
 | 79 | ausfüllen | يملأ استمارة | practicing | separable; Ich fülle das Formular aus. |
 | 80 | unterschreiben | يوقّع | practicing | unterschreiben + Akk: Ich unterschreibe das Formular. |
-| 81 | verlieren | يفقد / يضيّع | introduced | + Akk; Ich verliere meinen Schlüssel. |
-| 82 | benutzen | يستخدم | introduced | + Akk; Ich benutze mein Handy. |
-| 83 | wechseln | يغيّر / يبدّل | introduced | + Akk; Ich wechsle die Bank. |
-| 84 | buchen | يحجز فندق/تذكرة | introduced | + Akk; Ich buche ein Hotelzimmer. |
-| 85 | reservieren | يحجز مكان/ترابيزة | introduced | + Akk; Ich reserviere einen Tisch. |
-| 86 | abholen | يستلم / يروح يجيب | introduced | separable; Ich hole das Paket ab. |
-| 87 | zurückgeben | يرجّع / يعيد | introduced | separable; Ich gebe das Buch zurück. |
-| 88 | mitbringen | يحضر معه | introduced | separable; Ich bringe meinen Reisepass mit. |
-| 89 | vereinbaren | يحدد / يتفق على موعد | introduced | + Akk; einen Termin vereinbaren. |
-| 90 | absagen | يلغي موعدًا | introduced | separable; Ich sage den Termin ab. |
+| 81 | verlieren | يفقد / يضيّع | practicing | + Akk; Ich verliere meinen Schlüssel. |
+| 82 | benutzen | يستخدم | practicing | + Akk; Ich benutze mein Handy. |
+| 83 | wechseln | يغيّر / يبدّل | practicing | + Akk; Ich wechsle die Bank. |
+| 84 | buchen | يحجز فندق/تذكرة | practicing | + Akk; Ich buche ein Hotelzimmer. |
+| 85 | reservieren | يحجز مكان/ترابيزة | practicing | + Akk; Ich reserviere einen Tisch. |
+| 86 | abholen | يستلم / يروح يجيب | practicing | separable; Ich hole das Paket ab. |
+| 87 | zurückgeben | يرجّع / يعيد | practicing | separable; Ich gebe das Buch zurück. |
+| 88 | mitbringen | يحضر معه | practicing | separable; Ich bringe meinen Reisepass mit. |
+| 89 | vereinbaren | يحدد / يتفق على موعد | practicing | + Akk; einen Termin vereinbaren. |
+| 90 | absagen | يلغي موعدًا | practicing | separable; Ich sage den Termin ab. |
 
 ## Counting and identity rules
 
@@ -123,7 +123,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. The current numbered batch is **81–90**, introduced on 2026-10-05 after a short diagnostic. Verbs 71–80 are practicing.
+Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. Numbered verbs **81–90** are now practicing after their first independent batch on 2026-10-05. Verbs 71–80 remain practicing.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -194,3 +194,15 @@ Group status moves from **introduced** to **practicing**. No mastery claim.
 ## Progression update — 81–90
 
 Introduced live on 2026-10-05 after a five-sentence diagnostic. Current local weaknesses do not block progression. First active practice is 2026-10-05-S01 E06–E15. Status is **introduced**, not mastered.
+
+
+## First practice result — 81–90
+
+Recorded on 2026-10-05, Session 2026-10-05-S01.
+
+- All ten verbs 81–90 were attempted independently.
+- The target verb choice was correct in all ten responses.
+- Separable structures **abholen, zurückgeben, mitbringen, absagen** were understood.
+- Sentence-level repairs were mainly articles, case, prepositions, or an omitted object.
+- Group status is **practicing**, not mastered.
+- Priority retests: **jemandem etwas zurückgeben**, **meinen Reisepass zum Termin mitbringen**, and **den Termin absagen**, plus article/case accuracy around the batch.
