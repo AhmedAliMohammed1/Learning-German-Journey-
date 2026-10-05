@@ -2,7 +2,7 @@
 
 ده سجل مذاكرتك للألماني، عشان أي AI يقدر يعرف وصلت لفين ويكمّل معاك بنفس طريقة المذاكرة.
 
-## Dashboard — 5 أكتوبر 2026
+## Dashboard — 6 أكتوبر 2026
 
 | جزء المذاكرة | الحالة الحالية |
 | --- | --- |
@@ -15,10 +15,10 @@
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **122 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
-| آخر تاريخ مذاكرة | **2026-10-05** |
-| آخر نقطة | اليوم **open**؛ 81–90 اتعمل لهم أول practice والجلسة paused عند القائمة الرئيسية |
-| ملف اليوم | **open**؛ Session 2026-10-05-S01 paused، والاختيار الجاي من القائمة الرئيسية |
+| سجل المفردات | **123 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| آخر تاريخ مذاكرة | **2026-10-06** |
+| آخر نقطة | اليوم **open**؛ Full review جديد شغال، Active Batch E01–E10 |
+| ملف اليوم | **open**؛ Session 2026-10-06-S01 active |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -80,6 +80,7 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 | [days/2026-10-03.md](days/2026-10-03.md) | 51–60، Genitiv، وبداية 71–80 |
 | [days/2026-10-04.md](days/2026-10-04.md) | Full review ومراجعة 71–80 |
 | [days/2026-10-05.md](days/2026-10-05.md) | التشخيص، تقديم وممارسة 81–90 |
+| [days/2026-10-06.md](days/2026-10-06.md) | Full review الحالي عبر 1–90 |
 | [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | قالب يوم جديد |
 | [AGENTS.md](AGENTS.md) | نقطة الدخول لأدوات البرمجة التي تقرأه |
 
@@ -99,3 +100,12 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 - New vocabulary: **V121 der Ausweis (die Ausweise)**.
 
 - 2026-10-05 progression vocabulary: **V122 der Reisepass (die Reisepässe)**.
+
+
+## Live checkpoint — 2026-10-06
+
+- Current day: **2026-10-06**, Session **S01**, status **open**.
+- Numbered verbs: **90 / 100** introduced.
+- Selected mode: **Full review**.
+- Active work: **E01–E10**.
+- New vocabulary: **V123 die Fahrkarte (die Fahrkarten)**.
