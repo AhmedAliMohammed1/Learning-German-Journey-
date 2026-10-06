@@ -23,7 +23,7 @@
   "sessions_recorded": 6,
   "last_verified_study_at": "2026-10-06T14:10:42+02:00",
   "active_topic": "History-wide targeted review after S02 E21-E30",
-  "next_action": "Continue with a different cross-history unresolved mix.",
+  "next_action": "Open next cross-history batch with less Genitiv/position review and more temporal Dativ, verb-specific case, separable word order, and weil.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S01-E21",
@@ -611,7 +611,17 @@
     "2026-10-06-S01-E17",
     "2026-10-06-S01-E18",
     "2026-10-06-S01-E19",
-    "2026-10-06-S01-E20"
+    "2026-10-06-S01-E20",
+    "2026-10-06-S02-E21",
+    "2026-10-06-S02-E22",
+    "2026-10-06-S02-E23",
+    "2026-10-06-S02-E24",
+    "2026-10-06-S02-E25",
+    "2026-10-06-S02-E26",
+    "2026-10-06-S02-E27",
+    "2026-10-06-S02-E28",
+    "2026-10-06-S02-E29",
+    "2026-10-06-S02-E30"
   ],
   "verbs": {
     "introduced_total": 90,
@@ -5291,7 +5301,18 @@
         "usage_example": "Das Handy liegt neben der Steckdose.",
         "recorded_attempts": 1,
         "independent_correct": 1,
-        "evidence": []
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T16:52:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E21",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent use of die Steckdose."
+          }
+        ]
       }
     ]
   },
@@ -6570,7 +6591,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_targeted_review",
-  "next_suggested_action": "Continue with a different cross-history unresolved mix.",
+  "next_suggested_action": "Open next cross-history batch with less Genitiv/position review and more temporal Dativ, verb-specific case, separable word order, and weil.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -8463,6 +8484,126 @@
       "result": "needs_correction",
       "hint_used": false,
       "independent": true
+    },
+    {
+      "id": "2026-10-06-S02-E21",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Das Handy liegt neben der Steckdose",
+      "correction": "Das Handy liegt neben der Steckdose.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "liegen + stationary Dativ correct."
+    },
+    {
+      "id": "2026-10-06-S02-E22",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich stelle die Flasche neben die Tür",
+      "correction": "Ich stelle die Flasche neben die Tür.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "stellen + destination Akk correct."
+    },
+    {
+      "id": "2026-10-06-S02-E23",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Die Flasche steht neben der Tür",
+      "correction": "Die Flasche steht neben der Tür.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "stehen + stationary Dativ correct."
+    },
+    {
+      "id": "2026-10-06-S02-E24",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Das Hotel ist in der Nähe des Eingangs des Bahnhofs",
+      "correction": "Das Hotel ist in der Nähe des Eingangs des Bahnhofs.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Nested Genitiv correct."
+    },
+    {
+      "id": "2026-10-06-S02-E25",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich fange nach der Termin an, zu kochen",
+      "correction": "Ich fange nach dem Termin an zu kochen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "anfangen structure correct; temporal Dativ should be nach dem Termin."
+    },
+    {
+      "id": "2026-10-06-S02-E26",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich schicke meiner Mutter das Bild danach danke ich ihr",
+      "correction": "Ich schicke meiner Mutter ein Bild, danach danke ich ihr.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Dativ recipient and danken + ihr correct; punctuation/article nuance."
+    },
+    {
+      "id": "2026-10-06-S02-E27",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich rufe meine Schwester an Nach der Arbeit",
+      "correction": "Ich rufe meine Schwester nach der Arbeit an.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Akk object correct; separable an belongs sentence-final after the time phrase."
+    },
+    {
+      "id": "2026-10-06-S02-E28",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich reise nach Berlin um meinem Freund zu besuchen",
+      "correction": "Ich reise nach Berlin, um meinen Freund zu besuchen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "um...zu structure correct; besuchen requires Akk: meinen Freund."
+    },
+    {
+      "id": "2026-10-06-S02-E29",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich putze den Schreibtisch weil einer besuchen habe",
+      "correction": "Ich putze das Büro, weil ich Gäste habe.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "putzen selected correctly; weil clause needs subject and final verb."
+    },
+    {
+      "id": "2026-10-06-S02-E30",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich sage die Buchung ab weil eine Termin habe",
+      "correction": "Ich sage die Buchung ab, weil ich einen Termin habe.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "absagen correct; weil clause and Akk article need repair."
     }
   ],
   "skill_tracking": {
