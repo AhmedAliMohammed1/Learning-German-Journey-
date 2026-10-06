@@ -360,4 +360,4 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Natural example: **Ich warte im Wartezimmer.**
 - Introduced on: **2026-10-06**
 - Source: **2026-10-06-S02 history-wide targeted review**
-- Learner attempt pending.
+- Learner recalled **Wartezimmer** independently in S02 E15; location case needed repair. Status: practicing.
