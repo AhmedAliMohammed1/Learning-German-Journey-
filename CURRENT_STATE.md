@@ -312,3 +312,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Strong fresh evidence: Dativ recipient patterns, warten auf + Akk, legen/liegen, aufhören + zu, indirect wo clause, Genitiv adjective ending, and V2 after fronted time phrases.
 - Active repair targets: **meinen Reisepass zum Termin mitbringen**, **fülle ... aus**, nested Genitiv **des Eingangs des Krankenhauses**, and **anfangen ... an zu lesen**.
 - Next startup should offer the main menu. If the learner chooses **Continue previous session**, resume with **E21–E30**.
+
+
+## Reopened targeted review — 2026-10-06 S02
+
+- Day status: **reopened**.
+- Active session: **2026-10-06-S02**.
+- Learner explicitly chose a targeted review of the latest not-yet-secure verbs while embedding current mistakes.
+- Active verb set: **81–90**.
+- Main embedded repairs: **meinen Reisepass / zum Termin**, **nächsten Monat**, **mein Handy**, Dativ recipient without *zu*, Genitiv around station/hotel phrases, and separable verb endings.
+- Active exercises: **S02 E01–E10**.
+- Previous S01 **E21–E30** remains preserved and paused.
+- New vocabulary: **V126 der Schalter (die Schalter)**.
