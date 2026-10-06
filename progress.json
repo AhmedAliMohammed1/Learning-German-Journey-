@@ -3151,7 +3151,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 127,
+    "registered_entries_count": 128,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5273,6 +5273,22 @@
         "introduced_on": "2026-10-06",
         "last_reviewed": null,
         "source": "2026-10-06-S02 history-wide targeted review batch 2",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V128",
+        "german": "die Steckdose",
+        "meaning_ar": "الفيشة / مقبس الكهرباء",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Steckdosen",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S02 history-wide targeted review batch 3",
+        "usage_example": "Das Handy liegt neben der Steckdose.",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
