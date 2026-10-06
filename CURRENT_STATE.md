@@ -373,3 +373,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V129 **die Verspätung** is practicing.
 - V130 **der Briefkasten (die Briefkästen)** introduced.
 - Active next batch: **E41–E50**.
+
+
+## S02 E41–E50 checkpoint and Batch 6
+
+- Fresh strengths: nicht + wo clause, sehen + Akk, helfen + Dat pronoun, warten auf + Akk, um...zu, deshalb + V2, modal + ausfüllen, nächsten Monat + umziehen + weil.
+- Active repairs: **in den Briefkasten**, **vor der Hochschule**, complete weil clauses, and masculine possessive **seinen Namen**.
+- V130 **der Briefkasten** received first use but destination case needs repair.
+- V131 **der Fahrkartenautomat (die Fahrkartenautomaten)** introduced.
+- Active next batch: **E51–E60**.
