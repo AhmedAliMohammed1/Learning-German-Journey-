@@ -319,3 +319,15 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - M04: E38 correctly distinguished **kennen** vs **wissen**; negation placement was the remaining issue.
 - M03: E39 correctly used **deshalb + V2**.
 - Current higher-frequency target: **nicht** placement and complete weil clauses.
+
+
+## Fresh live evidence — 2026-10-06 — S02 E41–E50
+
+- M27: E41 used stationary **im Briefkasten** instead of destination **in den Briefkasten**.
+- M19: E45 still needs explicit subject in a weil clause; E50 was fully correct.
+- M16: E44 kept **warten auf + Akk** correct.
+- M14/M15: E43 correctly used sehen + Akk and helfen + Dat pronoun.
+- M17: E46 **um ... zu** correct.
+- M03: E47 **deshalb + V2** correct.
+- M02/M08: E49 needs masculine possessive **seinen Namen**.
+- Current higher-frequency targets: destination/location case, possessives, complete weil clauses, and article/case around feminine Dativ.
