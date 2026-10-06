@@ -3,12 +3,12 @@
 ## Permanent learner preferences
 
 - Explain grammar and corrections in simple **Egyptian Arabic**.
-- Let the learner write the **FULL German sentence** themselves.
-- Prefer Arabic → German full-sentence translation over fill-in-the-blank exercises.
+- In sentence practice, let the learner write the **FULL German sentence** themselves. In the explicit isolated recall choices below, accept a German verb/word without requiring a sentence.
+- Prefer Arabic → German full-sentence translation over fill-in-the-blank exercises for sentence practice; also offer the learner-requested isolated Arabic → German recall choices.
 - Introduce numbered verbs in batches of **10**.
 - Every new verb batch must include practice mixing new verbs with old verbs.
 - Review cumulatively across previously learned verbs, but **rotate** them rather than forcing a long review of all old material before progress. Old material should be sampled inside new-material practice.
-- Continuously introduce some **new vocabulary** in reviews while reusing older vocabulary.
+- Continuously introduce some **new vocabulary** in sentence reviews while reusing older vocabulary. Isolated recall rounds test already introduced items only.
 - Correct every submitted sentence, including valid alternative phrasing.
 - Explain **WHY** the case, word order, pronoun, adjective ending, or noun ending is appropriate.
 - Prioritize practical everyday German and useful full sentences.
@@ -102,3 +102,23 @@ Explicit learner preference:
 Teaching effect: when the learner asks for a review of material they are not secure in, sample the full unresolved history, not only recent material.
 
 | 2026-10-06 | Explicit learner correction | Targeted review must cover the full unresolved history, offer an all-not-yet-strong option, rotate randomly across old/recent material, embed mistakes, and include new vocabulary. |
+
+
+## Isolated verb and vocabulary recall — 2026-10-06
+
+Explicit learner wording: «يعني تديني الفعل ب العربي وانا اقولو ب الالماني» and «اذا كانت انا متقنها ولا لا».
+
+- Add these choices; retain sentence/grammar review and all nine main-menu modes.
+- **Targeted review:** offer not-yet-secure/new/practicing **verbs** and **vocabulary** separately, drawn from the entire saved history.
+- **Full review:** offer **all introduced numbered verbs through the latest batch**, including strong/mastered ones, and **all introduced registered vocabulary through the latest batch**, separately.
+- Prompt one meaning in Egyptian Arabic; learner gives the German item. Do not show the German answer before the attempt. No full sentence is required.
+- For nouns, invite the article and optionally a learned plural; separate lexical recall from article/form errors.
+- Use live inventory/statuses and actual item evidence. "Introduced" is not "mastered"; contextual grammar errors do not automatically prove failed lemma recall.
+- Persist full-list coverage and the next item. Short rounds do not mean the full inventory was reviewed. Preserve previous pending exercises when switching.
+- Correct each answer, accept valid alternatives, and distinguish independent success from hints/copying. Isolated recall does not assess contextual grammar or oral skills.
+- Recall rounds review introduced material only; the new-word-per-review requirement remains for sentence review.
+- This preference update creates no study attempts, mastery changes, or new session.
+
+| Date | Source | Change |
+| --- | --- | --- |
+| 2026-10-06 | Explicit learner request | Add Arabic → German isolated verb/vocabulary recall: unresolved/new/practicing items in Targeted review; every introduced item regardless of mastery in Full review. |

@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-06",
-  "last_updated_at": "2026-10-06T14:10:42+02:00",
+  "last_updated_at": "2026-10-06T15:15:26+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -5480,7 +5480,51 @@
     },
     "weak_patterns_block_new_batches": false,
     "review_only_long_batches_when": "learner_explicitly_selects_review_or_broad_regression_blocks_progress",
-    "learn_from_evidence_frequency": true
+    "learn_from_evidence_frequency": true,
+    "full_sentence_requirement_scope": "sentence_practice_only; isolated_recall_answers_may_be_single_items",
+    "new_vocabulary_every_review_scope": "sentence_review_only; isolated_recall_tests_already_introduced_items",
+    "recall_review": {
+      "enabled": true,
+      "prompt_language": "Egyptian Arabic",
+      "direction": "Arabic_to_German",
+      "prompt_unit": "one_item_at_a_time",
+      "answer_unit": "German_infinitive_or_registered_vocabulary_form",
+      "reveal_model_after_attempt": true,
+      "targeted_review": {
+        "verb_scope": "all_history_not_yet_strong_or_mastered_and_item_level_unresolved_recall",
+        "vocabulary_scope": "all_history_not_yet_strong_or_mastered_and_item_level_unresolved_recall",
+        "include_new_and_practicing": true
+      },
+      "full_review": {
+        "verb_scope": "all_actually_introduced_numbered_verbs_through_latest_batch",
+        "vocabulary_scope": "all_deduplicated_introduced_registered_entries_through_latest_batch",
+        "include_strong_and_mastered": true
+      },
+      "noun_policy": {
+        "invite_article": true,
+        "plural_when_useful_and_previously_introduced": true,
+        "score_lemma_and_article_separately": true
+      },
+      "retain_sentence_grammar_review": true,
+      "requires_full_sentence": false,
+      "requires_new_vocabulary_per_round": false,
+      "full_review_requires_complete_pool_coverage": true,
+      "preserve_pending_work_on_switch": true,
+      "evidence_kind": "isolated_recall",
+      "does_not_prove_contextual_or_oral_mastery": true,
+      "requested_on": "2026-10-06"
+    },
+    "preference_change_log": [
+      {
+        "id": "2026-10-06-PREF-ISOLATED-RECALL",
+        "date": "2026-10-06",
+        "timestamp": "2026-10-06T15:15:26+02:00",
+        "source": "explicit_learner_request",
+        "learner_wording": "يعني تديني الفعل ب العربي وانا اقولو ب الالماني؛ ونفس الكلام في الكلمات؛ اذا كانت انا متقنها ولا لا",
+        "change": "Additional isolated Arabic-to-German recall choices: all-history unresolved/new/practicing verbs and vocabulary in Targeted review; all introduced verbs and registered vocabulary through the latest batch regardless of mastery in Full review.",
+        "study_activity_created": false
+      }
+    ]
   },
   "mistake_patterns": [
     {
@@ -6817,7 +6861,60 @@
     "startup_requires_choice": true,
     "backfilled_history_policy": "daily summaries preserve historical learning; do not invent session counts or scored answers",
     "skill_modes_protocol": "START_HERE.md sections 9–11",
-    "skill_progress_file": "progress.json"
+    "skill_progress_file": "progress.json",
+    "review_subchoices": {
+      "full_review": [
+        {
+          "id": "recall_all_verbs",
+          "label_ar": "كل الأفعال — عربي → ألماني",
+          "activity": "isolated_verb_recall",
+          "scope": "all_introduced"
+        },
+        {
+          "id": "recall_all_vocabulary",
+          "label_ar": "كل الكلمات — عربي → ألماني",
+          "activity": "isolated_vocabulary_recall",
+          "scope": "all_introduced"
+        },
+        {
+          "id": "sentence_grammar_review",
+          "label_ar": "مراجعة بالجمل والقواعد",
+          "activity": "full_sentence_review",
+          "scope": "cumulative"
+        }
+      ],
+      "targeted_review": [
+        {
+          "id": "specific_range_or_topic",
+          "label_ar": "مدى أفعال أو موضوع معين"
+        },
+        {
+          "id": "grammar_mistakes",
+          "label_ar": "القواعد والأخطاء الحالية"
+        },
+        {
+          "id": "recent_material",
+          "label_ar": "المادة الحديثة"
+        },
+        {
+          "id": "history_wide_unresolved",
+          "label_ar": "كل المادة غير المتقنة عبر التاريخ",
+          "activity": "full_sentence_review"
+        },
+        {
+          "id": "recall_unresolved_verbs",
+          "label_ar": "الأفعال اللي لسه تحت التدريب أو جديدة — عربي → ألماني",
+          "activity": "isolated_verb_recall",
+          "scope": "all_history_unresolved"
+        },
+        {
+          "id": "recall_unresolved_vocabulary",
+          "label_ar": "الكلمات اللي لسه تحت التدريب أو جديدة — عربي → ألماني",
+          "activity": "isolated_vocabulary_recall",
+          "scope": "all_history_unresolved"
+        }
+      ]
+    }
   },
   "numbered_verbs_target": 100,
   "numbered_verbs_introduced": 90,
@@ -9076,8 +9173,8 @@
   },
   "review_queue": [],
   "adaptive_learning": {
-    "policy_version": 2,
-    "configuration_updated_on": "2026-10-03",
+    "policy_version": 3,
+    "configuration_updated_on": "2026-10-06",
     "content_selection_sources": [
       "learner_selected_mode",
       "numbered_verbs_and_supplemental_inventory",
@@ -9205,14 +9302,40 @@
       "embed_real_mistakes_in_full_sentences": true,
       "new_vocabulary_per_review_batch": {
         "min": 1,
-        "typical_max": 2
+        "typical_max": 2,
+        "applies_to": "sentence_grammar_review; isolated_recall_excluded"
       },
       "strong_material_role": "occasional_retention_only",
       "rationale_required": true,
       "learner_requested_on": "2026-10-06"
+    },
+    "isolated_recall_policy": {
+      "requested_on": "2026-10-06",
+      "candidate_source": "live_item_inventory_and_item_level_recall_evidence",
+      "targeted_eligible_statuses": "anything other than strong/mastered, plus explicit unresolved item-level recall",
+      "full_scope": "all_actual_introduced_ids_in_the_selected_inventory_regardless_of_status",
+      "order": "shuffle_rotate_across_full_pool; prioritize_unresolved_for_targeted",
+      "persist_on_selection": [
+        "activity_id",
+        "scope",
+        "inventory",
+        "pool_ids",
+        "tested_ids",
+        "remaining_ids",
+        "retry_ids",
+        "current_item_id",
+        "attempts_with_stable_ids",
+        "support_flags",
+        "next_action"
+      ],
+      "full_activity_completion": "every_eligible_id_tested; retain_needed_retries",
+      "evidence_policy": "tag isolated_recall; distinguish lemma/form success and independent/support/copy; do not infer grammar or audio skill mastery",
+      "valid_alternatives": "accept semantic alternatives; do not claim target-specific recall unless target was produced",
+      "new_material_policy": "already_introduced_only; retain_new_vocabulary_requirement_for_sentence_review",
+      "activity_created_by_this_update": false
     }
   },
-  "feature_config_updated_on": "2026-10-03",
+  "feature_config_updated_on": "2026-10-06",
   "verbs_61_70_status": "practicing",
   "verbs_71_80_status": "practicing",
   "verbs_81_90_status": "practicing"

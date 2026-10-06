@@ -66,10 +66,12 @@ When the learner selects **2. Targeted review / مراجعة جزء معين**, 
 2. Review current grammar/mistake patterns.
 3. Review recent material.
 4. **Review all not-yet-secure material across the whole history** — every verb, grammar pattern, or vocabulary target that is not `strong/mastered`, plus any `weak`, `improving`, or `needs_check` mistake pattern, regardless of when it was introduced.
+5. **Recall not-yet-secure/new/practicing verbs — Arabic → German**, one isolated verb at a time.
+6. **Recall not-yet-secure/new/practicing vocabulary — Arabic → German**, one isolated entry at a time.
 
 The fourth option is a core mode, not an edge case. Old unresolved material must not disappear merely because newer batches were introduced.
 
-For any review mode:
+For sentence/grammar review modes (isolated recall follows its explicit scope exception below):
 - Build the candidate pool from the **entire saved history**, not only the latest group.
 - Include individual verbs whose status is not `strong/mastered`, even if their surrounding historical group has a strong baseline.
 - Include older mistake patterns that are `weak`, `improving`, or `needs_check`, even when they relate to verbs from early numbered groups.
@@ -82,11 +84,40 @@ For any review mode:
 - Stable/strong material may appear occasionally for retention, but must not crowd out unresolved material.
 - Save the selection rationale so the next assistant knows why those targets were chosen.
 
+### Review submenus and isolated recall — explicit learner preference 2026-10-06
+
+These are additional choices inside main-menu **1 Full review** and **2 Targeted review**. Keep all nine main-menu choices and the existing sentence/grammar review available. Opening a submenu alone is configuration/navigation, not study.
+
+**Full review / مراجعة شاملة** offers:
+1. **كل الأفعال — عربي → ألماني**: recall every actually introduced numbered verb through the latest batch, including strong/mastered verbs.
+2. **كل الكلمات — عربي → ألماني**: recall every deduplicated introduced entry in the vocabulary register through the latest batch, regardless of status.
+3. **مراجعة بالجمل والقواعد**: the existing cumulative Arabic-to-German full-sentence review.
+
+The full pools currently contain numbered IDs **1–90** and vocabulary IDs **V001–V129**. These are examples from the current snapshot, not frozen limits: rebuild from the live inventory whenever a recall activity begins. Do not include unintroduced numbered verbs 91–100 or invented words. Registered expressions/proper names/supplemental entries are included in vocabulary as their existing types; supplemental verbs do not increase the numbered total.
+
+**Targeted review / مراجعة جزء معين** keeps subchoices 1–4 above and adds:
+5. **الأفعال اللي لسه تحت التدريب أو جديدة — عربي → ألماني**.
+6. **الكلمات اللي لسه تحت التدريب أو جديدة — عربي → ألماني**.
+
+Targeted recall draws from the whole history, not only the latest batch: include individual entries whose status is not strong/mastered (introduced, practicing, improving, weak, needs_check, or unassessed/unknown), plus explicit item-level evidence that recall is unresolved. Group-level strength cannot hide an individually unresolved verb. A grammatical case/order error with a correctly recalled lemma does not by itself prove poor lexical recall. Do not treat an imported "introduced" vocabulary status as mastered.
+
+**Recall activity workflow**
+- Give the Egyptian Arabic meaning **one item at a time** and wait for the learner's German answer before revealing the German target or a model. Use the infinitive/registered form for verbs. Briefly specify the intended meaning/context if the Arabic prompt has several plausible translations, without exposing the German answer.
+- Accept a typed or spoken German item according to the learner's actual output; a full sentence is not required. For nouns, invite the article; test a learned plural when useful. If the noun is right but the article is missing/wrong, record lexical recall and article/form accuracy separately. Non-nouns use their registered relevant form.
+- Accept valid synonyms for the stated meaning. Record semantic success without claiming recall of a specific curriculum target that was not actually produced; clarify/retest that exact distinction later if useful.
+- Correct each response in Egyptian Arabic. Separate independent recall, hinted recall, and a copied correction. Revisit errors in a fresh shuffled pass; one immediate success is not mastery.
+- In a full recall activity, snapshot the eligible item IDs, shuffle/rotate, and persist coverage so every eligible item is eventually asked. Short rounds are allowed, but never call the entire review completed while any eligible IDs remain untested. Retry weak items without letting repeats crowd out unseen items.
+- For targeted recall, weight unresolved/long-unseen items and rotate across historical ranges. Correct answers can reduce frequency only using actual comparable recall evidence.
+- On actual selection, preserve and pause any prior activity and its exact prompts. Use the same date file and stable session/exercise/activity IDs under the normal session rules. Save recall type (verbs/vocabulary), scope (all/unresolved), pool IDs, tested/remaining/retry IDs, current item, support flags, original answers, corrections, evidence, and next action in progress.json and the day file. An interruption resumes the same coverage.
+- Tag item evidence **isolated_recall**. It can support lexical-recall evidence but does not prove contextual use, grammatical mastery, pronunciation, listening, or fluency. Keep the four skill-mode records unchanged unless suitable actual mode-specific practice occurs.
+
+**Explicit scope exception:** These isolated recall choices review already introduced material only. They do not require full sentences, embedded grammar, or new vocabulary per round. The existing new-vocabulary/full-sentence requirements still apply to sentence review and other new activities. No count, mastery status, session, attempt, or retest is created merely by adding these menu choices.
+
 ## 4. Teaching workflow
 
-- Use LEARNING_PROFILE.md. Full review defaults to Arabic → German written full sentences. Speaking requests oral full sentences; conversation uses interactive turns; reading and listening use comprehension and guided German responses. Apply the selected mode rather than forcing all practice into writing.
+- Use LEARNING_PROFILE.md. Full review offers all-verb recall, all-vocabulary recall, and sentence review; the default inside sentence review is Arabic → German written full sentences. Speaking requests oral full sentences; conversation uses interactive turns; reading and listening use comprehension and guided German responses. Apply the selected mode rather than forcing all practice into writing.
 - Use a **progression-first** default. Before a new numbered batch, use at most a short 3–5 sentence diagnostic when useful, then introduce new material. Do not require repeated full review batches before progression.
-- Introduce at least one useful new vocabulary item in every review batch and each new activity in the four skill modes, with article/plural for nouns and a practical example. Reuse the new item in varied contexts; identical corrective retries need not introduce extra words. Label it as new or reviewed correctly. Save it in curriculum/vocabulary.md once actually introduced.
+- Except for isolated recall of already introduced items, introduce at least one useful new vocabulary item in every sentence-review batch and each new activity in the four skill modes, with article/plural for nouns and a practical example. Reuse the new item in varied contexts; identical corrective retries need not introduce extra words. Label it as new or reviewed correctly. Save it in curriculum/vocabulary.md once actually introduced.
 - Use the exact recovered numbering in curriculum/verbs.md and progress.json. Introduce future numbered verbs in batches of 10, with old/new mixed exercises. Supplemental besuchen, erklären, vergessen, and mit jemandem sprechen stay outside the numbered total. Entry 31 remains möchten as supplied; its lexical base is mögen.
 - Correct every submitted sentence: learner answer, natural corrected sentence, and a brief Egyptian Arabic explanation. Accept valid alternatives.
 - Keep separate evidence for an independent correct response, a correct response after a hint, and a copied correction. Only independent success counts toward mastery.
@@ -212,7 +243,7 @@ Before an activity, inspect the exact current verb/vocabulary inventory, grammar
 
 ## 10. Adaptive selection, evidence, and later retests
 
-In every mode, mix familiar vocabulary/grammar with a small amount of genuinely new practical vocabulary. Start with roughly 80% familiar vocabulary and 1–2 new items per short activity, then adjust; this is a default, not a measured score. Revisit new words in a later turn, a fresh context, and a later session. The existing 60/40 old/recent review balance still applies to review content, not a conflicting vocabulary quota.
+In sentence review and the four skill modes, mix familiar vocabulary/grammar with a small amount of genuinely new practical vocabulary. Isolated recall rounds cover only their already introduced inventory under section 3. Start with roughly 80% familiar vocabulary and 1–2 new items per short activity, then adjust; this is a default, not a measured score. Revisit new words in a later turn, a fresh context, and a later session. The existing 60/40 old/recent review balance still applies to review content, not a conflicting vocabulary quota.
 
 Choose work from:
 - The learner's chosen mode/interest.

@@ -1,6 +1,15 @@
 # Current learner state
 
-Updated: **2026-10-06T00:37:49+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-06T15:15:26+02:00**. Calendar timezone: **Europe/Berlin**.
+
+
+## Additional review choices — preference saved 2026-10-06
+
+- **Full review:** all introduced numbered verbs (currently **1–90**), all registered introduced vocabulary (currently **129 entries**), or the existing sentence/grammar review.
+- **Targeted review:** retain the existing specific-topic, grammar, recent-material, and history-wide unresolved sentence-review choices; add isolated recall of **not-yet-secure/new/practicing verbs** and **not-yet-secure/new/practicing vocabulary** across the whole history.
+- Isolated recall: one Egyptian Arabic meaning at a time → learner gives the German item. No full sentence/new word is required for these rounds. Invite noun articles and check learned plurals when useful.
+- Track coverage, errors, support flags, and the next item only when actual recall practice occurs. Lemma recall is separate from contextual grammar or oral skill mastery.
+- This is a configuration checkpoint only. Active **S02 E31–E40**, previous prompts, all learner evidence/counts/statuses, and the four unassessed skill baselines are preserved.
 
 ## Progress — 90 / 100 numbered verbs introduced
 
@@ -23,41 +32,37 @@ Updated: **2026-10-06T00:37:49+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Latest study state and continuation
 
-- Latest actual study date: **2026-10-03**.
-- Day is **closed** after Session S02.
-- Numbered verbs **61–70** were introduced and practiced; group remains **practicing**, not mastered.
-- Numbered verbs **71–80** were introduced but their first exercise batch has **not been attempted yet**.
-- Primary continuation next time: **S02 E51–E60** for verbs 71–80.
-- Older review batches **S02 E21–E30** and **S01 E41–E50** remain preserved as deferred work and must not be forced before 71–80.
-- Progression-first policy remains active.
-- Fresh embedded targets from the latest mixed batch: **nach der Arbeit**, **anrufen + Akk + separable an**, **mit + Dativ plural**.
-- Fresh successful maintenance: **stehen** in a stationary sentence, **warten auf + Akk**, and **anfangen + zu**.
+- Latest recorded/dated actual study: **2026-10-06**, based on the saved S02 answers.
+- Current/latest file: **days/2026-10-06.md**; status **reopened**.
+- Active session: **2026-10-06-S02**, history-wide targeted sentence review.
+- S02 **E01–E30** completed and corrected; exact active continuation: **S02 E31–E40**.
+- S01 E21–E30 and older pending prompts remain preserved as deferred work; none was completed by this preference update.
+- Numbered verbs remain **90 / 100**; groups 51–90 are practicing.
+- Latest higher-frequency checks: temporal Dativ, verb-specific Akk/Dat, separable word order, weil clauses, and anfangen + zu.
+- Latest fresh successes allow reduced frequency for nested Genitiv and liegen/stellen/stehen.
+- Progression-first policy remains active. An isolated weak pattern does not block future numbered batches.
 
 ## Day and session state
 
-- Current/latest file: days/2026-10-03.md.
-- Status: **closed**.
-- Live sessions recorded: **2**.
-- Active session ID: **none**.
-- Last session: **2026-10-03-S02**, closed with unfinished active practice preserved.
-- Primary next-session continuation: **S02 E51–E60**.
-- Deferred review: **S02 E21–E30** and **S01 E41–E50**.
+- Current/latest day: **2026-10-06**.
+- Day status: **reopened**; active session **2026-10-06-S02**.
+- Today has **2** actual logged sessions; total live sessions recorded: **6**.
+- This preference-only update adds no session, exercise, introduction, mastery change, or skill retest.
+- A later choice of isolated recall pauses/preserves the current sentence batch and follows the normal same-date session/activity rules.
 
 ## Strengths and review priorities
 
-**Weak / active:** M29 stehen vs stellen.
-
-**Improving:** M11 Genitiv article/noun endings; M13 Genitiv adjective ending; M16 warten auf + Akk; M18 anfangen/aufhören + zu; M14 verb-specific Akk/Dat; M15 Dat person + Akk thing; M17 um ... zu; **M30 nach + Dativ in temporal phrases**; capitalization; nested Genitiv; darf/darfst; sitzen/setzen; anfangen conjugation; possessives; modal infinitive; object pronouns; suchen + Akk.
-
-**More stable:** M28 V2 after a fronted phrase; M27 stationary Dativ vs destination Akkusativ; M19 final verb with weil/wo; wissen/kennen; denken an + Akk; helfen/danken/antworten + Dat; kennen + Akk; sehen/hören + Akk.
-
-Minor spelling issues remain low priority and separate.
+- Structured statuses currently contain **no weak or needs_check items**; this does not mean every target is secure.
+- Latest higher-frequency unresolved targets: **M30 temporal nach + Dativ**, **M14 verb-specific Akk/Dat**, **M15 Dativ recipient + Akk thing**, **M18 anfangen + zu / separable forms**, and **M19 weil/wo clauses**. Also maintain sitzen/setzen and separable anrufen word order from dated errors.
+- Improving patterns remain eligible across the full history, including possessives, pronouns, modal forms, purpose clauses, warten auf, Genitiv article/noun/nested phrases, capitalization, and stehen/stellen.
+- More stable structured patterns: **M04 wissen/kennen**, **M06 helfen + Dat**, **M07 denken an + Akk**, **M13 Genitiv adjective ending**, **M22 danken + Dat**, **M23 antworten + Dat**, **M25 kennen + Akk**, **M26 sehen/hören + Akk**, **M27 location/destination**, and **M28 V2**. New item-level errors still receive retests; stable baselines do not erase them.
+- Reduce nested Genitiv and liegen/stellen/stehen frequency after the latest independent successes. Minor spelling remains separate and low priority.
 
 ## Teaching profile and vocabulary
 
 Egyptian Arabic; full-sentence Arabic → German translation; numbered batches of 10; **progression-first** flow; short diagnostics only when useful; roughly 70% new material + 30% embedded review; correct every sentence and explain why; add practical vocabulary during new activities.
 
-**121 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
+**129 distinct vocabulary entries registered** from history, including expressions and supplemental entries. This is register size, not a known/mastered-word score. V106 **der Termin**, V107 **der Kühlschrank**, and V108 **der Schreibtisch** are practicing. Fresh V109: **der Rucksack (die Rucksäcke)** for Batch 4.
 
 ## History and limits
 
