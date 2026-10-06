@@ -270,3 +270,16 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - Targeted unresolved review should weight high-priority and long-unseen patterns more strongly, while rotating across the full history.
 - Stable patterns may be sampled lightly for retention; they should not crowd out unresolved patterns.
 - Whenever possible, combine a mistake target with a not-yet-strong verb in a natural full sentence and include useful new vocabulary.
+
+
+## Fresh live evidence — 2026-10-06 — S02 history-wide review
+
+- **M01 improving:** correct **darf ... öffnen**.
+- **M05 active:** learner used **stellen** instead of **setzen** for seating a child; **sitzen** itself was correct in the next sentence.
+- **M18 active:** learner again omitted separable **an** in **anfangen ... an zu lesen**.
+- **M16 improving:** **warten auf meinen Freund** was correct.
+- **M14 improving:** **treffen + Akk** and the Akkusativ object with **mitbringen** were correct.
+- **M15 improving:** **meinem Freund ... das Buch zurückgeben** was correct.
+- **M30 improving:** **nach dem Termin** was correct.
+- Surface-form maintenance: **neben der Tür** and **nächsten Monat**.
+- Vocabulary: **Fahrplan** recalled correctly; **Schalter** was replaced by *Fenster* and needs a fresh retest.
