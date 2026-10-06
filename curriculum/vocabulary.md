@@ -132,6 +132,9 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V124 | die Quittung | die Quittungen | الإيصال | noun | practicing |
 | V125 | der Fahrplan | die Fahrpläne | جدول المواعيد / مواعيد المواصلات | noun | practicing |
 | V126 | der Schalter | die Schalter | الشباك / الكاونتر | noun | practicing |
+| V127 | das Wartezimmer | die Wartezimmer | غرفة الانتظار | noun | practicing |
+| V128 | die Steckdose | die Steckdosen | الفيشة / مقبس الكهرباء | noun | practicing |
+| V129 | die Verspätung | die Verspätungen | التأخير | noun | introduced |
 
 ## Fresh live introductions
 
