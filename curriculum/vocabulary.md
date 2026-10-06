@@ -351,3 +351,13 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-06**
 - Source: **2026-10-06-S02, targeted review of verbs 81–90**
 - First learner attempt pending in **E06**.
+
+
+### V127 — das Wartezimmer
+
+- Article / plural: **das Wartezimmer — die Wartezimmer**
+- Meaning: waiting room
+- Natural example: **Ich warte im Wartezimmer.**
+- Introduced on: **2026-10-06**
+- Source: **2026-10-06-S02 history-wide targeted review**
+- Learner attempt pending.
