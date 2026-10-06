@@ -5644,12 +5644,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 8,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 3,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
-        "2026-10-03-S01"
+        "2026-10-03-S01",
+        "2026-10-06-S02"
       ],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5705,6 +5706,15 @@
           "exercise_id": "2026-10-04-S01-E24",
           "independent": true,
           "note": "Repeated wrong masculine Genitiv article/noun phrase: der Eingang -> des Eingangs."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E24",
+          "independent": true,
+          "correct": true,
+          "note": "Correct des Eingangs des Bahnhofs."
         }
       ]
     },
@@ -5720,10 +5730,12 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": "2026-10-04",
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-06-S02"
+      ],
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5755,6 +5767,15 @@
           "exercise_id": "2026-10-04-S01-E24",
           "independent": true,
           "note": "Nested Genitiv still needs des Eingangs des Krankenhauses; second layer was correct."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E24",
+          "independent": true,
+          "correct": true,
+          "note": "Correct nested Genitiv phrase."
         }
       ]
     },
@@ -5821,11 +5842,13 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
-      "independent_correct": 0,
+      "recorded_errors": 4,
+      "independent_correct": 1,
       "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": "2026-10-05",
+      "successful_session_ids": [
+        "2026-10-06-S02"
+      ],
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5850,6 +5873,24 @@
           "exercise_id": "2026-10-05-S01-E13",
           "independent": true,
           "note": "mitbringen object used with Dativ article; correct Akkusativ: meinen Reisepass."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E27",
+          "independent": true,
+          "correct": true,
+          "note": "Correct Akk object with anrufen: meine Schwester."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E28",
+          "independent": true,
+          "correct": false,
+          "note": "besuchen requires Akkusativ: meinen Freund."
         }
       ]
     },
@@ -5865,10 +5906,12 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 3,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": "2026-10-05",
+      "independent_correct": 4,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-06-S02"
+      ],
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5901,6 +5944,15 @@
           "exercise_id": "2026-10-05-S01-E12",
           "independent": true,
           "note": "zurückgeben used with zu meinem Freund; correct Dativ recipient directly: meinem Freund."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E26",
+          "independent": true,
+          "correct": true,
+          "note": "Correct Dativ recipient meiner Mutter + object."
         }
       ]
     },
@@ -5968,12 +6020,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 2,
+      "independent_correct": 3,
+      "independent_correct_since_last_error": 3,
       "successful_session_ids": [
-        "2026-10-03-S01"
+        "2026-10-03-S01",
+        "2026-10-06-S02"
       ],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -5990,6 +6043,15 @@
           "exercise_id": "2026-10-03-S02-E20",
           "independent": true,
           "note": "um Milch zu kaufen fully correct."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E28",
+          "independent": true,
+          "correct": true,
+          "note": "Correct um...zu purpose structure; object-case error belongs to M14."
         }
       ]
     },
@@ -6064,7 +6126,7 @@
     {
       "id": "M19",
       "topic": "weil_wo_final_verb",
-      "status": "stable",
+      "status": "improving",
       "title": "sentence-final verb with weil and wo",
       "reference_example": "weil ich kein Auto habe; Ich weiß, wo er wohnt.",
       "severity": "grammar_or_usage",
@@ -6072,14 +6134,14 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
+      "recorded_errors": 3,
       "independent_correct": 7,
-      "independent_correct_since_last_error": 6,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-04-S01"
       ],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6128,6 +6190,24 @@
           "exercise_id": "2026-10-04-S01-E19",
           "independent": true,
           "note": "weil clause verb-final order correct; punctuation/capitalization errors separate."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E29",
+          "independent": true,
+          "correct": false,
+          "note": "weil clause malformed; subject and final verb needed."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E30",
+          "independent": true,
+          "correct": false,
+          "note": "weil clause again missing subject/final verb structure."
         }
       ]
     },
@@ -6318,12 +6398,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 9,
-      "independent_correct_since_last_error": 9,
+      "independent_correct": 10,
+      "independent_correct_since_last_error": 10,
       "successful_session_ids": [
-        "2026-10-03-S01"
+        "2026-10-03-S01",
+        "2026-10-06-S02"
       ],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6364,6 +6445,15 @@
           "exercise_id": "2026-10-04-S01-E28",
           "independent": true,
           "note": "Correct destination Akkusativ with legen: auf den Schreibtisch."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E21",
+          "independent": true,
+          "correct": true,
+          "note": "Correct stationary Dativ with liegen."
         }
       ]
     },
@@ -6442,13 +6532,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 1,
-      "independent_correct": 4,
-      "independent_correct_since_last_error": 3,
+      "independent_correct": 6,
+      "independent_correct_since_last_error": 5,
       "successful_session_ids": [
         "2026-10-03-S02",
-        "2026-10-04-S01"
+        "2026-10-04-S01",
+        "2026-10-06-S02"
       ],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6489,6 +6580,24 @@
           "exercise_id": "2026-10-04-S01-E03",
           "independent": true,
           "note": "Correct stehen for stationary location; noun-form error separate."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E22",
+          "independent": true,
+          "correct": true,
+          "note": "Correct stellen for placement."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E23",
+          "independent": true,
+          "correct": true,
+          "note": "Correct stehen for stationary object."
         }
       ]
     },
@@ -6503,13 +6612,13 @@
       "assessment_source": "fresh_live_evidence",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
+      "recorded_errors": 4,
       "independent_correct": 2,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-04-S01"
       ],
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-06",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6550,6 +6659,15 @@
           "exercise_id": "2026-10-04-S01-E30",
           "independent": true,
           "note": "Used nach der Termin; masculine Termin needs Dativ dem: nach dem Termin."
+        },
+        {
+          "date": "2026-10-06",
+          "timestamp": "2026-10-06T16:52:00+02:00",
+          "session_id": "2026-10-06-S02",
+          "exercise_id": "2026-10-06-S02-E25",
+          "independent": true,
+          "correct": false,
+          "note": "Used nach der Termin; correct nach dem Termin."
         }
       ]
     }
