@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**130 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**131 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -136,6 +136,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V128 | die Steckdose | die Steckdosen | الفيشة / مقبس الكهرباء | noun | practicing |
 | V129 | die Verspätung | die Verspätungen | التأخير | noun | practicing |
 | V130 | der Briefkasten | die Briefkästen | صندوق البريد | noun | introduced |
+| V131 | der Fahrkartenautomat | die Fahrkartenautomaten | ماكينة التذاكر | noun | introduced |
 
 ## Fresh live introductions
 
@@ -244,7 +245,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 130). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 131). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
@@ -395,3 +396,13 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-06**
 - Source: **2026-10-06-S02, history-wide targeted review Batch 5**
 - First learner attempt pending in E41.
+
+
+### V131 — der Fahrkartenautomat
+
+- Article / plural: **der Fahrkartenautomat — die Fahrkartenautomaten**
+- Egyptian Arabic: **ماكينة التذاكر**
+- Natural example: **Ich kaufe die Fahrkarte am Fahrkartenautomaten.**
+- Introduced on: **2026-10-06**
+- Source: **2026-10-06-S02, history-wide targeted review Batch 6**
+- First learner attempt pending in E51.
