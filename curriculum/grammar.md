@@ -299,3 +299,13 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **indirect wo clause:** **Ich weiß, wo mein Freund wohnt.**
 - **anrufen + Akk** was correct; only the requested temporal phrase needed **nach dem Termin**.
 - **Genitiv adjective ending:** **des öffentlichen Parks** was correct.
+
+
+## Live grammar checkpoint — 2026-10-06 S02 history-wide review
+
+- **dürfen + final infinitive** correct.
+- **setzen vs stellen** still needs work: seating a child requires **setzen**.
+- **sitzen** selected correctly; use **neben der Tür**.
+- **anfangen + zu** still needs **an**: **Ich fange ... an, ... zu lesen.**
+- **warten auf + Akk**, **treffen + Akk**, **ausfüllen**, **zurückgeben + Dativ recipient**, and **mitbringen + Akk / zum Termin** were correct.
+- **umziehen** structure was correct; temporal phrase is **nächsten Monat**.
