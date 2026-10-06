@@ -58,6 +58,30 @@ Use ISO 8601 timestamps with the correct Berlin offset when the clock is availab
 
 At local midnight, new exercises belong to the new date. Preserve the earlier unfinished session as paused with a rollover event and a pointer to the next day. An older open day is not evidence that it was closed; close it only on an explicit instruction or a documented rollover reconciliation.
 
+### Targeted review selection policy — learner preference 2026-10-06
+
+When the learner selects **2. Targeted review / مراجعة جزء معين**, do not assume they mean the newest material. Offer targeted-review subchoices that include:
+
+1. Review a specific verb range or named topic.
+2. Review current grammar/mistake patterns.
+3. Review recent material.
+4. **Review all not-yet-secure material across the whole history** — every verb, grammar pattern, or vocabulary target that is not `strong/mastered`, plus any `weak`, `improving`, or `needs_check` mistake pattern, regardless of when it was introduced.
+
+The fourth option is a core mode, not an edge case. Old unresolved material must not disappear merely because newer batches were introduced.
+
+For any review mode:
+- Build the candidate pool from the **entire saved history**, not only the latest group.
+- Include individual verbs whose status is not `strong/mastered`, even if their surrounding historical group has a strong baseline.
+- Include older mistake patterns that are `weak`, `improving`, or `needs_check`, even when they relate to verbs from early numbered groups.
+- Weight selection toward: high-priority mistakes, repeated errors, few/no independent correct attempts, overdue/long-unseen items, and not-yet-strong verbs. Recency may be one factor but must never dominate the pool.
+- Randomize/rotate across eligible old and recent targets so consecutive review batches do not repeatedly sample only the newest material.
+- Prefer a spread across multiple historical ranges when enough eligible material exists (for example early/middle/recent targets in the same batch).
+- Embed the learner's real mistakes inside useful full sentences rather than drilling isolated forms.
+- Add at least **1 genuinely new practical vocabulary item per review batch** (normally 1–2), with article/plural for nouns and a natural example, and reuse new vocabulary later.
+- A review batch should normally mix unresolved verbs + unresolved grammar + useful vocabulary. Do not equate "latest" with "weakest".
+- Stable/strong material may appear occasionally for retention, but must not crowd out unresolved material.
+- Save the selection rationale so the next assistant knows why those targets were chosen.
+
 ## 4. Teaching workflow
 
 - Use LEARNING_PROFILE.md. Full review defaults to Arabic → German written full sentences. Speaking requests oral full sentences; conversation uses interactive turns; reading and listening use comprehension and guided German responses. Apply the selected mode rather than forcing all practice into writing.
@@ -66,7 +90,7 @@ At local midnight, new exercises belong to the new date. Preserve the earlier un
 - Use the exact recovered numbering in curriculum/verbs.md and progress.json. Introduce future numbered verbs in batches of 10, with old/new mixed exercises. Supplemental besuchen, erklären, vergessen, and mit jemandem sprechen stay outside the numbered total. Entry 31 remains möchten as supplied; its lexical base is mögen.
 - Correct every submitted sentence: learner answer, natural corrected sentence, and a brief Egyptian Arabic explanation. Accept valid alternatives.
 - Keep separate evidence for an independent correct response, a correct response after a hint, and a copied correction. Only independent success counts toward mastery.
-- Adapt difficulty and mistake frequency to recent evidence. Once the current numbered group has had meaningful practice, continue to the next batch of 10. An isolated weak pattern does not block progression; embed it in new-material exercises. An explicit learner request for new verbs overrides review-heavy defaults.
+- Adapt difficulty and mistake frequency to evidence across the full saved history. Recent evidence matters, but older unresolved items remain eligible until strong/mastered. Once the current numbered group has had meaningful practice, continue to the next batch of 10. An isolated weak pattern does not block progression; embed it in new-material exercises. An explicit learner request for new verbs overrides review-heavy defaults.
 - Track pending exercise prompts, submitted answers, selected mode, activity goals, evidence, and the next action so another assistant can continue exactly. Mode switching pauses the previous activity and preserves its prompts; it never marks it completed.
 
 **Progression balance:** after a new numbered batch is introduced, aim for roughly **70% new-verb-centered practice and 30% old material / grammar / mistake retests**. Rotate older verbs instead of reviewing everything every time. Use long review-only batches only when the learner explicitly selects review or recent evidence shows broad regression that blocks progress.
