@@ -283,3 +283,14 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M30 improving:** **nach dem Termin** was correct.
 - Surface-form maintenance: **neben der Tür** and **nächsten Monat**.
 - Vocabulary: **Fahrplan** recalled correctly; **Schalter** was replaced by *Fenster* and needs a fresh retest.
+
+
+## Fresh live evidence — 2026-10-06 — S02 Batch 2
+
+- M14: E12 repeated object-case trouble with **sehen**; use **meinen Bruder**.
+- M05/M27: E13 chose **setzen** correctly but used location Dativ instead of destination Akkusativ; use **auf den Stuhl**.
+- M18: E14 again omitted separable **an** in **anfangen ... an + zu**.
+- M15: E16 used **meinen Chef**; recipient with **schicken** needs Dativ **meinem Chef**.
+- M17: E18 needs **um ... zu** for same-subject purpose.
+- M21: E13 wrote **stuhl**; noun capitalization remains a light maintenance target.
+- Fresh success: modal + infinitive, helfen + **ihm**, treffen + Akk, ausziehen, verlieren + **ihn**, and V2 after **danach**.
