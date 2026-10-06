@@ -261,3 +261,12 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **anrufen:** E19 used the verb and Akkusativ object correctly, but the prompt required **nach dem Termin**, not **nach der Arbeit**.
 - **Genitiv adjective ending:** E20 correctly used **des öffentlichen Parks**.
 - No new broad weak pattern is created from the Hotel/Restaurant or office/desk lexical mismatches.
+
+
+## Review-selection persistence rule — 2026-10-06
+
+- Weak/improving/needs_check patterns remain review candidates regardless of age.
+- Introducing newer verbs never removes an older unresolved pattern from the candidate pool.
+- Targeted unresolved review should weight high-priority and long-unseen patterns more strongly, while rotating across the full history.
+- Stable patterns may be sampled lightly for retention; they should not crowd out unresolved patterns.
+- Whenever possible, combine a mistake target with a not-yet-strong verb in a natural full sentence and include useful new vocabulary.
