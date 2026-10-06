@@ -18,7 +18,7 @@
 | سجل المفردات | **131 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-06** |
 | آخر نقطة | S02 E01–E30 خلصوا؛ الاستكمال **S02 E31–E40**، والتمارين الأقدم محفوظة |
-| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active؛ Batch 6 E51–E60 شغال |
+| ملف اليوم | **closed**؛ S02 خلصت لليوم؛ E51–E60 محفوظين للاستكمال |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -144,7 +144,7 @@ The unresolved-review pool must include all material that is not strong/mastered
 
 ## Current review focus — S02 Batch 5
 
-- Active: **E41–E50**.
+- Completed through **E50**. Pending continuation: **E51–E60**.
 - Higher-frequency targets: **weil completeness**, **nicht placement**, verb-specific Akk/Dat, and separable word order.
 - New vocabulary: **V130 der Briefkasten (die Briefkästen)**.
 
@@ -154,3 +154,5 @@ The unresolved-review pool must include all material that is not strong/mastered
 - Active: **E51–E60**.
 - Higher-frequency targets: **in den Briefkasten**, feminine Dativ **vor der Hochschule**, possessives, complete weil clauses, and separable verb word order.
 - New vocabulary: **V131 der Fahrkartenautomat (die Fahrkartenautomaten)**.
+
+- 2026-10-06 S02 closed at **17:40**; **E51–E60** preserved for continuation.
