@@ -318,9 +318,21 @@ Introduced on 2026-10-03 under the progression-first policy:
 
 - Day status: **reopened**.
 - Active session: **2026-10-06-S02**.
-- Learner explicitly chose a targeted review of the latest not-yet-secure verbs while embedding current mistakes.
-- Active verb set: **81–90**.
+- Learner explicitly chose a history-wide targeted review of unresolved material while embedding current mistakes.
+- Active review pool spans older and recent unresolved verbs/patterns; it is not limited to 81–90.
 - Main embedded repairs: **meinen Reisepass / zum Termin**, **nächsten Monat**, **mein Handy**, Dativ recipient without *zu*, Genitiv around station/hotel phrases, and separable verb endings.
 - Active exercises: **S02 E01–E10**.
 - Previous S01 **E21–E30** remains preserved and paused.
 - New vocabulary: **V126 der Schalter (die Schalter)**.
+
+
+## Targeted review policy correction — 2026-10-06
+
+- Targeted review no longer defaults to the newest verbs.
+- The learner explicitly wants a full-history option that reviews **all not-yet-strong/mastered material**.
+- Review candidates come from every historical range: unresolved verbs, weak/improving/needs_check grammar/mistake patterns, and useful vocabulary.
+- Selection is weighted toward weakness, repeated errors, low independent-success evidence, and long-unseen items; recency is secondary.
+- Batches rotate across early, middle, and recent material and include at least one genuinely new practical vocabulary item.
+- Current S02 E01–E10 were revised before any answer to reflect this policy.
+- Current S02 mix: dürfen/öffnen, setzen/sitzen, anfangen, warten, treffen, ausfüllen, umziehen, zurückgeben, mitbringen.
+- V126 **der Schalter (die Schalter)** remains the new practical vocabulary for this batch.
