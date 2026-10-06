@@ -22,9 +22,109 @@
   "current_session_id": "2026-10-06-S02",
   "sessions_recorded": 6,
   "last_verified_study_at": "2026-10-06T14:10:42+02:00",
-  "active_topic": "History-wide targeted review after S02 E21-E30",
-  "next_action": "Open next cross-history batch with less Genitiv/position review and more temporal Dativ, verb-specific case, separable word order, and weil.",
+  "active_topic": "History-wide targeted review batch 4",
+  "next_action": "Answer 2026-10-06-S02-E31 through E40 independently.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S02-E31",
+      "prompt_ar": "بعد التأخير، أنا بتصل بمديري.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "V129 + nach Dativ + anrufen word order"
+    },
+    {
+      "id": "2026-10-06-S02-E32",
+      "prompt_ar": "أنا بشوف صاحبي وبعد كدا بدي له المفتاح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "sehen Akk + geben Dat+Akk + pronoun"
+    },
+    {
+      "id": "2026-10-06-S02-E33",
+      "prompt_ar": "أنا لازم أجيب جواز السفر معايا لأن عندي موعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "modal + mitbringen + weil"
+    },
+    {
+      "id": "2026-10-06-S02-E34",
+      "prompt_ar": "أنا ببدأ أقرأ بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "anfangen + zu + nach der Arbeit"
+    },
+    {
+      "id": "2026-10-06-S02-E35",
+      "prompt_ar": "أنا برد على مديري وبعد كدا بشكره.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "antworten Dat + danken Dat"
+    },
+    {
+      "id": "2026-10-06-S02-E36",
+      "prompt_ar": "أنا بسافر لميونخ علشان أقابل أختي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "reisen + um zu + treffen Akk"
+    },
+    {
+      "id": "2026-10-06-S02-E37",
+      "prompt_ar": "أنا بحجز فندق لأن أنا مسافر بكرة لبرلين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "buchen + weil final verb"
+    },
+    {
+      "id": "2026-10-06-S02-E38",
+      "prompt_ar": "أنا عارف الراجل، بس مش عارف هو ساكن فين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "kennen vs wissen + wo clause"
+    },
+    {
+      "id": "2026-10-06-S02-E39",
+      "prompt_ar": "المطعم مقفول، علشان كدا أنا بطبخ في البيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "deshalb + V2"
+    },
+    {
+      "id": "2026-10-06-S02-E40",
+      "prompt_ar": "أنا بغيّر البنك لأن البنك القديم بعيد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "wechseln + weil"
+    },
     {
       "id": "2026-10-06-S01-E21",
       "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
@@ -3161,7 +3261,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 128,
+    "registered_entries_count": 129,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5313,6 +5413,22 @@
             "note": "Correct independent use of die Steckdose."
           }
         ]
+      },
+      {
+        "id": "V129",
+        "german": "die Verspätung",
+        "meaning_ar": "التأخير",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Verspätungen",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S02 history-wide targeted review batch 4",
+        "usage_example": "Nach der Verspätung rufe ich meinen Chef an.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -6709,7 +6825,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_targeted_review",
-  "next_suggested_action": "Open next cross-history batch with less Genitiv/position review and more temporal Dativ, verb-specific case, separable word order, and weil.",
+  "next_suggested_action": "Answer 2026-10-06-S02-E31 through E40 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
