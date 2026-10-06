@@ -330,3 +330,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **weil** still needs an explicit subject and finite verb at the end.
 - Negating knowledge: **Ich weiß nicht, wo er wohnt.**
 - **deshalb + V2** correct.
+
+
+## Live grammar checkpoint — 2026-10-06 S02 E41–E50
+
+- Destination into a container: **in den Briefkasten**.
+- **vor der Hochschule** with stationary location.
+- Weil clauses need an explicit subject and finite verb at the end.
+- **sehen + Akk / helfen + Dat** correct.
+- **um ... zu** correct.
+- **deshalb + V2** correct.
+- Masculine possessive: **sein Name -> seinen Namen** in Akkusativ.
