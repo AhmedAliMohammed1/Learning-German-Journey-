@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-06",
-  "last_updated_at": "2026-10-06T00:37:49+02:00",
+  "last_updated_at": "2026-10-06T14:10:42+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -18,13 +18,113 @@
   },
   "current_day": "2026-10-06",
   "latest_day": "2026-10-06",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 5,
-  "last_verified_study_at": "2026-10-06T00:37:49+02:00",
-  "active_topic": "Full review paused after E01-E20; Batch 3 E21-E30 preserved",
-  "next_action": "If learner chooses Continue previous session, resume 2026-10-06-S01-E21 through E30 exactly; otherwise honor the selected mode and preserve them.",
+  "day_status": "reopened",
+  "current_session_id": "2026-10-06-S02",
+  "sessions_recorded": 6,
+  "last_verified_study_at": "2026-10-06T14:10:42+02:00",
+  "active_topic": "Targeted review of numbered verbs 81-90 with current mistakes embedded",
+  "next_action": "Answer 2026-10-06-S02-E01 through E10 independently.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S02-E01",
+      "prompt_ar": "أنا بضيّع جواز السفر قبل الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "verlieren + Akk + vor dem Termin"
+    },
+    {
+      "id": "2026-10-06-S02-E02",
+      "prompt_ar": "أنا بستخدم الموبايل في الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "benutzen + mein Handy + bei der Arbeit"
+    },
+    {
+      "id": "2026-10-06-S02-E03",
+      "prompt_ar": "الشهر الجاي، أنا بغيّر البنك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "wechseln + nächsten Monat"
+    },
+    {
+      "id": "2026-10-06-S02-E04",
+      "prompt_ar": "أنا بحجز أوضة في فندق قريب من محطة القطر لعطلة نهاية الأسبوع.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "buchen + Genitiv + articles"
+    },
+    {
+      "id": "2026-10-06-S02-E05",
+      "prompt_ar": "أنا بحجز ترابيزة لشخصين في المطعم.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "reservieren"
+    },
+    {
+      "id": "2026-10-06-S02-E06",
+      "prompt_ar": "بعد الشغل، أنا بروح أستلم تذكرة القطر من الشباك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "abholen + V126"
+    },
+    {
+      "id": "2026-10-06-S02-E07",
+      "prompt_ar": "أنا برجع لصاحبي الكتاب بعد الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "zurückgeben + Dativ recipient + nach dem Termin"
+    },
+    {
+      "id": "2026-10-06-S02-E08",
+      "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "mitbringen + Akk + zum Termin"
+    },
+    {
+      "id": "2026-10-06-S02-E09",
+      "prompt_ar": "أنا بحدد موعد مع مديري.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "vereinbaren + einen Termin + mit Dativ"
+    },
+    {
+      "id": "2026-10-06-S02-E10",
+      "prompt_ar": "بعد الشغل، أنا بلغي الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "targeted_review_recent_verbs",
+      "target": "absagen + V2 + den Termin"
+    },
     {
       "id": "2026-10-06-S01-E21",
       "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
@@ -3057,7 +3157,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 125,
+    "registered_entries_count": 126,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5142,6 +5242,31 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V126",
+        "german": "der Schalter",
+        "meaning_ar": "الشباك / الكاونتر",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Schalter",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S02 targeted review recent verbs",
+        "usage_example": "Ich hole die Fahrkarte am Schalter ab.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T14:10:42+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E06",
+            "kind": "introduced_in_exercise_prompt",
+            "note": "Introduced in targeted review; learner attempt pending."
+          }
+        ]
       }
     ]
   },
@@ -6419,8 +6544,8 @@
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
-  "latest_study_state": "closed",
-  "next_suggested_action": "If learner chooses Continue previous session, resume 2026-10-06-S01-E21 through E30 exactly; otherwise honor the selected mode and preserve them.",
+  "latest_study_state": "active_targeted_review",
+  "next_suggested_action": "Answer 2026-10-06-S02-E01 through E10 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6727,6 +6852,13 @@
       "session_id": "2026-10-06-S01",
       "event": "2026-10-06_day_closed",
       "note": "Learner explicitly ended the day after completing E01-E20. Batch 3 E21-E30 remains pending and must be preserved for the next continuation."
+    },
+    {
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T14:10:42+02:00",
+      "session_id": "2026-10-06-S02",
+      "event": "targeted_recent_verbs_review_started",
+      "note": "Learner explicitly requested review of the latest not-yet-secure verbs while embedding current mistakes. Verbs 81-90 are the active review set; S01 E21-E30 remains preserved."
     }
   ],
   "exercise_results": [
