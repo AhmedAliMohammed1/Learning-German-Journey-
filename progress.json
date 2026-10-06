@@ -5468,14 +5468,24 @@
         "type": "noun",
         "article": "der",
         "plural": "die Briefkästen",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-06",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-06",
         "source": "2026-10-06-S02 history-wide targeted review batch 5",
         "usage_example": "Ich lege den Brief in den Briefkasten.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E41",
+            "kind": "learner_attempt",
+            "independent": true,
+            "correct": true,
+            "note": "Briefkasten vocabulary recalled correctly; destination case error was separate."
+          }
+        ]
       },
       {
         "id": "V131",
