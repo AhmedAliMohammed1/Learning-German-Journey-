@@ -18,7 +18,7 @@
 | سجل المفردات | **126 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-06** |
 | آخر نقطة | يوم 2026-10-06 **closed**؛ E01–E20 خلصوا وE21–E30 محفوظين للاستكمال |
-| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active لمراجعة الأفعال 81–90 مع الأخطاء الحالية |
+| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active لمراجعة كل العناصر غير المتقنة عبر التاريخ، مع الأخطاء الحالية |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -113,3 +113,10 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 - 2026-10-06 review vocabulary: **V125 der Fahrplan (die Fahrpläne)**.
 
 - 2026-10-06 targeted-review vocabulary: **V126 der Schalter (die Schalter)**.
+
+
+## Targeted review behavior
+
+When the learner chooses **Targeted review / مراجعة جزء معين**, offer a full-history unresolved option in addition to specific topic/range/recent review.
+
+The unresolved-review pool must include all material that is not strong/mastered across the whole saved history, including older verbs and weak/improving/needs_check mistake patterns. Selection should rotate across old and recent targets, prioritize weak/under-practiced/long-unseen items, embed real mistakes inside full sentences, and add useful new vocabulary. Do not equate newest material with weakest material.
