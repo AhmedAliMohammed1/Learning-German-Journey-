@@ -382,3 +382,15 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V130 **der Briefkasten** received first use but destination case needs repair.
 - V131 **der Fahrkartenautomat (die Fahrkartenautomaten)** introduced.
 - Active next batch: **E51–E60**.
+
+
+## End-of-day — 2026-10-06 S02
+
+- Day status: **closed**.
+- Session **2026-10-06-S02** ended at **2026-10-06T17:40:33+02:00**.
+- History-wide targeted review completed through **E50**.
+- **E51–E60 remain pending** and must be preserved exactly.
+- Numbered verbs remain **90 / 100**.
+- Vocabulary register: **131 entries**.
+- Current higher-frequency repairs: complete **weil** clauses, **nicht** placement, temporal Dativ, possessives/case, and occasional destination/location checks.
+- Next startup should offer the main menu. If the learner chooses **Continue previous session**, resume with **E51–E60**.
