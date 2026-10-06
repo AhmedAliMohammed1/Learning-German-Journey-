@@ -22,108 +22,108 @@
   "current_session_id": "2026-10-06-S02",
   "sessions_recorded": 6,
   "last_verified_study_at": "2026-10-06T14:10:42+02:00",
-  "active_topic": "History-wide targeted review batch 5",
-  "next_action": "Answer 2026-10-06-S02-E41 through E50 independently.",
+  "active_topic": "History-wide targeted review batch 6",
+  "next_action": "Answer 2026-10-06-S02-E51 through E60 independently.",
   "pending_exercises": [
     {
-      "id": "2026-10-06-S02-E41",
-      "prompt_ar": "أنا بحط الخطاب في صندوق البريد قبل الشغل.",
+      "id": "2026-10-06-S02-E51",
+      "prompt_ar": "بعد التأخير، أنا بشتري تذكرة من ماكينة التذاكر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "legen + destination + V130"
+      "target": "V131 + nach der Verspätung + kaufen"
     },
     {
-      "id": "2026-10-06-S02-E42",
-      "prompt_ar": "أنا مش عارف أخويا ساكن فين.",
+      "id": "2026-10-06-S02-E52",
+      "prompt_ar": "أنا لازم أرجع لصاحبي الكتاب بكرة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "wissen + nicht + wo clause"
+      "target": "modal + zurückgeben Dat+Akk"
     },
     {
-      "id": "2026-10-06-S02-E43",
-      "prompt_ar": "أنا بشوف أختي وبعد كدا بساعدها.",
+      "id": "2026-10-06-S02-E53",
+      "prompt_ar": "أنا بفتح الشباك لأن الجو بارد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "sehen Akk + helfen Dat pronoun"
+      "target": "öffnen + weil"
     },
     {
-      "id": "2026-10-06-S02-E44",
-      "prompt_ar": "بعد الشغل، أنا بستنى المدرس قدام الجامعة.",
+      "id": "2026-10-06-S02-E54",
+      "prompt_ar": "بعد الموعد، أنا بتصل بأختي.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "warten auf Akk + fronted V2"
+      "target": "nach dem Termin + anrufen word order"
     },
     {
-      "id": "2026-10-06-S02-E45",
-      "prompt_ar": "أنا بتصل بصاحبي لأن عندي سؤال.",
+      "id": "2026-10-06-S02-E55",
+      "prompt_ar": "أنا بستنى الأتوبيس قدام الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "anrufen + weil"
+      "target": "warten auf + vor der Hochschule"
     },
     {
-      "id": "2026-10-06-S02-E46",
-      "prompt_ar": "أنا بروح السوبرماركت علشان أشتري لبن.",
+      "id": "2026-10-06-S02-E56",
+      "prompt_ar": "أنا عارف اسم صاحبي، لكن مش عارف عنوانه.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "um zu purpose"
+      "target": "wissen/kennen + possessives"
     },
     {
-      "id": "2026-10-06-S02-E47",
-      "prompt_ar": "المدير مش موجود، علشان كده أنا ببعتله رسالة.",
+      "id": "2026-10-06-S02-E57",
+      "prompt_ar": "أنا بشكر المدرس لأنه بيساعدني.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "deshalb + V2 + schicken Dat"
+      "target": "danken Dat + weil + helfen Dat"
     },
     {
-      "id": "2026-10-06-S02-E48",
-      "prompt_ar": "أنا لازم أملا الاستمارة قبل الموعد.",
+      "id": "2026-10-06-S02-E58",
+      "prompt_ar": "أنا بحجز فندق لأن عندي رحلة بكرة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "modal + ausfüllen"
+      "target": "buchen + weil"
     },
     {
-      "id": "2026-10-06-S02-E49",
-      "prompt_ar": "أنا عارف الراجل، لكن مش عارف اسمه.",
+      "id": "2026-10-06-S02-E59",
+      "prompt_ar": "أنا باخد الطرد من الشباك بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "kennen vs wissen + nicht"
+      "target": "abholen + am Schalter + nach der Arbeit"
     },
     {
-      "id": "2026-10-06-S02-E50",
-      "prompt_ar": "الشهر الجاي، أنا بنقل لميونخ لأن الشقة غالية.",
+      "id": "2026-10-06-S02-E60",
+      "prompt_ar": "أنا بحط الكتاب في شنطة الظهر قبل الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
       "activity": "history_wide_unresolved_review",
-      "target": "umziehen + nächsten Monat + weil"
+      "target": "legen + in den Rucksack + vor der Arbeit"
     },
     {
       "id": "2026-10-06-S01-E21",
@@ -731,7 +731,17 @@
     "2026-10-06-S02-E37",
     "2026-10-06-S02-E38",
     "2026-10-06-S02-E39",
-    "2026-10-06-S02-E40"
+    "2026-10-06-S02-E40",
+    "2026-10-06-S02-E41",
+    "2026-10-06-S02-E42",
+    "2026-10-06-S02-E43",
+    "2026-10-06-S02-E44",
+    "2026-10-06-S02-E45",
+    "2026-10-06-S02-E46",
+    "2026-10-06-S02-E47",
+    "2026-10-06-S02-E48",
+    "2026-10-06-S02-E49",
+    "2026-10-06-S02-E50"
   ],
   "verbs": {
     "introduced_total": 90,
@@ -3271,7 +3281,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 130,
+    "registered_entries_count": 131,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5466,6 +5476,22 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V131",
+        "german": "der Fahrkartenautomat",
+        "meaning_ar": "ماكينة التذاكر",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Fahrkartenautomaten",
+        "status": "introduced",
+        "introduced_on": "2026-10-06",
+        "last_reviewed": null,
+        "source": "2026-10-06-S02 history-wide targeted review batch 6",
+        "usage_example": "Ich kaufe die Fahrkarte am Fahrkartenautomaten.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -6959,7 +6985,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_targeted_review",
-  "next_suggested_action": "Answer 2026-10-06-S02-E41 through E50 independently.",
+  "next_suggested_action": "Answer 2026-10-06-S02-E51 through E60 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -9092,6 +9118,126 @@
       "hint_used": false,
       "independent": true,
       "note": "weil word order correct; weit weg expresses far away."
+    },
+    {
+      "id": "2026-10-06-S02-E41",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich lege das Brief vor der Arbeit im Briefkasten",
+      "correction": "Ich lege den Brief vor der Arbeit in den Briefkasten.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "der Brief -> den Brief; destination into mailbox -> in den Briefkasten."
+    },
+    {
+      "id": "2026-10-06-S02-E42",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich weiß nicht, wo mein Bruder wohnt",
+      "correction": "Ich weiß nicht, wo mein Bruder wohnt.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "nicht placement and wo-clause correct."
+    },
+    {
+      "id": "2026-10-06-S02-E43",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich sehe meine Schwester danach helfe ich ihr",
+      "correction": "Ich sehe meine Schwester, danach helfe ich ihr.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "sehen + Akk and helfen + Dat pronoun correct; punctuation only."
+    },
+    {
+      "id": "2026-10-06-S02-E44",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Nach der Arbeit warte ich vor dem Hochschule auf den Lehrer",
+      "correction": "Nach der Arbeit warte ich vor der Hochschule auf den Lehrer.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "die Hochschule -> Dativ der Hochschule; warten auf + Akk correct."
+    },
+    {
+      "id": "2026-10-06-S02-E45",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich rufe meinen Freund an, weil eine Frage habe",
+      "correction": "Ich rufe meinen Freund an, weil ich eine Frage habe.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "weil clause needs subject ich; eine Frage correct."
+    },
+    {
+      "id": "2026-10-06-S02-E46",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich gehe zum Supermarkt um Milch zu kaufen",
+      "correction": "Ich gehe zum Supermarkt, um Milch zu kaufen.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "um...zu structure correct; comma needed."
+    },
+    {
+      "id": "2026-10-06-S02-E47",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Der Chef ist nicht hier deshalb schicke ich ihm eine Nachricht",
+      "correction": "Der Chef ist nicht da, deshalb schicke ich ihm eine Nachricht.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "deshalb + V2 and Dativ ihm correct; punctuation/style only."
+    },
+    {
+      "id": "2026-10-06-S02-E48",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich muss das Formular vor dem Termin ausfüllen",
+      "correction": "Ich muss das Formular vor dem Termin ausfüllen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "modal + final infinitive and ausfüllen correct."
+    },
+    {
+      "id": "2026-10-06-S02-E49",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Ich kenne diesen Mann, aber ich weiß nicht ihre Name",
+      "correction": "Ich kenne diesen Mann, aber ich weiß seinen Namen nicht.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "male referent der Mann -> seinen Namen; kennen/wissen distinction correct."
+    },
+    {
+      "id": "2026-10-06-S02-E50",
+      "session_id": "2026-10-06-S02",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T16:52:00+02:00",
+      "learner_answer": "Nächsten Monat ziehe ich nach München um, weil die Wohnung teuer ist",
+      "correction": "Nächsten Monat ziehe ich nach München um, weil die Wohnung teuer ist.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "fully correct."
     }
   ],
   "skill_tracking": {
