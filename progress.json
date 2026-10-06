@@ -1349,9 +1349,9 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-03",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -1361,6 +1361,15 @@
             "independent": true,
             "correct": true,
             "note": "Correct independent use of darf with final infinitive."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E01",
+            "independent": true,
+            "correct": true,
+            "note": "dürfen + final infinitive correct."
           }
         ],
         "meaning_ar": "يُسمح له",
@@ -1635,10 +1644,20 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-06",
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E03",
+            "independent": true,
+            "correct": true,
+            "note": "sitzen selected correctly; Tür case error separate."
+          }
+        ],
         "meaning_ar": "يكون جالسًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -1769,10 +1788,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-06",
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E02",
+            "independent": true,
+            "correct": false,
+            "note": "Used stellen instead of setzen for seating a child."
+          }
+        ],
         "meaning_ar": "يُجلس / يضع في وضع الجلوس",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1845,10 +1874,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-06",
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E04",
+            "independent": true,
+            "correct": false,
+            "note": "anfangen missing separable an before zu-infinitive."
+          }
+        ],
         "meaning_ar": "يبدأ",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1893,10 +1932,20 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-06",
+        "evidence": [
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E05",
+            "independent": true,
+            "correct": true,
+            "note": "warten auf + Akk correct; Schalter vocabulary not recalled."
+          }
+        ],
         "meaning_ar": "ينتظر",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
@@ -1912,9 +1961,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-03",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -1924,6 +1973,15 @@
             "independent": true,
             "correct": true,
             "note": "treffen + den Lehrer correct."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E06",
+            "independent": true,
+            "correct": true,
+            "note": "treffen + Akk and V2 correct."
           }
         ],
         "meaning_ar": "يقابل",
@@ -2450,9 +2508,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 2,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-04",
+        "recorded_attempts": 3,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-04",
@@ -2471,6 +2529,15 @@
             "independent": true,
             "correct": true,
             "note": "umziehen destination/separable structure correct; nächsten Monat ending was separate."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E08",
+            "independent": true,
+            "correct": true,
+            "note": "umziehen structure correct; temporal ending separate."
           }
         ],
         "meaning_ar": "ينتقل إلى سكن جديد",
@@ -2517,9 +2584,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 2,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-04",
+        "recorded_attempts": 3,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-04",
@@ -2538,6 +2605,15 @@
             "independent": true,
             "correct": false,
             "note": "Used auf instead of aus in ausfüllen; needs another retry."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E07",
+            "independent": true,
+            "correct": true,
+            "note": "ausfüllen fully correct with vor dem Termin."
           }
         ],
         "meaning_ar": "يملأ استمارة",
@@ -2767,9 +2843,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-05",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-05",
@@ -2779,6 +2855,15 @@
             "independent": true,
             "correct": true,
             "note": "Correct separable zurückgeben; recipient should be Dativ without zu."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E09",
+            "independent": true,
+            "correct": true,
+            "note": "zurückgeben + Dativ recipient correct."
           }
         ],
         "meaning_ar": "يرجّع / يعيد",
@@ -2796,9 +2881,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-05",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-06",
         "evidence": [
           {
             "date": "2026-10-05",
@@ -2808,6 +2893,15 @@
             "independent": true,
             "correct": true,
             "note": "Correct separable mitbringen; Reisepass and Termin case forms needed repair."
+          },
+          {
+            "date": "2026-10-06",
+            "timestamp": "2026-10-06T15:35:00+02:00",
+            "session_id": "2026-10-06-S02",
+            "exercise_id": "2026-10-06-S02-E10",
+            "independent": true,
+            "correct": true,
+            "note": "mitbringen + Akk + zum Termin correct."
           }
         ],
         "meaning_ar": "يحضر معه",
