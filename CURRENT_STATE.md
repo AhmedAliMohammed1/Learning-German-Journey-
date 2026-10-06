@@ -336,3 +336,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Current S02 E01–E10 were revised before any answer to reflect this policy.
 - Current S02 mix: dürfen/öffnen, setzen/sitzen, anfangen, warten, treffen, ausfüllen, umziehen, zurückgeben, mitbringen.
 - V126 **der Schalter (die Schalter)** remains the new practical vocabulary for this batch.
+
+
+## S02 history-wide targeted review checkpoint
+
+- Mixed old/middle/recent E01–E10 completed.
+- Strong fresh uses: **dürfen**, **warten auf + Akk**, **treffen + Akk**, **ausfüllen**, **umziehen structure**, **zurückgeben**, **mitbringen**.
+- Active repairs: **setzen vs stellen**, **anfangen ... an + zu**, **neben der Tür**, and **nächsten Monat**.
+- V125 **Fahrplan** recalled correctly; V126 **Schalter** needs a fresh retest.
+- The full-history review policy is working as intended: older unresolved patterns surfaced alongside recent verbs.
