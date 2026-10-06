@@ -82,3 +82,23 @@ This is an explicit learner preference and overrides older review-heavy defaults
 
 
 | 2026-10-06 | Explicit learner request | Review recent verbs that are not yet secure and embed the learner's current grammar/case mistakes inside those verb exercises, so verb memorization and error review happen together. |
+
+
+## History-wide unresolved review policy — 2026-10-06
+
+Explicit learner preference:
+
+- Targeted review must not default to the latest verbs.
+- When offering targeted-review choices, include an option to review **all material that is not yet strong/mastered**, regardless of when it was introduced.
+- Candidate material includes older verbs, newer verbs, grammar patterns, and mistake patterns that are weak/improving/needs_check.
+- A strong group-level baseline does not hide a specific unresolved mistake inside that group.
+- Review batches should rotate/randomize across the whole unresolved pool and normally mix early, middle, and recent material.
+- Selection should prioritize real weakness and lack of evidence: repeated errors, high-priority mistakes, few/no independent successes, and long-unseen items.
+- Recency is only one factor and must not dominate review selection.
+- Embed current mistakes inside full-sentence verb practice so verb retention and grammar repair happen together.
+- Include useful genuinely new vocabulary in review batches and reuse it later.
+- Do not keep repeating the same newest group simply because it was introduced most recently.
+
+Teaching effect: when the learner asks for a review of material they are not secure in, sample the full unresolved history, not only recent material.
+
+| 2026-10-06 | Explicit learner correction | Targeted review must cover the full unresolved history, offer an all-not-yet-strong option, rotate randomly across old/recent material, embed mistakes, and include new vocabulary. |
