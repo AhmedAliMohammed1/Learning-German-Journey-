@@ -309,3 +309,13 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **anfangen + zu** still needs **an**: **Ich fange ... an, ... zu lesen.**
 - **warten auf + Akk**, **treffen + Akk**, **ausfüllen**, **zurückgeben + Dativ recipient**, and **mitbringen + Akk / zum Termin** were correct.
 - **umziehen** structure was correct; temporal phrase is **nächsten Monat**.
+
+
+## Live grammar checkpoint — 2026-10-06 S02 E21–E30
+
+- **liegen / stellen / stehen**: all correct in fresh contrast sentences.
+- **Nested Genitiv**: **des Eingangs des Bahnhofs** correct.
+- **nach + Dativ**: use **nach dem Termin**.
+- **anrufen**: keep separable **an** sentence-final after the time phrase.
+- **um ... zu**: structure was correct; **besuchen** needs Akkusativ **meinen Freund**.
+- **weil**: include the subject and put the finite verb at the end.
