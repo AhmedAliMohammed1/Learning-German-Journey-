@@ -294,3 +294,15 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - M17: E18 needs **um ... zu** for same-subject purpose.
 - M21: E13 wrote **stuhl**; noun capitalization remains a light maintenance target.
 - Fresh success: modal + infinitive, helfen + **ihm**, treffen + Akk, ausziehen, verlieren + **ihn**, and V2 after **danach**.
+
+
+## Fresh live evidence — 2026-10-06 — S02 E21–E30
+
+- M27/M29: fresh independent success on **liegen / stellen / stehen** and Wo/Wohin contrast; reduce review frequency.
+- M11/M12: fresh independent success on **des Eingangs des Bahnhofs**; reduce review frequency but keep spaced checks.
+- M30: fresh error **nach der Termin**; correct **nach dem Termin**.
+- M15: **meiner Mutter ... ihr** correct.
+- M14: **anrufen + Akk** was correct in E27; E28 used **meinem Freund** with besuchen, correct **meinen Freund**.
+- M17: **um ... zu** structure itself was correct in E28.
+- M19: two fresh weil-clause errors in E29/E30; status returns to improving.
+- Current higher-frequency targets: temporal Dativ, verb-specific Akk/Dat, separable word order, and weil clauses.
