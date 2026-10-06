@@ -15,10 +15,10 @@
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **130 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| سجل المفردات | **131 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-06** |
 | آخر نقطة | S02 E01–E30 خلصوا؛ الاستكمال **S02 E31–E40**، والتمارين الأقدم محفوظة |
-| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active؛ Batch 5 E41–E50 شغال |
+| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active؛ Batch 6 E51–E60 شغال |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -147,3 +147,10 @@ The unresolved-review pool must include all material that is not strong/mastered
 - Active: **E41–E50**.
 - Higher-frequency targets: **weil completeness**, **nicht placement**, verb-specific Akk/Dat, and separable word order.
 - New vocabulary: **V130 der Briefkasten (die Briefkästen)**.
+
+
+## Current review focus — S02 Batch 6
+
+- Active: **E51–E60**.
+- Higher-frequency targets: **in den Briefkasten**, feminine Dativ **vor der Hochschule**, possessives, complete weil clauses, and separable verb word order.
+- New vocabulary: **V131 der Fahrkartenautomat (die Fahrkartenautomaten)**.
