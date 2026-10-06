@@ -364,3 +364,12 @@ Introduced on 2026-10-03 under the progression-first policy:
 - V128 **die Steckdose** is practicing.
 - New V129 **die Verspätung (die Verspätungen)** introduced.
 - Active next batch: **2026-10-06-S02-E31–E40**.
+
+
+## S02 E31–E40 checkpoint and Batch 5
+
+- Strong fresh evidence: sehen + Akk, geben Dat+Akk, anfangen + zu, antworten/danken + Dat, um...zu, kennen/wissen distinction, deshalb + V2.
+- Active repairs: complete **weil** clauses and **nicht** placement.
+- V129 **die Verspätung** is practicing.
+- V130 **der Briefkasten (die Briefkästen)** introduced.
+- Active next batch: **E41–E50**.
