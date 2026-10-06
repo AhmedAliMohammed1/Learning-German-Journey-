@@ -22,108 +22,108 @@
   "current_session_id": "2026-10-06-S02",
   "sessions_recorded": 6,
   "last_verified_study_at": "2026-10-06T14:10:42+02:00",
-  "active_topic": "Targeted review of numbered verbs 81-90 with current mistakes embedded",
-  "next_action": "Answer 2026-10-06-S02-E01 through E10 independently.",
+  "active_topic": "History-wide targeted review of unresolved material",
+  "next_action": "Answer revised 2026-10-06-S02-E01 through E10; batch mixes old, middle, and recent unresolved targets.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E01",
-      "prompt_ar": "أنا بضيّع جواز السفر قبل الموعد.",
+      "prompt_ar": "أخويا مسموح له يفتح الشباك النهارده.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "verlieren + Akk + vor dem Termin"
+      "activity": "history_wide_unresolved_review",
+      "target": "dürfen + öffnen + modal final infinitive"
     },
     {
       "id": "2026-10-06-S02-E02",
-      "prompt_ar": "أنا بستخدم الموبايل في الشغل.",
+      "prompt_ar": "أنا بحط الطفل على الكرسي.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "benutzen + mein Handy + bei der Arbeit"
+      "activity": "history_wide_unresolved_review",
+      "target": "setzen + destination Akk"
     },
     {
       "id": "2026-10-06-S02-E03",
-      "prompt_ar": "الشهر الجاي، أنا بغيّر البنك.",
+      "prompt_ar": "الطفل قاعد على الكرسي جنب الباب.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "wechseln + nächsten Monat"
+      "activity": "history_wide_unresolved_review",
+      "target": "sitzen + stationary Dativ"
     },
     {
       "id": "2026-10-06-S02-E04",
-      "prompt_ar": "أنا بحجز أوضة في فندق قريب من محطة القطر لعطلة نهاية الأسبوع.",
+      "prompt_ar": "أنا ببدأ أقرأ جدول المواعيد الساعة تمانية.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "buchen + Genitiv + articles"
+      "activity": "history_wide_unresolved_review",
+      "target": "anfangen + zu + V125 Fahrplan"
     },
     {
       "id": "2026-10-06-S02-E05",
-      "prompt_ar": "أنا بحجز ترابيزة لشخصين في المطعم.",
+      "prompt_ar": "أنا بستنى صاحبي عند الشباك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "reservieren"
+      "activity": "history_wide_unresolved_review",
+      "target": "warten auf + Akk + V126 Schalter"
     },
     {
       "id": "2026-10-06-S02-E06",
-      "prompt_ar": "بعد الشغل، أنا بروح أستلم تذكرة القطر من الشباك.",
+      "prompt_ar": "بعد الشغل، أنا بقابل أخويا في محطة القطر.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "abholen + V126"
+      "activity": "history_wide_unresolved_review",
+      "target": "treffen + Akk + fronted V2"
     },
     {
       "id": "2026-10-06-S02-E07",
+      "prompt_ar": "أنا بملا الاستمارة قبل الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "ausfüllen + vor dem Termin"
+    },
+    {
+      "id": "2026-10-06-S02-E08",
+      "prompt_ar": "الشهر الجاي، أنا بنقل لبرلين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "umziehen + nächsten Monat"
+    },
+    {
+      "id": "2026-10-06-S02-E09",
       "prompt_ar": "أنا برجع لصاحبي الكتاب بعد الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
+      "activity": "history_wide_unresolved_review",
       "target": "zurückgeben + Dativ recipient + nach dem Termin"
     },
     {
-      "id": "2026-10-06-S02-E08",
+      "id": "2026-10-06-S02-E10",
       "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
+      "activity": "history_wide_unresolved_review",
       "target": "mitbringen + Akk + zum Termin"
-    },
-    {
-      "id": "2026-10-06-S02-E09",
-      "prompt_ar": "أنا بحدد موعد مع مديري.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "vereinbaren + einen Termin + mit Dativ"
-    },
-    {
-      "id": "2026-10-06-S02-E10",
-      "prompt_ar": "بعد الشغل، أنا بلغي الموعد.",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "targeted_review_recent_verbs",
-      "target": "absagen + V2 + den Termin"
     },
     {
       "id": "2026-10-06-S01-E21",
@@ -6545,7 +6545,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_targeted_review",
-  "next_suggested_action": "Answer 2026-10-06-S02-E01 through E10 independently.",
+  "next_suggested_action": "Answer revised 2026-10-06-S02-E01 through E10; batch mixes old, middle, and recent unresolved targets.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -6859,6 +6859,13 @@
       "session_id": "2026-10-06-S02",
       "event": "targeted_recent_verbs_review_started",
       "note": "Learner explicitly requested review of the latest not-yet-secure verbs while embedding current mistakes. Verbs 81-90 are the active review set; S01 E21-E30 remains preserved."
+    },
+    {
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T14:10:42+02:00",
+      "session_id": "2026-10-06-S02",
+      "event": "targeted_review_policy_corrected",
+      "note": "Learner corrected the review policy: targeted review must sample all unresolved material across the whole history, not only the newest verbs. Pending S02 E01-E10 were revised before any learner attempt to span early, middle, and recent unresolved targets; V125/V126 reused."
     }
   ],
   "exercise_results": [
@@ -8675,6 +8682,34 @@
         "stable_patterns": "sample lightly",
         "weak_or_improving_patterns": "embed naturally in new-material practice"
       }
+    },
+    "targeted_review_policy": {
+      "mode": "history_wide_unresolved_first",
+      "offer_all_not_yet_strong_option": true,
+      "candidate_pool": [
+        "verbs with status other than strong/mastered",
+        "mistake patterns with weak/improving/needs_check",
+        "vocabulary with introduced/practicing status when useful"
+      ],
+      "selection_weighting": [
+        "high_priority_mistakes",
+        "repeated_errors",
+        "few_or_no_independent_successes",
+        "long_unseen_or_overdue_items",
+        "not_yet_strong_verbs",
+        "recency_as_secondary_factor"
+      ],
+      "recency_must_not_dominate": true,
+      "randomize_and_rotate": true,
+      "prefer_cross_history_spread": true,
+      "embed_real_mistakes_in_full_sentences": true,
+      "new_vocabulary_per_review_batch": {
+        "min": 1,
+        "typical_max": 2
+      },
+      "strong_material_role": "occasional_retention_only",
+      "rationale_required": true,
+      "learner_requested_on": "2026-10-06"
     }
   },
   "feature_config_updated_on": "2026-10-03",
