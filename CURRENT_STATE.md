@@ -345,3 +345,17 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Active repairs: **setzen vs stellen**, **anfangen ... an + zu**, **neben der Tür**, and **nächsten Monat**.
 - V125 **Fahrplan** recalled correctly; V126 **Schalter** needs a fresh retest.
 - The full-history review policy is working as intended: older unresolved patterns surfaced alongside recent verbs.
+
+
+## S02 E21–E30 checkpoint and Batch 4
+
+- E21–E24 correct independently: **Steckdose + liegen**, **stellen/stehen**, and nested Genitiv.
+- E25: **anfangen** structure correct; repair **nach dem Termin**.
+- E26: **meiner Mutter ... ihr** correct.
+- E27: Akk object with **anrufen** correct; move **an** to sentence-final after the time phrase.
+- E28: **um ... zu** structure correct; **besuchen** needs Akkusativ **meinen Freund**.
+- E29/E30: fresh **weil** errors; M19 is improving again.
+- Review weighting now reduces Genitiv and position/destination frequency and increases temporal Dativ, verb-specific case, separable word order, and weil.
+- V128 **die Steckdose** is practicing.
+- New V129 **die Verspätung (die Verspätungen)** introduced.
+- Active next batch: **2026-10-06-S02-E31–E40**.
