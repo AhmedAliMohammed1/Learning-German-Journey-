@@ -319,3 +319,14 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **anrufen**: keep separable **an** sentence-final after the time phrase.
 - **um ... zu**: structure was correct; **besuchen** needs Akkusativ **meinen Freund**.
 - **weil**: include the subject and put the finite verb at the end.
+
+
+## Live grammar checkpoint — 2026-10-06 S02 E31–E40
+
+- **sehen + Akk** and **geben Dat+Akk** correct in E32.
+- **anfangen ... an + zu** correct in E34.
+- **antworten/danken + Dativ** correct in E35.
+- **um ... zu + treffen Akk** correct in E36.
+- **weil** still needs an explicit subject and finite verb at the end.
+- Negating knowledge: **Ich weiß nicht, wo er wohnt.**
+- **deshalb + V2** correct.
