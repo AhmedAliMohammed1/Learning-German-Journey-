@@ -22,9 +22,109 @@
   "current_session_id": "2026-10-06-S02",
   "sessions_recorded": 6,
   "last_verified_study_at": "2026-10-06T14:10:42+02:00",
-  "active_topic": "History-wide targeted review after mixed checkpoint",
-  "next_action": "Continue history-wide unresolved review with a different cross-history mix.",
+  "active_topic": "History-wide targeted review batch 2",
+  "next_action": "Answer 2026-10-06-S02-E11 through E20 independently.",
   "pending_exercises": [
+    {
+      "id": "2026-10-06-S02-E11",
+      "prompt_ar": "أنا لازم أقفل الشباك دلوقتي.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "modal + final infinitive + schließen"
+    },
+    {
+      "id": "2026-10-06-S02-E12",
+      "prompt_ar": "أنا بشوف أخويا وبعد كدا بساعده.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "Akk + pronoun + helfen Dat"
+    },
+    {
+      "id": "2026-10-06-S02-E13",
+      "prompt_ar": "أنا بحط الطفل على الكرسي جنب الباب.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "setzen + destination + Tür"
+    },
+    {
+      "id": "2026-10-06-S02-E14",
+      "prompt_ar": "أنا ببدأ أكتب الرسالة الساعة تسعة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "anfangen + zu"
+    },
+    {
+      "id": "2026-10-06-S02-E15",
+      "prompt_ar": "أنا بقابل صاحبي في غرفة الانتظار قبل الموعد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "treffen + Akk + V127"
+    },
+    {
+      "id": "2026-10-06-S02-E16",
+      "prompt_ar": "أنا ببعت لمديري الإيصال.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "schicken Dat + Akk"
+    },
+    {
+      "id": "2026-10-06-S02-E17",
+      "prompt_ar": "أنا بخلع الجاكيت في البيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "ausziehen"
+    },
+    {
+      "id": "2026-10-06-S02-E18",
+      "prompt_ar": "أنا بسجل في الكورس علشان أتعلم ألماني.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "anmelden + um zu"
+    },
+    {
+      "id": "2026-10-06-S02-E19",
+      "prompt_ar": "أنا بضيّع المفتاح وبعد كدا بدور عليه.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "verlieren + ihn + suchen"
+    },
+    {
+      "id": "2026-10-06-S02-E20",
+      "prompt_ar": "بعد الشغل، أنا بلغي الموعد لأن عندي شغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "history_wide_unresolved_review",
+      "target": "absagen + V2 + weil"
+    },
     {
       "id": "2026-10-06-S01-E21",
       "prompt_ar": "أنا باخد جواز السفر معايا للموعد.",
@@ -6554,7 +6654,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-06",
   "latest_study_state": "active_targeted_review",
-  "next_suggested_action": "Continue history-wide unresolved review with a different cross-history mix.",
+  "next_suggested_action": "Answer 2026-10-06-S02-E11 through E20 independently.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
