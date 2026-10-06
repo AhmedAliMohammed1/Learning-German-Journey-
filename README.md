@@ -15,10 +15,10 @@
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **126 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| سجل المفردات | **129 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
 | آخر تاريخ مذاكرة | **2026-10-06** |
 | آخر نقطة | يوم 2026-10-06 **closed**؛ E01–E20 خلصوا وE21–E30 محفوظين للاستكمال |
-| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active لمراجعة كل العناصر غير المتقنة عبر التاريخ، مع الأخطاء الحالية |
+| ملف اليوم | **reopened**؛ Session 2026-10-06-S02 active؛ Batch 4 E31–E40 شغال |ned**؛ Session 2026-10-06-S02 active لمراجعة كل العناصر غير المتقنة عبر التاريخ، مع الأخطاء الحالية |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -120,3 +120,11 @@ Do not automatically start the pending Batch 5 E41–E50. Honor a study choice a
 When the learner chooses **Targeted review / مراجعة جزء معين**, offer a full-history unresolved option in addition to specific topic/range/recent review.
 
 The unresolved-review pool must include all material that is not strong/mastered across the whole saved history, including older verbs and weak/improving/needs_check mistake patterns. Selection should rotate across old and recent targets, prioritize weak/under-practiced/long-unseen items, embed real mistakes inside full sentences, and add useful new vocabulary. Do not equate newest material with weakest material.
+
+
+## Current review focus — S02 Batch 4
+
+- Active: **E31–E40**.
+- Higher-frequency targets now: **nach + Dativ**, verb-specific Akk/Dat, separable verb word order, **weil** final-verb order, and **anfangen ... an + zu**.
+- Reduced frequency after fresh success: nested Genitiv and **liegen/stellen/stehen**.
+- New vocabulary: **V129 die Verspätung (die Verspätungen)**.
