@@ -306,3 +306,16 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - M17: **um ... zu** structure itself was correct in E28.
 - M19: two fresh weil-clause errors in E29/E30; status returns to improving.
 - Current higher-frequency targets: temporal Dativ, verb-specific Akk/Dat, separable word order, and weil clauses.
+
+
+## Fresh live evidence — 2026-10-06 — S02 E31–E40
+
+- M14: E32 correct **sehen + Akk**; E36 correct **treffen + Akk**.
+- M15: E32 correct **ihm den Schlüssel**.
+- M18: E34 correct **anfangen ... an zu lesen**.
+- M22/M23: E35 correct Dativ with **antworten** and **danken**.
+- M17: E36 correct **um ... zu**.
+- M19: E33/E37 still need subject + final verb after **weil**; E40 had correct final-verb order.
+- M04: E38 correctly distinguished **kennen** vs **wissen**; negation placement was the remaining issue.
+- M03: E39 correctly used **deshalb + V2**.
+- Current higher-frequency target: **nicht** placement and complete weil clauses.
