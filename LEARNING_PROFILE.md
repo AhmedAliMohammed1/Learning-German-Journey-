@@ -79,3 +79,6 @@ This is an explicit learner preference and overrides older review-heavy defaults
 - Stable patterns should be sampled lightly. Improving/weak patterns should be woven into new-material exercises, not drilled in isolation for many consecutive batches.
 - Learn from dated evidence: repeated independent success lowers review frequency; repeated errors increase how often that pattern appears in future **new-material** exercises.
 - Preserve unfinished review batches as deferred work when the learner chooses progression; do not force them before new material and do not mark them completed.
+
+
+| 2026-10-06 | Explicit learner request | Review recent verbs that are not yet secure and embed the learner's current grammar/case mistakes inside those verb exercises, so verb memorization and error review happen together. |
