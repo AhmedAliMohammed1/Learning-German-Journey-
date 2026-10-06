@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**126 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**127 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -240,7 +240,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 126). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 127). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
