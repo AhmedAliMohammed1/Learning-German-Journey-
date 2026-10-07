@@ -206,3 +206,19 @@ Recorded on 2026-10-05, Session 2026-10-05-S01.
 - Sentence-level repairs were mainly articles, case, prepositions, or an omitted object.
 - Group status is **practicing**, not mastered.
 - Priority retests: **jemandem etwas zurückgeben**, **meinen Reisepass zum Termin mitbringen**, and **den Termin absagen**, plus article/case accuracy around the batch.
+
+
+## Final batch 91–100 — 2026-10-07
+
+91. ankommen — يصل
+92. einsteigen — يركب / يصعد وسيلة مواصلات
+93. aussteigen — ينزل من وسيلة مواصلات
+94. umsteigen — يغيّر / يبدّل وسيلة مواصلات
+95. einladen — يدعو
+96. teilnehmen — يشارك / يحضر
+97. mitnehmen — يأخذ معه
+98. abgeben — يسلّم / يقدّم شيئًا
+99. einschalten — يشغّل جهازًا / النور
+100. ausschalten — يطفئ / يغلق جهازًا أو النور
+
+Introduced live after the 2026-10-07 diagnostic. Status: introduced; first practice is S01 E06–E15.
