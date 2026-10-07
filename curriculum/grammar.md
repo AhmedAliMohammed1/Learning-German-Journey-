@@ -19,7 +19,8 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | zu / nach and zum / zur | introduced | Destination vs temporal nach der Arbeit |
 | anfangen / aufhören + zu; um ... zu | improving | Sentence translation |
 | daran denken | introduced | an + Akk; daran substitution |
-| Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | **Active grammar focus** |
+| Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | Spaced maintenance while new grammar progresses |
+| Perfekt: haben/sein + Partizip II | introduced | **New active grammar topic (2026-10-07)** |
 
 ## Cases and pronouns
 
@@ -150,6 +151,54 @@ Noun forms encountered: **der Nachbar → den Nachbarn**; **der Name → den Nam
 - Ich denke daran.
 
 um ... zu here expresses purpose with the same subject. daran substitutes the an + thing/topic phrase.
+
+## New active topic — Perfekt (introduced 2026-10-07)
+
+**Perfekt** هو الماضي الأكثر استخدامًا في الكلام اليومي في الألماني.
+
+التركيب الأساسي:
+- **haben / sein** في مكان الفعل المصرف.
+- **Partizip II** في آخر الجملة.
+
+Examples:
+- **Ich habe gestern gearbeitet.** = أنا اشتغلت امبارح.
+- **Ich habe meinen Bruder angerufen.** = أنا اتصلت بأخويا.
+- **Ich bin nach München gefahren.** = أنا رحت ميونخ.
+- **Mein Bruder ist um acht Uhr angekommen.** = أخويا وصل الساعة تمانية.
+
+### Initial Partizip II patterns
+
+Regular verbs often use **ge- + stem + -t**:
+- machen → gemacht
+- lernen → gelernt
+- kaufen → gekauft
+- arbeiten → gearbeitet
+
+For many separable verbs, **ge** goes between prefix and verb stem:
+- anrufen → angerufen
+- einkaufen → eingekauft
+- ausfüllen → ausgefüllt
+- ankommen → angekommen
+
+Common irregular forms must be learned as forms:
+- fahren → gefahren
+- kommen → gekommen
+- gehen → gegangen
+- sehen → gesehen
+- schreiben → geschrieben
+
+### haben or sein?
+
+Start with this practical rule:
+- Most verbs use **haben**.
+- Many verbs that express movement/change of place use **sein**, especially familiar examples such as **gehen, kommen, fahren, ankommen**.
+
+The auxiliary is conjugated; the Partizip II stays at the end:
+- **Ich habe gestern gearbeitet.**
+- **Gestern habe ich gearbeitet.**
+- **Ich bin gestern nach München gefahren.**
+
+This is a new main grammar topic. Do not infer mastery from the explanation; first independent practice begins in **2026-10-07-S02-E01–E08**.
 
 ## Active topic — Genitiv (practicing)
 
