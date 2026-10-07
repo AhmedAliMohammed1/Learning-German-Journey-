@@ -1,11 +1,12 @@
 # Vocabulary register
 
-**131 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**134 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
 | ID | German (nouns with article) | Plural / reference form | Egyptian Arabic | Type | Status |
 | --- | --- | --- | --- | --- | --- |
+| V134 | gestern | — | امبارح | adverb_or_adjective | introduced |
 | V001 | die Antwort | die Antworten | الإجابة | noun | introduced |
 | V002 | das Handy | die Handys | الهاتف | noun | introduced |
 | V003 | die Nachricht | die Nachrichten | الرسالة | noun | introduced |
@@ -426,3 +427,14 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-07**
 - Source: **2026-10-07-S01, final numbered batch 91–100**
 - First learner attempts pending in **E14–E15**.
+
+
+### V134 — gestern
+
+- Relevant form: **gestern**
+- Egyptian Arabic: **امبارح**
+- Type: adverb
+- Natural example: **Ich habe gestern gearbeitet.**
+- Introduced on: **2026-10-07**
+- Source: **2026-10-07-S02, new grammar track — Perfekt**
+- First learner attempt pending in **S02 E01**.
