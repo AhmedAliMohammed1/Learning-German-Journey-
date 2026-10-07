@@ -37,6 +37,28 @@ Startup summary must come from the latest saved state, never a frozen example. I
 
 Offer all nine choices when no study choice was already provided. If the learner already selected a mode, honor it directly after loading state. "Show progress" and startup alone do not create a study session, reopen a closed day, or change mastery.
 
+### New-study-day track choice — explicit learner preference 2026-10-07
+
+When the learner selects **4. Start a new study day / نبدأ يوم مذاكرة جديد**, do **not** automatically default to new verbs and do not immediately create exercises. First offer exactly these two learning-track choices:
+
+1. **قاعدة جديدة — New grammar rule**
+2. **أفعال جديدة — New verbs**
+
+Opening this two-choice submenu is navigation/configuration only. It does not itself create a new study session, introduce material, increment counters, or replace preserved pending work. Start/open the day's study session when the learner chooses one of the two tracks and actual study begins.
+
+**If the learner chooses New grammar rule:**
+- Inspect curriculum/grammar.md, progress.json, dated evidence, and current mistake patterns.
+- Select a practical grammar topic that has **not already been taught as a main topic**. Do not relabel review of an old grammar weakness as a "new rule."
+- Explain it in simple Egyptian Arabic, show a few clear German examples, then practise it primarily with Arabic → German full sentences.
+- Mix familiar verbs/vocabulary with the new grammar, add useful vocabulary under the normal new-activity policy, and later recycle the rule in cumulative review.
+- Track the rule in curriculum/grammar.md and the normal evidence files once actually introduced.
+
+**If the learner chooses New verbs:**
+- Follow the normal verb-progression workflow: introduce an appropriate new verb batch, then practise it with old material and active grammar/mistake targets.
+- If the configured numbered-verb target has already been completed, do not silently raise that target or invent new numbered IDs. Treat further verbs as supplemental/extension vocabulary unless the learner explicitly chooses to extend the numbered target.
+
+This new-day track choice overrides any older wording that says a new study day automatically moves to new verbs after a short diagnostic. A short diagnostic may still be used **after** the learner chooses a track when it is genuinely useful for selecting difficulty, but it must not decide the track for them.
+
 ## 3. One date, one file
 
 Use **days/YYYY-MM-DD.md** only. Never create suffixes such as -2 or a second file for the same date.
