@@ -19,61 +19,91 @@
   "current_day": "2026-10-07",
   "latest_day": "2026-10-07",
   "day_status": "open",
-  "current_session_id": "2026-10-07-S01",
-  "sessions_recorded": 7,
+  "current_session_id": "2026-10-07-S02",
+  "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
-  "active_topic": "New study day: short progression diagnostic before selecting/introducing the final numbered batch 91–100.",
-  "next_action": "Learner answers 2026-10-07-S01-E01 through E05 independently; correct each answer, then progress to the final numbered batch if the diagnostic supports it.",
+  "active_topic": "Perfekt",
+  "next_action": "Learner answers 2026-10-07-S02-E01 through E08 independently; correct each sentence and continue Perfekt practice.",
   "pending_exercises": [
     {
-      "id": "2026-10-07-S01-E01",
-      "prompt_ar": "بعد الموعد، أنا بتصل بأخويا.",
+      "id": "2026-10-07-S02-E08",
+      "prompt_ar": "أنا قفلت الشباك امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_day_diagnostic",
-      "activity": "progression_diagnostic",
-      "target": "nach dem Termin + anrufen + V2/separable word order"
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + geschlossen + V134"
     },
     {
-      "id": "2026-10-07-S01-E02",
-      "prompt_ar": "أنا بحط المفتاح في شنطة الظهر قبل الشغل.",
+      "id": "2026-10-07-S02-E07",
+      "prompt_ar": "أنا جيت البيت الساعة سبعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_day_diagnostic",
-      "activity": "progression_diagnostic",
-      "target": "legen + in den Rucksack + vor der Arbeit"
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + gekommen"
     },
     {
-      "id": "2026-10-07-S01-E03",
-      "prompt_ar": "أنا ببعت لمديري الاستمارة لأنه محتاجها.",
+      "id": "2026-10-07-S02-E06",
+      "prompt_ar": "أخويا وصل الساعة تمانية.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_day_diagnostic",
-      "activity": "progression_diagnostic",
-      "target": "schicken Dat+Akk + complete weil clause"
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + angekommen"
     },
     {
-      "id": "2026-10-07-S01-E04",
-      "prompt_ar": "الشهر الجاي، أنا بنقل لبرلين.",
+      "id": "2026-10-07-S02-E05",
+      "prompt_ar": "أنا رحت ميونخ امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_day_diagnostic",
-      "activity": "progression_diagnostic",
-      "target": "nächsten Monat + nach Berlin umziehen"
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + gefahren + V134"
     },
     {
-      "id": "2026-10-07-S01-E05",
-      "prompt_ar": "أنا بستنى الأتوبيس عند موقف الأتوبيس.",
+      "id": "2026-10-07-S02-E04",
+      "prompt_ar": "أنا ملأت الاستمارة قبل الموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_day_diagnostic",
-      "activity": "progression_diagnostic",
-      "target": "warten auf + Akk + an der Haltestelle + V132"
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + ausgefüllt"
+    },
+    {
+      "id": "2026-10-07-S02-E03",
+      "prompt_ar": "أنا اتصلت بأخويا بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + angerufen"
+    },
+    {
+      "id": "2026-10-07-S02-E02",
+      "prompt_ar": "أنا اشتريت اللبن من السوبرماركت امبارح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + gekauft"
+    },
+    {
+      "id": "2026-10-07-S02-E01",
+      "prompt_ar": "أنا اشتغلت امبارح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_grammar",
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + gearbeitet + V134"
     },
     {
       "id": "2026-10-06-S02-E51",
@@ -614,6 +644,106 @@
       "learner_answer": null,
       "activity": "full_review",
       "priority": "active_review"
+    },
+    {
+      "id": "2026-10-07-S01-E06",
+      "prompt_ar": "القطر بيوصل المحطة الساعة تمانية.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "ankommen"
+    },
+    {
+      "id": "2026-10-07-S01-E07",
+      "prompt_ar": "أنا بركب الأتوبيس عند موقف الأتوبيس.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "einsteigen"
+    },
+    {
+      "id": "2026-10-07-S01-E08",
+      "prompt_ar": "أنا بنزل من الأتوبيس قدام الجامعة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "aussteigen"
+    },
+    {
+      "id": "2026-10-07-S01-E09",
+      "prompt_ar": "أنا بغيّر القطر في ميونخ.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "umsteigen"
+    },
+    {
+      "id": "2026-10-07-S01-E10",
+      "prompt_ar": "أنا بدعو صاحبي للأكل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "einladen"
+    },
+    {
+      "id": "2026-10-07-S01-E11",
+      "prompt_ar": "أنا بشارك في الكورس.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "teilnehmen"
+    },
+    {
+      "id": "2026-10-07-S01-E12",
+      "prompt_ar": "أنا باخد المظلة معايا لأن الجو بارد.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "mitnehmen"
+    },
+    {
+      "id": "2026-10-07-S01-E13",
+      "prompt_ar": "أنا بسلّم الاستمارة عند الشباك.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "abgeben"
+    },
+    {
+      "id": "2026-10-07-S01-E14",
+      "prompt_ar": "أنا بشغّل النور بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "einschalten + V133"
+    },
+    {
+      "id": "2026-10-07-S01-E15",
+      "prompt_ar": "أنا بطفي النور لأن أخويا نايم.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "paused_new_material",
+      "activity": "numbered_verbs_91_100",
+      "target": "ausschalten + V133"
     }
   ],
   "completed_exercise_ids": [
@@ -791,10 +921,15 @@
     "2026-10-06-S02-E47",
     "2026-10-06-S02-E48",
     "2026-10-06-S02-E49",
-    "2026-10-06-S02-E50"
+    "2026-10-06-S02-E50",
+    "2026-10-07-S01-E01",
+    "2026-10-07-S01-E02",
+    "2026-10-07-S01-E03",
+    "2026-10-07-S01-E04",
+    "2026-10-07-S01-E05"
   ],
   "verbs": {
-    "introduced_total": 90,
+    "introduced_total": 100,
     "mastered_total": null,
     "groups": [
       {
@@ -850,6 +985,17 @@
         "assessment_basis": "all ten verbs received first independent practice on 2026-10-05; sentence-level article/case errors remain",
         "historical_review_count": null,
         "last_reviewed": "2026-10-05"
+      },
+      {
+        "from": 91,
+        "to": 100,
+        "count": 10,
+        "status": "introduced",
+        "recency": "new",
+        "introduced_on": "2026-10-07",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "historical_review_count": null,
+        "last_reviewed": null
       }
     ],
     "items": [
@@ -3147,6 +3293,196 @@
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "separable",
         "entry_kind": "infinitive"
+      },
+      {
+        "id": 91,
+        "infinitive": "ankommen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يصل",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable; Perfekt commonly ist angekommen",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 92,
+        "infinitive": "einsteigen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يركب / يصعد وسيلة مواصلات",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 93,
+        "infinitive": "aussteigen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "ينزل من وسيلة مواصلات",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 94,
+        "infinitive": "umsteigen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يغيّر / يبدّل وسيلة مواصلات",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 95,
+        "infinitive": "einladen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يدعو",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 96,
+        "infinitive": "teilnehmen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يشارك / يحضر",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 97,
+        "infinitive": "mitnehmen",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يأخذ معه",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 98,
+        "infinitive": "abgeben",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يسلّم / يقدّم شيئًا",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 99,
+        "infinitive": "einschalten",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يشغّل جهازًا / النور",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
+      },
+      {
+        "id": 100,
+        "infinitive": "ausschalten",
+        "identity_status": "course_selected",
+        "introduced": true,
+        "introduction_date": "2026-10-07",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يطفئ / يغلق جهازًا أو النور",
+        "review_status": "introduced",
+        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "usage_note": "separable",
+        "entry_kind": "infinitive"
       }
     ],
     "named_verbs_without_confirmed_id": [],
@@ -3161,7 +3497,7 @@
     ]
   },
   "grammar": {
-    "active": "genitiv_in_der_naehe",
+    "active": "perfekt",
     "topics": [
       {
         "id": "cases_and_pronouns",
@@ -3298,6 +3634,23 @@
           "genitiv_adjective_endings"
         ],
         "alternative": "in der Nähe von + Dativ"
+      },
+      {
+        "id": "perfekt",
+        "title": "Perfekt: haben/sein + Partizip II",
+        "status": "introduced",
+        "source": "2026-10-07-S02 new grammar track",
+        "introduced_on": "2026-10-07",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "subtopics": [
+          "auxiliary_haben_sein",
+          "partizip_ii",
+          "regular_participles",
+          "separable_participles",
+          "common_movement_verbs"
+        ]
       }
     ],
     "studied_verb_patterns": [
@@ -3331,7 +3684,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 132,
+    "registered_entries_count": 134,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5568,6 +5921,36 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V133",
+        "german": "das Licht",
+        "meaning_ar": "النور / الضوء",
+        "type": "noun",
+        "article": "das",
+        "plural": "die Lichter",
+        "status": "introduced",
+        "introduced_on": "2026-10-07",
+        "last_reviewed": null,
+        "source": "2026-10-07-S01 final numbered batch",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V134",
+        "german": "gestern",
+        "meaning_ar": "امبارح",
+        "type": "adverb_or_adjective",
+        "article": null,
+        "plural": null,
+        "status": "introduced",
+        "introduced_on": "2026-10-07",
+        "last_reviewed": null,
+        "source": "2026-10-07-S02 new grammar track — Perfekt",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -7056,13 +7439,13 @@
     }
   },
   "numbered_verbs_target": 100,
-  "numbered_verbs_introduced": 90,
+  "numbered_verbs_introduced": 100,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S01-E01 through E05 independently; correct each answer, then progress to the final numbered batch if the diagnostic supports it.",
-  "active_grammar": "Genitiv",
+  "next_suggested_action": "Learner answers 2026-10-07-S02-E01 through E08 independently; correct each sentence and continue Perfekt practice.",
+  "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
   "backfilled_study_dates": [
@@ -9724,5 +10107,6 @@
   "feature_config_updated_on": "2026-10-06",
   "verbs_61_70_status": "practicing",
   "verbs_71_80_status": "practicing",
-  "verbs_81_90_status": "practicing"
+  "verbs_81_90_status": "practicing",
+  "verbs_91_100_status": "introduced"
 }
