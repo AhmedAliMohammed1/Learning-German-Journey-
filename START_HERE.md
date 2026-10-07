@@ -115,7 +115,7 @@ These are additional choices inside main-menu **1 Full review** and **2 Targeted
 2. **كل الكلمات — عربي → ألماني**: recall every deduplicated introduced entry in the vocabulary register through the latest batch, regardless of status.
 3. **مراجعة بالجمل والقواعد**: the existing cumulative Arabic-to-German full-sentence review.
 
-The full pools currently contain numbered IDs **1–90** and vocabulary IDs **V001–V129**. These are examples from the current snapshot, not frozen limits: rebuild from the live inventory whenever a recall activity begins. Do not include unintroduced numbered verbs 91–100 or invented words. Registered expressions/proper names/supplemental entries are included in vocabulary as their existing types; supplemental verbs do not increase the numbered total.
+The full pools currently contain numbered IDs **1–100** and vocabulary IDs **V001–V134**. These are examples from the current snapshot, not frozen limits: rebuild from the live inventory whenever a recall activity begins. Do not include unintroduced numbered verbs 91–100 or invented words. Registered expressions/proper names/supplemental entries are included in vocabulary as their existing types; supplemental verbs do not increase the numbered total.
 
 **Targeted review / مراجعة جزء معين** keeps subchoices 1–4 above and adds:
 5. **الأفعال اللي لسه تحت التدريب أو جديدة — عربي → ألماني**.
@@ -134,6 +134,32 @@ Targeted recall draws from the whole history, not only the latest batch: include
 - Tag item evidence **isolated_recall**. It can support lexical-recall evidence but does not prove contextual use, grammatical mastery, pronunciation, listening, or fluency. Keep the four skill-mode records unchanged unless suitable actual mode-specific practice occurs.
 
 **Explicit scope exception:** These isolated recall choices review already introduced material only. They do not require full sentences, embedded grammar, or new vocabulary per round. The existing new-vocabulary/full-sentence requirements still apply to sentence review and other new activities. No count, mastery status, session, attempt, or retest is created merely by adding these menu choices.
+
+### Present + Perfekt verb policy — explicit learner preference 2026-10-07
+
+This policy applies to all future verb teaching and verb review.
+
+- When a **new verb** is introduced, teach and store it with:
+  1. infinitive + Egyptian Arabic meaning,
+  2. a useful **Präsens** reference form/sentence; include important irregular du/er forms when relevant,
+  3. its **Perfekt** form as auxiliary **haben/sein + Partizip II**,
+  4. separable/case/preposition notes when relevant.
+- Unless the learner explicitly asks for another past tense, **"past" means Perfekt** in this learning system.
+- Example format: **gehen — ich gehe / er geht — ist gegangen**; **anrufen — ich rufe ... an — hat angerufen**.
+- The numbered target remains unchanged. Since 100 / 100 numbered verbs are already introduced, any future extra verbs are supplemental/extension verbs unless the learner explicitly extends the numbered target; the same Präsens + Perfekt teaching format still applies.
+- Do not retroactively claim that an older verb's Perfekt form was already mastered merely because its Präsens/infinitive is strong. Backfill/store Perfekt reference forms as they are taught or reviewed.
+- Track evidence separately for at least **present/context use** and **Perfekt use/form**. Success in one tense does not automatically prove the other.
+
+**Full review and Targeted review**
+- Verb review must no longer be present-only. Include exercises using introduced verbs in both **Präsens** and **Perfekt**.
+- In full-sentence review batches, mix present and Perfekt sentences naturally; use evidence to weight the weaker tense rather than enforcing a fixed ratio.
+- **Full review** of verbs covers both tense dimensions across the introduced verb inventory. Short rounds are allowed, but do not call tense coverage complete while eligible verbs remain untested in the required dimension.
+- **Targeted review** treats tense as item-level evidence: a verb can be secure in Präsens but still eligible because its Perfekt is new/weak/unassessed, and vice versa.
+- In isolated Arabic → German verb recall, specify the requested form before the learner answers. For Präsens recall, ask for the infinitive/registered present form as appropriate. For Perfekt recall, ask for the full reference form **haben/sein + Partizip II** (for example **ist gegangen**, **hat angerufen**), not only the participle.
+- Record present-recall/present-context evidence separately from Perfekt-form/Perfekt-context evidence. A correct isolated Perfekt form does not by itself prove full sentence grammar, and a correct present lemma does not prove Perfekt recall.
+- Existing vocabulary-only recall behavior is unchanged.
+
+This preference update is configuration only: it creates no exercise attempt, mastery change, new session, or automatic completion of prior work. Preserve the current **2026-10-07-S02-E41–E48** continuation exactly.
 
 ## 4. Teaching workflow
 
