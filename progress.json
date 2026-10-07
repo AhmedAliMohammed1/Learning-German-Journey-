@@ -6073,7 +6073,13 @@
       "preserve_pending_work_on_switch": true,
       "evidence_kind": "isolated_recall",
       "does_not_prove_contextual_or_oral_mastery": true,
-      "requested_on": "2026-10-06"
+      "requested_on": "2026-10-06",
+      "verb_tense_scope": [
+        "Praesens",
+        "Perfekt"
+      ],
+      "perfekt_answer_format": "haben/sein + Partizip II",
+      "track_tense_coverage_separately": true
     },
     "preference_change_log": [
       {
@@ -6084,8 +6090,50 @@
         "learner_wording": "يعني تديني الفعل ب العربي وانا اقولو ب الالماني؛ ونفس الكلام في الكلمات؛ اذا كانت انا متقنها ولا لا",
         "change": "Additional isolated Arabic-to-German recall choices: all-history unresolved/new/practicing verbs and vocabulary in Targeted review; all introduced verbs and registered vocabulary through the latest batch regardless of mastery in Full review.",
         "study_activity_created": false
+      },
+      {
+        "id": "2026-10-07-PREF-PRESENT-PERFEKT-VERBS",
+        "date": "2026-10-07",
+        "timestamp": null,
+        "source": "explicit_learner_request",
+        "learner_wording": "اما تيجي تحط افعال جديده تحطها بقا في صيغة الحاضر و الماضي وتعمل في المراجعه تدريبات علي الافعال في صيغة الماضي بنفس الطريقه ... اذا كان في مراجعه شامله او مراجعة جزء معين",
+        "change": "Teach/store new verbs with Präsens + Perfekt and include tense-specific Perfekt practice in Full and Targeted verb review.",
+        "study_activity_created": false
       }
-    ]
+    ],
+    "verb_tense_policy": {
+      "requested_on": "2026-10-07",
+      "past_default": "Perfekt",
+      "new_verb_introduction": {
+        "include_infinitive_and_meaning": true,
+        "include_praesens_reference": true,
+        "include_irregular_present_forms_when_relevant": true,
+        "include_perfekt_reference": true,
+        "perfekt_format": "auxiliary_haben_or_sein + Partizip_II",
+        "include_usage_notes": true
+      },
+      "review": {
+        "full_review_includes": [
+          "Praesens",
+          "Perfekt"
+        ],
+        "targeted_review_includes": [
+          "Praesens",
+          "Perfekt"
+        ],
+        "present_and_perfekt_evidence_separate": true,
+        "tense_weighting": "adaptive_to_evidence",
+        "present_success_does_not_imply_perfekt_success": true,
+        "perfekt_success_does_not_imply_present_context_mastery": true
+      },
+      "isolated_verb_recall": {
+        "tense_must_be_named_in_prompt": true,
+        "present_answer": "infinitive_or_registered_present_reference",
+        "perfekt_answer": "full_auxiliary_plus_participle",
+        "evidence_separate_by_tense": true
+      },
+      "numbered_target_change": false
+    }
   },
   "mistake_patterns": [
     {
@@ -7429,7 +7477,12 @@
           "id": "recall_all_verbs",
           "label_ar": "كل الأفعال — عربي → ألماني",
           "activity": "isolated_verb_recall",
-          "scope": "all_introduced"
+          "scope": "all_introduced",
+          "tense_scope": [
+            "Praesens",
+            "Perfekt"
+          ],
+          "completion_requires_tense_coverage": true
         },
         {
           "id": "recall_all_vocabulary",
@@ -7466,7 +7519,12 @@
           "id": "recall_unresolved_verbs",
           "label_ar": "الأفعال اللي لسه تحت التدريب أو جديدة — عربي → ألماني",
           "activity": "isolated_verb_recall",
-          "scope": "all_history_unresolved"
+          "scope": "all_history_unresolved",
+          "tense_scope": [
+            "Praesens",
+            "Perfekt"
+          ],
+          "tense_specific_eligibility": true
         },
         {
           "id": "recall_unresolved_vocabulary",
@@ -10333,9 +10391,18 @@
       "valid_alternatives": "accept semantic alternatives; do not claim target-specific recall unless target was produced",
       "new_material_policy": "already_introduced_only; retain_new_vocabulary_requirement_for_sentence_review",
       "activity_created_by_this_update": false
+    },
+    "verb_tense_review_policy": {
+      "requested_on": "2026-10-07",
+      "past_default": "Perfekt",
+      "sentence_reviews": "mix Präsens and Perfekt naturally; weight weaker tense from evidence",
+      "full_review": "cover both tense dimensions across eligible introduced verbs",
+      "targeted_review": "keep a verb eligible when either present or Perfekt dimension is unresolved",
+      "isolated_recall": "prompt the tense explicitly and score present vs Perfekt separately",
+      "no_retroactive_mastery": true
     }
   },
-  "feature_config_updated_on": "2026-10-06",
+  "feature_config_updated_on": "2026-10-07",
   "verbs_61_70_status": "practicing",
   "verbs_71_80_status": "practicing",
   "verbs_81_90_status": "practicing",
