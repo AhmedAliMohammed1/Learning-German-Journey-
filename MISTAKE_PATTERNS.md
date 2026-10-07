@@ -331,3 +331,19 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - M03: E47 **deshalb + V2** correct.
 - M02/M08: E49 needs masculine possessive **seinen Namen**.
 - Current higher-frequency targets: destination/location case, possessives, complete weil clauses, and article/case around feminine Dativ.
+
+
+### M31 — einsteigen / aussteigen with transport
+- Status: improving.
+- Pattern:
+  - **in + Akk + einsteigen**: in den Zug / in den Bus einsteigen.
+  - **aus + Dat + aussteigen**: aus dem Zug / aus dem Bus aussteigen.
+  - In Perfekt, both normally use **sein** in these movement uses.
+- Evidence:
+  - 2026-10-07 S02 E19: auxiliary correct, but **in + Akk** omitted.
+  - E20: auxiliary correct; **vom Zug** used instead of **aus dem Zug**.
+  - E26: wrong auxiliary and missing **in + Akk**.
+  - E27: **aus dem Bus** correct, auxiliary still wrong.
+  - E33: auxiliary improved to **bin**, but **in + Akk** still omitted.
+  - E34: **bin ... aus dem Zug ausgestiegen** correct.
+- Next action: retest both directions in fresh bus/train sentences; reduce frequency after repeated independent success.
