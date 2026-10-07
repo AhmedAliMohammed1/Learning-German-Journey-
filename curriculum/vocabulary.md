@@ -245,7 +245,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 132). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 133). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
@@ -305,7 +305,7 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Natural example: **Ich lege den Ausweis in den Rucksack.**
 - Introduced on: **2026-10-05**
 - Source: **2026-10-05-S01, new-day diagnostic**
-- First learner attempt pending in **E05**.
+- Learner attempt on 2026-10-07 E05: **Haltestelle** recalled independently; prefer **an der Haltestelle** for the requested meaning. Status: practicing.
 
 
 ### V122 — der Reisepass
@@ -416,3 +416,13 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-07**
 - Source: **2026-10-07-S01, new-day progression diagnostic**
 - First learner attempt pending in **E05**.
+
+
+### V133 — das Licht
+
+- Article / plural: **das Licht — die Lichter**
+- Egyptian Arabic: **النور / الضوء**
+- Natural example: **Ich schalte das Licht ein.**
+- Introduced on: **2026-10-07**
+- Source: **2026-10-07-S01, final numbered batch 91–100**
+- First learner attempts pending in **E14–E15**.
