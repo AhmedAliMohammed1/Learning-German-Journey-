@@ -1,11 +1,13 @@
-# Verb curriculum — 80 / 100
+# Verb curriculum — 100 / 100
 
-**Numbered target: 100. Introduced: 80.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
+**Numbered target: 100. Introduced: 100.** The exact sequence below was supplied by the learner during the 2026-10-03 backfill.
 
 - **1–50:** reviewed multiple times, generally retained; group baseline **strong**, with ongoing cumulative practice and individual weak patterns still tracked.
 - **51–60:** introduced on 2026-10-03, recent and **practicing**.
 - **61–70:** introduced on 2026-10-03 under the progression-first policy; currently **practicing**.
-- **71–80:** newly introduced on 2026-10-03; currently **introduced / beginning practice**.
+- **71–80:** practicing.
+- **81–90:** practicing after first independent practice on 2026-10-05.
+- **91–100:** introduced on 2026-10-07; Perfekt/current-form practice is underway in the active grammar session.
 - Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
 | ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
@@ -100,6 +102,16 @@
 | 88 | mitbringen | يحضر معه | practicing | separable; Ich bringe meinen Reisepass mit. |
 | 89 | vereinbaren | يحدد / يتفق على موعد | practicing | + Akk; einen Termin vereinbaren. |
 | 90 | absagen | يلغي موعدًا | practicing | separable; Ich sage den Termin ab. |
+| 91 | ankommen | يصل | practicing | separable; Präsens: ich komme an; Perfekt: **ist angekommen** |
+| 92 | einsteigen | يركب / يصعد وسيلة مواصلات | practicing | separable; Präsens: ich steige ein; Perfekt: **ist eingestiegen**; in + Akk |
+| 93 | aussteigen | ينزل من وسيلة مواصلات | practicing | separable; Präsens: ich steige aus; Perfekt: **ist ausgestiegen**; aus + Dat |
+| 94 | umsteigen | يغيّر / يبدّل وسيلة مواصلات | introduced | separable; Präsens: ich steige um; Perfekt: **ist umgestiegen** |
+| 95 | einladen | يدعو | introduced | separable; Präsens: ich lade ein; Perfekt: **hat eingeladen** |
+| 96 | teilnehmen | يشارك / يحضر | introduced | separable; Präsens: ich nehme teil; Perfekt: **hat teilgenommen** |
+| 97 | mitnehmen | يأخذ معه | practicing | separable; Präsens: ich nehme mit; Perfekt: **hat mitgenommen** |
+| 98 | abgeben | يسلّم / يقدّم شيئًا | practicing | separable; Präsens: ich gebe ab; Perfekt: **hat abgegeben** |
+| 99 | einschalten | يشغّل جهازًا / النور | practicing | separable; Präsens: ich schalte ein; Perfekt: **hat eingeschaltet** |
+| 100 | ausschalten | يطفئ / يغلق جهازًا أو النور | practicing | separable; Präsens: ich schalte aus; Perfekt: **hat ausgeschaltet** |
 
 ## Counting and identity rules
 
@@ -123,7 +135,7 @@ These are historical practiced examples, not reconstructed independent attempts 
 
 ## Future updates
 
-Introduce numbered verbs in batches of **10** using the progression-first policy: at most a short diagnostic when needed, then advance. After introduction, practice should be roughly 70% new-verb-centered and 30% embedded review. Numbered verbs **81–90** are now practicing after their first independent batch on 2026-10-05. Verbs 71–80 remain practicing.
+The numbered target **100 / 100** is complete. Future extra verbs are supplemental/extension verbs unless the learner explicitly extends the numbered target. Use the progression-first policy for new supplemental verb sets and preserve old material in mixed review.
 
 For each actual attempt, save date, session/exercise IDs, hints, errors, and independent correct uses. Update study status among introduced/practicing/improving/strong from evidence. The group baseline never cancels specific weaknesses, especially dürfen and sitzen/setzen. Keep mastery separate.
 
@@ -222,3 +234,21 @@ Recorded on 2026-10-05, Session 2026-10-05-S01.
 100. ausschalten — يطفئ / يغلق جهازًا أو النور
 
 Introduced live after the 2026-10-07 diagnostic. Status: introduced; first practice is S01 E06–E15.
+
+
+## Präsens + Perfekt verb format — preference 2026-10-07
+
+For every verb introduced from this preference onward, store and teach:
+- infinitive + Egyptian Arabic meaning,
+- a useful **Präsens** reference (normally ich-form/example; include important irregular du/er forms when relevant),
+- **Perfekt auxiliary + Partizip II**,
+- separability, governed case/preposition, or other essential usage notes.
+
+Default meaning of "past" is **Perfekt** unless the learner explicitly requests another past tense.
+
+Review evidence is tense-specific:
+- present/lemma or present-context success,
+- Perfekt-form recall,
+- Perfekt full-sentence/context success.
+
+Do not infer Perfekt mastery from an old strong present baseline. Full and Targeted verb review must include both Präsens and Perfekt; targeted review may keep a verb eligible because only its Perfekt dimension is unresolved. Existing older verbs can have their Perfekt reference progressively backfilled when actually taught/reviewed rather than fabricating historical mastery.
