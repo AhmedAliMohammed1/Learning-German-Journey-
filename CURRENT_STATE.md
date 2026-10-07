@@ -469,3 +469,12 @@ Explicit learner preference:
 - Isolated verb recall may explicitly ask for the Perfekt reference form and expects the full **auxiliary + participle**.
 - Numbered target stays **100 / 100**; future extra verbs remain supplemental unless the learner explicitly extends the target.
 - This was a preference/configuration update only. Active study continuation remains **2026-10-07-S02-E41–E48**.
+
+
+## 2026-10-07 Perfekt E41-E48 checkpoint
+
+- Session **2026-10-07-S02** remains active; Perfekt practice completed through **E48**.
+- Strong: **zur Hochschule gekommen**, **Reisepass zum Termin mitgenommen**, **Buch mitgebracht** (word order only).
+- Current high-priority repair: **M31 — einsteigen in + Akk / aussteigen aus + Dat**.
+- Additional current targets: **zum Essen einladen**, **am Kurs teilnehmen**, **am Schalter abgeben**.
+- Active continuation: **S02 E49–E56**.
