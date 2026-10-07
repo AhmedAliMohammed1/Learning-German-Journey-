@@ -20,7 +20,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | anfangen / aufhören + zu; um ... zu | improving | Sentence translation |
 | daran denken | introduced | an + Akk; daran substitution |
 | Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | Spaced maintenance while new grammar progresses |
-| Perfekt: haben/sein + Partizip II | introduced | **New active grammar topic (2026-10-07)** |
+| Perfekt: haben/sein + Partizip II | practicing | **Active grammar topic (2026-10-07)** |
 
 ## Cases and pronouns
 
@@ -390,3 +390,11 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - **um ... zu** correct.
 - **deshalb + V2** correct.
 - Masculine possessive: **sein Name -> seinen Namen** in Akkusativ.
+
+
+## Perfekt live checkpoint — S02 E01–E16
+
+- Status: practicing.
+- Learner generally controls auxiliary placement and final Partizip II.
+- Strong forms include gearbeitet, gekauft, angerufen, ausgefüllt, angekommen, gegangen, gesehen, geschrieben, geschlossen, gespielt.
+- Current repairs: movement verbs with sein, nach Hause for destination, irregular participles, and article/preposition accuracy.
