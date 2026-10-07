@@ -23,7 +23,7 @@
   "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "Perfekt",
-  "next_action": "Learner answers 2026-10-07-S02-E25 through E32 independently.",
+  "next_action": "Learner answers 2026-10-07-S02-E33 through E40 independently; retest sein with einsteigen/aussteigen, zur Universität, mitnehmen/mitbringen, and Perfekt retention.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -666,76 +666,84 @@
       "target": "ausschalten + V133"
     },
     {
-      "id": "2026-10-07-S02-E25",
-      "prompt_ar": "أنا روحت الجامعة امبارح.",
+      "id": "2026-10-07-S02-E33",
+      "prompt_ar": "أنا ركبت القطر في ميونخ.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + in den Zug eingestiegen"
     },
     {
-      "id": "2026-10-07-S02-E26",
-      "prompt_ar": "أنا ركبت الأتوبيس عند الموقف.",
+      "id": "2026-10-07-S02-E34",
+      "prompt_ar": "أنا نزلت من القطر عند المحطة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + aus dem Zug ausgestiegen + am Bahnhof"
     },
     {
-      "id": "2026-10-07-S02-E27",
-      "prompt_ar": "أنا نزلت من الأتوبيس قدام الجامعة.",
+      "id": "2026-10-07-S02-E35",
+      "prompt_ar": "أنا جيت الجامعة الساعة تسعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt sein + zur Universität gekommen"
     },
     {
-      "id": "2026-10-07-S02-E28",
-      "prompt_ar": "أنا أخدت شنطة الظهر معايا للشغل.",
+      "id": "2026-10-07-S02-E36",
+      "prompt_ar": "أنا أخدت جواز السفر معايا للموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + Reisepass mitgenommen + zum Termin"
     },
     {
-      "id": "2026-10-07-S02-E29",
-      "prompt_ar": "صاحبي جاب معاه كتاب.",
+      "id": "2026-10-07-S02-E37",
+      "prompt_ar": "أختي جابت معاها المظلة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + Regenschirm mitgebracht"
     },
     {
-      "id": "2026-10-07-S02-E30",
-      "prompt_ar": "أنا طفيت النور قبل النوم.",
+      "id": "2026-10-07-S02-E38",
+      "prompt_ar": "أنا قفلت الشباك بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + geschlossen + nach der Arbeit"
     },
     {
-      "id": "2026-10-07-S02-E31",
-      "prompt_ar": "أنا شفت المدرس في المحطة امبارح.",
+      "id": "2026-10-07-S02-E39",
+      "prompt_ar": "أنا شفت صاحبي عند المحطة امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt haben + gesehen + am Bahnhof + gestern"
     },
     {
-      "id": "2026-10-07-S02-E32",
-      "prompt_ar": "أنا كتبت الرسالة بعد الشغل.",
+      "id": "2026-10-07-S02-E40",
+      "prompt_ar": "أنا كتبت الاستمارة؟ لا، أنا ملّيتها.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "activity": "perfekt_initial_practice",
+      "target": "Perfekt contrast schreiben vs ausfüllen"
     }
   ],
   "completed_exercise_ids": [
@@ -934,7 +942,15 @@
     "2026-10-07-S02-E13",
     "2026-10-07-S02-E14",
     "2026-10-07-S02-E15",
-    "2026-10-07-S02-E16"
+    "2026-10-07-S02-E16",
+    "2026-10-07-S02-E25",
+    "2026-10-07-S02-E26",
+    "2026-10-07-S02-E27",
+    "2026-10-07-S02-E28",
+    "2026-10-07-S02-E29",
+    "2026-10-07-S02-E30",
+    "2026-10-07-S02-E31",
+    "2026-10-07-S02-E32"
   ],
   "verbs": {
     "introduced_total": 100,
@@ -3649,7 +3665,7 @@
         "status": "practicing",
         "source": "2026-10-07-S02 new grammar track",
         "introduced_on": "2026-10-07",
-        "recorded_attempts": 16,
+        "recorded_attempts": 32,
         "independent_correct": 10,
         "evidence": [
           {
@@ -3658,6 +3674,13 @@
             "exercise_range": "2026-10-07-S02-E01-E16",
             "independent": true,
             "note": "Perfekt structure generally understood. Main repairs: movement auxiliaries, irregular participles, nach Hause, and article/preposition details."
+          },
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "exercise_range": "2026-10-07-S02-E25-E32",
+            "independent": true,
+            "note": "Perfekt participles mostly retained. Main repair remains sein with einsteigen/aussteigen and destination/location prepositions."
           }
         ],
         "subtopics": [
@@ -7460,7 +7483,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S02-E25 through E32 independently.",
+  "next_suggested_action": "Learner answers 2026-10-07-S02-E33 through E40 independently; retest sein with einsteigen/aussteigen, zur Universität, mitnehmen/mitbringen, and Perfekt retention.",
   "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -9816,6 +9839,102 @@
       "hint_used": false,
       "independent": true,
       "note": "haben + gespielt and mit + Dativ correct."
+    },
+    {
+      "id": "2026-10-07-S02-E25",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich bin gester zum Hochschule gegangen",
+      "correction": "Ich bin gestern zur Hochschule gegangen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "gehen Perfekt correct; gestern spelling; die Hochschule -> zur Hochschule."
+    },
+    {
+      "id": "2026-10-07-S02-E26",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe den Bus am Haltestelle eingestiegen",
+      "correction": "Ich bin an der Haltestelle in den Bus eingestiegen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "einsteigen uses sein; an der Haltestelle; in + Akk -> in den Bus."
+    },
+    {
+      "id": "2026-10-07-S02-E27",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe vor der Hochschule aus dem Bus ausgestiegen",
+      "correction": "Ich bin vor der Hochschule aus dem Bus ausgestiegen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "aussteigen uses sein; aus dem Bus and vor der Hochschule were correct."
+    },
+    {
+      "id": "2026-10-07-S02-E28",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe zur Arbeit den Rucksack mitgenommen",
+      "correction": "Ich habe den Rucksack zur Arbeit mitgenommen.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Grammatically acceptable; more natural word order puts den Rucksack before zur Arbeit."
+    },
+    {
+      "id": "2026-10-07-S02-E29",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Mein Freund hat das Buch mitgebracht",
+      "correction": "Mein Freund hat ein Buch mitgebracht.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "mitgebracht is correct; prompt meant a book, so ein Buch matches better."
+    },
+    {
+      "id": "2026-10-07-S02-E30",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe vor dem Schlafengehen das Licht ausgeschaltet",
+      "correction": "Ich habe vor dem Schlafengehen das Licht ausgeschaltet.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Fully correct."
+    },
+    {
+      "id": "2026-10-07-S02-E31",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe im Bahnhof den Lehrer gesehen",
+      "correction": "Ich habe gestern den Lehrer im Bahnhof gesehen.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "gesehen correct; add gestern to match prompt. im Bahnhof means inside the station; am Bahnhof is also natural for at the station."
+    },
+    {
+      "id": "2026-10-07-S02-E32",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T14:52:00+02:00",
+      "learner_answer": "Ich habe nach der Arbeit eine Nachricht geschrieben",
+      "correction": "Ich habe nach der Arbeit die Nachricht geschrieben.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Perfekt correct; die Nachricht matches the definite prompt."
     }
   ],
   "skill_tracking": {
