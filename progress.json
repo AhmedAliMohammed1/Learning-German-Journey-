@@ -23,87 +23,87 @@
   "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "Perfekt",
-  "next_action": "Learner answers 2026-10-07-S02-E01 through E08 independently; correct each sentence and continue Perfekt practice.",
+  "next_action": "Learner answers 2026-10-07-S02-E17 through E24 independently; continue Perfekt with haben/sein contrast, irregular participles, and destination phrases.",
   "pending_exercises": [
     {
-      "id": "2026-10-07-S02-E08",
-      "prompt_ar": "أنا قفلت الشباك امبارح.",
+      "id": "2026-10-07-S02-E24",
+      "prompt_ar": "أنا طفيت النور قبل النوم.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + geschlossen + V134"
+      "target": "Perfekt haben + ausgeschaltet"
     },
     {
-      "id": "2026-10-07-S02-E07",
-      "prompt_ar": "أنا جيت البيت الساعة سبعة.",
+      "id": "2026-10-07-S02-E23",
+      "prompt_ar": "أنا شغّلت النور بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + gekommen"
+      "target": "Perfekt haben + eingeschaltet"
     },
     {
-      "id": "2026-10-07-S02-E06",
-      "prompt_ar": "أخويا وصل الساعة تمانية.",
+      "id": "2026-10-07-S02-E22",
+      "prompt_ar": "أنا سلّمت الاستمارة عند الشباك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + angekommen"
+      "target": "Perfekt haben + abgegeben + am Schalter"
     },
     {
-      "id": "2026-10-07-S02-E05",
-      "prompt_ar": "أنا رحت ميونخ امبارح.",
+      "id": "2026-10-07-S02-E21",
+      "prompt_ar": "أنا أخدت المظلة معايا.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + gefahren + V134"
+      "target": "Perfekt haben + mitgenommen"
     },
     {
-      "id": "2026-10-07-S02-E04",
-      "prompt_ar": "أنا ملأت الاستمارة قبل الموعد.",
+      "id": "2026-10-07-S02-E20",
+      "prompt_ar": "أنا نزلت من القطر في ميونخ.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + ausgefüllt"
+      "target": "Perfekt sein + ausgestiegen"
     },
     {
-      "id": "2026-10-07-S02-E03",
-      "prompt_ar": "أنا اتصلت بأخويا بعد الشغل.",
+      "id": "2026-10-07-S02-E19",
+      "prompt_ar": "أنا ركبت القطر الساعة سبعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + angerufen"
+      "target": "Perfekt sein + eingestiegen"
     },
     {
-      "id": "2026-10-07-S02-E02",
-      "prompt_ar": "أنا اشتريت اللبن من السوبرماركت امبارح.",
+      "id": "2026-10-07-S02-E18",
+      "prompt_ar": "أنا قريت الكتاب امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + gekauft"
+      "target": "Perfekt haben + gelesen"
     },
     {
-      "id": "2026-10-07-S02-E01",
-      "prompt_ar": "أنا اشتغلت امبارح.",
+      "id": "2026-10-07-S02-E17",
+      "prompt_ar": "أنا روحت الشغل امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
       "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + gearbeitet + V134"
+      "target": "Perfekt sein + gegangen + gestern"
     },
     {
       "id": "2026-10-06-S02-E51",
@@ -926,7 +926,23 @@
     "2026-10-07-S01-E02",
     "2026-10-07-S01-E03",
     "2026-10-07-S01-E04",
-    "2026-10-07-S01-E05"
+    "2026-10-07-S01-E05",
+    "2026-10-07-S02-E01",
+    "2026-10-07-S02-E02",
+    "2026-10-07-S02-E03",
+    "2026-10-07-S02-E04",
+    "2026-10-07-S02-E05",
+    "2026-10-07-S02-E06",
+    "2026-10-07-S02-E07",
+    "2026-10-07-S02-E08",
+    "2026-10-07-S02-E09",
+    "2026-10-07-S02-E10",
+    "2026-10-07-S02-E11",
+    "2026-10-07-S02-E12",
+    "2026-10-07-S02-E13",
+    "2026-10-07-S02-E14",
+    "2026-10-07-S02-E15",
+    "2026-10-07-S02-E16"
   ],
   "verbs": {
     "introduced_total": 100,
@@ -3638,12 +3654,20 @@
       {
         "id": "perfekt",
         "title": "Perfekt: haben/sein + Partizip II",
-        "status": "introduced",
+        "status": "practicing",
         "source": "2026-10-07-S02 new grammar track",
         "introduced_on": "2026-10-07",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": [],
+        "recorded_attempts": 16,
+        "independent_correct": 10,
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "exercise_range": "2026-10-07-S02-E01-E16",
+            "independent": true,
+            "note": "Perfekt structure generally understood. Main repairs: movement auxiliaries, irregular participles, nach Hause, and article/preposition details."
+          }
+        ],
         "subtopics": [
           "auxiliary_haben_sein",
           "partizip_ii",
@@ -5944,12 +5968,12 @@
         "type": "adverb_or_adjective",
         "article": null,
         "plural": null,
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-07",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-07",
         "source": "2026-10-07-S02 new grammar track — Perfekt",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 6,
+        "independent_correct": 6,
         "evidence": []
       }
     ]
@@ -7444,7 +7468,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S02-E01 through E08 independently; correct each sentence and continue Perfekt practice.",
+  "next_suggested_action": "Learner answers 2026-10-07-S02-E17 through E24 independently; continue Perfekt with haben/sein contrast, irregular participles, and destination phrases.",
   "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -9704,6 +9728,102 @@
       "hint_used": false,
       "independent": true,
       "note": "fully correct."
+    },
+    {
+      "id": "2026-10-07-S02-E09",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Gestern bin ich zum Supermarkt gegangen",
+      "correction": "Gestern bin ich zum Supermarkt gegangen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "sein + gegangen and V2 after Gestern correct."
+    },
+    {
+      "id": "2026-10-07-S02-E10",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich habe gestern meinen Bruder gesehen",
+      "correction": "Ich habe gestern meinen Bruder gesehen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "haben + gesehen and Akk object correct."
+    },
+    {
+      "id": "2026-10-07-S02-E11",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich habe meinem Freund eine Nachricht geschrieben",
+      "correction": "Ich habe meinem Freund eine Nachricht geschrieben.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "haben + geschrieben and Dat person + Akk thing correct."
+    },
+    {
+      "id": "2026-10-07-S02-E12",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich bin nach der Arbeit gekommen",
+      "correction": "Ich bin nach der Arbeit nach Hause gekommen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Perfekt with sein + gekommen correct, but the destination home was omitted."
+    },
+    {
+      "id": "2026-10-07-S02-E13",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Der Zug hat später gekommen",
+      "correction": "Der Zug ist spät angekommen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "ankommen uses sein here; spaet means late, spaeter means later."
+    },
+    {
+      "id": "2026-10-07-S02-E14",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich habe gestern den Tür geschlossen",
+      "correction": "Ich habe gestern die Tür geschlossen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "geschlossen correct; die Tür stays feminine Akkusativ."
+    },
+    {
+      "id": "2026-10-07-S02-E15",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich habe den Ticket vor dem Fahrkartenautomat gekauft",
+      "correction": "Ich habe die Fahrkarte am Fahrkartenautomaten gekauft.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Use die Fahrkarte/das Ticket; natural location is am Fahrkartenautomaten."
+    },
+    {
+      "id": "2026-10-07-S02-E16",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": null,
+      "learner_answer": "Ich habe gestern mit meinem Bruder gespielt",
+      "correction": "Ich habe gestern mit meinem Bruder gespielt.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "haben + gespielt and mit + Dativ correct."
     }
   ],
   "skill_tracking": {
