@@ -407,3 +407,17 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Main diagnostic checks: **nach dem Termin + anrufen**, destination **in den Rucksack**, **schicken Dat+Akk + weil**, **nächsten Monat + umziehen**, and **warten auf + Akk**.
 - Previous **2026-10-06-S02-E51–E60** and all older pending prompts remain preserved.
 - Exact next action: learner writes **E01–E05** independently.
+
+
+## 2026-10-07 final-batch checkpoint
+
+- Diagnostic E01–E05 completed.
+- Correct: **nach dem Termin + anrufen**, **schicken + Dat/Akk with complete weil clause**, **nächsten Monat + umziehen**.
+- Repair: destination **in den Rucksack**; **der Bus → auf den Bus**.
+- V132 **die Haltestelle** recalled.
+- Final numbered verbs **91–100 introduced**: ankommen, einsteigen, aussteigen, umsteigen, einladen, teilnehmen, mitnehmen, abgeben, einschalten, ausschalten.
+- Numbered total is now **100 / 100** by dated study evidence.
+- New vocabulary: **V133 — das Licht (die Lichter)**.
+- Active next work: **2026-10-07-S01-E06–E15**.
+- Previous pending batches remain preserved.
+- Note: structured progress.json synchronization was still pending at this checkpoint because the connector rejected replacement of that large file; dated day evidence is authoritative until synchronized.
