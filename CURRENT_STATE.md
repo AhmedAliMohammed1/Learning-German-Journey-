@@ -447,3 +447,14 @@ Explicit learner preference:
 - Numbered verb evidence remains **100 / 100 introduced**; 91–100 are introduced and awaiting first practice.
 - Active grammar practice: **S02 E01–E08**.
 - Genitiv remains practicing and moves to spaced maintenance rather than being relabeled as new.
+
+
+## 2026-10-07 Perfekt E33-E40 checkpoint
+
+- Session **2026-10-07-S02** remains active.
+- Perfekt practice is completed through **E40**.
+- Strong current forms: **bin ausgestiegen**, **habe mitgenommen**, **habe geschlossen**, **habe gesehen**.
+- Repeated repair: **einsteigen in + Akk**; auxiliary **sein** is improving.
+- Also retest **zur Hochschule** and **mitnehmen vs mitbringen**.
+- New mistake pattern **M31** tracks transport entry/exit prepositions.
+- Active continuation: **S02 E41-E48**.
