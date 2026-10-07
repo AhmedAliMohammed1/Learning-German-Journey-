@@ -23,7 +23,7 @@
   "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "Perfekt",
-  "next_action": "Learner answers 2026-10-07-S02-E33 through E40 independently; retest sein with einsteigen/aussteigen, zur Universität, mitnehmen/mitbringen, and Perfekt retention.",
+  "next_action": "Learner answers 2026-10-07-S02-E41 through E48 independently.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -666,84 +666,76 @@
       "target": "ausschalten + V133"
     },
     {
-      "id": "2026-10-07-S02-E33",
-      "prompt_ar": "أنا ركبت القطر في ميونخ.",
+      "id": "2026-10-07-S02-E41",
+      "prompt_ar": "أنا ركبت الأتوبيس عند الموقف امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + in den Zug eingestiegen"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E34",
-      "prompt_ar": "أنا نزلت من القطر عند المحطة.",
+      "id": "2026-10-07-S02-E42",
+      "prompt_ar": "أنا نزلت من القطر في ميونخ.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + aus dem Zug ausgestiegen + am Bahnhof"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E35",
-      "prompt_ar": "أنا جيت الجامعة الساعة تسعة.",
+      "id": "2026-10-07-S02-E43",
+      "prompt_ar": "أنا جيت الجامعة بعد الشغل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt sein + zur Universität gekommen"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E36",
+      "id": "2026-10-07-S02-E44",
       "prompt_ar": "أنا أخدت جواز السفر معايا للموعد.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + Reisepass mitgenommen + zum Termin"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E37",
-      "prompt_ar": "أختي جابت معاها المظلة.",
+      "id": "2026-10-07-S02-E45",
+      "prompt_ar": "أختي جابت معاها الكتاب للجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + Regenschirm mitgebracht"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E38",
-      "prompt_ar": "أنا قفلت الشباك بعد الشغل.",
+      "id": "2026-10-07-S02-E46",
+      "prompt_ar": "أنا دعوت صاحبي للأكل.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + geschlossen + nach der Arbeit"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E39",
-      "prompt_ar": "أنا شفت صاحبي عند المحطة امبارح.",
+      "id": "2026-10-07-S02-E47",
+      "prompt_ar": "أنا شاركت في الكورس.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt haben + gesehen + am Bahnhof + gestern"
+      "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E40",
-      "prompt_ar": "أنا كتبت الاستمارة؟ لا، أنا ملّيتها.",
+      "id": "2026-10-07-S02-E48",
+      "prompt_ar": "أنا سلّمت الاستمارة عند الشباك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
       "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice",
-      "target": "Perfekt contrast schreiben vs ausfüllen"
+      "activity": "perfekt_initial_practice"
     }
   ],
   "completed_exercise_ids": [
@@ -950,7 +942,15 @@
     "2026-10-07-S02-E29",
     "2026-10-07-S02-E30",
     "2026-10-07-S02-E31",
-    "2026-10-07-S02-E32"
+    "2026-10-07-S02-E32",
+    "2026-10-07-S02-E33",
+    "2026-10-07-S02-E34",
+    "2026-10-07-S02-E35",
+    "2026-10-07-S02-E36",
+    "2026-10-07-S02-E37",
+    "2026-10-07-S02-E38",
+    "2026-10-07-S02-E39",
+    "2026-10-07-S02-E40"
   ],
   "verbs": {
     "introduced_total": 100,
@@ -3665,7 +3665,7 @@
         "status": "practicing",
         "source": "2026-10-07-S02 new grammar track",
         "introduced_on": "2026-10-07",
-        "recorded_attempts": 32,
+        "recorded_attempts": 40,
         "independent_correct": 10,
         "evidence": [
           {
@@ -7483,7 +7483,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S02-E33 through E40 independently; retest sein with einsteigen/aussteigen, zur Universität, mitnehmen/mitbringen, and Perfekt retention.",
+  "next_suggested_action": "Learner answers 2026-10-07-S02-E41 through E48 independently.",
   "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
