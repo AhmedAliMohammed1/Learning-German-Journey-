@@ -1,6 +1,6 @@
 # Current learner state
 
-Updated: **2026-10-06T15:15:26+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-07T13:05:00+02:00**. Calendar timezone: **Europe/Berlin**.
 
 
 ## Additional review choices — preference saved 2026-10-06
@@ -394,3 +394,16 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Vocabulary register: **131 entries**.
 - Current higher-frequency repairs: complete **weil** clauses, **nicht** placement, temporal Dativ, possessives/case, and occasional destination/location checks.
 - Next startup should offer the main menu. If the learner chooses **Continue previous session**, resume with **E51–E60**.
+
+
+## Current study session — 2026-10-07
+
+- Day file: **days/2026-10-07.md**.
+- Status: **open**; active session: **2026-10-07-S01**.
+- Learner selected **Start a new study day**.
+- Numbered verbs remain **90 / 100** at session opening; the saved numbered inventory currently ends at ID 90.
+- Active task: short progression diagnostic **E01–E05**; after correction, progress toward the final numbered batch rather than forcing older deferred review.
+- New vocabulary: **V132 — die Haltestelle (die Haltestellen)**.
+- Main diagnostic checks: **nach dem Termin + anrufen**, destination **in den Rucksack**, **schicken Dat+Akk + weil**, **nächsten Monat + umziehen**, and **warten auf + Akk**.
+- Previous **2026-10-06-S02-E51–E60** and all older pending prompts remain preserved.
+- Exact next action: learner writes **E01–E05** independently.

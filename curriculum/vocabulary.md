@@ -245,7 +245,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 131). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 132). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
@@ -406,3 +406,13 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-06**
 - Source: **2026-10-06-S02, history-wide targeted review Batch 6**
 - First learner attempt pending in E51.
+
+
+### V132 — die Haltestelle
+
+- Article / plural: **die Haltestelle — die Haltestellen**
+- Egyptian Arabic: **موقف / محطة الأتوبيس أو الترام**
+- Natural example: **Ich warte an der Haltestelle auf den Bus.**
+- Introduced on: **2026-10-07**
+- Source: **2026-10-07-S01, new-day progression diagnostic**
+- First learner attempt pending in **E05**.

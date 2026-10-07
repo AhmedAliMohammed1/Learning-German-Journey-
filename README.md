@@ -2,7 +2,7 @@
 
 ده سجل مذاكرتك للألماني، عشان أي AI يقدر يعرف وصلت لفين ويكمّل معاك بنفس طريقة المذاكرة.
 
-## Dashboard — 6 أكتوبر 2026
+## Dashboard — 7 أكتوبر 2026
 
 | جزء المذاكرة | الحالة الحالية |
 | --- | --- |
@@ -15,10 +15,10 @@
 | القاعدة الحالية | **Genitiv — practicing** |
 | التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
 | مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **131 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
-| آخر تاريخ مذاكرة | **2026-10-06** |
-| آخر نقطة | S02 E01–E30 خلصوا؛ الاستكمال **S02 E31–E40**، والتمارين الأقدم محفوظة |
-| ملف اليوم | **closed**؛ S02 خلصت لليوم؛ E51–E60 محفوظين للاستكمال |
+| سجل المفردات | **132 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
+| آخر تاريخ مذاكرة | **2026-10-07** |
+| آخر نقطة | جلسة 2026-10-07-S01 بدأت؛ التشخيص الجديد **E01–E05** هو الخطوة الحالية |
+| ملف اليوم | **open**؛ S01 active؛ شغل 2026-10-06 المعلّق محفوظ من غير تغيير |
 
 الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
 
@@ -80,7 +80,7 @@ Do not automatically start pending work. Read the live continuation in progress.
 | [days/2026-10-03.md](days/2026-10-03.md) | 51–60، Genitiv، وبداية 71–80 |
 | [days/2026-10-04.md](days/2026-10-04.md) | Full review ومراجعة 71–80 |
 | [days/2026-10-05.md](days/2026-10-05.md) | التشخيص، تقديم وممارسة 81–90 |
-| [days/2026-10-06.md](days/2026-10-06.md) | Full review الحالي عبر 1–90 |
+| [days/2026-10-06.md](days/2026-10-06.md) | Full/targeted review؛ E51–E60 محفوظين للاستكمال |\n| [days/2026-10-07.md](days/2026-10-07.md) | يوم جديد؛ progression diagnostic قبل الـbatch الأخير |
 | [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | قالب يوم جديد |
 | [AGENTS.md](AGENTS.md) | نقطة الدخول لأدوات البرمجة التي تقرأه |
 
@@ -156,3 +156,13 @@ The unresolved-review pool must include all material that is not strong/mastered
 - New vocabulary: **V131 der Fahrkartenautomat (die Fahrkartenautomaten)**.
 
 - 2026-10-06 S02 closed at **17:40**; **E51–E60** preserved for continuation.
+
+
+## Live checkpoint — 2026-10-07
+
+- Current day: **2026-10-07**, Session **S01**, status **open**.
+- Numbered verbs: **90 / 100** introduced; IDs 91–100 are not introduced yet.
+- Active: **E01–E05** short progression diagnostic.
+- New vocabulary: **V132 die Haltestelle (die Haltestellen)**.
+- Previous 2026-10-06 S02 **E51–E60** remains preserved.
+- Next action: correct E01–E05, then progress toward the final numbered batch.

@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-06",
-  "last_updated_at": "2026-10-06T17:40:33+02:00",
+  "last_updated": "2026-10-07",
+  "last_updated_at": "2026-10-07T13:05:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,15 +16,65 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-06",
-  "latest_day": "2026-10-06",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 6,
+  "current_day": "2026-10-07",
+  "latest_day": "2026-10-07",
+  "day_status": "open",
+  "current_session_id": "2026-10-07-S01",
+  "sessions_recorded": 7,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
-  "active_topic": "History-wide targeted review paused after E50; Batch 6 E51-E60 preserved",
-  "next_action": "If learner chooses Continue previous session, resume 2026-10-06-S02-E51 through E60 exactly; otherwise honor the selected mode and preserve them.",
+  "active_topic": "New study day: short progression diagnostic before selecting/introducing the final numbered batch 91–100.",
+  "next_action": "Learner answers 2026-10-07-S01-E01 through E05 independently; correct each answer, then progress to the final numbered batch if the diagnostic supports it.",
   "pending_exercises": [
+    {
+      "id": "2026-10-07-S01-E01",
+      "prompt_ar": "بعد الموعد، أنا بتصل بأخويا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_day_diagnostic",
+      "activity": "progression_diagnostic",
+      "target": "nach dem Termin + anrufen + V2/separable word order"
+    },
+    {
+      "id": "2026-10-07-S01-E02",
+      "prompt_ar": "أنا بحط المفتاح في شنطة الظهر قبل الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_day_diagnostic",
+      "activity": "progression_diagnostic",
+      "target": "legen + in den Rucksack + vor der Arbeit"
+    },
+    {
+      "id": "2026-10-07-S01-E03",
+      "prompt_ar": "أنا ببعت لمديري الاستمارة لأنه محتاجها.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_day_diagnostic",
+      "activity": "progression_diagnostic",
+      "target": "schicken Dat+Akk + complete weil clause"
+    },
+    {
+      "id": "2026-10-07-S01-E04",
+      "prompt_ar": "الشهر الجاي، أنا بنقل لبرلين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_day_diagnostic",
+      "activity": "progression_diagnostic",
+      "target": "nächsten Monat + nach Berlin umziehen"
+    },
+    {
+      "id": "2026-10-07-S01-E05",
+      "prompt_ar": "أنا بستنى الأتوبيس عند موقف الأتوبيس.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_new_day_diagnostic",
+      "activity": "progression_diagnostic",
+      "target": "warten auf + Akk + an der Haltestelle + V132"
+    },
     {
       "id": "2026-10-06-S02-E51",
       "prompt_ar": "بعد التأخير، أنا بشتري تذكرة من ماكينة التذاكر.",
@@ -3281,7 +3331,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 131,
+    "registered_entries_count": 132,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5502,6 +5552,22 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
+      },
+      {
+        "id": "V132",
+        "german": "die Haltestelle",
+        "meaning_ar": "موقف / محطة الأتوبيس أو الترام",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Haltestellen",
+        "status": "introduced",
+        "introduced_on": "2026-10-07",
+        "last_reviewed": null,
+        "source": "2026-10-07-S01 new-day progression diagnostic",
+        "usage_example": "Ich warte an der Haltestelle auf den Bus.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
@@ -6993,9 +7059,9 @@
   "numbered_verbs_introduced": 90,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
-  "latest_study_date": "2026-10-06",
-  "latest_study_state": "closed",
-  "next_suggested_action": "If learner chooses Continue previous session, resume 2026-10-06-S02-E51 through E60 exactly; otherwise honor the selected mode and preserve them.",
+  "latest_study_date": "2026-10-07",
+  "latest_study_state": "open",
+  "next_suggested_action": "Learner answers 2026-10-07-S01-E01 through E05 independently; correct each answer, then progress to the final numbered batch if the diagnostic supports it.",
   "active_grammar": "Genitiv",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -7316,6 +7382,13 @@
       "session_id": "2026-10-06-S02",
       "event": "targeted_review_policy_corrected",
       "note": "Learner corrected the review policy: targeted review must sample all unresolved material across the whole history, not only the newest verbs. Pending S02 E01-E10 were revised before any learner attempt to span early, middle, and recent unresolved targets; V125/V126 reused."
+    },
+    {
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T13:05:00+02:00",
+      "session_id": "2026-10-07-S01",
+      "event": "new_study_day_started",
+      "note": "Learner selected Start a new study day. Opened S01 with a five-sentence progression diagnostic; previous 2026-10-06 S02 E51-E60 and all older pending prompts remain preserved. No verbs 91-100 introduced yet because the saved numbered inventory currently ends at 90."
     }
   ],
   "exercise_results": [
