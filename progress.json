@@ -19,11 +19,11 @@
   "current_day": "2026-10-07",
   "latest_day": "2026-10-07",
   "day_status": "open",
-  "current_session_id": "2026-10-07-S02",
+  "current_session_id": "2026-10-07-S03",
   "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "Perfekt",
-  "next_action": "Learner answers 2026-10-07-S02-E49 through E56 independently; focus on einsteigen/aussteigen, einladen, teilnehmen, abgeben, mitbringen, umsteigen, and ankommen in Perfekt.",
+  "next_action": "Targeted history-wide unresolved review S03; E01-E10 completed; next batch E11-E20.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -3731,7 +3731,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 134,
+    "registered_entries_count": 135,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -7549,7 +7549,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S02-E49 through E56 independently; focus on einsteigen/aussteigen, einladen, teilnehmen, abgeben, mitbringen, umsteigen, and ankommen in Perfekt.",
+  "next_suggested_action": "Targeted history-wide unresolved review S03; E01-E10 completed; next batch E11-E20.",
   "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
