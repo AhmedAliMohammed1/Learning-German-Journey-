@@ -435,3 +435,15 @@ Explicit learner preference:
 - Grammar track = introduce a genuinely new practical grammar topic, then practise it in full Arabic → German sentences while reusing known material.
 - Verb track = follow normal verb progression. If the numbered target is already complete, further verbs are supplemental/extension material unless the learner explicitly extends the numbered target.
 - This preference applies to future new-day starts and overrides older verb-default behavior.
+
+
+## 2026-10-07 grammar-track session — Perfekt
+
+- Learner selected **Start a new study day → New grammar rule**.
+- Existing **2026-10-07-S01** is paused; its verbs 91–100 first-practice **E06–E15** remains preserved.
+- New active session: **2026-10-07-S02**.
+- New main grammar topic: **Perfekt**, initial scope **haben/sein + Partizip II**.
+- New vocabulary: **V134 gestern = امبارح**.
+- Numbered verb evidence remains **100 / 100 introduced**; 91–100 are introduced and awaiting first practice.
+- Active grammar practice: **S02 E01–E08**.
+- Genitiv remains practicing and moves to spaced maintenance rather than being relabeled as new.
