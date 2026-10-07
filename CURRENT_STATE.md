@@ -458,3 +458,14 @@ Explicit learner preference:
 - Also retest **zur Hochschule** and **mitnehmen vs mitbringen**.
 - New mistake pattern **M31** tracks transport entry/exit prepositions.
 - Active continuation: **S02 E41-E48**.
+
+
+## Verb tense preference — Präsens + Perfekt — 2026-10-07
+
+- New verbs must now be introduced with **Präsens + Perfekt**: meaning/infinitive, useful present reference, and **haben/sein + Partizip II**.
+- Unless explicitly requested otherwise, "past" means **Perfekt**.
+- Full review and Targeted review must include verb practice in both present and Perfekt, with adaptive weighting rather than present-only review.
+- Present and Perfekt evidence are tracked separately; strength in one tense does not automatically prove the other.
+- Isolated verb recall may explicitly ask for the Perfekt reference form and expects the full **auxiliary + participle**.
+- Numbered target stays **100 / 100**; future extra verbs remain supplemental unless the learner explicitly extends the target.
+- This was a preference/configuration update only. Active study continuation remains **2026-10-07-S02-E41–E48**.
