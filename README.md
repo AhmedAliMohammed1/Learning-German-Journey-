@@ -166,3 +166,13 @@ The unresolved-review pool must include all material that is not strong/mastered
 - New vocabulary: **V132 die Haltestelle (die Haltestellen)**.
 - Previous 2026-10-06 S02 **E51–E60** remains preserved.
 - Next action: correct E01–E05, then progress toward the final numbered batch.
+
+
+## بداية يوم جديد: قواعد ولا أفعال
+
+لما المتعلم يختار **4. نبدأ يوم مذاكرة جديد**، المساعد ما يبدأش تلقائيًا أفعال. الأول يعرض اختيارين:
+
+1. **قاعدة جديدة**
+2. **أفعال جديدة**
+
+اختيار القائمة وحده مش جلسة مذاكرة. بعد اختيار المسار تبدأ الجلسة الفعلية. مسار القواعد لازم يقدم قاعدة عملية جديدة فعلًا، ومسار الأفعال يتبع نظام التقدم الحالي. بعد اكتمال الهدف المرقم، أي أفعال إضافية تبقى supplemental/extension إلا لو المتعلم طلب توسيع الهدف المرقم.
