@@ -23,7 +23,7 @@
   "sessions_recorded": 8,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "Perfekt",
-  "next_action": "Learner answers 2026-10-07-S02-E41 through E48 independently.",
+  "next_action": "Learner answers 2026-10-07-S02-E49 through E56 independently; focus on einsteigen/aussteigen, einladen, teilnehmen, abgeben, mitbringen, umsteigen, and ankommen in Perfekt.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -666,8 +666,8 @@
       "target": "ausschalten + V133"
     },
     {
-      "id": "2026-10-07-S02-E41",
-      "prompt_ar": "أنا ركبت الأتوبيس عند الموقف امبارح.",
+      "id": "2026-10-07-S02-E49",
+      "prompt_ar": "أنا ركبت القطر في المحطة امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -675,8 +675,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E42",
-      "prompt_ar": "أنا نزلت من القطر في ميونخ.",
+      "id": "2026-10-07-S02-E50",
+      "prompt_ar": "أنا نزلت من الأتوبيس قدام الجامعة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -684,8 +684,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E43",
-      "prompt_ar": "أنا جيت الجامعة بعد الشغل.",
+      "id": "2026-10-07-S02-E51",
+      "prompt_ar": "أنا دعوت أختي للعشاء.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -693,8 +693,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E44",
-      "prompt_ar": "أنا أخدت جواز السفر معايا للموعد.",
+      "id": "2026-10-07-S02-E52",
+      "prompt_ar": "أنا شاركت في الاجتماع امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -702,8 +702,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E45",
-      "prompt_ar": "أختي جابت معاها الكتاب للجامعة.",
+      "id": "2026-10-07-S02-E53",
+      "prompt_ar": "أنا سلّمت التذكرة عند الشباك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -711,8 +711,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E46",
-      "prompt_ar": "أنا دعوت صاحبي للأكل.",
+      "id": "2026-10-07-S02-E54",
+      "prompt_ar": "أنا جبت الكتاب معايا لصاحبي.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -720,8 +720,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E47",
-      "prompt_ar": "أنا شاركت في الكورس.",
+      "id": "2026-10-07-S02-E55",
+      "prompt_ar": "أنا غيرت القطر في ميونخ.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -729,8 +729,8 @@
       "activity": "perfekt_initial_practice"
     },
     {
-      "id": "2026-10-07-S02-E48",
-      "prompt_ar": "أنا سلّمت الاستمارة عند الشباك.",
+      "id": "2026-10-07-S02-E56",
+      "prompt_ar": "أنا وصلت البيت الساعة عشرة.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -950,7 +950,15 @@
     "2026-10-07-S02-E37",
     "2026-10-07-S02-E38",
     "2026-10-07-S02-E39",
-    "2026-10-07-S02-E40"
+    "2026-10-07-S02-E40",
+    "2026-10-07-S02-E41",
+    "2026-10-07-S02-E42",
+    "2026-10-07-S02-E43",
+    "2026-10-07-S02-E44",
+    "2026-10-07-S02-E45",
+    "2026-10-07-S02-E46",
+    "2026-10-07-S02-E47",
+    "2026-10-07-S02-E48"
   ],
   "verbs": {
     "introduced_total": 100,
@@ -3665,7 +3673,7 @@
         "status": "practicing",
         "source": "2026-10-07-S02 new grammar track",
         "introduced_on": "2026-10-07",
-        "recorded_attempts": 40,
+        "recorded_attempts": 48,
         "independent_correct": 10,
         "evidence": [
           {
@@ -7541,7 +7549,7 @@
   "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-07",
   "latest_study_state": "open",
-  "next_suggested_action": "Learner answers 2026-10-07-S02-E41 through E48 independently.",
+  "next_suggested_action": "Learner answers 2026-10-07-S02-E49 through E56 independently; focus on einsteigen/aussteigen, einladen, teilnehmen, abgeben, mitbringen, umsteigen, and ankommen in Perfekt.",
   "active_grammar": "Perfekt",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -9993,6 +10001,102 @@
       "hint_used": false,
       "independent": true,
       "note": "Perfekt correct; die Nachricht matches the definite prompt."
+    },
+    {
+      "id": "2026-10-07-S02-E41",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich bin gestern an die Haltestelle den Bus eingestiegen",
+      "correction": "Ich bin gestern an der Haltestelle in den Bus eingestiegen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "sein correct; an der Haltestelle + in den Bus einsteigen."
+    },
+    {
+      "id": "2026-10-07-S02-E42",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich bin in München auf den Zug aufgestiegen",
+      "correction": "Ich bin in München aus dem Zug ausgestiegen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Use aussteigen aus + Dativ."
+    },
+    {
+      "id": "2026-10-07-S02-E43",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich bin nach der Arbeit zur Hochschule gekommen",
+      "correction": "Ich bin nach der Arbeit zur Hochschule gekommen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct."
+    },
+    {
+      "id": "2026-10-07-S02-E44",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich habe den Reisepass zum Termin mitgenommen",
+      "correction": "Ich habe den Reisepass zum Termin mitgenommen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "note": "Correct."
+    },
+    {
+      "id": "2026-10-07-S02-E45",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Meine Schwester hat zur Hochschule das Buch mitgebracht",
+      "correction": "Meine Schwester hat das Buch zur Hochschule mitgebracht.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "note": "Grammatical; more natural word order shown."
+    },
+    {
+      "id": "2026-10-07-S02-E46",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich habe zur Essen meinen Freund eingeladen",
+      "correction": "Ich habe meinen Freund zum Essen eingeladen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "jemanden zum Essen einladen."
+    },
+    {
+      "id": "2026-10-07-S02-E47",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich habe in den Kurs mitgeteilt",
+      "correction": "Ich habe am Kurs teilgenommen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "teilnehmen an + Dativ; mitteilen means inform."
+    },
+    {
+      "id": "2026-10-07-S02-E48",
+      "session_id": "2026-10-07-S02",
+      "date": "2026-10-07",
+      "timestamp": "2026-10-07T15:53:00+02:00",
+      "learner_answer": "Ich habe an den Schalter das Formular abgegeben",
+      "correction": "Ich habe das Formular am Schalter abgegeben.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "note": "Stationary location: am Schalter."
     }
   ],
   "skill_tracking": {
