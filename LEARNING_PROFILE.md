@@ -18,6 +18,9 @@
 - Keep learned verbs in reviews and never present them as newly learned again.
 - Preserve the exact continuation point across chats and sessions.
 - Do not automatically begin pending exercises on opening a new chat. First offer the nine startup choices, unless the learner already chose a mode; continue from the exact latest checkpoint when requested.
+- When the learner selects **Start a new study day**, first ask them to choose **a new grammar rule** or **new verbs**. Do not default every new day to verbs.
+- The new-day grammar/verbs submenu is navigation only; begin actual study after the learner chooses a track.
+- For the grammar track, introduce a genuinely **new practical grammar topic**, not merely a review of an existing weak pattern. For the verb track, follow normal verb progression; after the numbered target is complete, extra verbs stay supplemental unless the learner explicitly extends the target.
 
 ## Correction format
 
@@ -122,3 +125,6 @@ Explicit learner wording: «يعني تديني الفعل ب العربي وا�
 | Date | Source | Change |
 | --- | --- | --- |
 | 2026-10-06 | Explicit learner request | Add Arabic → German isolated verb/vocabulary recall: unresolved/new/practicing items in Targeted review; every introduced item regardless of mastery in Full review. |
+
+
+| 2026-10-07 | Explicit learner request | On Start a new study day, first offer **new grammar rule** vs **new verbs**. Do not default new days to verbs; grammar-track material must be genuinely new. |
