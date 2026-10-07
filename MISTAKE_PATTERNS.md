@@ -347,3 +347,11 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
   - E33: auxiliary improved to **bin**, but **in + Akk** still omitted.
   - E34: **bin ... aus dem Zug ausgestiegen** correct.
 - Next action: retest both directions in fresh bus/train sentences; reduce frequency after repeated independent success.
+
+
+## Fresh live evidence — 2026-10-07 — Perfekt S02 E41–E48
+
+- **M31 improving, priority high:** E41 repeated the missing **in + Akk** pattern with **einsteigen**. Correct: **an der Haltestelle in den Bus eingestiegen**.
+- **M31 improving, priority high:** E42 replaced **aussteigen aus + Dat** with *aufsteigen auf + Akk*. Correct: **aus dem Zug ausgestiegen**.
+- Keep transport entry/exit in fresh Perfekt sentences until both directions succeed independently more than once.
+- Separate new lexical/construction targets: **jemanden zum Essen einladen**, **an einem Kurs teilnehmen**, and stationary **am Schalter**.
