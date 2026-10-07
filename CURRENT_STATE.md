@@ -421,3 +421,17 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Active next work: **2026-10-07-S01-E06–E15**.
 - Previous pending batches remain preserved.
 - Note: structured progress.json synchronization was still pending at this checkpoint because the connector rejected replacement of that large file; dated day evidence is authoritative until synchronized.
+
+
+## New study day track preference — 2026-10-07
+
+Explicit learner preference:
+
+- Selecting **Start a new study day** no longer automatically means new verbs.
+- Before actual study begins, offer:
+  1. **قاعدة جديدة — New grammar rule**
+  2. **أفعال جديدة — New verbs**
+- The submenu itself does not create a session or replace pending work.
+- Grammar track = introduce a genuinely new practical grammar topic, then practise it in full Arabic → German sentences while reusing known material.
+- Verb track = follow normal verb progression. If the numbered target is already complete, further verbs are supplemental/extension material unless the learner explicitly extends the numbered target.
+- This preference applies to future new-day starts and overrides older verb-default behavior.
