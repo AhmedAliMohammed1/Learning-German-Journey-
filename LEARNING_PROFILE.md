@@ -21,6 +21,10 @@
 - When the learner selects **Start a new study day**, first ask them to choose **a new grammar rule** or **new verbs**. Do not default every new day to verbs.
 - The new-day grammar/verbs submenu is navigation only; begin actual study after the learner chooses a track.
 - For the grammar track, introduce a genuinely **new practical grammar topic**, not merely a review of an existing weak pattern. For the verb track, follow normal verb progression; after the numbered target is complete, extra verbs stay supplemental unless the learner explicitly extends the target.
+- Teach every newly introduced verb with both **Präsens** and **Perfekt**: infinitive/meaning, a useful present reference, and **haben/sein + Partizip II**. Include important irregular present forms and separable/case/preposition notes when relevant.
+- In verb reviews, include both present-tense and **Perfekt** practice. Full review and Targeted review must not become present-only; weight the weaker tense from evidence.
+- Track verb competence separately by tense. A verb can be strong in present use but still unresolved in Perfekt, or the reverse.
+- Unless explicitly requested otherwise, "past" in this learning journey means **Perfekt**.
 
 ## Correction format
 
@@ -128,3 +132,15 @@ Explicit learner wording: «يعني تديني الفعل ب العربي وا�
 
 
 | 2026-10-07 | Explicit learner request | On Start a new study day, first offer **new grammar rule** vs **new verbs**. Do not default new days to verbs; grammar-track material must be genuinely new. |
+
+
+## Präsens + Perfekt verb preference — 2026-10-07
+
+- New verbs are introduced with **present + Perfekt**, not infinitive/present-only.
+- Verb reviews in both **Full review** and **Targeted review** include Perfekt exercises alongside present-tense work.
+- Isolated verb recall may explicitly ask for the **Perfekt reference form (haben/sein + Partizip II)** and tracks that separately from present/lemma recall.
+- This preference does not retroactively mark old verbs' Perfekt forms as mastered and does not change the numbered target.
+
+| Date | Source | Change |
+| --- | --- | --- |
+| 2026-10-07 | Explicit learner request | New verbs must be taught with Präsens + Perfekt, and Full/Targeted verb review must include past-tense (Perfekt) practice with separate tense evidence. |
