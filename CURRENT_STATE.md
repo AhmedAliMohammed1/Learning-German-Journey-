@@ -478,3 +478,13 @@ Explicit learner preference:
 - Current high-priority repair: **M31 — einsteigen in + Akk / aussteigen aus + Dat**.
 - Additional current targets: **zum Essen einladen**, **am Kurs teilnehmen**, **am Schalter abgeben**.
 - Active continuation: **S02 E49–E56**.
+
+
+## S03 targeted history-wide unresolved review
+
+- Active session: 2026-10-07-S03.
+- S02 Perfekt is paused at E49-E56 and preserved.
+- S03 E01-E10 completed.
+- Strong fresh evidence: weil structure, Dat+Akk with schicken, setzen + destination, warten auf + Akk, nested Genitiv, Kantine usage.
+- Current repairs: einsteigen in + Akk, vor + Dativ for stationary location, anfangen ... an + zu, diesen Mann / seinen Namen.
+- Next: S03 E11-E20.
