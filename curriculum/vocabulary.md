@@ -1,13 +1,14 @@
 # Vocabulary register
 
-**135 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**136 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
 | ID | German (nouns with article) | Plural / reference form | Egyptian Arabic | Type | Status |
 | --- | --- | --- | --- | --- | --- |
 | V134 | gestern | — | امبارح | adverb_or_adjective | introduced |
-| V135 | die Kantine | die Kantinen | الكانتين / مطعم الشركة أو الجامعة | noun | introduced |
+| V135 | die Kantine | die Kantinen | الكانتين / مطعم الشركة أو الجامعة | noun | practicing |
+| V136 | die Besprechung | die Besprechungen | الاجتماع / اجتماع العمل | noun | introduced |
 | V001 | die Antwort | die Antworten | الإجابة | noun | introduced |
 | V002 | das Handy | die Handys | الهاتف | noun | introduced |
 | V003 | die Nachricht | die Nachrichten | الرسالة | noun | introduced |
@@ -447,4 +448,14 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Example: **Nach der Arbeit esse ich in der Kantine.**
 - Introduced on: **2026-10-07**
 - Source: **2026-10-07-S03 targeted history-wide unresolved review**
-- First learner attempt pending in **S03 E10**.
+- S03 E10: learner used **in der Kantine** correctly and independently. Status: practicing.
+
+
+### V136 — die Besprechung
+
+- Article / plural: **die Besprechung — die Besprechungen**
+- Egyptian Arabic: **الاجتماع / اجتماع العمل**
+- Natural example: **Ich nehme an der Besprechung teil.**
+- Introduced on: **2026-10-07**
+- Source: **2026-10-07-S03 targeted history-wide unresolved review**
+- First learner attempt pending in **S03 E29**.

@@ -488,3 +488,19 @@ Explicit learner preference:
 - Strong fresh evidence: weil structure, Dat+Akk with schicken, setzen + destination, warten auf + Akk, nested Genitiv, Kantine usage.
 - Current repairs: einsteigen in + Akk, vor + Dativ for stationary location, anfangen ... an + zu, diesen Mann / seinen Namen.
 - Next: S03 E11-E20.
+
+
+## End-of-day state — 2026-10-07
+
+- Day **2026-10-07 is closed**; no active session.
+- Numbered verbs are **100 / 100 introduced**.
+- New active grammar learned today: **Perfekt**, status **practicing**.
+- Targeted history-wide review **S03 completed through E20**.
+- Exact primary continuation: **2026-10-07-S03-E21–E30**.
+- Separately preserved paused Perfekt continuation: **2026-10-07-S02-E49–E56**.
+- Fresh strengths: complete weil clauses, Dat+Akk with schicken, setzen + destination, warten auf + Akk, nested Genitiv, and anfangen + zu in both Präsens and Perfekt.
+- Current higher-priority repairs: **nach dem Termin**, **ich darf + infinitive**, possessive/Akk forms, **in den Rucksack** with destination, stationary **an/vor + Dativ**, and M31 transport prepositions.
+- V135 **die Kantine** is practicing after correct independent use.
+- V136 **die Besprechung** is introduced and first use is pending in S03 E29.
+- New permanent verb policy remains: teach/review **Präsens + Perfekt** separately.
+- Next chat/startup must show the main menu before teaching.

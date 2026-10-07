@@ -355,3 +355,14 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M31 improving, priority high:** E42 replaced **aussteigen aus + Dat** with *aufsteigen auf + Akk*. Correct: **aus dem Zug ausgestiegen**.
 - Keep transport entry/exit in fresh Perfekt sentences until both directions succeed independently more than once.
 - Separate new lexical/construction targets: **jemanden zum Essen einladen**, **an einem Kurs teilnehmen**, and stationary **am Schalter**.
+
+
+## Fresh live evidence — 2026-10-07 — S03 E11–E20
+
+- **M31 improving:** E11 correctly produced **in den Bus eingestiegen**; the remaining error was **an der Haltestelle**, not the vehicle-entry phrase.
+- **M18 improving:** E12 and E20 independently produced **anfangen ... an + zu** correctly in Präsens and Perfekt. Reduce frequency and retest later.
+- **M30 improving:** E18 regressed to *nach der Termin*; correct **nach dem Termin**. Keep in active rotation.
+- **M27 / destination-location maintenance:** E16 used *im Rucksack* for a destination and also missed Perfekt. Correct **in den Rucksack gelegt**.
+- **M01 dürfen:** E19 needs **Ich darf das Fenster öffnen.** Keep a fresh modal retest.
+- Possessive/case maintenance: E13 needs feminine **seine Adresse**.
+- Stationary preposition maintenance: E14 needs **vor dem Krankenhaus**, not *vom Krankenhaus*.
