@@ -252,3 +252,17 @@ Review evidence is tense-specific:
 - Perfekt full-sentence/context success.
 
 Do not infer Perfekt mastery from an old strong present baseline. Full and Targeted verb review must include both Präsens and Perfekt; targeted review may keep a verb eligible because only its Perfekt dimension is unresolved. Existing older verbs can have their Perfekt reference progressively backfilled when actually taught/reviewed rather than fabricating historical mastery.
+
+## Supplemental verb practice — 2026-10-08
+
+Numbered goal remains 100/100; these are supplemental practice entries, not numbered 101–105. Vergessen was previously encountered and was reviewed again.
+
+| Verb | Meaning | Praesens | Perfekt | Pattern | Status |
+| --- | --- | --- | --- | --- | --- |
+| empfehlen | ينصح | ich empfehle; er empfiehlt | hat empfohlen | jemandem (Dat) etwas (Akk) empfehlen; jemandem empfehlen, etwas zu tun | practicing |
+| erreichen | يصل إلى / يلحق | ich erreiche | hat erreicht | etwas (Akk) erreichen | practicing |
+| vorbereiten | يجهز | ich bereite ... vor | hat vorbereitet | etwas (Akk) vorbereiten; separable | practicing |
+| vergessen | ينسى | ich vergesse; du vergisst | hat vergessen | etwas (Akk) vergessen; revisited | practicing |
+| sich entscheiden fuer | يقرر / يختار | ich entscheide mich fuer | hat sich fuer ... entschieden | reflexive; fuer + Akk | practicing |
+
+Evidence: end-of-day independent translations for vorbereiten, empfehlen and sich entscheiden were correct; future spaced review needed. Additional revisited verbs: einsteigen (in + Akk), legen (in + Akk for destination), mitnehmen, koennen (Perfekt double infinitive).
