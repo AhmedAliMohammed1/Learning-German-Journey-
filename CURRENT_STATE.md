@@ -504,3 +504,14 @@ Explicit learner preference:
 - V136 **die Besprechung** is introduced and first use is pending in S03 E29.
 - New permanent verb policy remains: teach/review **Präsens + Perfekt** separately.
 - Next chat/startup must show the main menu before teaching.
+
+
+## End-of-day state — 2026-10-08
+
+- Day 2026-10-08 closed; no active session. Day record: days/2026-10-08.md.
+- Numbered verb target remains 100/100; five supplemental verbs practiced: empfehlen, erreichen, vorbereiten, vergessen (review), sich entscheiden fuer.
+- Vocabulary register updated to 138 entries, including das Auto and die Tasche. Other expressions were reviewed, not re-counted.
+- Practiced Dativ/Akkusativ, vor + Dativ for time, in + Akkusativ for direction, modal Perfekt with koennen, zu + infinitive after empfehlen, separable verbs and ihn/sie/es.
+- End-of-day three pronoun exercises correct (es/sie/ihn); latest six answers correct overall with one earlier word-order improvement. Retest later for retention; do not mark mastered.
+- Prior pending exercises remain: 2026-10-07-S03 E21-E30 and 2026-10-07-S02 E49-E56.
+- On next startup show main menu, offer spaced review before new material.
