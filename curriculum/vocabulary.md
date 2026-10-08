@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**136 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**138 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
@@ -459,3 +459,22 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Introduced on: **2026-10-07**
 - Source: **2026-10-07-S03 targeted history-wide unresolved review**
 - First learner attempt pending in **S03 E29**.
+
+
+## October 8, 2026 vocabulary checkpoint
+
+Newly encountered vocabulary not previously listed in the register:
+
+### V137 — das Auto
+- Article / plural: das Auto — die Autos
+- Egyptian Arabic: العربية / السيارة
+- Example: Ich lege die Tasche ins Auto.
+- Introduced: 2026-10-08; status: practicing.
+
+### V138 — die Tasche
+- Article / plural: die Tasche — die Taschen
+- Egyptian Arabic: الشنطة / الحقيبة
+- Example: Ich habe die Tasche vorbereitet.
+- Introduced in practice on 2026-10-08; status: practicing.
+
+Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fahrkarte, das Buch, der Schluessel, der Zug. Grammar/expression review: vor der Reise, vor dem Termin, ins Auto (direction), im Auto (location), zu Hause, danach, deshalb. Avoid duplicating these as new vocabulary.
