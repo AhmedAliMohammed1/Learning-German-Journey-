@@ -1,15 +1,16 @@
 # Current learner state
 
-Updated: **2026-10-09T17:27:28+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-09T17:34:52+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Authoritative current checkpoint — 2026-10-09
 
-- Day **open**; active session **2026-10-09-S03**, Targeted review → Recent material. Previous S02 dass activity is paused with E07–E08 preserved.
-- **100/100 numbered verbs introduced**. **154 distinct vocabulary entries registered**; newest V154 **die Entscheidung — die Entscheidungen**, used independently correctly.
-- S03 E01–E09 logged. Fresh strengths: **sich entscheiden für + Akk**, complete **weil ... ist**, **dass + Perfekt (vergessen hat)**, and correct **danach** V2.
-- Current highest-priority check remains **preserve the intended subject in follow-up clauses**. It failed in E04/E08, then succeeded independently in E09 (**mein Bruder → er**); retest later in a different sentence before lowering priority.
-- Exact next action: continue recent-material review, include one later varied subject-continuity check, then broaden.
-- Older deferred prompts remain preserved. Speaking, conversation, reading and listening remain **not_assessed**.
+- Day **open**; active session **2026-10-09-S04**, Start a new study day → New verbs.
+- Numbered verb goal remains **100 / 100**. New verbs are supplemental only.
+- Newly introduced supplemental verbs: **beantragen, verlängern, kündigen, umtauschen, erledigen**.
+- Teaching format stored for each: Egyptian-Arabic meaning, **Präsens**, **Perfekt**, and essential usage pattern.
+- All five are currently **introduced**, with **no independent learner attempt yet**.
+- Exact next action: first Arabic → German practice batch mixing Präsens and Perfekt.
+- S03 targeted recent-material review and all older pending prompts remain preserved.
 
 ## Additional review choices — preference saved 2026-10-06
 
