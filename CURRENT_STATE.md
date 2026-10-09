@@ -4,13 +4,13 @@ Updated: **2026-10-09T17:34:52+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Authoritative current checkpoint — 2026-10-09
 
-- Day **open**; active session **2026-10-09-S04**, Start a new study day → New verbs.
-- Numbered verb goal remains **100 / 100**. New verbs are supplemental only.
-- Newly introduced supplemental verbs: **beantragen, verlängern, kündigen, umtauschen, erledigen**.
-- Teaching format stored for each: Egyptian-Arabic meaning, **Präsens**, **Perfekt**, and essential usage pattern.
-- All five are currently **introduced**, with **no independent learner attempt yet**.
-- Exact next action: first Arabic → German practice batch mixing Präsens and Perfekt.
-- S03 targeted recent-material review and all older pending prompts remain preserved.
+- Day **open**; active session **2026-10-09-S04**, New verbs.
+- Verb system changed by explicit learner request: **no final target** and **one unified verb inventory**.
+- Current learned/introduced verb count: **115 verbs**. Historical 1–100 IDs are preserved; former supplemental verbs now continue sequentially in the same list.
+- Newest verbs: **beantragen, verlängern, kündigen, umtauschen, erledigen**; all are introduced and awaiting first independent practice.
+- New verbs will keep being added with the next ID; no “100/100” milestone is used anymore.
+- Exact next action: first Arabic → German practice batch for the five newest verbs, mixing Präsens and Perfekt.
+- S03 and all older pending work remain preserved.
 
 ## Additional review choices — preference saved 2026-10-06
 
