@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-09-S04",
   "sessions_recorded": 14,
   "last_verified_study_at": null,
-  "active_topic": "supplemental new verbs: beantragen, verlängern, kündigen, umtauschen, erledigen",
-  "next_action": "Begin first-practice Arabic→German batch for the five newly introduced supplemental verbs, mixing Präsens and Perfekt. Keep numbered verb target at 100/100 and preserve S03 plus all older pending work.",
+  "active_topic": "new verbs: beantragen, verlängern, kündigen, umtauschen, erledigen",
+  "next_action": "Practice the five newest verbs in 2026-10-09-S04. Verb inventory is open-ended and unified; current learned_total is 115. No final verb target.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1259,75 +1259,9 @@
     "2026-10-09-S02-E06"
   ],
   "verbs": {
-    "introduced_total": 100,
+    "learned_total": 115,
     "mastered_total": null,
-    "groups": [
-      {
-        "from": 1,
-        "to": 50,
-        "count": 50,
-        "status": "strong",
-        "review_status": "reviewed_multiple_times",
-        "retention": "generally_retained",
-        "assessment_basis": "learner group-level historical report; not proof of individual mastery",
-        "last_reported_group_review_date": "2026-10-02",
-        "historical_review_count": null
-      },
-      {
-        "from": 51,
-        "to": 60,
-        "count": 10,
-        "status": "practicing",
-        "recency": "recent",
-        "introduced_on": "2026-10-03",
-        "assessment_basis": "learner reported recent introduction and continued practice",
-        "historical_review_count": null
-      },
-      {
-        "from": 61,
-        "to": 70,
-        "count": 10,
-        "status": "practicing",
-        "recency": "recent",
-        "introduced_on": "2026-10-03",
-        "assessment_basis": "live introduction after explicit learner progression request",
-        "historical_review_count": null,
-        "last_reviewed": "2026-10-03"
-      },
-      {
-        "from": 71,
-        "to": 80,
-        "count": 10,
-        "status": "practicing",
-        "recency": "new",
-        "introduced_on": "2026-10-03",
-        "assessment_basis": "live introduction under progression-first policy",
-        "historical_review_count": null,
-        "last_reviewed": "2026-10-05"
-      },
-      {
-        "from": 81,
-        "to": 90,
-        "count": 10,
-        "status": "practicing",
-        "recency": "new",
-        "introduced_on": "2026-10-05",
-        "assessment_basis": "all ten verbs received first independent practice on 2026-10-05; sentence-level article/case errors remain",
-        "historical_review_count": null,
-        "last_reviewed": "2026-10-05"
-      },
-      {
-        "from": 91,
-        "to": 100,
-        "count": 10,
-        "status": "practicing",
-        "recency": "new",
-        "introduced_on": "2026-10-07",
-        "assessment_basis": "Mixed group: item-level statuses retained; Perfekt practice documented, and dedicated present batch still paused.",
-        "historical_review_count": null,
-        "last_reviewed": "2026-10-09"
-      }
-    ],
+    "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
       {
         "id": 1,
@@ -4353,40 +4287,28 @@
             "status": "practicing"
           }
         }
-      }
-    ],
-    "named_verbs_without_confirmed_id": [],
-    "target": 100,
-    "supplemental_verbs": [
-      "besuchen",
-      "erklären",
-      "vergessen",
-      "empfehlen",
-      "erreichen",
-      "vorbereiten",
-      "sich entscheiden für",
-      "stornieren",
-      "hoffen",
-      "sich erinnern"
-    ],
-    "supplemental_constructions": [
-      "mit jemandem sprechen"
-    ],
-    "supplemental_items": [
+      },
       {
-        "vocabulary_id": "V091",
+        "id": 101,
         "infinitive": "besuchen",
-        "meaning_ar": "يزور",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": null,
+        "introduction_date": null,
         "study_status": "introduced",
         "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يزور",
+        "review_status": "introduced",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
         "praesens_reference": "ich besuche",
         "perfekt_reference": "hat besucht",
-        "usage_note": "+ Akk",
-        "reference_backfilled_on": "2026-10-09",
         "reference_is_teaching_information": true,
-        "evidence": [],
         "tense_tracking": {
           "Präsens": {
             "status": "not_assessed"
@@ -4397,19 +4319,26 @@
         }
       },
       {
-        "vocabulary_id": "V092",
+        "id": 102,
         "infinitive": "erklären",
-        "meaning_ar": "يشرح",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": null,
+        "introduction_date": null,
         "study_status": "introduced",
         "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يشرح",
+        "review_status": "introduced",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "Dat person + Akk thing",
+        "entry_kind": "infinitive",
         "praesens_reference": "ich erkläre",
         "perfekt_reference": "hat erklärt",
-        "usage_note": "Dat person + Akk thing",
-        "reference_backfilled_on": "2026-10-09",
         "reference_is_teaching_information": true,
-        "evidence": [],
         "tense_tracking": {
           "Präsens": {
             "status": "not_assessed"
@@ -4420,18 +4349,17 @@
         }
       },
       {
-        "vocabulary_id": "V103",
+        "id": 103,
         "infinitive": "vergessen",
-        "meaning_ar": "ينسى",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": null,
+        "introduction_date": null,
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich vergesse; du vergisst; er vergisst",
-        "perfekt_reference": "hat vergessen",
-        "usage_note": "+ Akk",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4454,6 +4382,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "ينسى",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich vergesse; du vergisst; er vergisst",
+        "perfekt_reference": "hat vergessen",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
@@ -4464,18 +4400,17 @@
         }
       },
       {
-        "vocabulary_id": "V140",
+        "id": 104,
         "infinitive": "empfehlen",
-        "meaning_ar": "ينصح / يوصي",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": "2026-10-08",
+        "introduction_date": "2026-10-08",
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich empfehle; du empfiehlst; er empfiehlt",
-        "perfekt_reference": "hat empfohlen",
-        "usage_note": "Dat person + Akk thing; empfehlen, etwas zu tun",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4498,6 +4433,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "ينصح / يوصي",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "Dat person + Akk thing; empfehlen, etwas zu tun",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich empfehle; du empfiehlst; er empfiehlt",
+        "perfekt_reference": "hat empfohlen",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
@@ -4508,19 +4451,26 @@
         }
       },
       {
-        "vocabulary_id": "V141",
+        "id": 105,
         "infinitive": "erreichen",
-        "meaning_ar": "يلحق / يصل إلى",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": "2026-10-08",
+        "introduction_date": "2026-10-08",
         "study_status": "introduced",
         "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يلحق / يصل إلى",
+        "review_status": "introduced",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
         "praesens_reference": "ich erreiche",
         "perfekt_reference": "hat erreicht",
-        "usage_note": "+ Akk",
-        "reference_backfilled_on": "2026-10-09",
         "reference_is_teaching_information": true,
-        "evidence": [],
         "tense_tracking": {
           "Präsens": {
             "status": "not_assessed"
@@ -4531,18 +4481,17 @@
         }
       },
       {
-        "vocabulary_id": "V142",
+        "id": 106,
         "infinitive": "vorbereiten",
-        "meaning_ar": "يجهز / يحضّر",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": "2026-10-08",
+        "introduction_date": "2026-10-08",
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich bereite ... vor",
-        "perfekt_reference": "hat vorbereitet",
-        "usage_note": "separable; + Akk",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 4,
+        "independent_correct": 4,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4585,6 +4534,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "يجهز / يحضّر",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bereite ... vor",
+        "perfekt_reference": "hat vorbereitet",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
@@ -4595,18 +4552,17 @@
         }
       },
       {
-        "vocabulary_id": "V143",
+        "id": 107,
         "infinitive": "sich entscheiden für",
-        "meaning_ar": "يقرر اختيار / يختار",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": "2026-10-08",
+        "introduction_date": "2026-10-08",
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich entscheide mich für",
-        "perfekt_reference": "hat sich für ... entschieden",
-        "usage_note": "reflexive; für + Akk",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 5,
+        "independent_correct": 5,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4659,6 +4615,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "يقرر اختيار / يختار",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "reflexive; für + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich entscheide mich für",
+        "perfekt_reference": "hat sich für ... entschieden",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
@@ -4669,18 +4633,17 @@
         }
       },
       {
-        "vocabulary_id": "V144",
+        "id": 108,
         "infinitive": "stornieren",
-        "meaning_ar": "يلغي حجزًا / طلبًا",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": null,
+        "introduction_date": null,
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich storniere",
-        "perfekt_reference": "hat storniert",
-        "usage_note": "+ Akk; die Buchung stornieren",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4693,6 +4656,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "يلغي حجزًا / طلبًا",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "+ Akk; die Buchung stornieren",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich storniere",
+        "perfekt_reference": "hat storniert",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "not_assessed"
@@ -4703,18 +4674,17 @@
         }
       },
       {
-        "vocabulary_id": "V145",
+        "id": 109,
         "infinitive": "hoffen",
-        "meaning_ar": "يتمنى / يأمل",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": "2026-10-09",
+        "introduction_date": "2026-10-09",
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich hoffe",
-        "perfekt_reference": "hat gehofft",
-        "usage_note": "hoffen, dass ...",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4737,6 +4707,14 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "يتمنى / يأمل",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "hoffen, dass ...",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich hoffe",
+        "perfekt_reference": "hat gehofft",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
@@ -4747,18 +4725,17 @@
         }
       },
       {
-        "vocabulary_id": "V146",
+        "id": 110,
         "infinitive": "sich erinnern",
-        "meaning_ar": "يتذكر / يفتكر",
+        "identity_status": "learned_inventory",
         "introduced": true,
-        "introduced_on": null,
+        "introduction_date": null,
         "study_status": "practicing",
         "mastery": "unknown",
-        "praesens_reference": "ich erinnere mich",
-        "perfekt_reference": "hat sich erinnert",
-        "usage_note": "sich an + Akk erinnern; sich (daran) erinnern, dass ...",
-        "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true,
+        "historical_review_count": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-09",
@@ -4771,9 +4748,167 @@
             "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
           }
         ],
+        "meaning_ar": "يتذكر / يفتكر",
+        "review_status": "practicing",
+        "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
+        "usage_note": "sich an + Akk erinnern; sich (daran) erinnern, dass ...",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich erinnere mich",
+        "perfekt_reference": "hat sich erinnert",
+        "reference_is_teaching_information": true,
         "tense_tracking": {
           "Präsens": {
             "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "id": 111,
+        "infinitive": "beantragen",
+        "identity_status": "learned_inventory",
+        "introduced": true,
+        "introduction_date": "2026-10-09",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يقدّم طلب رسمي على حاجة",
+        "review_status": "introduced",
+        "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
+        "usage_note": "etwas + Akk beantragen",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich beantrage",
+        "perfekt_reference": "hat beantragt",
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "id": 112,
+        "infinitive": "verlängern",
+        "identity_status": "learned_inventory",
+        "introduced": true,
+        "introduction_date": "2026-10-09",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يمدّد / يجدّد مدة",
+        "review_status": "introduced",
+        "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
+        "usage_note": "etwas + Akk verlängern",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich verlängere",
+        "perfekt_reference": "hat verlängert",
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "id": 113,
+        "infinitive": "kündigen",
+        "identity_status": "learned_inventory",
+        "introduced": true,
+        "introduction_date": "2026-10-09",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يلغي عقد / يستقيل",
+        "review_status": "introduced",
+        "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
+        "usage_note": "einen Vertrag kündigen",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich kündige",
+        "perfekt_reference": "hat gekündigt",
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "id": 114,
+        "infinitive": "umtauschen",
+        "identity_status": "learned_inventory",
+        "introduced": true,
+        "introduction_date": "2026-10-09",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "يستبدل حاجة اشتراها",
+        "review_status": "introduced",
+        "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
+        "usage_note": "separable; etwas + Akk umtauschen",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich tausche ... um",
+        "perfekt_reference": "hat umgetauscht",
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "id": 115,
+        "infinitive": "erledigen",
+        "identity_status": "learned_inventory",
+        "introduced": true,
+        "introduction_date": "2026-10-09",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "historical_review_count": null,
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "meaning_ar": "ينجز / يخلّص مهمة",
+        "review_status": "introduced",
+        "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
+        "usage_note": "etwas + Akk erledigen",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich erledige",
+        "perfekt_reference": "hat erledigt",
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -8212,6 +8347,11 @@
         "evidence_separate_by_tense": true
       },
       "numbered_target_change": false
+    },
+    "verb_counting": {
+      "updated_on": "2026-10-09",
+      "source": "explicit learner request",
+      "policy": "No fixed final target. Count all learned/introduced verbs in one continuous inventory. New verbs receive the next sequential ID."
     }
   },
   "mistake_patterns": [
@@ -9851,10 +9991,6 @@
       ]
     }
   },
-  "numbered_verbs_target": 100,
-  "numbered_verbs_introduced": 100,
-  "verbs_1_50_status": "strong",
-  "verbs_51_60_status": "practicing",
   "latest_study_date": "2026-10-09",
   "latest_study_state": "open",
   "next_suggested_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts.",
@@ -13329,11 +13465,7 @@
       "next_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts."
     }
   },
-  "feature_config_updated_on": "2026-10-07",
-  "verbs_61_70_status": "practicing",
-  "verbs_71_80_status": "practicing",
-  "verbs_81_90_status": "practicing",
-  "verbs_91_100_status": "practicing",
+  "feature_config_updated_on": "2026-10-09",
   "closed_at": null,
   "october_08_checkpoint": {
     "day_file": "days/2026-10-08.md",
@@ -13350,8 +13482,8 @@
       "die Tasche"
     ],
     "outcome": "Last six independent answers correct, with one earlier word-order improvement; retest for retention",
-    "numbered_verbs_introduced": 100,
-    "vocabulary_registered": 138
+    "vocabulary_registered": 138,
+    "learned_verbs_at_checkpoint": 105
   },
   "last_verified_study_on": "2026-10-09",
   "reconciliation_notes": [
@@ -13360,65 +13492,5 @@
       "base_commit": "65c95af38cdf6a61d10365487575300baf6498e8",
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
     }
-  ],
-  "supplemental_verbs": {
-    "items": [
-      {
-        "verb": "beantragen",
-        "meaning": "يقدّم طلب رسمي على حاجة",
-        "present": "ich beantrage",
-        "perfekt": "hat beantragt",
-        "pattern": "etwas + Akk beantragen",
-        "status": "introduced",
-        "introduced_on": "2026-10-09",
-        "session_id": "2026-10-09-S04",
-        "independent_attempts": 0
-      },
-      {
-        "verb": "verlängern",
-        "meaning": "يمدّد / يجدّد مدة",
-        "present": "ich verlängere",
-        "perfekt": "hat verlängert",
-        "pattern": "etwas + Akk verlängern",
-        "status": "introduced",
-        "introduced_on": "2026-10-09",
-        "session_id": "2026-10-09-S04",
-        "independent_attempts": 0
-      },
-      {
-        "verb": "kündigen",
-        "meaning": "يلغي عقد / يستقيل",
-        "present": "ich kündige",
-        "perfekt": "hat gekündigt",
-        "pattern": "einen Vertrag kündigen",
-        "status": "introduced",
-        "introduced_on": "2026-10-09",
-        "session_id": "2026-10-09-S04",
-        "independent_attempts": 0
-      },
-      {
-        "verb": "umtauschen",
-        "meaning": "يستبدل حاجة اشتراها",
-        "present": "ich tausche ... um",
-        "perfekt": "hat umgetauscht",
-        "pattern": "separable; etwas + Akk umtauschen",
-        "status": "introduced",
-        "introduced_on": "2026-10-09",
-        "session_id": "2026-10-09-S04",
-        "independent_attempts": 0
-      },
-      {
-        "verb": "erledigen",
-        "meaning": "ينجز / يخلّص مهمة",
-        "present": "ich erledige",
-        "perfekt": "hat erledigt",
-        "pattern": "etwas + Akk erledigen",
-        "status": "introduced",
-        "introduced_on": "2026-10-09",
-        "session_id": "2026-10-09-S04",
-        "independent_attempts": 0
-      }
-    ],
-    "numbered_target_unchanged": true
-  }
+  ]
 }
