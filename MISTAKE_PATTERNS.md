@@ -408,3 +408,11 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 - Missing gestern/zu Hause recorded as full-translation omissions, separate from successful dass order.
 - S02 E06 **hab ich** is colloquial habe ich; do not invent an agreement failure from it. The required subject is **hat er**.
 - dass has six correct written clause-order applications; keep grammar practicing rather than creating a false mistake pattern.
+
+
+## Fresh live evidence — 2026-10-09 — S03 recent-material review
+
+- **M19 weil/wo:** E01 already had correct final **ist** in the weil clause; E06 independently produced a complete **weil ... ist** clause. Positive fresh evidence; keep improving with reduced frequency.
+- **M34 preserve intended subject:** E04 omitted **sie** after *danach*; fresh retest E08 changed the subject to **ich** instead of **sie**. E09 then independently preserved **mein Bruder → er** after *danach*. Keep **weak / high priority** until another varied independent success.
+- **sich entscheiden für + Akk:** E01 missed **für**; E06 independently succeeded. Treat as a recent verb-specific target, not a new broad mistake pattern.
+- **dass + Perfekt:** E03 omitted clause-final auxiliary; E07 independently succeeded with **vergessen hat**. Keep overall grammar practicing.
