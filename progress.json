@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-09",
   "latest_day": "2026-10-09",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 14,
+  "day_status": "reopened",
+  "current_session_id": "2026-10-09-S05",
+  "sessions_recorded": 15,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "day closed after S04",
-  "next_action": "Show the main menu on next startup; preserve all pending work.",
+  "active_topic": "targeted review / recent material",
+  "next_action": "S05: review newest verbs 111-115 with tense control, beantragen + Akk, third-person Präsens, and article/case.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -13949,7 +13949,7 @@
     }
   },
   "feature_config_updated_on": "2026-10-09",
-  "closed_at": "2026-10-09T18:59:34+02:00",
+  "closed_at": null,
   "october_08_checkpoint": {
     "day_file": "days/2026-10-08.md",
     "status": "closed",
