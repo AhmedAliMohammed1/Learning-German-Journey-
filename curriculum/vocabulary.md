@@ -159,6 +159,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V151 | die Hochschule | die Hochschulen | الجامعة / مؤسسة التعليم العالي | noun | practicing |
 | V152 | die Reise | die Reisen | السفر / الرحلة | noun | introduced |
 | V153 | Berlin | — | برلين | place_name | practicing |
+| V154 | die Entscheidung | die Entscheidungen | القرار / القرارات | noun | practicing |
 
 ## Fresh live introductions
 
@@ -267,7 +268,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 153). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 154). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
@@ -591,3 +592,12 @@ Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fah
 - Reference: —
 - Example (teaching reference, not a learner answer): Mein Bruder arbeitet in Berlin.
 - Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+
+### V154 — die Entscheidung
+- Article / plural: **die Entscheidung — die Entscheidungen**
+- Egyptian Arabic: **القرار / القرارات**
+- Natural example: **Die Entscheidung ist wichtig.**
+- Introduced on: **2026-10-09**
+- Source: **2026-10-09-S03, targeted recent-material review**
+- Learner attempt: **S03 E05 independently correct** — *Ich weiß, dass die Entscheidung schwer ist.* Status: practicing.
