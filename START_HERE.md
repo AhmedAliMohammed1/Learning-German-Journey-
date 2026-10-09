@@ -227,7 +227,7 @@ If the learner returns to study on that same date, reopen and append under secti
 - The original 60 baseline verb IDs remain intact, and later numbered batches append without renumbering. Current introduced count must match the actual numbered rows.
 - Exact identities and numbering agree between verbs.md and progress.json. Never invent mastery percentages, historical attempts, or timestamps. Imported strong/improving/weak/stable assessments are reported baselines; zero fresh counters do not reset them.
 - Example sentences and future plans are not recorded as learner answers.
-- numbered_verbs_introduced equals verbs.introduced_total and the actual introduced numbered rows; numbered_verbs_target remains 100. Keep group status keys, group records, and row statuses synchronized after new learning. Supplemental vocabulary is excluded from this total.
+- `verbs.learned_total` must equal the number of rows in the unified learned-verb inventory. There is no `numbered_verbs_target` and no separate supplemental-verb count. Keep item statuses/evidence synchronized after new learning.
 - Vocabulary registered_entries_count matches the deduplicated register; total_known is distinct and may remain null. Active mistake IDs match weak patterns.
 - Total introduced items reconcile with the curriculum; preferences and mistakes reference actual evidence.
 - JSON parses, repository-relative links resolve, and earlier history remains intact.
