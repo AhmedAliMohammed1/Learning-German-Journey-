@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-09",
-  "last_updated_at": "2026-10-09T17:27:28+02:00",
+  "last_updated_at": "2026-10-09T17:34:52+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-09",
   "latest_day": "2026-10-09",
   "day_status": "open",
-  "current_session_id": "2026-10-09-S03",
-  "sessions_recorded": 13,
+  "current_session_id": "2026-10-09-S04",
+  "sessions_recorded": 14,
   "last_verified_study_at": null,
-  "active_topic": "targeted recent-material review: dass/Perfekt, sich entscheiden für, subject continuity",
-  "next_action": "Continue 2026-10-09-S03. Subject continuity succeeded once in fresh E09 after repeated E04/E08 errors; retest later in a varied danach/deshalb sentence, then broaden recent-material review. Preserve paused S02 E07-E08 and all older deferred prompts.",
+  "active_topic": "supplemental new verbs: beantragen, verlängern, kündigen, umtauschen, erledigen",
+  "next_action": "Begin first-practice Arabic→German batch for the five newly introduced supplemental verbs, mixing Präsens and Perfekt. Keep numbered verb target at 100/100 and preserve S03 plus all older pending work.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -13360,5 +13360,65 @@
       "base_commit": "65c95af38cdf6a61d10365487575300baf6498e8",
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
     }
-  ]
+  ],
+  "supplemental_verbs": {
+    "items": [
+      {
+        "verb": "beantragen",
+        "meaning": "يقدّم طلب رسمي على حاجة",
+        "present": "ich beantrage",
+        "perfekt": "hat beantragt",
+        "pattern": "etwas + Akk beantragen",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "session_id": "2026-10-09-S04",
+        "independent_attempts": 0
+      },
+      {
+        "verb": "verlängern",
+        "meaning": "يمدّد / يجدّد مدة",
+        "present": "ich verlängere",
+        "perfekt": "hat verlängert",
+        "pattern": "etwas + Akk verlängern",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "session_id": "2026-10-09-S04",
+        "independent_attempts": 0
+      },
+      {
+        "verb": "kündigen",
+        "meaning": "يلغي عقد / يستقيل",
+        "present": "ich kündige",
+        "perfekt": "hat gekündigt",
+        "pattern": "einen Vertrag kündigen",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "session_id": "2026-10-09-S04",
+        "independent_attempts": 0
+      },
+      {
+        "verb": "umtauschen",
+        "meaning": "يستبدل حاجة اشتراها",
+        "present": "ich tausche ... um",
+        "perfekt": "hat umgetauscht",
+        "pattern": "separable; etwas + Akk umtauschen",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "session_id": "2026-10-09-S04",
+        "independent_attempts": 0
+      },
+      {
+        "verb": "erledigen",
+        "meaning": "ينجز / يخلّص مهمة",
+        "present": "ich erledige",
+        "perfekt": "hat erledigt",
+        "pattern": "etwas + Akk erledigen",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "session_id": "2026-10-09-S04",
+        "independent_attempts": 0
+      }
+    ],
+    "numbered_target_unchanged": true
+  }
 }
