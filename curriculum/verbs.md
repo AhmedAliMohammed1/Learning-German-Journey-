@@ -290,3 +290,25 @@ Supplemental entries do not increase the 100 numbered total. Reference forms bel
 - haben: E10 needed **hat mein Bruder**; subsequent hat uses are correct, while a delayed retest is still needed.
 - E06/E10 and S02 E04: **mitgenommen** retained; **ihn/sie/es** tracked by actual referent.
 - S02 E02/E04/E06: **gebucht/vorbereitet/vergessen + hat** correctly placed after dass.
+
+
+## Supplemental verb set — 2026-10-09 S04
+
+Selected after **Start a new study day → New verbs**. Numbered goal remains **100 / 100**; these do **not** become numbered 101–105.
+
+| Verb | Meaning | Präsens | Perfekt | Pattern | Status |
+| --- | --- | --- | --- | --- | --- |
+| beantragen | يقدّم طلب رسمي على حاجة | ich beantrage | hat beantragt | etwas + Akk beantragen | introduced |
+| verlängern | يمدّد / يجدّد مدة | ich verlängere | hat verlängert | etwas + Akk verlängern | introduced |
+| kündigen | يلغي عقد / يستقيل | ich kündige | hat gekündigt | einen Vertrag kündigen; employment meaning also possible | introduced |
+| umtauschen | يستبدل حاجة اشتراها | ich tausche ... um | hat umgetauscht | separable; etwas + Akk umtauschen | introduced |
+| erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | etwas + Akk erledigen | introduced |
+
+Teaching references:
+- **einen Antrag / ein Visum beantragen**
+- **einen Vertrag / Aufenthalt verlängern**
+- **einen Mietvertrag kündigen**
+- **eine Jacke umtauschen**
+- **eine Aufgabe erledigen**
+
+No independent learner attempts recorded yet. Keep all five at **introduced** until actual practice evidence is submitted.
