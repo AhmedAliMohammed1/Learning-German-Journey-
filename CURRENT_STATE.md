@@ -525,3 +525,10 @@ Explicit learner preference:
 - Active E01–E05: recommend someone a course; prepare/place bag; Perfekt modal transport; send recommendation/decide; forget/call in Perfekt.
 - Exact next action: correct learner's independent answers to E01–E05. Previous 2026-10-07 S03 E21–E30 and S02 E49–E56 are preserved.
 - Progress vocabulary item list reconciled to V001–V139 using existing dated entries, without assuming mastery.
+
+
+## 2026-10-09 S01 checkpoint
+- Targeted recent-material review E01–E05 answered and corrected; 4/5 correct independently.
+- E02 repair: und habe ich -> und ich habe, or omit repeated subject/auxiliary; ins Auto is contracted in das Auto. Rucksack/ihn valid for backpack.
+- Strong fresh: empfehlen Dat+Akk, modal Perfekt hat einsteigen können, sich entscheiden, vergessen/angerufen and deshalb V2.
+- Next: continue mixed recent review with a fresh und word-order retest and pronoun distinctions. Day remains open.
