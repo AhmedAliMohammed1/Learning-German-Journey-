@@ -144,3 +144,15 @@ Explicit learner wording: «يعني تديني الفعل ب العربي وا�
 | Date | Source | Change |
 | --- | --- | --- |
 | 2026-10-07 | Explicit learner request | New verbs must be taught with Präsens + Perfekt, and Full/Targeted verb review must include past-tense (Perfekt) practice with separate tense evidence. |
+
+
+## Verb-count and inventory preference — 2026-10-09
+
+Explicit learner preference:
+- No fixed target such as 100 verbs.
+- Show only the current number of verbs learned/introduced so far.
+- Keep every learned verb in one unified sequential table; do not split new verbs into a supplemental table.
+- Every future new verb gets the next ID and increases the live learned count.
+- Keep Präsens + Perfekt teaching/evidence rules unchanged.
+
+This preference supersedes earlier fixed-target/supplemental-count wording.
