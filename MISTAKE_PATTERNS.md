@@ -416,3 +416,13 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 - **M34 preserve intended subject:** E04 omitted **sie** after *danach*; fresh retest E08 changed the subject to **ich** instead of **sie**. E09 then independently preserved **mein Bruder → er** after *danach*. Keep **weak / high priority** until another varied independent success.
 - **sich entscheiden für + Akk:** E01 missed **für**; E06 independently succeeded. Treat as a recent verb-specific target, not a new broad mistake pattern.
 - **dass + Perfekt:** E03 omitted clause-final auxiliary; E07 independently succeeded with **vergessen hat**. Keep overall grammar practicing.
+
+
+## End-of-day fresh evidence — 2026-10-09 — S04
+
+- Requested tense control: Perfekt was used for a Präsens prompt with **kündigen**; retest tense labels.
+- Third-person Präsens: **Meine Schwester verlängere** → **Meine Schwester verlängert**.
+- **beantragen + Akk** directly: **ein/das Visum beantragen**, not *auf der Visum*.
+- Object case/article: **den Mietvertrag**.
+- Vocabulary form: **die Jacke** (repeated repair).
+- Positive evidence: **erledigen** correct in fresh Präsens; **umtauschen** and **verlängern** Perfekt structures were understood.
