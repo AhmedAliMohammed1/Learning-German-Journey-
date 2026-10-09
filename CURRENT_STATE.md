@@ -1,7 +1,22 @@
 # Current learner state
 
-Updated: **2026-10-07T13:05:00+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-09T12:14:04+02:00**. Calendar timezone: **Europe/Berlin**.
 
+
+## Authoritative current checkpoint — 2026-10-09
+
+- Day **open**; active session **2026-10-09-S02**, New study day → New grammar rule → **dass**. Actual sessions today: **2**; dated live sessions overall: **12**.
+- **100/100 numbered verbs introduced**. Groups 51–100 remain practicing overall; individual last-batch statuses and tense evidence are preserved. Introduced does not mean mastered.
+- Active grammar: **dass — practicing**; Perfekt and Genitiv remain practicing for spaced maintenance.
+- S01 E01–E11 completed; previously unnumbered follow-up answers now have stable E06–E11 IDs. E01–E05 were 4/5 independently correct; later errors included entschieden, Gestern V2, subject sie and hat with mein Bruder.
+- S02 **E01–E06 answered**: dass finite-verb order correct in **6/6**, full translations complete in **2/6**. E02/E04 omit gestern; E05 lacks final ist after weil; E06 omits zu Hause and changes brother to ich. These are written task dimensions, not overall mastery.
+- **153 distinct vocabulary entries registered**. V139 Empfehlung synchronized; V140–V153 register missing supplemental verbs and encountered words/expressions, with unknown original introduction dates left null. These are not 14 newly learned words today.
+- Newly taught supplemental verb **hoffen**: ich hoffe / hat gehofft. **Sich erinnern** was produced by the learner; acceptable when فاكر means remember. Supplemental inventory includes stornieren and the October 8 verbs, outside the 100 numbered entries.
+- Current higher-priority checks: complete weil clause, intended subject er/sie, haben agreement, und coordination, decided participle entschieden, transport prepositions, and required details gestern / zu Hause.
+- Exact next action: **S02 E07–E08**. Preserve E07's original prompt but clarify its past word اختار versus its Präsens label before an answer. E08: أنا أتمنى إن أختي ما نسيتش جواز السفر في البيت.
+- All older uncompleted prompts remain deferred; in particular **2026-10-07-S03 E21–E30** and **2026-10-07-S02 E49–E56**, plus S01 E06–E15 dedicated present practice.
+- Written target retests due **2026-10-10**; no automatic notification. Speaking, conversation, reading and listening remain **not_assessed**.
+- This maintenance checkpoint records already observed learning; it does not close the day or start another session. Historical snapshots below are dated history and do not override this block.
 
 ## Additional review choices — preference saved 2026-10-06
 

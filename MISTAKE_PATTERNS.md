@@ -366,3 +366,45 @@ Latest live weak set: none. Continue spaced checks of improving patterns.
 - **M01 dürfen:** E19 needs **Ich darf das Fenster öffnen.** Keep a fresh modal retest.
 - Possessive/case maintenance: E13 needs feminine **seine Adresse**.
 - Stationary preposition maintenance: E14 needs **vor dem Krankenhaus**, not *vom Krankenhaus*.
+
+
+## Authoritative latest checkpoint — 2026-10-09
+
+Earlier headings are imported/datetimed assessments; current structured statuses and the notes here take precedence.
+
+### M19 — sentence-final verb with weil and wo
+- Status: **improving**; priority low.
+- Reference: weil ich kein Auto habe; Ich weiß, wo er wohnt.
+- 2026-10-09-S02-E05: error — Missing finite ist in weil clause.
+
+### M31 — einsteigen in + Akk / aussteigen aus + Dat
+- Status: **improving**; priority high.
+- Reference: in den Zug eingestiegen; aus dem Zug ausgestiegen
+- 2026-10-09-S01-E03: independent correct — In den Zug einsteigen correctly used with modal Perfekt.
+
+### M32 — Word order after und
+- Status: **weak**; priority high.
+- Reference: und ich habe ihn ...; or und ihn ...
+- 2026-10-09-S01-E02: error — Und does not itself occupy the first position of the following main clause.
+
+### M33 — haben auxiliary agreement
+- Status: **improving**; priority high.
+- Reference: ich habe; mein Bruder/er hat
+- 2026-10-09-S01-E10: error — Hab mein Bruder needs hat mein Bruder.
+- 2026-10-09-S01-E11: independent correct — Third-person auxiliary hat correctly formed; subject/detail problems are distinct.
+- 2026-10-09-S02-E02: independent correct — Third-person auxiliary hat correctly formed; subject/detail problems are distinct.
+- 2026-10-09-S02-E04: independent correct — Third-person auxiliary hat correctly formed; subject/detail problems are distinct.
+- 2026-10-09-S02-E06: independent correct — Third-person auxiliary hat correctly formed; subject/detail problems are distinct.
+
+### M34 — Preserve the intended subject in a follow-up clause
+- Status: **weak**; priority high.
+- Reference: Danach hat sie es gebucht. Deshalb hat er meine Schwester angerufen.
+- 2026-10-09-S01-E09: error — Subject sie omitted after danach; es is the object.
+- 2026-10-09-S02-E06: error — Ich changes brother to learner as caller; target er.
+
+- M08: S02 E04 **sie sie** is valid subject+object reference to sister and bag.
+- M03: S02 E06 deshalb V2 is correct; the wrong caller is M34.
+- M28: S01 E09 needs **Gestern hat meine Schwester ...**; returned to improving.
+- Missing gestern/zu Hause recorded as full-translation omissions, separate from successful dass order.
+- S02 E06 **hab ich** is colloquial habe ich; do not invent an agreement failure from it. The required subject is **hat er**.
+- dass has six correct written clause-order applications; keep grammar practicing rather than creating a false mistake pattern.

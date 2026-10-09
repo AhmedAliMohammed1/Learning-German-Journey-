@@ -1,14 +1,11 @@
 # Vocabulary register
 
-**138 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
+**153 distinct entries registered**, including nouns, expressions, proper names, and supplemental verbs/constructions. This is a register size, not a measured total of words mastered. Exact first-introduction dates and historical attempt counts are unknown.
 
 Backfilled from the learner's supplied history on 2026-10-03. Every entry below was already introduced or encountered; do not offer it as newly introduced vocabulary. Plurals are reference information for future practice, not a claim that every plural was studied.
 
 | ID | German (nouns with article) | Plural / reference form | Egyptian Arabic | Type | Status |
 | --- | --- | --- | --- | --- | --- |
-| V134 | gestern | — | امبارح | adverb_or_adjective | introduced |
-| V135 | die Kantine | die Kantinen | الكانتين / مطعم الشركة أو الجامعة | noun | practicing |
-| V136 | die Besprechung | die Besprechungen | الاجتماع / اجتماع العمل | noun | introduced |
 | V001 | die Antwort | die Antworten | الإجابة | noun | introduced |
 | V002 | das Handy | die Handys | الهاتف | noun | introduced |
 | V003 | die Nachricht | die Nachrichten | الرسالة | noun | introduced |
@@ -31,13 +28,13 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V020 | dort | — | هناك | adverb_or_adjective | introduced |
 | V021 | die Rechnung | die Rechnungen | الفاتورة | noun | introduced |
 | V022 | der Apfel | die Äpfel | التفاحة | noun | introduced |
-| V023 | das Essen | normally singular / mass use | الطعام | noun | introduced |
+| V023 | das Essen | — | الطعام | noun | introduced |
 | V024 | spät | — | متأخر | adverb_or_adjective | introduced |
 | V025 | früh | — | مبكر | adverb_or_adjective | introduced |
 | V026 | der Stuhl | die Stühle | الكرسي | noun | introduced |
 | V027 | die Tür | die Türen | الباب | noun | introduced |
 | V028 | vor der Tür | — | أمام الباب | expression | introduced |
-| V029 | das Geld | normally singular / mass use | المال | noun | introduced |
+| V029 | das Geld | — | المال | noun | introduced |
 | V030 | der Name | die Namen | الاسم | noun | introduced |
 | V031 | am Abend | — | في المساء | expression | introduced |
 | V032 | jeden Tag | — | كل يوم | expression | introduced |
@@ -54,8 +51,8 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V043 | das Hemd | die Hemden | القميص | noun | introduced |
 | V044 | die Regel | die Regeln | القاعدة | noun | introduced |
 | V045 | die Prüfung | die Prüfungen | الامتحان | noun | introduced |
-| V046 | das Wasser | normally singular / mass use | الماء | noun | introduced |
-| V047 | die Milch | normally singular / mass use | الحليب | noun | introduced |
+| V046 | das Wasser | — | الماء | noun | introduced |
+| V047 | die Milch | — | الحليب | noun | introduced |
 | V048 | die Suppe | die Suppen | الحساء | noun | introduced |
 | V049 | der Salat | die Salate | السلطة | noun | introduced |
 | V050 | am Wochenende | — | في عطلة نهاية الأسبوع | expression | introduced |
@@ -102,7 +99,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V091 | besuchen | — | يزور | supplemental_verb | introduced |
 | V092 | erklären | — | يشرح | supplemental_verb | introduced |
 | V093 | mit jemandem sprechen | — | يتحدث مع شخص | supplemental_construction | introduced |
-| V094 | die Nähe | normally singular / mass use | القرب | noun | introduced |
+| V094 | die Nähe | — | القرب | noun | introduced |
 | V095 | die Schule | die Schulen | المدرسة | noun | introduced |
 | V096 | das Hotel | die Hotels | الفندق | noun | introduced |
 | V097 | die Frau | die Frauen | المرأة | noun | introduced |
@@ -111,7 +108,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V100 | der Freund | die Freunde | الصديق | noun | introduced |
 | V101 | der Kaffee | die Kaffees | القهوة | noun | introduced |
 | V102 | das Restaurant | die Restaurants | المطعم | noun | introduced |
-| V103 | vergessen | — | ينسى | supplemental_verb | introduced |
+| V103 | vergessen | — | ينسى | supplemental_verb | practicing |
 | V104 | in der Nähe + Genitiv | — | قريب من؛ صيغة Genitiv | expression | introduced |
 | V105 | in der Nähe von + Dativ | — | قريب من؛ بديل von + Dativ | expression | introduced |
 | V106 | der Termin | die Termine | الموعد | noun | practicing |
@@ -121,10 +118,10 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V110 | der Brief | die Briefe | الخطاب / الرسالة الورقية | noun | introduced |
 | V111 | die Jacke | die Jacken | الجاكيت | noun | practicing |
 | V112 | der Regenschirm | die Regenschirme | المظلة / الشمسيّة | noun | practicing |
-| V113 | der Koffer | die Koffer | شنطة السفر / الحقيبة | noun | introduced |
+| V113 | der Koffer | die Koffer | شنطة السفر / الحقيبة | noun | practicing |
 | V114 | das Paket | die Pakete | الطرد / الشحنة | noun | practicing |
-| V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | practicing |
-| V116 | das Formular | die Formulare | الاستمارة / النموذج | noun | introduced |
+| V115 | die Geschichte | die Geschichten | القصة / الحكاية | noun | introduced |
+| V116 | das Formular | die Formulare | الاستمارة / النموذج | noun | practicing |
 | V117 | der Mietvertrag | die Mietverträge | عقد الإيجار | noun | practicing |
 | V118 | die Miete | die Mieten | الإيجار / قيمة الإيجار | noun | practicing |
 | V119 | die Kaution | die Kautionen | التأمين / مبلغ التأمين | noun | practicing |
@@ -132,14 +129,36 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 | V121 | der Ausweis | die Ausweise | بطاقة الهوية / إثبات الهوية | noun | practicing |
 | V122 | der Reisepass | die Reisepässe | جواز السفر | noun | practicing |
 | V123 | die Fahrkarte | die Fahrkarten | تذكرة المواصلات / القطار | noun | practicing |
-| V124 | die Quittung | die Quittungen | الإيصال | noun | practicing |
+| V124 | die Quittung | die Quittungen | receipt | noun | practicing |
 | V125 | der Fahrplan | die Fahrpläne | جدول المواعيد / مواعيد المواصلات | noun | practicing |
 | V126 | der Schalter | die Schalter | الشباك / الكاونتر | noun | practicing |
-| V127 | das Wartezimmer | die Wartezimmer | غرفة الانتظار | noun | practicing |
+| V127 | das Wartezimmer | die Wartezimmer | waiting room | noun | introduced |
 | V128 | die Steckdose | die Steckdosen | الفيشة / مقبس الكهرباء | noun | practicing |
 | V129 | die Verspätung | die Verspätungen | التأخير | noun | practicing |
-| V130 | der Briefkasten | die Briefkästen | صندوق البريد | noun | introduced |
+| V130 | der Briefkasten | die Briefkästen | صندوق البريد | noun | practicing |
 | V131 | der Fahrkartenautomat | die Fahrkartenautomaten | ماكينة التذاكر | noun | introduced |
+| V132 | die Haltestelle | die Haltestellen | موقف / محطة الأتوبيس أو الترام | noun | introduced |
+| V133 | das Licht | die Lichter | النور / الضوء | noun | introduced |
+| V134 | gestern | — | امبارح | adverb_or_adjective | practicing |
+| V135 | die Kantine | die Kantinen | الكانتين / مطعم الشركة أو الجامعة | noun | introduced |
+| V136 | die Besprechung | die Besprechungen | الاجتماع / اجتماع العمل | noun | introduced |
+| V137 | das Auto | die Autos | العربية / السيارة | noun | practicing |
+| V138 | die Tasche | die Taschen | الشنطة / الحقيبة | noun | practicing |
+| V139 | die Empfehlung | die Empfehlungen | النصيحة / التوصية | noun | practicing |
+| V140 | empfehlen | — | ينصح / يوصي | supplemental_verb | practicing |
+| V141 | erreichen | — | يلحق / يصل إلى | supplemental_verb | introduced |
+| V142 | vorbereiten | — | يجهز / يحضّر | supplemental_verb | practicing |
+| V143 | sich entscheiden für | — | يقرر اختيار / يختار | supplemental_verb | practicing |
+| V144 | stornieren | — | يلغي حجزًا / طلبًا | supplemental_verb | practicing |
+| V145 | hoffen | — | يتمنى / يأمل | supplemental_verb | practicing |
+| V146 | sich erinnern | — | يتذكر / يفتكر | supplemental_verb | practicing |
+| V147 | dass | — | إن / أن | conjunction | practicing |
+| V148 | die Buchung | die Buchungen | الحجز | noun | introduced |
+| V149 | danach | — | بعد كده / بعد ذلك | adverb_or_adjective | practicing |
+| V150 | zu Hause | — | في البيت | expression | practicing |
+| V151 | die Hochschule | die Hochschulen | الجامعة / مؤسسة التعليم العالي | noun | practicing |
+| V152 | die Reise | die Reisen | السفر / الرحلة | noun | introduced |
+| V153 | Berlin | — | برلين | place_name | practicing |
 
 ## Fresh live introductions
 
@@ -231,7 +250,7 @@ Backfilled from the learner's supplied history on 2026-10-03. Every entry below 
 - mit jemandem sprechen = يتكلم مع شخص; mit + Dativ.
 - vergessen = ينسى; prior pronoun practice used ihn/sie/es.
 
-These entries do not belong to the numbered 1–60 course total.
+These entries do not belong to the numbered 1–100 course total.
 
 ## Important forms already encountered
 
@@ -248,7 +267,7 @@ Each review must reuse old vocabulary and introduce some genuinely new practical
 
 For backfilled items, introduction and last-reviewed dates remain null unless the history explicitly supplies them. For fresh attempts, append evidence and update status. Examples are teaching references, never copied into the log as a learner's submitted answers.
 
-progress.json.vocabulary.registered_entries_count mirrors this table (currently 133). total_known remains null because no measured known-word total was established.
+progress.json.vocabulary.registered_entries_count mirrors this table (currently 153). total_known remains null because no measured known-word total was established.
 
 
 ### V116 — das Formular
@@ -308,7 +327,7 @@ progress.json.vocabulary.registered_entries_count mirrors this table (currently 
 - Natural example: **Ich lege den Ausweis in den Rucksack.**
 - Introduced on: **2026-10-05**
 - Source: **2026-10-05-S01, new-day diagnostic**
-- Learner attempt on 2026-10-07 E05: **Haltestelle** recalled independently; prefer **an der Haltestelle** for the requested meaning. Status: practicing.
+- Reconciliation: the previous Haltestelle note was misplaced under Ausweis; it belongs to V132 / 2026-10-07-S01-E05. Existing Ausweis evidence stays separate.
 
 
 ### V122 — der Reisepass
@@ -478,3 +497,97 @@ Newly encountered vocabulary not previously listed in the register:
 - Introduced in practice on 2026-10-08; status: practicing.
 
 Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fahrkarte, das Buch, der Schluessel, der Zug. Grammar/expression review: vor der Reise, vor dem Termin, ins Auto (direction), im Auto (location), zu Hause, danach, deshalb. Avoid duplicating these as new vocabulary.
+
+
+## Register reconciliation — 2026-10-09
+
+- V139 **die Empfehlung — die Empfehlungen** was introduced on October 9 and independently used in S01 E04; status practicing.
+- V140–V143 register the October 8 supplemental verbs **empfehlen, erreichen, vorbereiten, sich entscheiden für**; **vergessen** remains V103, without duplicate counting.
+- V144 **stornieren**, V145 **hoffen**, V146 **sich erinnern**, V147 **dass**, and V148 **die Buchung** are backed by actual teaching, learner output or dated corrections.
+- V149 **danach**, V150 **zu Hause**, V151 **die Hochschule**, V152 **die Reise**, V153 **Berlin** reconcile encountered practical vocabulary missing from the register. Unknown original introduction dates remain null.
+- Registration count increased from 139 to 153 by adding 14 omitted entries; this does not claim 14 new items learned today or any mastered-word total. Earlier numbered vocabulary IDs remain unchanged.
+- Current entry statuses and contextual evidence are authoritative in the table and progress.json. Older first-attempt-pending narrative blocks are historical checkpoints, not current assertions.
+
+### V140 — empfehlen
+- Meaning: ينصح / يوصي
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich empfehle meiner Schwester diesen Kurs.
+- Exact first introduction: 2026-10-08; registered at reconciliation on 2026-10-09.
+
+### V141 — erreichen
+- Meaning: يلحق / يصل إلى
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich habe den Zug erreicht.
+- Exact first introduction: 2026-10-08; registered at reconciliation on 2026-10-09.
+
+### V142 — vorbereiten
+- Meaning: يجهز / يحضّر
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich habe das Essen vorbereitet.
+- Exact first introduction: 2026-10-08; registered at reconciliation on 2026-10-09.
+
+### V143 — sich entscheiden für
+- Meaning: يقرر اختيار / يختار
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich entscheide mich für diese Wohnung.
+- Exact first introduction: 2026-10-08; registered at reconciliation on 2026-10-09.
+
+### V144 — stornieren
+- Meaning: يلغي حجزًا / طلبًا
+- Reference: —
+- Example (teaching reference, not a learner answer): Mein Bruder hat die Buchung storniert.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V145 — hoffen
+- Meaning: يتمنى / يأمل
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich hoffe, dass du morgen kommst.
+- Exact first introduction: 2026-10-09; registered at reconciliation on 2026-10-09.
+
+### V146 — sich erinnern
+- Meaning: يتذكر / يفتكر
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich erinnere mich, dass sie das Hotel gebucht hat.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V147 — dass
+- Meaning: إن / أن
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich weiß, dass mein Bruder arbeitet.
+- Exact first introduction: 2026-10-09; registered at reconciliation on 2026-10-09.
+
+### V148 — die Buchung
+- Meaning: الحجز
+- Reference: die Buchungen
+- Example (teaching reference, not a learner answer): Mein Bruder hat die Buchung storniert.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V149 — danach
+- Meaning: بعد كده / بعد ذلك
+- Reference: —
+- Example (teaching reference, not a learner answer): Danach hat er ihn mitgenommen.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V150 — zu Hause
+- Meaning: في البيت
+- Reference: —
+- Example (teaching reference, not a learner answer): Ich habe den Schlüssel zu Hause vergessen.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V151 — die Hochschule
+- Meaning: الجامعة / مؤسسة التعليم العالي
+- Reference: die Hochschulen
+- Example (teaching reference, not a learner answer): Die Wohnung ist in der Nähe der Hochschule.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V152 — die Reise
+- Meaning: السفر / الرحلة
+- Reference: die Reisen
+- Example (teaching reference, not a learner answer): Vor der Reise bereite ich den Koffer vor.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.
+
+### V153 — Berlin
+- Meaning: برلين
+- Reference: —
+- Example (teaching reference, not a learner answer): Mein Bruder arbeitet in Berlin.
+- Exact first introduction: unknown; left null; registered at reconciliation on 2026-10-09.

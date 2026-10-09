@@ -2,25 +2,23 @@
 
 ده سجل مذاكرتك للألماني، عشان أي AI يقدر يعرف وصلت لفين ويكمّل معاك بنفس طريقة المذاكرة.
 
-## Dashboard — 7 أكتوبر 2026
+## Dashboard — 9 أكتوبر 2026
 
 | جزء المذاكرة | الحالة الحالية |
 | --- | --- |
-| الأفعال المرقمة | **100 / 100 اتقدموا** |
-| 1–50 | اتراجعوا عدة مرات، محفوظين عمومًا، ويستمروا في المراجعة التراكمية |
-| 51–60 | حديثين ولسه **practicing** |
-| 61–70 | **practicing** |
-| 71–80 | **practicing**؛ كل العشرة اتجرّبوا مرة على الأقل |
-| 81–90 | **practicing**؛ أول batch مستقل خلص يوم 2026-10-05، والتركيز دلوقتي على articles/cases حوالين الأفعال |
-| القاعدة الحالية | **Perfekt — practicing**؛ Genitiv مستمر في المراجعة المتباعدة |
-| التركيز | **in der Nähe + Genitiv**، الملكية، والعبارات المتداخلة |
-| مقارنة أفعال محتاجة تدريب | **stehen/stellen بقى improving**؛ Genitiv adjective ending بقى stable؛ Genitiv noun ending وwarten auf وanfangen + zu محتاجين متابعة |
-| سجل المفردات | **136 مدخل مختلف**؛ ده عدد المسجّل، مش عدد الكلمات المتقنة |
-| آخر تاريخ مذاكرة | **2026-10-07** |
-| آخر نقطة | اليوم اتقفل بعد **S03 E20**؛ الاستكمال الأساسي **S03 E21–E30**، وS02 E49–E56 محفوظة |
-| ملف اليوم | **closed**؛ مفيش session نشطة |
-
-الأفعال الإضافية زي **erklären** و**besuchen** خارج ترقيم الـ60. مفيش نسبة إتقان مخترعة، وكون المادة قوية عمومًا مش معناه إنها اتقنت بالكامل.
+| الأفعال المرقمة | **100 / 100 اتقدموا**؛ التقديم مش إتقان |
+| 1–50 | strong group baseline؛ دليل كل فعل وزمن يتراجع بشكل منفصل |
+| 51–100 | practicing إجمالًا؛ حالة كل فعل محفوظة |
+| الأفعال الإضافية | مسجلة خارج الـ100، بما فيها hoffen وsich erinnern وstornieren |
+| القاعدة الحالية | **dass — practicing**؛ Perfekt وGenitiv للمراجعة المتباعدة |
+| آخر تدريب | S02 E01–E06؛ ترتيب dass صحيح 6/6، والترجمة كاملة 2/6 |
+| محتاج متابعة | weil + ist؛ er/sie حسب الفاعل؛ haben؛ und؛ gestern / zu Hause |
+| سجل المفردات | **153 مدخل مختلف**؛ العدد اتصالح مع الكلمات اللي كانت ناقصة، مش 14 كلمة جديدة النهارده |
+| آخر تاريخ مذاكرة | **2026-10-09** |
+| ملف اليوم | **open**؛ جلستان؛ الحالية **2026-10-09-S02** |
+| الاستكمال | **S02 E07–E08**؛ الأول وضّح زمن E07 المتعارض في نص السؤال |
+| التمارين القديمة | محفوظة؛ منها October 7 S03 E21–E30 وS02 E49–E56 |
+| إعادة الاختبار | أهداف كتابة مستحقة 2026-10-10؛ مش تذكير تلقائي |
 
 ## طريقة المذاكرة
 
@@ -42,7 +40,7 @@
 8. **القراءة (Reading)** — قطعة ألماني، ترجمة وفهم وأسئلة، ومساعدة لحد إجابتك بالألماني.
 9. **السماعي (Listening)** — موضوع مسموع بالألماني، ثم أسئلة وإجابات وتدريب على الفهم.
 
-Do not automatically start pending work. Read the live continuation in progress.json (currently S03 E21–E30); S02 E49–E56 and older pending batches remain preserved. Honor a study choice already supplied by the learner.
+Do not automatically start pending work. Read the live continuation in progress.json (currently 2026-10-09-S02 E07–E08); S02 E49–E56 and older pending batches remain preserved. Honor a study choice already supplied by the learner.
 
 ## متابعة الأربع مهارات
 
@@ -80,7 +78,10 @@ Do not automatically start pending work. Read the live continuation in progress.
 | [days/2026-10-03.md](days/2026-10-03.md) | 51–60، Genitiv، وبداية 71–80 |
 | [days/2026-10-04.md](days/2026-10-04.md) | Full review ومراجعة 71–80 |
 | [days/2026-10-05.md](days/2026-10-05.md) | التشخيص، تقديم وممارسة 81–90 |
-| [days/2026-10-06.md](days/2026-10-06.md) | Full/targeted review؛ E51–E60 محفوظين للاستكمال |\n| [days/2026-10-07.md](days/2026-10-07.md) | يوم جديد؛ progression diagnostic قبل الـbatch الأخير |
+| [days/2026-10-06.md](days/2026-10-06.md) | Full/targeted review؛ E51–E60 محفوظين للاستكمال |
+| [days/2026-10-07.md](days/2026-10-07.md) | يوم جديد؛ progression diagnostic قبل الـbatch الأخير |
+| [days/2026-10-08.md](days/2026-10-08.md) | أفعال إضافية ومراجعة الضمائر |
+| [days/2026-10-09.md](days/2026-10-09.md) | مراجعة حديثة ثم درس dass وإجابات S02 |
 | [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | قالب يوم جديد |
 | [AGENTS.md](AGENTS.md) | نقطة الدخول لأدوات البرمجة التي تقرأه |
 
@@ -176,3 +177,8 @@ The unresolved-review pool must include all material that is not strong/mastered
 2. **أفعال جديدة**
 
 اختيار القائمة وحده مش جلسة مذاكرة. بعد اختيار المسار تبدأ الجلسة الفعلية. مسار القواعد لازم يقدم قاعدة عملية جديدة فعلًا، ومسار الأفعال يتبع نظام التقدم الحالي. بعد اكتمال الهدف المرقم، أي أفعال إضافية تبقى supplemental/extension إلا لو المتعلم طلب توسيع الهدف المرقم.
+
+
+## Snapshot reconciliation — 2026-10-09
+
+Current dashboard and CURRENT_STATE authoritative block supersede historical checkpoints below/above. Exact learner answers, corrections, independent/support flags and pending prompts are saved in the dated day and progress.json. Unknown times and unprovided raw historical answers remain unknown.

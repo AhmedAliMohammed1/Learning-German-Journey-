@@ -20,7 +20,8 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | anfangen / aufhören + zu; um ... zu | improving | Sentence translation |
 | daran denken | introduced | an + Akk; daran substitution |
 | Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | Spaced maintenance while new grammar progresses |
-| Perfekt: haben/sein + Partizip II | practicing | **Active grammar topic (2026-10-07)** |
+| Perfekt: haben/sein + Partizip II | practicing | Introduced 2026-10-07; continues in spaced maintenance |
+| dass: Präsens, modal and Perfekt subordinate clauses | practicing | Active main topic introduced 2026-10-09 |
 
 ## Cases and pronouns
 
@@ -398,3 +399,30 @@ Latest state on 2026-10-03: the learner requested cumulative verbs **1–60 + Ge
 - Learner generally controls auxiliary placement and final Partizip II.
 - Strong forms include gearbeitet, gekauft, angerufen, ausgefüllt, angekommen, gegangen, gesehen, geschrieben, geschlossen, gespielt.
 - Current repairs: movement verbs with sein, nach Hause for destination, irregular participles, and article/preposition accuracy.
+
+
+## Active main topic — dass (introduced 2026-10-09)
+
+**dass = إن / أن**. الفعل المصرف في آخر الجملة التابعة:
+- Ich weiß, dass mein Bruder in Berlin arbeitet.
+- Ich hoffe, dass mein Bruder morgen kommen kann.
+- Ich weiß, dass meine Schwester gestern das Hotel gebucht hat.
+
+مع Perfekt: **Partizip II + haben/sein المصرف** في الآخر. مع modal في Präsens: **Infinitiv + modal المصرف** في الآخر.
+**weil = لأن**؛ **dass = إن**. جملة weil لازم تحتوي فعلًا مصرفًا أيضًا: weil sie in der Nähe der Hochschule **ist**.
+
+New supplemental verb: **hoffen — ich hoffe — hat gehofft**. Learner-produced **sich erinnern — ich erinnere mich — hat sich erinnert** is acceptable with **(daran), dass ...** when فاكر means remembering. For an opinion/assumption, **Ich denke/glaube, dass ...** expresses a different intended meaning.
+
+Evidence: 2026-10-09-S02 E01–E06 all put the finite verb correctly at the end of dass. Only E01/E03 are fully complete translations; E02/E04 omit gestern, E05 omits weil's ist, and E06 omits zu Hause and changes the caller to ich. Keep dass practicing; no delayed retention check yet.
+
+## Latest mixed grammar maintenance — October 8–9
+
+- Modal Perfekt: **Meine Schwester hat gestern nicht in den Zug einsteigen können.** Auxiliary haben and two infinitives here are correct; ordinary einsteigen alone normally uses sein.
+- Coordination: **und ich habe ihn ins Auto gelegt**, or share the earlier subject/auxiliary: **und ihn ins Auto gelegt**. Und does not occupy the following main clause's first position.
+- **danach/deshalb + finite verb + subject**: Danach hat **sie** es gebucht. Deshalb hat **er** meine Schwester angerufen. Preserve the intended actor.
+- Haben agreement: **mein Bruder hat**, not *mein Bruder hab*. In **hab ich**, hab is a colloquial reduced habe; distinguish register from agreement and semantic subject errors.
+- Pronouns: **der Koffer/ihn**, **die Tasche/sie**, **das Essen/es**. In **danach hat sie sie mitgenommen**, the first sie is subject and second is object.
+- Missing details are separate from correct grammar: preserve **gestern**, **zu Hause** and the requested person.
+- **in der Nähe der Hochschule** was correct in S02 E05; Genitiv remains spaced maintenance.
+
+Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens label and needs clarification before answering. All earlier pending practice remains deferred. Written retests due 2026-10-10; no oral assessment inferred.

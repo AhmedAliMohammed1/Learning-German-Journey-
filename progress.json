@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-09",
-  "last_updated_at": "2026-10-07T13:05:00+02:00",
+  "last_updated_at": "2026-10-09T12:14:04+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-09",
   "latest_day": "2026-10-09",
   "day_status": "open",
-  "current_session_id": "2026-10-09-S01",
-  "sessions_recorded": 10,
-  "last_verified_study_at": "2026-10-06T17:40:33+02:00",
-  "active_topic": "targeted review: recent supplemental verbs and Perfekt",
-  "next_action": "Recent material batch E01–E05 corrected (4 independently correct; E02 und clause word order needs fresh retest). Continue with fresh mixed Präsens/Perfekt practice, including und coordination and pronoun selection.",
+  "current_session_id": "2026-10-09-S02",
+  "sessions_recorded": 12,
+  "last_verified_study_at": null,
+  "active_topic": "dass: Präsens/modal/Perfekt; weil completeness and subject continuity",
+  "next_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -31,9 +31,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "V131 + nach der Verspätung + kaufen"
+      "target": "V131 + nach der Verspätung + kaufen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E52",
@@ -41,9 +42,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "modal + zurückgeben Dat+Akk"
+      "target": "modal + zurückgeben Dat+Akk",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E53",
@@ -51,9 +53,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "öffnen + weil"
+      "target": "öffnen + weil",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E54",
@@ -61,9 +64,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "nach dem Termin + anrufen word order"
+      "target": "nach dem Termin + anrufen word order",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E55",
@@ -71,9 +75,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "warten auf + vor der Hochschule"
+      "target": "warten auf + vor der Hochschule",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E56",
@@ -81,9 +86,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "wissen/kennen + possessives"
+      "target": "wissen/kennen + possessives",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E57",
@@ -91,9 +97,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "danken Dat + weil + helfen Dat"
+      "target": "danken Dat + weil + helfen Dat",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E58",
@@ -101,9 +108,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "buchen + weil"
+      "target": "buchen + weil",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E59",
@@ -111,9 +119,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "abholen + am Schalter + nach der Arbeit"
+      "target": "abholen + am Schalter + nach der Arbeit",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S02-E60",
@@ -121,9 +130,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_review",
-      "target": "legen + in den Rucksack + vor der Arbeit"
+      "target": "legen + in den Rucksack + vor der Arbeit",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E21",
@@ -131,9 +141,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "mitbringen"
+      "target": "mitbringen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E22",
@@ -141,9 +152,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "ausfüllen"
+      "target": "ausfüllen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E23",
@@ -151,9 +163,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "nested Genitiv"
+      "target": "nested Genitiv",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E24",
@@ -161,9 +174,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "stellen"
+      "target": "stellen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E25",
@@ -171,9 +185,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "stehen"
+      "target": "stehen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E26",
@@ -181,9 +196,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "anmelden"
+      "target": "anmelden",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E27",
@@ -191,9 +207,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "erzählen"
+      "target": "erzählen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E28",
@@ -201,9 +218,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "Fahrplan"
+      "target": "Fahrplan",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E29",
@@ -211,9 +229,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "absagen"
+      "target": "absagen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-06-S01-E30",
@@ -221,79 +240,100 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_full_review",
+      "priority": "paused_preserved_work",
       "activity": "full_review",
-      "target": "geben + Fahrkarte"
+      "target": "geben + Fahrkarte",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E41",
       "prompt_ar": "أنا بحط الخطاب في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E42",
       "prompt_ar": "الخطاب موجود في شنطة الظهر.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E43",
       "prompt_ar": "أنا بدي أمي مفتاح عربية أبويا.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E44",
       "prompt_ar": "المكتبة قريبة من مدخل الجامعة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E45",
       "prompt_ar": "الفندق قريب من الحديقة العامة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E46",
       "prompt_ar": "بعد الشغل، أخويا بيفتح الشباك.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E47",
       "prompt_ar": "أنا عارف أختي بتشتغل فين.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E48",
       "prompt_ar": "أنا بتوقف عن الكتابة الساعة تسعة.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E49",
       "prompt_ar": "أنا بطلب شاي علشان أشربه هنا.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S01-E50",
       "prompt_ar": "أنا بوري أختي الكتاب.",
       "status": "pending",
       "hint_used": false,
-      "learner_answer": null
+      "learner_answer": null,
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E21",
@@ -301,8 +341,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E22",
@@ -310,8 +351,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E23",
@@ -319,8 +361,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E24",
@@ -328,8 +371,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E25",
@@ -337,8 +381,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E26",
@@ -346,8 +391,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E27",
@@ -355,8 +401,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E28",
@@ -364,8 +411,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E29",
@@ -373,8 +421,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E30",
@@ -382,8 +431,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "deferred_review",
-      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review."
+      "priority": "paused_preserved_work",
+      "deferred_reason": "Learner explicitly requested progression to new numbered verbs after sufficient review.",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E51",
@@ -392,7 +442,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E52",
@@ -401,7 +452,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E53",
@@ -410,7 +462,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E54",
@@ -419,7 +472,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E55",
@@ -428,7 +482,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E56",
@@ -437,7 +492,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E57",
@@ -446,7 +502,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E58",
@@ -455,7 +512,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E59",
@@ -464,7 +522,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-03-S02-E60",
@@ -473,7 +532,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "numbered_verbs_71_80",
-      "priority": "active_new_material"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E31",
@@ -482,7 +542,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E32",
@@ -491,7 +552,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E33",
@@ -500,7 +562,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E34",
@@ -509,7 +572,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E35",
@@ -518,7 +582,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E36",
@@ -527,7 +592,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E37",
@@ -536,7 +602,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E38",
@@ -545,7 +612,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E39",
@@ -554,7 +622,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-04-S01-E40",
@@ -563,7 +632,8 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review",
-      "priority": "active_review"
+      "priority": "paused_preserved_work",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E06",
@@ -571,9 +641,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "ankommen"
+      "target": "ankommen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E07",
@@ -581,9 +652,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "einsteigen"
+      "target": "einsteigen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E08",
@@ -591,9 +663,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "aussteigen"
+      "target": "aussteigen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E09",
@@ -601,9 +674,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "umsteigen"
+      "target": "umsteigen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E10",
@@ -611,9 +685,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "einladen"
+      "target": "einladen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E11",
@@ -621,9 +696,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "teilnehmen"
+      "target": "teilnehmen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E12",
@@ -631,9 +707,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "mitnehmen"
+      "target": "mitnehmen",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E13",
@@ -641,9 +718,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "abgeben"
+      "target": "abgeben",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E14",
@@ -651,9 +729,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "einschalten + V133"
+      "target": "einschalten + V133",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S01-E15",
@@ -661,9 +740,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_new_material",
+      "priority": "paused_preserved_work",
       "activity": "numbered_verbs_91_100",
-      "target": "ausschalten + V133"
+      "target": "ausschalten + V133",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E49",
@@ -671,8 +751,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E50",
@@ -680,8 +761,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E51",
@@ -689,8 +771,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E52",
@@ -698,8 +781,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E53",
@@ -707,8 +791,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E54",
@@ -716,8 +801,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E55",
@@ -725,8 +811,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S02-E56",
@@ -734,8 +821,9 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "active_new_grammar",
-      "activity": "perfekt_initial_practice"
+      "priority": "paused_preserved_work",
+      "activity": "perfekt_initial_practice",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E21",
@@ -743,9 +831,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Praesens"
+      "tense": "Praesens",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E22",
@@ -753,9 +842,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Perfekt"
+      "tense": "Perfekt",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E23",
@@ -763,9 +853,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Praesens"
+      "tense": "Praesens",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E24",
@@ -773,9 +864,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Perfekt"
+      "tense": "Perfekt",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E25",
@@ -783,9 +875,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Praesens"
+      "tense": "Praesens",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E26",
@@ -793,9 +886,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Perfekt"
+      "tense": "Perfekt",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E27",
@@ -803,9 +897,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Perfekt"
+      "tense": "Perfekt",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E28",
@@ -813,9 +908,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Praesens"
+      "tense": "Praesens",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E29",
@@ -823,9 +919,10 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Perfekt"
+      "tense": "Perfekt",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
     },
     {
       "id": "2026-10-07-S03-E30",
@@ -833,9 +930,36 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "priority": "paused_targeted_review",
+      "priority": "paused_preserved_work",
       "activity": "history_wide_unresolved_sentence_review",
-      "tense": "Praesens"
+      "tense": "Praesens",
+      "preserved_status_before_checkpoint": "paused_preserved_work"
+    },
+    {
+      "id": "2026-10-09-S02-E07",
+      "session_id": "2026-10-09-S02",
+      "prompt_ar": "أنا عارف إن أخويا اختار الفندق ده، لأنه قريب من محطة القطر.",
+      "tense": "Präsens",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_grammar",
+      "activity": "dass_grammar_track",
+      "target": "dass + weil completeness + sein",
+      "prompt_clarification_required": true,
+      "prompt_note": "Preserve original wording: اختار is past, but supplied label is Präsens. Before answering clarify present as بيختار or relabel Perfekt; no attempt has occurred."
+    },
+    {
+      "id": "2026-10-09-S02-E08",
+      "session_id": "2026-10-09-S02",
+      "prompt_ar": "أنا أتمنى إن أختي ما نسيتش جواز السفر في البيت.",
+      "tense": "Perfekt",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_grammar",
+      "activity": "dass_grammar_track",
+      "target": "dass + negation + hat vergessen + zu Hause"
     }
   ],
   "completed_exercise_ids": [
@@ -1035,6 +1159,14 @@
     "2026-10-07-S02-E14",
     "2026-10-07-S02-E15",
     "2026-10-07-S02-E16",
+    "2026-10-07-S02-E17",
+    "2026-10-07-S02-E18",
+    "2026-10-07-S02-E19",
+    "2026-10-07-S02-E20",
+    "2026-10-07-S02-E21",
+    "2026-10-07-S02-E22",
+    "2026-10-07-S02-E23",
+    "2026-10-07-S02-E24",
     "2026-10-07-S02-E25",
     "2026-10-07-S02-E26",
     "2026-10-07-S02-E27",
@@ -1059,6 +1191,16 @@
     "2026-10-07-S02-E46",
     "2026-10-07-S02-E47",
     "2026-10-07-S02-E48",
+    "2026-10-07-S03-E01",
+    "2026-10-07-S03-E02",
+    "2026-10-07-S03-E03",
+    "2026-10-07-S03-E04",
+    "2026-10-07-S03-E05",
+    "2026-10-07-S03-E06",
+    "2026-10-07-S03-E07",
+    "2026-10-07-S03-E08",
+    "2026-10-07-S03-E09",
+    "2026-10-07-S03-E10",
     "2026-10-07-S03-E11",
     "2026-10-07-S03-E12",
     "2026-10-07-S03-E13",
@@ -1069,11 +1211,52 @@
     "2026-10-07-S03-E18",
     "2026-10-07-S03-E19",
     "2026-10-07-S03-E20",
+    "2026-10-08-S01-E01",
+    "2026-10-08-S01-E02",
+    "2026-10-08-S01-E03",
+    "2026-10-08-S01-E04",
+    "2026-10-08-S01-E05",
+    "2026-10-08-S01-E06",
+    "2026-10-08-S01-E07",
+    "2026-10-08-S01-E08",
+    "2026-10-08-S01-E09",
+    "2026-10-08-S01-E10",
+    "2026-10-08-S01-E11",
+    "2026-10-08-S01-E12",
+    "2026-10-08-S01-E13",
+    "2026-10-08-S01-E14",
+    "2026-10-08-S01-E15",
+    "2026-10-08-S01-E16",
+    "2026-10-08-S01-E17",
+    "2026-10-08-S01-E18",
+    "2026-10-08-S01-E19",
+    "2026-10-08-S01-E20",
+    "2026-10-08-S01-E21",
+    "2026-10-08-S01-E22",
+    "2026-10-08-S01-E23",
+    "2026-10-08-S01-E24",
+    "2026-10-08-S01-E25",
+    "2026-10-08-S01-E26",
+    "2026-10-08-S01-E27",
+    "2026-10-08-S01-E28",
+    "2026-10-08-S01-E29",
     "2026-10-09-S01-E01",
     "2026-10-09-S01-E02",
     "2026-10-09-S01-E03",
     "2026-10-09-S01-E04",
-    "2026-10-09-S01-E05"
+    "2026-10-09-S01-E05",
+    "2026-10-09-S01-E06",
+    "2026-10-09-S01-E07",
+    "2026-10-09-S01-E08",
+    "2026-10-09-S01-E09",
+    "2026-10-09-S01-E10",
+    "2026-10-09-S01-E11",
+    "2026-10-09-S02-E01",
+    "2026-10-09-S02-E02",
+    "2026-10-09-S02-E03",
+    "2026-10-09-S02-E04",
+    "2026-10-09-S02-E05",
+    "2026-10-09-S02-E06"
   ],
   "verbs": {
     "introduced_total": 100,
@@ -1137,12 +1320,12 @@
         "from": 91,
         "to": 100,
         "count": 10,
-        "status": "introduced",
+        "status": "practicing",
         "recency": "new",
         "introduced_on": "2026-10-07",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "assessment_basis": "Mixed group: item-level statuses retained; Perfekt practice documented, and dedicated present batch still paused.",
         "historical_review_count": null,
-        "last_reviewed": null
+        "last_reviewed": "2026-10-09"
       }
     ],
     "items": [
@@ -1163,7 +1346,19 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": null,
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bin; er ist",
+        "perfekt_reference": "ist gewesen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "strong"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
       },
       {
         "id": 2,
@@ -1174,15 +1369,94 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 6,
+        "independent_correct": 4,
+        "last_reviewed": "2026-10-09",
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E02",
+            "independent": true,
+            "correct": false,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "independent": true,
+            "correct": false,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E11",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Auxiliary agreement/order assessed in its actual clause; hab ich is colloquial, and subject mismatch is separate."
+          }
+        ],
         "meaning_ar": "يملك / عنده",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": null,
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich habe; er hat",
+        "perfekt_reference": "hat gehabt",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "strong"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 3,
@@ -1317,15 +1591,39 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-09",
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E01",
+            "independent": true,
+            "correct": true,
+            "tense": "Präsens",
+            "kind": "contextual_verb_use",
+            "note": "Arbeitet is clause-final after dass."
+          }
+        ],
         "meaning_ar": "يعمل",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": null,
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich arbeite; er arbeitet",
+        "perfekt_reference": "hat gearbeitet",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing",
+            "historical_group_baseline": "strong"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
       },
       {
         "id": 10,
@@ -1564,9 +1862,9 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 0,
-        "last_reviewed": "2026-10-03",
+        "recorded_attempts": 4,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -1576,13 +1874,58 @@
             "independent": true,
             "correct": false,
             "note": "wissen correct, but indirect wo clause word order incorrect."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E01",
+            "independent": true,
+            "correct": true,
+            "tense": "Präsens",
+            "kind": "contextual_verb_use",
+            "note": "Ich weiß, dass ... correct."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Ich weiß, dass ... correct."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Ich weiß, dass ... correct."
           }
         ],
         "meaning_ar": "يعرف معلومة",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "information: Ich weiß die Antwort.",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich weiß; er weiß",
+        "perfekt_reference": "hat gewusst",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing",
+            "historical_group_baseline": "strong"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 23,
@@ -1765,15 +2108,50 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-09",
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E03",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat ... einsteigen können correct."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E03",
+            "independent": true,
+            "correct": true,
+            "tense": "Präsens",
+            "kind": "contextual_verb_use",
+            "note": "Morgen kommen kann correct after dass."
+          }
+        ],
         "meaning_ar": "يستطيع",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "modal + final infinitive",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich kann; er kann",
+        "perfekt_reference": "hat gekonnt; with another infinitive: hat ... können",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing",
+            "historical_group_baseline": "strong"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 33,
@@ -2212,7 +2590,19 @@
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
         "usage_note": "lay something horizontally; destination + Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich lege",
+        "perfekt_reference": "hat gelegt",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "practicing"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
       },
       {
         "id": 53,
@@ -2530,9 +2920,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 2,
-        "independent_correct": 2,
-        "last_reviewed": "2026-10-04",
+        "recorded_attempts": 4,
+        "independent_correct": 4,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -2551,13 +2941,47 @@
             "independent": true,
             "correct": true,
             "note": "anrufen + Akk and separable an correct."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E05",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Angerufen correctly formed; requested subject differs in S02 E06."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Angerufen correctly formed; requested subject differs in S02 E06."
           }
         ],
         "meaning_ar": "يتصل هاتفيًا",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
         "usage_note": "separable; jemanden anrufen + Akk: Ich rufe meine Mutter an.",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich rufe ... an",
+        "perfekt_reference": "hat angerufen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 64,
@@ -3229,9 +3653,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-05",
+        "recorded_attempts": 4,
+        "independent_correct": 4,
+        "last_reviewed": "2026-10-09",
         "evidence": [
           {
             "date": "2026-10-05",
@@ -3241,13 +3665,58 @@
             "independent": true,
             "correct": true,
             "note": "Correct verb use of buchen; noun/article/case forms needed repair."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E09",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat gebucht correctly formed; omissions elsewhere are separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E11",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat gebucht correctly formed; omissions elsewhere are separate."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat gebucht correctly formed; omissions elsewhere are separate."
           }
         ],
         "meaning_ar": "يحجز فندق/تذكرة",
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich buche",
+        "perfekt_reference": "hat gebucht",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 85,
@@ -3447,18 +3916,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يصل",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable; Perfekt commonly ist angekommen",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich komme an",
+        "perfekt_reference": "ist angekommen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 92,
@@ -3466,18 +3956,50 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-09",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E03",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "In den Zug einsteigen + modal Perfekt correct."
+          }
+        ],
         "meaning_ar": "يركب / يصعد وسيلة مواصلات",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich steige ein",
+        "perfekt_reference": "ist eingestiegen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 93,
@@ -3485,18 +4007,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "ينزل من وسيلة مواصلات",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich steige aus",
+        "perfekt_reference": "ist ausgestiegen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 94,
@@ -3510,12 +4053,33 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "last_reviewed": null,
-        "evidence": [],
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يغيّر / يبدّل وسيلة مواصلات",
         "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich steige um",
+        "perfekt_reference": "ist umgestiegen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
       },
       {
         "id": 95,
@@ -3523,18 +4087,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يدعو",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Actual attempted Perfekt use in 2026-10-07-S02 E46/E47, despite errors; introduced does not erase a documented attempt.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich lade ein; du lädst ein; er lädt ein",
+        "perfekt_reference": "hat eingeladen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 96,
@@ -3542,18 +4127,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يشارك / يحضر",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Actual attempted Perfekt use in 2026-10-07-S02 E46/E47, despite errors; introduced does not erase a documented attempt.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich nehme teil",
+        "perfekt_reference": "hat teilgenommen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 97,
@@ -3561,18 +4167,72 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 3,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-09",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E06",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat mitgenommen correctly formed; pronoun evidence is tracked separately."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat mitgenommen correctly formed; pronoun evidence is tracked separately."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "independent": true,
+            "correct": true,
+            "tense": "Perfekt",
+            "kind": "contextual_verb_use",
+            "note": "Hat mitgenommen correctly formed; pronoun evidence is tracked separately."
+          }
+        ],
         "meaning_ar": "يأخذ معه",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich nehme mit; du nimmst mit; er nimmt mit",
+        "perfekt_reference": "hat mitgenommen",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 98,
@@ -3580,18 +4240,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يسلّم / يقدّم شيئًا",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich gebe ab",
+        "perfekt_reference": "hat abgegeben",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 99,
@@ -3599,18 +4280,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يشغّل جهازًا / النور",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schalte ein",
+        "perfekt_reference": "hat eingeschaltet",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       },
       {
         "id": 100,
@@ -3618,18 +4320,39 @@
         "identity_status": "course_selected",
         "introduced": true,
         "introduction_date": "2026-10-07",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-07",
+        "evidence": [
+          {
+            "date": "2026-10-07",
+            "session_id": "2026-10-07-S02",
+            "source": "days/2026-10-07.md",
+            "kind": "dated_summary",
+            "independent": null,
+            "note": "Perfekt curriculum references and dated session evidence reconciled; missing original answers or counters are not reconstructed."
+          }
+        ],
         "meaning_ar": "يطفئ / يغلق جهازًا أو النور",
-        "review_status": "introduced",
-        "assessment_basis": "introduced live after 2026-10-07 progression diagnostic; first practice pending",
+        "review_status": "practicing",
+        "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
         "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schalte aus",
+        "perfekt_reference": "hat ausgeschaltet",
+        "reference_backfilled_on": "2026-10-09",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "historical_group_baseline": "introduced"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
       }
     ],
     "named_verbs_without_confirmed_id": [],
@@ -3637,14 +4360,430 @@
     "supplemental_verbs": [
       "besuchen",
       "erklären",
-      "vergessen"
+      "vergessen",
+      "empfehlen",
+      "erreichen",
+      "vorbereiten",
+      "sich entscheiden für",
+      "stornieren",
+      "hoffen",
+      "sich erinnern"
     ],
     "supplemental_constructions": [
       "mit jemandem sprechen"
+    ],
+    "supplemental_items": [
+      {
+        "vocabulary_id": "V091",
+        "infinitive": "besuchen",
+        "meaning_ar": "يزور",
+        "introduced": true,
+        "introduced_on": null,
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "praesens_reference": "ich besuche",
+        "perfekt_reference": "hat besucht",
+        "usage_note": "+ Akk",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V092",
+        "infinitive": "erklären",
+        "meaning_ar": "يشرح",
+        "introduced": true,
+        "introduced_on": null,
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "praesens_reference": "ich erkläre",
+        "perfekt_reference": "hat erklärt",
+        "usage_note": "Dat person + Akk thing",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V103",
+        "infinitive": "vergessen",
+        "meaning_ar": "ينسى",
+        "introduced": true,
+        "introduced_on": null,
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich vergesse; du vergisst; er vergisst",
+        "perfekt_reference": "hat vergessen",
+        "usage_note": "+ Akk",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V140",
+        "infinitive": "empfehlen",
+        "meaning_ar": "ينصح / يوصي",
+        "introduced": true,
+        "introduced_on": "2026-10-08",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich empfehle; du empfiehlst; er empfiehlt",
+        "perfekt_reference": "hat empfohlen",
+        "usage_note": "Dat person + Akk thing; empfehlen, etwas zu tun",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E01",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E08",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V141",
+        "infinitive": "erreichen",
+        "meaning_ar": "يلحق / يصل إلى",
+        "introduced": true,
+        "introduced_on": "2026-10-08",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "praesens_reference": "ich erreiche",
+        "perfekt_reference": "hat erreicht",
+        "usage_note": "+ Akk",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V142",
+        "infinitive": "vorbereiten",
+        "meaning_ar": "يجهز / يحضّر",
+        "introduced": true,
+        "introduced_on": "2026-10-08",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich bereite ... vor",
+        "perfekt_reference": "hat vorbereitet",
+        "usage_note": "separable; + Akk",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V143",
+        "infinitive": "sich entscheiden für",
+        "meaning_ar": "يقرر اختيار / يختار",
+        "introduced": true,
+        "introduced_on": "2026-10-08",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich entscheide mich für",
+        "perfekt_reference": "hat sich für ... entschieden",
+        "usage_note": "reflexive; für + Akk",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E07",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E08",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E09",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V144",
+        "infinitive": "stornieren",
+        "meaning_ar": "يلغي حجزًا / طلبًا",
+        "introduced": true,
+        "introduced_on": null,
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich storniere",
+        "perfekt_reference": "hat storniert",
+        "usage_note": "+ Akk; die Buchung stornieren",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E11",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V145",
+        "infinitive": "hoffen",
+        "meaning_ar": "يتمنى / يأمل",
+        "introduced": true,
+        "introduced_on": "2026-10-09",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich hoffe",
+        "perfekt_reference": "hat gehofft",
+        "usage_note": "hoffen, dass ...",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E03",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      },
+      {
+        "vocabulary_id": "V146",
+        "infinitive": "sich erinnern",
+        "meaning_ar": "يتذكر / يفتكر",
+        "introduced": true,
+        "introduced_on": null,
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "praesens_reference": "ich erinnere mich",
+        "perfekt_reference": "hat sich erinnert",
+        "usage_note": "sich an + Akk erinnern; sich (daran) erinnern, dass ...",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        }
+      }
     ]
   },
   "grammar": {
-    "active": "perfekt",
+    "active": "dass",
     "topics": [
       {
         "id": "cases_and_pronouns",
@@ -3689,7 +4828,16 @@
         "source": "learner_provided_history_backfill",
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "evidence": []
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "independent": true,
+            "correct": false,
+            "note": "Weil clause lacks finite ist."
+          }
+        ]
       },
       {
         "id": "deshalb_v2",
@@ -3804,6 +4952,18 @@
             "exercise_range": "2026-10-07-S02-E25-E32",
             "independent": true,
             "note": "Perfekt participles mostly retained. Main repair remains sein with einsteigen/aussteigen and destination/location prepositions."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_ids": [
+              "2026-10-09-S02-E02",
+              "2026-10-09-S02-E04",
+              "2026-10-09-S02-E06"
+            ],
+            "kind": "dimension_evidence",
+            "independent": true,
+            "note": "All three have Partizip II + hat clause-final after dass. Complete translations still need omitted details and correct subject. Existing aggregate historical counters retained."
           }
         ],
         "subtopics": [
@@ -3811,7 +4971,78 @@
           "partizip_ii",
           "regular_participles",
           "separable_participles",
-          "common_movement_verbs"
+          "common_movement_verbs",
+          "modal_ersatzinfinitiv",
+          "und_coordination",
+          "danach_v2",
+          "auxiliary_agreement",
+          "dass_perfekt"
+        ]
+      },
+      {
+        "id": "dass",
+        "title": "dass subordinate clauses: Präsens, modal verbs and Perfekt",
+        "status": "practicing",
+        "source": "2026-10-09-S02 new grammar track",
+        "introduced_on": "2026-10-09",
+        "recorded_attempts": 6,
+        "independent_correct": 6,
+        "full_translation_independent_correct": 2,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E01",
+            "independent": true,
+            "correct": true,
+            "note": "Finite verb arbeitet correctly clause-final."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "independent": true,
+            "correct": true,
+            "note": "Erinnere mich, dass is valid for remembering; daran is optional. Missing gestern. If فاكر means I think, Ich denke/glaube, dass is another meaning."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E03",
+            "independent": true,
+            "correct": true,
+            "note": "Modal kann correctly after final infinitive kommen."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "independent": true,
+            "correct": true,
+            "note": "Missing gestern; dass Perfekt and afterwards V2 are correct. First sie is sister subject; second sie is bag object. The afterwards clause is outside dass scope in this valid reading."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "independent": true,
+            "correct": true,
+            "note": "Dass/reflexive structure and Genitiv correct. Weil needs final ist and a comma connection."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "independent": true,
+            "correct": true,
+            "note": "Missing zu Hause; er must preserve brother as subject. Hab ich is a colloquial form of habe ich, not an agreement error by itself; the requested subject requires hat er. Capitalize Deshalb."
+          }
+        ],
+        "subtopics": [
+          "finite_verb_final",
+          "modal_infinitive_plus_finite_modal",
+          "partizip_ii_plus_auxiliary",
+          "dass_vs_weil"
         ]
       }
     ],
@@ -3840,13 +5071,19 @@
       "anfangen + zu + Infinitiv",
       "aufhören + zu + Infinitiv",
       "um ... zu + Infinitiv",
-      "modal verb + infinitive at the end"
+      "modal verb + infinitive at the end",
+      "hoffen, dass ...",
+      "sich (daran) erinnern, dass ...",
+      "sich entscheiden für + Akk",
+      "empfehlen + Dat person + Akk thing",
+      "stornieren + Akk",
+      "modal Perfekt: haben + lexical infinitive + modal Ersatzinfinitiv"
     ]
   },
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 139,
+    "registered_entries_count": 153,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -5389,13 +6626,34 @@
         "type": "supplemental_verb",
         "article": null,
         "plural": null,
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": null,
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-09",
         "source": "previous_notes_or_other_sections_of_learner_backfill",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ]
       },
       {
         "id": "V104",
@@ -5604,14 +6862,25 @@
         "type": "noun",
         "article": "der",
         "plural": "die Koffer",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-09",
         "source": "2026-10-03-S02 batch 3",
         "usage_example": "Der Koffer steht neben der Tür.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ]
       },
       {
         "id": "V114",
@@ -6151,13 +7420,24 @@
         "type": "noun",
         "article": "das",
         "plural": "die Autos",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-08",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-09",
         "source": "2026-10-08-S01",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ]
       },
       {
         "id": "V138",
@@ -6166,13 +7446,24 @@
         "type": "noun",
         "article": "die",
         "plural": "die Taschen",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-08",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-09",
         "source": "2026-10-08-S01",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ]
       },
       {
         "id": "V139",
@@ -6181,13 +7472,587 @@
         "type": "noun",
         "article": "die",
         "plural": "die Empfehlungen",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-09",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-09",
         "source": "2026-10-09-S01",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ]
+      },
+      {
+        "id": "V140",
+        "german": "empfehlen",
+        "meaning_ar": "ينصح / يوصي",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich empfehle meiner Schwester diesen Kurs.",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E01",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E08",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V141",
+        "german": "erreichen",
+        "meaning_ar": "يلحق / يصل إلى",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "introduced",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": null,
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich habe den Zug erreicht.",
         "recorded_attempts": 0,
         "independent_correct": 0,
-        "evidence": []
+        "evidence": [],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V142",
+        "german": "vorbereiten",
+        "meaning_ar": "يجهز / يحضّر",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich habe das Essen vorbereitet.",
+        "recorded_attempts": 4,
+        "independent_correct": 4,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V143",
+        "german": "sich entscheiden für",
+        "meaning_ar": "يقرر اختيار / يختار",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich entscheide mich für diese Wohnung.",
+        "recorded_attempts": 5,
+        "independent_correct": 5,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E07",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E08",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E09",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V144",
+        "german": "stornieren",
+        "meaning_ar": "يلغي حجزًا / طلبًا",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Mein Bruder hat die Buchung storniert.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E11",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V145",
+        "german": "hoffen",
+        "meaning_ar": "يتمنى / يأمل",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": "2026-10-09",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich hoffe, dass du morgen kommst.",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E03",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V146",
+        "german": "sich erinnern",
+        "meaning_ar": "يتذكر / يفتكر",
+        "type": "supplemental_verb",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich erinnere mich, dass sie das Hotel gebucht hat.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V147",
+        "german": "dass",
+        "meaning_ar": "إن / أن",
+        "type": "conjunction",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": "2026-10-09",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich weiß, dass mein Bruder arbeitet.",
+        "recorded_attempts": 6,
+        "independent_correct": 6,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E01",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E03",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V148",
+        "german": "die Buchung",
+        "meaning_ar": "الحجز",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Buchungen",
+        "status": "introduced",
+        "introduced_on": null,
+        "last_reviewed": null,
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Mein Bruder hat die Buchung storniert.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V149",
+        "german": "danach",
+        "meaning_ar": "بعد كده / بعد ذلك",
+        "type": "adverb_or_adjective",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Danach hat er ihn mitgenommen.",
+        "recorded_attempts": 6,
+        "independent_correct": 6,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E06",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E09",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E10",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E11",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          },
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V150",
+        "german": "zu Hause",
+        "meaning_ar": "في البيت",
+        "type": "expression",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Ich habe den Schlüssel zu Hause vergessen.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S01",
+            "exercise_id": "2026-10-09-S01-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V151",
+        "german": "die Hochschule",
+        "meaning_ar": "الجامعة / مؤسسة التعليم العالي",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Hochschulen",
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Die Wohnung ist in der Nähe der Hochschule.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E05",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V152",
+        "german": "die Reise",
+        "meaning_ar": "السفر / الرحلة",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Reisen",
+        "status": "introduced",
+        "introduced_on": null,
+        "last_reviewed": null,
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Vor der Reise bereite ich den Koffer vor.",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V153",
+        "german": "Berlin",
+        "meaning_ar": "برلين",
+        "type": "place_name",
+        "article": null,
+        "plural": null,
+        "status": "practicing",
+        "introduced_on": null,
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
+        "registered_on": "2026-10-09",
+        "usage_example": "Mein Bruder arbeitet in Berlin.",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "timestamp": null,
+            "session_id": "2026-10-09-S02",
+            "exercise_id": "2026-10-09-S02-E01",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent contextual use; no isolated recall or plural mastery claim."
+          }
+        ],
+        "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
       }
     ]
   },
@@ -6409,12 +8274,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
-        "2026-10-03-S01"
+        "2026-10-03-S01",
+        "2026-10-09-S02"
       ],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-09",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6422,6 +8288,15 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E09 deshalb + verb-second correct."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E06",
+          "independent": true,
+          "correct": true,
+          "note": "Deshalb + auxiliary + subject order is correct."
         }
       ]
     },
@@ -6537,11 +8412,23 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 0,
-      "independent_correct_since_last_error": 0,
-      "successful_session_ids": [],
-      "last_checked": null,
-      "evidence": []
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-09-S02"
+      ],
+      "last_checked": "2026-10-09",
+      "evidence": [
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Sie subject=sister; sie object=Tasche."
+        }
+      ]
     },
     {
       "id": "M09",
@@ -6555,12 +8442,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 0,
-      "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 2,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
-        "2026-10-03-S01"
+        "2026-10-03-S01",
+        "2026-10-09-S02"
       ],
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-09",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6568,6 +8456,15 @@
           "session_id": "2026-10-03-S01",
           "independent": true,
           "note": "E09 modal + final infinitive correct."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E03",
+          "independent": true,
+          "correct": true,
+          "note": "Kommen kann clause-final after dass."
         }
       ]
     },
@@ -6611,13 +8508,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 8,
-      "independent_correct": 3,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 4,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-03-S01",
-        "2026-10-06-S02"
+        "2026-10-06-S02",
+        "2026-10-09-S02"
       ],
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-09",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -6682,6 +8580,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct des Eingangs des Bahnhofs."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E05",
+          "independent": true,
+          "correct": true,
+          "note": "In der Nähe der Hochschule correct."
         }
       ]
     },
@@ -7101,14 +9008,14 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 3,
+      "recorded_errors": 4,
       "independent_correct": 7,
       "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-04-S01"
       ],
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-09",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -7175,6 +9082,15 @@
           "independent": true,
           "correct": false,
           "note": "weil clause again missing subject/final verb structure."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E05",
+          "independent": true,
+          "correct": false,
+          "note": "Missing finite ist in weil clause."
         }
       ]
     },
@@ -7427,7 +9343,7 @@
     {
       "id": "M28",
       "topic": "verb_second_after_fronted_element",
-      "status": "stable",
+      "status": "improving",
       "title": "Verb-second after a fronted phrase",
       "reference_example": "Nach der Arbeit treffe ich meinen Freund.",
       "severity": "grammar_or_usage",
@@ -7435,15 +9351,15 @@
       "assessment_source": "fresh_live_evidence",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 1,
+      "recorded_errors": 2,
       "independent_correct": 7,
-      "independent_correct_since_last_error": 7,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
         "2026-10-05-S01"
       ],
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-10-09",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -7484,6 +9400,15 @@
           "exercise_id": "2026-10-05-S01-E15",
           "independent": true,
           "note": "Correct V2 after fronted Nach der Arbeit with separable absagen."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E09",
+          "independent": true,
+          "correct": false,
+          "note": "Gestern hat meine Schwester ..."
         }
       ]
     },
@@ -7637,6 +9562,183 @@
           "note": "Used nach der Termin; correct nach dem Termin."
         }
       ]
+    },
+    {
+      "id": "M31",
+      "topic": "transport_entry_exit",
+      "status": "improving",
+      "title": "einsteigen in + Akk / aussteigen aus + Dat",
+      "reference_example": "in den Zug eingestiegen; aus dem Zug ausgestiegen",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "dated_evidence_reconciliation",
+      "assessment_date": "2026-10-09",
+      "historical_error_count": null,
+      "recorded_errors": 0,
+      "independent_correct": 1,
+      "independent_correct_since_last_error": 1,
+      "successful_session_ids": [
+        "2026-10-09-S01"
+      ],
+      "last_checked": "2026-10-09",
+      "evidence": [
+        {
+          "date": "2026-10-07",
+          "source": "days/2026-10-07.md",
+          "kind": "dated_summary",
+          "exercise_ids": [
+            "2026-10-07-S02-E19",
+            "2026-10-07-S02-E20",
+            "2026-10-07-S02-E26",
+            "2026-10-07-S02-E33",
+            "2026-10-07-S02-E41",
+            "2026-10-07-S02-E42",
+            "2026-10-07-S03-E11"
+          ],
+          "note": "Previously documented pattern missing from structured list; qualitative baseline retained without manufacturing raw answers or counts."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E03",
+          "independent": true,
+          "correct": true,
+          "note": "In den Zug einsteigen correctly used with modal Perfekt."
+        }
+      ]
+    },
+    {
+      "id": "M32",
+      "topic": "und_coordination",
+      "status": "weak",
+      "title": "Word order after und",
+      "reference_example": "und ich habe ihn ...; or und ihn ...",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "dated_evidence_reconciliation",
+      "assessment_date": "2026-10-09",
+      "historical_error_count": null,
+      "recorded_errors": 1,
+      "independent_correct": 0,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [],
+      "last_checked": "2026-10-09",
+      "evidence": [
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E02",
+          "independent": true,
+          "correct": false,
+          "note": "Und does not itself occupy the first position of the following main clause."
+        }
+      ]
+    },
+    {
+      "id": "M33",
+      "topic": "haben_agreement",
+      "status": "improving",
+      "title": "haben auxiliary agreement",
+      "reference_example": "ich habe; mein Bruder/er hat",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "dated_evidence_reconciliation",
+      "assessment_date": "2026-10-09",
+      "historical_error_count": null,
+      "recorded_errors": 1,
+      "independent_correct": 4,
+      "independent_correct_since_last_error": 4,
+      "successful_session_ids": [
+        "2026-10-09-S01",
+        "2026-10-09-S02"
+      ],
+      "last_checked": "2026-10-09",
+      "evidence": [
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E10",
+          "independent": true,
+          "correct": false,
+          "note": "Hab mein Bruder needs hat mein Bruder."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E11",
+          "independent": true,
+          "correct": true,
+          "note": "Third-person auxiliary hat correctly formed; subject/detail problems are distinct."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E02",
+          "independent": true,
+          "correct": true,
+          "note": "Third-person auxiliary hat correctly formed; subject/detail problems are distinct."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Third-person auxiliary hat correctly formed; subject/detail problems are distinct."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E06",
+          "independent": true,
+          "correct": true,
+          "note": "Third-person auxiliary hat correctly formed; subject/detail problems are distinct."
+        }
+      ]
+    },
+    {
+      "id": "M34",
+      "topic": "subject_continuity",
+      "status": "weak",
+      "title": "Preserve the intended subject in a follow-up clause",
+      "reference_example": "Danach hat sie es gebucht. Deshalb hat er meine Schwester angerufen.",
+      "severity": "grammar_or_usage",
+      "priority": "high",
+      "assessment_source": "dated_evidence_reconciliation",
+      "assessment_date": "2026-10-09",
+      "historical_error_count": null,
+      "recorded_errors": 2,
+      "independent_correct": 0,
+      "independent_correct_since_last_error": 0,
+      "successful_session_ids": [],
+      "last_checked": "2026-10-09",
+      "evidence": [
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S01",
+          "exercise_id": "2026-10-09-S01-E09",
+          "independent": true,
+          "correct": false,
+          "note": "Subject sie omitted after danach; es is the object."
+        },
+        {
+          "date": "2026-10-09",
+          "timestamp": null,
+          "session_id": "2026-10-09-S02",
+          "exercise_id": "2026-10-09-S02-E06",
+          "independent": true,
+          "correct": false,
+          "note": "Ich changes brother to learner as caller; target er."
+        }
+      ]
     }
   ],
   "workflow": {
@@ -7737,10 +9839,10 @@
   "numbered_verbs_introduced": 100,
   "verbs_1_50_status": "strong",
   "verbs_51_60_status": "practicing",
-  "latest_study_date": "2026-10-07",
+  "latest_study_date": "2026-10-09",
   "latest_study_state": "open",
-  "next_suggested_action": "Show main menu on next startup. Continue previous session resumes 2026-10-07-S03-E21 through E30; 2026-10-07-S02-E49 through E56 remains separately preserved.",
-  "active_grammar": "Perfekt",
+  "next_suggested_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts.",
+  "active_grammar": "dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
   "backfilled_study_dates": [
@@ -7871,7 +9973,10 @@
       "evidence": []
     }
   ],
-  "active_mistake_pattern_ids": [],
+  "active_mistake_pattern_ids": [
+    "M32",
+    "M34"
+  ],
   "study_history": [
     {
       "date": "2026-09-30",
@@ -8067,6 +10172,14 @@
       "session_id": "2026-10-07-S01",
       "event": "new_study_day_started",
       "note": "Learner selected Start a new study day. Opened S01 with a five-sentence progression diagnostic; previous 2026-10-06 S02 E51-E60 and all older pending prompts remain preserved. No verbs 91-100 introduced yet because the saved numbered inventory currently ends at 90."
+    },
+    {
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T12:14:04+02:00",
+      "event": "checkpoint_reconciliation",
+      "session_id": "2026-10-09-S02",
+      "source": "saved day logs plus learner-supplied conversation context",
+      "note": "Recorded the already-started S02 dass lesson and six actual answers. Reconciled missing S01 follow-ups and dated completion ranges. Maintenance itself starts no study session. Original study times remain unknown."
     }
   ],
   "exercise_results": [
@@ -10407,6 +12520,314 @@
       "hint_used": false,
       "independent": true,
       "note": "Perfekt of anfangen and zu-infinitive correct."
+    },
+    {
+      "id": "2026-10-09-S01-E01",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": null,
+      "learner_answer": "Ich empfehle meiner Schwester diesen Kurs.",
+      "correction": "Ich empfehle meiner Schwester diesen Kurs.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Recovered from dated E01 checkpoint; exact Arabic prompt unavailable.",
+      "source": "days/2026-10-09.md"
+    },
+    {
+      "id": "2026-10-09-S01-E02",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": null,
+      "learner_answer": "Gestern habe ich den Rucksack vorbereitet und habe ich ihn in das Auto gelegt.",
+      "correction": "Gestern habe ich den Rucksack vorbereitet und ihn ins Auto gelegt.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "After und use und ich habe, or share the subject and auxiliary. Rucksack/ihn is valid.",
+      "source": "days/2026-10-09.md"
+    },
+    {
+      "id": "2026-10-09-S01-E03",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": null,
+      "learner_answer": "Meine Schwester hat gestern nicht in den Zug einsteigen können.",
+      "correction": "Meine Schwester hat gestern nicht in den Zug einsteigen können.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Correct modal Perfekt, Ersatzinfinitiv and in + Akk.",
+      "source": "days/2026-10-09.md"
+    },
+    {
+      "id": "2026-10-09-S01-E04",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": null,
+      "learner_answer": "Ich schicke meinem Bruder die Empfehlung, danach entscheidet er sich.",
+      "correction": "Ich schicke meinem Bruder die Empfehlung. Danach entscheidet er sich.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Dat+Akk and danach V2 correct. Eine Empfehlung is possible without a previous referent.",
+      "source": "days/2026-10-09.md"
+    },
+    {
+      "id": "2026-10-09-S01-E05",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": null,
+      "learner_answer": "Ich habe meinen Schlüssel zu Hause vergessen, deshalb habe ich meinen Bruder angerufen.",
+      "correction": "Ich habe meinen Schlüssel zu Hause vergessen. Deshalb habe ich meinen Bruder angerufen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Correct vergessen, angerufen and deshalb V2.",
+      "source": "days/2026-10-09.md"
+    },
+    {
+      "id": "2026-10-09-S01-E06",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا جهزت الأكل، وبعد كده أخويا أخده معاه.",
+      "learner_answer": "Ich habe das Essen vorbereitet, danach hat mein Bruder es mitgenommen",
+      "correction": "Ich habe das Essen vorbereitet. Danach hat mein Bruder es mitgenommen.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Correct Perfekt, es and danach V2.",
+      "source": "days/2026-10-09.md",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S01-E07",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أختي قررت تختار الكورس ده امبارح.",
+      "learner_answer": "Meine Schwester hat sich gester für diesen Kurs entscheiden",
+      "correction": "Meine Schwester hat sich gestern für diesen Kurs entschieden.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Partizip II entschieden, not entscheiden; spelling gestern.",
+      "source": "days/2026-10-09.md",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S01-E08",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا بقرر أختار الشقة دي، لكن أخويا بينصحني بشقة تانية.",
+      "learner_answer": "Ich entscheide mich für diese Wohnung, aber mein Bruder empfiehlt mir eine andre wohnung",
+      "correction": "Ich entscheide mich für diese Wohnung, aber mein Bruder empfiehlt mir eine andere Wohnung.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Reflexive form and Dat+Akk correct; repair spelling/capitalization.",
+      "source": "learner-supplied conversation context",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S01-E09",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "امبارح أختي قررت تختار الفندق، وبعد كده حجزته.",
+      "learner_answer": "Gestern meine Schwester hat sich für dieses Hotel entschieden, danach hat es gebucht",
+      "correction": "Gestern hat meine Schwester sich für dieses Hotel entschieden. Danach hat sie es gebucht.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "V2 after Gestern; keep subject sie after danach. Es is the hotel object.",
+      "source": "learner-supplied conversation context",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S01-E10",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "امبارح أخويا جهّز شنطة السفر، وبعد كده أخدها معاه.",
+      "learner_answer": "Gestern hab mein Bruder den Koffer vorbereitet, danach hat er ihn mitgenommen",
+      "correction": "Gestern hat mein Bruder den Koffer vorbereitet. Danach hat er ihn mitgenommen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Mein Bruder requires hat; ihn and mitgenommen correct.",
+      "source": "days/2026-10-09.md",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S01-E11",
+      "session_id": "2026-10-09-S01",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "امبارح أختي حجزت الفندق، وبعد كده أخويا لغى الحجز.",
+      "learner_answer": "Gestern hat meine Schwester das Hotel gebucht, danach hat mein Bruder es storniert",
+      "correction": "Gestern hat meine Schwester das Hotel gebucht. Danach hat mein Bruder die Buchung storniert.",
+      "result": "correct_with_note",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Hotel/es is a valid colloquial metonymy. Die Buchung precisely names the reservation.",
+      "source": "days/2026-10-09.md",
+      "id_assignment_note": "Stable IDs assigned at this reconciliation in observed chronological order to previously unnumbered follow-up submissions."
+    },
+    {
+      "id": "2026-10-09-S02-E01",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا عارف إن أخويا بيشتغل في برلين.",
+      "learner_answer": "Ich weiß, dass mein Bruder in Berlin arbeitet",
+      "correction": "Ich weiß, dass mein Bruder in Berlin arbeitet.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Finite verb arbeitet correctly clause-final.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "correct"
+      },
+      "prior_teaching_examples_shown": true
+    },
+    {
+      "id": "2026-10-09-S02-E02",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا فاكر إن أختي حجزت الفندق امبارح.",
+      "learner_answer": "Ich erinnere mich, dass meine Schwester das Hotel gebucht hat",
+      "correction": "Ich erinnere mich, dass meine Schwester gestern das Hotel gebucht hat.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Erinnere mich, dass is valid for remembering; daran is optional. Missing gestern. If فاكر means I think, Ich denke/glaube, dass is another meaning.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "mostly_correct"
+      },
+      "prior_teaching_examples_shown": true
+    },
+    {
+      "id": "2026-10-09-S02-E03",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا أتمنى إن أخويا يقدر ييجي بكرة.",
+      "learner_answer": "Ich hoffe, dass mein Bruder morgen kommen kann",
+      "correction": "Ich hoffe, dass mein Bruder morgen kommen kann.",
+      "result": "correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Modal kann correctly after final infinitive kommen.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "correct"
+      },
+      "prior_teaching_examples_shown": true
+    },
+    {
+      "id": "2026-10-09-S02-E04",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا عارف إن أختي جهزت الشنطة امبارح، وبعد كده أخدتها معاها.",
+      "learner_answer": "Ich weiß, dass meine Schwester die Tasche vorbereitet hat, danach hat sie sie mitgenommen",
+      "correction": "Ich weiß, dass meine Schwester gestern die Tasche vorbereitet hat. Danach hat sie sie mitgenommen.",
+      "result": "mostly_correct",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Missing gestern; dass Perfekt and afterwards V2 are correct. First sie is sister subject; second sie is bag object. The afterwards clause is outside dass scope in this valid reading.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "mostly_correct"
+      },
+      "prior_teaching_examples_shown": true
+    },
+    {
+      "id": "2026-10-09-S02-E05",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا أتمنى إن أختي تختار الشقة دي، لأن الشقة قريبة من الجامعة.",
+      "learner_answer": "Ich hoffe, dass meine Schwester sich für diese Wohnung entscheidet. weil sie in der Nähe der Hochschule",
+      "correction": "Ich hoffe, dass meine Schwester sich für diese Wohnung entscheidet, weil sie in der Nähe der Hochschule ist.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Präsens",
+      "note": "Dass/reflexive structure and Genitiv correct. Weil needs final ist and a comma connection.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "needs_correction"
+      },
+      "prior_teaching_examples_shown": true
+    },
+    {
+      "id": "2026-10-09-S02-E06",
+      "session_id": "2026-10-09-S02",
+      "date": "2026-10-09",
+      "timestamp": null,
+      "recorded_at": "2026-10-09T12:14:04+02:00",
+      "prompt_ar": "أنا عارف إن أخويا نسي المفتاح في البيت، وعلشان كده اتصل بأختي.",
+      "learner_answer": "Ich weiß, dass mein Bruder den Schlüssel vergessen hat. deshalb hab ich meine Schwester angerufen",
+      "correction": "Ich weiß, dass mein Bruder den Schlüssel zu Hause vergessen hat. Deshalb hat er meine Schwester angerufen.",
+      "result": "needs_correction",
+      "hint_used": false,
+      "independent": true,
+      "tense": "Perfekt",
+      "note": "Missing zu Hause; er must preserve brother as subject. Hab ich is a colloquial form of habe ich, not an agreement error by itself; the requested subject requires hat er. Capitalize Deshalb.",
+      "source": "learner-supplied conversation context",
+      "dimensions": {
+        "dass_clause_order": "independent_correct",
+        "full_translation": "needs_correction"
+      },
+      "prior_teaching_examples_shown": true
     }
   ],
   "skill_tracking": {
@@ -10643,7 +13064,59 @@
       "next_action": "Run a short suitable diagnostic only after the learner selects this mode."
     }
   },
-  "review_queue": [],
+  "review_queue": [
+    {
+      "id": "2026-10-09-written_dass",
+      "target_key": "written_dass",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-09-S02",
+      "target": "dass clauses and complete weil",
+      "due_on": "2026-10-10",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "practicing",
+      "evidence_ids": [
+        "2026-10-09-S02-E01",
+        "2026-10-09-S02-E02",
+        "2026-10-09-S02-E03",
+        "2026-10-09-S02-E04",
+        "2026-10-09-S02-E05",
+        "2026-10-09-S02-E06"
+      ]
+    },
+    {
+      "id": "2026-10-09-written_pronouns",
+      "target_key": "written_pronouns",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-09-S01",
+      "target": "ihn/sie/es and intended subject",
+      "due_on": "2026-10-10",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "practicing",
+      "evidence_ids": [
+        "2026-10-09-S01-E10",
+        "2026-10-09-S02-E04",
+        "2026-10-09-S02-E06"
+      ]
+    },
+    {
+      "id": "2026-10-09-written_perfekt",
+      "target_key": "written_perfekt",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-09-S01",
+      "target": "haben agreement and entschieden",
+      "due_on": "2026-10-10",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "practicing",
+      "evidence_ids": [
+        "2026-10-09-S01-E07",
+        "2026-10-09-S01-E10",
+        "2026-10-09-S02-E02"
+      ]
+    }
+  ],
   "adaptive_learning": {
     "policy_version": 3,
     "configuration_updated_on": "2026-10-06",
@@ -10814,14 +13287,38 @@
       "targeted_review": "keep a verb eligible when either present or Perfekt dimension is unresolved",
       "isolated_recall": "prompt the tense explicitly and score present vs Perfekt separately",
       "no_retroactive_mastery": true
+    },
+    "latest_decision": {
+      "date": "2026-10-09",
+      "evidence_ids": [
+        "2026-10-09-S01-E01",
+        "2026-10-09-S01-E02",
+        "2026-10-09-S01-E03",
+        "2026-10-09-S01-E04",
+        "2026-10-09-S01-E05",
+        "2026-10-09-S01-E06",
+        "2026-10-09-S01-E07",
+        "2026-10-09-S01-E08",
+        "2026-10-09-S01-E09",
+        "2026-10-09-S01-E10",
+        "2026-10-09-S01-E11",
+        "2026-10-09-S02-E01",
+        "2026-10-09-S02-E02",
+        "2026-10-09-S02-E03",
+        "2026-10-09-S02-E04",
+        "2026-10-09-S02-E05",
+        "2026-10-09-S02-E06"
+      ],
+      "reason": "Dass finite-verb order correct in six written responses; full translation errors concern omissions, complete weil and preserving subject. Retest those in fresh variations; no oral skill inference.",
+      "next_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts."
     }
   },
   "feature_config_updated_on": "2026-10-07",
   "verbs_61_70_status": "practicing",
   "verbs_71_80_status": "practicing",
   "verbs_81_90_status": "practicing",
-  "verbs_91_100_status": "introduced",
-  "closed_at": "2026-10-07T17:09:00+02:00",
+  "verbs_91_100_status": "practicing",
+  "closed_at": null,
   "october_08_checkpoint": {
     "day_file": "days/2026-10-08.md",
     "status": "closed",
@@ -10839,5 +13336,13 @@
     "outcome": "Last six independent answers correct, with one earlier word-order improvement; retest for retention",
     "numbered_verbs_introduced": 100,
     "vocabulary_registered": 138
-  }
+  },
+  "last_verified_study_on": "2026-10-09",
+  "reconciliation_notes": [
+    {
+      "date": "2026-10-09",
+      "base_commit": "65c95af38cdf6a61d10365487575300baf6498e8",
+      "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
+    }
+  ]
 }

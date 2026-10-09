@@ -7,7 +7,7 @@
 - **61–70:** introduced on 2026-10-03 under the progression-first policy; currently **practicing**.
 - **71–80:** practicing.
 - **81–90:** practicing after first independent practice on 2026-10-05.
-- **91–100:** introduced on 2026-10-07; Perfekt/current-form practice is underway in the active grammar session.
+- **91–100:** practicing overall after dated Perfekt work; retain item statuses below and paused dedicated present practice.
 - Strong means generally retained according to the history, not fully mastered. No numerical mastery scores or exact historical review counts are known.
 
 | ID | Numbered entry | Egyptian Arabic meaning | Status | Usage / review note |
@@ -106,8 +106,8 @@
 | 92 | einsteigen | يركب / يصعد وسيلة مواصلات | practicing | separable; Präsens: ich steige ein; Perfekt: **ist eingestiegen**; in + Akk |
 | 93 | aussteigen | ينزل من وسيلة مواصلات | practicing | separable; Präsens: ich steige aus; Perfekt: **ist ausgestiegen**; aus + Dat |
 | 94 | umsteigen | يغيّر / يبدّل وسيلة مواصلات | introduced | separable; Präsens: ich steige um; Perfekt: **ist umgestiegen** |
-| 95 | einladen | يدعو | introduced | separable; Präsens: ich lade ein; Perfekt: **hat eingeladen** |
-| 96 | teilnehmen | يشارك / يحضر | introduced | separable; Präsens: ich nehme teil; Perfekt: **hat teilgenommen** |
+| 95 | einladen | يدعو | practicing | separable; Präsens: ich lade ein; Perfekt: **hat eingeladen** |
+| 96 | teilnehmen | يشارك / يحضر | practicing | separable; Präsens: ich nehme teil; Perfekt: **hat teilgenommen** |
 | 97 | mitnehmen | يأخذ معه | practicing | separable; Präsens: ich nehme mit; Perfekt: **hat mitgenommen** |
 | 98 | abgeben | يسلّم / يقدّم شيئًا | practicing | separable; Präsens: ich gebe ab; Perfekt: **hat abgegeben** |
 | 99 | einschalten | يشغّل جهازًا / النور | practicing | separable; Präsens: ich schalte ein; Perfekt: **hat eingeschaltet** |
@@ -263,6 +263,30 @@ Numbered goal remains 100/100; these are supplemental practice entries, not numb
 | erreichen | يصل إلى / يلحق | ich erreiche | hat erreicht | etwas (Akk) erreichen | practicing |
 | vorbereiten | يجهز | ich bereite ... vor | hat vorbereitet | etwas (Akk) vorbereiten; separable | practicing |
 | vergessen | ينسى | ich vergesse; du vergisst | hat vergessen | etwas (Akk) vergessen; revisited | practicing |
-| sich entscheiden fuer | يقرر / يختار | ich entscheide mich fuer | hat sich fuer ... entschieden | reflexive; fuer + Akk | practicing |
+| sich entscheiden für | يقرر / يختار | ich entscheide mich für | hat sich für ... entschieden | reflexive; für + Akk | practicing |
 
 Evidence: end-of-day independent translations for vorbereiten, empfehlen and sich entscheiden were correct; future spaced review needed. Additional revisited verbs: einsteigen (in + Akk), legen (in + Akk for destination), mitnehmen, koennen (Perfekt double infinitive).
+
+
+## Current supplemental inventory and tense evidence — 2026-10-09
+
+Supplemental entries do not increase the 100 numbered total. Reference forms below are learning references, not proof of independently recalled Perfekt.
+
+| Verb | Präsens | Perfekt | Pattern | Current evidence |
+| --- | --- | --- | --- | --- |
+| besuchen | ich besuche | hat besucht | + Akk | See dated day logs and progress.json; no mastery claim. |
+| erklären | ich erkläre | hat erklärt | Dat person + Akk thing | See dated day logs and progress.json; no mastery claim. |
+| vergessen | ich vergesse; du vergisst; er vergisst | hat vergessen | + Akk | See dated day logs and progress.json; no mastery claim. |
+| empfehlen | ich empfehle; du empfiehlst; er empfiehlt | hat empfohlen | Dat person + Akk thing; empfehlen, etwas zu tun | See dated day logs and progress.json; no mastery claim. |
+| erreichen | ich erreiche | hat erreicht | + Akk | See dated day logs and progress.json; no mastery claim. |
+| vorbereiten | ich bereite ... vor | hat vorbereitet | separable; + Akk | See dated day logs and progress.json; no mastery claim. |
+| sich entscheiden für | ich entscheide mich für | hat sich für ... entschieden | reflexive; für + Akk | See dated day logs and progress.json; no mastery claim. |
+| stornieren | ich storniere | hat storniert | + Akk; die Buchung stornieren | S01 E11: storniert correct. |
+| hoffen | ich hoffe | hat gehofft | hoffen, dass ... | S02 E03/E05: hoffen correct; Perfekt only taught as reference. |
+| sich erinnern | ich erinnere mich | hat sich erinnert | sich an + Akk erinnern; sich (daran) erinnern, dass ... | S02 E02: valid self-produced remembering phrase. |
+
+- Separate present/context and Perfekt evidence is stored for reviewed numbered and supplemental verbs. Older strong group baselines do not automatically prove Perfekt mastery.
+- sich entscheiden: E07 needed **entschieden**; E09 used it correctly but sentence order/subject needed repair.
+- haben: E10 needed **hat mein Bruder**; subsequent hat uses are correct, while a delayed retest is still needed.
+- E06/E10 and S02 E04: **mitgenommen** retained; **ihn/sie/es** tracked by actual referent.
+- S02 E02/E04/E06: **gebucht/vorbereitet/vergessen + hat** correctly placed after dass.
