@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-09",
-  "last_updated_at": "2026-10-09T17:34:52+02:00",
+  "last_updated_at": "2026-10-09T17:46:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -1279,7 +1279,7 @@
         "meaning_ar": "يكون",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
+        "usage_note": "sein + adjective/noun/location",
         "entry_kind": "infinitive",
         "praesens_reference": "ich bin; er ist",
         "perfekt_reference": "ist gewesen",
@@ -1292,7 +1292,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich bin heute müde.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 2,
@@ -1377,7 +1379,7 @@
         "meaning_ar": "يملك / عنده",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
+        "usage_note": "haben + Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich habe; er hat",
         "perfekt_reference": "hat gehabt",
@@ -1390,7 +1392,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich habe heute viel Arbeit.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 3,
@@ -1408,8 +1412,13 @@
         "meaning_ar": "يفعل / يعمل",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich mache",
+        "perfekt_reference": "hat gemacht",
+        "example_reference": "Ich mache jeden Morgen Frühstück.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 4,
@@ -1437,8 +1446,13 @@
         "meaning_ar": "يذهب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "movement; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich gehe",
+        "perfekt_reference": "ist gegangen",
+        "example_reference": "Ich gehe nach der Arbeit nach Hause.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 5,
@@ -1456,8 +1470,13 @@
         "meaning_ar": "يأتي",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "movement; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich komme",
+        "perfekt_reference": "ist gekommen",
+        "example_reference": "Mein Bruder kommt morgen nach Berlin.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 6,
@@ -1475,8 +1494,13 @@
         "meaning_ar": "يذهب بوسيلة / يقود",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "ich fahre; du fährst; er/sie fährt",
-        "entry_kind": "infinitive"
+        "usage_note": "movement commonly with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich fahre; du fährst; er fährt",
+        "perfekt_reference": "ist gefahren; transitive driving can use hat gefahren",
+        "example_reference": "Ich fahre morgen nach München.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 7,
@@ -1494,8 +1518,13 @@
         "meaning_ar": "يبقى",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bleibe",
+        "perfekt_reference": "ist geblieben",
+        "example_reference": "Ich bleibe heute zu Hause.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 8,
@@ -1513,8 +1542,13 @@
         "meaning_ar": "يسكن",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "in + Dat for location",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich wohne",
+        "perfekt_reference": "hat gewohnt",
+        "example_reference": "Ich wohne in Ingolstadt.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 9,
@@ -1557,7 +1591,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich arbeite heute von zu Hause.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 10,
@@ -1575,8 +1611,13 @@
         "meaning_ar": "يتعلم",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk / lernen zu + Inf.",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich lerne",
+        "perfekt_reference": "hat gelernt",
+        "example_reference": "Ich lerne jeden Tag Deutsch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 11,
@@ -1595,7 +1636,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich sehe; du siehst; er sieht",
+        "perfekt_reference": "hat gesehen",
+        "example_reference": "Ich sehe meinen Bruder am Bahnhof.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 12,
@@ -1614,7 +1660,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich höre",
+        "perfekt_reference": "hat gehört",
+        "example_reference": "Ich höre jeden Morgen Musik.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 13,
@@ -1632,8 +1683,13 @@
         "meaning_ar": "يقرأ",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich lese; du liest; er liest",
+        "perfekt_reference": "hat gelesen",
+        "example_reference": "Ich lese abends ein Buch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 14,
@@ -1651,8 +1707,13 @@
         "meaning_ar": "يكتب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + Akk thing/content",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schreibe",
+        "perfekt_reference": "hat geschrieben",
+        "example_reference": "Ich schreibe meinem Freund eine Nachricht.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 15,
@@ -1670,8 +1731,13 @@
         "meaning_ar": "يسأل",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Akk (person)",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk person",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich frage",
+        "perfekt_reference": "hat gefragt",
+        "example_reference": "Ich frage meinen Lehrer.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 16,
@@ -1689,8 +1755,13 @@
         "meaning_ar": "يجيب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Dat (person)",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Dat person",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich antworte",
+        "perfekt_reference": "hat geantwortet",
+        "example_reference": "Ich antworte meinem Chef morgen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 17,
@@ -1708,8 +1779,13 @@
         "meaning_ar": "يساعد",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Dat; jemandem helfen, etwas zu tun",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Dat",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich helfe; du hilfst; er hilft",
+        "perfekt_reference": "hat geholfen",
+        "example_reference": "Ich helfe meiner Schwester bei der Arbeit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 18,
@@ -1727,8 +1803,13 @@
         "meaning_ar": "يشكر",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Dat",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Dat person; für + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich danke",
+        "perfekt_reference": "hat gedankt",
+        "example_reference": "Ich danke meinem Lehrer für die Hilfe.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 19,
@@ -1746,8 +1827,13 @@
         "meaning_ar": "يعطي",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Dat person + Akk thing",
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + Akk thing",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich gebe; du gibst; er gibt",
+        "perfekt_reference": "hat gegeben",
+        "example_reference": "Ich gebe meiner Schwester das Buch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 20,
@@ -1765,8 +1851,13 @@
         "meaning_ar": "يُري",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "+ Dat person + Akk thing",
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + Akk thing",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich zeige",
+        "perfekt_reference": "hat gezeigt",
+        "example_reference": "Ich zeige meinem Bruder das Foto.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 21,
@@ -1784,8 +1875,13 @@
         "meaning_ar": "يفهم",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich verstehe",
+        "perfekt_reference": "hat verstanden",
+        "example_reference": "Ich verstehe die Frage.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 22,
@@ -1846,7 +1942,7 @@
         "meaning_ar": "يعرف معلومة",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "information: Ich weiß die Antwort.",
+        "usage_note": "information/fact",
         "entry_kind": "infinitive",
         "praesens_reference": "ich weiß; er weiß",
         "perfekt_reference": "hat gewusst",
@@ -1859,7 +1955,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich weiß die Antwort.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 23,
@@ -1877,8 +1975,13 @@
         "meaning_ar": "يعرف شخصًا أو مكانًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "person/place + Akk",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk person/place",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich kenne",
+        "perfekt_reference": "hat gekannt",
+        "example_reference": "Ich kenne diesen Mann.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 24,
@@ -1897,7 +2000,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "denken an + Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich denke",
+        "perfekt_reference": "hat gedacht",
+        "example_reference": "Ich denke oft an meine Familie.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 25,
@@ -1915,8 +2023,13 @@
         "meaning_ar": "يعتقد / يؤمن",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "glauben an + Akk (believe in)",
-        "entry_kind": "infinitive"
+        "usage_note": "glauben, dass ...; an + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich glaube",
+        "perfekt_reference": "hat geglaubt",
+        "example_reference": "Ich glaube, dass er heute kommt.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 26,
@@ -1934,8 +2047,13 @@
         "meaning_ar": "يقصد / يعتقد",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "meinen, dass ...",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich meine",
+        "perfekt_reference": "hat gemeint",
+        "example_reference": "Ich meine, dass diese Lösung besser ist.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 27,
@@ -1954,7 +2072,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich finde",
+        "perfekt_reference": "hat gefunden",
+        "example_reference": "Ich finde meinen Schlüssel nicht.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 28,
@@ -1973,7 +2096,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich suche",
+        "perfekt_reference": "hat gesucht",
+        "example_reference": "Ich suche meine Fahrkarte.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 29,
@@ -1992,7 +2120,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich brauche",
+        "perfekt_reference": "hat gebraucht",
+        "example_reference": "Ich brauche einen neuen Termin.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 30,
@@ -2011,7 +2144,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "modal + final infinitive",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich will; er will",
+        "perfekt_reference": "hat gewollt; with another infinitive: hat ... wollen",
+        "example_reference": "Ich will heute früher nach Hause gehen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 31,
@@ -2029,9 +2167,14 @@
         "meaning_ar": "يود / يرغب بأدب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "polite möchten form of mögen; retained as numbered entry 31",
+        "usage_note": "polite request; not treated as a normal infinitive with its own Perfekt",
         "entry_kind": "polite_form",
-        "canonical_infinitive": "mögen"
+        "canonical_infinitive": "mögen",
+        "praesens_reference": "ich möchte; er möchte",
+        "perfekt_reference": "— (möchten is Konjunktiv II of mögen; use wollte for past intention in everyday German)",
+        "example_reference": "Ich möchte einen Kaffee, bitte.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 32,
@@ -2085,7 +2228,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich kann morgen kommen.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 33,
@@ -2104,7 +2249,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "modal + final infinitive",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich muss; er muss",
+        "perfekt_reference": "hat gemusst; with another infinitive: hat ... müssen",
+        "example_reference": "Ich muss heute länger arbeiten.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 34,
@@ -2123,7 +2273,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": "modal + final infinitive",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich soll; er soll",
+        "perfekt_reference": "hat gesollt; with another infinitive: hat ... sollen",
+        "example_reference": "Ich soll morgen den Arzt anrufen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 35,
@@ -2160,8 +2315,13 @@
         "meaning_ar": "يُسمح له",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "ich/er/sie darf; du darfst; wir/sie dürfen; ihr dürft",
-        "entry_kind": "infinitive"
+        "usage_note": "modal + final infinitive",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich darf; du darfst; er darf",
+        "perfekt_reference": "hat gedurft; with another infinitive: hat ... dürfen",
+        "example_reference": "Ich darf heute früher gehen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 36,
@@ -2179,8 +2339,13 @@
         "meaning_ar": "يأخذ",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich nehme; du nimmst; er nimmt",
+        "perfekt_reference": "hat genommen",
+        "example_reference": "Ich nehme meinen Reisepass mit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 37,
@@ -2198,8 +2363,13 @@
         "meaning_ar": "يجلب / يحضر",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "bring to someone/place",
-        "entry_kind": "infinitive"
+        "usage_note": "often Dat person + Akk thing",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bringe",
+        "perfekt_reference": "hat gebracht",
+        "example_reference": "Ich bringe meiner Schwester das Buch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 38,
@@ -2227,8 +2397,13 @@
         "meaning_ar": "يذهب ليحضر شيئًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "go and fetch",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich hole",
+        "perfekt_reference": "hat geholt",
+        "example_reference": "Ich hole das Paket nach der Arbeit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 39,
@@ -2246,8 +2421,13 @@
         "meaning_ar": "يحصل على / يتلقى",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bekomme",
+        "perfekt_reference": "hat bekommen",
+        "example_reference": "Ich bekomme morgen eine Antwort.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 40,
@@ -2265,8 +2445,13 @@
         "meaning_ar": "يشتري",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich kaufe",
+        "perfekt_reference": "hat gekauft",
+        "example_reference": "Ich kaufe heute Milch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 41,
@@ -2284,8 +2469,13 @@
         "meaning_ar": "يدفع",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bezahle",
+        "perfekt_reference": "hat bezahlt",
+        "example_reference": "Ich bezahle die Rechnung heute.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 42,
@@ -2303,8 +2493,13 @@
         "meaning_ar": "يبيع",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich verkaufe",
+        "perfekt_reference": "hat verkauft",
+        "example_reference": "Ich verkaufe mein altes Handy.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 43,
@@ -2322,8 +2517,13 @@
         "meaning_ar": "يطلب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bestelle",
+        "perfekt_reference": "hat bestellt",
+        "example_reference": "Ich bestelle einen Kaffee.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 44,
@@ -2341,8 +2541,13 @@
         "meaning_ar": "يأكل",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk optional",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich esse; du isst; er isst",
+        "perfekt_reference": "hat gegessen",
+        "example_reference": "Ich esse mittags in der Kantine.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 45,
@@ -2360,8 +2565,13 @@
         "meaning_ar": "يشرب",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich trinke",
+        "perfekt_reference": "hat getrunken",
+        "example_reference": "Ich trinke morgens Kaffee.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 46,
@@ -2379,8 +2589,13 @@
         "meaning_ar": "يطبخ",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich koche",
+        "perfekt_reference": "hat gekocht",
+        "example_reference": "Ich koche heute Abend Nudeln.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 47,
@@ -2399,7 +2614,12 @@
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
         "usage_note": null,
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schlafe; du schläfst; er schläft",
+        "perfekt_reference": "hat geschlafen",
+        "example_reference": "Ich schlafe normalerweise sieben Stunden.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 48,
@@ -2417,8 +2637,13 @@
         "meaning_ar": "يستيقظ / يقوم من السرير",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "separable: Ich stehe früh auf.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich stehe ... auf",
+        "perfekt_reference": "ist aufgestanden",
+        "example_reference": "Ich stehe jeden Tag um sieben Uhr auf.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 49,
@@ -2446,8 +2671,13 @@
         "meaning_ar": "يكون جالسًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "stationary sitting; contrast setzen",
-        "entry_kind": "infinitive"
+        "usage_note": "stationary; location + Dat",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich sitze",
+        "perfekt_reference": "hat gesessen",
+        "example_reference": "Ich sitze auf dem Stuhl.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 50,
@@ -2475,8 +2705,13 @@
         "meaning_ar": "يكون واقفًا",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
-        "usage_note": "stationary standing; contrast stellen",
-        "entry_kind": "infinitive"
+        "usage_note": "stationary; location + Dat",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich stehe",
+        "perfekt_reference": "hat gestanden",
+        "example_reference": "Die Flasche steht auf dem Tisch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 51,
@@ -2504,8 +2739,13 @@
         "meaning_ar": "يكون موضوعًا / مستلقيًا",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "stationary lying; location + Dat",
-        "entry_kind": "infinitive"
+        "usage_note": "stationary; location + Dat",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich liege",
+        "perfekt_reference": "hat gelegen",
+        "example_reference": "Das Buch liegt auf dem Tisch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 52,
@@ -2523,7 +2763,7 @@
         "meaning_ar": "يضع شيئًا أفقيًا",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "lay something horizontally; destination + Akk",
+        "usage_note": "destination + Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich lege",
         "perfekt_reference": "hat gelegt",
@@ -2536,7 +2776,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich lege das Buch auf den Tisch.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 53,
@@ -2573,8 +2815,13 @@
         "meaning_ar": "يضع شيئًا قائمًا",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "place upright; jemandem eine Frage stellen",
-        "entry_kind": "infinitive"
+        "usage_note": "destination + Akk; place upright",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich stelle",
+        "perfekt_reference": "hat gestellt",
+        "example_reference": "Ich stelle die Flasche auf den Tisch.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 54,
@@ -2602,8 +2849,13 @@
         "meaning_ar": "يُجلس / يضع في وضع الجلوس",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "seat someone; sich setzen to sit down; contrast sitzen",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk person; destination + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich setze",
+        "perfekt_reference": "hat gesetzt",
+        "example_reference": "Ich setze das Kind auf den Stuhl.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 55,
@@ -2621,8 +2873,13 @@
         "meaning_ar": "يفتح",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich öffne",
+        "perfekt_reference": "hat geöffnet",
+        "example_reference": "Ich öffne morgens das Fenster.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 56,
@@ -2659,8 +2916,13 @@
         "meaning_ar": "يغلق",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": null,
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schließe",
+        "perfekt_reference": "hat geschlossen",
+        "example_reference": "Ich schließe abends die Tür.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 57,
@@ -2688,8 +2950,13 @@
         "meaning_ar": "يبدأ",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "ich fange an; du fängst an; er/sie fängt an; + zu + infinitive",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; anfangen, ... zu + Inf.",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich fange ... an; du fängst ... an; er fängt ... an",
+        "perfekt_reference": "hat angefangen",
+        "example_reference": "Ich fange nach der Arbeit an, Deutsch zu lernen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 58,
@@ -2717,8 +2984,13 @@
         "meaning_ar": "يتوقف",
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
-        "usage_note": "separable; + zu + infinitive",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; aufhören, ... zu + Inf.",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich höre ... auf",
+        "perfekt_reference": "hat aufgehört",
+        "example_reference": "Ich höre um zehn Uhr auf zu arbeiten.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 59,
@@ -2747,7 +3019,12 @@
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
         "usage_note": "warten auf + Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich warte",
+        "perfekt_reference": "hat gewartet",
+        "example_reference": "Ich warte auf meinen Bruder.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 60,
@@ -2785,7 +3062,12 @@
         "review_status": "recently_introduced",
         "assessment_basis": "reported recent introduction and practice",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich treffe; du triffst; er trifft",
+        "perfekt_reference": "hat getroffen",
+        "example_reference": "Ich treffe meinen Freund nach der Arbeit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 61,
@@ -2813,8 +3095,13 @@
         "meaning_ar": "يقول",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "jemandem etwas sagen; Dat person + content/object",
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + content",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich sage",
+        "perfekt_reference": "hat gesagt",
+        "example_reference": "Ich sage meiner Schwester die Wahrheit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 62,
@@ -2842,8 +3129,13 @@
         "meaning_ar": "يحكي / يروي",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "jemandem etwas erzählen; often Dat person + content",
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + content",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich erzähle",
+        "perfekt_reference": "hat erzählt",
+        "example_reference": "Ich erzähle meinem Bruder eine Geschichte.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 63,
@@ -2902,7 +3194,7 @@
         "meaning_ar": "يتصل هاتفيًا",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "separable; jemanden anrufen + Akk: Ich rufe meine Mutter an.",
+        "usage_note": "separable; + Akk person",
         "entry_kind": "infinitive",
         "praesens_reference": "ich rufe ... an",
         "perfekt_reference": "hat angerufen",
@@ -2915,7 +3207,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich rufe meine Mutter nach der Arbeit an.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 64,
@@ -2952,8 +3246,13 @@
         "meaning_ar": "يرسل",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "Dat person + Akk thing: Ich schicke meinem Freund ein Paket.",
-        "entry_kind": "infinitive"
+        "usage_note": "Dat person + Akk thing",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich schicke",
+        "perfekt_reference": "hat geschickt",
+        "example_reference": "Ich schicke meinem Bruder die Fahrkarte.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 65,
@@ -2990,8 +3289,13 @@
         "meaning_ar": "يحمل / يرتدي",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "Akk; du trägst, er/sie trägt",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich trage; du trägst; er trägt",
+        "perfekt_reference": "hat getragen",
+        "example_reference": "Ich trage heute eine Jacke.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 66,
@@ -3019,8 +3323,13 @@
         "meaning_ar": "يغسل",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "Akk; du wäschst, er/sie wäscht",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich wasche; du wäschst; er wäscht",
+        "perfekt_reference": "hat gewaschen",
+        "example_reference": "Ich wasche heute mein Auto.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 67,
@@ -3048,8 +3357,13 @@
         "meaning_ar": "ينظف",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "Akk; e.g. das Fenster putzen / die Zähne putzen",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich putze",
+        "perfekt_reference": "hat geputzt",
+        "example_reference": "Ich putze am Samstag die Wohnung.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 68,
@@ -3077,8 +3391,13 @@
         "meaning_ar": "يمشي / يجري",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "du läufst, er/sie läuft; context decides walk/run",
-        "entry_kind": "infinitive"
+        "usage_note": "movement; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich laufe; du läufst; er läuft",
+        "perfekt_reference": "ist gelaufen",
+        "example_reference": "Ich laufe jeden Morgen im Park.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 69,
@@ -3106,8 +3425,13 @@
         "meaning_ar": "يلعب",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "e.g. Fußball spielen; mit + Dat for playing with someone",
-        "entry_kind": "infinitive"
+        "usage_note": "with + Dat for person",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich spiele",
+        "perfekt_reference": "hat gespielt",
+        "example_reference": "Ich spiele am Wochenende Fußball.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 70,
@@ -3135,8 +3459,13 @@
         "meaning_ar": "يسافر",
         "review_status": "practicing",
         "assessment_basis": "introduced in live session after learner explicitly requested progression to new numbered verbs",
-        "usage_note": "e.g. nach München reisen",
-        "entry_kind": "infinitive"
+        "usage_note": "movement; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich reise",
+        "perfekt_reference": "ist gereist",
+        "example_reference": "Ich reise nächsten Monat nach Hamburg.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 71,
@@ -3164,8 +3493,13 @@
         "meaning_ar": "يرتب / يلم المكان",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich räume mein Zimmer auf.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich räume ... auf",
+        "perfekt_reference": "hat aufgeräumt",
+        "example_reference": "Ich räume heute mein Zimmer auf.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 72,
@@ -3194,7 +3528,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
         "usage_note": "Ich dusche jeden Morgen.",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich dusche",
+        "perfekt_reference": "hat geduscht",
+        "example_reference": "Ich dusche jeden Morgen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 73,
@@ -3222,8 +3561,13 @@
         "meaning_ar": "يرتدي / يلبس",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich ziehe die Jacke an.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich ziehe ... an",
+        "perfekt_reference": "hat angezogen",
+        "example_reference": "Ich ziehe die Jacke an.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 74,
@@ -3260,8 +3604,13 @@
         "meaning_ar": "يخلع / ينتقل من السكن",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich ziehe die Jacke aus.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; clothing + Akk; moving out can use sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich ziehe ... aus",
+        "perfekt_reference": "hat ausgezogen; movement-out sense often ist ausgezogen",
+        "example_reference": "Ich ziehe die Jacke aus.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 75,
@@ -3289,8 +3638,13 @@
         "meaning_ar": "يتسوق / يشتري احتياجات",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich kaufe im Supermarkt ein.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich kaufe ... ein",
+        "perfekt_reference": "hat eingekauft",
+        "example_reference": "Ich kaufe nach der Arbeit im Supermarkt ein.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 76,
@@ -3327,8 +3681,13 @@
         "meaning_ar": "يستأجر",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "mieten + Akk: Ich miete eine Wohnung.",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich miete",
+        "perfekt_reference": "hat gemietet",
+        "example_reference": "Ich miete eine Wohnung in Berlin.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 77,
@@ -3374,8 +3733,13 @@
         "meaning_ar": "ينتقل إلى سكن جديد",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich ziehe nach München um.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; movement; Perfekt with sein",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich ziehe ... um",
+        "perfekt_reference": "ist umgezogen",
+        "example_reference": "Ich ziehe nächsten Monat nach München um.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 78,
@@ -3403,8 +3767,13 @@
         "meaning_ar": "يسجّل / يشترك",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "often reflexive: Ich melde mich für den Kurs an.",
-        "entry_kind": "infinitive"
+        "usage_note": "reflexive; für + Akk; separable",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich melde mich ... an",
+        "perfekt_reference": "hat sich angemeldet",
+        "example_reference": "Ich melde mich für den Kurs an.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 79,
@@ -3450,8 +3819,13 @@
         "meaning_ar": "يملأ استمارة",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "separable; Ich fülle das Formular aus.",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich fülle ... aus",
+        "perfekt_reference": "hat ausgefüllt",
+        "example_reference": "Ich fülle das Formular aus.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 80,
@@ -3488,8 +3862,13 @@
         "meaning_ar": "يوقّع",
         "review_status": "practicing",
         "assessment_basis": "introduced live under progression-first policy",
-        "usage_note": "unterschreiben + Akk: Ich unterschreibe das Formular.",
-        "entry_kind": "infinitive"
+        "usage_note": "+ Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich unterschreibe",
+        "perfekt_reference": "hat unterschrieben",
+        "example_reference": "Ich unterschreibe den Mietvertrag.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 81,
@@ -3518,7 +3897,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich verliere",
+        "perfekt_reference": "hat verloren",
+        "example_reference": "Ich verliere oft meinen Schlüssel.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 82,
@@ -3547,7 +3931,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich benutze",
+        "perfekt_reference": "hat benutzt",
+        "example_reference": "Ich benutze mein Handy für die Navigation.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 83,
@@ -3576,7 +3965,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich wechsle",
+        "perfekt_reference": "hat gewechselt",
+        "example_reference": "Ich wechsle die Bank.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 84,
@@ -3650,7 +4044,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich buche ein Hotelzimmer.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 85,
@@ -3679,7 +4075,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich reserviere",
+        "perfekt_reference": "hat reserviert",
+        "example_reference": "Ich reserviere einen Tisch für zwei Personen.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 86,
@@ -3707,8 +4108,13 @@
         "meaning_ar": "يستلم / يروح يجيب",
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
-        "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich hole ... ab",
+        "perfekt_reference": "hat abgeholt",
+        "example_reference": "Ich hole das Paket am Schalter ab.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 87,
@@ -3745,8 +4151,13 @@
         "meaning_ar": "يرجّع / يعيد",
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
-        "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; Dat person + Akk thing",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich gebe ... zurück",
+        "perfekt_reference": "hat zurückgegeben",
+        "example_reference": "Ich gebe meinem Freund das Buch zurück.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 88,
@@ -3783,8 +4194,13 @@
         "meaning_ar": "يحضر معه",
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
-        "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich bringe ... mit",
+        "perfekt_reference": "hat mitgebracht",
+        "example_reference": "Ich bringe meinen Reisepass zum Termin mit.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 89,
@@ -3813,7 +4229,12 @@
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
         "usage_note": "+ Akk",
-        "entry_kind": "infinitive"
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich vereinbare",
+        "perfekt_reference": "hat vereinbart",
+        "example_reference": "Ich vereinbare einen Termin beim Arzt.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 90,
@@ -3841,8 +4262,13 @@
         "meaning_ar": "يلغي موعدًا",
         "review_status": "practicing",
         "assessment_basis": "introduced live after short progression diagnostic",
-        "usage_note": "separable",
-        "entry_kind": "infinitive"
+        "usage_note": "separable; + Akk",
+        "entry_kind": "infinitive",
+        "praesens_reference": "ich sage ... ab",
+        "perfekt_reference": "hat abgesagt",
+        "example_reference": "Ich sage den Termin ab.",
+        "reference_backfilled_on": "2026-10-09",
+        "reference_is_teaching_information": true
       },
       {
         "id": 91,
@@ -3869,9 +4295,9 @@
         "meaning_ar": "يصل",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable; Perfekt commonly ist angekommen",
+        "usage_note": "separable; Perfekt with sein",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich komme an",
+        "praesens_reference": "ich komme ... an",
         "perfekt_reference": "ist angekommen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -3882,7 +4308,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Der Zug kommt um acht Uhr an.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 92,
@@ -3920,9 +4348,9 @@
         "meaning_ar": "يركب / يصعد وسيلة مواصلات",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; in + Akk",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich steige ein",
+        "praesens_reference": "ich steige ... ein",
         "perfekt_reference": "ist eingestiegen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -3933,7 +4361,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich steige am Bahnhof in den Zug ein.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 93,
@@ -3960,9 +4390,9 @@
         "meaning_ar": "ينزل من وسيلة مواصلات",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; aus + Dat",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich steige aus",
+        "praesens_reference": "ich steige ... aus",
         "perfekt_reference": "ist ausgestiegen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -3973,7 +4403,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich steige an der nächsten Haltestelle aus dem Bus aus.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 94,
@@ -4000,9 +4432,9 @@
         "meaning_ar": "يغيّر / يبدّل وسيلة مواصلات",
         "review_status": "introduced",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; Perfekt with sein",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich steige um",
+        "praesens_reference": "ich steige ... um",
         "perfekt_reference": "ist umgestiegen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4013,7 +4445,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich steige in Nürnberg um.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 95,
@@ -4040,9 +4474,9 @@
         "meaning_ar": "يدعو",
         "review_status": "practicing",
         "assessment_basis": "Actual attempted Perfekt use in 2026-10-07-S02 E46/E47, despite errors; introduced does not erase a documented attempt.",
-        "usage_note": "separable",
+        "usage_note": "separable; + Akk person",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich lade ein; du lädst ein; er lädt ein",
+        "praesens_reference": "ich lade ... ein; du lädst ... ein; er lädt ... ein",
         "perfekt_reference": "hat eingeladen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4053,7 +4487,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich lade meinen Freund zum Essen ein.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 96,
@@ -4080,9 +4516,9 @@
         "meaning_ar": "يشارك / يحضر",
         "review_status": "practicing",
         "assessment_basis": "Actual attempted Perfekt use in 2026-10-07-S02 E46/E47, despite errors; introduced does not erase a documented attempt.",
-        "usage_note": "separable",
+        "usage_note": "separable; an + Dat",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich nehme teil",
+        "praesens_reference": "ich nehme ... teil",
         "perfekt_reference": "hat teilgenommen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4093,7 +4529,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich nehme an dem Kurs teil.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 97,
@@ -4153,9 +4591,9 @@
         "meaning_ar": "يأخذ معه",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; + Akk",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich nehme mit; du nimmst mit; er nimmt mit",
+        "praesens_reference": "ich nehme ... mit; du nimmst ... mit; er nimmt ... mit",
         "perfekt_reference": "hat mitgenommen",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4166,7 +4604,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich nehme meinen Reisepass mit.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 98,
@@ -4193,9 +4633,9 @@
         "meaning_ar": "يسلّم / يقدّم شيئًا",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; + Akk",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich gebe ab",
+        "praesens_reference": "ich gebe ... ab",
         "perfekt_reference": "hat abgegeben",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4206,7 +4646,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich gebe das Formular am Schalter ab.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 99,
@@ -4233,9 +4675,9 @@
         "meaning_ar": "يشغّل جهازًا / النور",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; + Akk",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich schalte ein",
+        "praesens_reference": "ich schalte ... ein",
         "perfekt_reference": "hat eingeschaltet",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4246,7 +4688,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich schalte das Licht ein.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 100,
@@ -4273,9 +4717,9 @@
         "meaning_ar": "يطفئ / يغلق جهازًا أو النور",
         "review_status": "practicing",
         "assessment_basis": "Reconciled with dated 2026-10-07 Perfekt evidence and the existing curriculum row; present-only dedicated first batch remains paused.",
-        "usage_note": "separable",
+        "usage_note": "separable; + Akk",
         "entry_kind": "infinitive",
-        "praesens_reference": "ich schalte aus",
+        "praesens_reference": "ich schalte ... aus",
         "perfekt_reference": "hat ausgeschaltet",
         "reference_backfilled_on": "2026-10-09",
         "tense_tracking": {
@@ -4286,7 +4730,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich schalte den Computer aus.",
+        "reference_is_teaching_information": true
       },
       {
         "id": 101,
@@ -4316,7 +4762,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich besuche morgen meinen Freund.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 102,
@@ -4346,7 +4794,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich erkläre meinem Bruder die Aufgabe.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 103,
@@ -4397,7 +4847,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich vergesse meinen Schlüssel oft zu Hause.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 104,
@@ -4436,7 +4888,7 @@
         "meaning_ar": "ينصح / يوصي",
         "review_status": "practicing",
         "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
-        "usage_note": "Dat person + Akk thing; empfehlen, etwas zu tun",
+        "usage_note": "Dat person + Akk thing; empfehlen, ... zu + Inf.",
         "entry_kind": "infinitive",
         "praesens_reference": "ich empfehle; du empfiehlst; er empfiehlt",
         "perfekt_reference": "hat empfohlen",
@@ -4448,7 +4900,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich empfehle meiner Schwester diesen Kurs.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 105,
@@ -4478,7 +4932,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich erreiche den Bahnhof in zehn Minuten.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 106,
@@ -4549,7 +5005,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich bereite die Tasche für die Reise vor.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 107,
@@ -4630,7 +5088,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich entscheide mich für diese Wohnung.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 108,
@@ -4659,7 +5119,7 @@
         "meaning_ar": "يلغي حجزًا / طلبًا",
         "review_status": "practicing",
         "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
-        "usage_note": "+ Akk; die Buchung stornieren",
+        "usage_note": "+ Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich storniere",
         "perfekt_reference": "hat storniert",
@@ -4671,7 +5131,9 @@
           "Perfekt": {
             "status": "practicing"
           }
-        }
+        },
+        "example_reference": "Ich storniere die Buchung.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 109,
@@ -4722,7 +5184,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich hoffe, dass mein Bruder morgen kommt.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 110,
@@ -4751,7 +5215,7 @@
         "meaning_ar": "يتذكر / يفتكر",
         "review_status": "practicing",
         "assessment_basis": "Migrated from former supplemental verb inventory into unified learned-verb inventory on 2026-10-09; evidence preserved.",
-        "usage_note": "sich an + Akk erinnern; sich (daran) erinnern, dass ...",
+        "usage_note": "reflexive; an + Akk; daran, dass ...",
         "entry_kind": "infinitive",
         "praesens_reference": "ich erinnere mich",
         "perfekt_reference": "hat sich erinnert",
@@ -4763,7 +5227,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich erinnere mich an den Termin.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 111,
@@ -4781,7 +5247,7 @@
         "meaning_ar": "يقدّم طلب رسمي على حاجة",
         "review_status": "introduced",
         "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
-        "usage_note": "etwas + Akk beantragen",
+        "usage_note": "+ Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich beantrage",
         "perfekt_reference": "hat beantragt",
@@ -4793,7 +5259,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich beantrage heute ein Visum.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 112,
@@ -4811,7 +5279,7 @@
         "meaning_ar": "يمدّد / يجدّد مدة",
         "review_status": "introduced",
         "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
-        "usage_note": "etwas + Akk verlängern",
+        "usage_note": "+ Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich verlängere",
         "perfekt_reference": "hat verlängert",
@@ -4823,7 +5291,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich verlängere meinen Vertrag.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 113,
@@ -4841,7 +5311,7 @@
         "meaning_ar": "يلغي عقد / يستقيل",
         "review_status": "introduced",
         "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
-        "usage_note": "einen Vertrag kündigen",
+        "usage_note": "+ Akk; employment sense also possible",
         "entry_kind": "infinitive",
         "praesens_reference": "ich kündige",
         "perfekt_reference": "hat gekündigt",
@@ -4853,7 +5323,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich kündige meinen Mietvertrag.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 114,
@@ -4871,7 +5343,7 @@
         "meaning_ar": "يستبدل حاجة اشتراها",
         "review_status": "introduced",
         "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
-        "usage_note": "separable; etwas + Akk umtauschen",
+        "usage_note": "separable; + Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich tausche ... um",
         "perfekt_reference": "hat umgetauscht",
@@ -4883,7 +5355,9 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich tausche die Jacke um.",
+        "reference_backfilled_on": "2026-10-09"
       },
       {
         "id": 115,
@@ -4901,7 +5375,7 @@
         "meaning_ar": "ينجز / يخلّص مهمة",
         "review_status": "introduced",
         "assessment_basis": "Introduced in 2026-10-09-S04; no independent learner attempt yet.",
-        "usage_note": "etwas + Akk erledigen",
+        "usage_note": "+ Akk",
         "entry_kind": "infinitive",
         "praesens_reference": "ich erledige",
         "perfekt_reference": "hat erledigt",
@@ -4913,9 +5387,18 @@
           "Perfekt": {
             "status": "not_assessed"
           }
-        }
+        },
+        "example_reference": "Ich erledige die Aufgabe nach der Arbeit.",
+        "reference_backfilled_on": "2026-10-09"
       }
-    ]
+    ],
+    "reference_completeness": {
+      "updated_on": "2026-10-09",
+      "all_items_have_praesens": true,
+      "all_items_have_perfekt_or_explicit_note": true,
+      "all_items_have_example": true,
+      "note": "Reference forms/examples are teaching references; they do not create mastery evidence."
+    }
   },
   "grammar": {
     "active": "dass",
