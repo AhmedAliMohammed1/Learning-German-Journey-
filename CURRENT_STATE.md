@@ -515,3 +515,13 @@ Explicit learner preference:
 - End-of-day three pronoun exercises correct (es/sie/ihn); latest six answers correct overall with one earlier word-order improvement. Retest later for retention; do not mark mastered.
 - Prior pending exercises remain: 2026-10-07-S03 E21-E30 and 2026-10-07-S02 E49-E56.
 - On next startup show main menu, offer spaced review before new material.
+
+
+## Active session — 2026-10-09
+- Day status: open; Session: 2026-10-09-S01.
+- Learner selected Targeted review → Recent material (option 3).
+- Numbered verbs remain 100/100; five supplemental verbs were studied on 2026-10-08.
+- New vocabulary introduced: V139 die Empfehlung (die Empfehlungen).
+- Active E01–E05: recommend someone a course; prepare/place bag; Perfekt modal transport; send recommendation/decide; forget/call in Perfekt.
+- Exact next action: correct learner's independent answers to E01–E05. Previous 2026-10-07 S03 E21–E30 and S02 E49–E56 are preserved.
+- Progress vocabulary item list reconciled to V001–V139 using existing dated entries, without assuming mastery.
