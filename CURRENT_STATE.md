@@ -1,16 +1,16 @@
 # Current learner state
 
-Updated: **2026-10-09T17:34:52+02:00**. Calendar timezone: **Europe/Berlin**.
+Updated: **2026-10-09T18:59:34+02:00**. Calendar timezone: **Europe/Berlin**.
 
 ## Authoritative current checkpoint — 2026-10-09
 
-- Day **open**; active session **2026-10-09-S04**, New verbs.
-- Verb system changed by explicit learner request: **no final target** and **one unified verb inventory**.
-- Current learned/introduced verb count: **115 verbs**. Historical 1–100 IDs are preserved; former supplemental verbs now continue sequentially in the same list.
-- Newest verbs: **beantragen, verlängern, kündigen, umtauschen, erledigen**; all are introduced and awaiting first independent practice.
-- New verbs will keep being added with the next ID; no “100/100” milestone is used anymore.
-- Exact next action: first Arabic → German practice batch for the five newest verbs, mixing Präsens and Perfekt.
-- S03 and all older pending work remain preserved.
+- Day **closed**; no active session.
+- Unified open-ended verb inventory: **115 learned/introduced verbs**; there is no final verb target.
+- Latest session **2026-10-09-S04** completed after practice of **beantragen, verlängern, kündigen, umtauschen, erledigen**.
+- Strongest newest evidence: **erledigen** correct in fresh Präsens; **verlängern** and **umtauschen** Perfekt structures were understood.
+- Priority retests next time: **sie verlängert**, requested tense with **kündigen**, **ein Visum beantragen**, **den Mietvertrag**, and **die Jacke**.
+- Earlier S02/S03 pending exercises and all older deferred work remain preserved.
+- On next startup, show the **main menu** first.
 
 ## Additional review choices — preference saved 2026-10-06
 
