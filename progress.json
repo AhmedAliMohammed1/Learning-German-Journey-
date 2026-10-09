@@ -3,7 +3,7 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-08T07:56:00+02:00",
+  "last_updated": "2026-10-09",
   "last_updated_at": "2026-10-07T13:05:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
@@ -16,14 +16,14 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-08",
-  "latest_day": "2026-10-08",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 9,
+  "current_day": "2026-10-09",
+  "latest_day": "2026-10-09",
+  "day_status": "open",
+  "current_session_id": "2026-10-09-S01",
+  "sessions_recorded": 10,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
-  "active_topic": "supplemental verbs, Perfekt with modal verbs, accusative pronouns",
-  "next_action": "Show main menu on next startup. Spaced review of 2026-10-08 supplemental verbs, modal Perfekt and ihn/sie/es; older pending 2026-10-07-S03 E21-E30 and S02 E49-E56 remain preserved.",
+  "active_topic": "targeted review: recent supplemental verbs and Perfekt",
+  "next_action": "Wait for 2026-10-09-S01-E01–E05 learner answers; preserve older pending batches.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -836,6 +836,61 @@
       "priority": "paused_targeted_review",
       "activity": "history_wide_unresolved_sentence_review",
       "tense": "Praesens"
+    },
+    {
+      "id": "2026-10-09-S01-E01",
+      "prompt_ar": "أنا بنصح أختي بالكورس ده.",
+      "tense": "Präsens",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "recent_material",
+      "target": "empfehlen + Dat person + Akk thing"
+    },
+    {
+      "id": "2026-10-09-S01-E02",
+      "prompt_ar": "امبارح أنا جهزت الشنطة وحطيتها في العربية.",
+      "tense": "Perfekt",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "recent_material",
+      "target": "vorbereiten; legen + in + Akk; pronoun sie"
+    },
+    {
+      "id": "2026-10-09-S01-E03",
+      "prompt_ar": "أختي مقدرتش تركب القطر امبارح.",
+      "tense": "Perfekt",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "recent_material",
+      "target": "modal Perfekt with können; einsteigen in + Akk"
+    },
+    {
+      "id": "2026-10-09-S01-E04",
+      "prompt_ar": "أنا ببعت لأخويا توصية، وبعد كده هو بيقرر.",
+      "tense": "Präsens",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "recent_material",
+      "target": "die Empfehlung; schicken Dat+Akk; sich entscheiden"
+    },
+    {
+      "id": "2026-10-09-S01-E05",
+      "prompt_ar": "أنا نسيت المفتاح في البيت، علشان كده اتصلت بأخويا.",
+      "tense": "Perfekt",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_targeted_review",
+      "activity": "recent_material",
+      "target": "vergessen; deshalb + V2; anrufen"
     }
   ],
   "completed_exercise_ids": [
@@ -3841,7 +3896,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 135,
+    "registered_entries_count": 139,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -6107,6 +6162,81 @@
         "source": "2026-10-07-S02 new grammar track — Perfekt",
         "recorded_attempts": 6,
         "independent_correct": 6,
+        "evidence": []
+      },
+      {
+        "id": "V135",
+        "german": "die Kantine",
+        "meaning_ar": "الكانتين / مطعم الشركة أو الجامعة",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Kantinen",
+        "status": "introduced",
+        "introduced_on": "2026-10-07",
+        "last_reviewed": null,
+        "source": "2026-10-07-S03",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V136",
+        "german": "die Besprechung",
+        "meaning_ar": "الاجتماع / اجتماع العمل",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Besprechungen",
+        "status": "introduced",
+        "introduced_on": "2026-10-07",
+        "last_reviewed": null,
+        "source": "2026-10-07-S03",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V137",
+        "german": "das Auto",
+        "meaning_ar": "العربية / السيارة",
+        "type": "noun",
+        "article": "das",
+        "plural": "die Autos",
+        "status": "introduced",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": null,
+        "source": "2026-10-08-S01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V138",
+        "german": "die Tasche",
+        "meaning_ar": "الشنطة / الحقيبة",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Taschen",
+        "status": "introduced",
+        "introduced_on": "2026-10-08",
+        "last_reviewed": null,
+        "source": "2026-10-08-S01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
+      },
+      {
+        "id": "V139",
+        "german": "die Empfehlung",
+        "meaning_ar": "النصيحة / التوصية",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Empfehlungen",
+        "status": "introduced",
+        "introduced_on": "2026-10-09",
+        "last_reviewed": null,
+        "source": "2026-10-09-S01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
         "evidence": []
       }
     ]
