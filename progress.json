@@ -23,7 +23,7 @@
   "sessions_recorded": 10,
   "last_verified_study_at": "2026-10-06T17:40:33+02:00",
   "active_topic": "targeted review: recent supplemental verbs and Perfekt",
-  "next_action": "Wait for 2026-10-09-S01-E01–E05 learner answers; preserve older pending batches.",
+  "next_action": "Recent material batch E01–E05 corrected (4 independently correct; E02 und clause word order needs fresh retest). Continue with fresh mixed Präsens/Perfekt practice, including und coordination and pronoun selection.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -836,61 +836,6 @@
       "priority": "paused_targeted_review",
       "activity": "history_wide_unresolved_sentence_review",
       "tense": "Praesens"
-    },
-    {
-      "id": "2026-10-09-S01-E01",
-      "prompt_ar": "أنا بنصح أختي بالكورس ده.",
-      "tense": "Präsens",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "recent_material",
-      "target": "empfehlen + Dat person + Akk thing"
-    },
-    {
-      "id": "2026-10-09-S01-E02",
-      "prompt_ar": "امبارح أنا جهزت الشنطة وحطيتها في العربية.",
-      "tense": "Perfekt",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "recent_material",
-      "target": "vorbereiten; legen + in + Akk; pronoun sie"
-    },
-    {
-      "id": "2026-10-09-S01-E03",
-      "prompt_ar": "أختي مقدرتش تركب القطر امبارح.",
-      "tense": "Perfekt",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "recent_material",
-      "target": "modal Perfekt with können; einsteigen in + Akk"
-    },
-    {
-      "id": "2026-10-09-S01-E04",
-      "prompt_ar": "أنا ببعت لأخويا توصية، وبعد كده هو بيقرر.",
-      "tense": "Präsens",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "recent_material",
-      "target": "die Empfehlung; schicken Dat+Akk; sich entscheiden"
-    },
-    {
-      "id": "2026-10-09-S01-E05",
-      "prompt_ar": "أنا نسيت المفتاح في البيت، علشان كده اتصلت بأخويا.",
-      "tense": "Perfekt",
-      "status": "pending",
-      "hint_used": false,
-      "learner_answer": null,
-      "priority": "active_targeted_review",
-      "activity": "recent_material",
-      "target": "vergessen; deshalb + V2; anrufen"
     }
   ],
   "completed_exercise_ids": [
@@ -1123,7 +1068,12 @@
     "2026-10-07-S03-E17",
     "2026-10-07-S03-E18",
     "2026-10-07-S03-E19",
-    "2026-10-07-S03-E20"
+    "2026-10-07-S03-E20",
+    "2026-10-09-S01-E01",
+    "2026-10-09-S01-E02",
+    "2026-10-09-S01-E03",
+    "2026-10-09-S01-E04",
+    "2026-10-09-S01-E05"
   ],
   "verbs": {
     "introduced_total": 100,
