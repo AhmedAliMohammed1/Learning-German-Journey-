@@ -29,7 +29,7 @@ Updated: **2026-10-09T17:34:52+02:00**. Calendar timezone: **Europe/Berlin**.
 - **81–90:** practicing after first independent batch on 2026-10-05: verlieren, benutzen, wechseln, buchen, reservieren, abholen, zurückgeben, mitbringen, vereinbaren, absagen.
 - Exact numbered identities and meanings are complete through **90** in curriculum/verbs.md and progress.json.
 - Supplemental besuchen, erklären, mit jemandem sprechen, and previously encountered vergessen do not increase the numbered total.
-- No invented mastery percentages. Target 100 is confirmed by the learner.
+- No invented mastery percentages. Verb learning is open-ended; the current count is descriptive, not a target.
 
 ## Current focus
 
@@ -418,7 +418,7 @@ Introduced on 2026-10-03 under the progression-first policy:
 - Exact next action: learner writes **E01–E05** independently.
 
 
-## 2026-10-07 final-batch checkpoint
+## Historical checkpoint — 2026-10-07 final-batch
 
 - Diagnostic E01–E05 completed.
 - Correct: **nach dem Termin + anrufen**, **schicken + Dat/Akk with complete weil clause**, **nächsten Monat + umziehen**.
@@ -469,7 +469,7 @@ Explicit learner preference:
 - Active continuation: **S02 E41-E48**.
 
 
-## Verb tense preference — Präsens + Perfekt — 2026-10-07
+## Historical preference checkpoint — Präsens + Perfekt — 2026-10-07
 
 - New verbs must now be introduced with **Präsens + Perfekt**: meaning/infinitive, useful present reference, and **haben/sein + Partizip II**.
 - Unless explicitly requested otherwise, "past" means **Perfekt**.
@@ -499,7 +499,7 @@ Explicit learner preference:
 - Next: S03 E11-E20.
 
 
-## End-of-day state — 2026-10-07
+## Historical end-of-day state — 2026-10-07
 
 - Day **2026-10-07 is closed**; no active session.
 - Numbered verbs are **100 / 100 introduced**.
@@ -515,7 +515,7 @@ Explicit learner preference:
 - Next chat/startup must show the main menu before teaching.
 
 
-## End-of-day state — 2026-10-08
+## Historical end-of-day state — 2026-10-08
 
 - Day 2026-10-08 closed; no active session. Day record: days/2026-10-08.md.
 - Numbered verb target remains 100/100; five supplemental verbs practiced: empfehlen, erreichen, vorbereiten, vergessen (review), sich entscheiden fuer.
@@ -526,7 +526,7 @@ Explicit learner preference:
 - On next startup show main menu, offer spaced review before new material.
 
 
-## Active session — 2026-10-09
+## Historical active-session checkpoint — 2026-10-09
 - Day status: open; Session: 2026-10-09-S01.
 - Learner selected Targeted review → Recent material (option 3).
 - Numbered verbs remain 100/100; five supplemental verbs were studied on 2026-10-08.
