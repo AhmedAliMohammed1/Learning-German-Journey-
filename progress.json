@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-09",
-  "last_updated_at": "2026-10-09T12:14:04+02:00",
+  "last_updated_at": "2026-10-09T17:27:28+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-09",
   "latest_day": "2026-10-09",
   "day_status": "open",
-  "current_session_id": "2026-10-09-S02",
-  "sessions_recorded": 12,
+  "current_session_id": "2026-10-09-S03",
+  "sessions_recorded": 13,
   "last_verified_study_at": null,
-  "active_topic": "dass: Präsens/modal/Perfekt; weil completeness and subject continuity",
-  "next_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts.",
+  "active_topic": "targeted recent-material review: dass/Perfekt, sich entscheiden für, subject continuity",
+  "next_action": "Continue 2026-10-09-S03. Subject continuity succeeded once in fresh E09 after repeated E04/E08 errors; retest later in a varied danach/deshalb sentence, then broaden recent-material review. Preserve paused S02 E07-E08 and all older deferred prompts.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -4964,6 +4964,14 @@
             "kind": "dimension_evidence",
             "independent": true,
             "note": "All three have Partizip II + hat clause-final after dass. Complete translations still need omitted details and correct subject. Existing aggregate historical counters retained."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S03",
+            "exercise_id": "2026-10-09-S03-E07",
+            "independent": true,
+            "correct": true,
+            "note": "Fresh independent Perfekt in dass clause: vergessen hat."
           }
         ],
         "subtopics": [
@@ -5036,6 +5044,14 @@
             "independent": true,
             "correct": true,
             "note": "Missing zu Hause; er must preserve brother as subject. Hab ich is a colloquial form of habe ich, not an agreement error by itself; the requested subject requires hat er. Capitalize Deshalb."
+          },
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S03",
+            "exercise_id": "2026-10-09-S03-E07",
+            "independent": true,
+            "correct": true,
+            "note": "Fresh correct dass + Perfekt: vergessen hat clause-final."
           }
         ],
         "subtopics": [
@@ -5083,7 +5099,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 153,
+    "registered_entries_count": 154,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
