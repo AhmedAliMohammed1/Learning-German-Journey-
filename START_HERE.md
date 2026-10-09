@@ -13,7 +13,7 @@ This is the entry point for every assistant continuing this learner's German jou
 7. Read MISTAKE_PATTERNS.md, prioritizing weak and improving patterns and checking imported patterns marked needs_check.
 8. Read the relevant curriculum files before selecting exercises or introducing material.
 
-Never reset the learner to zero. Read the live count from progress.json/CURRENT_STATE.md rather than relying on an old frozen number. As of the latest 2026-10-03 checkpoint, **70 / 100** numbered verbs are introduced: 1–50 strong group baseline, 51–60 practicing, and 61–70 newly introduced. Supplemental verbs do not increase the numbered total. Introduced never means mastered.
+Never reset the learner to zero. Read the live learned-verb count from progress.json/CURRENT_STATE.md rather than relying on any historical milestone. The verb inventory is **open-ended**: there is no final target such as 100/100. All learned verbs belong to one continuous inventory in curriculum/verbs.md, and every new verb receives the next sequential ID. Historical IDs are preserved. Introduced never means mastered.
 
 If records disagree, use dated exercise evidence and explicit learner statements. Flag unresolved inconsistencies; do not silently invent values. The day log supplies evidence, progress.json supplies the structured snapshot, and CURRENT_STATE.md is its readable summary. Preserve corrections with a dated note.
 
@@ -55,7 +55,7 @@ Opening this two-choice submenu is navigation/configuration only. It does not it
 
 **If the learner chooses New verbs:**
 - Follow the normal verb-progression workflow: introduce an appropriate new verb batch, then practise it with old material and active grammar/mistake targets.
-- If the configured numbered-verb target has already been completed, do not silently raise that target or invent new numbered IDs. Treat further verbs as supplemental/extension vocabulary unless the learner explicitly chooses to extend the numbered target.
+- There is **no configured final verb target**. Add every genuinely new verb to the same unified verb inventory with the next sequential ID and increment the current learned count.
 
 This new-day track choice overrides any older wording that says a new study day automatically moves to new verbs after a short diagnostic. A short diagnostic may still be used **after** the learner chooses a track when it is genuinely useful for selecting difficulty, but it must not decide the track for them.
 
@@ -115,7 +115,7 @@ These are additional choices inside main-menu **1 Full review** and **2 Targeted
 2. **كل الكلمات — عربي → ألماني**: recall every deduplicated introduced entry in the vocabulary register through the latest batch, regardless of status.
 3. **مراجعة بالجمل والقواعد**: the existing cumulative Arabic-to-German full-sentence review.
 
-The full pools currently contain numbered IDs **1–100** and vocabulary IDs **V001–V134**. These are examples from the current snapshot, not frozen limits: rebuild from the live inventory whenever a recall activity begins. Do not include unintroduced numbered verbs 91–100 or invented words. Registered expressions/proper names/supplemental entries are included in vocabulary as their existing types; supplemental verbs do not increase the numbered total.
+The full verb pool is rebuilt from the **entire unified learned-verb inventory** in curriculum/verbs.md/progress.json. The current count is a live value, not a frozen limit. Do not split verbs into numbered vs supplemental pools.
 
 **Targeted review / مراجعة جزء معين** keeps subchoices 1–4 above and adds:
 5. **الأفعال اللي لسه تحت التدريب أو جديدة — عربي → ألماني**.
@@ -146,7 +146,7 @@ This policy applies to all future verb teaching and verb review.
   4. separable/case/preposition notes when relevant.
 - Unless the learner explicitly asks for another past tense, **"past" means Perfekt** in this learning system.
 - Example format: **gehen — ich gehe / er geht — ist gegangen**; **anrufen — ich rufe ... an — hat angerufen**.
-- The numbered target remains unchanged. Since 100 / 100 numbered verbs are already introduced, any future extra verbs are supplemental/extension verbs unless the learner explicitly extends the numbered target; the same Präsens + Perfekt teaching format still applies.
+- The verb inventory is open-ended. New verbs are appended to the same unified list; there is no final target.
 - Do not retroactively claim that an older verb's Perfekt form was already mastered merely because its Präsens/infinitive is strong. Backfill/store Perfekt reference forms as they are taught or reviewed.
 - Track evidence separately for at least **present/context use** and **Perfekt use/form**. Success in one tense does not automatically prove the other.
 
@@ -164,9 +164,9 @@ This preference update is configuration only: it creates no exercise attempt, ma
 ## 4. Teaching workflow
 
 - Use LEARNING_PROFILE.md. Full review offers all-verb recall, all-vocabulary recall, and sentence review; the default inside sentence review is Arabic → German written full sentences. Speaking requests oral full sentences; conversation uses interactive turns; reading and listening use comprehension and guided German responses. Apply the selected mode rather than forcing all practice into writing.
-- Use a **progression-first** default. Before a new numbered batch, use at most a short 3–5 sentence diagnostic when useful, then introduce new material. Do not require repeated full review batches before progression.
+- Use a **progression-first** default. Before a new verb batch, use at most a short 3–5 sentence diagnostic when useful, then introduce new material. Do not require repeated full review batches before progression.
 - Except for isolated recall of already introduced items, introduce at least one useful new vocabulary item in every sentence-review batch and each new activity in the four skill modes, with article/plural for nouns and a practical example. Reuse the new item in varied contexts; identical corrective retries need not introduce extra words. Label it as new or reviewed correctly. Save it in curriculum/vocabulary.md once actually introduced.
-- Use the exact recovered numbering in curriculum/verbs.md and progress.json. Introduce future numbered verbs in batches of 10, with old/new mixed exercises. Supplemental besuchen, erklären, vergessen, and mit jemandem sprechen stay outside the numbered total. Entry 31 remains möchten as supplied; its lexical base is mögen.
+- Use the single continuous verb inventory in curriculum/verbs.md and progress.json. New verbs receive the next sequential ID; there is no final verb target. Entry 31 remains möchten as historically supplied; its lexical base is mögen.
 - Correct every submitted sentence: learner answer, natural corrected sentence, and a brief Egyptian Arabic explanation. Accept valid alternatives.
 - Keep separate evidence for an independent correct response, a correct response after a hint, and a copied correction. Only independent success counts toward mastery.
 - Adapt difficulty and mistake frequency to evidence across the full saved history. Recent evidence matters, but older unresolved items remain eligible until strong/mastered. Once the current numbered group has had meaningful practice, continue to the next batch of 10. An isolated weak pattern does not block progression; embed it in new-material exercises. An explicit learner request for new verbs overrides review-heavy defaults.
@@ -331,3 +331,13 @@ Use the existing day files and progress.json only; no separate parallel tracking
 - Reuse existing grammar mistake IDs when the same rule fails in a new mode. Create a pronunciation pattern only after genuine audio evidence; separate accent/style from intelligibility errors. Update vocabulary/grammar under the same existing registries.
 - End-of-day processing updates skill evidence, review_queue, pending activities, CURRENT_STATE, preferences, and the day status along with the existing curriculum workflow.
 - No mode has been assessed merely because its configuration was added. Keep all four new baselines not_assessed until actual training occurs.
+
+
+## Open-ended unified verb inventory — explicit learner preference 2026-10-09
+
+- There is **no final verb-count goal**.
+- The displayed verb number means only **how many verbs have been introduced/learned so far**.
+- All verbs use **one continuous table/inventory**. Do not create separate numbered/supplemental verb tables.
+- Preserve historical IDs; assign each new verb the next sequential ID.
+- Continue teaching new verbs for as long as useful; do not stop because a milestone such as 100 was reached.
+- This policy supersedes older text about a 100-verb target or supplemental verbs outside the main count.
