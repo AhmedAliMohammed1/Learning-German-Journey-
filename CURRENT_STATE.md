@@ -38,3 +38,9 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - Stronger: wenn with verb-final and main clause inversion. Weak: one-off past als, nach Hause, separable vorbereiten.
 - Learner confirmed reason for als in Arabic; no speaking assessment.
 - 117 verbs and 157 registered vocabulary entries. Session S02 open. S02 E09/E10 await answers; S01 E19–E23 deferred.
+
+## 2026-10-10 closed study checkpoint
+- Session S03 targeted mixed review: five independent written answers, two fully correct. E02 spelling hat and omitted gestern; E03 diesen Kurs / fuer einen anderen Kurs; E04 Perfekt after danach.
+- New unanswered S03 E06-E08 remain pending for evening: hotel recommendation and alternative choice; documents sent after preparation; choosing apartment if time tomorrow.
+- Earlier deferred S02 E09-E10 and S01 E19-E23 remain pending; they are not recorded as correct.
+- 2026-10-10 day closed, current_session_id null; progress.json and dated day file synchronized.
