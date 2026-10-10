@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-10",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-10T15:13:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-10",
   "latest_day": "2026-10-10",
   "day_status": "open",
-  "current_session_id": "2026-10-10-S01",
+  "current_session_id": null,
   "sessions_recorded": 16,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
   "active_topic": "Full review: mixed Präsens/Perfekt written sentences",
-  "next_action": "Continue full review on 2026-10-10-S01 after E11-E15: short new retest on vom Tisch, ist umgezogen / letzten Monat, and weil der Mietvertrag abgelaufen ist, then rotate old/new verbs in Präsens and Perfekt.",
+  "next_action": "Main menu requested. Full review paused; exact next batch 2026-10-10-S01-E19–E23 preserved.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1030,6 +1030,56 @@
       "corrected_answer": "Ich habe letzte Woche ein Visum beantragt, weil der Mietvertrag abgelaufen ist.",
       "result": "needs_correction_subordinate_clause",
       "independent": true
+    },
+    {
+      "id": "2026-10-10-S01-E19",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا سلّمت المستندات في المكتب امبارح، وبعد كده روحت البيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review_mixed"
+    },
+    {
+      "id": "2026-10-10-S01-E20",
+      "session_id": "2026-10-10-S01",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بنصح أختي بالكورس ده، لكنها بتختار كورس تاني.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review_mixed"
+    },
+    {
+      "id": "2026-10-10-S01-E21",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا بعتلي رسالة، وبعد كده أنا رديت عليه.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review_mixed"
+    },
+    {
+      "id": "2026-10-10-S01-E22",
+      "session_id": "2026-10-10-S01",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بستنى المدير قدام الجامعة، لأن عندي معاد معاه.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review_mixed"
+    },
+    {
+      "id": "2026-10-10-S01-E23",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أختي ضيّعت المفتاح، لكن أخويا لقاه تحت الترابيزة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "full_review_mixed"
     }
   ],
   "completed_exercise_ids": [
@@ -1341,7 +1391,10 @@
     "2026-10-10-S01-E12",
     "2026-10-10-S01-E13",
     "2026-10-10-S01-E14",
-    "2026-10-10-S01-E15"
+    "2026-10-10-S01-E15",
+    "2026-10-10-S01-E16",
+    "2026-10-10-S01-E17",
+    "2026-10-10-S01-E18"
   ],
   "verbs": {
     "learned_total": 116,
@@ -5483,12 +5536,22 @@
         "identity_status": "confirmed_from_teaching",
         "introduced": true,
         "introduction_date": "2026-10-10",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-10",
+        "evidence": [
+          {
+            "date": "2026-10-10",
+            "session_id": "2026-10-10-S01",
+            "exercise_id": "2026-10-10-S01-E18",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "ist abgelaufen correct; noun article wrong"
+          }
+        ],
         "entry_kind": "infinitive",
         "praesens_reference": "der Vertrag läuft ab",
         "perfekt_reference": "ist abgelaufen",
@@ -5498,7 +5561,7 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing"
           }
         },
         "example_reference": "Der Mietvertrag läuft nächsten Monat ab.",
@@ -5830,7 +5893,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 156,
+    "registered_entries_count": 157,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -8858,10 +8921,33 @@
         "type": "noun",
         "article": "der",
         "plural": "die Vermieter",
+        "status": "practicing",
+        "introduced_on": "2026-10-10",
+        "last_reviewed": "2026-10-10",
+        "source": "2026-10-10-S01 follow-up prompt vocabulary hint",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-10",
+            "exercise_id": "2026-10-10-S01-E18",
+            "independent": true,
+            "correct": true,
+            "note": "den Vermieter correct"
+          }
+        ]
+      },
+      {
+        "id": "V157",
+        "german": "die Unterlagen",
+        "meaning_ar": "المستندات / الأوراق المطلوبة",
+        "type": "plural_noun",
+        "article": "die",
+        "plural": "die Unterlagen",
         "status": "introduced",
         "introduced_on": "2026-10-10",
         "last_reviewed": null,
-        "source": "2026-10-10-S01 follow-up prompt vocabulary hint",
+        "source": "2026-10-10-S01 next batch prompt",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "evidence": []
@@ -13820,6 +13906,42 @@
       "learner_answer": "Ich habe letzte Woche ein Visum beantragt, weil den Mietvertrag fertig hat",
       "correction": "Ich habe letzte Woche ein Visum beantragt, weil der Mietvertrag abgelaufen ist.",
       "result": "needs_correction_subordinate_clause",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E16",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أختي بتاخد الموبايل من على المكتب.",
+      "learner_answer": "Meine Schwester nimmt das Handy vom Tisch",
+      "correction": "Meine Schwester nimmt das Handy vom Schreibtisch.",
+      "result": "grammar_correct_meaning_different",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E17",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا انتقل لبرلين الشهر اللي فات.",
+      "learner_answer": "Mein Bruder ist letzten Monat nach Berlin umgezogen",
+      "correction": "Mein Bruder ist letzten Monat nach Berlin umgezogen.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E18",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "عقد الإيجار انتهى امبارح، وعلشان كده أنا اتصلت بصاحب الشقة.",
+      "learner_answer": "Die Mietvertrag ist gestern abgelaufen, deshalb habe ich den Vermieter angerufen",
+      "correction": "Der Mietvertrag ist gestern abgelaufen, deshalb habe ich den Vermieter angerufen.",
+      "result": "article_error",
       "independent": true
     }
   ],
