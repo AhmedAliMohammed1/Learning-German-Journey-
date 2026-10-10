@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-10",
-  "last_updated_at": "2026-10-10T15:13:00+02:00",
+  "last_updated_at": "2026-10-10T16:28:00+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-10-S02",
   "sessions_recorded": 17,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "wenn",
-  "next_action": "Answer 2026-10-10-S02-E01–E05; fifth prompt corrected to completed action condition because past single event requires als. Older 2026-10-10-S01 prompts stay paused.",
+  "active_topic": "wenn vs als; separable verbs; written translation",
+  "next_action": "Answer one of 2026-10-10-S02-E09–E10; E09 past single event 'als' and ankommen; E10 wenn with separable vorbereiten. Older S01 E19–E23 remains deferred.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1086,50 +1086,85 @@
       "session_id": "2026-10-10-S02",
       "tense": "Präsens",
       "prompt_ar": "لو عندي وقت، بذاكر ألماني.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
-      "activity": "new_grammar_wenn"
+      "learner_answer": "Wenn eine Zeit habe, lerne ich Deutsch",
+      "activity": "new_grammar_wenn",
+      "corrected_answer": "Wenn ich Zeit habe, lerne ich Deutsch.",
+      "result": "needs_correction",
+      "independent": true
     },
     {
       "id": "2026-10-10-S02-E02",
       "session_id": "2026-10-10-S02",
       "tense": "Präsens",
       "prompt_ar": "أنا بتصل بأختي لما أوصل البيت.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
-      "activity": "new_grammar_wenn"
+      "learner_answer": "Ich rufe meine Schwester an, wenn ich zu Hause kommen bin.",
+      "activity": "new_grammar_wenn",
+      "corrected_answer": "Ich rufe meine Schwester an, wenn ich nach Hause komme.",
+      "result": "needs_correction",
+      "independent": true
     },
     {
       "id": "2026-10-10-S02-E03",
       "session_id": "2026-10-10-S02",
       "tense": "Präsens",
       "prompt_ar": "لو أخويا تعبان، بساعده.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
-      "activity": "new_grammar_wenn"
+      "learner_answer": "Wenn mein Bruder müde ist, helfe ich ihm",
+      "activity": "new_grammar_wenn",
+      "corrected_answer": "Wenn mein Bruder müde ist, helfe ich ihm.",
+      "result": "independent_correct",
+      "independent": true
     },
     {
       "id": "2026-10-10-S02-E04",
       "session_id": "2026-10-10-S02",
       "tense": "Präsens",
       "prompt_ar": "لو أختي نسيت المفتاح، بتتصل بيا.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
-      "activity": "new_grammar_wenn"
+      "learner_answer": "Wenn meine Schwester den Schlüssel vergisst, ruft sie mich an.",
+      "activity": "new_grammar_wenn",
+      "corrected_answer": "Wenn meine Schwester den Schlüssel vergisst, ruft sie mich an.",
+      "result": "independent_correct",
+      "independent": true
     },
     {
       "id": "2026-10-10-S02-E05",
       "session_id": "2026-10-10-S02",
       "tense": "Perfekt",
       "prompt_ar": "لو خلصت شغلي، هتصل بأخويا.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
+      "learner_answer": "Als meine Arbeit erledigt habe, rufe ich meinen Bruder an",
+      "activity": "new_grammar_wenn",
+      "corrected_answer": "Wenn ich meine Arbeit erledigt habe, rufe ich meinen Bruder an.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "id": "2026-10-10-S02-E09",
+      "session_id": "2026-10-10-S02",
+      "tense": "Perfekt",
+      "prompt_ar": "لما أختي وصلت ميونخ امبارح، اتصلت بيا.",
+      "status": "pending",
       "learner_answer": null,
-      "activity": "new_grammar_wenn"
+      "hint_used": false,
+      "activity": "wenn_als_transfer"
+    },
+    {
+      "id": "2026-10-10-S02-E10",
+      "session_id": "2026-10-10-S02",
+      "tense": "Präsens",
+      "prompt_ar": "لو أخويا عنده وقت، بيجهز الشنطة قبل السفر.",
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "activity": "wenn_als_transfer"
     }
   ],
   "completed_exercise_ids": [
@@ -1444,7 +1479,15 @@
     "2026-10-10-S01-E15",
     "2026-10-10-S01-E16",
     "2026-10-10-S01-E17",
-    "2026-10-10-S01-E18"
+    "2026-10-10-S01-E18",
+    "2026-10-10-S02-E01",
+    "2026-10-10-S02-E02",
+    "2026-10-10-S02-E03",
+    "2026-10-10-S02-E04",
+    "2026-10-10-S02-E05",
+    "2026-10-10-S02-E06",
+    "2026-10-10-S02-E07",
+    "2026-10-10-S02-E08"
   ],
   "verbs": {
     "learned_total": 117,
@@ -5934,12 +5977,30 @@
       {
         "id": "wenn",
         "title": "wenn conditional and repeated/future temporal clauses",
-        "status": "introduced",
+        "status": "practicing",
         "source": "2026-10-10-S02",
         "introduced_on": "2026-10-10",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": [],
+        "recorded_attempts": 8,
+        "independent_correct": 3,
+        "evidence": [
+          {
+            "date": "2026-10-10",
+            "session_id": "2026-10-10-S02",
+            "exercise_range": "E01-E08",
+            "note": "E03,E04,E06 independent correct; E01 missing subject, E02 direction/tense, E05 wenn vs als, E07 one-off past event needs als+Perfekt, E08 separable vorbereiten."
+          },
+          {
+            "date": "2026-10-10",
+            "kind": "recognition",
+            "independent": true,
+            "note": "Four-choice als/wenn identification: 3/4 correct (condition tomorrow misclassified as als). Recognition distinct from full-sentence production."
+          },
+          {
+            "date": "2026-10-10",
+            "kind": "oral_response_unassessed",
+            "note": "Learner correctly explained als for single past arrival yesterday in typed Arabic; not pronunciation or oral assessment."
+          }
+        ],
         "note": "Verb final in subordinate clause; when fronted, main verb directly after comma. One-off past when normally uses als, not wenn."
       }
     ],
@@ -14029,6 +14090,102 @@
       "learner_answer": "Die Mietvertrag ist gestern abgelaufen, deshalb habe ich den Vermieter angerufen",
       "correction": "Der Mietvertrag ist gestern abgelaufen, deshalb habe ich den Vermieter angerufen.",
       "result": "article_error",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E01",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "لو عندي وقت، بذاكر ألماني.",
+      "learner_answer": "Wenn eine Zeit habe, lerne ich Deutsch",
+      "correction": "Wenn ich Zeit habe, lerne ich Deutsch.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E02",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بتصل بأختي لما أوصل البيت.",
+      "learner_answer": "Ich rufe meine Schwester an, wenn ich zu Hause kommen bin.",
+      "correction": "Ich rufe meine Schwester an, wenn ich nach Hause komme.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E03",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "لو أخويا تعبان، بساعده.",
+      "learner_answer": "Wenn mein Bruder müde ist, helfe ich ihm",
+      "correction": "Wenn mein Bruder müde ist, helfe ich ihm.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E04",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "لو أختي نسيت المفتاح، بتتصل بيا.",
+      "learner_answer": "Wenn meine Schwester den Schlüssel vergisst, ruft sie mich an.",
+      "correction": "Wenn meine Schwester den Schlüssel vergisst, ruft sie mich an.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E05",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Perfekt + Präsens",
+      "prompt_ar": "لو خلصت شغلي، هتصل بأخويا.",
+      "learner_answer": "Als meine Arbeit erledigt habe, rufe ich meinen Bruder an",
+      "correction": "Wenn ich meine Arbeit erledigt habe, rufe ich meinen Bruder an.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E06",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "لو عندي وقت بكرة، هزور أختي.",
+      "learner_answer": "Wenn ich morgen Zeit habe, besuche ich meine Schwester",
+      "correction": "Wenn ich morgen Zeit habe, besuche ich meine Schwester.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E07",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Perfekt",
+      "prompt_ar": "لما وصلت البيت امبارح، اتصلت بأخويا.",
+      "learner_answer": "Wenn ich nach Hause komme, rufe ich meinen Bruder an",
+      "correction": "Als ich gestern nach Hause gekommen bin, habe ich meinen Bruder angerufen.",
+      "result": "wrong_tense_and_when",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S02-E08",
+      "session_id": "2026-10-10-S02",
+      "date": "2026-10-10",
+      "mode": "new_grammar_wenn",
+      "tense": "Präsens",
+      "prompt_ar": "لو أختي وصلت البيت، هتجهز الأكل.",
+      "learner_answer": "Wenn meine Schwester nach Hause kommt, vorbereitet sie das Essen",
+      "correction": "Wenn meine Schwester nach Hause kommt, bereitet sie das Essen vor.",
+      "result": "separable_verb_error",
       "independent": true
     }
   ],
