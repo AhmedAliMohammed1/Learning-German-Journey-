@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-09",
-  "last_updated_at": "2026-10-09T18:59:34+02:00",
+  "last_updated": "2026-10-10",
+  "last_updated_at": null,
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,14 +16,14 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-09",
-  "latest_day": "2026-10-09",
-  "day_status": "reopened",
-  "current_session_id": "2026-10-09-S05",
-  "sessions_recorded": 15,
+  "current_day": "2026-10-10",
+  "latest_day": "2026-10-10",
+  "day_status": "open",
+  "current_session_id": "2026-10-10-S01",
+  "sessions_recorded": 16,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "targeted review / all not-yet-strong verbs",
-  "next_action": "Review all 65 verbs currently introduced/practicing (IDs 51-115) until secure; use Arabic→German recall plus Präsens/Perfekt sentence practice. Prioritize introduced and weak evidence while preserving full coverage.",
+  "active_topic": "Full review: mixed Präsens/Perfekt written sentences",
+  "next_action": "2026-10-10-S01: fresh E11-E15 retests of cases, subject continuity, application noun, Perfekt weil, and tense.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -960,6 +960,61 @@
       "priority": "active_grammar",
       "activity": "dass_grammar_track",
       "target": "dass + negation + hat vergessen + zu Hause"
+    },
+    {
+      "id": "2026-10-10-S01-E11",
+      "session_id": "2026-10-10-S01",
+      "tense": "Präsens",
+      "prompt_ar": "أخويا بياخد الكتاب من على الترابيزة، وبعد كده بيحطه في الشنطة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_review",
+      "activity": "full_review_mixed_retest"
+    },
+    {
+      "id": "2026-10-10-S01-E12",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أختي انتقلت لشقة جديدة الشهر اللي فات، لأنها لقت شغل في برلين.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_review",
+      "activity": "full_review_mixed_retest"
+    },
+    {
+      "id": "2026-10-10-S01-E13",
+      "session_id": "2026-10-10-S01",
+      "tense": "Präsens",
+      "prompt_ar": "أنا عارف إن أختي بتكتب طلب تقديم على وظيفة بعد الشغل.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_review",
+      "activity": "full_review_mixed_retest"
+    },
+    {
+      "id": "2026-10-10-S01-E14",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا اشترى جاكيت جديد، وبعد كده أخده معاه.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_review",
+      "activity": "full_review_mixed_retest"
+    },
+    {
+      "id": "2026-10-10-S01-E15",
+      "session_id": "2026-10-10-S01",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا قدمت طلب للحصول على تأشيرة الأسبوع اللي فات، لأن عقد الإيجار انتهى.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "priority": "active_review",
+      "activity": "full_review_mixed_retest"
     }
   ],
   "completed_exercise_ids": [
@@ -1256,7 +1311,17 @@
     "2026-10-09-S02-E03",
     "2026-10-09-S02-E04",
     "2026-10-09-S02-E05",
-    "2026-10-09-S02-E06"
+    "2026-10-09-S02-E06",
+    "2026-10-10-S01-E01",
+    "2026-10-10-S01-E02",
+    "2026-10-10-S01-E03",
+    "2026-10-10-S01-E04",
+    "2026-10-10-S01-E05",
+    "2026-10-10-S01-E06",
+    "2026-10-10-S01-E07",
+    "2026-10-10-S01-E08",
+    "2026-10-10-S01-E09",
+    "2026-10-10-S01-E10"
   ],
   "verbs": {
     "learned_total": 115,
@@ -5717,7 +5782,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 154,
+    "registered_entries_count": 155,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -8687,6 +8752,28 @@
           }
         ],
         "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
+      },
+      {
+        "id": "V155",
+        "german": "die Bewerbung",
+        "meaning_ar": "طلب التقديم على وظيفة",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Bewerbungen",
+        "status": "practicing",
+        "introduced_on": "2026-10-10",
+        "last_reviewed": "2026-10-10",
+        "source": "2026-10-10-S01",
+        "recorded_attempts": 1,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "date": "2026-10-10",
+            "session_id": "2026-10-10-S01",
+            "exercise_id": "2026-10-10-S01-E07",
+            "note": "Learner used verb beantragen in place of noun Bewerbung."
+          }
+        ]
       }
     ]
   },
@@ -13463,6 +13550,126 @@
         "full_translation": "needs_correction"
       },
       "prior_teaching_examples_shown": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E01",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بحط الكتاب على الترابيزة، وبعد كده أخويا بياخده معاه.",
+      "learner_answer": "Ich lege das Buch auf die Tisch, danach nehmt mein Bruder es mit",
+      "correction": "Ich lege das Buch auf den Tisch, danach nimmt mein Bruder es mit.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E02",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "امبارح أختي جهزت الشنطة، وبعد كده أخدتها معاها.",
+      "learner_answer": "Gestern hat meine Schwester die Tasche vorbereitet danach hat sie sie mitgenommen",
+      "correction": "Gestern hat meine Schwester die Tasche vorbereitet, danach hat sie sie mitgenommen.",
+      "result": "correct_punctuation_only",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E03",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أنا عارف إن أخويا مستني صاحبه قدام المستشفى.",
+      "learner_answer": "Ich weiß, dass mein Bruder vor dem Krankenhaus auf seinen Freund wartet",
+      "correction": "Ich weiß, dass mein Bruder vor dem Krankenhaus auf seinen Freund wartet.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E04",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا انتقل لشقة جديدة الشهر اللي فات، لأنه لقى شغل في ميونخ.",
+      "learner_answer": "Mein Bruder ist letzt Monat eine neue Wohnung umgezogen, weil er in München eine Arbeit gefunden",
+      "correction": "Mein Bruder ist letzten Monat in eine neue Wohnung umgezogen, weil er in München eine Arbeit gefunden hat.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E05",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أختي بتجدد عقد الإيجار النهارده، لكن أنا بلغي الحجز.",
+      "learner_answer": "Meine Schwester verlängert heute die Mietvertrag, aber ich storniere die Buchung",
+      "correction": "Meine Schwester verlängert heute den Mietvertrag, aber ich storniere die Buchung.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E06",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا نسيت المفتاح في البيت، وعلشان كده اتصلت بأختي.",
+      "learner_answer": "Ich habe den Schlüssel zu Hause vergessen, deshalb habe ich meinen Bruder angerufen",
+      "correction": "Ich habe den Schlüssel zu Hause vergessen, deshalb habe ich meine Schwester angerufen.",
+      "result": "meaning_mismatch",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E07",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أنا ببدأ أكتب طلب تقديم على وظيفة بعد الشغل.",
+      "learner_answer": "Ich fange nach der Arbeit an, beantragen zu schreiben",
+      "correction": "Ich fange nach der Arbeit an, eine Bewerbung zu schreiben.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E08",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أختي استبدلت الجاكيت امبارح، وبعد كده اشترت واحد جديد.",
+      "learner_answer": "Meine Schwester hat gestern die Jacke umgetauscht, danach hat eine neue Jacke gekauft",
+      "correction": "Meine Schwester hat gestern die Jacke umgetauscht, danach hat sie eine neue Jacke gekauft.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E09",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بتمنى إن أخويا يقدر ييجي بكرة، لأن عندنا معاد مهم.",
+      "learner_answer": "Ich hoffe, dass mein Bruder morgen kommen kann. Weil wir einen besonderen Termin haben.",
+      "correction": "Ich hoffe, dass mein Bruder morgen kommen kann, weil wir einen wichtigen Termin haben.",
+      "result": "meaning_and_punctuation",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E10",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا قدمت طلب للحصول على تأشيرة الأسبوع اللي فات، وبعد كده حجزت تذكرة القطر.",
+      "learner_answer": "Ich habe letzt Woche die Visum beantragt, danach habe ich die Fahrkarte gebucht",
+      "correction": "Ich habe letzte Woche ein Visum beantragt, danach habe ich eine Fahrkarte gebucht.",
+      "result": "needs_correction",
+      "independent": true
     }
   ],
   "skill_tracking": {
