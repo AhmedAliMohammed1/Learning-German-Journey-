@@ -341,3 +341,7 @@ Use the existing day files and progress.json only; no separate parallel tracking
 - Preserve historical IDs; assign each new verb the next sequential ID.
 - Continue teaching new verbs for as long as useful; do not stop because a milestone such as 100 was reached.
 - This policy supersedes older text about a 100-verb target or supplemental verbs outside the main count.
+
+## Unified table formatting rule — 2026-10-10
+
+Every vocabulary item V001 onward belongs in the single Markdown table in `curriculum/vocabulary.md` (no standalone per-item headings below the table). Every verb ID belongs in the single contiguous table in `curriculum/verbs.md`, without blank lines splitting rows. New additions must be placed as rows, with stable IDs and synced status/counts from `progress.json`. Detailed learner attempts and examples belong in dated day logs and structured evidence, not duplicate vocabulary sections. When editing tables validate contiguous IDs, pipe column counts, and header count against `progress.json` before pushing.
