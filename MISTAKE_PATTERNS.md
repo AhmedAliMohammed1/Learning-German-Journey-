@@ -431,3 +431,7 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 - E01 missed subject ich; E02 direction nach Hause and tense; E05 and E07 confused wenn with als for one-off past event.
 - E08: separable present bereitet ... vor. E03, E04 and E06 were independently correct.
 - Recognition quiz: 3/4, future conditional incorrectly classified as als. Retest before mastery.
+
+## 2026-10-10 Reading: Das verlorene Paket
+- Independent errors: niemand instead of niemanden in Akkusativ; der Nachbarn rather than der Nachbar as subject; seinen Nachbarin rather than seinen Nachbarn; nicht after geantwortet; omitted nicht in a transfer sentence; incorrect modal/infinitive construction; pronoun order; spelling Paket.
+- Initially used in die Tasche for static location. Final fresh independent response used in die Tasche for movement and in der Tasche for static location correctly; only typo gester instead of gestern. Treat Wo/Wohin as improving, not mastered; schedule later retention check.
