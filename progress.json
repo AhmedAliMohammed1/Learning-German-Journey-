@@ -23,7 +23,7 @@
   "sessions_recorded": 16,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
   "active_topic": "Full review: mixed Präsens/Perfekt written sentences",
-  "next_action": "2026-10-10-S01: fresh E11-E15 retests of cases, subject continuity, application noun, Perfekt weil, and tense.",
+  "next_action": "Continue full review on 2026-10-10-S01 after E11-E15: short new retest on vom Tisch, ist umgezogen / letzten Monat, and weil der Mietvertrag abgelaufen ist, then rotate old/new verbs in Präsens and Perfekt.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -966,55 +966,70 @@
       "session_id": "2026-10-10-S01",
       "tense": "Präsens",
       "prompt_ar": "أخويا بياخد الكتاب من على الترابيزة، وبعد كده بيحطه في الشنطة.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
+      "learner_answer": "Mein Bruder nimmt das Buch auf den Tisch, danach legt er es in die Tasche",
       "priority": "active_review",
-      "activity": "full_review_mixed_retest"
+      "activity": "full_review_mixed_retest",
+      "corrected_answer": "Mein Bruder nimmt das Buch vom Tisch, danach legt er es in die Tasche.",
+      "result": "needs_correction_preposition",
+      "independent": true
     },
     {
       "id": "2026-10-10-S01-E12",
       "session_id": "2026-10-10-S01",
       "tense": "Perfekt",
       "prompt_ar": "أختي انتقلت لشقة جديدة الشهر اللي فات، لأنها لقت شغل في برلين.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
+      "learner_answer": "Meine Schwester hat letzte Monat in eine neue Wohnung umgezogen, weil sie in Berlin eine Arbeit gefunden hat",
       "priority": "active_review",
-      "activity": "full_review_mixed_retest"
+      "activity": "full_review_mixed_retest",
+      "corrected_answer": "Meine Schwester ist letzten Monat in eine neue Wohnung umgezogen, weil sie in Berlin eine Arbeit gefunden hat.",
+      "result": "needs_correction_auxiliary_temporal",
+      "independent": true
     },
     {
       "id": "2026-10-10-S01-E13",
       "session_id": "2026-10-10-S01",
       "tense": "Präsens",
       "prompt_ar": "أنا عارف إن أختي بتكتب طلب تقديم على وظيفة بعد الشغل.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
+      "learner_answer": "Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt",
       "priority": "active_review",
-      "activity": "full_review_mixed_retest"
+      "activity": "full_review_mixed_retest",
+      "corrected_answer": "Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt.",
+      "result": "independent_correct",
+      "independent": true
     },
     {
       "id": "2026-10-10-S01-E14",
       "session_id": "2026-10-10-S01",
       "tense": "Perfekt",
       "prompt_ar": "أخويا اشترى جاكيت جديد، وبعد كده أخده معاه.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
+      "learner_answer": "Mein Bruder hat eine neue Jacke gekauft, danach hat er sie mitgenommen",
       "priority": "active_review",
-      "activity": "full_review_mixed_retest"
+      "activity": "full_review_mixed_retest",
+      "corrected_answer": "Mein Bruder hat eine neue Jacke gekauft, danach hat er sie mitgenommen.",
+      "result": "independent_correct",
+      "independent": true
     },
     {
       "id": "2026-10-10-S01-E15",
       "session_id": "2026-10-10-S01",
       "tense": "Perfekt",
       "prompt_ar": "أنا قدمت طلب للحصول على تأشيرة الأسبوع اللي فات، لأن عقد الإيجار انتهى.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
-      "learner_answer": null,
+      "learner_answer": "Ich habe letzte Woche ein Visum beantragt, weil den Mietvertrag fertig hat",
       "priority": "active_review",
-      "activity": "full_review_mixed_retest"
+      "activity": "full_review_mixed_retest",
+      "corrected_answer": "Ich habe letzte Woche ein Visum beantragt, weil der Mietvertrag abgelaufen ist.",
+      "result": "needs_correction_subordinate_clause",
+      "independent": true
     }
   ],
   "completed_exercise_ids": [
@@ -1321,10 +1336,15 @@
     "2026-10-10-S01-E07",
     "2026-10-10-S01-E08",
     "2026-10-10-S01-E09",
-    "2026-10-10-S01-E10"
+    "2026-10-10-S01-E10",
+    "2026-10-10-S01-E11",
+    "2026-10-10-S01-E12",
+    "2026-10-10-S01-E13",
+    "2026-10-10-S01-E14",
+    "2026-10-10-S01-E15"
   ],
   "verbs": {
-    "learned_total": 115,
+    "learned_total": 116,
     "mastered_total": null,
     "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
@@ -5455,6 +5475,34 @@
         },
         "example_reference": "Ich erledige die Aufgabe nach der Arbeit.",
         "reference_backfilled_on": "2026-10-09"
+      },
+      {
+        "id": 116,
+        "infinitive": "ablaufen",
+        "meaning_ar": "تنتهي مدة صلاحية / ينتهي موعد أو عقد",
+        "identity_status": "confirmed_from_teaching",
+        "introduced": true,
+        "introduction_date": "2026-10-10",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "entry_kind": "infinitive",
+        "praesens_reference": "der Vertrag läuft ab",
+        "perfekt_reference": "ist abgelaufen",
+        "usage_note": "separable; contract/validity expiration; with sein in Perfekt",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Der Mietvertrag läuft nächsten Monat ab.",
+        "reference_is_teaching_information": true
       }
     ],
     "reference_completeness": {
@@ -13669,6 +13717,66 @@
       "learner_answer": "Ich habe letzt Woche die Visum beantragt, danach habe ich die Fahrkarte gebucht",
       "correction": "Ich habe letzte Woche ein Visum beantragt, danach habe ich eine Fahrkarte gebucht.",
       "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E11",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أخويا بياخد الكتاب من على الترابيزة، وبعد كده بيحطه في الشنطة.",
+      "learner_answer": "Mein Bruder nimmt das Buch auf den Tisch, danach legt er es in die Tasche",
+      "correction": "Mein Bruder nimmt das Buch vom Tisch, danach legt er es in die Tasche.",
+      "result": "needs_correction_preposition",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E12",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أختي انتقلت لشقة جديدة الشهر اللي فات، لأنها لقت شغل في برلين.",
+      "learner_answer": "Meine Schwester hat letzte Monat in eine neue Wohnung umgezogen, weil sie in Berlin eine Arbeit gefunden hat",
+      "correction": "Meine Schwester ist letzten Monat in eine neue Wohnung umgezogen, weil sie in Berlin eine Arbeit gefunden hat.",
+      "result": "needs_correction_auxiliary_temporal",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E13",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Präsens",
+      "prompt_ar": "أنا عارف إن أختي بتكتب طلب تقديم على وظيفة بعد الشغل.",
+      "learner_answer": "Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt",
+      "correction": "Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E14",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا اشترى جاكيت جديد، وبعد كده أخده معاه.",
+      "learner_answer": "Mein Bruder hat eine neue Jacke gekauft, danach hat er sie mitgenommen",
+      "correction": "Mein Bruder hat eine neue Jacke gekauft, danach hat er sie mitgenommen.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "exercise_id": "2026-10-10-S01-E15",
+      "session_id": "2026-10-10-S01",
+      "date": "2026-10-10",
+      "mode": "full_review_sentence",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا قدمت طلب للحصول على تأشيرة الأسبوع اللي فات، لأن عقد الإيجار انتهى.",
+      "learner_answer": "Ich habe letzte Woche ein Visum beantragt, weil den Mietvertrag fertig hat",
+      "correction": "Ich habe letzte Woche ein Visum beantragt, weil der Mietvertrag abgelaufen ist.",
+      "result": "needs_correction_subordinate_clause",
       "independent": true
     }
   ],
