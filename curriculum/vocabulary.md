@@ -163,6 +163,7 @@
 | V155 | die Bewerbung | die Bewerbungen | طلب التقديم على وظيفة | noun | practicing |
 | V156 | der Vermieter | die Vermieter | المؤجِّر / صاحب الشقة | noun | practicing |
 | V157 | die Unterlagen | die Unterlagen | المستندات / الأوراق المطلوبة | plural_noun | introduced |
+| V158 | das Vorstellungsgespräch | die Vorstellungsgespräche | مقابلة عمل | noun | practicing |
 
 ## Learning notes
 
