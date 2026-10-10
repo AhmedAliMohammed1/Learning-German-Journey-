@@ -1,4 +1,4 @@
-# Verb curriculum — 115 learned verbs
+# Verb curriculum — 117 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -118,14 +118,12 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 108 | stornieren | يلغي حجزًا / طلبًا | ich storniere | hat storniert | Ich storniere die Buchung. | practicing | + Akk |
 | 109 | hoffen | يتمنى / يأمل | ich hoffe | hat gehofft | Ich hoffe, dass mein Bruder morgen kommt. | practicing | hoffen, dass ... |
 | 110 | sich erinnern | يتذكر / يفتكر | ich erinnere mich | hat sich erinnert | Ich erinnere mich an den Termin. | practicing | reflexive; an + Akk; daran, dass ... |
-| 111 | beantragen | يقدّم طلب رسمي على حاجة | ich beantrage | hat beantragt | Ich beantrage heute ein Visum. | introduced | + Akk |
-| 112 | verlängern | يمدّد / يجدّد مدة | ich verlängere | hat verlängert | Ich verlängere meinen Vertrag. | introduced | + Akk |
-| 113 | kündigen | يلغي عقد / يستقيل | ich kündige | hat gekündigt | Ich kündige meinen Mietvertrag. | introduced | + Akk; employment sense also possible |
-| 114 | umtauschen | يستبدل حاجة اشتراها | ich tausche ... um | hat umgetauscht | Ich tausche die Jacke um. | introduced | separable; + Akk |
-| 115 | erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | Ich erledige die Aufgabe nach der Arbeit. | introduced | + Akk |
-
-| 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | introduced | separable; contract expiry; Perfekt uses sein |
-
+| 111 | beantragen | يقدّم طلب رسمي على حاجة | ich beantrage | hat beantragt | Ich beantrage heute ein Visum. | practicing | + Akk |
+| 112 | verlängern | يمدّد / يجدّد مدة | ich verlängere | hat verlängert | Ich verlängere meinen Vertrag. | practicing | + Akk |
+| 113 | kündigen | يلغي عقد / يستقيل | ich kündige | hat gekündigt | Ich kündige meinen Mietvertrag. | practicing | + Akk; employment sense also possible |
+| 114 | umtauschen | يستبدل حاجة اشتراها | ich tausche ... um | hat umgetauscht | Ich tausche die Jacke um. | practicing | separable; + Akk |
+| 115 | erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | Ich erledige die Aufgabe nach der Arbeit. | practicing | + Akk |
+| 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | practicing | separable; contract expiry; Perfekt uses sein |
 | 117 | verpassen | يفوّت القطار / الموعد | ich verpasse | hat verpasst | Wenn ich den Zug verpasse, nehme ich den Bus. | introduced | + Akk |
 
 ## How to read the table
@@ -147,4 +145,4 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 
 ## Reference completion — 2026-10-09
 
-All 115 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
+All 117 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
