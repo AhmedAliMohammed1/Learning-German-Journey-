@@ -126,6 +126,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 
 | 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | introduced | separable; contract expiry; Perfekt uses sein |
 
+| 117 | verpassen | يفوّت القطار / الموعد | ich verpasse | hat verpasst | Wenn ich den Zug verpasse, nehme ich den Bus. | introduced | + Akk |
+
 ## How to read the table
 
 - **Präsens:** useful present-tense reference; important irregular forms are shown when helpful.
