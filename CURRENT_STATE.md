@@ -44,3 +44,9 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - New unanswered S03 E06-E08 remain pending for evening: hotel recommendation and alternative choice; documents sent after preparation; choosing apartment if time tomorrow.
 - Earlier deferred S02 E09-E10 and S01 E19-E23 remain pending; they are not recorded as correct.
 - 2026-10-10 day closed, current_session_id null; progress.json and dated day file synchronized.
+
+## Reading activity, October 10 (evening)
+- Read `Ein neuer Job` and answered five comprehension questions: two independently correct, three requiring grammar or meaning repair.
+- Fresh transfer sentence with Perfekt and weil independently grammatically correct; `die Bewerbung` was acceptable but `eine Bewerbung` fits nonspecific context better.
+- New vocabulary: V158 das Vorstellungsgespräch / die Vorstellungsgespräche. Next: a new reading story, then later retention review.
+- Prior unfinished prompts remain deferred.
