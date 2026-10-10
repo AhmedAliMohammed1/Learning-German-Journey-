@@ -5830,7 +5830,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 155,
+    "registered_entries_count": 156,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -8802,6 +8802,28 @@
         "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
       },
       {
+        "id": "V154",
+        "german": "die Entscheidung",
+        "meaning_ar": "القرار",
+        "type": "noun",
+        "article": "die",
+        "plural": "die Entscheidungen",
+        "status": "practicing",
+        "introduced_on": "2026-10-09",
+        "last_reviewed": "2026-10-09",
+        "source": "2026-10-09-S03-E05",
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-09",
+            "session_id": "2026-10-09-S03",
+            "exercise_id": "2026-10-09-S03-E05",
+            "note": "Ich weiß, dass die Entscheidung schwer ist."
+          }
+        ]
+      },
+      {
         "id": "V155",
         "german": "die Bewerbung",
         "meaning_ar": "طلب التقديم على وظيفة",
@@ -8812,16 +8834,37 @@
         "introduced_on": "2026-10-10",
         "last_reviewed": "2026-10-10",
         "source": "2026-10-10-S01",
-        "recorded_attempts": 1,
-        "independent_correct": 0,
+        "recorded_attempts": 2,
+        "independent_correct": 1,
         "evidence": [
           {
             "date": "2026-10-10",
             "session_id": "2026-10-10-S01",
             "exercise_id": "2026-10-10-S01-E07",
             "note": "Learner used verb beantragen in place of noun Bewerbung."
+          },
+          {
+            "date": "2026-10-10",
+            "session_id": "2026-10-10-S01",
+            "exercise_id": "2026-10-10-S01-E13",
+            "note": "Independent correct: eine Bewerbung schreibt."
           }
         ]
+      },
+      {
+        "id": "V156",
+        "german": "der Vermieter",
+        "meaning_ar": "المؤجِّر / صاحب الشقة",
+        "type": "noun",
+        "article": "der",
+        "plural": "die Vermieter",
+        "status": "introduced",
+        "introduced_on": "2026-10-10",
+        "last_reviewed": null,
+        "source": "2026-10-10-S01 follow-up prompt vocabulary hint",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": []
       }
     ]
   },
