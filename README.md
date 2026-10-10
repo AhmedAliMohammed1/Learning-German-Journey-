@@ -185,3 +185,10 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 ## تحديث نظام الأفعال — 9 أكتوبر 2026
 
 بناءً على طلب المتعلم، **اتلغى هدف 100 فعل**. الرقم المعروض من دلوقتي هو عدد الأفعال اللي اتعلمت فعلًا حتى اللحظة فقط، ومفيش سقف نهائي. كل الأفعال القديمة والجديدة موجودة في **جدول واحد** في `curriculum/verbs.md`، وكل فعل جديد بياخد الرقم التسلسلي التالي.
+
+
+### Latest learning checkpoint — 2026-10-10
+- **117** unified verbs introduced; **157** vocabulary entries registered (counts do not assert mastery).
+- Active new grammar: **wenn**, plus **als** contrast, with first eight full-sentence attempts recorded; the grammar remains practicing.
+- Correct written productions: S02 E03, E04, E06. Main retests: als vs wenn for single past events, **nach Hause**, **bereitet ... vor**.
+- Current day open; pending S02 E09–E10 and deferred S01 E19–E23 preserved.
