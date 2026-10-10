@@ -601,3 +601,10 @@ Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fah
 - Introduced on: **2026-10-09**
 - Source: **2026-10-09-S03, targeted recent-material review**
 - Learner attempt: **S03 E05 independently correct** — *Ich weiß, dass die Entscheidung schwer ist.* Status: practicing.
+
+
+### V155 — die Bewerbung
+- Article / plural: **die Bewerbung — die Bewerbungen**
+- Egyptian Arabic: **طلب التقديم على وظيفة**
+- Natural example: **Ich schreibe eine Bewerbung.**
+- Introduced on: **2026-10-10**; learner confused noun with **beantragen** in 2026-10-10-S01-E07; practicing.
