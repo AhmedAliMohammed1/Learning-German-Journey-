@@ -608,3 +608,13 @@ Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fah
 - Egyptian Arabic: **طلب التقديم على وظيفة**
 - Natural example: **Ich schreibe eine Bewerbung.**
 - Introduced on: **2026-10-10**; learner confused noun with **beantragen** in 2026-10-10-S01-E07; practicing.
+
+
+### V156 — der Vermieter
+- Article / plural: **der Vermieter — die Vermieter**
+- Egyptian Arabic: **صاحب الشقة / المؤجّر**
+- Natural example: **Ich habe gestern meinen Vermieter angerufen.**
+- Introduced on: **2026-10-10** as a hint for a pending retest; no independent learner answer yet. Status: introduced.
+
+### V155 independent retest evidence — 2026-10-10
+- S01 E13: **Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt.** Correct independent use; status practicing, not mastered.
