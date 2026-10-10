@@ -124,6 +124,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 114 | umtauschen | يستبدل حاجة اشتراها | ich tausche ... um | hat umgetauscht | Ich tausche die Jacke um. | introduced | separable; + Akk |
 | 115 | erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | Ich erledige die Aufgabe nach der Arbeit. | introduced | + Akk |
 
+| 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | introduced | separable; contract expiry; Perfekt uses sein |
+
 ## How to read the table
 
 - **Präsens:** useful present-tense reference; important irregular forms are shown when helpful.
