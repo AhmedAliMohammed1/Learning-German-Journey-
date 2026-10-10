@@ -32,3 +32,9 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - New rule **wenn** introduced on 2026-10-10; first five sentences pending, no independent attempts.
 - New verb **#117 verpassen**, Präsens ich verpasse, Perfekt hat verpasst. Verb total 117; vocabulary register 157.
 - Current session S02; earlier full review S01 E19–E23 paused intact. Past one-off 'when' uses als (not wenn); E05 corrected before assessment.
+
+## 2026-10-10 latest synchronization
+- S02 E01–E08 completed, independently correct E03/E04/E06; other five corrected. Concept quiz wenn/als 3/4.
+- Stronger: wenn with verb-final and main clause inversion. Weak: one-off past als, nach Hause, separable vorbereiten.
+- Learner confirmed reason for als in Arabic; no speaking assessment.
+- 117 verbs and 157 registered vocabulary entries. Session S02 open. S02 E09/E10 await answers; S01 E19–E23 deferred.
