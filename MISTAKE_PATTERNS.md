@@ -426,3 +426,8 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 - Object case/article: **den Mietvertrag**.
 - Vocabulary form: **die Jacke** (repeated repair).
 - Positive evidence: **erledigen** correct in fresh Präsens; **umtauschen** and **verlängern** Perfekt structures were understood.
+
+## October 10 — wenn and als review
+- E01 missed subject ich; E02 direction nach Hause and tense; E05 and E07 confused wenn with als for one-off past event.
+- E08: separable present bereitet ... vor. E03, E04 and E06 were independently correct.
+- Recognition quiz: 3/4, future conditional incorrectly classified as als. Retest before mastery.
