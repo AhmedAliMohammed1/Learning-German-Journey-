@@ -426,3 +426,10 @@ Evidence: 2026-10-09-S02 E01–E06 all put the finite verb correctly at the end 
 - **in der Nähe der Hochschule** was correct in S02 E05; Genitiv remains spaced maintenance.
 
 Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens label and needs clarification before answering. All earlier pending practice remains deferred. Written retests due 2026-10-10; no oral assessment inferred.
+
+
+## New grammar — wenn (2026-10-10)
+- **wenn** introduces conditions and repeated/future temporal clauses; conjugated verb goes at clause end.
+- Fronted: **Wenn ich Zeit habe, lerne ich Deutsch.** Main clause verb directly follows subordinate clause.
+- Contrast **weil** cause, **dass** content, **wenn** condition. A single past event introduced by 'when' uses **als** instead of wenn; this contrast was flagged after initial exercise drafting.
+- Introduced in S02, no attempts yet; separate from old Perfekt/dass review.
