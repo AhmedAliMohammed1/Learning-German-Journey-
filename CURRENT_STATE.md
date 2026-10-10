@@ -27,3 +27,8 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - Verb 116 ablaufen: practicing, independent correct Perfekt form; V156 der Vermieter now practicing.
 - V157 die Unterlagen introduced; vocabulary total 157, verb total 116.
 - Session S01 paused at learner request; day remains open, no closure. Next five unanswered E19–E23 preserved. Return to main menu.
+
+## New grammar track 2026-10-10-S02
+- New rule **wenn** introduced on 2026-10-10; first five sentences pending, no independent attempts.
+- New verb **#117 verpassen**, Präsens ich verpasse, Perfekt hat verpasst. Verb total 117; vocabulary register 157.
+- Current session S02; earlier full review S01 E19–E23 paused intact. Past one-off 'when' uses als (not wenn); E05 corrected before assessment.
