@@ -21,3 +21,9 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - New vocabulary **V156 der Vermieter — die Vermieter** introduced via prompt hint, not yet tested.
 - Existing V154 die Entscheidung restored to structured JSON from curriculum; no new introduction claim.
 - V155 die Bewerbung has independent correct E13 evidence. Total **156 registered vocabulary entries**, **116 verbs**; remote synced.
+
+## Latest checkpoint — 2026-10-10, 15:13 Berlin
+- E16–E18 answered: E17 fully correct; E16 grammar correct but Tisch instead of Schreibtisch; E18 correct ablaufen Perfekt and Vermieter but wrong Mietvertrag article.
+- Verb 116 ablaufen: practicing, independent correct Perfekt form; V156 der Vermieter now practicing.
+- V157 die Unterlagen introduced; vocabulary total 157, verb total 116.
+- Session S01 paused at learner request; day remains open, no closure. Next five unanswered E19–E23 preserved. Return to main menu.
