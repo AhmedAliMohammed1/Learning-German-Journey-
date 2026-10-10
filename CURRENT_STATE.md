@@ -50,3 +50,7 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 - Fresh transfer sentence with Perfekt and weil independently grammatically correct; `die Bewerbung` was acceptable but `eine Bewerbung` fits nonspecific context better.
 - New vocabulary: V158 das Vorstellungsgespräch / die Vorstellungsgespräche. Next: a new reading story, then later retention review.
 - Prior unfinished prompts remain deferred.
+
+
+## 2026-10-10 S05 completed reading
+Finished Das verlorene Paket: 5 comprehension questions and 3 translation exercises. Final answer correctly contrasted in die Tasche and in der Tasche (only typo gestern). New V159 der Lieferant / die Lieferanten. The learner paused study; next time offer study choices, with new reading story if requested. Other pending activities remain deferred.
