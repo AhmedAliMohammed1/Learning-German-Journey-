@@ -19,11 +19,11 @@
   "current_day": "2026-10-10",
   "latest_day": "2026-10-10",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 16,
+  "current_session_id": "2026-10-10-S02",
+  "sessions_recorded": 17,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "Full review: mixed Präsens/Perfekt written sentences",
-  "next_action": "Main menu requested. Full review paused; exact next batch 2026-10-10-S01-E19–E23 preserved.",
+  "active_topic": "wenn",
+  "next_action": "Answer 2026-10-10-S02-E01–E05; fifth prompt corrected to completed action condition because past single event requires als. Older 2026-10-10-S01 prompts stay paused.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1080,6 +1080,56 @@
       "hint_used": false,
       "learner_answer": null,
       "activity": "full_review_mixed"
+    },
+    {
+      "id": "2026-10-10-S02-E01",
+      "session_id": "2026-10-10-S02",
+      "tense": "Präsens",
+      "prompt_ar": "لو عندي وقت، بذاكر ألماني.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_grammar_wenn"
+    },
+    {
+      "id": "2026-10-10-S02-E02",
+      "session_id": "2026-10-10-S02",
+      "tense": "Präsens",
+      "prompt_ar": "أنا بتصل بأختي لما أوصل البيت.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_grammar_wenn"
+    },
+    {
+      "id": "2026-10-10-S02-E03",
+      "session_id": "2026-10-10-S02",
+      "tense": "Präsens",
+      "prompt_ar": "لو أخويا تعبان، بساعده.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_grammar_wenn"
+    },
+    {
+      "id": "2026-10-10-S02-E04",
+      "session_id": "2026-10-10-S02",
+      "tense": "Präsens",
+      "prompt_ar": "لو أختي نسيت المفتاح، بتتصل بيا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_grammar_wenn"
+    },
+    {
+      "id": "2026-10-10-S02-E05",
+      "session_id": "2026-10-10-S02",
+      "tense": "Perfekt",
+      "prompt_ar": "لو خلصت شغلي، هتصل بأخويا.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_grammar_wenn"
     }
   ],
   "completed_exercise_ids": [
@@ -1397,7 +1447,7 @@
     "2026-10-10-S01-E18"
   ],
   "verbs": {
-    "learned_total": 116,
+    "learned_total": 117,
     "mastered_total": null,
     "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
@@ -5566,6 +5616,32 @@
         },
         "example_reference": "Der Mietvertrag läuft nächsten Monat ab.",
         "reference_is_teaching_information": true
+      },
+      {
+        "id": 117,
+        "infinitive": "verpassen",
+        "meaning_ar": "يفوّت قطارًا أو موعدًا",
+        "introduced": true,
+        "introduction_date": "2026-10-10",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich verpasse",
+        "perfekt_reference": "hat verpasst",
+        "usage_note": "+ Akk; etwas verpassen",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Wenn ich den Zug verpasse, nehme ich den Bus.",
+        "reference_is_teaching_information": true
       }
     ],
     "reference_completeness": {
@@ -5577,7 +5653,7 @@
     }
   },
   "grammar": {
-    "active": "dass",
+    "active": "wenn",
     "topics": [
       {
         "id": "cases_and_pronouns",
@@ -5854,6 +5930,17 @@
           "partizip_ii_plus_auxiliary",
           "dass_vs_weil"
         ]
+      },
+      {
+        "id": "wenn",
+        "title": "wenn conditional and repeated/future temporal clauses",
+        "status": "introduced",
+        "source": "2026-10-10-S02",
+        "introduced_on": "2026-10-10",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "note": "Verb final in subordinate clause; when fronted, main verb directly after comma. One-off past when normally uses als, not wenn."
       }
     ],
     "studied_verb_patterns": [
