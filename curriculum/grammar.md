@@ -433,3 +433,12 @@ Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens l
 - Fronted: **Wenn ich Zeit habe, lerne ich Deutsch.** Main clause verb directly follows subordinate clause.
 - Contrast **weil** cause, **dass** content, **wenn** condition. A single past event introduced by 'when' uses **als** instead of wenn; this contrast was flagged after initial exercise drafting.
 - Introduced in S02, no attempts yet; separate from old Perfekt/dass review.
+
+
+## 2026-10-10 live wenn / als practice
+- **wenn** is used for conditions (including future) and recurring 'when'; **als** for one-off situations or bounded periods in the past.
+- **als** and **wenn** both require a clause-final finite verb; when clause is fronted, the following main clause begins with the finite verb.
+- Eight independent written translations E01–E08: E03/E04/E06 correct; errors in missing subject, Zeit haben, nach Hause, wenn vs als, incorrect tense and separable vorbereiten.
+- Four-choice concept check: 3/4 correct. Learner explained yesterday as single past instance correctly in typed Arabic. No oral proficiency evidence.
+- Contrast: **Als meine Schwester in München angekommen ist, hat sie mich angerufen.** versus **Wenn meine Schwester nach Hause kommt, bereitet sie das Essen vor.**
+- Continue targeted transfer E09/E10; new topic practicing, not strong.
