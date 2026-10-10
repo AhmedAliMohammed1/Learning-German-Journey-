@@ -618,3 +618,9 @@ Previously registered and reviewed: die Reise, der Termin, der Rucksack, die Fah
 
 ### V155 independent retest evidence — 2026-10-10
 - S01 E13: **Ich weiß, dass meine Schwester nach der Arbeit eine Bewerbung schreibt.** Correct independent use; status practicing, not mastered.
+
+
+### V157 — die Unterlagen
+- Plural noun: **die Unterlagen** = المستندات / الأوراق المطلوبة
+- Example: **Ich gebe die Unterlagen im Büro ab.**
+- Introduced 2026-10-10 for pending E19; no learner answer yet.
