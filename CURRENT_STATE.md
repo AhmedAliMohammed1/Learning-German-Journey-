@@ -54,3 +54,10 @@ Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
 
 ## 2026-10-10 S05 completed reading
 Finished Das verlorene Paket: 5 comprehension questions and 3 translation exercises. Final answer correctly contrasted in die Tasche and in der Tasche (only typo gestern). New V159 der Lieferant / die Lieferanten. The learner paused study; next time offer study choices, with new reading story if requested. Other pending activities remain deferred.
+
+
+## 2026-10-11 live targeted-review checkpoint
+- Day open, active 2026-10-11-S01; 17 written answers recorded with originals, corrections and independent evidence in days/2026-10-11.md. E18 two-pronoun follow-up pending.
+- Total verbs 117 (no new verb counted). Vocabulary 160: added die Benachrichtigung; das Bild and verbs zeigen/zurückgeben already registered.
+- Improvements: als/wenn, Wo/Wohin, modal Perfekt fresh success, Dativ masculine, case and adjective endings, pronoun before Dativ noun.
+- Retest: nach + Dativ (singular/plural), sich entscheiden für, niemanden, and two-pronoun **es ihm** order. Older unfinished sessions stay deferred; no speaking/listening evidence. Day not closed by sync request.
