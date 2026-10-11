@@ -15,6 +15,8 @@ This is the entry point for every assistant continuing this learner's German jou
 
 Never reset the learner to zero. Read the live learned-verb count from progress.json/CURRENT_STATE.md rather than relying on any historical milestone. The verb inventory is **open-ended**: there is no final target such as 100/100. All learned verbs belong to one continuous inventory in curriculum/verbs.md, and every new verb receives the next sequential ID. Historical IDs are preserved. Introduced never means mastered.
 
+Before introducing ANY new verb or vocabulary item, you MUST audit the entire inventory of `curriculum/verbs.md` and `curriculum/vocabulary.md` from the first row to the last to guarantee zero duplication. Never introduce an item that exists anywhere in the repository.
+
 If records disagree, use dated exercise evidence and explicit learner statements. Flag unresolved inconsistencies; do not silently invent values. The day log supplies evidence, progress.json supplies the structured snapshot, and CURRENT_STATE.md is its readable summary. Preserve corrections with a dated note.
 
 ## 2. Startup response and choices

@@ -16,3 +16,7 @@ Pronunciation/fluency require actually assessable original audio. Speech transcr
 
 
 Progression policy: default to **progression-first** learning. After meaningful practice, use at most a short 3–5 sentence diagnostic when needed and then advance to the next numbered batch. A single weak pattern does not block progression; embed it in new-material exercises. Practice after new verbs should be roughly 70% new material and 30% embedded review. Preserve unfinished review prompts as deferred rather than forcing them first.
+
+## Strict curriculum integrity rule — 2026-10-11
+Before introducing ANY verb or vocabulary item, or creating any exercise, the assistant MUST verify the entire `curriculum/verbs.md` (all rows 1 to end) and `curriculum/vocabulary.md` (all rows V001 to end). Never assume or guess that an item is new based on memory or partial reading. Every proposed item must be checked against the exact existing inventory to ensure 100% uniqueness. Never suggest previously introduced items as new. Always follow the established progression format and learner history exactly.
+
