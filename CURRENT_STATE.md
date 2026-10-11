@@ -70,6 +70,6 @@ Finished Das verlorene Paket: 5 comprehension questions and 3 translation exerci
 ## 2026-10-11 new verbs session — Batch 118–127
 - Active session **2026-10-11-S03** started after selecting the new verbs track (أفعال جديدة).
 - Unified verb inventory: **127 introduced verbs** (+10 new: reparieren, überweisen, ausgeben, verdienen, sparen, einpacken, auspacken, verbessern, versprechen, erlauben). All introduced with Präsens + Perfekt references and usage notes.
-- Day status: **open**.
-- Pending practice: **2026-10-11-S03-E01** (reparieren + Perfekt / obwohl). Earlier pending exercises (S01-E18, S02-E08, and previous days) remain preserved.
+- S03 E01 answered: obwohl clause correct; main clause needs finite verb second (hat mein Bruder es ... repariert) and Perfekt tense for past.
+- Pending practice: **2026-10-11-S03-E02** fresh transfer on fronted obwohl + Perfekt reparieren. Earlier pending exercises (S01-E18, S02-E08, and previous days) remain preserved.
 

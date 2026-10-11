@@ -23,7 +23,7 @@
   "sessions_recorded": 21,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
   "active_topic": "New verbs: Batch 118–127",
-  "next_action": "Administer 2026-10-11-S03-E01 (reparieren + Perfekt / obwohl) to begin practice on new verbs batch 118–127.",
+  "next_action": "Administer 2026-10-11-S03-E02 fresh retest on fronted obwohl + Perfekt reparieren.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1207,6 +1207,19 @@
       "session_id": "2026-10-11-S03",
       "tense": "Perfekt",
       "prompt_ar": "رغم إن العربية قديمة، أخويا صلّحها امبارح.",
+      "status": "completed",
+      "hint_used": false,
+      "learner_answer": "Obwohl das Auto alt ist, gestern repariert mein Brude es",
+      "activity": "new_verbs_batch_118_127",
+      "corrected_answer": "Obwohl das Auto alt ist, hat mein Bruder es gestern repariert.",
+      "result": "needs_correction",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E02",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "رغم إن العجلة قديمة، أخويا صلّحها امبارح.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
@@ -5774,12 +5787,22 @@
         "meaning_ar": "يصلّح",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E01",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": false,
+            "note": "Used Präsens repariert instead of Perfekt hat ... repariert; V2 after fronted obwohl clause placed after gestern"
+          }
+        ],
         "praesens_reference": "ich repariere",
         "perfekt_reference": "hat repariert",
         "usage_note": "+ Akk; regular (-ieren)",
@@ -5788,7 +5811,7 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing"
           }
         },
         "example_reference": "Mein Bruder repariert das Auto.",
