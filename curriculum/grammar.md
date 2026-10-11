@@ -442,3 +442,10 @@ Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens l
 - Four-choice concept check: 3/4 correct. Learner explained yesterday as single past instance correctly in typed Arabic. No oral proficiency evidence.
 - Contrast: **Als meine Schwester in München angekommen ist, hat sie mich angerufen.** versus **Wenn meine Schwester nach Hause kommt, bereitet sie das Essen vor.**
 - Continue targeted transfer E09/E10; new topic practicing, not strong.
+
+
+## 2026-10-11 targeted retest evidence
+- Perfekt modal + main infinitive: **hat ... nicht kaufen können** independently correct after initial incorrect **angerufen nicht können**; keep practicing.
+- **um ... zu + jemanden nach + Dativ fragen**: initial omission/incorrect case; subsequent singular nach dem and plural nach den needs reinforcement.
+- **schicken/zeigen/geben**: person in Dativ, thing in Akkusativ; pronoun Akk before Dativ noun: **es meinem Bruder**. When both are unstressed personal pronouns, normal order is **es ihm**; learner wrote **ihm es**, follow-up E18 unanswered.
+- **als / wenn**, **an der Hochschule**, **niemanden** and adjective endings rechecked; see 2026-10-11-S01 for original evidence, not overall mastery.
