@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-11",
-  "last_updated_at": null,
+  "last_updated_at": "2026-10-11T18:51:01+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-11",
   "latest_day": "2026-10-11",
   "day_status": "open",
-  "current_session_id": "2026-10-11-S03",
+  "current_session_id": null,
   "sessions_recorded": 21,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "New verbs: Batch 118–127",
-  "next_action": "Administer 2026-10-11-S03-E02 fresh retest on fronted obwohl + Perfekt reparieren.",
+  "active_topic": "New verbs: Batch 128–137",
+  "next_action": "Offer nine main-menu choices. If Continue previous session is selected, resume paused S03 at S03-E14: أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف. (Perfekt prüfen + speichern).",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1220,10 +1220,182 @@
       "session_id": "2026-10-11-S03",
       "tense": "Perfekt",
       "prompt_ar": "رغم إن العجلة قديمة، أخويا صلّحها امبارح.",
-      "status": "pending",
+      "status": "completed",
       "hint_used": false,
+      "learner_answer": "Obwohl der Fahrrad alt ist, hat gestern mein Bruder ihn repariert",
+      "activity": "new_verbs_batch_118_127",
+      "corrected_answer": "Obwohl das Fahrrad alt ist, hat mein Bruder es gestern repariert.",
+      "result": "needs_correction_gender_pronoun",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E03",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا حوّلت الإيجار لصاحب الشقة امبارح.",
+      "status": "completed",
+      "hint_used": false,
+      "learner_answer": "Ich habe gestern dem Vermieter die Mieter überwiesen",
+      "activity": "new_verbs_batch_118_127",
+      "target": "überweisen + Dativ person + Akkusativ money",
+      "corrected_answer": "Ich habe gestern dem Vermieter die Miete überwiesen.",
+      "result": "needs_correction_vocabulary_form",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E04",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "أخويا بيصرف فلوس كتير على الأكل.",
+      "status": "completed",
+      "learner_answer": "Mein Bruder gebt viele Geld aus zu Essen",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "ausgeben: er gibt ... aus; für + Akkusativ",
+      "corrected_answer": "Mein Bruder gibt viel Geld für Essen aus.",
+      "result": "needs_correction_verb_quantity_preposition",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E05",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "أختي بتصرف فلوس كتير على الإيجار.",
+      "status": "completed",
+      "learner_answer": "Meine Schwester gibt viel Geld für die Miet aus",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "ausgeben er/sie gibt; viel Geld; für die Miete; final aus",
+      "support_note": "Fresh transfer after E04 correction; no full model supplied for this prompt.",
+      "corrected_answer": "Meine Schwester gibt viel Geld für die Miete aus.",
+      "result": "correct_grammar_spelling_repair",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E06",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "أخويا كسب فلوس كتير امبارح.",
+      "status": "completed",
+      "learner_answer": "Mein Bruder hat gestern viel Geld verdient ",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "verdienen Perfekt: hat verdient; viel Geld",
+      "corrected_answer": "Mein Bruder hat gestern viel Geld verdient.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E07",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "أختي بتحوش فلوس لعربية جديدة.",
+      "status": "completed",
+      "learner_answer": "Meine Schwester spart Geld für ein neues Auto",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "sparen + Geld + für ein neues Auto; neuter Akkusativ adjective",
+      "corrected_answer": "Meine Schwester spart Geld für ein neues Auto.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E08",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا وضّبت الجاكيت والكتاب للسفر امبارح.",
+      "status": "completed",
+      "learner_answer": "Ich habe gestern die Jacke und das Buch für die Reise eingepackt  ",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "einpacken Perfekt; die Jacke und das Buch; für die Reise",
+      "corrected_answer": "Ich habe gestern die Jacke und das Buch für die Reise eingepackt.",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E09",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "بعد الشغل، أختي بتفك غلاف الطرد.",
+      "status": "completed",
+      "learner_answer": "Nach der Arbeit, packt meine Schwester das Packet aus ",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "auspacken; nach der Arbeit; V2 after fronted temporal phrase; das Paket",
+      "corrected_answer": "Nach der Arbeit packt meine Schwester das Paket aus.",
+      "result": "correct_grammar_spelling_punctuation_repair",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E10",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "رغم إن عندي وقت قليل، أنا بحسّن الألماني بتاعي.",
+      "status": "completed",
+      "learner_answer": "Obwohl Ich wenige Zeit habe, verbessere ich mein Deutsch",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "verbessern + mein Deutsch; obwohl ich wenig Zeit habe; V2",
+      "corrected_answer": "Obwohl ich wenig Zeit habe, verbessere ich mein Deutsch.",
+      "result": "needs_correction_quantity_capitalization",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E11",
+      "session_id": "2026-10-11-S03",
+      "tense": "Präsens",
+      "prompt_ar": "أخويا بيوعدني إنه هيصلّح العجلة بكرة.",
+      "status": "completed",
+      "learner_answer": "Mein Bruder verspreche mir, dass morgen er den Fahrrad repariert",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "versprechen: er verspricht mir; dass with reparieren; das Fahrrad; future meaning via morgen + Präsens",
+      "corrected_answer": "Mein Bruder verspricht mir, dass er morgen das Fahrrad repariert.",
+      "result": "needs_correction_conjugation_gender",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E12",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "المدير سمحلي إني أروح البيت بدري النهارده.",
+      "status": "completed",
+      "learner_answer": "Der Chef erlaubt mir heute früh nach Hause zu gehen  ",
+      "hint_used": true,
+      "activity": "new_verbs_batch_118_127",
+      "target": "erlauben Perfekt + mir + zu infinitive; nach Hause; heute früh",
+      "support_note": "Learner requested dürfen vs erlauben explanation. Relevant near-model supplied: Der Chef hat mir erlaubt, heute nach Hause zu gehen. E12 answer after this explanation is supported for erlauben + mir + zu-infinitive, not wholly independent.",
+      "corrected_answer": "Der Chef hat mir erlaubt, heute früh nach Hause zu gehen.",
+      "result": "needs_correction_requested_tense",
+      "independent": false
+    },
+    {
+      "id": "2026-10-11-S03-E13",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "أمي سمحت لأختي إنها تستخدم العربية امبارح.",
+      "status": "completed",
+      "learner_answer": "Mein Mutter hat gestern meiner Schwester das Auto erlaubt zu benutzen ",
+      "hint_used": false,
+      "activity": "new_verbs_batch_118_127",
+      "target": "erlauben Perfekt; meiner Schwester Dativ; das Auto zu benutzen",
+      "support_note": "Fresh changed-subject/recipient/action transfer after E12 correction; do not classify as delayed retention.",
+      "corrected_answer": "Meine Mutter hat gestern meiner Schwester erlaubt, das Auto zu benutzen.",
+      "result": "needs_correction_possessive_infinitive_group",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S03-E14",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف.",
+      "status": "pending",
       "learner_answer": null,
-      "activity": "new_verbs_batch_118_127"
+      "hint_used": false,
+      "activity": "new_verbs_batch_128_137",
+      "target": "prüfen + speichern Perfekt; die Rechnung / die Datei; danach V2 and explicit ich",
+      "priority": "paused_preserved_work"
     }
   ],
   "completed_exercise_ids": [
@@ -1582,10 +1754,22 @@
     "2026-10-11-S01-E14",
     "2026-10-11-S01-E15",
     "2026-10-11-S01-E16",
-    "2026-10-11-S01-E17"
+    "2026-10-11-S01-E17",
+    "2026-10-11-S03-E02",
+    "2026-10-11-S03-E03",
+    "2026-10-11-S03-E04",
+    "2026-10-11-S03-E05",
+    "2026-10-11-S03-E06",
+    "2026-10-11-S03-E07",
+    "2026-10-11-S03-E08",
+    "2026-10-11-S03-E09",
+    "2026-10-11-S03-E10",
+    "2026-10-11-S03-E11",
+    "2026-10-11-S03-E12",
+    "2026-10-11-S03-E13"
   ],
   "verbs": {
-    "learned_total": 127,
+    "learned_total": 137,
     "mastered_total": null,
     "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
@@ -5789,8 +5973,8 @@
         "introduction_date": "2026-10-11",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 1,
-        "independent_correct": 0,
+        "recorded_attempts": 3,
+        "independent_correct": 2,
         "last_reviewed": "2026-10-11",
         "evidence": [
           {
@@ -5801,6 +5985,24 @@
             "independent": true,
             "correct": false,
             "note": "Used Präsens repariert instead of Perfekt hat ... repariert; V2 after fronted obwohl clause placed after gestern"
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E02",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Perfekt reparieren correct; whole-sentence gender errors separate."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E11",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Correct repairs repariert in dass clause; object gender separate."
           }
         ],
         "praesens_reference": "ich repariere",
@@ -5808,7 +6010,7 @@
         "usage_note": "+ Akk; regular (-ieren)",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "practicing"
@@ -5823,12 +6025,22 @@
         "meaning_ar": "يحوّل فلوس بنكياً",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E03",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct independent Perfekt hat/habe ... überwiesen, Dativ dem Vermieter, and object position. Only Mieter versus Miete needs correction; no case or word-order error."
+          }
+        ],
         "praesens_reference": "ich überweise",
         "perfekt_reference": "hat überwiesen",
         "usage_note": "inseparable; + Dat (person) + Akk (money)",
@@ -5837,7 +6049,7 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing"
           }
         },
         "example_reference": "Ich überweise dem Vermieter die Miete.",
@@ -5849,18 +6061,37 @@
         "meaning_ar": "ينفق / يصرف فلوس",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 2,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E04",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "note": "Independent attempt. Correct separable prefix recognized, but er gives gives gibt (not gebt); uncountable Geld takes viel (not viele); spending on takes für + Akk. Neutral full sentence places aus after für Essen; the original postfield phrase is primarily the wrong construction, not proof that separability was forgotten."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E05",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Fresh independent transfer after correction, not a copied full sentence. gibt, viel Geld, für + Akk and final aus correct; only missing final e in Miete. Immediate success in ausgeben targets, not mastery or delayed retention."
+          }
+        ],
         "praesens_reference": "ich gebe ... aus / er gibt ... aus",
         "perfekt_reference": "hat ausgegeben",
         "usage_note": "separable; e -> i; für + Akk",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -5875,12 +6106,22 @@
         "meaning_ar": "يكسب فلوس / يستحق",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E06",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Independent correct Perfekt hat ... verdient, third-person auxiliary, gestern and viel Geld. Added final punctuation only. First correct use supports practicing, not mastery; Präsens remains unassessed."
+          }
+        ],
         "praesens_reference": "ich verdiene",
         "perfekt_reference": "hat verdient",
         "usage_note": "inseparable; + Akk",
@@ -5889,7 +6130,7 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing"
           }
         },
         "example_reference": "Meine Schwester verdient gut in ihrem neuen Job.",
@@ -5901,18 +6142,28 @@
         "meaning_ar": "يوفّر / يحوش فلوس",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E07",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Independent correct Präsens spart, Geld, für + Akk and neuter ein neues Auto. Only terminal punctuation added; first success, not mastery. Perfekt sparen remains unassessed."
+          }
+        ],
         "praesens_reference": "ich spare",
         "perfekt_reference": "hat gespart",
         "usage_note": "regular; für + Akk",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -5927,12 +6178,22 @@
         "meaning_ar": "يحزم / يوضّب أمتعة",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E08",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Independent correct Perfekt habe ... eingepackt, Akk objects die Jacke / das Buch and für die Reise. Added punctuation only. First success supports practicing, not mastery; present dimension remains unassessed."
+          }
+        ],
         "praesens_reference": "ich packe ... ein",
         "perfekt_reference": "hat eingepackt",
         "usage_note": "separable; + Akk",
@@ -5941,7 +6202,7 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing"
           }
         },
         "example_reference": "Ich packe die Sachen in die Tasche ein.",
@@ -5953,18 +6214,28 @@
         "meaning_ar": "يفرّغ أمتعة / يفك غلاف",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E09",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Independent correct auspacken Präsens packt ... aus, nach der Arbeit Dativ and V2. Remove comma after fronted prepositional phrase, not subordinate clause. Paket spelling (not Packet) is separate from correct article and recalled meaning."
+          }
+        ],
         "praesens_reference": "ich packe ... aus",
         "perfekt_reference": "hat ausgepackt",
         "usage_note": "separable; + Akk",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -5979,18 +6250,28 @@
         "meaning_ar": "يحسّن / يطوّر",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E10",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Independent correct verbessern Präsens and object mein Deutsch, although subordinate clause-final habe and main-clause V2 verbessere ich. Repair wenige Zeit to wenig Zeit (uncountable quantity), and Ich to ich. Do not treat these as word-order errors or failed verb recall."
+          }
+        ],
         "praesens_reference": "ich verbessere",
         "perfekt_reference": "hat verbessert",
         "usage_note": "inseparable; + Akk",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -6005,18 +6286,28 @@
         "meaning_ar": "يوعد",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E11",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "note": "Needs third-person verspricht; mir recipient correct."
+          }
+        ],
         "praesens_reference": "ich verspreche / er verspricht",
         "perfekt_reference": "hat versprochen",
         "usage_note": "inseparable; e -> i; + Dat (person) + Akk / dass",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing"
           },
           "Perfekt": {
             "status": "not_assessed"
@@ -6031,15 +6322,63 @@
         "meaning_ar": "يسمح بـ / يصرّح",
         "introduced": true,
         "introduction_date": "2026-10-11",
+        "study_status": "practicing",
+        "mastery": "unknown",
+        "recorded_attempts": 2,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E12",
+            "tense": "Perfekt",
+            "actual_tense": "Präsens",
+            "independent": false,
+            "correct": false,
+            "construction_outcome": "correct_with_support",
+            "note": "Answer after relevant construction model. Correct Präsens erlaubt, Dativ mir and zu-infinitive; required Perfekt hat ... erlaubt not produced. Add obligatory comma before infinitive group dependent on erlauben. Preserve supported construction evidence; no independent success or copied correction counted."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E13",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "construction_outcome": "needs_retry_infinitive_group",
+            "note": "Fresh changed-context answer without new hint: correctly produced hat ... erlaubt and Dativ meiner Schwester. Feminine subject requires Meine Mutter. Neutral infinitive group is das Auto zu benutzen after erlaubt; keep the direct object with benutzen. Construction still practicing, no delayed retention claim."
+          }
+        ],
+        "praesens_reference": "ich erlaube",
+        "perfekt_reference": "hat erlaubt",
+        "usage_note": "+ Dat (person) + Akk / Infinitiv mit zu",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "practicing"
+          },
+          "Perfekt": {
+            "status": "practicing"
+          }
+        },
+        "example_reference": "Der Chef erlaubt mir, früher zu gehen.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 128,
+        "infinitive": "prüfen",
+        "meaning_ar": "يراجع / يفحص",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
         "study_status": "introduced",
         "mastery": "unknown",
         "recorded_attempts": 0,
         "independent_correct": 0,
         "last_reviewed": null,
         "evidence": [],
-        "praesens_reference": "ich erlaube",
-        "perfekt_reference": "hat erlaubt",
-        "usage_note": "+ Dat (person) + Akk / Infinitiv mit zu",
+        "praesens_reference": "ich prüfe; er prüft",
+        "perfekt_reference": "hat geprüft",
+        "usage_note": "+ Akk; regular",
         "tense_tracking": {
           "Präsens": {
             "status": "not_assessed"
@@ -6048,7 +6387,241 @@
             "status": "not_assessed"
           }
         },
-        "example_reference": "Der Chef erlaubt mir, früher zu gehen.",
+        "example_reference": "Ich prüfe die Rechnung.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 129,
+        "infinitive": "speichern",
+        "meaning_ar": "يحفظ ملف أو بيانات",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich speichere; er speichert",
+        "perfekt_reference": "hat gespeichert",
+        "usage_note": "+ Akk; regular",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich speichere die Datei.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 130,
+        "infinitive": "drucken",
+        "meaning_ar": "يطبع",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich drucke; er druckt",
+        "perfekt_reference": "hat gedruckt",
+        "usage_note": "+ Akk; regular",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich drucke die Unterlagen.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 131,
+        "infinitive": "löschen",
+        "meaning_ar": "يمسح / يحذف",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich lösche; er löscht",
+        "perfekt_reference": "hat gelöscht",
+        "usage_note": "+ Akk; regular",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich lösche die Nachricht.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 132,
+        "infinitive": "installieren",
+        "meaning_ar": "يثبّت برنامج",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich installiere; er installiert",
+        "perfekt_reference": "hat installiert",
+        "usage_note": "+ Akk; -ieren, no ge-",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich installiere das Programm.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 133,
+        "infinitive": "herunterladen",
+        "meaning_ar": "ينزّل ملف من الإنترنت",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich lade ... herunter; du lädst ... herunter; er lädt ... herunter",
+        "perfekt_reference": "hat heruntergeladen",
+        "usage_note": "separable; a → ä in du/er; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich lade die Datei herunter.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 134,
+        "infinitive": "hochladen",
+        "meaning_ar": "يرفع ملف على الإنترنت",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich lade ... hoch; du lädst ... hoch; er lädt ... hoch",
+        "perfekt_reference": "hat hochgeladen",
+        "usage_note": "separable; a → ä in du/er; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich lade die Datei hoch.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 135,
+        "infinitive": "verbinden",
+        "meaning_ar": "يوصّل / يربط",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich verbinde; er verbindet",
+        "perfekt_reference": "hat verbunden",
+        "usage_note": "inseparable; Akk + mit + Dat",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich verbinde mein Handy mit deinem Handy.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 136,
+        "infinitive": "trennen",
+        "meaning_ar": "يفصل",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich trenne; er trennt",
+        "perfekt_reference": "hat getrennt",
+        "usage_note": "Akk + von + Dat",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich trenne mein Handy von deinem Handy.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 137,
+        "infinitive": "vergleichen",
+        "meaning_ar": "يقارن",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich vergleiche; er vergleicht",
+        "perfekt_reference": "hat verglichen",
+        "usage_note": "inseparable; + Akk; or Akk + mit + Dat",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich vergleiche die Hotels.",
         "reference_is_teaching_information": true
       }
     ],
@@ -6069,15 +6642,16 @@
         "status": "practicing",
         "source": "2026-10-11-S02 new grammar track",
         "introduced_on": "2026-10-11",
-        "recorded_attempts": 6,
-        "independent_correct": 5,
+        "recorded_attempts": 7,
+        "independent_correct": 6,
         "evidence": [
           "2026-10-11-S02-E01",
           "2026-10-11-S02-E02",
           "2026-10-11-S02-E03",
           "2026-10-11-S02-E04",
           "2026-10-11-S02-E05",
-          "2026-10-11-S02-E06"
+          "2026-10-11-S02-E06",
+          "2026-10-11-S03-E10"
         ]
       },
       {
@@ -6423,7 +6997,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 161,
+    "registered_entries_count": 165,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -6556,13 +7130,23 @@
         "type": "noun",
         "article": "das",
         "plural": "die Bücher",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": null,
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-11",
         "source": "learner_provided_history_backfill",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": []
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E08",
+            "independent": true,
+            "correct": true,
+            "kind": "contextual_use",
+            "note": "Correct noun and article in E08; plural not tested."
+          }
+        ]
       },
       {
         "id": "V010",
@@ -8142,11 +8726,11 @@
         "plural": "die Jacken",
         "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": "2026-10-03",
+        "last_reviewed": "2026-10-11",
         "source": "2026-10-03-S02 short cumulative review batch 1",
         "usage_example": "Die Jacke liegt auf dem Stuhl.",
-        "recorded_attempts": 2,
-        "independent_correct": 2,
+        "recorded_attempts": 3,
+        "independent_correct": 3,
         "evidence": [
           {
             "date": "2026-10-03",
@@ -8155,6 +8739,15 @@
             "exercise_id": "2026-10-03-S02-E03",
             "kind": "introduced_in_exercise_prompt",
             "note": "Introduced as new practical vocabulary and reused in E04; no learner attempt yet."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E08",
+            "independent": true,
+            "correct": true,
+            "kind": "contextual_use",
+            "note": "Correct noun and article in E08; plural not tested."
           }
         ]
       },
@@ -8231,10 +8824,10 @@
         "plural": "die Pakete",
         "status": "practicing",
         "introduced_on": "2026-10-03",
-        "last_reviewed": "2026-10-03",
+        "last_reviewed": "2026-10-11",
         "source": "2026-10-03-S02 numbered verbs 61-70 practice",
         "usage_example": "Ich schicke meinem Freund ein Paket.",
-        "recorded_attempts": 1,
+        "recorded_attempts": 2,
         "independent_correct": 1,
         "evidence": [
           {
@@ -8246,6 +8839,14 @@
             "independent": true,
             "correct": true,
             "note": "Correct lexical use of Paket; article specificity should be ein Paket for the prompt."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E09",
+            "independent": true,
+            "correct": false,
+            "note": "Paket meaning/article correct; Packet spelling repair."
           }
         ]
       },
@@ -8336,10 +8937,10 @@
         "plural": "die Mieten",
         "status": "practicing",
         "introduced_on": "2026-10-04",
-        "last_reviewed": "2026-10-04",
+        "last_reviewed": "2026-10-11",
         "source": "2026-10-04-S01 full review batch 2",
         "usage_example": "Die Miete ist teuer.",
-        "recorded_attempts": 1,
+        "recorded_attempts": 3,
         "independent_correct": 1,
         "evidence": [
           {
@@ -8359,6 +8960,22 @@
             "independent": true,
             "correct": true,
             "note": "Correct independent use: Die Miete ist teuer."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E03",
+            "independent": true,
+            "correct": false,
+            "note": "Mieter instead of Miete; correct article die."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E05",
+            "independent": true,
+            "correct": false,
+            "note": "Correct meaning and article; written Miet missing final e. Spelling repair only, unlike earlier Mieter."
           }
         ]
       },
@@ -9354,15 +9971,25 @@
         "type": "noun",
         "article": "die",
         "plural": "die Reisen",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": null,
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-11",
         "source": "2026-10-09 reconciliation of dated teaching and current learner answers",
         "registered_on": "2026-10-09",
         "usage_example": "Vor der Reise bereite ich den Koffer vor.",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E08",
+            "independent": true,
+            "correct": true,
+            "kind": "contextual_use",
+            "note": "Correct noun and article in E08; plural not tested."
+          }
+        ],
         "registration_note": "Previously taught/encountered item missing from the register; registration is not a new mastery claim. First introduction remains unknown when no exact dated introduction is supplied."
       },
       {
@@ -9556,6 +10183,80 @@
         "evidence": [
           "2026-10-11-S02-E01"
         ]
+      },
+      {
+        "id": "V162",
+        "german": "das Fahrrad",
+        "meaning_ar": "العجلة / الدراجة",
+        "type": "noun",
+        "article": "das",
+        "plural": "die Fahrräder",
+        "status": "practicing",
+        "introduced_on": "2026-10-11",
+        "last_reviewed": "2026-10-11",
+        "source": "Existing S03-E02 prompt; form explicitly explained at correction",
+        "recorded_attempts": 2,
+        "independent_correct": 0,
+        "evidence": [
+          "2026-10-11-S03-E02",
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S03",
+            "exercise_id": "2026-10-11-S03-E11",
+            "independent": true,
+            "correct": false,
+            "note": "Fahrrad recalled, but den instead of neuter Akk das after prior explanation; gender retention unresolved."
+          }
+        ],
+        "lexical_recall": "independent_correct",
+        "article_accuracy": "needs_correction",
+        "plural_assessed": false
+      },
+      {
+        "id": "V163",
+        "german": "der Mieter",
+        "article": "der",
+        "plural": "die Mieter",
+        "meaning_ar": "المستأجر",
+        "type": "noun",
+        "status": "introduced",
+        "introduced_on": "2026-10-11",
+        "source": "S03-E03 correction contrast with die Miete",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "usage_example": "Die Mieter bezahlen die Miete.",
+        "assessment_note": "Accidental Mieter in rent prompt is not successful semantic recall of tenant."
+      },
+      {
+        "id": "V164",
+        "german": "die Datei",
+        "article": "die",
+        "plural": "die Dateien",
+        "meaning_ar": "الملف",
+        "type": "noun",
+        "status": "introduced",
+        "introduced_on": "2026-10-11",
+        "source": "S03 Batch 128–137 introduction",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "usage_example": "Ich speichere die Datei."
+      },
+      {
+        "id": "V165",
+        "german": "das Programm",
+        "article": "das",
+        "plural": "die Programme",
+        "meaning_ar": "البرنامج",
+        "type": "noun",
+        "status": "introduced",
+        "introduced_on": "2026-10-11",
+        "source": "S03 Batch 128–137 introduction",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "usage_example": "Ich installiere das Programm."
       }
     ]
   },
@@ -9919,13 +10620,13 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 0,
+      "recorded_errors": 1,
       "independent_correct": 1,
-      "independent_correct_since_last_error": 1,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-09-S02"
       ],
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-10-11",
       "evidence": [
         {
           "date": "2026-10-09",
@@ -9935,6 +10636,14 @@
           "independent": true,
           "correct": true,
           "note": "Sie subject=sister; sie object=Tasche."
+        },
+        {
+          "date": "2026-10-11",
+          "session_id": "2026-10-11-S03",
+          "exercise_id": "2026-10-11-S03-E02",
+          "independent": true,
+          "correct": false,
+          "note": "Fahrrad gender not yet explained in prior prompt; ihn follows mistaken masculine der. Teach das Fahrrad / es; no separate lexical-recall failure."
         }
       ]
     },
@@ -10860,14 +11569,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 7,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 10,
+      "independent_correct_since_last_error": 3,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
         "2026-10-05-S01"
       ],
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-10-11",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -10917,6 +11626,30 @@
           "independent": true,
           "correct": false,
           "note": "Gestern hat meine Schwester ..."
+        },
+        {
+          "date": "2026-10-11",
+          "session_id": "2026-10-11-S03",
+          "exercise_id": "2026-10-11-S03-E02",
+          "independent": true,
+          "correct": true,
+          "note": "Correct finite hat directly after fronted obwohl clause."
+        },
+        {
+          "date": "2026-10-11",
+          "session_id": "2026-10-11-S03",
+          "exercise_id": "2026-10-11-S03-E09",
+          "independent": true,
+          "correct": true,
+          "note": "Correct V2 after Nach der Arbeit."
+        },
+        {
+          "date": "2026-10-11",
+          "session_id": "2026-10-11-S03",
+          "exercise_id": "2026-10-11-S03-E10",
+          "independent": true,
+          "correct": true,
+          "note": "Correct verbessere ich after fronted obwohl clause; quantity and capitalization errors separate."
         }
       ]
     },
@@ -11013,12 +11746,12 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 2,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 3,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-04-S01"
       ],
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-11",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -11068,6 +11801,14 @@
           "independent": true,
           "correct": false,
           "note": "Used nach der Termin; correct nach dem Termin."
+        },
+        {
+          "date": "2026-10-11",
+          "session_id": "2026-10-11-S03",
+          "exercise_id": "2026-10-11-S03-E09",
+          "independent": true,
+          "correct": true,
+          "note": "Correct feminine temporal Dativ nach der Arbeit; no claim about unresolved masculine/plural forms."
         }
       ]
     },
@@ -11345,7 +12086,7 @@
   },
   "latest_study_date": "2026-10-11",
   "latest_study_state": "open",
-  "next_suggested_action": "Continue 2026-10-11-S02 with a fresh obwohl sentence using a new practical verb; preserve S01 E18 and all earlier deferred prompts.",
+  "next_suggested_action": "Offer nine main-menu choices. If Continue previous session is selected, resume paused S03 at S03-E14: أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف. (Perfekt prüfen + speichern).",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -11693,6 +12434,13 @@
       "mode": "new_grammar_rule",
       "topic": "obwohl",
       "note": "Learner selected the new grammar track. Introduced obwohl contrast clauses; prior S01 E18 and deferred work remain preserved. No exercise attempt yet."
+    },
+    {
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:51:01+02:00",
+      "session_id": "2026-10-11-S03",
+      "event": "session_paused_return_main_menu",
+      "note": "Learner explicitly requested GitHub upload of latest changes and return to main menu. Preserve E14 unanswered and all older pending work; day remains open."
     }
   ],
   "exercise_results": [
@@ -15126,6 +15874,175 @@
       "result": "needs_correction",
       "independent": true,
       "note": "After a fronted obwohl clause, the main clause starts with the finite verb: schicke ich; wenig Zeit is the natural phrase; spelling schicke. Dativ dem Chef + Akkusativ die Unterlagen is correct."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E02",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:20:14+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "رغم إن العجلة قديمة، أخويا صلّحها امبارح.",
+      "learner_answer": "Obwohl der Fahrrad alt ist, hat gestern mein Bruder ihn repariert",
+      "correction": "Obwohl das Fahrrad alt ist, hat mein Bruder es gestern repariert.",
+      "result": "needs_correction_gender_pronoun",
+      "independent": true,
+      "hint_used": false,
+      "note": "obwohl verb-final, main-clause V2 and hat ... repariert independently correct. hat gestern mein Bruder is grammatical. Fahrrad is neuter: das / es; lemma recalled, gender wrong. Earlier prompt used Fahrrad without registering/explaining its form; register now, no claim of prior mastery."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E03",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:25:09+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أنا حوّلت الإيجار لصاحب الشقة امبارح.",
+      "learner_answer": "Ich habe gestern dem Vermieter die Mieter überwiesen",
+      "correction": "Ich habe gestern dem Vermieter die Miete überwiesen.",
+      "result": "needs_correction_vocabulary_form",
+      "independent": true,
+      "hint_used": false,
+      "note": "Correct independent Perfekt hat/habe ... überwiesen, Dativ dem Vermieter, and object position. Only Mieter versus Miete needs correction; no case or word-order error."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E04",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:31:31+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أخويا بيصرف فلوس كتير على الأكل.",
+      "learner_answer": "Mein Bruder gebt viele Geld aus zu Essen",
+      "correction": "Mein Bruder gibt viel Geld für Essen aus.",
+      "result": "needs_correction_verb_quantity_preposition",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent attempt. Correct separable prefix recognized, but er gives gives gibt (not gebt); uncountable Geld takes viel (not viele); spending on takes für + Akk. Neutral full sentence places aus after für Essen; the original postfield phrase is primarily the wrong construction, not proof that separability was forgotten."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E05",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:33:19+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أختي بتصرف فلوس كتير على الإيجار.",
+      "learner_answer": "Meine Schwester gibt viel Geld für die Miet aus",
+      "correction": "Meine Schwester gibt viel Geld für die Miete aus.",
+      "result": "correct_grammar_spelling_repair",
+      "independent": true,
+      "hint_used": false,
+      "note": "Fresh independent transfer after correction, not a copied full sentence. gibt, viel Geld, für + Akk and final aus correct; only missing final e in Miete. Immediate success in ausgeben targets, not mastery or delayed retention."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E06",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:35:55+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أخويا كسب فلوس كتير امبارح.",
+      "learner_answer": "Mein Bruder hat gestern viel Geld verdient ",
+      "correction": "Mein Bruder hat gestern viel Geld verdient.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent correct Perfekt hat ... verdient, third-person auxiliary, gestern and viel Geld. Added final punctuation only. First correct use supports practicing, not mastery; Präsens remains unassessed."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E07",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:39:48+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أختي بتحوش فلوس لعربية جديدة.",
+      "learner_answer": "Meine Schwester spart Geld für ein neues Auto",
+      "correction": "Meine Schwester spart Geld für ein neues Auto.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent correct Präsens spart, Geld, für + Akk and neuter ein neues Auto. Only terminal punctuation added; first success, not mastery. Perfekt sparen remains unassessed."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E08",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:42:32+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أنا وضّبت الجاكيت والكتاب للسفر امبارح.",
+      "learner_answer": "Ich habe gestern die Jacke und das Buch für die Reise eingepackt  ",
+      "correction": "Ich habe gestern die Jacke und das Buch für die Reise eingepackt.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent correct Perfekt habe ... eingepackt, Akk objects die Jacke / das Buch and für die Reise. Added punctuation only. First success supports practicing, not mastery; present dimension remains unassessed."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E09",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:49:06+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "بعد الشغل، أختي بتفك غلاف الطرد.",
+      "learner_answer": "Nach der Arbeit, packt meine Schwester das Packet aus ",
+      "correction": "Nach der Arbeit packt meine Schwester das Paket aus.",
+      "result": "correct_grammar_spelling_punctuation_repair",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent correct auspacken Präsens packt ... aus, nach der Arbeit Dativ and V2. Remove comma after fronted prepositional phrase, not subordinate clause. Paket spelling (not Packet) is separate from correct article and recalled meaning."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E10",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:52:54+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "رغم إن عندي وقت قليل، أنا بحسّن الألماني بتاعي.",
+      "learner_answer": "Obwohl Ich wenige Zeit habe, verbessere ich mein Deutsch",
+      "correction": "Obwohl ich wenig Zeit habe, verbessere ich mein Deutsch.",
+      "result": "needs_correction_quantity_capitalization",
+      "independent": true,
+      "hint_used": false,
+      "note": "Independent correct verbessern Präsens and object mein Deutsch, although subordinate clause-final habe and main-clause V2 verbessere ich. Repair wenige Zeit to wenig Zeit (uncountable quantity), and Ich to ich. Do not treat these as word-order errors or failed verb recall."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E11",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T17:59:29+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أخويا بيوعدني إنه هيصلّح العجلة بكرة.",
+      "learner_answer": "Mein Bruder verspreche mir, dass morgen er den Fahrrad repariert",
+      "correction": "Mein Bruder verspricht mir, dass er morgen das Fahrrad repariert.",
+      "result": "needs_correction_conjugation_gender",
+      "independent": true,
+      "hint_used": false,
+      "note": "mir Dativ and clause-final repariert correct. Main predicate needs er verspricht, not verspreche. Neuter Fahrrad remains das in Akk, not den. dass er morgen is neutral order; dass morgen er can be marked contrastive order, do not falsely diagnose missing verb-final or categorically ungrammatical subject position."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E12",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:40:35+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "المدير سمحلي إني أروح البيت بدري النهارده.",
+      "learner_answer": "Der Chef erlaubt mir heute früh nach Hause zu gehen  ",
+      "correction": "Der Chef hat mir erlaubt, heute früh nach Hause zu gehen.",
+      "result": "needs_correction_requested_tense",
+      "independent": false,
+      "hint_used": true,
+      "support_note": "Learner requested dürfen vs erlauben explanation. Relevant near-model supplied: Der Chef hat mir erlaubt, heute nach Hause zu gehen. E12 answer after this explanation is supported for erlauben + mir + zu-infinitive, not wholly independent.",
+      "note": "Answer after relevant construction model. Correct Präsens erlaubt, Dativ mir and zu-infinitive; required Perfekt hat ... erlaubt not produced. Add obligatory comma before infinitive group dependent on erlauben. Preserve supported construction evidence; no independent success or copied correction counted."
+    },
+    {
+      "exercise_id": "2026-10-11-S03-E13",
+      "session_id": "2026-10-11-S03",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:43:15+02:00",
+      "mode": "written_sentence_translation",
+      "prompt": "أمي سمحت لأختي إنها تستخدم العربية امبارح.",
+      "learner_answer": "Mein Mutter hat gestern meiner Schwester das Auto erlaubt zu benutzen ",
+      "correction": "Meine Mutter hat gestern meiner Schwester erlaubt, das Auto zu benutzen.",
+      "result": "needs_correction_possessive_infinitive_group",
+      "independent": true,
+      "hint_used": false,
+      "note": "Fresh changed-context answer without new hint: correctly produced hat ... erlaubt and Dativ meiner Schwester. Feminine subject requires Meine Mutter. Neutral infinitive group is das Auto zu benutzen after erlaubt; keep the direct object with benutzen. Construction still practicing, no delayed retention claim."
     }
   ],
   "skill_tracking": {
@@ -15553,6 +16470,148 @@
         "2026-10-10-S05-E07",
         "2026-10-10-S05-E08"
       ]
+    },
+    {
+      "id": "2026-10-11-written-reparieren",
+      "target_key": "written_reparieren_perfekt_fahrrad",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "reparieren Perfekt, fronted clause V2 and das Fahrrad / es",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "practicing",
+      "evidence_ids": [
+        "2026-10-11-S03-E02"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-ueberweisen",
+      "target_key": "written_ueberweisen_miete",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "überweisen Perfekt with recipient; Miete versus Mieter",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "practicing",
+      "evidence_ids": [
+        "2026-10-11-S03-E03"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-ausgeben",
+      "target_key": "written_ausgeben_praesens",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "er/sie gibt viel Geld für ... aus",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "immediate_independent_target_success_spelling_repair",
+      "evidence_ids": [
+        "2026-10-11-S03-E04",
+        "2026-10-11-S03-E05"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-verdienen",
+      "target_key": "written_verdienen_perfekt",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "verdienen Perfekt in a fresh context",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct",
+      "evidence_ids": [
+        "2026-10-11-S03-E06"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-sparen",
+      "target_key": "written_sparen_praesens",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "sparen Präsens + für Akk in fresh context",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct",
+      "evidence_ids": [
+        "2026-10-11-S03-E07"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-einpacken",
+      "target_key": "written_einpacken_perfekt",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "einpacken Perfekt in fresh packing context",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct",
+      "evidence_ids": [
+        "2026-10-11-S03-E08"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-auspacken",
+      "target_key": "written_auspacken_praesens",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "auspacken Präsens; temporal Dativ / V2; Paket spelling",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_target_success_surface_repair",
+      "evidence_ids": [
+        "2026-10-11-S03-E09"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-verbessern",
+      "target_key": "written_verbessern_obwohl_wenig",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "verbessern + obwohl; wenig Zeit quantity",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "correct_verb_and_clause_order_quantity_repair",
+      "evidence_ids": [
+        "2026-10-11-S03-E10"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-versprechen",
+      "target_key": "written_versprechen_praesens",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "er verspricht mir + dass; das Fahrrad gender",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "needs_retry_conjugation_gender",
+      "evidence_ids": [
+        "2026-10-11-S03-E11"
+      ]
+    },
+    {
+      "id": "2026-10-11-written-erlauben",
+      "target_key": "written_erlauben_perfekt",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-11-S03",
+      "target": "erlauben Perfekt + Dativ + zu; requested tense",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "correct_perfekt_form_construction_repair",
+      "evidence_ids": [
+        "2026-10-11-S03-E12",
+        "2026-10-11-S03-E13"
+      ]
     }
   ],
   "adaptive_learning": {
@@ -15727,28 +16786,26 @@
       "no_retroactive_mastery": true
     },
     "latest_decision": {
-      "date": "2026-10-09",
+      "date": "2026-10-11",
+      "session_id": "2026-10-11-S03",
+      "reason": "All verbs 118–127 received actual contextual practice. Progression-first: do not block on one weak pattern; introduce next ten and embed tense, cases, adjective/gender and clause-order review.",
       "evidence_ids": [
-        "2026-10-09-S01-E01",
-        "2026-10-09-S01-E02",
-        "2026-10-09-S01-E03",
-        "2026-10-09-S01-E04",
-        "2026-10-09-S01-E05",
-        "2026-10-09-S01-E06",
-        "2026-10-09-S01-E07",
-        "2026-10-09-S01-E08",
-        "2026-10-09-S01-E09",
-        "2026-10-09-S01-E10",
-        "2026-10-09-S01-E11",
-        "2026-10-09-S02-E01",
-        "2026-10-09-S02-E02",
-        "2026-10-09-S02-E03",
-        "2026-10-09-S02-E04",
-        "2026-10-09-S02-E05",
-        "2026-10-09-S02-E06"
+        "2026-10-11-S03-E01",
+        "2026-10-11-S03-E02",
+        "2026-10-11-S03-E03",
+        "2026-10-11-S03-E04",
+        "2026-10-11-S03-E05",
+        "2026-10-11-S03-E06",
+        "2026-10-11-S03-E07",
+        "2026-10-11-S03-E08",
+        "2026-10-11-S03-E09",
+        "2026-10-11-S03-E10",
+        "2026-10-11-S03-E11",
+        "2026-10-11-S03-E12",
+        "2026-10-11-S03-E13"
       ],
-      "reason": "Dass finite-verb order correct in six written responses; full translation errors concern omissions, complete weil and preserving subject. Retest those in fresh variations; no oral skill inference.",
-      "next_action": "Continue 2026-10-09-S02 E07-E08. First clarify E07: its original past wording اختار conflicts with its Präsens label. Retest complete weil clause, subject continuity er/sie, zu Hause/gestern, and dass Perfekt; preserve all earlier deferred prompts."
+      "practice_balance": "roughly 70% new / 30% embedded review",
+      "deferred_work_preserved": true
     }
   },
   "feature_config_updated_on": "2026-10-09",
@@ -15779,5 +16836,6 @@
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
     }
   ],
-  "current_review_scope": "all_unresolved_across_history"
+  "current_review_scope": "all_unresolved_across_history",
+  "paused_session_id": "2026-10-11-S03"
 }

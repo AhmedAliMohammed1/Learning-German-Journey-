@@ -1,4 +1,4 @@
-# Verb curriculum — 127 introduced verbs
+# Verb curriculum — 137 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -125,16 +125,26 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 115 | erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | Ich erledige die Aufgabe nach der Arbeit. | practicing | + Akk |
 | 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | practicing | separable; contract expiry; Perfekt uses sein |
 | 117 | verpassen | يفوّت القطار / الموعد | ich verpasse | hat verpasst | Wenn ich den Zug verpasse, nehme ich den Bus. | introduced | + Akk |
-| 118 | reparieren | يصلّح | ich repariere | hat repariert | Mein Bruder repariert das Auto. | introduced | + Akk; regular (-ieren) |
-| 119 | überweisen | يحوّل فلوس بنكياً | ich überweise | hat überwiesen | Ich überweise dem Vermieter die Miete. | introduced | inseparable; + Dat (person) + Akk (money) |
-| 120 | ausgeben | ينفق / يصرف فلوس | ich gebe ... aus / er gibt ... aus | hat ausgegeben | Er gibt viel Geld für Kleidung aus. | introduced | separable; e -> i; für + Akk |
-| 121 | verdienen | يكسب فلوس / يستحق | ich verdiene | hat verdient | Meine Schwester verdient gut in ihrem neuen Job. | introduced | inseparable; + Akk |
-| 122 | sparen | يوفّر / يحوش فلوس | ich spare | hat gespart | Ich spare Geld für eine neue Wohnung. | introduced | regular; für + Akk |
-| 123 | einpacken | يحزم / يوضّب أمتعة | ich packe ... ein | hat eingepackt | Ich packe die Sachen in die Tasche ein. | introduced | separable; + Akk |
-| 124 | auspacken | يفرّغ أمتعة / يفك غلاف | ich packe ... aus | hat ausgepackt | Er packt das Paket aus. | introduced | separable; + Akk |
-| 125 | verbessern | يحسّن / يطوّر | ich verbessere | hat verbessert | Ich lerne fleißig, um mein Deutsch zu verbessern. | introduced | inseparable; + Akk |
-| 126 | versprechen | يوعد | ich verspreche / er verspricht | hat versprochen | Mein Bruder verspricht mir, dass er kommt. | introduced | inseparable; e -> i; + Dat (person) + Akk / dass |
-| 127 | erlauben | يسمح بـ / يصرّح | ich erlaube | hat erlaubt | Der Chef erlaubt mir, früher zu gehen. | introduced | + Dat (person) + Akk / Infinitiv mit zu |
+| 118 | reparieren | يصلّح | ich repariere | hat repariert | Mein Bruder repariert das Auto. | practicing | + Akk; regular (-ieren) |
+| 119 | überweisen | يحوّل فلوس بنكياً | ich überweise | hat überwiesen | Ich überweise dem Vermieter die Miete. | practicing | inseparable; + Dat (person) + Akk (money) |
+| 120 | ausgeben | ينفق / يصرف فلوس | ich gebe ... aus / er gibt ... aus | hat ausgegeben | Er gibt viel Geld für Kleidung aus. | practicing | separable; e -> i; für + Akk |
+| 121 | verdienen | يكسب فلوس / يستحق | ich verdiene | hat verdient | Meine Schwester verdient gut in ihrem neuen Job. | practicing | inseparable; + Akk |
+| 122 | sparen | يوفّر / يحوش فلوس | ich spare | hat gespart | Ich spare Geld für eine neue Wohnung. | practicing | regular; für + Akk |
+| 123 | einpacken | يحزم / يوضّب أمتعة | ich packe ... ein | hat eingepackt | Ich packe die Sachen in die Tasche ein. | practicing | separable; + Akk |
+| 124 | auspacken | يفرّغ أمتعة / يفك غلاف | ich packe ... aus | hat ausgepackt | Er packt das Paket aus. | practicing | separable; + Akk |
+| 125 | verbessern | يحسّن / يطوّر | ich verbessere | hat verbessert | Ich lerne fleißig, um mein Deutsch zu verbessern. | practicing | inseparable; + Akk |
+| 126 | versprechen | يوعد | ich verspreche / er verspricht | hat versprochen | Mein Bruder verspricht mir, dass er kommt. | practicing | inseparable; e -> i; + Dat (person) + Akk / dass |
+| 127 | erlauben | يسمح بـ / يصرّح | ich erlaube | hat erlaubt | Der Chef erlaubt mir, früher zu gehen. | practicing | + Dat (person) + Akk / Infinitiv mit zu |
+| 128 | prüfen | يراجع / يفحص | ich prüfe; er prüft | hat geprüft | Ich prüfe die Rechnung. | introduced | + Akk; regular |
+| 129 | speichern | يحفظ ملف أو بيانات | ich speichere; er speichert | hat gespeichert | Ich speichere die Datei. | introduced | + Akk; regular |
+| 130 | drucken | يطبع | ich drucke; er druckt | hat gedruckt | Ich drucke die Unterlagen. | introduced | + Akk; regular |
+| 131 | löschen | يمسح / يحذف | ich lösche; er löscht | hat gelöscht | Ich lösche die Nachricht. | introduced | + Akk; regular |
+| 132 | installieren | يثبّت برنامج | ich installiere; er installiert | hat installiert | Ich installiere das Programm. | introduced | + Akk; -ieren, no ge- |
+| 133 | herunterladen | ينزّل ملف من الإنترنت | ich lade ... herunter; du lädst ... herunter; er lädt ... herunter | hat heruntergeladen | Ich lade die Datei herunter. | introduced | separable; a → ä in du/er; + Akk |
+| 134 | hochladen | يرفع ملف على الإنترنت | ich lade ... hoch; du lädst ... hoch; er lädt ... hoch | hat hochgeladen | Ich lade die Datei hoch. | introduced | separable; a → ä in du/er; + Akk |
+| 135 | verbinden | يوصّل / يربط | ich verbinde; er verbindet | hat verbunden | Ich verbinde mein Handy mit deinem Handy. | introduced | inseparable; Akk + mit + Dat |
+| 136 | trennen | يفصل | ich trenne; er trennt | hat getrennt | Ich trenne mein Handy von deinem Handy. | introduced | Akk + von + Dat |
+| 137 | vergleichen | يقارن | ich vergleiche; er vergleicht | hat verglichen | Ich vergleiche die Hotels. | introduced | inseparable; + Akk; or Akk + mit + Dat |
 
 ## How to read the table
 
@@ -155,4 +165,4 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 
 ## Reference completion — 2026-10-09
 
-All 127 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
+All 137 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.

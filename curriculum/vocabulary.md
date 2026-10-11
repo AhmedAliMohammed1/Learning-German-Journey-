@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**161 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**165 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -14,7 +14,7 @@
 | V006 | die Mutter | die Mütter | الأم | noun | introduced |
 | V007 | der Vater | die Väter | الأب | noun | introduced |
 | V008 | der Lehrer | die Lehrer | المدرس | noun | introduced |
-| V009 | das Buch | die Bücher | الكتاب | noun | introduced |
+| V009 | das Buch | die Bücher | الكتاب | noun | practicing |
 | V010 | das Bild | die Bilder | الصورة | noun | introduced |
 | V011 | das Geschenk | die Geschenke | الهدية | noun | introduced |
 | V012 | der Autoschlüssel | die Autoschlüssel | مفتاح السيارة | noun | introduced |
@@ -157,7 +157,7 @@
 | V149 | danach | — | بعد كده / بعد ذلك | adverb_or_adjective | practicing |
 | V150 | zu Hause | — | في البيت | expression | practicing |
 | V151 | die Hochschule | die Hochschulen | الجامعة / مؤسسة التعليم العالي | noun | practicing |
-| V152 | die Reise | die Reisen | السفر / الرحلة | noun | introduced |
+| V152 | die Reise | die Reisen | السفر / الرحلة | noun | practicing |
 | V153 | Berlin | — | برلين | place_name | practicing |
 | V154 | die Entscheidung | die Entscheidungen | القرار | noun | practicing |
 | V155 | die Bewerbung | die Bewerbungen | طلب التقديم على وظيفة | noun | practicing |
@@ -166,7 +166,11 @@
 | V158 | das Vorstellungsgespräch | die Vorstellungsgespräche | مقابلة عمل | noun | practicing |
 | V159 | der Lieferant | die Lieferanten | عامل التوصيل | noun | introduced |
 | V160 | die Benachrichtigung | die Benachrichtigungen | إشعار / تنبيه | noun | introduced |
-| V161 | die Geduld | — | الصبر | noun | introduced |
+| V161 | die Geduld | — | الصبر | noun | practicing |
+| V162 | das Fahrrad | die Fahrräder | العجلة / الدراجة | noun | practicing |
+| V163 | der Mieter | die Mieter | المستأجر | noun | introduced |
+| V164 | die Datei | die Dateien | الملف | noun | introduced |
+| V165 | das Programm | die Programme | البرنامج | noun | introduced |
 
 ## Learning notes
 

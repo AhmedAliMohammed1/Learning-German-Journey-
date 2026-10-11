@@ -441,3 +441,30 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 - Clear improvement: **als** one-off past and **wenn** conditional, in der Tasche vs in die Tasche, modal Perfekt independent follow-up **hat ... kaufen können**, and masculine Dativ **meinem Bruder / seinem Freund** after earlier case confusion. Do not promote to mastered after one session.
 - Active remaining: **nach + Dativ** (nach dem Mietvertrag; nach den Unterlagen), **sich entscheiden für + Akk**, **niemanden** Akk, Perfekt double infinitives on first attempt, V2 after fronted Gestern, Dativ recipient vs Akk item, location phrase, plural Unterlagen, and object-pronoun ordering **es ihm** vs **ihm es**. E17 correct with es + Dativ noun; E18 two-pronoun test still unanswered.
 - Written-only attempts; do not update oral dimensions. Reference: 2026-10-11-S01-E01–E17, days/2026-10-11.md.
+
+## Checkpoint 2026-10-11 S03-E02
+S03-E02: M28 correct V2 after obwohl and correct reparieren Perfekt; hat gestern mein Bruder is grammatical. M08: der Fahrrad / ihn needs das Fahrrad / es; previously unexplained gender, not failed lexical recall. Retest later, no mastery promotion.
+
+## Checkpoint 2026-10-11 S03-E03
+S03-E03: correct Dativ dem Vermieter and Perfekt habe ... überwiesen. Lexical/form distinction die Miete versus die Mieter; no new broad case/order error. Retest later.
+
+## Checkpoint 2026-10-11 S03-E04
+S03-E04 ausgeben: er gibt, not gebt; viel Geld (uncountable), für + Akk. Separable aus produced. First item-specific error, no invented broad repeated-error pattern; fresh transfer E05 before moving on.
+
+## Checkpoint 2026-10-11 S03-E05
+S03-E05 fresh independent success on ausgeben third-person gibt, viel Geld, für + Akk and final aus after E04. Only spelling Miet → Miete; reduce immediate drilling and advance to verdienen, keep delayed retest 2026-10-12.
+
+## Checkpoint 2026-10-11 S03-E09
+S03-E09 correct temporal feminine Dativ nach der Arbeit, main-clause V2 and packt ... aus. Remove unnecessary comma after phrase; Packet → Paket spelling. Do not treat as failure of verb use or as mastery of masculine/plural temporal Dativ.
+
+## Checkpoint 2026-10-11 S03-E10
+S03-E10 correct obwohl/V2 and verbessern. Few/quantity form repair wenige Zeit → wenig Zeit, comparable to E04 viele Geld → viel Geld; light embedded maintenance, not a word-order error. Ich → ich capitalization. Continue progression.
+
+## Checkpoint 2026-10-11 S03-E11
+S03-E11: er verspricht (e → i), not verspreche; repeated das Fahrrad gender target (den incorrect). mir and dass-final repariert correct. Neutral order dass er morgen; marked dass morgen er not automatically a syntactic failure. Embed gender and third-person form in later fresh work; progression continues.
+
+## Checkpoint 2026-10-11 S03-E12
+S03-E12 used Präsens erlaubt instead of requested Perfekt hat ... erlaubt after model. Dativ mir and zu-infinitive correct with support. Retest tense in one new permission sentence; no independent mastery evidence.
+
+## Checkpoint 2026-10-11 S03-E13 and progression
+S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Meine Mutter and the natural infinitive group das Auto zu benutzen need repair. Progress to next batch; embed possessive gender, tense and infinitive-group review, not extended review blockage.

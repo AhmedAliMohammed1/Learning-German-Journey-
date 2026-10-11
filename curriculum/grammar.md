@@ -456,3 +456,9 @@ Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens l
 - **um ... zu + jemanden nach + Dativ fragen**: initial omission/incorrect case; subsequent singular nach dem and plural nach den needs reinforcement.
 - **schicken/zeigen/geben**: person in Dativ, thing in Akkusativ; pronoun Akk before Dativ noun: **es meinem Bruder**. When both are unstressed personal pronouns, normal order is **es ihm**; learner wrote **ihm es**, follow-up E18 unanswered.
 - **als / wenn**, **an der Hochschule**, **niemanden** and adjective endings rechecked; see 2026-10-11-S01 for original evidence, not overall mastery.
+
+## Checkpoint 2026-10-11 S03-E02
+S03-E02: independent correct obwohl clause-final ist, main clause finite hat after fronted subordinate clause, and hat ... repariert; noun gender and pronoun correction separate.
+
+## Checkpoint 2026-10-11 S03-E10
+S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbessere ich. Quantity form wenig Zeit and lowercase ich corrections separate; no mastery promotion.
