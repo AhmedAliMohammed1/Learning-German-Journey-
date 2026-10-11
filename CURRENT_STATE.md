@@ -156,3 +156,8 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - **137 introduced verbs / 167 registered vocabulary entries**. Three S05 answers with separate grammar/comprehension evidence: Perfekt correct; Dativ recipient improved in fresh transfer; precise text details, Kollegen and omitted gestern unresolved. No oral/listening assessment.
 - Next: offer nine choices. Continue reading at **S05-E04: Warum hat die Schwester die Datei verbessert?** — full answer with weil. S04 recall at E03 «عنده / يملك» and S03-E14 plus older pending work preserved.
 - Reading retests due 2026-10-12; earlier due tests remain unresolved. Main upload authorized; verify remote after saving.
+
+## Latest checkpoint — 2026-10-12 (closed)
+- One targeted recent-material review session S01, four answered exercises. E01 Perfekt prüfen/speichern independently correct. E02 obwohl clause correct but used Perfekt instead of requested Präsens. E03 correct Perfekt and pronoun but Kolleg → Kollegen and Unterlagen → Datei. E04 weil + Perfekt correct overall, but subject ihr Kollege, object einen Fehler, darin needed.
+- E05 pending: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Resume if user chooses recent review.
+- No new vocabulary/verbs: 137 verbs, 167 vocabulary entries. Day closed at learner request. Earlier pending activities preserved. See days/2026-10-12.md.
