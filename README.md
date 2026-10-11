@@ -192,3 +192,11 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 - Active new grammar: **wenn**, plus **als** contrast, with first eight full-sentence attempts recorded; the grammar remains practicing.
 - Correct written productions: S02 E03, E04, E06. Main retests: als vs wenn for single past events, **nach Hause**, **bereitet ... vor**.
 - Current day open; pending S02 E09–E10 and deferred S01 E19–E23 preserved.
+
+
+### Latest verified checkpoint — 2026-10-11
+- **117** introduced verbs in one open-ended inventory; **160** registered vocabulary entries (not mastered count).
+- Active 2026-10-11-S01: targeted all-history unresolved review, 17 independent written translations and corrections logged in `days/2026-10-11.md`.
+- Next exact pending: E18 replace *meinem Bruder* with appropriate Dativ pronoun in *Danach hat sie es meinem Bruder gegeben.*
+- Strengthening: als/wenn, case with zeigen/schicken, modal Perfekt; retest nach + Dativ, niemanden, pronoun **es ihm**. Older work remains deferred.
+- Historical dashboard sections above are archival; use `CURRENT_STATE.md`, `progress.json`, and the latest day file for the live count/status.
