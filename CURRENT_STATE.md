@@ -61,3 +61,8 @@ Finished Das verlorene Paket: 5 comprehension questions and 3 translation exerci
 - Total verbs 117 (no new verb counted). Vocabulary 160: added die Benachrichtigung; das Bild and verbs zeigen/zurückgeben already registered.
 - Improvements: als/wenn, Wo/Wohin, modal Perfekt fresh success, Dativ masculine, case and adjective endings, pronoun before Dativ noun.
 - Retest: nach + Dativ (singular/plural), sich entscheiden für, niemanden, and two-pronoun **es ihm** order. Older unfinished sessions stay deferred; no speaking/listening evidence. Day not closed by sync request.
+
+## 2026-10-11 new grammar session
+- New session **2026-10-11-S02** started after choosing the new-grammar track.
+- New main rule: **obwohl** contrast clauses; verb-final in the obwohl clause and verb-second after a fronted obwohl clause.
+- S02 E01 needed the fixed phrase **mit Geduld**; S02 E02–E04 and E06 were independently correct. S02 E05 had correct grammar/Perfekt with an **Aufgabe** spelling repair. S02 E07 needs the fronted-clause order **schicke ich** and phrase **wenig Zeit**; Dativ/Akkusativ objects were correct. Next: fresh transfer.

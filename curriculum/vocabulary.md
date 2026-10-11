@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**157 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**161 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -166,6 +166,7 @@
 | V158 | das Vorstellungsgespräch | die Vorstellungsgespräche | مقابلة عمل | noun | practicing |
 | V159 | der Lieferant | die Lieferanten | عامل التوصيل | noun | introduced |
 | V160 | die Benachrichtigung | die Benachrichtigungen | إشعار / تنبيه | noun | introduced |
+| V161 | die Geduld | — | الصبر | noun | introduced |
 
 ## Learning notes
 

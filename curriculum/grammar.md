@@ -443,6 +443,13 @@ Continuation: S02 E07–E08; E07 original past wording conflicts with Präsens l
 - Contrast: **Als meine Schwester in München angekommen ist, hat sie mich angerufen.** versus **Wenn meine Schwester nach Hause kommt, bereitet sie das Essen vor.**
 - Continue targeted transfer E09/E10; new topic practicing, not strong.
 
+## New grammar — obwohl (2026-10-11)
+- **obwohl** = رغم إن / مع إن، وبتدخل جملة فرعية فيها الفعل المصرف في الآخر.
+- لو جملة obwohl في البداية، الفعل المصرف في الجملة الرئيسية بييجي مباشرة بعد الفاصلة: **Obwohl ich müde bin, lerne ich Deutsch.**
+- لو جملة obwohl بعد الجملة الرئيسية: **Ich lerne Deutsch, obwohl ich müde bin.**
+- الفرق العملي: **weil** بتشرح السبب، أما **obwohl** فبتعرض تعارض أو حاجة عكس المتوقع.
+- اتقدمت كموضوع رئيسي جديد في جلسة **2026-10-11-S02**؛ بعد أول ثلاث محاولات: محاولتان مستقلتان صحيحتان، ومحاولة احتاجت تصحيح حرف الجر.
+
 
 ## 2026-10-11 targeted retest evidence
 - Perfekt modal + main infinitive: **hat ... nicht kaufen können** independently correct after initial incorrect **angerufen nicht können**; keep practicing.

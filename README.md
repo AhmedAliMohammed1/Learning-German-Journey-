@@ -195,8 +195,8 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 
 
 ### Latest verified checkpoint — 2026-10-11
-- **117** introduced verbs in one open-ended inventory; **160** registered vocabulary entries (not mastered count).
-- Active 2026-10-11-S01: targeted all-history unresolved review, 17 independent written translations and corrections logged in `days/2026-10-11.md`.
+- **117** introduced verbs in one open-ended inventory; **161** registered vocabulary entries (not mastered count).
+- Active 2026-10-11-S02: new grammar rule **obwohl**, with three written translations recorded; earlier targeted-review work remains preserved in `days/2026-10-11.md`.
 - Next exact pending: E18 replace *meinem Bruder* with appropriate Dativ pronoun in *Danach hat sie es meinem Bruder gegeben.*
 - Strengthening: als/wenn, case with zeigen/schicken, modal Perfekt; retest nach + Dativ, niemanden, pronoun **es ihm**. Older work remains deferred.
 - Historical dashboard sections above are archival; use `CURRENT_STATE.md`, `progress.json`, and the latest day file for the live count/status.
