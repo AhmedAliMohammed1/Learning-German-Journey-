@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-11",
-  "last_updated_at": "2026-10-11T18:51:01+02:00",
+  "last_updated_at": "2026-10-11T18:55:04+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-11",
   "latest_day": "2026-10-11",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 21,
+  "current_session_id": "2026-10-11-S04",
+  "sessions_recorded": 22,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "New verbs: Batch 128–137",
-  "next_action": "Offer nine main-menu choices. If Continue previous session is selected, resume paused S03 at S03-E14: أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف. (Perfekt prüfen + speichern).",
+  "active_topic": "Full isolated verb recall — all 137 introduced verbs",
+  "next_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1396,6 +1396,20 @@
       "activity": "new_verbs_batch_128_137",
       "target": "prüfen + speichern Perfekt; die Rechnung / die Datei; danach V2 and explicit ich",
       "priority": "paused_preserved_work"
+    },
+    {
+      "id": "2026-10-11-S04-E01",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "activity": "full_verb_isolated_recall",
+      "evidence_kind": "isolated_recall",
+      "verb_id": 80,
+      "dimension": "infinitive_recall",
+      "requested_form": "infinitive",
+      "prompt_ar": "يوقّع — على عقد أو ورقة.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
     }
   ],
   "completed_exercise_ids": [
@@ -12086,7 +12100,7 @@
   },
   "latest_study_date": "2026-10-11",
   "latest_study_state": "open",
-  "next_suggested_action": "Offer nine main-menu choices. If Continue previous session is selected, resume paused S03 at S03-E14: أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف. (Perfekt prüfen + speichern).",
+  "next_suggested_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -12441,6 +12455,14 @@
       "session_id": "2026-10-11-S03",
       "event": "session_paused_return_main_menu",
       "note": "Learner explicitly requested GitHub upload of latest changes and return to main menu. Preserve E14 unanswered and all older pending work; day remains open."
+    },
+    {
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:55:04+02:00",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "event": "full_verb_recall_started",
+      "note": "Explicit Full review → all verbs selection. Snapshot all 137 IDs and eligible tense/form coverage; first prompt only, zero attempts. S03 E14 remains paused."
     }
   ],
   "exercise_results": [
@@ -16836,6 +16858,2808 @@
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
     }
   ],
-  "current_review_scope": "all_unresolved_across_history",
-  "paused_session_id": "2026-10-11-S03"
+  "current_review_scope": "all_introduced_verbs_infinitive_and_perfekt",
+  "paused_session_id": "2026-10-11-S03",
+  "recall_tracking": {
+    "active_activity_id": "2026-10-11-S04-A01",
+    "activities": [
+      {
+        "id": "2026-10-11-S04-A01",
+        "session_id": "2026-10-11-S04",
+        "mode": "isolated_recall",
+        "recall_type": "verbs",
+        "scope": "all",
+        "status": "active",
+        "started_at": "2026-10-11T18:55:04+02:00",
+        "pool_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137
+        ],
+        "inventory_snapshot": [
+          {
+            "id": 1,
+            "infinitive": "sein",
+            "meaning_ar": "يكون",
+            "perfekt_reference": "ist gewesen"
+          },
+          {
+            "id": 2,
+            "infinitive": "haben",
+            "meaning_ar": "يملك / عنده",
+            "perfekt_reference": "hat gehabt"
+          },
+          {
+            "id": 3,
+            "infinitive": "machen",
+            "meaning_ar": "يفعل / يعمل",
+            "perfekt_reference": "hat gemacht"
+          },
+          {
+            "id": 4,
+            "infinitive": "gehen",
+            "meaning_ar": "يذهب",
+            "perfekt_reference": "ist gegangen"
+          },
+          {
+            "id": 5,
+            "infinitive": "kommen",
+            "meaning_ar": "يأتي",
+            "perfekt_reference": "ist gekommen"
+          },
+          {
+            "id": 6,
+            "infinitive": "fahren",
+            "meaning_ar": "يذهب بوسيلة / يقود",
+            "perfekt_reference": "ist gefahren; transitive driving can use hat gefahren"
+          },
+          {
+            "id": 7,
+            "infinitive": "bleiben",
+            "meaning_ar": "يبقى",
+            "perfekt_reference": "ist geblieben"
+          },
+          {
+            "id": 8,
+            "infinitive": "wohnen",
+            "meaning_ar": "يسكن",
+            "perfekt_reference": "hat gewohnt"
+          },
+          {
+            "id": 9,
+            "infinitive": "arbeiten",
+            "meaning_ar": "يعمل",
+            "perfekt_reference": "hat gearbeitet"
+          },
+          {
+            "id": 10,
+            "infinitive": "lernen",
+            "meaning_ar": "يتعلم",
+            "perfekt_reference": "hat gelernt"
+          },
+          {
+            "id": 11,
+            "infinitive": "sehen",
+            "meaning_ar": "يرى",
+            "perfekt_reference": "hat gesehen"
+          },
+          {
+            "id": 12,
+            "infinitive": "hören",
+            "meaning_ar": "يسمع",
+            "perfekt_reference": "hat gehört"
+          },
+          {
+            "id": 13,
+            "infinitive": "lesen",
+            "meaning_ar": "يقرأ",
+            "perfekt_reference": "hat gelesen"
+          },
+          {
+            "id": 14,
+            "infinitive": "schreiben",
+            "meaning_ar": "يكتب",
+            "perfekt_reference": "hat geschrieben"
+          },
+          {
+            "id": 15,
+            "infinitive": "fragen",
+            "meaning_ar": "يسأل",
+            "perfekt_reference": "hat gefragt"
+          },
+          {
+            "id": 16,
+            "infinitive": "antworten",
+            "meaning_ar": "يجيب",
+            "perfekt_reference": "hat geantwortet"
+          },
+          {
+            "id": 17,
+            "infinitive": "helfen",
+            "meaning_ar": "يساعد",
+            "perfekt_reference": "hat geholfen"
+          },
+          {
+            "id": 18,
+            "infinitive": "danken",
+            "meaning_ar": "يشكر",
+            "perfekt_reference": "hat gedankt"
+          },
+          {
+            "id": 19,
+            "infinitive": "geben",
+            "meaning_ar": "يعطي",
+            "perfekt_reference": "hat gegeben"
+          },
+          {
+            "id": 20,
+            "infinitive": "zeigen",
+            "meaning_ar": "يُري",
+            "perfekt_reference": "hat gezeigt"
+          },
+          {
+            "id": 21,
+            "infinitive": "verstehen",
+            "meaning_ar": "يفهم",
+            "perfekt_reference": "hat verstanden"
+          },
+          {
+            "id": 22,
+            "infinitive": "wissen",
+            "meaning_ar": "يعرف معلومة",
+            "perfekt_reference": "hat gewusst"
+          },
+          {
+            "id": 23,
+            "infinitive": "kennen",
+            "meaning_ar": "يعرف شخصًا أو مكانًا",
+            "perfekt_reference": "hat gekannt"
+          },
+          {
+            "id": 24,
+            "infinitive": "denken",
+            "meaning_ar": "يفكر",
+            "perfekt_reference": "hat gedacht"
+          },
+          {
+            "id": 25,
+            "infinitive": "glauben",
+            "meaning_ar": "يعتقد / يؤمن",
+            "perfekt_reference": "hat geglaubt"
+          },
+          {
+            "id": 26,
+            "infinitive": "meinen",
+            "meaning_ar": "يقصد / يعتقد",
+            "perfekt_reference": "hat gemeint"
+          },
+          {
+            "id": 27,
+            "infinitive": "finden",
+            "meaning_ar": "يجد",
+            "perfekt_reference": "hat gefunden"
+          },
+          {
+            "id": 28,
+            "infinitive": "suchen",
+            "meaning_ar": "يبحث عن",
+            "perfekt_reference": "hat gesucht"
+          },
+          {
+            "id": 29,
+            "infinitive": "brauchen",
+            "meaning_ar": "يحتاج",
+            "perfekt_reference": "hat gebraucht"
+          },
+          {
+            "id": 30,
+            "infinitive": "wollen",
+            "meaning_ar": "يريد",
+            "perfekt_reference": "hat gewollt; with another infinitive: hat ... wollen"
+          },
+          {
+            "id": 31,
+            "infinitive": "möchten",
+            "meaning_ar": "يود / يرغب بأدب",
+            "perfekt_reference": "— (möchten is Konjunktiv II of mögen; use wollte for past intention in everyday German)"
+          },
+          {
+            "id": 32,
+            "infinitive": "können",
+            "meaning_ar": "يستطيع",
+            "perfekt_reference": "hat gekonnt; with another infinitive: hat ... können"
+          },
+          {
+            "id": 33,
+            "infinitive": "müssen",
+            "meaning_ar": "يجب / مضطر",
+            "perfekt_reference": "hat gemusst; with another infinitive: hat ... müssen"
+          },
+          {
+            "id": 34,
+            "infinitive": "sollen",
+            "meaning_ar": "ينبغي / من المفترض",
+            "perfekt_reference": "hat gesollt; with another infinitive: hat ... sollen"
+          },
+          {
+            "id": 35,
+            "infinitive": "dürfen",
+            "meaning_ar": "يُسمح له",
+            "perfekt_reference": "hat gedurft; with another infinitive: hat ... dürfen"
+          },
+          {
+            "id": 36,
+            "infinitive": "nehmen",
+            "meaning_ar": "يأخذ",
+            "perfekt_reference": "hat genommen"
+          },
+          {
+            "id": 37,
+            "infinitive": "bringen",
+            "meaning_ar": "يجلب / يحضر",
+            "perfekt_reference": "hat gebracht"
+          },
+          {
+            "id": 38,
+            "infinitive": "holen",
+            "meaning_ar": "يذهب ليحضر شيئًا",
+            "perfekt_reference": "hat geholt"
+          },
+          {
+            "id": 39,
+            "infinitive": "bekommen",
+            "meaning_ar": "يحصل على / يتلقى",
+            "perfekt_reference": "hat bekommen"
+          },
+          {
+            "id": 40,
+            "infinitive": "kaufen",
+            "meaning_ar": "يشتري",
+            "perfekt_reference": "hat gekauft"
+          },
+          {
+            "id": 41,
+            "infinitive": "bezahlen",
+            "meaning_ar": "يدفع",
+            "perfekt_reference": "hat bezahlt"
+          },
+          {
+            "id": 42,
+            "infinitive": "verkaufen",
+            "meaning_ar": "يبيع",
+            "perfekt_reference": "hat verkauft"
+          },
+          {
+            "id": 43,
+            "infinitive": "bestellen",
+            "meaning_ar": "يطلب",
+            "perfekt_reference": "hat bestellt"
+          },
+          {
+            "id": 44,
+            "infinitive": "essen",
+            "meaning_ar": "يأكل",
+            "perfekt_reference": "hat gegessen"
+          },
+          {
+            "id": 45,
+            "infinitive": "trinken",
+            "meaning_ar": "يشرب",
+            "perfekt_reference": "hat getrunken"
+          },
+          {
+            "id": 46,
+            "infinitive": "kochen",
+            "meaning_ar": "يطبخ",
+            "perfekt_reference": "hat gekocht"
+          },
+          {
+            "id": 47,
+            "infinitive": "schlafen",
+            "meaning_ar": "ينام",
+            "perfekt_reference": "hat geschlafen"
+          },
+          {
+            "id": 48,
+            "infinitive": "aufstehen",
+            "meaning_ar": "يستيقظ / يقوم من السرير",
+            "perfekt_reference": "ist aufgestanden"
+          },
+          {
+            "id": 49,
+            "infinitive": "sitzen",
+            "meaning_ar": "يكون جالسًا",
+            "perfekt_reference": "hat gesessen"
+          },
+          {
+            "id": 50,
+            "infinitive": "stehen",
+            "meaning_ar": "يكون واقفًا",
+            "perfekt_reference": "hat gestanden"
+          },
+          {
+            "id": 51,
+            "infinitive": "liegen",
+            "meaning_ar": "يكون موضوعًا / مستلقيًا",
+            "perfekt_reference": "hat gelegen"
+          },
+          {
+            "id": 52,
+            "infinitive": "legen",
+            "meaning_ar": "يضع شيئًا أفقيًا",
+            "perfekt_reference": "hat gelegt"
+          },
+          {
+            "id": 53,
+            "infinitive": "stellen",
+            "meaning_ar": "يضع شيئًا قائمًا",
+            "perfekt_reference": "hat gestellt"
+          },
+          {
+            "id": 54,
+            "infinitive": "setzen",
+            "meaning_ar": "يُجلس / يضع في وضع الجلوس",
+            "perfekt_reference": "hat gesetzt"
+          },
+          {
+            "id": 55,
+            "infinitive": "öffnen",
+            "meaning_ar": "يفتح",
+            "perfekt_reference": "hat geöffnet"
+          },
+          {
+            "id": 56,
+            "infinitive": "schließen",
+            "meaning_ar": "يغلق",
+            "perfekt_reference": "hat geschlossen"
+          },
+          {
+            "id": 57,
+            "infinitive": "anfangen",
+            "meaning_ar": "يبدأ",
+            "perfekt_reference": "hat angefangen"
+          },
+          {
+            "id": 58,
+            "infinitive": "aufhören",
+            "meaning_ar": "يتوقف",
+            "perfekt_reference": "hat aufgehört"
+          },
+          {
+            "id": 59,
+            "infinitive": "warten",
+            "meaning_ar": "ينتظر",
+            "perfekt_reference": "hat gewartet"
+          },
+          {
+            "id": 60,
+            "infinitive": "treffen",
+            "meaning_ar": "يقابل",
+            "perfekt_reference": "hat getroffen"
+          },
+          {
+            "id": 61,
+            "infinitive": "sagen",
+            "meaning_ar": "يقول",
+            "perfekt_reference": "hat gesagt"
+          },
+          {
+            "id": 62,
+            "infinitive": "erzählen",
+            "meaning_ar": "يحكي / يروي",
+            "perfekt_reference": "hat erzählt"
+          },
+          {
+            "id": 63,
+            "infinitive": "anrufen",
+            "meaning_ar": "يتصل هاتفيًا",
+            "perfekt_reference": "hat angerufen"
+          },
+          {
+            "id": 64,
+            "infinitive": "schicken",
+            "meaning_ar": "يرسل",
+            "perfekt_reference": "hat geschickt"
+          },
+          {
+            "id": 65,
+            "infinitive": "tragen",
+            "meaning_ar": "يحمل / يرتدي",
+            "perfekt_reference": "hat getragen"
+          },
+          {
+            "id": 66,
+            "infinitive": "waschen",
+            "meaning_ar": "يغسل",
+            "perfekt_reference": "hat gewaschen"
+          },
+          {
+            "id": 67,
+            "infinitive": "putzen",
+            "meaning_ar": "ينظف",
+            "perfekt_reference": "hat geputzt"
+          },
+          {
+            "id": 68,
+            "infinitive": "laufen",
+            "meaning_ar": "يمشي / يجري",
+            "perfekt_reference": "ist gelaufen"
+          },
+          {
+            "id": 69,
+            "infinitive": "spielen",
+            "meaning_ar": "يلعب",
+            "perfekt_reference": "hat gespielt"
+          },
+          {
+            "id": 70,
+            "infinitive": "reisen",
+            "meaning_ar": "يسافر",
+            "perfekt_reference": "ist gereist"
+          },
+          {
+            "id": 71,
+            "infinitive": "aufräumen",
+            "meaning_ar": "يرتب / يلم المكان",
+            "perfekt_reference": "hat aufgeräumt"
+          },
+          {
+            "id": 72,
+            "infinitive": "duschen",
+            "meaning_ar": "يستحم",
+            "perfekt_reference": "hat geduscht"
+          },
+          {
+            "id": 73,
+            "infinitive": "anziehen",
+            "meaning_ar": "يرتدي / يلبس",
+            "perfekt_reference": "hat angezogen"
+          },
+          {
+            "id": 74,
+            "infinitive": "ausziehen",
+            "meaning_ar": "يخلع / ينتقل من السكن",
+            "perfekt_reference": "hat ausgezogen; movement-out sense often ist ausgezogen"
+          },
+          {
+            "id": 75,
+            "infinitive": "einkaufen",
+            "meaning_ar": "يتسوق / يشتري احتياجات",
+            "perfekt_reference": "hat eingekauft"
+          },
+          {
+            "id": 76,
+            "infinitive": "mieten",
+            "meaning_ar": "يستأجر",
+            "perfekt_reference": "hat gemietet"
+          },
+          {
+            "id": 77,
+            "infinitive": "umziehen",
+            "meaning_ar": "ينتقل إلى سكن جديد",
+            "perfekt_reference": "ist umgezogen"
+          },
+          {
+            "id": 78,
+            "infinitive": "anmelden",
+            "meaning_ar": "يسجّل / يشترك",
+            "perfekt_reference": "hat sich angemeldet"
+          },
+          {
+            "id": 79,
+            "infinitive": "ausfüllen",
+            "meaning_ar": "يملأ استمارة",
+            "perfekt_reference": "hat ausgefüllt"
+          },
+          {
+            "id": 80,
+            "infinitive": "unterschreiben",
+            "meaning_ar": "يوقّع",
+            "perfekt_reference": "hat unterschrieben"
+          },
+          {
+            "id": 81,
+            "infinitive": "verlieren",
+            "meaning_ar": "يفقد / يضيّع",
+            "perfekt_reference": "hat verloren"
+          },
+          {
+            "id": 82,
+            "infinitive": "benutzen",
+            "meaning_ar": "يستخدم",
+            "perfekt_reference": "hat benutzt"
+          },
+          {
+            "id": 83,
+            "infinitive": "wechseln",
+            "meaning_ar": "يغيّر / يبدّل",
+            "perfekt_reference": "hat gewechselt"
+          },
+          {
+            "id": 84,
+            "infinitive": "buchen",
+            "meaning_ar": "يحجز فندق/تذكرة",
+            "perfekt_reference": "hat gebucht"
+          },
+          {
+            "id": 85,
+            "infinitive": "reservieren",
+            "meaning_ar": "يحجز مكان/ترابيزة",
+            "perfekt_reference": "hat reserviert"
+          },
+          {
+            "id": 86,
+            "infinitive": "abholen",
+            "meaning_ar": "يستلم / يروح يجيب",
+            "perfekt_reference": "hat abgeholt"
+          },
+          {
+            "id": 87,
+            "infinitive": "zurückgeben",
+            "meaning_ar": "يرجّع / يعيد",
+            "perfekt_reference": "hat zurückgegeben"
+          },
+          {
+            "id": 88,
+            "infinitive": "mitbringen",
+            "meaning_ar": "يحضر معه",
+            "perfekt_reference": "hat mitgebracht"
+          },
+          {
+            "id": 89,
+            "infinitive": "vereinbaren",
+            "meaning_ar": "يحدد / يتفق على موعد",
+            "perfekt_reference": "hat vereinbart"
+          },
+          {
+            "id": 90,
+            "infinitive": "absagen",
+            "meaning_ar": "يلغي موعدًا",
+            "perfekt_reference": "hat abgesagt"
+          },
+          {
+            "id": 91,
+            "infinitive": "ankommen",
+            "meaning_ar": "يصل",
+            "perfekt_reference": "ist angekommen"
+          },
+          {
+            "id": 92,
+            "infinitive": "einsteigen",
+            "meaning_ar": "يركب / يصعد وسيلة مواصلات",
+            "perfekt_reference": "ist eingestiegen"
+          },
+          {
+            "id": 93,
+            "infinitive": "aussteigen",
+            "meaning_ar": "ينزل من وسيلة مواصلات",
+            "perfekt_reference": "ist ausgestiegen"
+          },
+          {
+            "id": 94,
+            "infinitive": "umsteigen",
+            "meaning_ar": "يغيّر / يبدّل وسيلة مواصلات",
+            "perfekt_reference": "ist umgestiegen"
+          },
+          {
+            "id": 95,
+            "infinitive": "einladen",
+            "meaning_ar": "يدعو",
+            "perfekt_reference": "hat eingeladen"
+          },
+          {
+            "id": 96,
+            "infinitive": "teilnehmen",
+            "meaning_ar": "يشارك / يحضر",
+            "perfekt_reference": "hat teilgenommen"
+          },
+          {
+            "id": 97,
+            "infinitive": "mitnehmen",
+            "meaning_ar": "يأخذ معه",
+            "perfekt_reference": "hat mitgenommen"
+          },
+          {
+            "id": 98,
+            "infinitive": "abgeben",
+            "meaning_ar": "يسلّم / يقدّم شيئًا",
+            "perfekt_reference": "hat abgegeben"
+          },
+          {
+            "id": 99,
+            "infinitive": "einschalten",
+            "meaning_ar": "يشغّل جهازًا / النور",
+            "perfekt_reference": "hat eingeschaltet"
+          },
+          {
+            "id": 100,
+            "infinitive": "ausschalten",
+            "meaning_ar": "يطفئ / يغلق جهازًا أو النور",
+            "perfekt_reference": "hat ausgeschaltet"
+          },
+          {
+            "id": 101,
+            "infinitive": "besuchen",
+            "meaning_ar": "يزور",
+            "perfekt_reference": "hat besucht"
+          },
+          {
+            "id": 102,
+            "infinitive": "erklären",
+            "meaning_ar": "يشرح",
+            "perfekt_reference": "hat erklärt"
+          },
+          {
+            "id": 103,
+            "infinitive": "vergessen",
+            "meaning_ar": "ينسى",
+            "perfekt_reference": "hat vergessen"
+          },
+          {
+            "id": 104,
+            "infinitive": "empfehlen",
+            "meaning_ar": "ينصح / يوصي",
+            "perfekt_reference": "hat empfohlen"
+          },
+          {
+            "id": 105,
+            "infinitive": "erreichen",
+            "meaning_ar": "يلحق / يصل إلى",
+            "perfekt_reference": "hat erreicht"
+          },
+          {
+            "id": 106,
+            "infinitive": "vorbereiten",
+            "meaning_ar": "يجهز / يحضّر",
+            "perfekt_reference": "hat vorbereitet"
+          },
+          {
+            "id": 107,
+            "infinitive": "sich entscheiden für",
+            "meaning_ar": "يقرر اختيار / يختار",
+            "perfekt_reference": "hat sich für ... entschieden"
+          },
+          {
+            "id": 108,
+            "infinitive": "stornieren",
+            "meaning_ar": "يلغي حجزًا / طلبًا",
+            "perfekt_reference": "hat storniert"
+          },
+          {
+            "id": 109,
+            "infinitive": "hoffen",
+            "meaning_ar": "يتمنى / يأمل",
+            "perfekt_reference": "hat gehofft"
+          },
+          {
+            "id": 110,
+            "infinitive": "sich erinnern",
+            "meaning_ar": "يتذكر / يفتكر",
+            "perfekt_reference": "hat sich erinnert"
+          },
+          {
+            "id": 111,
+            "infinitive": "beantragen",
+            "meaning_ar": "يقدّم طلب رسمي على حاجة",
+            "perfekt_reference": "hat beantragt"
+          },
+          {
+            "id": 112,
+            "infinitive": "verlängern",
+            "meaning_ar": "يمدّد / يجدّد مدة",
+            "perfekt_reference": "hat verlängert"
+          },
+          {
+            "id": 113,
+            "infinitive": "kündigen",
+            "meaning_ar": "يلغي عقد / يستقيل",
+            "perfekt_reference": "hat gekündigt"
+          },
+          {
+            "id": 114,
+            "infinitive": "umtauschen",
+            "meaning_ar": "يستبدل حاجة اشتراها",
+            "perfekt_reference": "hat umgetauscht"
+          },
+          {
+            "id": 115,
+            "infinitive": "erledigen",
+            "meaning_ar": "ينجز / يخلّص مهمة",
+            "perfekt_reference": "hat erledigt"
+          },
+          {
+            "id": 116,
+            "infinitive": "ablaufen",
+            "meaning_ar": "تنتهي مدة صلاحية / ينتهي موعد أو عقد",
+            "perfekt_reference": "ist abgelaufen"
+          },
+          {
+            "id": 117,
+            "infinitive": "verpassen",
+            "meaning_ar": "يفوّت قطارًا أو موعدًا",
+            "perfekt_reference": "hat verpasst"
+          },
+          {
+            "id": 118,
+            "infinitive": "reparieren",
+            "meaning_ar": "يصلّح",
+            "perfekt_reference": "hat repariert"
+          },
+          {
+            "id": 119,
+            "infinitive": "überweisen",
+            "meaning_ar": "يحوّل فلوس بنكياً",
+            "perfekt_reference": "hat überwiesen"
+          },
+          {
+            "id": 120,
+            "infinitive": "ausgeben",
+            "meaning_ar": "ينفق / يصرف فلوس",
+            "perfekt_reference": "hat ausgegeben"
+          },
+          {
+            "id": 121,
+            "infinitive": "verdienen",
+            "meaning_ar": "يكسب فلوس / يستحق",
+            "perfekt_reference": "hat verdient"
+          },
+          {
+            "id": 122,
+            "infinitive": "sparen",
+            "meaning_ar": "يوفّر / يحوش فلوس",
+            "perfekt_reference": "hat gespart"
+          },
+          {
+            "id": 123,
+            "infinitive": "einpacken",
+            "meaning_ar": "يحزم / يوضّب أمتعة",
+            "perfekt_reference": "hat eingepackt"
+          },
+          {
+            "id": 124,
+            "infinitive": "auspacken",
+            "meaning_ar": "يفرّغ أمتعة / يفك غلاف",
+            "perfekt_reference": "hat ausgepackt"
+          },
+          {
+            "id": 125,
+            "infinitive": "verbessern",
+            "meaning_ar": "يحسّن / يطوّر",
+            "perfekt_reference": "hat verbessert"
+          },
+          {
+            "id": 126,
+            "infinitive": "versprechen",
+            "meaning_ar": "يوعد",
+            "perfekt_reference": "hat versprochen"
+          },
+          {
+            "id": 127,
+            "infinitive": "erlauben",
+            "meaning_ar": "يسمح بـ / يصرّح",
+            "perfekt_reference": "hat erlaubt"
+          },
+          {
+            "id": 128,
+            "infinitive": "prüfen",
+            "meaning_ar": "يراجع / يفحص",
+            "perfekt_reference": "hat geprüft"
+          },
+          {
+            "id": 129,
+            "infinitive": "speichern",
+            "meaning_ar": "يحفظ ملف أو بيانات",
+            "perfekt_reference": "hat gespeichert"
+          },
+          {
+            "id": 130,
+            "infinitive": "drucken",
+            "meaning_ar": "يطبع",
+            "perfekt_reference": "hat gedruckt"
+          },
+          {
+            "id": 131,
+            "infinitive": "löschen",
+            "meaning_ar": "يمسح / يحذف",
+            "perfekt_reference": "hat gelöscht"
+          },
+          {
+            "id": 132,
+            "infinitive": "installieren",
+            "meaning_ar": "يثبّت برنامج",
+            "perfekt_reference": "hat installiert"
+          },
+          {
+            "id": 133,
+            "infinitive": "herunterladen",
+            "meaning_ar": "ينزّل ملف من الإنترنت",
+            "perfekt_reference": "hat heruntergeladen"
+          },
+          {
+            "id": 134,
+            "infinitive": "hochladen",
+            "meaning_ar": "يرفع ملف على الإنترنت",
+            "perfekt_reference": "hat hochgeladen"
+          },
+          {
+            "id": 135,
+            "infinitive": "verbinden",
+            "meaning_ar": "يوصّل / يربط",
+            "perfekt_reference": "hat verbunden"
+          },
+          {
+            "id": 136,
+            "infinitive": "trennen",
+            "meaning_ar": "يفصل",
+            "perfekt_reference": "hat getrennt"
+          },
+          {
+            "id": 137,
+            "infinitive": "vergleichen",
+            "meaning_ar": "يقارن",
+            "perfekt_reference": "hat verglichen"
+          }
+        ],
+        "dimensions": [
+          "infinitive_recall",
+          "perfekt_form_recall"
+        ],
+        "coverage": {
+          "infinitive_recall": {
+            "pool_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72,
+              73,
+              74,
+              75,
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86,
+              87,
+              88,
+              89,
+              90,
+              91,
+              92,
+              93,
+              94,
+              95,
+              96,
+              97,
+              98,
+              99,
+              100,
+              101,
+              102,
+              103,
+              104,
+              105,
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129,
+              130,
+              131,
+              132,
+              133,
+              134,
+              135,
+              136,
+              137
+            ],
+            "tested_ids": [],
+            "remaining_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72,
+              73,
+              74,
+              75,
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86,
+              87,
+              88,
+              89,
+              90,
+              91,
+              92,
+              93,
+              94,
+              95,
+              96,
+              97,
+              98,
+              99,
+              100,
+              101,
+              102,
+              103,
+              104,
+              105,
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129,
+              130,
+              131,
+              132,
+              133,
+              134,
+              135,
+              136,
+              137
+            ],
+            "retry_ids": []
+          },
+          "perfekt_form_recall": {
+            "pool_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72,
+              73,
+              74,
+              75,
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86,
+              87,
+              88,
+              89,
+              90,
+              91,
+              92,
+              93,
+              94,
+              95,
+              96,
+              97,
+              98,
+              99,
+              100,
+              101,
+              102,
+              103,
+              104,
+              105,
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129,
+              130,
+              131,
+              132,
+              133,
+              134,
+              135,
+              136,
+              137
+            ],
+            "tested_ids": [],
+            "remaining_ids": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72,
+              73,
+              74,
+              75,
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86,
+              87,
+              88,
+              89,
+              90,
+              91,
+              92,
+              93,
+              94,
+              95,
+              96,
+              97,
+              98,
+              99,
+              100,
+              101,
+              102,
+              103,
+              104,
+              105,
+              106,
+              107,
+              108,
+              109,
+              110,
+              111,
+              112,
+              113,
+              114,
+              115,
+              116,
+              117,
+              118,
+              119,
+              120,
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129,
+              130,
+              131,
+              132,
+              133,
+              134,
+              135,
+              136,
+              137
+            ],
+            "retry_ids": [],
+            "not_applicable": [
+              {
+                "verb_id": 31,
+                "reason": "möchten has no ordinary own Perfekt; preserve historical ID and assess registered form separately, no invented participle."
+              }
+            ]
+          }
+        },
+        "task_order": [
+          {
+            "verb_id": 80,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 1,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 2,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 45,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 80,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 24,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 25,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 9,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 1,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 46,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 32,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 27,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 3,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 12,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 22,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 9,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 4,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 48,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 48,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 3,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 26,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 40,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 8,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 24,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 6,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 50,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 23,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 47,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 20,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 34,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 30,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 11,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 10,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 5,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 14,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 21,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 41,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 42,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 46,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 5,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 43,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 25,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 41,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 29,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 34,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 27,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 30,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 2,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 18,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 15,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 14,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 39,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 50,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 8,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 32,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 12,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 18,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 4,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 15,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 11,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 10,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 7,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 17,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 23,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 44,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 42,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 13,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 16,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 33,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 20,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 45,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 33,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 19,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 13,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 39,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 47,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 17,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 16,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 28,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 44,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 29,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 31,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 6,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 40,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 21,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 7,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 19,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 28,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 22,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 26,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 43,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "infinitive_recall"
+          }
+        ],
+        "current_index": 0,
+        "current_item": {
+          "verb_id": 80,
+          "dimension": "infinitive_recall",
+          "exercise_id": "2026-10-11-S04-E01",
+          "prompt_ar": "يوقّع — على عقد أو ورقة.",
+          "requested_form": "infinitive",
+          "hint_used": false,
+          "learner_answer": null
+        },
+        "tested_ids": [],
+        "remaining_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137
+        ],
+        "retry_ids": [],
+        "attempts": [],
+        "outcome": "not_assessed",
+        "completion_policy": "All eligible forms require actual attempts; synonyms do not prove target-form recall; unsupported dimensions and retries remain separate.",
+        "next_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
+        "prior_paused_session_id": "2026-10-11-S03",
+        "prior_pending_exercise_id": "2026-10-11-S03-E14"
+      }
+    ]
+  }
 }

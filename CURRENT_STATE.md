@@ -118,3 +118,9 @@ S03-E13 produced correct hat ... erlaubt and meiner Schwester; repairs Meine Mut
 - S03 paused, no active session; day remains open with three sessions. 137 introduced verbs / 165 registered vocabulary entries.
 - Next: offer all nine choices. Option 3 resumes S03-E14 exactly: أنا راجعت الفاتورة امبارح، وبعد كده حفظت الملف. (Perfekt prüfen + speichern). New batch 128–137 has no learner attempts yet; older prompts preserved.
 - Prior local-only notes are historical; current upload authorized, remote verification follows saving.
+
+## Latest checkpoint — full verb recall, 2026-10-11 18:55 Berlin
+- Day open, four sessions; active 2026-10-11-S04, activity 2026-10-11-S04-A01. Explicit Full review → all verbs.
+- Snapshot all 137 introduced verbs; infinitive and eligible Perfekt form coverage separately, 0 answers so far. #31 möchten ordinary Perfekt not applicable. Exact randomized order and remaining/retry IDs in progress.recall_tracking.
+- Pending 2026-10-11-S04-E01: «يوقّع — على عقد أو ورقة.» — infinitive only; answer not revealed.
+- S03-E14 and earlier prompts preserved as paused. Totals unchanged: 137 verbs / 165 vocabulary entries; oral modes unchanged.
