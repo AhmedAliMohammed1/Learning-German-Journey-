@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**165 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**167 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -171,6 +171,8 @@
 | V163 | der Mieter | die Mieter | المستأجر | noun | introduced |
 | V164 | die Datei | die Dateien | الملف | noun | introduced |
 | V165 | das Programm | die Programme | البرنامج | noun | introduced |
+| V166 | der Kollege | die Kollegen | الزميل في الشغل | noun | practicing |
+| V167 | der Fehler | die Fehler | الغلط / الخطأ | noun | introduced |
 
 ## Learning notes
 

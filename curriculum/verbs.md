@@ -135,8 +135,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 125 | verbessern | يحسّن / يطوّر | ich verbessere | hat verbessert | Ich lerne fleißig, um mein Deutsch zu verbessern. | practicing | inseparable; + Akk |
 | 126 | versprechen | يوعد | ich verspreche / er verspricht | hat versprochen | Mein Bruder verspricht mir, dass er kommt. | practicing | inseparable; e -> i; + Dat (person) + Akk / dass |
 | 127 | erlauben | يسمح بـ / يصرّح | ich erlaube | hat erlaubt | Der Chef erlaubt mir, früher zu gehen. | practicing | + Dat (person) + Akk / Infinitiv mit zu |
-| 128 | prüfen | يراجع / يفحص | ich prüfe; er prüft | hat geprüft | Ich prüfe die Rechnung. | introduced | + Akk; regular |
-| 129 | speichern | يحفظ ملف أو بيانات | ich speichere; er speichert | hat gespeichert | Ich speichere die Datei. | introduced | + Akk; regular |
+| 128 | prüfen | يراجع / يفحص | ich prüfe; er prüft | hat geprüft | Ich prüfe die Rechnung. | practicing | + Akk; regular |
+| 129 | speichern | يحفظ ملف أو بيانات | ich speichere; er speichert | hat gespeichert | Ich speichere die Datei. | practicing | + Akk; regular |
 | 130 | drucken | يطبع | ich drucke; er druckt | hat gedruckt | Ich drucke die Unterlagen. | introduced | + Akk; regular |
 | 131 | löschen | يمسح / يحذف | ich lösche; er löscht | hat gelöscht | Ich lösche die Nachricht. | introduced | + Akk; regular |
 | 132 | installieren | يثبّت برنامج | ich installiere; er installiert | hat installiert | Ich installiere das Programm. | introduced | + Akk; -ieren, no ge- |

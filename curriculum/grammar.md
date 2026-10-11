@@ -462,3 +462,6 @@ S03-E02: independent correct obwohl clause-final ist, main clause finite hat aft
 
 ## Checkpoint 2026-10-11 S03-E10
 S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbessere ich. Quantity form wenig Zeit and lowercase ich corrections separate; no mastery promotion.
+
+## Reading S05-E02 — 2026-10-11
+- zeigen + Dativ person + Akk thing: ihrem Kollegen die Datei. No mit for recipient; Kollege is weak masculine (Dativ Kollegen). Learner original and correction in day log. hat ... gezeigt correct; fresh transfer pending, no mastery.

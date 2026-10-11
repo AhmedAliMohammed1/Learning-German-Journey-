@@ -468,3 +468,10 @@ S03-E12 used Präsens erlaubt instead of requested Perfekt hat ... erlaubt after
 
 ## Checkpoint 2026-10-11 S03-E13 and progression
 S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Meine Mutter and the natural infinitive group das Auto zu benutzen need repair. Progress to next batch; embed possessive gender, tense and infinitive-group review, not extended review blockage.
+
+## Reading S05-E02 — 2026-10-11
+- zeigen recipient + Dativ: original mit einem Kollege needs ihrem Kollegen for intended recipient; even mit einem requires Kollegen (-n). Related existing M15; no new pattern ID. Perfekt hat ... gezeigt correct.
+- Text-detail Datei versus Unterlagen repaired again; comprehension/lexical selection separate from Perfekt grammar. Next fresh transfer S05-E03.
+
+## Reading S05-E03 — 2026-10-11
+- Fresh transfer correctly uses zeigen + Dativ recipient without mit: seinem Freund das Bild. Positive M15 evidence after E02; one success does not promote mastery. Kollege form not produced (Freund substituted), gestern omitted; keep semantic detail separate from correct grammar.

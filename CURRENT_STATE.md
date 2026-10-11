@@ -130,3 +130,29 @@ Independent correct isolated infinitive recall for #80 unterschreiben. Coverage:
 
 ## Full recall checkpoint — S04-E02
 gewesen participle independently correct; full reference needs ist gewesen. Infinitive 1/137 tested, Perfekt 1/136 tested; retry #1 auxiliary+participle later, delayed retest due 2026-10-12. Next S04-E03 «عنده / يملك.» — infinitive only. No contextual/oral mastery inferred; active S04-A01, day open, older work preserved.
+
+## Latest checkpoint — 2026-10-11T19:06:12+02:00 — reading selected
+- Day open, five sessions; active 2026-10-11-S05, activity 2026-10-11-S05-A01. S04 recall paused exactly at E03 (عنده / يملك — infinitive), coverage and retries preserved.
+- New written passage **Eine Datei für den Chef**, first question **Was hat die Schwester zuerst mit der Datei gemacht?** awaits a full German answer. Zero attempts or new assessment changes.
+- New V166 der Kollege / die Kollegen; totals **137 introduced verbs / 167 registered vocabulary entries**. Earlier work and due retests preserved.
+- Saved locally; GitHub synchronization pending because remote refresh was unavailable.
+
+- Passage also introduces V167 der Fehler / die Fehler, unassessed; final vocabulary count 167.
+
+## Reading checkpoint — 2026-10-11-S05-E01
+- Correct Perfekt geprüft / gespeichert; text-detail repair Unterlagen → Datei. Comprehension and grammar outcomes stored separately; visible source, no audio assessment.
+- Next 2026-10-11-S05-E02: Wem hat die Schwester bei der Arbeit die Datei gezeigt? Counts 137 verbs / 167 vocabulary entries; day open, S05 active. Saved locally; remote sync pending.
+
+## Reading checkpoint — S05-E02
+- hat ... gezeigt correct; Dativ recipient without mit and Kollegen -n need repair. Datei/Unterlagen text-detail confusion repeated; V166 practicing, lexical recall and form accuracy separated.
+- Next S05-E03 fresh transfer: أخويا ورّى زميله الصورة امبارح. Then resume comprehension. 137 verbs / 167 vocabulary entries; open S05; local save, GitHub pending.
+
+## Reading checkpoint — S05-E03
+- Correct Dativ recipient without mit, hat ... gezeigt and das Bild in fresh transfer. Freund replaces requested Kollege, gestern omitted; Kollegen n-declension remains untested in this answer.
+- Next S05-E04: Warum hat die Schwester die Datei verbessert? Counts unchanged 137 / 167; open S05, local save, GitHub sync pending.
+
+## Latest closed checkpoint — 2026-10-11T19:22:03+02:00
+- **2026-10-11 closed**, five sessions; current_session_id null. Learner stopped because they felt unfocused; no new exercise fabricated. S05 reading activity paused/incomplete.
+- **137 introduced verbs / 167 registered vocabulary entries**. Three S05 answers with separate grammar/comprehension evidence: Perfekt correct; Dativ recipient improved in fresh transfer; precise text details, Kollegen and omitted gestern unresolved. No oral/listening assessment.
+- Next: offer nine choices. Continue reading at **S05-E04: Warum hat die Schwester die Datei verbessert?** — full answer with weil. S04 recall at E03 «عنده / يملك» and S03-E14 plus older pending work preserved.
+- Reading retests due 2026-10-12; earlier due tests remain unresolved. Main upload authorized; verify remote after saving.

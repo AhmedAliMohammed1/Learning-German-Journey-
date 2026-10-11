@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-11",
-  "last_updated_at": "2026-10-11T18:59:38+02:00",
+  "last_updated_at": "2026-10-11T19:22:03+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-11",
   "latest_day": "2026-10-11",
-  "day_status": "open",
-  "current_session_id": "2026-10-11-S04",
-  "sessions_recorded": 22,
-  "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "Full isolated verb recall — all 137 introduced verbs",
-  "next_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
+  "day_status": "closed",
+  "current_session_id": null,
+  "sessions_recorded": 23,
+  "last_verified_study_at": "2026-10-11T19:18:39+02:00",
+  "active_topic": "Reading: Eine Datei für den Chef",
+  "next_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1446,6 +1446,16 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
+    },
+    {
+      "id": "2026-10-11-S05-E04",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "activity": "reading",
+      "prompt_de": "Warum hat die Schwester die Datei verbessert?",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null
     }
   ],
   "completed_exercise_ids": [
@@ -1818,7 +1828,10 @@
     "2026-10-11-S03-E12",
     "2026-10-11-S03-E13",
     "2026-10-11-S04-E01",
-    "2026-10-11-S04-E02"
+    "2026-10-11-S04-E02",
+    "2026-10-11-S05-E01",
+    "2026-10-11-S05-E02",
+    "2026-10-11-S05-E03"
   ],
   "verbs": {
     "learned_total": 137,
@@ -6473,12 +6486,22 @@
         "meaning_ar": "يراجع / يفحص",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "exercise_id": "2026-10-11-S05-E01",
+            "mode": "reading",
+            "date": "2026-10-11",
+            "kind": "Perfekt_context",
+            "independent": true,
+            "source_passage_visible": true,
+            "note": "Correct Perfekt form with visible source; text-detail repair separate."
+          }
+        ],
         "praesens_reference": "ich prüfe; er prüft",
         "perfekt_reference": "hat geprüft",
         "usage_note": "+ Akk; regular",
@@ -6487,7 +6510,10 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-11-S05-E01"
+            ]
           }
         },
         "example_reference": "Ich prüfe die Rechnung.",
@@ -6499,12 +6525,22 @@
         "meaning_ar": "يحفظ ملف أو بيانات",
         "introduced": true,
         "introduction_date": "2026-10-11",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
-        "evidence": [],
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-11",
+        "evidence": [
+          {
+            "exercise_id": "2026-10-11-S05-E01",
+            "mode": "reading",
+            "date": "2026-10-11",
+            "kind": "Perfekt_context",
+            "independent": true,
+            "source_passage_visible": true,
+            "note": "Correct Perfekt form with visible source; text-detail repair separate."
+          }
+        ],
         "praesens_reference": "ich speichere; er speichert",
         "perfekt_reference": "hat gespeichert",
         "usage_note": "+ Akk; regular",
@@ -6513,7 +6549,10 @@
             "status": "not_assessed"
           },
           "Perfekt": {
-            "status": "not_assessed"
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-11-S05-E01"
+            ]
           }
         },
         "example_reference": "Ich speichere die Datei.",
@@ -7100,7 +7139,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 165,
+    "registered_entries_count": 167,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -10360,6 +10399,48 @@
         "independent_correct": 0,
         "evidence": [],
         "usage_example": "Ich installiere das Programm."
+      },
+      {
+        "id": "V166",
+        "german": "der Kollege",
+        "article": "der",
+        "plural": "die Kollegen",
+        "meaning_ar": "الزميل في الشغل",
+        "type": "noun",
+        "status": "practicing",
+        "introduced_on": "2026-10-11",
+        "source": "2026-10-11-S05-A01",
+        "recorded_attempts": 1,
+        "independent_correct": 0,
+        "evidence": [
+          {
+            "exercise_id": "2026-10-11-S05-E02",
+            "date": "2026-10-11",
+            "kind": "reading_production",
+            "source_passage_visible": true,
+            "lexical_outcome": "independent_correct",
+            "form_outcome": "needs_retry",
+            "note": "Kollege recalled; Dativ -n omitted; recipient construction repair separate."
+          }
+        ],
+        "usage_example": "Ich zeige meinem Kollegen die Datei.",
+        "usage_note": "N-declension: meinem Kollegen; no learner attempt yet.",
+        "last_reviewed": "2026-10-11"
+      },
+      {
+        "id": "V167",
+        "german": "der Fehler",
+        "article": "der",
+        "plural": "die Fehler",
+        "meaning_ar": "الغلط / الخطأ",
+        "type": "noun",
+        "status": "introduced",
+        "introduced_on": "2026-10-11",
+        "source": "2026-10-11-S05-A01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "evidence": [],
+        "usage_example": "Ich finde einen Fehler in der Datei."
       }
     ]
   },
@@ -12188,8 +12269,8 @@
     }
   },
   "latest_study_date": "2026-10-11",
-  "latest_study_state": "open",
-  "next_suggested_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
+  "latest_study_state": "closed",
+  "next_suggested_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -12552,6 +12633,23 @@
       "activity_id": "2026-10-11-S04-A01",
       "event": "full_verb_recall_started",
       "note": "Explicit Full review → all verbs selection. Snapshot all 137 IDs and eligible tense/form coverage; first prompt only, zero attempts. S03 E14 remains paused."
+    },
+    {
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:06:12+02:00",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "event": "reading_started",
+      "note": "Explicit option 8. S04 paused with exact E03 and all coverage preserved. V166 introduced; passage and first question presented; zero answers or assessment changes."
+    },
+    {
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:22:03+02:00",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "event": "day_closed",
+      "learner_request": "كفايه كدا انا حاسس اني مش مركز اقفل اليوم انهردا و ارفع علي ال main branch",
+      "note": "Session ended on explicit request; incomplete reading activity paused at E04. No answer or completion fabricated; all earlier work and retests preserved. Main branch upload explicitly authorized."
     }
   ],
   "exercise_results": [
@@ -16197,6 +16295,84 @@
       "copied": false,
       "contextual_grammar_assessed": false,
       "actual_audio_assessed": false
+    },
+    {
+      "exercise_id": "2026-10-11-S05-E01",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:12:39+02:00",
+      "mode": "reading",
+      "prompt_de": "Was hat die Schwester zuerst mit der Datei gemacht?",
+      "learner_answer": "Sie hat zuerst die Unterlagen geprüft und gespeichert ",
+      "correction": "Sie hat zuerst die Datei geprüft und gespeichert.",
+      "result": "needs_correction_text_detail",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "source_passage_visible": true,
+      "actual_audio_assessed": false,
+      "dimension_outcomes": {
+        "comprehension": "needs_retry",
+        "german_production": "independent_correct",
+        "grammar": "independent_correct",
+        "vocabulary": "needs_retry"
+      },
+      "note": "Correct Perfekt; text-detail Datei not Unterlagen; visible passage, not isolated recall."
+    },
+    {
+      "exercise_id": "2026-10-11-S05-E02",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:16:18+02:00",
+      "mode": "reading",
+      "prompt_de": "Wem hat die Schwester bei der Arbeit die Datei gezeigt?",
+      "learner_answer": "Sie hat die Unterlagen mit einem Kollege gezeigt  ",
+      "correction": "Sie hat ihrem Kollegen die Datei gezeigt.",
+      "result": "needs_correction_recipient_case_and_text_detail",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "source_passage_visible": true,
+      "actual_audio_assessed": false,
+      "dimension_outcomes": {
+        "comprehension": "needs_retry",
+        "german_production": "needs_retry",
+        "grammar": "needs_retry",
+        "vocabulary": "needs_retry"
+      },
+      "positive_evidence": [
+        "hat ... gezeigt independently correct",
+        "Kollege lexical meaning recalled"
+      ],
+      "note": "Recipient requires Dativ without mit: ihrem Kollegen. Even with mit, einem Kollegen needs -n. Text says Datei not Unterlagen. No new global mistake or mastery claim."
+    },
+    {
+      "exercise_id": "2026-10-11-S05-E03",
+      "session_id": "2026-10-11-S05",
+      "activity_id": "2026-10-11-S05-A01",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:18:39+02:00",
+      "mode": "reading",
+      "task_type": "fresh_translation_transfer",
+      "prompt_ar": "أخويا ورّى زميله الصورة امبارح.",
+      "learner_answer": "Mein Bruder hat seinem Freund das Bild gezeigt",
+      "correction": "Mein Bruder hat seinem Kollegen gestern das Bild gezeigt.",
+      "result": "correct_grammar_semantic_and_detail_repair",
+      "independent": true,
+      "hint_used": false,
+      "related_correction_visible": true,
+      "copied": false,
+      "source_passage_visible": true,
+      "actual_audio_assessed": false,
+      "dimension_outcomes": {
+        "comprehension": "not_assessed",
+        "german_production": "needs_retry",
+        "grammar": "independent_correct",
+        "vocabulary": "needs_retry"
+      },
+      "note": "Fresh subject/object, no new cue. Correct hat ... gezeigt and seinem Freund + das Bild without mit. Freund means friend, not requested colleague; gestern missing. Kollege n-declension not produced, so not assessed as correct. Related model visible; no overall mastery."
     }
   ],
   "skill_tracking": {
@@ -16329,17 +16505,17 @@
       "status": "practicing",
       "trend": "initial_evidence",
       "assessment_basis": "Six typed German answers to reading passage and fresh transfer",
-      "last_practiced_on": "2026-10-10",
-      "last_assessed_on": "2026-10-10",
-      "pending_activity_id": null,
+      "last_practiced_on": "2026-10-11",
+      "last_assessed_on": "2026-10-11",
+      "pending_activity_id": "2026-10-11-S05-A01",
       "dimensions": {
         "comprehension": {
           "status": "practicing",
-          "recorded_attempts": 14,
+          "recorded_attempts": 16,
           "independent_correct": 11,
           "correct_with_support": 0,
-          "needs_retry": 3,
-          "last_assessed_on": "2026-10-10",
+          "needs_retry": 5,
+          "last_assessed_on": "2026-10-11",
           "evidence_ids": [
             "2026-10-10-S04-E01",
             "2026-10-10-S04-E02",
@@ -16354,16 +16530,18 @@
             "2026-10-10-S05-E05",
             "2026-10-10-S05-E06",
             "2026-10-10-S05-E07",
-            "2026-10-10-S05-E08"
+            "2026-10-10-S05-E08",
+            "2026-10-11-S05-E01",
+            "2026-10-11-S05-E02"
           ]
         },
         "german_production": {
           "status": "practicing",
-          "recorded_attempts": 14,
-          "independent_correct": 5,
+          "recorded_attempts": 17,
+          "independent_correct": 6,
           "correct_with_support": 0,
-          "needs_retry": 9,
-          "last_assessed_on": "2026-10-10",
+          "needs_retry": 11,
+          "last_assessed_on": "2026-10-11",
           "evidence_ids": [
             "2026-10-10-S04-E01",
             "2026-10-10-S04-E02",
@@ -16378,16 +16556,19 @@
             "2026-10-10-S05-E05",
             "2026-10-10-S05-E06",
             "2026-10-10-S05-E07",
-            "2026-10-10-S05-E08"
+            "2026-10-10-S05-E08",
+            "2026-10-11-S05-E01",
+            "2026-10-11-S05-E02",
+            "2026-10-11-S05-E03"
           ]
         },
         "grammar": {
           "status": "practicing",
-          "recorded_attempts": 14,
-          "independent_correct": 5,
+          "recorded_attempts": 17,
+          "independent_correct": 7,
           "correct_with_support": 0,
-          "needs_retry": 9,
-          "last_assessed_on": "2026-10-10",
+          "needs_retry": 10,
+          "last_assessed_on": "2026-10-11",
           "evidence_ids": [
             "2026-10-10-S04-E01",
             "2026-10-10-S04-E02",
@@ -16402,16 +16583,19 @@
             "2026-10-10-S05-E05",
             "2026-10-10-S05-E06",
             "2026-10-10-S05-E07",
-            "2026-10-10-S05-E08"
+            "2026-10-10-S05-E08",
+            "2026-10-11-S05-E01",
+            "2026-10-11-S05-E02",
+            "2026-10-11-S05-E03"
           ]
         },
         "vocabulary": {
           "status": "practicing",
-          "recorded_attempts": 14,
+          "recorded_attempts": 17,
           "independent_correct": 5,
           "correct_with_support": 0,
-          "needs_retry": 9,
-          "last_assessed_on": "2026-10-10",
+          "needs_retry": 12,
+          "last_assessed_on": "2026-10-11",
           "evidence_ids": [
             "2026-10-10-S04-E01",
             "2026-10-10-S04-E02",
@@ -16426,7 +16610,10 @@
             "2026-10-10-S05-E05",
             "2026-10-10-S05-E06",
             "2026-10-10-S05-E07",
-            "2026-10-10-S05-E08"
+            "2026-10-10-S05-E08",
+            "2026-10-11-S05-E01",
+            "2026-10-11-S05-E02",
+            "2026-10-11-S05-E03"
           ]
         }
       },
@@ -16469,10 +16656,148 @@
             "2026-10-10-S05-E08"
           ],
           "delayed_retention_confirmed": false
+        },
+        {
+          "id": "2026-10-11-S05-A01",
+          "session_id": "2026-10-11-S05",
+          "mode": "reading",
+          "target": "File preparation: comprehension, sequence, Perfekt, obwohl and Dativ recipient",
+          "goals": [
+            "Understand the sequence and reason for correction",
+            "Produce full German answers",
+            "Use Kollege in fresh context",
+            "Retest Wo/Wohin in a fresh sentence after comprehension"
+          ],
+          "difficulty_basis": "Prior reading mixed independent/supported answers; familiar cases and obwohl, recently introduced file verbs; two new nouns. Due reading retests retained.",
+          "input_modality": "written_passage",
+          "output_modality": "typed",
+          "actual_audio_assessed": false,
+          "transcript_visibility": "written passage visible",
+          "title": "Eine Datei für den Chef",
+          "passage": "Gestern hat meine Schwester eine Datei für ihren Chef vorbereitet. Obwohl sie wenig Zeit hatte, hat sie die Datei geprüft und gespeichert. Danach hat sie die Unterlagen gedruckt und in ihre Tasche gelegt. Bei der Arbeit hat sie ihrem Kollegen die Datei gezeigt. Der Kollege hat einen Fehler gefunden. Deshalb hat meine Schwester die Datei verbessert und ihrem Chef geschickt. Heute dankt ihr der Chef: Die Unterlagen sind jetzt besser.",
+          "vocabulary_ids": [
+            "V166",
+            "V167"
+          ],
+          "verb_ids": [
+            106,
+            128,
+            129,
+            130,
+            52,
+            20,
+            27,
+            125,
+            64,
+            18
+          ],
+          "grammar_topics": [
+            "Perfekt",
+            "obwohl",
+            "Dativ recipient + Akk object",
+            "Wo/Wohin"
+          ],
+          "status": "paused",
+          "started_at": "2026-10-11T19:06:12+02:00",
+          "attempts": [
+            "2026-10-11-S05-E01",
+            "2026-10-11-S05-E02",
+            "2026-10-11-S05-E03"
+          ],
+          "immediate_independent_success": false,
+          "delayed_retention_confirmed": false,
+          "dimension_outcomes": {
+            "comprehension": "not_assessed",
+            "german_production": "needs_retry",
+            "grammar": "independent_correct",
+            "vocabulary": "needs_retry"
+          },
+          "continuation": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
+          "paused_at": "2026-10-11T19:22:03+02:00",
+          "pause_reason": "Learner reports not concentrating and explicitly closes today; activity incomplete."
         }
       ],
-      "evidence": [],
-      "next_action": "New story or future reading retest; no oral or listening assessment."
+      "evidence": [
+        {
+          "exercise_id": "2026-10-11-S05-E01",
+          "session_id": "2026-10-11-S05",
+          "activity_id": "2026-10-11-S05-A01",
+          "date": "2026-10-11",
+          "timestamp": "2026-10-11T19:12:39+02:00",
+          "mode": "reading",
+          "prompt_de": "Was hat die Schwester zuerst mit der Datei gemacht?",
+          "learner_answer": "Sie hat zuerst die Unterlagen geprüft und gespeichert ",
+          "correction": "Sie hat zuerst die Datei geprüft und gespeichert.",
+          "result": "needs_correction_text_detail",
+          "independent": true,
+          "hint_used": false,
+          "copied": false,
+          "source_passage_visible": true,
+          "actual_audio_assessed": false,
+          "dimension_outcomes": {
+            "comprehension": "needs_retry",
+            "german_production": "independent_correct",
+            "grammar": "independent_correct",
+            "vocabulary": "needs_retry"
+          },
+          "note": "Correct Perfekt; text-detail Datei not Unterlagen; visible passage, not isolated recall."
+        },
+        {
+          "exercise_id": "2026-10-11-S05-E02",
+          "session_id": "2026-10-11-S05",
+          "activity_id": "2026-10-11-S05-A01",
+          "date": "2026-10-11",
+          "timestamp": "2026-10-11T19:16:18+02:00",
+          "mode": "reading",
+          "prompt_de": "Wem hat die Schwester bei der Arbeit die Datei gezeigt?",
+          "learner_answer": "Sie hat die Unterlagen mit einem Kollege gezeigt  ",
+          "correction": "Sie hat ihrem Kollegen die Datei gezeigt.",
+          "result": "needs_correction_recipient_case_and_text_detail",
+          "independent": true,
+          "hint_used": false,
+          "copied": false,
+          "source_passage_visible": true,
+          "actual_audio_assessed": false,
+          "dimension_outcomes": {
+            "comprehension": "needs_retry",
+            "german_production": "needs_retry",
+            "grammar": "needs_retry",
+            "vocabulary": "needs_retry"
+          },
+          "positive_evidence": [
+            "hat ... gezeigt independently correct",
+            "Kollege lexical meaning recalled"
+          ],
+          "note": "Recipient requires Dativ without mit: ihrem Kollegen. Even with mit, einem Kollegen needs -n. Text says Datei not Unterlagen. No new global mistake or mastery claim."
+        },
+        {
+          "exercise_id": "2026-10-11-S05-E03",
+          "session_id": "2026-10-11-S05",
+          "activity_id": "2026-10-11-S05-A01",
+          "date": "2026-10-11",
+          "timestamp": "2026-10-11T19:18:39+02:00",
+          "mode": "reading",
+          "task_type": "fresh_translation_transfer",
+          "prompt_ar": "أخويا ورّى زميله الصورة امبارح.",
+          "learner_answer": "Mein Bruder hat seinem Freund das Bild gezeigt",
+          "correction": "Mein Bruder hat seinem Kollegen gestern das Bild gezeigt.",
+          "result": "correct_grammar_semantic_and_detail_repair",
+          "independent": true,
+          "hint_used": false,
+          "related_correction_visible": true,
+          "copied": false,
+          "source_passage_visible": true,
+          "actual_audio_assessed": false,
+          "dimension_outcomes": {
+            "comprehension": "not_assessed",
+            "german_production": "needs_retry",
+            "grammar": "independent_correct",
+            "vocabulary": "needs_retry"
+          },
+          "note": "Fresh subject/object, no new cue. Correct hat ... gezeigt and seinem Freund + das Bild without mit. Freund means friend, not requested colleague; gestern missing. Kollege n-declension not produced, so not assessed as correct. Related model visible; no overall mastery."
+        }
+      ],
+      "next_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review."
     },
     "listening": {
       "status": "not_assessed",
@@ -16780,6 +17105,35 @@
       "evidence_ids": [
         "2026-10-11-S04-E02"
       ]
+    },
+    {
+      "id": "2026-10-11-reading-file-sequence",
+      "target_key": "reading_file_sequence_datei_unterlagen",
+      "mode": "reading",
+      "activity_id": "2026-10-11-S05-A01",
+      "target": "Distinguish Datei and Unterlagen, Perfekt sequence in a fresh text",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "grammar_correct_text_detail_repair",
+      "evidence_ids": [
+        "2026-10-11-S05-E01"
+      ]
+    },
+    {
+      "id": "2026-10-11-reading-kollege-dativ",
+      "target_key": "reading_kollege_dativ_recipient",
+      "mode": "reading",
+      "activity_id": "2026-10-11-S05-A01",
+      "target": "zeigen + Dativ recipient; Kollegen singular oblique form",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "Dativ_recipient_transfer_correct_Kollege_form_not_produced",
+      "evidence_ids": [
+        "2026-10-11-S05-E02",
+        "2026-10-11-S05-E03"
+      ]
     }
   ],
   "adaptive_learning": {
@@ -16955,29 +17309,12 @@
     },
     "latest_decision": {
       "date": "2026-10-11",
-      "session_id": "2026-10-11-S03",
-      "reason": "All verbs 118–127 received actual contextual practice. Progression-first: do not block on one weak pattern; introduce next ten and embed tense, cases, adjective/gender and clause-order review.",
-      "evidence_ids": [
-        "2026-10-11-S03-E01",
-        "2026-10-11-S03-E02",
-        "2026-10-11-S03-E03",
-        "2026-10-11-S03-E04",
-        "2026-10-11-S03-E05",
-        "2026-10-11-S03-E06",
-        "2026-10-11-S03-E07",
-        "2026-10-11-S03-E08",
-        "2026-10-11-S03-E09",
-        "2026-10-11-S03-E10",
-        "2026-10-11-S03-E11",
-        "2026-10-11-S03-E12",
-        "2026-10-11-S03-E13"
-      ],
-      "practice_balance": "roughly 70% new / 30% embedded review",
-      "deferred_work_preserved": true
+      "activity_id": "2026-10-11-S05-A01",
+      "reason": "Stop immediately on learner request because concentration is low. Preserve E04; resume gently after chosen mode. Three reading/transfer responses show correct Perfekt in all, correct recipient Dativ in fresh transfer after error, but text-detail selection and colleague form remain unresolved; no mastery or oral inference."
     }
   },
   "feature_config_updated_on": "2026-10-09",
-  "closed_at": null,
+  "closed_at": "2026-10-11T19:22:03+02:00",
   "october_08_checkpoint": {
     "day_file": "days/2026-10-08.md",
     "status": "closed",
@@ -16996,7 +17333,7 @@
     "vocabulary_registered": 138,
     "learned_verbs_at_checkpoint": 105
   },
-  "last_verified_study_on": "2026-10-09",
+  "last_verified_study_on": "2026-10-11",
   "reconciliation_notes": [
     {
       "date": "2026-10-09",
@@ -17005,9 +17342,9 @@
     }
   ],
   "current_review_scope": "all_introduced_verbs_infinitive_and_perfekt",
-  "paused_session_id": "2026-10-11-S03",
+  "paused_session_id": "2026-10-11-S05",
   "recall_tracking": {
-    "active_activity_id": "2026-10-11-S04-A01",
+    "active_activity_id": null,
     "activities": [
       {
         "id": "2026-10-11-S04-A01",
@@ -17015,7 +17352,7 @@
         "mode": "isolated_recall",
         "recall_type": "verbs",
         "scope": "all",
-        "status": "active",
+        "status": "paused",
         "started_at": "2026-10-11T18:55:04+02:00",
         "pool_ids": [
           1,
@@ -19855,7 +20192,9 @@
         "completion_policy": "All eligible forms require actual attempts; synonyms do not prove target-form recall; unsupported dimensions and retries remain separate.",
         "next_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
         "prior_paused_session_id": "2026-10-11-S03",
-        "prior_pending_exercise_id": "2026-10-11-S03-E14"
+        "prior_pending_exercise_id": "2026-10-11-S03-E14",
+        "paused_at": "2026-10-11T19:06:12+02:00",
+        "pause_reason": "Learner selected reading mode; exact E03 and coverage preserved."
       }
     ]
   }
