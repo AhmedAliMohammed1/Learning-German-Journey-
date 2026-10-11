@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-11",
-  "last_updated_at": "2026-10-11T18:55:04+02:00",
+  "last_updated_at": "2026-10-11T18:57:24+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -23,7 +23,7 @@
   "sessions_recorded": 22,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
   "active_topic": "Full isolated verb recall — all 137 introduced verbs",
-  "next_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
+  "next_action": "Await Perfekt reference form for يكون; no German answer shown.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1407,6 +1407,23 @@
       "dimension": "infinitive_recall",
       "requested_form": "infinitive",
       "prompt_ar": "يوقّع — على عقد أو ورقة.",
+      "status": "completed",
+      "hint_used": false,
+      "learner_answer": "unterschreiben ",
+      "corrected_answer": "unterschreiben",
+      "result": "independent_correct",
+      "independent": true
+    },
+    {
+      "id": "2026-10-11-S04-E02",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "activity": "full_verb_isolated_recall",
+      "evidence_kind": "isolated_recall",
+      "verb_id": 1,
+      "dimension": "perfekt_form_recall",
+      "requested_form": "third_person_auxiliary_plus_participle",
+      "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -1780,7 +1797,8 @@
     "2026-10-11-S03-E10",
     "2026-10-11-S03-E11",
     "2026-10-11-S03-E12",
-    "2026-10-11-S03-E13"
+    "2026-10-11-S03-E13",
+    "2026-10-11-S04-E01"
   ],
   "verbs": {
     "learned_total": 137,
@@ -4381,6 +4399,16 @@
             "independent": true,
             "correct": true,
             "note": "unterschreiben itself correct; article/case errors in temporal and object phrases were separate."
+          },
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S04",
+            "exercise_id": "2026-10-11-S04-E01",
+            "kind": "isolated_recall",
+            "dimension": "infinitive_recall",
+            "independent": true,
+            "correct": true,
+            "note": "Independent lemma recall only; no present-context, Perfekt or oral assessment."
           }
         ],
         "meaning_ar": "يوقّع",
@@ -4392,7 +4420,20 @@
         "perfekt_reference": "hat unterschrieben",
         "example_reference": "Ich unterschreibe den Mietvertrag.",
         "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true
+        "reference_is_teaching_information": true,
+        "isolated_recall": {
+          "infinitive_recall": {
+            "status": "practicing",
+            "recorded_attempts": 1,
+            "independent_correct": 1,
+            "correct_with_support": 0,
+            "needs_retry": 0,
+            "last_assessed_on": "2026-10-11",
+            "evidence_ids": [
+              "2026-10-11-S04-E01"
+            ]
+          }
+        }
       },
       {
         "id": 81,
@@ -12100,7 +12141,7 @@
   },
   "latest_study_date": "2026-10-11",
   "latest_study_state": "open",
-  "next_suggested_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
+  "next_suggested_action": "Await Perfekt reference form for يكون; no German answer shown.",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -16065,6 +16106,26 @@
       "independent": true,
       "hint_used": false,
       "note": "Fresh changed-context answer without new hint: correctly produced hat ... erlaubt and Dativ meiner Schwester. Feminine subject requires Meine Mutter. Neutral infinitive group is das Auto zu benutzen after erlaubt; keep the direct object with benutzen. Construction still practicing, no delayed retention claim."
+    },
+    {
+      "exercise_id": "2026-10-11-S04-E01",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:57:24+02:00",
+      "mode": "isolated_recall",
+      "evidence_kind": "isolated_recall",
+      "verb_id": 80,
+      "dimension": "infinitive_recall",
+      "prompt_ar": "يوقّع — على عقد أو ورقة.",
+      "learner_answer": "unterschreiben ",
+      "correction": "unterschreiben",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "contextual_grammar_assessed": false,
+      "actual_audio_assessed": false
     }
   ],
   "skill_tracking": {
@@ -17979,7 +18040,9 @@
               136,
               137
             ],
-            "tested_ids": [],
+            "tested_ids": [
+              80
+            ],
             "remaining_ids": [
               1,
               2,
@@ -18060,7 +18123,6 @@
               77,
               78,
               79,
-              80,
               81,
               82,
               83,
@@ -19502,17 +19564,19 @@
             "dimension": "infinitive_recall"
           }
         ],
-        "current_index": 0,
+        "current_index": 1,
         "current_item": {
-          "verb_id": 80,
-          "dimension": "infinitive_recall",
-          "exercise_id": "2026-10-11-S04-E01",
-          "prompt_ar": "يوقّع — على عقد أو ورقة.",
-          "requested_form": "infinitive",
+          "verb_id": 1,
+          "dimension": "perfekt_form_recall",
+          "exercise_id": "2026-10-11-S04-E02",
+          "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
+          "requested_form": "third_person_auxiliary_plus_participle",
           "hint_used": false,
           "learner_answer": null
         },
-        "tested_ids": [],
+        "tested_ids": [
+          80
+        ],
         "remaining_ids": [
           1,
           2,
@@ -19593,7 +19657,6 @@
           77,
           78,
           79,
-          80,
           81,
           82,
           83,
@@ -19653,10 +19716,31 @@
           137
         ],
         "retry_ids": [],
-        "attempts": [],
-        "outcome": "not_assessed",
+        "attempts": [
+          {
+            "exercise_id": "2026-10-11-S04-E01",
+            "session_id": "2026-10-11-S04",
+            "activity_id": "2026-10-11-S04-A01",
+            "date": "2026-10-11",
+            "timestamp": "2026-10-11T18:57:24+02:00",
+            "mode": "isolated_recall",
+            "evidence_kind": "isolated_recall",
+            "verb_id": 80,
+            "dimension": "infinitive_recall",
+            "prompt_ar": "يوقّع — على عقد أو ورقة.",
+            "learner_answer": "unterschreiben ",
+            "correction": "unterschreiben",
+            "result": "independent_correct",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "contextual_grammar_assessed": false,
+            "actual_audio_assessed": false
+          }
+        ],
+        "outcome": "practicing",
         "completion_policy": "All eligible forms require actual attempts; synonyms do not prove target-form recall; unsupported dimensions and retries remain separate.",
-        "next_action": "Await the German infinitive for يوقّع — على عقد أو ورقة.",
+        "next_action": "Await Perfekt reference form for يكون; no German answer shown.",
         "prior_paused_session_id": "2026-10-11-S03",
         "prior_pending_exercise_id": "2026-10-11-S03-E14"
       }

@@ -124,3 +124,6 @@ S03-E13 produced correct hat ... erlaubt and meiner Schwester; repairs Meine Mut
 - Snapshot all 137 introduced verbs; infinitive and eligible Perfekt form coverage separately, 0 answers so far. #31 möchten ordinary Perfekt not applicable. Exact randomized order and remaining/retry IDs in progress.recall_tracking.
 - Pending 2026-10-11-S04-E01: «يوقّع — على عقد أو ورقة.» — infinitive only; answer not revealed.
 - S03-E14 and earlier prompts preserved as paused. Totals unchanged: 137 verbs / 165 vocabulary entries; oral modes unchanged.
+
+## Full recall checkpoint — S04-E01
+Independent correct isolated infinitive recall for #80 unterschreiben. Coverage: infinitive 1/137, Perfekt 0/136; no contextual/tense mastery inferred. Active S04-A01, next S04-E02: يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II. S03-E14 remains paused; day open, four sessions, totals 137 verbs / 165 vocabulary entries.
