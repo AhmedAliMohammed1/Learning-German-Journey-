@@ -19,11 +19,11 @@
   "current_day": "2026-10-11",
   "latest_day": "2026-10-11",
   "day_status": "open",
-  "current_session_id": "2026-10-11-S02",
+  "current_session_id": "2026-10-11-S03",
   "sessions_recorded": 21,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
-  "active_topic": "New grammar rule: obwohl contrast clauses",
-  "next_action": "Give fresh 2026-10-11-S02-E08 obwohl transfer with Dativ recipient and Akkusativ object.",
+  "active_topic": "New verbs: Batch 118–127",
+  "next_action": "Administer 2026-10-11-S03-E01 (reparieren + Perfekt / obwohl) to begin practice on new verbs batch 118–127.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1201,6 +1201,16 @@
       "status": "pending",
       "learner_answer": null,
       "activity": "two_pronouns_retest"
+    },
+    {
+      "id": "2026-10-11-S03-E01",
+      "session_id": "2026-10-11-S03",
+      "tense": "Perfekt",
+      "prompt_ar": "رغم إن العربية قديمة، أخويا صلّحها امبارح.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "activity": "new_verbs_batch_118_127"
     }
   ],
   "completed_exercise_ids": [
@@ -1562,7 +1572,7 @@
     "2026-10-11-S01-E17"
   ],
   "verbs": {
-    "learned_total": 117,
+    "learned_total": 127,
     "mastered_total": null,
     "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
@@ -5757,6 +5767,266 @@
         },
         "example_reference": "Wenn ich den Zug verpasse, nehme ich den Bus.",
         "reference_is_teaching_information": true
+      },
+      {
+        "id": 118,
+        "infinitive": "reparieren",
+        "meaning_ar": "يصلّح",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich repariere",
+        "perfekt_reference": "hat repariert",
+        "usage_note": "+ Akk; regular (-ieren)",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Mein Bruder repariert das Auto.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 119,
+        "infinitive": "überweisen",
+        "meaning_ar": "يحوّل فلوس بنكياً",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich überweise",
+        "perfekt_reference": "hat überwiesen",
+        "usage_note": "inseparable; + Dat (person) + Akk (money)",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich überweise dem Vermieter die Miete.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 120,
+        "infinitive": "ausgeben",
+        "meaning_ar": "ينفق / يصرف فلوس",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich gebe ... aus / er gibt ... aus",
+        "perfekt_reference": "hat ausgegeben",
+        "usage_note": "separable; e -> i; für + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Er gibt viel Geld für Kleidung aus.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 121,
+        "infinitive": "verdienen",
+        "meaning_ar": "يكسب فلوس / يستحق",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich verdiene",
+        "perfekt_reference": "hat verdient",
+        "usage_note": "inseparable; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Meine Schwester verdient gut in ihrem neuen Job.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 122,
+        "infinitive": "sparen",
+        "meaning_ar": "يوفّر / يحوش فلوس",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich spare",
+        "perfekt_reference": "hat gespart",
+        "usage_note": "regular; für + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich spare Geld für eine neue Wohnung.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 123,
+        "infinitive": "einpacken",
+        "meaning_ar": "يحزم / يوضّب أمتعة",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich packe ... ein",
+        "perfekt_reference": "hat eingepackt",
+        "usage_note": "separable; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich packe die Sachen in die Tasche ein.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 124,
+        "infinitive": "auspacken",
+        "meaning_ar": "يفرّغ أمتعة / يفك غلاف",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich packe ... aus",
+        "perfekt_reference": "hat ausgepackt",
+        "usage_note": "separable; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Er packt das Paket aus.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 125,
+        "infinitive": "verbessern",
+        "meaning_ar": "يحسّن / يطوّر",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich verbessere",
+        "perfekt_reference": "hat verbessert",
+        "usage_note": "inseparable; + Akk",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Ich lerne fleißig, um mein Deutsch zu verbessern.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 126,
+        "infinitive": "versprechen",
+        "meaning_ar": "يوعد",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich verspreche / er verspricht",
+        "perfekt_reference": "hat versprochen",
+        "usage_note": "inseparable; e -> i; + Dat (person) + Akk / dass",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Mein Bruder verspricht mir, dass er kommt.",
+        "reference_is_teaching_information": true
+      },
+      {
+        "id": 127,
+        "infinitive": "erlauben",
+        "meaning_ar": "يسمح بـ / يصرّح",
+        "introduced": true,
+        "introduction_date": "2026-10-11",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "evidence": [],
+        "praesens_reference": "ich erlaube",
+        "perfekt_reference": "hat erlaubt",
+        "usage_note": "+ Dat (person) + Akk / Infinitiv mit zu",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed"
+          },
+          "Perfekt": {
+            "status": "not_assessed"
+          }
+        },
+        "example_reference": "Der Chef erlaubt mir, früher zu gehen.",
+        "reference_is_teaching_information": true
       }
     ],
     "reference_completeness": {
@@ -5778,7 +6048,14 @@
         "introduced_on": "2026-10-11",
         "recorded_attempts": 6,
         "independent_correct": 5,
-        "evidence": ["2026-10-11-S02-E01", "2026-10-11-S02-E02", "2026-10-11-S02-E03", "2026-10-11-S02-E04", "2026-10-11-S02-E05", "2026-10-11-S02-E06"]
+        "evidence": [
+          "2026-10-11-S02-E01",
+          "2026-10-11-S02-E02",
+          "2026-10-11-S02-E03",
+          "2026-10-11-S02-E04",
+          "2026-10-11-S02-E05",
+          "2026-10-11-S02-E06"
+        ]
       },
       {
         "id": "cases_and_pronouns",
@@ -6123,7 +6400,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-  "registered_entries_count": 161,
+    "registered_entries_count": 161,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -9253,7 +9530,9 @@
         "source": "2026-10-11-S02 obwohl introduction",
         "recorded_attempts": 1,
         "independent_correct": 0,
-        "evidence": ["2026-10-11-S02-E01"]
+        "evidence": [
+          "2026-10-11-S02-E01"
+        ]
       }
     ]
   },
@@ -11173,7 +11452,7 @@
       "independent_correct": 0,
       "last_checked": null,
       "evidence": []
-    },
+    }
   ],
   "active_mistake_pattern_ids": [
     "M32",

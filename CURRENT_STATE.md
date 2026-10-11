@@ -66,3 +66,10 @@ Finished Das verlorene Paket: 5 comprehension questions and 3 translation exerci
 - New session **2026-10-11-S02** started after choosing the new-grammar track.
 - New main rule: **obwohl** contrast clauses; verb-final in the obwohl clause and verb-second after a fronted obwohl clause.
 - S02 E01 needed the fixed phrase **mit Geduld**; S02 E02–E04 and E06 were independently correct. S02 E05 had correct grammar/Perfekt with an **Aufgabe** spelling repair. S02 E07 needs the fronted-clause order **schicke ich** and phrase **wenig Zeit**; Dativ/Akkusativ objects were correct. Next: fresh transfer.
+
+## 2026-10-11 new verbs session — Batch 118–127
+- Active session **2026-10-11-S03** started after selecting the new verbs track (أفعال جديدة).
+- Unified verb inventory: **127 introduced verbs** (+10 new: reparieren, überweisen, ausgeben, verdienen, sparen, einpacken, auspacken, verbessern, versprechen, erlauben). All introduced with Präsens + Perfekt references and usage notes.
+- Day status: **open**.
+- Pending practice: **2026-10-11-S03-E01** (reparieren + Perfekt / obwohl). Earlier pending exercises (S01-E18, S02-E08, and previous days) remain preserved.
+

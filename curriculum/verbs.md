@@ -1,4 +1,4 @@
-# Verb curriculum — 117 introduced verbs
+# Verb curriculum — 127 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -125,6 +125,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 115 | erledigen | ينجز / يخلّص مهمة | ich erledige | hat erledigt | Ich erledige die Aufgabe nach der Arbeit. | practicing | + Akk |
 | 116 | ablaufen | تنتهي مدة صلاحية / ينتهي عقد | der Vertrag läuft ab | ist abgelaufen | Der Mietvertrag läuft nächsten Monat ab. | practicing | separable; contract expiry; Perfekt uses sein |
 | 117 | verpassen | يفوّت القطار / الموعد | ich verpasse | hat verpasst | Wenn ich den Zug verpasse, nehme ich den Bus. | introduced | + Akk |
+| 118 | reparieren | يصلّح | ich repariere | hat repariert | Mein Bruder repariert das Auto. | introduced | + Akk; regular (-ieren) |
+| 119 | überweisen | يحوّل فلوس بنكياً | ich überweise | hat überwiesen | Ich überweise dem Vermieter die Miete. | introduced | inseparable; + Dat (person) + Akk (money) |
+| 120 | ausgeben | ينفق / يصرف فلوس | ich gebe ... aus / er gibt ... aus | hat ausgegeben | Er gibt viel Geld für Kleidung aus. | introduced | separable; e -> i; für + Akk |
+| 121 | verdienen | يكسب فلوس / يستحق | ich verdiene | hat verdient | Meine Schwester verdient gut in ihrem neuen Job. | introduced | inseparable; + Akk |
+| 122 | sparen | يوفّر / يحوش فلوس | ich spare | hat gespart | Ich spare Geld für eine neue Wohnung. | introduced | regular; für + Akk |
+| 123 | einpacken | يحزم / يوضّب أمتعة | ich packe ... ein | hat eingepackt | Ich packe die Sachen in die Tasche ein. | introduced | separable; + Akk |
+| 124 | auspacken | يفرّغ أمتعة / يفك غلاف | ich packe ... aus | hat ausgepackt | Er packt das Paket aus. | introduced | separable; + Akk |
+| 125 | verbessern | يحسّن / يطوّر | ich verbessere | hat verbessert | Ich lerne fleißig, um mein Deutsch zu verbessern. | introduced | inseparable; + Akk |
+| 126 | versprechen | يوعد | ich verspreche / er verspricht | hat versprochen | Mein Bruder verspricht mir, dass er kommt. | introduced | inseparable; e -> i; + Dat (person) + Akk / dass |
+| 127 | erlauben | يسمح بـ / يصرّح | ich erlaube | hat erlaubt | Der Chef erlaubt mir, früher zu gehen. | introduced | + Dat (person) + Akk / Infinitiv mit zu |
 
 ## How to read the table
 
@@ -145,4 +155,4 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 
 ## Reference completion — 2026-10-09
 
-All 117 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
+All 127 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
