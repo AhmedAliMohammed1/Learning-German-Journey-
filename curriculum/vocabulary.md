@@ -165,6 +165,7 @@
 | V157 | die Unterlagen | die Unterlagen | المستندات / الأوراق المطلوبة | plural_noun | introduced |
 | V158 | das Vorstellungsgespräch | die Vorstellungsgespräche | مقابلة عمل | noun | practicing |
 | V159 | der Lieferant | die Lieferanten | عامل التوصيل | noun | introduced |
+| V160 | die Benachrichtigung | die Benachrichtigungen | إشعار / تنبيه | noun | introduced |
 
 ## Learning notes
 
