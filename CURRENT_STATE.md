@@ -127,3 +127,6 @@ S03-E13 produced correct hat ... erlaubt and meiner Schwester; repairs Meine Mut
 
 ## Full recall checkpoint — S04-E01
 Independent correct isolated infinitive recall for #80 unterschreiben. Coverage: infinitive 1/137, Perfekt 0/136; no contextual/tense mastery inferred. Active S04-A01, next S04-E02: يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II. S03-E14 remains paused; day open, four sessions, totals 137 verbs / 165 vocabulary entries.
+
+## Full recall checkpoint — S04-E02
+gewesen participle independently correct; full reference needs ist gewesen. Infinitive 1/137 tested, Perfekt 1/136 tested; retry #1 auxiliary+participle later, delayed retest due 2026-10-12. Next S04-E03 «عنده / يملك.» — infinitive only. No contextual/oral mastery inferred; active S04-A01, day open, older work preserved.

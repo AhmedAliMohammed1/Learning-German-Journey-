@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-11",
-  "last_updated_at": "2026-10-11T18:57:24+02:00",
+  "last_updated_at": "2026-10-11T18:59:38+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -23,7 +23,7 @@
   "sessions_recorded": 22,
   "last_verified_study_at": "2026-10-09T18:59:34+02:00",
   "active_topic": "Full isolated verb recall — all 137 introduced verbs",
-  "next_action": "Await Perfekt reference form for يكون; no German answer shown.",
+  "next_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1424,6 +1424,25 @@
       "dimension": "perfekt_form_recall",
       "requested_form": "third_person_auxiliary_plus_participle",
       "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
+      "status": "completed",
+      "hint_used": false,
+      "learner_answer": "gewesen",
+      "corrected_answer": "ist gewesen",
+      "result": "needs_retry_missing_auxiliary",
+      "independent": true,
+      "participle_outcome": "independent_correct",
+      "auxiliary_outcome": "not_produced"
+    },
+    {
+      "id": "2026-10-11-S04-E03",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "activity": "full_verb_isolated_recall",
+      "evidence_kind": "isolated_recall",
+      "verb_id": 2,
+      "dimension": "infinitive_recall",
+      "requested_form": "infinitive",
+      "prompt_ar": "عنده / يملك.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
@@ -1798,7 +1817,8 @@
     "2026-10-11-S03-E11",
     "2026-10-11-S03-E12",
     "2026-10-11-S03-E13",
-    "2026-10-11-S04-E01"
+    "2026-10-11-S04-E01",
+    "2026-10-11-S04-E02"
   ],
   "verbs": {
     "learned_total": 137,
@@ -1817,7 +1837,20 @@
         "recorded_attempts": 0,
         "independent_correct": 0,
         "last_reviewed": null,
-        "evidence": [],
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "session_id": "2026-10-11-S04",
+            "exercise_id": "2026-10-11-S04-E02",
+            "kind": "isolated_recall",
+            "dimension": "perfekt_form_recall",
+            "independent": true,
+            "correct": false,
+            "participle_correct": true,
+            "auxiliary_missing": true,
+            "note": "gewesen independently recalled; requested full reference ist gewesen incomplete. No contextual tense or oral evidence."
+          }
+        ],
         "meaning_ar": "يكون",
         "review_status": "reviewed_multiple_times",
         "assessment_basis": "reported group-level general retention, not individual mastery",
@@ -1836,7 +1869,22 @@
           }
         },
         "example_reference": "Ich bin heute müde.",
-        "reference_is_teaching_information": true
+        "reference_is_teaching_information": true,
+        "isolated_recall": {
+          "perfekt_form_recall": {
+            "status": "practicing",
+            "recorded_attempts": 1,
+            "independent_correct": 0,
+            "correct_with_support": 0,
+            "needs_retry": 1,
+            "participle_independent_correct": 1,
+            "auxiliary_not_produced": 1,
+            "last_assessed_on": "2026-10-11",
+            "evidence_ids": [
+              "2026-10-11-S04-E02"
+            ]
+          }
+        }
       },
       {
         "id": 2,
@@ -12141,7 +12189,7 @@
   },
   "latest_study_date": "2026-10-11",
   "latest_study_state": "open",
-  "next_suggested_action": "Await Perfekt reference form for يكون; no German answer shown.",
+  "next_suggested_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -16126,6 +16174,29 @@
       "copied": false,
       "contextual_grammar_assessed": false,
       "actual_audio_assessed": false
+    },
+    {
+      "exercise_id": "2026-10-11-S04-E02",
+      "session_id": "2026-10-11-S04",
+      "activity_id": "2026-10-11-S04-A01",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:59:38+02:00",
+      "mode": "isolated_recall",
+      "evidence_kind": "isolated_recall",
+      "verb_id": 1,
+      "dimension": "perfekt_form_recall",
+      "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
+      "learner_answer": "gewesen",
+      "correction": "ist gewesen",
+      "result": "needs_retry_missing_auxiliary",
+      "participle_outcome": "independent_correct",
+      "auxiliary_outcome": "not_produced",
+      "full_reference_outcome": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "contextual_grammar_assessed": false,
+      "actual_audio_assessed": false
     }
   ],
   "skill_tracking": {
@@ -16694,6 +16765,20 @@
       "evidence_ids": [
         "2026-10-11-S03-E12",
         "2026-10-11-S03-E13"
+      ]
+    },
+    {
+      "id": "2026-10-11-recall-sein-perfekt",
+      "target_key": "isolated_recall_verb_1_perfekt",
+      "mode": "isolated_recall",
+      "activity_id": "2026-10-11-S04-A01",
+      "target": "Full sein Perfekt reference: auxiliary plus participle",
+      "due_on": "2026-10-12",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "participle_correct_auxiliary_missing",
+      "evidence_ids": [
+        "2026-10-11-S04-E02"
       ]
     }
   ],
@@ -18322,9 +18407,10 @@
               136,
               137
             ],
-            "tested_ids": [],
+            "tested_ids": [
+              1
+            ],
             "remaining_ids": [
-              1,
               2,
               3,
               4,
@@ -18461,7 +18547,9 @@
               136,
               137
             ],
-            "retry_ids": [],
+            "retry_ids": [
+              1
+            ],
             "not_applicable": [
               {
                 "verb_id": 31,
@@ -19564,21 +19652,21 @@
             "dimension": "infinitive_recall"
           }
         ],
-        "current_index": 1,
+        "current_index": 2,
         "current_item": {
-          "verb_id": 1,
-          "dimension": "perfekt_form_recall",
-          "exercise_id": "2026-10-11-S04-E02",
-          "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
-          "requested_form": "third_person_auxiliary_plus_participle",
+          "verb_id": 2,
+          "dimension": "infinitive_recall",
+          "exercise_id": "2026-10-11-S04-E03",
+          "prompt_ar": "عنده / يملك.",
+          "requested_form": "infinitive",
           "hint_used": false,
           "learner_answer": null
         },
         "tested_ids": [
-          80
+          80,
+          1
         ],
         "remaining_ids": [
-          1,
           2,
           3,
           4,
@@ -19715,7 +19803,9 @@
           136,
           137
         ],
-        "retry_ids": [],
+        "retry_ids": [
+          1
+        ],
         "attempts": [
           {
             "exercise_id": "2026-10-11-S04-E01",
@@ -19736,11 +19826,34 @@
             "copied": false,
             "contextual_grammar_assessed": false,
             "actual_audio_assessed": false
+          },
+          {
+            "exercise_id": "2026-10-11-S04-E02",
+            "session_id": "2026-10-11-S04",
+            "activity_id": "2026-10-11-S04-A01",
+            "date": "2026-10-11",
+            "timestamp": "2026-10-11T18:59:38+02:00",
+            "mode": "isolated_recall",
+            "evidence_kind": "isolated_recall",
+            "verb_id": 1,
+            "dimension": "perfekt_form_recall",
+            "prompt_ar": "يكون — المطلوب صيغة Perfekt، بالفعل المساعد بصيغة هو + Partizip II.",
+            "learner_answer": "gewesen",
+            "correction": "ist gewesen",
+            "result": "needs_retry_missing_auxiliary",
+            "participle_outcome": "independent_correct",
+            "auxiliary_outcome": "not_produced",
+            "full_reference_outcome": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "contextual_grammar_assessed": false,
+            "actual_audio_assessed": false
           }
         ],
         "outcome": "practicing",
         "completion_policy": "All eligible forms require actual attempts; synonyms do not prove target-form recall; unsupported dimensions and retries remain separate.",
-        "next_action": "Await Perfekt reference form for يكون; no German answer shown.",
+        "next_action": "Await the German infinitive for عنده / يملك; retry full sein Perfekt later without crowding unseen forms.",
         "prior_paused_session_id": "2026-10-11-S03",
         "prior_pending_exercise_id": "2026-10-11-S03-E14"
       }
