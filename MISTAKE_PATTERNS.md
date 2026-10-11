@@ -435,3 +435,9 @@ Earlier headings are imported/datetimed assessments; current structured statuses
 ## 2026-10-10 Reading: Das verlorene Paket
 - Independent errors: niemand instead of niemanden in Akkusativ; der Nachbarn rather than der Nachbar as subject; seinen Nachbarin rather than seinen Nachbarn; nicht after geantwortet; omitted nicht in a transfer sentence; incorrect modal/infinitive construction; pronoun order; spelling Paket.
 - Initially used in die Tasche for static location. Final fresh independent response used in die Tasche for movement and in der Tasche for static location correctly; only typo gester instead of gestern. Treat Wo/Wohin as improving, not mastered; schedule later retention check.
+
+
+## 2026-10-11 targeted review: 17 independent written exercises
+- Clear improvement: **als** one-off past and **wenn** conditional, in der Tasche vs in die Tasche, modal Perfekt independent follow-up **hat ... kaufen können**, and masculine Dativ **meinem Bruder / seinem Freund** after earlier case confusion. Do not promote to mastered after one session.
+- Active remaining: **nach + Dativ** (nach dem Mietvertrag; nach den Unterlagen), **sich entscheiden für + Akk**, **niemanden** Akk, Perfekt double infinitives on first attempt, V2 after fronted Gestern, Dativ recipient vs Akk item, location phrase, plural Unterlagen, and object-pronoun ordering **es ihm** vs **ihm es**. E17 correct with es + Dativ noun; E18 two-pronoun test still unanswered.
+- Written-only attempts; do not update oral dimensions. Reference: 2026-10-11-S01-E01–E17, days/2026-10-11.md.
