@@ -3,7 +3,7 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "last_updated_at": "2026-10-11T19:22:03+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
@@ -16,14 +16,14 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-11",
-  "latest_day": "2026-10-11",
+  "current_day": "2026-10-12",
+  "latest_day": "2026-10-12",
   "day_status": "closed",
   "current_session_id": null,
-  "sessions_recorded": 23,
+  "sessions_recorded": 24,
   "last_verified_study_at": "2026-10-11T19:18:39+02:00",
-  "active_topic": "Reading: Eine Datei für den Chef",
-  "next_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
+  "active_topic": "Targeted review: recent material (Perfekt, obwohl, Kasus)",
+  "next_action": "Offer nine choices. If recent targeted review resumed, continue 2026-10-12-S01-E05: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Preserve Oct 11 S05 reading E04, S04 recall E03 and all other pending.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1456,6 +1456,17 @@
       "status": "pending",
       "hint_used": false,
       "learner_answer": null
+    },
+    {
+      "id": "2026-10-12-S01-E05",
+      "session_id": "2026-10-12-S01",
+      "activity": "targeted_recent_review",
+      "tense": "Perfekt",
+      "prompt_ar": "رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير.",
+      "status": "pending",
+      "hint_used": false,
+      "learner_answer": null,
+      "target": "obwohl + Perfekt"
     }
   ],
   "completed_exercise_ids": [
@@ -12268,7 +12279,7 @@
       ]
     }
   },
-  "latest_study_date": "2026-10-11",
+  "latest_study_date": "2026-10-12",
   "latest_study_state": "closed",
   "next_suggested_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
   "active_grammar": "obwohl",
