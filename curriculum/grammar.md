@@ -487,3 +487,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - E01 learner: Bevor meine Schwester dem Chef die Datei geschickt hat, druckt sie eine Kopie. Correction: Bevor meine Schwester dem Chef die Datei schickt, druckt sie eine Kopie. Fronted bevor final verb, main V2 and cases correct; wrong tense (Perfekt rather than target Präsens). V169 die Kopie correctly used.
 - E02 learner: Bevor mein Bruder die Datei löscht, vergleicht er sie mit der alten Datei. Independently fully correct: subordinate Präsens final verb, main V2 vergleicht er, feminine pronoun sie, mit + Dativ der alten Datei.
 - bevor topic currently practicing: 2 independent written attempts, 1 fully correct. Next S03-E03 checks Perfekt in main and before-clause; do not claim tense mastery. Prior S02-E08 and other deferred checks preserved.
+
+## S03-E03 correct bevor Perfekt
+- Independent correct: Gestern, bevor meine Schwester dem Chef die Datei geschickt hat, hat sie sie geprüft und gespeichert
+- before clause finite auxiliary final geschickt hat; main clause Perfekt hat sie sie geprüft und gespeichert; Dativ dem Chef and gestern preserved. Mark independent full success in Perfekt, no global mastery inferred.
+- Three written attempts so far, two fully correct. Next uses die Kopie, recipient ihrem Kollegen with -n, both clauses Perfekt.
