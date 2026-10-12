@@ -174,3 +174,10 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - Introduced V168 die Frist — die Fristen; one correct contextual usage, not mastered. Total **137 verbs / 168 registered vocabulary entries**.
 - Next pending S02-E04: أختي نزّلت الملف امبارح، وبعد كده مسحته لأنها لقت فيه غلطة. Perfekt herunterladen/löschen + weil. Prior reading, verb recall and other pending work preserved.
 - Same-day status reopened; session S02 active. progress.json JSON snapshot has not been updated for recent results; the dated log and this summary are the correct newer checkpoints. No pronunciation or listening evidence.
+
+## 2026-10-12 S02 — latest reviewed exercises E06 and E07
+- Full answers, prompts and corrections for S02-E06 and S02-E07 are in days/2026-10-12.md.
+- E06: correct deshalb V2, but er as object of die Datei should be sie. Use verbessern when editing a file.
+- E07: independent fully correct Perfekt, das Fahrrad -> es (Akk), meiner Schwester (Dativ), zeigen recipient. Only punctuation normalized.
+- Next S02-E08: رغم إن أختي ملقتش الغلطة امبارح، هي راجعت الملف مرة تانية النهارده. Retest obwohl, negated Perfekt and word order. Day reopened; S02 active. Total 137 verbs, 168 vocabulary entries. Earlier deferred exercises intact.
+- Important: progress.json still has the older snapshot and requires backfilling from the current day log, without double-counting or changing prior mastery. Do not infer spoken skills.
