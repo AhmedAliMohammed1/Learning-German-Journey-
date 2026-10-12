@@ -482,3 +482,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - M19: S02-E04 correct weil ... gefunden hat; S02-E05 missing final hat. Do not mark as mastered.
 - M28: S02-E06 correctly used deshalb hat sie; subsequent main-clause V2 also correct. Older error history remains intact.
 - Specific repairs: noch nicht (E01); hat verglichen and ins Internet, omitted gestern (E03); darin einen Fehler independently correct after prior repair (E05); lexical Datei vs Unterlagen; spelling Programm. No new mistake IDs or imagined pronunciation evidence.
+
+## 2026-10-12 S03 new grammar tense adherence
+- E01: clause-final verb and main V2 correct; tense mismatch: subordinate geschickt hat (Perfekt) instead of schickt (Präsens). Do not register a new structural-word-order mistake.
+- E02: independently correct feminine die Datei -> sie and mit der alten Datei + Dativ in a new bevor context, positive contextual evidence for old M08 and case patterns. Single success is not proof of global mastery.
