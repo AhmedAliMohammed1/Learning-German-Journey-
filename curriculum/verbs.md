@@ -1,4 +1,4 @@
-# Verb curriculum — 137 introduced verbs
+# Verb curriculum — 147 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -145,6 +145,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 135 | verbinden | يوصّل / يربط | ich verbinde; er verbindet | hat verbunden | Ich verbinde mein Handy mit deinem Handy. | introduced | inseparable; Akk + mit + Dat |
 | 136 | trennen | يفصل | ich trenne; er trennt | hat getrennt | Ich trenne mein Handy von deinem Handy. | introduced | Akk + von + Dat |
 | 137 | vergleichen | يقارن | ich vergleiche; er vergleicht | hat verglichen | Ich vergleiche die Hotels. | practicing | inseparable; + Akk; or Akk + mit + Dat |
+| 138 | kopieren | ينسخ | ich kopiere; er kopiert | hat kopiert | Ich kopiere die Datei. | introduced | regular -ieren; no ge-; + Akk |
+| 139 | einfügen | يلصق / يدرج | ich füge ... ein; er fügt ... ein | hat eingefügt | Ich füge den Text in die Datei ein. | introduced | separable; + Akk thing; in + Akk target |
+| 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | introduced | inseparable be-; + Akk |
+| 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | introduced | inseparable er-; + Akk |
+| 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | introduced | separable; + Akk |
+| 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | introduced | -ieren no ge-; + Akk |
+| 144 | weiterleiten | يعيد توجيه | ich leite ... weiter; er leitet ... weiter | hat weitergeleitet | Ich leite die Nachricht an meinen Kollegen weiter. | introduced | separable; + Akk; an + Akk recipient |
+| 145 | verschieben | ينقل / يؤجل | ich verschiebe; er verschiebt | hat verschoben | Ich verschiebe den Termin auf morgen. | introduced | inseparable ver-; + Akk; auf + Akk when postponing |
+| 146 | hinzufügen | يضيف | ich füge ... hinzu; er fügt ... hinzu | hat hinzugefügt | Ich füge der Nachricht einen Anhang hinzu. | introduced | separable; + Dat target + Akk thing |
+| 147 | entfernen | يزيل | ich entferne; er entfernt | hat entfernt | Ich entferne den Fehler aus der Datei. | introduced | inseparable ent-; + Akk + aus + Dat |
 
 ## How to read the table
 
@@ -165,4 +175,4 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 
 ## Reference completion — 2026-10-09
 
-All 137 current verbs now have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
+All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
