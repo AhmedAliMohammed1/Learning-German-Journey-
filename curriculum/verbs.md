@@ -145,9 +145,9 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 135 | verbinden | يوصّل / يربط | ich verbinde; er verbindet | hat verbunden | Ich verbinde mein Handy mit deinem Handy. | introduced | inseparable; Akk + mit + Dat |
 | 136 | trennen | يفصل | ich trenne; er trennt | hat getrennt | Ich trenne mein Handy von deinem Handy. | introduced | Akk + von + Dat |
 | 137 | vergleichen | يقارن | ich vergleiche; er vergleicht | hat verglichen | Ich vergleiche die Hotels. | practicing | inseparable; + Akk; or Akk + mit + Dat |
-| 138 | kopieren | ينسخ | ich kopiere; er kopiert | hat kopiert | Ich kopiere die Datei. | introduced | regular -ieren; no ge-; + Akk |
-| 139 | einfügen | يلصق / يدرج | ich füge ... ein; er fügt ... ein | hat eingefügt | Ich füge den Text in die Datei ein. | introduced | separable; + Akk thing; in + Akk target |
-| 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | introduced | inseparable be-; + Akk |
+| 138 | kopieren | ينسخ | ich kopiere; er kopiert | hat kopiert | Ich kopiere die Datei. | practicing | regular -ieren; no ge-; + Akk |
+| 139 | einfügen | يلصق / يدرج | ich füge ... ein; er fügt ... ein | hat eingefügt | Ich füge den Text in die Datei ein. | practicing | separable; + Akk thing; in + Akk target |
+| 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | practicing | inseparable be-; + Akk |
 | 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | introduced | inseparable er-; + Akk |
 | 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | introduced | separable; + Akk |
 | 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | introduced | -ieren no ge-; + Akk |
