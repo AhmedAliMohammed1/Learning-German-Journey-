@@ -233,3 +233,8 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 - Next exact pending: E18 replace *meinem Bruder* with appropriate Dativ pronoun in *Danach hat sie es meinem Bruder gegeben.*
 - Strengthening: als/wenn, case with zeigen/schicken, modal Perfekt; retest nach + Dativ, niemanden, pronoun **es ihm**. Older work remains deferred.
 - Historical dashboard sections above are archival; use `CURRENT_STATE.md`, `progress.json`, and the latest day file for the live count/status.
+
+## Bevor E01/E02 checkpoint — Oct 12 S03
+- E01 correctly formed the bevor and V2 clauses but used Perfekt instead of requested Präsens.
+- E02 independently fully correct: Bevor mein Bruder die Datei löscht, vergleicht er sie mit der alten Datei.
+- V169 die Kopie now practicing; 137 introduced verbs and 169 vocabulary entries. Next S03-E03 asks for bevor + Perfekt, preserve all old pending work.
