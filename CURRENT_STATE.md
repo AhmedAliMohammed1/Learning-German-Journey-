@@ -190,3 +190,10 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - Resume exact pending E08 when recent review selected. Oct 11 reading, recall and all older deferred exercises remain saved.
 - Focus: weil final hat, feminine sie object for Datei, ihrem Kollegen, hat verglichen. Correct transfer es meiner Schwester and darin einen Fehler. Oral status unassessed.
 - progress.json structured state must be synchronized or reconciled from day log; do not mark newer unanswered exercises as answered.
+
+## New grammar session — 2026-10-12-S03 (bevor)
+- Explicit choices 4 → 1 (new grammar). Started new same-date session **2026-10-12-S03** at 2026-10-12T21:19:30+02:00. Day reopened, active S03. Previously paused S02 and unanswered E08 preserved, not marked complete.
+- **New genuinely untaught rule bevor** (= before an action): subordinate finite verb goes last; if fronted, main finite verb follows the comma. Explained Präsens and Perfekt, with full model examples in curriculum/grammar.md.
+- **New V169 die Kopie / die Kopien** (نسخة / نسخ), introduced but not yet assessed. Live counts: **137 introduced verbs / 169 vocabulary entries**. No new verbs, no mastery change.
+- Exact first unanswered exercise **2026-10-12-S03-E01**: **قبل ما أختي تبعت الملف للمدير، هي بتطبع نسخة.**. Ask for full independent German sentence; no answer/model shown for this target.
+- Prior S02-E08, Oct 11 reading, recall, new verbs, all older deferred work and review queue remain preserved. Speaking/listening unassessed.
