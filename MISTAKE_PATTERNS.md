@@ -499,3 +499,8 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - Correct separately: fügt ... ein separable, danach V2 speichert er, Akk object sie for die Datei. One specific case error does not negate independent success for verb form.
 - 2026-10-12-S04-E01 answered after midnight and independently fully correct: 'Meine Schwester kopiert die Datei, danach bearbeitet sie sie.' Positive contextual evidence on feminine pronoun and V2.
 - Fresh test next E02 with in die Datei after inserting feminine die Kopie. Do not automatically mark the directional preposition issue mastered after reading model; preserve older cases/mistake IDs.
+
+## Oct 13 E02 missing object sie after insertion
+- Independent learner: Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt.
+- Corrected: Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.
+- Correct Perfekt of erstellen and einfügen, in + Akk direction. Missing direct object sie referring to die Kopie. Review existing M08, do not create new mistake ID. E03 new verbs exercise pending.
