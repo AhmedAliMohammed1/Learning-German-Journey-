@@ -493,3 +493,9 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - S03-E05: independently correct seinem Kollegen (Dativ -n) and es for das Bild; also correct subordinate-final verb and main V2. This is one successful fresh transfer, not definitive mastery.
 - Five independent full sentences with bevor, three fully correct; S03-E01 needed Präsens instead of Perfekt, S03-E04 needed capitalization and Dativ corrections.
 - Pending review S03-E06 concerns plural Unterlagen -> sie, before + Perfekt and Dativ. Historic unresolved items preserved.
+
+## October 13 inserted image direction error
+- 2026-10-13-S01-E01 independent: 'Mein Bruder fügt das Bild in der Datei ein, danach speichert er sie'. Correct 'Mein Bruder fügt das Bild in die Datei ein. Danach speichert er sie.' This is a directional two-way-preposition error: einfügen in + Akk (Wohin?) rather than stationary in + Dat (Wo?).
+- Correct separately: fügt ... ein separable, danach V2 speichert er, Akk object sie for die Datei. One specific case error does not negate independent success for verb form.
+- 2026-10-12-S04-E01 answered after midnight and independently fully correct: 'Meine Schwester kopiert die Datei, danach bearbeitet sie sie.' Positive contextual evidence on feminine pronoun and V2.
+- Fresh test next E02 with in die Datei after inserting feminine die Kopie. Do not automatically mark the directional preposition issue mastered after reading model; preserve older cases/mistake IDs.
