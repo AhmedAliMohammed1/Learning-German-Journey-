@@ -166,3 +166,11 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - Explicit choices 2 → 3: targeted recent-material review. Berlin date still 2026-10-12; reopened previously closed day and started second session S02 without overwriting S01 closure or its four answers.
 - Resumed exact unanswered **2026-10-12-S01-E05** with obwohl + Perfekt and Dativ recipient. No learner answer in S02 yet. Next step is to correct the independent German sentence, then add one genuinely new audited vocabulary word in this review batch and use it in future fresh sentences.
 - Counts remain **137 introduced verbs / 167 registered vocabulary entries**. Current session S02 active; previous unfinished reading and recall/verb sessions remain deferred. Overdue review_queue entries preserved, not counted as retested. No speaking/listening outcome inferred.
+
+## 2026-10-12 S02 review checkpoint — later session
+- Resumed and answered S01-E05; S02-E01, S02-E02, S02-E03. Full original answers and corrections are recorded in days/2026-10-12.md.
+- Current strengths: obwohl subordinate placement and main V2; Perfekt most verbs; Dativ mit der alten Datei; object pronoun sie.
+- Current repairs: Datei versus Unterlagen, ihm/ihrem Kollegen Dativ and noun -n, noch nicht, ins Internet, hat ... verglichen (not vergleichen), preserve gestern.
+- Introduced V168 die Frist — die Fristen; one correct contextual usage, not mastered. Total **137 verbs / 168 registered vocabulary entries**.
+- Next pending S02-E04: أختي نزّلت الملف امبارح، وبعد كده مسحته لأنها لقت فيه غلطة. Perfekt herunterladen/löschen + weil. Prior reading, verb recall and other pending work preserved.
+- Same-day status reopened; session S02 active. progress.json JSON snapshot has not been updated for recent results; the dated log and this summary are the correct newer checkpoints. No pronunciation or listening evidence.
