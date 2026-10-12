@@ -148,7 +148,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 138 | kopieren | ينسخ | ich kopiere; er kopiert | hat kopiert | Ich kopiere die Datei. | practicing | regular -ieren; no ge-; + Akk |
 | 139 | einfügen | يلصق / يدرج | ich füge ... ein; er fügt ... ein | hat eingefügt | Ich füge den Text in die Datei ein. | practicing | separable; + Akk thing; in + Akk target |
 | 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | practicing | inseparable be-; + Akk |
-| 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | introduced | inseparable er-; + Akk |
+| 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | practicing | inseparable er-; + Akk |
 | 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | introduced | separable; + Akk |
 | 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | introduced | -ieren no ge-; + Akk |
 | 144 | weiterleiten | يعيد توجيه | ich leite ... weiter; er leitet ... weiter | hat weitergeleitet | Ich leite die Nachricht an meinen Kollegen weiter. | introduced | separable; + Akk; an + Akk recipient |
@@ -176,3 +176,9 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 ## Reference completion — 2026-10-09
 
 All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt reference (or an explicit grammatical note where a normal Perfekt entry is not appropriate, as with **möchten**), a practical example, and a usage note where relevant.
+
+## Oct 13 S01 E02 — independent Perfekt evidence
+- E02 (independently written): 'Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt'. The necessary direct object 'sie' for die Kopie was missing: '... Danach hat sie sie in die Datei eingefügt.'
+- Verb ID 141 erstellen: correct 'hat erstellt' Perfekt; now practicing; Präsens form not yet independently assessed.
+- Verb ID 139 einfügen: correct 'hat eingefügt' Perfekt and previous correct 'fügt ... ein' Präsens; practicing in both tense dimensions. E02 full sentence needs missing feminine accusative pronoun, so do not claim full success or mastery.
+- New verbs 142–147 are only introduced, not yet independently assessed. Current total 147 introduced verbs. Next pending 2026-10-13-S01-E03 with auswählen and hinzufügen.
