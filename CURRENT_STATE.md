@@ -161,3 +161,8 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - One targeted recent-material review session S01, four answered exercises. E01 Perfekt prüfen/speichern independently correct. E02 obwohl clause correct but used Perfekt instead of requested Präsens. E03 correct Perfekt and pronoun but Kolleg → Kollegen and Unterlagen → Datei. E04 weil + Perfekt correct overall, but subject ihr Kollege, object einen Fehler, darin needed.
 - E05 pending: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Resume if user chooses recent review.
 - No new vocabulary/verbs: 137 verbs, 167 vocabulary entries. Day closed at learner request. Earlier pending activities preserved. See days/2026-10-12.md.
+
+## Reopened same-date review — 2026-10-12-S02 (2026-10-12T19:46:39+02:00)
+- Explicit choices 2 → 3: targeted recent-material review. Berlin date still 2026-10-12; reopened previously closed day and started second session S02 without overwriting S01 closure or its four answers.
+- Resumed exact unanswered **2026-10-12-S01-E05** with obwohl + Perfekt and Dativ recipient. No learner answer in S02 yet. Next step is to correct the independent German sentence, then add one genuinely new audited vocabulary word in this review batch and use it in future fresh sentences.
+- Counts remain **137 introduced verbs / 167 registered vocabulary entries**. Current session S02 active; previous unfinished reading and recall/verb sessions remain deferred. Overdue review_queue entries preserved, not counted as retested. No speaking/listening outcome inferred.
