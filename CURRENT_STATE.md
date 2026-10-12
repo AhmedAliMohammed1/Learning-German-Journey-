@@ -227,3 +227,12 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - New V170 der Anhang / die Anhänge, attachment, introduced only. Totals: 147 introduced verbs, 170 vocabulary entries.
 - First pending S04-E01 Arabic: أختي بتنسخ الملف، وبعد كده بتعدّله. Präsens kopieren and bearbeiten with danach V2; die Datei -> sie. No learner answer yet.
 - Old S03-E06 and S02-E08 and Oct 11 pending practice preserved. Old weak points: Dativ ihrem/seinem Kollegen, pronouns, bevor and Perfekt. No new oral or listening assessment.
+
+## October 13 midnight continuation — S01
+- Current learner date 2026-10-13 is open, active 2026-10-13-S01. Previous Oct 12 S04 is paused because of midnight rollover, not counted as learner-requested closure.
+- Oct12 S04-E01 was answered after midnight: Meine Schwester kopiert die Datei, danach bearbeitet sie sie. Fully independently correct in present, danach V2 and feminine object sie; reference Perfekt forms not yet assessed.
+- Oct13 S01-E01 learner: Mein Bruder fügt das Bild in der Datei ein, danach speichert er sie. Correction: Mein Bruder fügt das Bild in die Datei ein. Danach speichert er sie.
+- Strength: separable fügt ... ein, danach speichert er and object die Datei -> sie. Preposition needs directional in + Akk (in die Datei) rather than static in + Dativ (in der Datei). E01 not fully correct.
+- New verbs 138 kopieren, 139 einfügen, 140 bearbeiten now practicing in Präsens; remaining 141-147 introduced only. Total 147 verbs and 170 vocabulary entries, no new items introduced on Oct 13.
+- Exact pending next 2026-10-13-S01-E02: أختي أنشأت نسخة امبارح، وبعد كده أدرجتها في الملف. Target Perfekt erstellen/einfügen and directional in die Datei. Prior Oct 12 S03-E06, S02-E08 and other historical pending exercises preserved.
+- See days/2026-10-13.md and progress.json for original answers. No oral/listening assessment.
