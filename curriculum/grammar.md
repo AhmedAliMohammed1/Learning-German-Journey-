@@ -22,6 +22,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | Spaced maintenance while new grammar progresses |
 | Perfekt: haben/sein + Partizip II | practicing | Introduced 2026-10-07; continues in spaced maintenance |
 | dass: Präsens, modal and Perfekt subordinate clauses | practicing | Active main topic introduced 2026-10-09 |
+| bevor: temporal subordinate clause (before doing something) | introduced | New main grammar lesson 2026-10-12-S03; written practice pending |
 
 ## Cases and pronouns
 
@@ -472,3 +473,12 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Pronouns and cases: E02 needed indirect object ihrem Kollegen and pronoun sie; E03 correctly used mit der alten Datei; E06 incorrectly used er as object for die Datei; E07 correctly used es for das Fahrrad and meiner Schwester Dativ. Differentiated evidence, not global mastery.
 - Perfekt used correctly with hochgeladen, heruntergeladen, gelöscht, installiert, repariert, gezeigt. E03 needed hat verglichen (not infinitive vergleichen).
 - deshalb + V2 and danach + V2 independent successes in E06/E07. Date/time omissions and word choice remain separate from word order. Originals and precise corrections in days/2026-10-12.md.
+
+## New grammar lesson — bevor (2026-10-12)
+- Genuine new main grammar topic, not previously present in curriculum. bevor = قبل ما (a subordinate clause showing one action happens before another). Distinguish from vor + Dativ noun: vor der Arbeit = before work, bevor ich arbeite = before I work.
+- Word order: finite verb at end of bevor clause. Example: Ich prüfe die Datei, bevor ich sie speichere.
+- Fronted clause: Bevor ich die Datei speichere, prüfe ich sie. Main finite verb follows the comma (V2).
+- Perfekt: Ich habe die Datei geprüft, bevor ich sie gespeichert habe. Auxiliary at the very end of the subordinate clause.
+- New V169 die Kopie / die Kopien (= copy / copies) introduced with example: Ich drucke eine Kopie. Not yet independently assessed; no new verb taught.
+- First unanswered prompt 2026-10-12-S03-E01: قبل ما أختي تبعت الملف للمدير، هي بتطبع نسخة. Desired full German sentence in Präsens, no model shown. Previous pending S02-E08 and other historical exercise IDs retained.
+- Introduced is not mastered: 0 independent bevor attempts recorded at lesson start. Apply the prior case/pronoun and V2 repair targets in later fresh review, without presenting old grammar as new.
