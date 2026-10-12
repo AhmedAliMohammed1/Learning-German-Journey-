@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-12",
-  "last_updated_at": "2026-10-11T19:22:03+02:00",
+  "last_updated_at": "2026-10-12T19:46:39+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -18,12 +18,12 @@
   },
   "current_day": "2026-10-12",
   "latest_day": "2026-10-12",
-  "day_status": "closed",
-  "current_session_id": null,
-  "sessions_recorded": 24,
+  "day_status": "reopened",
+  "current_session_id": "2026-10-12-S02",
+  "sessions_recorded": 25,
   "last_verified_study_at": "2026-10-11T19:18:39+02:00",
-  "active_topic": "Targeted review: recent material (Perfekt, obwohl, Kasus)",
-  "next_action": "Offer nine choices. If recent targeted review resumed, continue 2026-10-12-S01-E05: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Preserve Oct 11 S05 reading E04, S04 recall E03 and all other pending.",
+  "active_topic": "Targeted recent-material review: obwohl + Perfekt, Nominativ/Akkusativ/Dativ",
+  "next_action": "Await original independent answer to retained 2026-10-12-S01-E05: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Review obwohl+Perfekt and recipient Dativ. Introduce one genuinely new audited vocabulary item later this batch. Preserve all other paused exercises and retests.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -12280,8 +12280,8 @@
     }
   },
   "latest_study_date": "2026-10-12",
-  "latest_study_state": "closed",
-  "next_suggested_action": "Offer nine choices on return. Continue S05 reading at E04: Warum hat die Schwester die Datei verbessert? Use a full German answer with weil. S04 isolated recall remains paused at E03: عنده / يملك (infinitive). Preserve all older work; do not force deferred review.",
+  "latest_study_state": "reopened",
+  "next_suggested_action": "Await original independent answer to retained 2026-10-12-S01-E05: رغم إن أخويا كان تعبان امبارح، هو خلّص شغله وبعت المستندات للمدير. Review obwohl+Perfekt and recipient Dativ. Introduce one genuinely new audited vocabulary item later this batch. Preserve all other paused exercises and retests.",
   "active_grammar": "obwohl",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -12661,6 +12661,15 @@
       "event": "day_closed",
       "learner_request": "كفايه كدا انا حاسس اني مش مركز اقفل اليوم انهردا و ارفع علي ال main branch",
       "note": "Session ended on explicit request; incomplete reading activity paused at E04. No answer or completion fabricated; all earlier work and retests preserved. Main branch upload explicitly authorized."
+    },
+    {
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T19:46:39+02:00",
+      "session_id": "2026-10-12-S02",
+      "event": "day_reopened_targeted_recent_review",
+      "mode": "targeted_recent_review",
+      "resumed_exercise_id": "2026-10-12-S01-E05",
+      "note": "Learner selected Targeted review then Recent material. Day had been closed with S01; reopened without losing S01 closure or answers. S02 begins by resuming preserved unanswered E05. No response assessed; no material introduced yet."
     }
   ],
   "exercise_results": [
@@ -17325,7 +17334,7 @@
     }
   },
   "feature_config_updated_on": "2026-10-09",
-  "closed_at": "2026-10-11T19:22:03+02:00",
+  "closed_at": null,
   "october_08_checkpoint": {
     "day_file": "days/2026-10-08.md",
     "status": "closed",
@@ -17352,8 +17361,8 @@
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
     }
   ],
-  "current_review_scope": "all_introduced_verbs_infinitive_and_perfekt",
-  "paused_session_id": "2026-10-11-S05",
+  "current_review_scope": "recent_material",
+  "paused_session_id": null,
   "recall_tracking": {
     "active_activity_id": null,
     "activities": [
