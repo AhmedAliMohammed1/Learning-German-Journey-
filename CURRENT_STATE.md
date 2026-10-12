@@ -181,3 +181,12 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - E07: independent fully correct Perfekt, das Fahrrad -> es (Akk), meiner Schwester (Dativ), zeigen recipient. Only punctuation normalized.
 - Next S02-E08: رغم إن أختي ملقتش الغلطة امبارح، هي راجعت الملف مرة تانية النهارده. Retest obwohl, negated Perfekt and word order. Day reopened; S02 active. Total 137 verbs, 168 vocabulary entries. Earlier deferred exercises intact.
 - Important: progress.json still has the older snapshot and requires backfilling from the current day log, without double-counting or changing prior mastery. Do not infer spoken skills.
+
+## 2026-10-12 S02 menu pause
+- User requested upload and return to main menu; 2026-10-12 day reopened and S02 paused, not closed. No active session.
+- 137 verbs, 168 vocabulary items. V168 Frist was correctly used once; practicing.
+- Completed S01-E05 and S02-E01 through S02-E07. Detailed originals and corrections in days/2026-10-12.md.
+- S02-E08 unanswered: رغم إن أختي ملقتش الغلطة امبارح، هي راجعت الملف مرة تانية النهارده.
+- Resume exact pending E08 when recent review selected. Oct 11 reading, recall and all older deferred exercises remain saved.
+- Focus: weil final hat, feminine sie object for Datei, ihrem Kollegen, hat verglichen. Correct transfer es meiner Schwester and darin einen Fehler. Oral status unassessed.
+- progress.json structured state must be synchronized or reconciled from day log; do not mark newer unanswered exercises as answered.
