@@ -243,3 +243,7 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 - Correct before + Perfekt: Gestern, bevor meine Schwester dem Chef die Datei geschickt hat, hat sie sie geprüft und gespeichert.
 - Topic practicing: 3 full written attempts, 2 correct. Next S03-E04: امبارح، قبل ما أختي تبعت النسخة لزميلها، طبعتها.
 - 137 introduced verbs, 169 vocabulary entries. Older paused tasks preserved.
+
+## S03 E04/E05 progress — 2026-10-12
+- E04 before + Perfekt structure correct; corrected lowercase bevor and ihrem Kollegen form. E05 fully independent correct: Bevor mein Bruder seinem Kollegen das Bild schickt, speichert er es.
+- Next pending S03-E06: أخويا راجع المستندات امبارح قبل ما يبعتها لزميله. All older work preserved; 137 verbs and 169 registered vocabulary entries.
