@@ -1,5 +1,15 @@
 # German Learning Journey
 
+## LATEST SYNC — October 13, 2026 new-chat handoff
+- The live day **2026-10-13 is open; S01 paused for transition to a new chat**, no active session. Refer to CURRENT_STATE.md and progress.json, not historic progress snapshots below.
+- **147 verbs introduced** in the one contiguous verbs table; **170 vocabulary entries** in one contiguous register. IDs 138–147 introduced 2026-10-12 with Präsens and Perfekt. New V170 der Anhang / die Anhänge introduced, not yet independently used.
+- Oct12-S04-E01 correct: Meine Schwester kopiert die Datei, danach bearbeitet sie sie. Oct13-S01-E01 corrected `in der Datei` -> `in die Datei` for insertion.
+- **Oct13-S01-E02 completed with correction**. Original: `Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt`. Corrected: `Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.` Both new Perfekt verbs correct; missing object pronoun `sie` for die Kopie.
+- Next **unanswered Oct13-S01-E03**: «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» Goal Präsens auswählen + hinzufügen, der Anhang -> ihn, der Nachricht Dativ. No German answer shown.
+- Older unfinished S03-E06, S02-E08, Oct11 activities and all prior review queues retained. The switch of chat does not count as completing or closing any pending lesson.
+- New chat starter: `Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first.`
+
+
 ## Latest verified close — 2026-10-12 S03
 - تم قفل يوم **12 أكتوبر 2026** بعد مراجعات S01/S02 وقاعدة **bevor** في S03. أحدث حالة في `progress.json` و`CURRENT_STATE.md`.
 - **137 فعل / 169 كلمة** في الجداول الموحدة. الكلمة الجديدة `die Kopie — die Kopien` تحت التدريب، مش محسوبة متقنة.
