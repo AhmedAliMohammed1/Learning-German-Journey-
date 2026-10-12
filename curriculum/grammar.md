@@ -482,3 +482,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - New V169 die Kopie / die Kopien (= copy / copies) introduced with example: Ich drucke eine Kopie. Not yet independently assessed; no new verb taught.
 - First unanswered prompt 2026-10-12-S03-E01: قبل ما أختي تبعت الملف للمدير، هي بتطبع نسخة. Desired full German sentence in Präsens, no model shown. Previous pending S02-E08 and other historical exercise IDs retained.
 - Introduced is not mastered: 0 independent bevor attempts recorded at lesson start. Apply the prior case/pronoun and V2 repair targets in later fresh review, without presenting old grammar as new.
+
+## S03-E01 and E02 — first independent bevor usage
+- E01 learner: Bevor meine Schwester dem Chef die Datei geschickt hat, druckt sie eine Kopie. Correction: Bevor meine Schwester dem Chef die Datei schickt, druckt sie eine Kopie. Fronted bevor final verb, main V2 and cases correct; wrong tense (Perfekt rather than target Präsens). V169 die Kopie correctly used.
+- E02 learner: Bevor mein Bruder die Datei löscht, vergleicht er sie mit der alten Datei. Independently fully correct: subordinate Präsens final verb, main V2 vergleicht er, feminine pronoun sie, mit + Dativ der alten Datei.
+- bevor topic currently practicing: 2 independent written attempts, 1 fully correct. Next S03-E03 checks Perfekt in main and before-clause; do not claim tense mastery. Prior S02-E08 and other deferred checks preserved.
