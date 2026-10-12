@@ -197,3 +197,9 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - **New V169 die Kopie / die Kopien** (نسخة / نسخ), introduced but not yet assessed. Live counts: **137 introduced verbs / 169 vocabulary entries**. No new verbs, no mastery change.
 - Exact first unanswered exercise **2026-10-12-S03-E01**: **قبل ما أختي تبعت الملف للمدير، هي بتطبع نسخة.**. Ask for full independent German sentence; no answer/model shown for this target.
 - Prior S02-E08, Oct 11 reading, recall, new verbs, all older deferred work and review queue remain preserved. Speaking/listening unassessed.
+
+## 2026-10-12 S03 before-clause checkpoint E01–E02
+- Completed S03-E01 and E02, raw answers and correction in days/2026-10-12.md. E01 correct clause order, wrong tense (geschickt hat vs intended schickt). E02 independently and fully correct: Bevor mein Bruder die Datei löscht, vergleicht er sie mit der alten Datei.
+- bevor topic practicing, 2 written attempts, 1 fully correct. Correct feminine pronoun sie and mit der alten Datei. V169 die Kopie practicing after one correct contextual use.
+- 137 introduced verbs, 169 registered vocabulary entries. No new verbs. Active S03, 2026-10-12 reopened.
+- Next pending S03-E03: امبارح، قبل ما أختي تبعت الملف للمدير، هي راجعته وحفظته. Expected Perfekt without pre-revealing German answer. S02-E08 and all earlier pending tasks remain unchanged.
