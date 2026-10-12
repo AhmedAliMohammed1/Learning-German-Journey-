@@ -236,3 +236,8 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - New verbs 138 kopieren, 139 einfügen, 140 bearbeiten now practicing in Präsens; remaining 141-147 introduced only. Total 147 verbs and 170 vocabulary entries, no new items introduced on Oct 13.
 - Exact pending next 2026-10-13-S01-E02: أختي أنشأت نسخة امبارح، وبعد كده أدرجتها في الملف. Target Perfekt erstellen/einfügen and directional in die Datei. Prior Oct 12 S03-E06, S02-E08 and other historical pending exercises preserved.
 - See days/2026-10-13.md and progress.json for original answers. No oral/listening assessment.
+
+## E02 Oct 13 pronoun checkpoint
+- Independent learner: Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt.
+- Correct: Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.
+- Both Perfekt verb forms and directional in die Datei correct. Missing Akkusativ object sie for die Kopie. New prompt E03: أختي بتختار المرفق، وبعد كده بتضيفه للرسالة. Other pending tasks preserved.
