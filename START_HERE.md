@@ -2,6 +2,15 @@
 
 This is the entry point for every assistant continuing this learner's German journey. Follow the learner's current explicit instructions first. Load the repository state before teaching. Explain to the learner in Egyptian Arabic.
 
+## Latest handoff pointer — 2026-10-13
+- The user is moving to a new chat and requested a full sync. **Read CURRENT_STATE.md and progress.json for live authority**; historic sample numbers and older dated states elsewhere in this file are archival, not current.
+- **Live study date 2026-10-13: open but current_session_id=null; paused_session_id=2026-10-13-S01**. This is a chat-handoff pause, NOT an explicit day close.
+- **147 introduced verbs in single unified inventory** and **170 vocabulary entries**. New verb IDs 138–147 introduced 2026-10-12 with Präsens+Perfekt+examples. V170 der Anhang / die Anhänge introduced, still awaiting independent use. Avoid duplicates.
+- **Oct 13 S01 E02 already answered/corrected**, do not repeat: learner used correct hat erstellt, hat eingefügt and in die Datei but omitted `sie` for die Kopie. See dated log and progress.json for exact raw response.
+- **Next exact unanswered task 2026-10-13-S01-E03**: «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» Ask for one full German sentence only if user wants to continue. Target verbs auswählen + hinzufügen, article/masculine pronoun for Anhang and Dativ der Nachricht. Do not pre-display the German answer.
+- Older unanswered 2026-10-12-S03-E06, 2026-10-12-S02-E08, Oct11 reading/recall/verb exercises and due retests all preserved. No audio/oral dimensions assessed from written attempts.
+- If user initiates a fresh chat saying 'Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first', verify latest GitHub files, then honor their chosen mode; do NOT silently start a new day/session or discard the paused E03. Use compact Egyptian Arabic, one exercise at a time.
+
 ## 1. Required startup reads
 
 1. Read CURRENT_STATE.md.
