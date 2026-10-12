@@ -486,3 +486,10 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-12 S03 new grammar tense adherence
 - E01: clause-final verb and main V2 correct; tense mismatch: subordinate geschickt hat (Perfekt) instead of schickt (Präsens). Do not register a new structural-word-order mistake.
 - E02: independently correct feminine die Datei -> sie and mit der alten Datei + Dativ in a new bevor context, positive contextual evidence for old M08 and case patterns. Single success is not proof of global mastery.
+
+
+## E04/E05 before-clause review: Oct 12 close
+- S03-E04: learner wrote dem Kollege, corrected to ihrem Kollegen (possessive Dativ and weak-masculine ending -n). Bevor within the sentence was capitalized incorrectly. Correct Perfekt in subordinate and main clauses.
+- S03-E05: independently correct seinem Kollegen (Dativ -n) and es for das Bild; also correct subordinate-final verb and main V2. This is one successful fresh transfer, not definitive mastery.
+- Five independent full sentences with bevor, three fully correct; S03-E01 needed Präsens instead of Perfekt, S03-E04 needed capitalization and Dativ corrections.
+- Pending review S03-E06 concerns plural Unterlagen -> sie, before + Perfekt and Dativ. Historic unresolved items preserved.
