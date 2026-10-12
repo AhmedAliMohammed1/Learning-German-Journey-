@@ -219,3 +219,11 @@ gewesen participle independently correct; full reference needs ist gewesen. Infi
 - S03-E05 fully correct: Bevor mein Bruder seinem Kollegen das Bild schickt, speichert er es. Accurate Dativ and neuter es, present tense and word order.
 - Exact next unanswered S03-E06: أخويا راجع المستندات امبارح قبل ما يبعتها لزميله.
 - S02-E08 and older reading, recall and verb exercises remain pending. No listening/speaking outcomes inferred. Resume with nine choices on return; reference progress.json and days/2026-10-12.md.
+
+## New verb session S04 — 2026-10-12
+- User chose main menu 4 then New Verbs 2. Previously closed day reopened as same-date S04. Past S01/S03 closing events and paused S03 E06 remain preserved.
+- Current day reopened, active session 2026-10-12-S04. New lesson only, no learner attempt yet.
+- Full audit of 137 verbs: 10 new verbs in unified inventory (IDs 138 kopieren, 139 einfügen, 140 bearbeiten, 141 erstellen, 142 auswählen, 143 aktualisieren, 144 weiterleiten, 145 verschieben, 146 hinzufügen, 147 entfernen). Present, Perfekt, examples and case/usage note registered. All introduced only.
+- New V170 der Anhang / die Anhänge, attachment, introduced only. Totals: 147 introduced verbs, 170 vocabulary entries.
+- First pending S04-E01 Arabic: أختي بتنسخ الملف، وبعد كده بتعدّله. Präsens kopieren and bearbeiten with danach V2; die Datei -> sie. No learner answer yet.
+- Old S03-E06 and S02-E08 and Oct 11 pending practice preserved. Old weak points: Dativ ihrem/seinem Kollegen, pronouns, bevor and Perfekt. No new oral or listening assessment.
