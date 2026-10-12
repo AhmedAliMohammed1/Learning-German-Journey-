@@ -492,3 +492,10 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Independent correct: Gestern, bevor meine Schwester dem Chef die Datei geschickt hat, hat sie sie geprüft und gespeichert
 - before clause finite auxiliary final geschickt hat; main clause Perfekt hat sie sie geprüft und gespeichert; Dativ dem Chef and gestern preserved. Mark independent full success in Perfekt, no global mastery inferred.
 - Three written attempts so far, two fully correct. Next uses die Kopie, recipient ihrem Kollegen with -n, both clauses Perfekt.
+
+## Bevor S03 end-of-day evidence — 2026-10-12
+- Main topic **bevor** introduced and practiced in 5 independently written sentences; 3 fully correct (S03-E02,E03,E05). Still **practicing**, no global mastery.
+- S03-E01: word order and recipient correct; subordinate Perfekt geschickt hat was used instead of required Präsens schickt. E02: independently correct fronted bevor + Präsens, vergleicht er and pronoun sie. E03: independently correct full Perfekt and pronoun sie.
+- S03-E04 learner: 'Gestern, Bevor meine Schwester dem Kollege die Kopie geschickt hat, hat sie sie gedruckt'. Correct form: 'Gestern, bevor meine Schwester ihrem Kollegen die Kopie geschickt hat, hat sie sie gedruckt.' Independent correct Perfekt with word order; lowercase bevor, her-colleague possessive Dativ ihrem, weak noun Kollegen repaired.
+- S03-E05 independently fully correct: 'Bevor mein Bruder seinem Kollegen das Bild schickt, speichert er es.' Success on weak masculine Dativ seinem Kollegen and neuter object es, though earlier errors remain relevant for spaced review.
+- Unanswered exercise S03-E06 retains exact prompt «أخويا راجع المستندات امبارح قبل ما يبعتها لزميله.» Use before + Perfekt, plural Unterlagen -> sie, Dativ recipient. Preserve all other pending review items. Skill mode here is written, not speaking or listening.
