@@ -504,3 +504,9 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - Independent learner: Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt.
 - Corrected: Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.
 - Correct Perfekt of erstellen and einfügen, in + Akk direction. Missing direct object sie referring to die Kopie. Review existing M08, do not create new mistake ID. E03 new verbs exercise pending.
+
+## 2026-10-13 final handoff after E02 — M08 evidence
+- Persisted Oct13 S01-E02 independent result into progress.json: correct 'hat erstellt', 'hat eingefügt', 'in die Datei', but missing direct Akk pronoun 'sie' for die Kopie in second clause. Counts as another fresh M08 pronoun omission, not failure of Perfekt or preposition.
+- E01 had 'in der Datei' instead of 'in die Datei' for insertion; E02 correct in die Datei is positive same-session repair, not delayed mastery. Further independent retests due under review queue.
+- Status: Oct13 S01 paused for new-chat transition, not day close. Next E03 exact Arabic: أختي بتختار المرفق، وبعد كده بتضيفه للرسالة. For that sentence test masculine accusative ihn (der Anhang) and Dativ der Nachricht, as well as separable verbs.
+- Existing error pattern IDs M08 and directional two-way-preposition category retained. No invented pronunciation or oral evidence.
