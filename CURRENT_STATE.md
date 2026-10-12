@@ -1,6 +1,16 @@
 # Current learner state
 
-Updated checkpoint: 2026-10-10 (time unavailable, Europe/Berlin).
+## LIVE HANDOFF — 2026-10-13 S01 paused for new chat
+- Date 2026-10-13, Europe/Berlin. The day is **open**, S01 is **paused on user request**, `current_session_id=null`, `paused_session_id=2026-10-13-S01`. Previous Oct12 S04 paused by midnight rollover. This live block supersedes all historical sections below.
+- Learner asked to save everything and move to a new chat. No new material was introduced after the original new batch; totals **147 introduced verbs** and **170 registered vocab items**. IDs 138–147 introduced on Oct12; V170 der Anhang / die Anhänge remains introduced, not independently assessed.
+- New verb usage: 138 kopieren and 140 bearbeiten correctly in Präsens (Oct12-S04-E01); 139 einfügen correct in Präsens and Perfekt forms; 141 erstellen correct in Perfekt form. All four are practicing, not mastered; other IDs 142–147 are only introduced.
+- **2026-10-13-S01-E02 is ANSWERED**, do not repeat. Learner independent: `Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt`. Natural correction: `Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.` Full-sentence incorrect only because it omits second-clause object `sie` (die Kopie). Correct both new verb Perfekt forms and directional `in die Datei` + Akk, improvement from E01.
+- **Exact next unanswered 2026-10-13-S01-E03** (no German answer disclosed): «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» Focus auswählen and hinzufügen (Präsens separable verbs), masculine der Anhang -> ihn, der Nachricht Dativ. Offer to continue from here when a new chat is opened, rather than restarting batch.
+- Earlier unanswered 2026-10-12-S03-E06, 2026-10-12-S02-E08, Oct11 reading/recall/verbs, review queue and all older records preserved; do not fake mastery or oral/audio evidence.
+- Source of truth: latest `progress.json`, `days/2026-10-13.md`, `curriculum/verbs.md`, `curriculum/vocabulary.md`, `MISTAKE_PATTERNS.md`. Startup protocol in START_HERE.md. If user has already requested continuation, resume E03 directly; otherwise present standard nine-option menu.
+
+
+Historical snapshots below; live handoff above is authoritative.
 
 - Current day **2026-10-10** is **open**. Active session **2026-10-10-S01**: Full review, Arabic → German mixed Präsens/Perfekt sentences.
 - Unified verb inventory: **116 introduced** (50 strong historical group baseline, 61 practicing, 5 introduced); not a final goal.
