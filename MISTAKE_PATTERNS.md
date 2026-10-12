@@ -475,3 +475,10 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## Reading S05-E03 — 2026-10-11
 - Fresh transfer correctly uses zeigen + Dativ recipient without mit: seinem Freund das Bild. Positive M15 evidence after E02; one success does not promote mastery. Kollege form not produced (Freund substituted), gestern omitted; keep semantic detail separate from correct grammar.
+
+## Oct 12 S02 real attempt evidence
+- M08 pronoun: S02-E06 er was used as Akk object for die Datei (should sie); S02-E07 es for das Fahrrad independently correct. Mixed evidence; continue retest of feminine reference.
+- M15: S02-E02 lacked the thing sent and recipient needed ihrem Kollegen, including weak masculine -n; S02-E07 independently correct es meiner Schwester gezeigt. Individual n-form still unresolved.
+- M19: S02-E04 correct weil ... gefunden hat; S02-E05 missing final hat. Do not mark as mastered.
+- M28: S02-E06 correctly used deshalb hat sie; subsequent main-clause V2 also correct. Older error history remains intact.
+- Specific repairs: noch nicht (E01); hat verglichen and ins Internet, omitted gestern (E03); darin einen Fehler independently correct after prior repair (E05); lexical Datei vs Unterlagen; spelling Programm. No new mistake IDs or imagined pronunciation evidence.
