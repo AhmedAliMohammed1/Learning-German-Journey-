@@ -1,5 +1,13 @@
 # German Learning Journey
 
+## Live dashboard — Oct 12 session paused
+- 137 introduced verbs and 168 registered vocabulary entries. V168 die Frist/die Fristen is practicing after one correct contextual use.
+- On Oct 12, targeted recent-material session S02 is paused, not closed, after requesting GitHub sync and return to main menu. Original answers for resumed S01-E05 and S02-E01..E07 are in days/2026-10-12.md.
+- Unanswered S02-E08: رغم إن أختي ملقتش الغلطة امبارح، هي راجعت الملف مرة تانية النهارده. Preserve older due checks and paused reading/recall.
+- Key retests: weil Perfekt final hat, die Datei -> sie, ihrem Kollegen, hat verglichen. Good recent examples: es meiner Schwester and darin einen Fehler.
+- The current checkpoint is in CURRENT_STATE.md plus the dated file; reconcile progress.json before claiming full synchronization.
+
+
 ## Live checkpoint — 12 أكتوبر 2026، إعادة فتح
 
 - اليوم **reopened**، الجلسة الحالية **2026-10-12-S02**: مراجعة حديثة بعد اختيار 2 ← 3. جلسة S01 اتقفلت قبل كده ونتائجها محفوظة.
