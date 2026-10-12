@@ -1,5 +1,12 @@
 # German Learning Journey
 
+## Current lesson — 12 October 2026: bevor
+- New grammar selected in same-date S03 after choosing Start a new study day, then rule 1. Rule **bevor** (قبل ما) and subordinate-final finite verb; main-clause V2 when fronted.
+- New vocabulary **V169 die Kopie / die Kopien**, introduced only. Unified totals **137 verbs and 169 vocabulary items**; no new verb batch.
+- Day 2026-10-12 reopened, active S03; first unanswered S03-E01: «قبل ما أختي تبعت الملف للمدير، هي بتطبع نسخة.». Preserve S02-E08 and all other previous work.
+- Live state in CURRENT_STATE.md, progress.json, days/2026-10-12.md; see grammar and vocabulary inventories for formal reference.
+
+
 ## Live dashboard — Oct 12 session paused
 - 137 introduced verbs and 168 registered vocabulary entries. V168 die Frist/die Fristen is practicing after one correct contextual use.
 - On Oct 12, targeted recent-material session S02 is paused, not closed, after requesting GitHub sync and return to main menu. Original answers for resumed S01-E05 and S02-E01..E07 are in days/2026-10-12.md.
