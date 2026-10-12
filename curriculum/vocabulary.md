@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**168 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**169 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -174,6 +174,7 @@
 | V166 | der Kollege | die Kollegen | الزميل في الشغل | noun | practicing |
 | V167 | der Fehler | die Fehler | الغلط / الخطأ | noun | introduced |
 | V168 | die Frist | die Fristen | الموعد النهائي / المهلة | noun | practicing |
+| V169 | die Kopie | die Kopien | نسخة / صورة طبق الأصل | noun | introduced |
 
 ## Learning notes
 
