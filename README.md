@@ -255,3 +255,9 @@ Current dashboard and CURRENT_STATE authoritative block supersede historical che
 ## S03 E04/E05 progress — 2026-10-12
 - E04 before + Perfekt structure correct; corrected lowercase bevor and ihrem Kollegen form. E05 fully independent correct: Bevor mein Bruder seinem Kollegen das Bild schickt, speichert er es.
 - Next pending S03-E06: أخويا راجع المستندات امبارح قبل ما يبعتها لزميله. All older work preserved; 137 verbs and 169 registered vocabulary entries.
+
+## New session 2026-10-12 S04 — verbs 138-147
+- User chose new study session and new verb track, so Oct 12 was reopened into S04, preserving previous closes and old pending tasks.
+- Added 138 kopieren, 139 einfügen, 140 bearbeiten, 141 erstellen, 142 auswählen, 143 aktualisieren, 144 weiterleiten, 145 verschieben, 146 hinzufügen, 147 entfernen to one unified table with present, Perfekt and example/usage. New V170 der Anhang / die Anhänge.
+- Current count: 147 verbs introduced, 170 vocab entries. New items not mastered.
+- Pending S04-E01: أختي بتنسخ الملف، وبعد كده بتعدّله. Earlier S03-E06 and S02-E08 still deferred. Full source of truth is progress.json and dated study log.
