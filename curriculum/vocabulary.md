@@ -173,7 +173,7 @@
 | V165 | das Programm | die Programme | البرنامج | noun | introduced |
 | V166 | der Kollege | die Kollegen | الزميل في الشغل | noun | practicing |
 | V167 | der Fehler | die Fehler | الغلط / الخطأ | noun | introduced |
-| V168 | die Frist | die Fristen | الموعد النهائي / المهلة | noun | introduced |
+| V168 | die Frist | die Fristen | الموعد النهائي / المهلة | noun | practicing |
 
 ## Learning notes
 
