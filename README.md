@@ -1,5 +1,13 @@
 # German Learning Journey
 
+## Latest verified close — 2026-10-12 S03
+- تم قفل يوم **12 أكتوبر 2026** بعد مراجعات S01/S02 وقاعدة **bevor** في S03. أحدث حالة في `progress.json` و`CURRENT_STATE.md`.
+- **137 فعل / 169 كلمة** في الجداول الموحدة. الكلمة الجديدة `die Kopie — die Kopien` تحت التدريب، مش محسوبة متقنة.
+- S03: خمس إجابات مستقلة، **3 صح بالكامل** (E02/E03/E05). نراجع `ihrem Kollegen` وفرق Präsens/Perfekt.
+- السؤال الجاي المعلّق **S03-E06**: «أخويا راجع المستندات امبارح قبل ما يبعتها لزميله.» السؤال غير محلول، ومعاه أسئلة S02 والتمارين القديمة محفوظة.
+- المستخدم قال كفاية النهارده؛ اليوم مقفول والجلسة S03 متوقفة. وقت الرجوع نعرض القائمة الرئيسية أو نكمل لو اختار المستخدم.
+
+
 ## Current lesson — 12 October 2026: bevor
 - New grammar selected in same-date S03 after choosing Start a new study day, then rule 1. Rule **bevor** (قبل ما) and subordinate-final finite verb; main-clause V2 when fronted.
 - New vocabulary **V169 die Kopie / die Kopien**, introduced only. Unified totals **137 verbs and 169 vocabulary items**; no new verb batch.
