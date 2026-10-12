@@ -138,13 +138,13 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 128 | prüfen | يراجع / يفحص | ich prüfe; er prüft | hat geprüft | Ich prüfe die Rechnung. | practicing | + Akk; regular |
 | 129 | speichern | يحفظ ملف أو بيانات | ich speichere; er speichert | hat gespeichert | Ich speichere die Datei. | practicing | + Akk; regular |
 | 130 | drucken | يطبع | ich drucke; er druckt | hat gedruckt | Ich drucke die Unterlagen. | introduced | + Akk; regular |
-| 131 | löschen | يمسح / يحذف | ich lösche; er löscht | hat gelöscht | Ich lösche die Nachricht. | introduced | + Akk; regular |
-| 132 | installieren | يثبّت برنامج | ich installiere; er installiert | hat installiert | Ich installiere das Programm. | introduced | + Akk; -ieren, no ge- |
-| 133 | herunterladen | ينزّل ملف من الإنترنت | ich lade ... herunter; du lädst ... herunter; er lädt ... herunter | hat heruntergeladen | Ich lade die Datei herunter. | introduced | separable; a → ä in du/er; + Akk |
-| 134 | hochladen | يرفع ملف على الإنترنت | ich lade ... hoch; du lädst ... hoch; er lädt ... hoch | hat hochgeladen | Ich lade die Datei hoch. | introduced | separable; a → ä in du/er; + Akk |
+| 131 | löschen | يمسح / يحذف | ich lösche; er löscht | hat gelöscht | Ich lösche die Nachricht. | practicing | + Akk; regular |
+| 132 | installieren | يثبّت برنامج | ich installiere; er installiert | hat installiert | Ich installiere das Programm. | practicing | + Akk; -ieren, no ge- |
+| 133 | herunterladen | ينزّل ملف من الإنترنت | ich lade ... herunter; du lädst ... herunter; er lädt ... herunter | hat heruntergeladen | Ich lade die Datei herunter. | practicing | separable; a → ä in du/er; + Akk |
+| 134 | hochladen | يرفع ملف على الإنترنت | ich lade ... hoch; du lädst ... hoch; er lädt ... hoch | hat hochgeladen | Ich lade die Datei hoch. | practicing | separable; a → ä in du/er; + Akk |
 | 135 | verbinden | يوصّل / يربط | ich verbinde; er verbindet | hat verbunden | Ich verbinde mein Handy mit deinem Handy. | introduced | inseparable; Akk + mit + Dat |
 | 136 | trennen | يفصل | ich trenne; er trennt | hat getrennt | Ich trenne mein Handy von deinem Handy. | introduced | Akk + von + Dat |
-| 137 | vergleichen | يقارن | ich vergleiche; er vergleicht | hat verglichen | Ich vergleiche die Hotels. | introduced | inseparable; + Akk; or Akk + mit + Dat |
+| 137 | vergleichen | يقارن | ich vergleiche; er vergleicht | hat verglichen | Ich vergleiche die Hotels. | practicing | inseparable; + Akk; or Akk + mit + Dat |
 
 ## How to read the table
 
