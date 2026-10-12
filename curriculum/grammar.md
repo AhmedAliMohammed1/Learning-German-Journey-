@@ -465,3 +465,10 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## Reading S05-E02 — 2026-10-11
 - zeigen + Dativ person + Akk thing: ihrem Kollegen die Datei. No mit for recipient; Kollege is weak masculine (Dativ Kollegen). Learner original and correction in day log. hat ... gezeigt correct; fresh transfer pending, no mastery.
+
+## Oct 12 recent review S02 evidence
+- obwohl: subordinate-final war independently correct in resumed E05 and E01 main inversion correct. E01 lacked the intended noch nicht semantic aspect, not a subordinate word order error.
+- weil Perfekt: E04 final gefunden hat correct, but ihr das Fehler wrong. E05 fresh transfer independently corrected to darin einen Fehler, yet omitted final auxiliary hat; keep retest due.
+- Pronouns and cases: E02 needed indirect object ihrem Kollegen and pronoun sie; E03 correctly used mit der alten Datei; E06 incorrectly used er as object for die Datei; E07 correctly used es for das Fahrrad and meiner Schwester Dativ. Differentiated evidence, not global mastery.
+- Perfekt used correctly with hochgeladen, heruntergeladen, gelöscht, installiert, repariert, gezeigt. E03 needed hat verglichen (not infinitive vergleichen).
+- deshalb + V2 and danach + V2 independent successes in E06/E07. Date/time omissions and word choice remain separate from word order. Originals and precise corrections in days/2026-10-12.md.
