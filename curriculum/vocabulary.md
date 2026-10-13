@@ -176,7 +176,7 @@
 | V168 | die Frist | die Fristen | الموعد النهائي / المهلة | noun | practicing |
 | V169 | die Kopie | die Kopien | نسخة / صورة طبق الأصل | noun | practicing |
 | V170 | der Anhang | die Anhänge | مرفق الرسالة / ملف مرفق | noun | introduced |
-| V171 | die Bestätigung | die Bestätigungen | التأكيد / رسالة التأكيد | noun | introduced |
+| V171 | die Bestätigung | die Bestätigungen | التأكيد / رسالة التأكيد | noun | practicing |
 
 ## Learning notes
 
