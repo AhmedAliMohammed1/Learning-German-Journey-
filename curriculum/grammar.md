@@ -512,3 +512,10 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Independent: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Correction: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`.
 - Correct Perfekt and V2 after danach. `dem Kollegen` is grammatical Dativ, but Arabic **لزميلها** calls for **ihrem Kollegen**. The form `sei` instead of `sie` is a written-order typo, not enough evidence of a pronoun gender/case misunderstanding.
 - Next unanswered S02-E02 covers aktualisieren/entfernen Perfekt and den Fehler/Akk, aus der Datei/Dat; S01-E03 remains paused.
+
+## 2026-10-13 S02-E02–E04 — latest Perfekt + object/case evidence (paused)
+
+- **E02:** Correct `hat aktualisiert`, `den Fehler` (Akk), `aus der Datei` (Dat), and `danach hat er` (V2). Repair `Gester` → `Gestern`; `die Programm` → **`das Programm`** (Neutrum, also Akk). The user's `hat gelöscht` is a valid deletion/removal alternative; #147 `entfernen` was not independently produced until E03.
+- **E03:** Correct `hat entfernt`, `den Anhang`, `hat geschickt`, and Dativ noun `dem Kollegen`. `von der Nachricht` is grammatically possible; `aus der Nachricht` is more natural for removing an attachment. The Arabic refers to the **same** message: `die Nachricht`, not indefinite `eine Nachricht`. Her colleague = `ihrem Kollegen`.
+- **E04:** Correct independent `hat ausgewählt` and `die Datei`; incorrect split Perfekt construction `hat sie hinzu die Nachricht gefügt`. The needed form is **`Danach hat sie sie der Nachricht hinzugefügt.`**: separable Partizip II together, feminine direct-object `sie` and destination Dativ `der Nachricht`. #146 `hinzufügen` remains practicing with no independent correct Perfekt yet.
+- User requested a break after E04. Next **unanswered** `2026-10-13-S02-E05` will test `verschieben` Perfekt and recipient Dativ; not pre-answered. S01-E03 remains deferred. Day open, S02 paused; no audio assessment.
