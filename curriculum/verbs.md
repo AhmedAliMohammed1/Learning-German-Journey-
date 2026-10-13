@@ -192,3 +192,11 @@ All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt
 - Original learner answer: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`.
 - Verb **#143 aktualisieren**: Perfekt `hat aktualisiert` independently correct, now practicing. **#147 entfernen** was *not* produced: `hat gelöscht` is a valid alternative here but does not prove recall of `entfernen`; it remains introduced. `das Programm` needs correction; `den Fehler`, `aus der Datei`, and `danach hat er` correct.
 - Next pending **2026-10-13-S02-E03** uses entfernen in a fresh context; do not show the solution before learner attempt.
+
+## 2026-10-13 S02-E03/E04 final review and user-requested pause
+- **#142 auswählen:** independent `hat ausgewählt` correct in S02-E04. Status **practicing**, not mastered; Präsens not assessed by E04.
+- **#146 hinzufügen:** attempted in S02-E04 as `hat sie hinzu die Nachricht gefügt` — **not correct Perfekt**. Correct form `hat hinzugefügt` in `Danach hat sie sie der Nachricht hinzugefügt.` Status practicing, zero independent correct uses in this new checkpoint; don't credit Perfekt mastery.
+- **#147 entfernen:** independent correct `hat ... entfernt` in S02-E03. The earlier `gelöscht` from E02 was a valid synonym but alone wasn't #147 evidence. Status practicing, not mastered.
+- **#143 aktualisieren:** `hat aktualisiert` correctly used in S02-E02. Separate noun/article repair was `das Programm`.
+- **#145 verschieben:** introduced but not independently assessed in this recent review; **next unanswered S02-E05** on `den Termin auf Freitag verschieben` (Perfekt) and Dativ recipient. Do not pre-display the German answer or mark E05 completed.
+- On learner request, S02 is **paused**, day open, no active session; older S01-E03 preserved. Total remains **147** unified verb entries.
