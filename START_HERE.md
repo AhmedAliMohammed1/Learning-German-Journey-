@@ -1,5 +1,11 @@
 # START HERE — AI session protocol
 
+## Latest update — 2026-10-13 S02-E02 answered
+- Current day open; active S02 recent-material targeted review. **S02-E02 already corrected**: learner's `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. The fixes are `Gestern`, `das Programm`. `gelöscht` is a valid alternative here but does not establish independent use of `entfernen`.
+- **Exact next unanswered S02-E03:** «أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها.» Test `entfernen` in Perfekt, `der Anhang`, `aus der Nachricht`, `ihrem Kollegen`; don't reveal the German solution early.
+- Paused S01-E03 and old review backlog stay unanswered. Current verb/vocab totals 147/171. More recent checkpoints override archival pointers below.
+
+
 This is the entry point for every assistant continuing this learner's German journey. Follow the learner's current explicit instructions first. Load the repository state before teaching. Explain to the learner in Egyptian Arabic.
 
 ## Live checkpoint and precedence — 2026-10-13 repository reconciliation
