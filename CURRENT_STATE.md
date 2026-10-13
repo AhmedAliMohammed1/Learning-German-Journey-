@@ -1,5 +1,9 @@
 # Current learner state
 
+## Latest checkpoint: 2026-10-13 S02-E04
+S02-E04 answered: Gestern hat meine Schwester die Datei ausgewählt, danach hat sie hinzu die Nachricht gefügt. Corrected: Gestern hat meine Schwester die Datei ausgewählt. Danach hat sie sie der Nachricht hinzugefügt. Correct hat ausgewählt; hinzugefügt needs one Partizip, sie Akk and der Nachricht Dat. Next unanswered S02-E05: امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته. Old S01-E03 remains pending. Totals 147 verbs, 171 words.
+
+
 ## Most recent attempt — Oct 13 S02-E02
 - E02 answered: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. Corrections: `Gestern`, `das Programm`. `gelöscht` valid; `entfernen` not independently produced.
 - NEXT pending **2026-10-13-S02-E03**: أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها. Old S01-E03 preserved. Inventories 147 verbs / 171 words.
