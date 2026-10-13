@@ -1,5 +1,12 @@
 # German Learning Journey
 
+## LIVE UPDATE — Oct 13 S02 recent-material review
+- User chose Targeted Review → Recent Material. Active session **2026-10-13-S02** in the existing open day. All previous work, particularly paused S01 E03, preserved.
+- Inventory: **147 introduced verbs**; **171 registered vocabulary entries** after introducing V171 **die Bestätigung / die Bestätigungen**. Not mastered or yet answered.
+- Next pending exercise **2026-10-13-S02-E01**: امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها. (Perfekt, pronoun sie, Dativ ihrem Kollegen, danach word order). No learner answer yet.
+- Live authority: progress.json, days/2026-10-13.md, CURRENT_STATE.md.
+
+
 ## LATEST SYNC — October 13, 2026 new-chat handoff
 - The live day **2026-10-13 is open; S01 paused for transition to a new chat**, no active session. Refer to CURRENT_STATE.md and progress.json, not historic progress snapshots below.
 - **147 verbs introduced** in the one contiguous verbs table; **170 vocabulary entries** in one contiguous register. IDs 138–147 introduced 2026-10-12 with Präsens and Perfekt. New V170 der Anhang / die Anhänge introduced, not yet independently used.
