@@ -1,5 +1,11 @@
 # German Learning Journey
 
+## LIVE UPDATE — Oct 13 S02-E01 correction
+- Reviewed Perfekt with `die Bestätigung`. Independent: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`; corrected: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`.
+- Correct Perfekt and danach V2; **sei → sie** (spelling), **dem → ihrem** (possessive semantic match). V171 **die Bestätigung** now practicing, one correct contextual use.
+- Counts remain 147 verbs introduced / 171 registered words. Active S02, next unanswered **2026-10-13-S02-E02**: «امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.». Older unfinished S01-E03 preserved.
+
+
 ## LIVE UPDATE — Oct 13 S02 recent-material review
 - User chose Targeted Review → Recent Material. Active session **2026-10-13-S02** in the existing open day. All previous work, particularly paused S01 E03, preserved.
 - Inventory: **147 introduced verbs**; **171 registered vocabulary entries** after introducing V171 **die Bestätigung / die Bestätigungen**. Not mastered or yet answered.
