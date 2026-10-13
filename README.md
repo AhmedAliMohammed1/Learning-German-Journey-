@@ -1,5 +1,11 @@
 # German Learning Journey 🇩🇪
 
+## Live update: October 13, S02-E02
+- E02 answered: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. Fix `Gestern` and `das Programm`. `gelöscht` is valid, but `entfernen` itself still needs independent practice.
+- Next unanswered **S02-E03**: أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها.
+- The historical dashboard below is an earlier checkpoint; use CURRENT_STATE.md and progress.json for live status.
+
+
 > **Current status: 13 October 2026 — open; active session S02.** This README is an index and dashboard, not the authoritative exercise database. Read [START_HERE.md](START_HERE.md) first, then [CURRENT_STATE.md](CURRENT_STATE.md) and [progress.json](progress.json). Historical announcements below were archived to eliminate conflicting “latest” snapshots.
 
 ## آخر حالة مؤكدة
