@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**170 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**171 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -176,6 +176,7 @@
 | V168 | die Frist | die Fristen | الموعد النهائي / المهلة | noun | practicing |
 | V169 | die Kopie | die Kopien | نسخة / صورة طبق الأصل | noun | practicing |
 | V170 | der Anhang | die Anhänge | مرفق الرسالة / ملف مرفق | noun | introduced |
+| V171 | die Bestätigung | die Bestätigungen | التأكيد / رسالة التأكيد | noun | introduced |
 
 ## Learning notes
 
