@@ -21,5 +21,5 @@ Progression policy: default to **progression-first** learning. After meaningful 
 Before introducing ANY verb or vocabulary item, or creating any exercise, the assistant MUST verify the entire `curriculum/verbs.md` (all rows 1 to end) and `curriculum/vocabulary.md` (all rows V001 to end). Never assume or guess that an item is new based on memory or partial reading. Every proposed item must be checked against the exact existing inventory to ensure 100% uniqueness. Never suggest previously introduced items as new. Always follow the established progression format and learner history exactly.
 
 
-## Dated live status pointer — 2026-10-13
-Active session S02 targeted recent review; next unanswered S02-E02 (aktualisieren/entfernen Perfekt). S01-E03 paused. 147 unified verbs and 171 vocabulary entries. Weak patterns M32/M34. **Re-read progress.json before future practice; this is a dated snapshot.**
+## Dated live status pointer — 2026-10-13 (paused)
+Day open. No active session; previous S02 targeted recent review **paused on user request** with E01–E04 answered, E05 unanswered: «امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.» Previous S01-E03 is also pending. Inventories 147 verbs and 171 vocabulary entries; introduced/practicing does not mean mastered. **Next chat must reread progress.json and CURRENT_STATE.md; do not use a cached snapshot.**
