@@ -150,7 +150,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | practicing | inseparable be-; + Akk |
 | 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | practicing | inseparable er-; + Akk |
 | 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | introduced | separable; + Akk |
-| 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | introduced | -ieren no ge-; + Akk |
+| 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | practicing | -ieren no ge-; + Akk |
 | 144 | weiterleiten | يعيد توجيه | ich leite ... weiter; er leitet ... weiter | hat weitergeleitet | Ich leite die Nachricht an meinen Kollegen weiter. | introduced | separable; + Akk; an + Akk recipient |
 | 145 | verschieben | ينقل / يؤجل | ich verschiebe; er verschiebt | hat verschoben | Ich verschiebe den Termin auf morgen. | introduced | inseparable ver-; + Akk; auf + Akk when postponing |
 | 146 | hinzufügen | يضيف | ich füge ... hinzu; er fügt ... hinzu | hat hinzugefügt | Ich füge der Nachricht einen Anhang hinzu. | introduced | separable; + Dat target + Akk thing |
@@ -187,3 +187,8 @@ All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt
 - Correct independent Perfekt forms `hat ... geprüft` (#128), `hat ... geschickt` (#64); correct Dativ `dem Kollegen`, though possessive `ihrem` was omitted.
 - Whole sentence required pronoun spelling `sei` → `sie`. Verb forms are practicing rather than mastered.
 - Next pending S02-E02 tests new verbs #143 aktualisieren and #147 entfernen (Perfekt).
+
+## 2026-10-13 S02-E02 — independent Perfekt usage
+- Original learner answer: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`.
+- Verb **#143 aktualisieren**: Perfekt `hat aktualisiert` independently correct, now practicing. **#147 entfernen** was *not* produced: `hat gelöscht` is a valid alternative here but does not prove recall of `entfernen`; it remains introduced. `das Programm` needs correction; `den Fehler`, `aus der Datei`, and `danach hat er` correct.
+- Next pending **2026-10-13-S02-E03** uses entfernen in a fresh context; do not show the solution before learner attempt.
