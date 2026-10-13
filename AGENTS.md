@@ -22,4 +22,4 @@ Before introducing ANY verb or vocabulary item, or creating any exercise, the as
 
 
 ## Dated live status pointer — 2026-10-13 (paused)
-Day open. No active session; previous S02 targeted recent review **paused on user request** with E01–E04 answered, E05 unanswered: «امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.» Previous S01-E03 is also pending. Inventories 147 verbs and 171 vocabulary entries; introduced/practicing does not mean mastered. **Next chat must reread progress.json and CURRENT_STATE.md; do not use a cached snapshot.**
+Day open. No active session; previous S02 targeted recent review **paused on user request** with E01–E04 answered, **2026-10-13-S02-E05** unanswered: «امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.» Previous S01-E03 is also pending. Inventories 147 verbs and 171 vocabulary entries; introduced/practicing does not mean mastered. **Next chat must reread progress.json and CURRENT_STATE.md; do not use a cached snapshot.**
