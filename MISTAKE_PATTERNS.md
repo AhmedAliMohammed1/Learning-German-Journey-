@@ -1,5 +1,17 @@
 # Adaptive mistake tracking
 
+## Current status index — 2026-10-13
+
+The **live, canonical pattern statuses** are in `progress.json.mistake_patterns`. The old headings below (“Active/weak”, “Improving”, “Stable”, “needs_check”) are **2026-10-03 historical backfill snapshots**, not today's status. Preserve evidence but do not use old labels for current scheduling.
+
+- **Weak now:** **M32** (word order after `und`); **M34** (preserve intended subject in follow-up clause).
+- **Improving:** **M08** (`ihn/sie/es`) and **M28** (V2 after fronted phrase). **Stable:** **M13** Genitiv adjective ending.
+- **S02-E01:** learner `sei` is a written typo for `sie`, not proven wrong grammatical case. `dem Kollegen` is valid Dativ but `ihrem Kollegen` is necessary for `لزميلها`.
+- See `CURRENT_STATE.md` for the exact current exercise and `days/2026-10-13.md` for actual responses.
+
+---
+
+
 **Backfilled from prior conversation**, based on the learner's supplied assessment on 2026-10-03. These status labels represent reported historical progress; they are not calculated from invented exercise counts.
 
 ## Active / weak — deliberate retesting
