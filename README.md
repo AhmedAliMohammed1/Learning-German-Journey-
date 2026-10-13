@@ -1,77 +1,68 @@
 # German Learning Journey 🇩🇪
 
-## Live update: October 13, S02-E02
-- E02 answered: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. Fix `Gestern` and `das Programm`. `gelöscht` is valid, but `entfernen` itself still needs independent practice.
-- Next unanswered **S02-E03**: أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها.
-- The historical dashboard below is an earlier checkpoint; use CURRENT_STATE.md and progress.json for live status.
+> **Latest saved state — 13 October 2026:** مذاكرتنا **متوقفة مؤقتًا** بطلب المتعلم، واليوم لسه **مفتوح**، مش متقفل. آخر جلسة **2026-10-13-S02** (مراجعة آخر الحاجات)، وآخر سؤال اتجاوب هو **E04**. الجلسة متوقفة عند **E05** اللي لسه من غير إجابة.
 
+## لوحة التقدم الحالية
 
-> **Current status: 13 October 2026 — open; active session S02.** This README is an index and dashboard, not the authoritative exercise database. Read [START_HERE.md](START_HERE.md) first, then [CURRENT_STATE.md](CURRENT_STATE.md) and [progress.json](progress.json). Historical announcements below were archived to eliminate conflicting “latest” snapshots.
-
-## آخر حالة مؤكدة
-
-| البند | القيمة | الملاحظات |
-| --- | --- | --- |
-| الأفعال المسجلة | **147** | introduced / taught; **مش كلهم متقنين** |
-| الكلمات والتعبيرات | **171** | deduplicated register; total mastered **unknown** |
-| آخر يوم | **2026-10-13** | **open**؛ الجلسة الحالية **2026-10-13-S02** |
-| النشاط الحالي | مراجعة آخر الحاجات | Targeted review → Recent material |
-| آخر تمرين اتصحّح | **2026-10-13-S02-E01** | `sei` → `sie` (كتابة)، `dem Kollegen` → `ihrem Kollegen` (لزميلها) |
-| **التمرين القادم، لم يُجب عنه** | **2026-10-13-S02-E02** | امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف. |
-| جلسة قديمة متوقفة | **2026-10-13-S01** | `S01-E03` محفوظ، ولم يُجب عنه |
-| جلسات موثّقة إجمالًا | **31** | IDs ظاهرة في سجل الأيام؛ لا تشمل الملخصات الأقدم بلا ID |
-
-**التركيز القريب:** Perfekt، `bevor/obwohl/wenn/dass`، `Dativ + Akkusativ`، `ihn/sie/es`، أفعال الملفات، وتصحيح الفاعل بعد `danach`. النقطتان الأضعف حسب السجل المنظم حاليًا: **M32** (ترتيب الجملة بعد und) و**M34** (الفاعل المقصود بعد الربط). **M08** الضمائر improving ولكن ما زال يحتاج اختبار. لا نستنتج النطق أو الاستماع من الكتابة.
-
-**مراجعات مؤجلة:** `2026-10-12-S03-E06` (bevor)، `2026-10-12-S02-E08` (obwohl)، والجلسات الأقدم ومراجعات المهارات المستحقة. لا تُحذف عند تغيير النشاط.
-
-## طريقة استئناف التعلّم
-
-اكتب في أي شات جديد:
-
-> Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first.
-
-راجع آخر حالة أولًا؛ لو المتعلم اختار نشاطًا، ابدأ فيه من الـ checkpoint نفسه. قدم تمرين واحد **عربي → ألماني** في كل مرة؛ المتعلم يكتب الجملة كاملة، ثم تصحيح واضح بالمصري مع سبب كل خطأ. **لا تعرض الإجابة النموذجية قبل المحاولة**.
-
-### القائمة الرئيسية
-1. مراجعة شاملة
-2. مراجعة جزء معين
-3. نكمّل آخر جلسة
-4. نبدأ يوم مذاكرة جديد — ثم اختار **قاعدة جديدة** أو **أفعال جديدة**
-5. أعرض تقدمي
-6. التحدث
-7. المحادثة
-8. القراءة
-9. السماعي
-
-المراجعة الشاملة فيها تسميع كل الأفعال، تسميع كل الكلمات، أو مراجعة جمل وقواعد. المراجعة الموجهة فيها موضوع معين، القواعد والأخطاء، آخر الحاجات، كل غير المتقن من **كل التاريخ**، تسميع الأفعال غير المتقنة، أو تسميع الكلمات غير المتقنة. لا تُعاد الأفعال المعروفة بوصفها جديدة. كل فعل جديد يُدرَّس **Präsens + Perfekt**، ويضاف إلى **قائمة واحدة مفتوحة بلا هدف نهائي**.
-
-## ملفات المستودع — مصدر الحقيقة
-
-| الملف | الاستخدام |
+| العنصر | العدد / الحالة |
 | --- | --- |
-| [START_HERE.md](START_HERE.md) | بروتوكول بدء الجلسة والتعلم والحفظ |
-| [AGENTS.md](AGENTS.md) | تعليمات مختصرة للأدوات/الوكلاء |
+| إجمالي الأفعال المتعلَّمة (introduced) | **147** — **مش** معنى كده إنها كلها مُتقنة |
+| إجمالي الكلمات المسجلة | **171** — برضه مش عدد المُتقن |
+| الجلسات ذات IDs موثقة | **31** — بعضها سجله تاريخي جزئي |
+| آخر يوم دراسة | **2026-10-13** — **open, paused** |
+| الجلسة المتوقفة | **2026-10-13-S02** |
+| آخر إجابة مكتملة | **2026-10-13-S02-E04** |
+| السؤال القادم غير المجاب عنه | **2026-10-13-S02-E05** |
+
+### هنكمل منين؟
+
+**[Perfekt]** امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.
+
+المطلوب تدريب `verschieben` في Perfekt، و`den Termin` و`seiner Schwester` Dativ. **لسه مفيش إجابة على السؤال ده؛ متعرضش الترجمة قبل محاولة المتعلم.**
+
+وفي تمرين قديم متوقف محفوظ برضه: **2026-10-13-S01-E03** — أختي بتختار المرفق، وبعد كده بتضيفه للرسالة. باقي التمارين المؤجلة والاختبارات محفوظة في `progress.json` من غير اعتبارها متحلّة.
+
+### ملخص آخر 4 أسئلة
+
+S02-E01 حتى E04 اتجاوبوا واتصححوا. الآتي أهم نقط المراجعة:
+- `hat ausgewählt`، `hat aktualisiert`، `hat entfernt`، وترتيب `danach hat sie/er` صح.
+- `hinzufügen` في Perfekt = **hat hinzugefügt**؛ لازم ضمير المفعول `sie` عن `die Datei` وDativ `der Nachricht`.
+- `das Programm` محايد، و`ihrem Kollegen` = لزميلها. `die Nachricht` = نفس الرسالة المذكورة.
+- `gelöscht` ممكن يكون بديل صحيح لـ`entfernt` حسب المعنى، لكن مش دليل على حفظ فعل `entfernen` إلا لما يُستخدم.
+
+**التركيز على الأخطاء:** M32/M34 محتاجين تدريب، والضمائر وحالات Dativ/Akkusativ تتكرر في سياق أفعال جديدة. لا نستنتج مستواك الشفهي من الكتابة.
+
+## ابدأ أي شات جديد
+
+`Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first.`
+
+ابدأ من [START_HERE.md](START_HERE.md)، واقرأ [CURRENT_STATE.md](CURRENT_STATE.md) و[progress.json](progress.json) وآخر ملف يوم. **الصيانة والتوقف المؤقت مش جلسة مذاكرة جديدة.**
+
+القائمة الرئيسية: 1. مراجعة شاملة، 2. مراجعة جزء معين، 3. نكمل آخر جلسة، 4. يوم جديد (قاعدة/أفعال)، 5. أعرض تقدمي، 6. التحدث، 7. المحادثة، 8. القراءة، 9. السماعي.
+
+## هيكل المستودع
+
+| الملف | محتواه |
+| --- | --- |
+| [START_HERE.md](START_HERE.md) | البروتوكول والقائمة وتوزيع جلسات المذاكرة |
+| [CURRENT_STATE.md](CURRENT_STATE.md) | **ملخص الحالة الحية** ونقطة الاستكمال |
+| [progress.json](progress.json) | السجل المنظم الموثوق: الأفعال والكلمات والأخطاء ونتائج التمارين |
 | [LEARNING_PROFILE.md](LEARNING_PROFILE.md) | تفضيلات المتعلم |
-| [CURRENT_STATE.md](CURRENT_STATE.md) | ملخص **حالي فقط**، بلا لقطات متعارضة |
-| [progress.json](progress.json) | **Structured source of truth**: التقدم، السجلات، الـ IDs، التمارين المعلّقة، الأخطاء والمهارات |
-| [curriculum/verbs.md](curriculum/verbs.md) | القائمة الموحدة للأفعال (147) + Präsens وPerfekt |
-| [curriculum/vocabulary.md](curriculum/vocabulary.md) | القائمة الموحدة للكلمات (171)، الـ Artikel والجمع |
-| [curriculum/grammar.md](curriculum/grammar.md) | القواعد وأمثلة الاستخدام وسجل الممارسة |
-| [MISTAKE_PATTERNS.md](MISTAKE_PATTERNS.md) | الأدلة التاريخية للأخطاء؛ حالة الأنماط الحية في progress.json |
-| [days/](days/) | ملف واحد لكل يوم، والردود الأصلية والتصحيحات محفوظة بالتاريخ |
-| [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | نموذج يوم جديد فقط إذا لم يكن له ملف |
-| [REPOSITORY_HEALTH.md](REPOSITORY_HEALTH.md) | فحص الاتساق، حدود البيانات التاريخية والضوابط |
+| [AGENTS.md](AGENTS.md) | تعليمات الوكلاء |
+| [curriculum/verbs.md](curriculum/verbs.md) | 147 فعل في جدول واحد، Präsens / Perfekt / الاستخدام |
+| [curriculum/vocabulary.md](curriculum/vocabulary.md) | 171 كلمة/تعبير، الأداة والجمع والحالة |
+| [curriculum/grammar.md](curriculum/grammar.md) | القواعد المدروسة وأمثلة الممارسة |
+| [MISTAKE_PATTERNS.md](MISTAKE_PATTERNS.md) | أدلة أخطاء قديمة وحالية؛ الحالة الموثوقة في JSON |
+| [days/](days/) | سجل يوم واحد لكل تاريخ برلين |
+| [templates/DAY_TEMPLATE.md](templates/DAY_TEMPLATE.md) | نموذج يوم جديد |
+| [REPOSITORY_HEALTH.md](REPOSITORY_HEALTH.md) | فحوصات الاتساق وحدود السجل القديم |
+| [archive/](archive/) | نسخ التقارير التاريخية السابقة محفوظة بدون فقدان |
 
-**أرشيف بدون فقدان معلومات:** [README السابق](archive/README_before_2026-10-13_reconciliation.md) و[CURRENT_STATE السابق](archive/CURRENT_STATE_before_2026-10-13_reconciliation.md). هما للمراجعة التاريخية فقط، مش الحالة الحالية.
+## القواعد المهمة
 
-## قواعد الحفظ والاتساق
+- أفعال جديدة: نراجع جدول الأفعال والكلمات بالكامل علشان نتأكد إنها جديدة فعلًا. كل فعل جديد يُضاف في نفس القائمة المفتوحة، مع Präsens + Perfekt.
+- في تدريب الجمل: السؤال **عربي → ألماني**، سؤال واحد كل مرة، والمتعلم يكتب الجملة كاملة. نصحّح بعد الإجابة وبالمصري.
+- عند التوقف: احفظ السؤال القادم بإجابته `null` وحالة `pending`، واحفظ الإجابات الأصلية كما اتكتبت والتصحيحات؛ ما تقفلش اليوم إلا لو المتعلم طلب كده بوضوح.
+- حالة `introduced` أو `practicing` **مش** مساوية لـ`mastered`. تمرين كتابي ناجح لا يعني إتقان النطق أو الاستماع.
 
-- عدد صفوف جدول الأفعال = `progress.verbs.learned_total`، وعدد صفوف الكلمات = `progress.vocabulary.registered_entries_count`. **Introduced ≠ mastered**.
-- ما نضيفش كلمة أو فعل إلا بعد مراجعة القائمتين بالكامل للتأكد إنه جديد. IDs متصلة وغير مكررة.
-- يوم برلين له ملف واحد `days/YYYY-MM-DD.md`؛ الجلسة الجديدة في نفس اليوم تُضاف لنفس الملف.
-- حفظ كل **إجابة أصلية**، التصحيح، وهل استُخدمت مساعدة؛ وإبقاء كل سؤال لم تتم الإجابة عنه. الصيانة لا تصنع إجابات أو درجات أو أيام تعلم جديدة.
-- الأدلة النصية تخص الكتابة فقط؛ الاستماع والنطق يحتاجان صوتًا فعليًا. التقدم في `Perfekt` لا يثبت تلقائيًا `Präsens` والعكس.
-- راجع [REPOSITORY_HEALTH.md](REPOSITORY_HEALTH.md) عند وجود شك في تاريخ قديم أو count؛ `progress.json` وأحدث `days/` هما المصدر الفعلي.
-
-آخر توفيق وثائقي: **2026-10-13** (صيانة فقط؛ لا يضيف محاولة تعلم).
+النسخ القديمة الطويلة من README وCURRENT_STATE موجودة في [archive](archive/) للرجوع التاريخي فقط، مش نقطة الاستكمال الحالية.
