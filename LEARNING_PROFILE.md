@@ -20,7 +20,7 @@
 - Do not automatically begin pending exercises on opening a new chat. First offer the nine startup choices, unless the learner already chose a mode; continue from the exact latest checkpoint when requested.
 - When the learner selects **Start a new study day**, first ask them to choose **a new grammar rule** or **new verbs**. Do not default every new day to verbs.
 - The new-day grammar/verbs submenu is navigation only; begin actual study after the learner chooses a track.
-- For the grammar track, introduce a genuinely **new practical grammar topic**, not merely a review of an existing weak pattern. For the verb track, follow normal verb progression; after the numbered target is complete, extra verbs stay supplemental unless the learner explicitly extends the target.
+- For the grammar track, introduce a genuinely **new practical grammar topic**, not merely a review of an existing weak pattern. For the verb track, follow normal verb progression; the unified verb inventory is open-ended without a final target or supplemental split.
 - Teach every newly introduced verb with both **Präsens** and **Perfekt**: infinitive/meaning, a useful present reference, and **haben/sein + Partizip II**. Include important irregular present forms and separable/case/preposition notes when relevant.
 - In verb reviews, include both present-tense and **Perfekt** practice. Full review and Targeted review must not become present-only; weight the weaker tense from evidence.
 - Track verb competence separately by tense. A verb can be strong in present use but still unresolved in Perfekt, or the reverse.
@@ -36,7 +36,7 @@
 
 ## Adaptive review priorities
 
-Use the latest progress.json and dated evidence to set priorities rather than freezing the historical list. At this update M13 Genitiv adjective endings and M28 V2 after a fronted phrase remain weak; M01, M05, M11, M12, M27, and M10 have improved. Continue rotating earlier material.
+Use the latest progress.json and dated evidence rather than frozen historical labels. As of 2026-10-13 M32 and M34 are weak, M08 and M28 improving, M13 stable. Re-evaluate these at every session.
 
 Maintain improving patterns through spaced review. Sample stable patterns occasionally rather than repeatedly reteaching them. Minor spelling issues are separate from grammar weaknesses.
 
