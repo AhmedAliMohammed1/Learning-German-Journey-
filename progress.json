@@ -20,8 +20,8 @@
   "latest_day": "2026-10-13",
   "day_status": "open",
   "current_session_id": "2026-10-13-S02",
-  "sessions_recorded": 29,
-  "last_verified_study_at": "2026-10-12T21:11:54+02:00",
+  "sessions_recorded": 31,
+  "last_verified_study_at": "2026-10-13T15:26:54+02:00",
   "active_topic": "Recent-material targeted review: S02 E01 corrected, E02 next",
   "next_action": "Await independent answer to 2026-10-13-S02-E02: امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف. Use Perfekt of aktualisieren and entfernen; review den Fehler and aus der Datei. Earlier paused S01 E03 untouched.",
   "pending_exercises": [
@@ -13124,9 +13124,9 @@
       ]
     }
   },
-  "latest_study_date": "2026-10-12",
-  "latest_study_state": "reopened",
-  "next_suggested_action": "User switching to a new chat; don't ask for repeating prior answers. On 'continue German Journey' read START_HERE and resume exact unanswered 2026-10-13-S01-E03: أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.. Target auswählen, hinzufügen, V170 der Anhang and Dativ der Nachricht. Prior paused S03-E06 S02-E08 and earlier work preserved.",
+  "latest_study_date": "2026-10-13",
+  "latest_study_state": "open",
+  "next_suggested_action": "Await independent answer to 2026-10-13-S02-E02: امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف. Use Perfekt of aktualisieren and entfernen; review den Fehler and aus der Datei. Earlier paused S01 E03 untouched.",
   "active_grammar": "bevor",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -18689,15 +18689,20 @@
     "vocabulary_registered": 138,
     "learned_verbs_at_checkpoint": 105
   },
-  "last_verified_study_on": "2026-10-12",
+  "last_verified_study_on": "2026-10-13",
   "reconciliation_notes": [
     {
       "date": "2026-10-09",
       "base_commit": "65c95af38cdf6a61d10365487575300baf6498e8",
       "note": "S01 follow-up IDs E06-E11 assigned in observed order; unavailable original prompts remain null. Dated completed ranges can lack exact transcripts; do not fabricate scores. Vocabulary additions register previously omitted introduced/encountered material rather than 14 words newly taught today. Session count reconciled from 2+1+1+2+3+1+2 actual dated sessions. Closed_at cleared for open day; historical closure evidence retained."
+    },
+    {
+      "date": "2026-10-13",
+      "type": "repository_documentation_audit",
+      "note": "Maintenance only, no learning attempt or new session. Reconciled 31 documented session IDs across dated logs (Oct3=2, Oct4=1, Oct5=1, Oct6=2, Oct7=3, Oct8=1 documented historical summary, Oct9=5, Oct10=5, Oct11=5, Oct12=4, Oct13=2). Past README/CURRENT_STATE were archived and replaced with single live summaries; historical completed exercise records with missing raw data deliberately not synthesized. latest_study and scope fields synchronized to real Oct13 S02-E01."
     }
   ],
-  "current_review_scope": "new_verb_batch",
+  "current_review_scope": "recent_material",
   "paused_session_id": "2026-10-13-S01",
   "recall_tracking": {
     "active_activity_id": null,
@@ -21553,5 +21558,18 @@
         "pause_reason": "Learner selected reading mode; exact E03 and coverage preserved."
       }
     ]
+  },
+  "repository_integrity": {
+    "verified_on": "2026-10-13",
+    "reason": "User-requested repository reconciliation; no learner practice recorded",
+    "count_scope": "31 documented sessions with identifiable IDs; some historical date files use summary rather than full individual attempt records",
+    "current_day": "2026-10-13",
+    "active_session_id": "2026-10-13-S02",
+    "current_pending_exercise_id": "2026-10-13-S02-E02",
+    "preserved_pending_exercise_id": "2026-10-13-S01-E03",
+    "verb_rows": 147,
+    "vocabulary_rows": 171,
+    "mastered_count_known": false,
+    "historical_gaps": "Legacy exercise_results may have null/missing exercise_id and the completed_exercise_ids list may not have item-level raw details. Preserve original provenance; do not invent."
   }
 }
