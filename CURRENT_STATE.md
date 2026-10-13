@@ -1,5 +1,12 @@
 # Current learner state
 
+## LIVE UPDATE — 2026-10-13 S02 targeted recent review
+- Current day **open**, active **2026-10-13-S02**, selected main-menu 2 → 3 (review recent material); earlier S01 remains paused, with **2026-10-13-S01-E03** not answered.
+- Verb count unchanged at **147 introduced**. Audited all inventory rows; introduced new vocabulary **V171 die Bestätigung / die Bestätigungen**, bringing register to **171**; this word has no assessed independent use yet.
+- Next exact unanswered **2026-10-13-S02-E01**: «امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها.». Full German sentence requested; Perfekt, sie for die Bestätigung, Dativ ihrem Kollegen, danach V2. No answer provided yet.
+- Next rounds rotate the recently taught verbs 138–147, bevor and pronoun/Dativ corrections; older reading/retests and all unfinished exercises remain preserved. No speaking/listening inferred.
+
+
 ## LIVE HANDOFF — 2026-10-13 S01 paused for new chat
 - Date 2026-10-13, Europe/Berlin. The day is **open**, S01 is **paused on user request**, `current_session_id=null`, `paused_session_id=2026-10-13-S01`. Previous Oct12 S04 paused by midnight rollover. This live block supersedes all historical sections below.
 - Learner asked to save everything and move to a new chat. No new material was introduced after the original new batch; totals **147 introduced verbs** and **170 registered vocab items**. IDs 138–147 introduced on Oct12; V170 der Anhang / die Anhänge remains introduced, not independently assessed.
