@@ -21,8 +21,10 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | daran denken | introduced | an + Akk; daran substitution |
 | Genitiv: possession, in der Nähe, nested phrases, adjective endings | practicing | Spaced maintenance while new grammar progresses |
 | Perfekt: haben/sein + Partizip II | practicing | Introduced 2026-10-07; continues in spaced maintenance |
-| dass: Präsens, modal and Perfekt subordinate clauses | practicing | Active main topic introduced 2026-10-09 |
-| bevor: temporal subordinate clause (before doing something) | introduced | New main grammar lesson 2026-10-12-S03; written practice pending |
+| dass: Präsens, modal and Perfekt subordinate clauses | practicing | Introduced 2026-10-09; cumulative practice |
+| wenn: conditional / repeated-time clauses | practicing | Introduced 2026-10-10, contrast with als |
+| obwohl: contrast clauses | practicing | Introduced 2026-10-11, written practice |
+| bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
 
 ## Cases and pronouns
 
