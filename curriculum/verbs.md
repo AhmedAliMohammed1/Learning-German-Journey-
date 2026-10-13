@@ -149,12 +149,12 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 139 | einfügen | يلصق / يدرج | ich füge ... ein; er fügt ... ein | hat eingefügt | Ich füge den Text in die Datei ein. | practicing | separable; + Akk thing; in + Akk target |
 | 140 | bearbeiten | يعدّل / يشتغل على ملف | ich bearbeite; er bearbeitet | hat bearbeitet | Ich bearbeite die Datei. | practicing | inseparable be-; + Akk |
 | 141 | erstellen | ينشئ | ich erstelle; er erstellt | hat erstellt | Ich erstelle eine Kopie. | practicing | inseparable er-; + Akk |
-| 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | introduced | separable; + Akk |
+| 142 | auswählen | يختار | ich wähle ... aus; er wählt ... aus | hat ausgewählt | Ich wähle die Datei aus. | practicing | separable; + Akk |
 | 143 | aktualisieren | يحدّث | ich aktualisiere; er aktualisiert | hat aktualisiert | Ich aktualisiere das Programm. | practicing | -ieren no ge-; + Akk |
 | 144 | weiterleiten | يعيد توجيه | ich leite ... weiter; er leitet ... weiter | hat weitergeleitet | Ich leite die Nachricht an meinen Kollegen weiter. | introduced | separable; + Akk; an + Akk recipient |
 | 145 | verschieben | ينقل / يؤجل | ich verschiebe; er verschiebt | hat verschoben | Ich verschiebe den Termin auf morgen. | introduced | inseparable ver-; + Akk; auf + Akk when postponing |
-| 146 | hinzufügen | يضيف | ich füge ... hinzu; er fügt ... hinzu | hat hinzugefügt | Ich füge der Nachricht einen Anhang hinzu. | introduced | separable; + Dat target + Akk thing |
-| 147 | entfernen | يزيل | ich entferne; er entfernt | hat entfernt | Ich entferne den Fehler aus der Datei. | introduced | inseparable ent-; + Akk + aus + Dat |
+| 146 | hinzufügen | يضيف | ich füge ... hinzu; er fügt ... hinzu | hat hinzugefügt | Ich füge der Nachricht einen Anhang hinzu. | practicing | separable; + Dat target + Akk thing |
+| 147 | entfernen | يزيل | ich entferne; er entfernt | hat entfernt | Ich entferne den Fehler aus der Datei. | practicing | inseparable ent-; + Akk + aus + Dat |
 
 ## How to read the table
 
