@@ -1,5 +1,10 @@
 # Current learner state
 
+## Most recent attempt — Oct 13 S02-E02
+- E02 answered: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. Corrections: `Gestern`, `das Programm`. `gelöscht` valid; `entfernen` not independently produced.
+- NEXT pending **2026-10-13-S02-E03**: أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها. Old S01-E03 preserved. Inventories 147 verbs / 171 words.
+
+
 > **Authoritative current checkpoint** — last real learner answer 2026-10-13-S02-E01. Maintenance reconciled 2026-10-13; not a new study attempt. Full original evidence lives in [progress.json](progress.json) and [days/2026-10-13.md](days/2026-10-13.md).
 
 ## Status and current session
