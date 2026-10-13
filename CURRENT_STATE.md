@@ -1,5 +1,12 @@
 # Current learner state
 
+## LIVE UPDATE — 2026-10-13 S02-E01 corrected
+- Day **open**; active 2026-10-13-S02. E01 original: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Correct: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`.
+- Strong Perfekt prüfen/schicken and danach V2. **sei** should be **sie** (spelling); Arabic **لزميلها** requires **ihrem Kollegen** rather than nonspecific **dem Kollegen**.
+- New vocabulary **V171 die Bestätigung** now **practicing** after first independent correct use. Totals **147 introduced verbs, 171 vocabulary entries**.
+- Next exact unanswered **2026-10-13-S02-E02**: «امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.». Previous S01-E03 and older work remain pending, untouched.
+
+
 ## LIVE UPDATE — 2026-10-13 S02 targeted recent review
 - Current day **open**, active **2026-10-13-S02**, selected main-menu 2 → 3 (review recent material); earlier S01 remains paused, with **2026-10-13-S01-E03** not answered.
 - Verb count unchanged at **147 introduced**. Audited all inventory rows; introduced new vocabulary **V171 die Bestätigung / die Bestätigungen**, bringing register to **171**; this word has no assessed independent use yet.
