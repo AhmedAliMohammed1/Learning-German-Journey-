@@ -15,7 +15,7 @@ Copy only when days/{{DATE}}.md does not exist. Replace {{DATE}} with the actual
 
 ## Starting state
 
-- Numbered verbs introduced / target (supplemental entries excluded):
+- Unified introduced verb count (open-ended; no fixed target or supplemental inventory):
 - Latest requested activity and whether it is pending or completed:
 - Historical source: live session / Backfilled from prior conversation.
 - For backfill only: exact times and original session count may be unknown; do not fabricate them. Record a historical summary separately from live session sections. sessions counts the actual live sections, not estimated historical sessions.
@@ -37,8 +37,8 @@ Append once actual study starts:
 - Started at:
 - Ended at:
 - Topics and material:
-- New numbered verbs (batch of 10) / grammar / vocabulary actually introduced:
-- Supplemental entries (excluded from numbered total):
+- Newly introduced unified verb IDs (normally batch of 10) / grammar / vocabulary:
+- Previously introduced verbs reused (not counted again):
 - Old material reused in cumulative review:
 - New vocabulary included in this review:
 - Preferences changed:
