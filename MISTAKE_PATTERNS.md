@@ -510,3 +510,9 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - E01 had 'in der Datei' instead of 'in die Datei' for insertion; E02 correct in die Datei is positive same-session repair, not delayed mastery. Further independent retests due under review queue.
 - Status: Oct13 S01 paused for new-chat transition, not day close. Next E03 exact Arabic: أختي بتختار المرفق، وبعد كده بتضيفه للرسالة. For that sentence test masculine accusative ihn (der Anhang) and Dativ der Nachricht, as well as separable verbs.
 - Existing error pattern IDs M08 and directional two-way-preposition category retained. No invented pronunciation or oral evidence.
+
+## 2026-10-13 S02-E01 — typo versus grammar
+- Raw: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Natural: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`.
+- **sei → sie** is plausibly a spelling/metathesis slip, not established incorrect feminine case/gender; no new M08 grammar-error count. Delayed fresh check remains appropriate.
+- **dem Kollegen** has correct Dativ and weak masculine -n; however intended **لزميلها** requires possessive **ihrem Kollegen**. Preserve this as a semantic/possessive issue, not a Dativ failure.
+- Correct independent Perfekt of prüfen/schicken and main V2; full sentence still needed correction.
