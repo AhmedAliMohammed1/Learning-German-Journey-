@@ -505,3 +505,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - S01-E02 learner original: Meine Schwester hat gestern eine Kopie erstellt, danach hat sie in die Datei eingefügt. Corrected: Meine Schwester hat gestern eine Kopie erstellt. Danach hat sie sie in die Datei eingefügt.
 - E02 achieved independent transfer with direction 'in die Datei' and correct Perfekt verb forms, but second clause missed Akkusativ object pronoun 'sie' (die Kopie); distinguish case success from full sentence result. Maintain old M08 pronoun issue, with separate error evidence.
 - Session paused for new chat after E02; exact next unanswered S01-E03 asks use of auswählen + hinzufügen with der Anhang and Dativ der Nachricht. No oral or listening evidence. No mastery promotion.
+
+## 2026-10-13 S02-E01 — written Perfekt, Dativ and pronoun
+- Independent: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Correction: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`.
+- Correct Perfekt and V2 after danach. `dem Kollegen` is grammatical Dativ, but Arabic **لزميلها** calls for **ihrem Kollegen**. The form `sei` instead of `sie` is a written-order typo, not enough evidence of a pronoun gender/case misunderstanding.
+- Next unanswered S02-E02 covers aktualisieren/entfernen Perfekt and den Fehler/Akk, aus der Datei/Dat; S01-E03 remains paused.
