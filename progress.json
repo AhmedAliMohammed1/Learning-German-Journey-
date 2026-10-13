@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-13",
-  "last_updated_at": "2026-10-13T15:20:01+02:00",
+  "last_updated_at": "2026-10-13T15:26:54+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -22,8 +22,8 @@
   "current_session_id": "2026-10-13-S02",
   "sessions_recorded": 29,
   "last_verified_study_at": "2026-10-12T21:11:54+02:00",
-  "active_topic": "Targeted recent-material review: written Arabic → German, 2026-10-13-S02",
-  "next_action": "Await answer to 2026-10-13-S02-E01: امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها. Review Perfekt + die Bestätigung, feminine object sie, Dativ ihrem Kollegen and danach V2. Do not pre-show solution. Preserve paused 2026-10-13-S01-E03.",
+  "active_topic": "Recent-material targeted review: S02 E01 corrected, E02 next",
+  "next_action": "Await independent answer to 2026-10-13-S02-E02: امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف. Use Perfekt of aktualisieren and entfernen; review den Fehler and aus der Datei. Earlier paused S01 E03 untouched.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -1496,10 +1496,26 @@
       "review_scope": "recent_material",
       "tense": "Perfekt",
       "prompt_ar": "امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها.",
+      "status": "completed",
+      "hint_used": false,
+      "learner_answer": "Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt",
+      "target": "Perfekt prüfen/schicken, die Bestätigung->sie, Dativ ihrem Kollegen, danach V2, subject continuity; new V171 vocabulary",
+      "corrected_answer": "Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.",
+      "independent": true,
+      "result": "needs_orthographic_pronoun_repair_and_possessive_recipient",
+      "answered_at": "2026-10-13T15:26:54+02:00"
+    },
+    {
+      "id": "2026-10-13-S02-E02",
+      "session_id": "2026-10-13-S02",
+      "activity": "targeted_recent_review",
+      "review_scope": "recent_material",
+      "tense": "Perfekt",
+      "prompt_ar": "امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.",
       "status": "pending",
       "hint_used": false,
       "learner_answer": null,
-      "target": "Perfekt prüfen/schicken, die Bestätigung->sie, Dativ ihrem Kollegen, danach V2, subject continuity; new V171 vocabulary"
+      "target": "new verbs aktualisieren/entfernen in Perfekt; das Programm, den Fehler Akk, aus der Datei Dat; subject continuity after danach"
     }
   ],
   "completed_exercise_ids": [
@@ -1891,7 +1907,8 @@
     "2026-10-12-S03-E05",
     "2026-10-12-S04-E01",
     "2026-10-13-S01-E01",
-    "2026-10-13-S01-E02"
+    "2026-10-13-S01-E02",
+    "2026-10-13-S02-E01"
   ],
   "verbs": {
     "learned_total": 147,
@@ -3883,9 +3900,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 2,
-        "independent_correct": 2,
-        "last_reviewed": "2026-10-04",
+        "recorded_attempts": 3,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-13",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -3904,6 +3921,15 @@
             "independent": true,
             "correct": true,
             "note": "schicken with Dativ recipient and Akk object slot correct; definiteness mismatch separate."
+          },
+          {
+            "date": "2026-10-13",
+            "session_id": "2026-10-13-S02",
+            "exercise_id": "2026-10-13-S02-E01",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct hat ... geschickt and Dativ recipient form; possessive missing only."
           }
         ],
         "meaning_ar": "يرسل",
@@ -3915,7 +3941,15 @@
         "perfekt_reference": "hat geschickt",
         "example_reference": "Ich schicke meinem Bruder die Fahrkarte.",
         "reference_backfilled_on": "2026-10-09",
-        "reference_is_teaching_information": true
+        "reference_is_teaching_information": true,
+        "tense_tracking": {
+          "Perfekt": {
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-13-S02-E01"
+            ]
+          }
+        }
       },
       {
         "id": 65,
@@ -6582,9 +6616,9 @@
         "introduction_date": "2026-10-11",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
-        "independent_correct": 2,
-        "last_reviewed": "2026-10-12",
+        "recorded_attempts": 3,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-13",
         "evidence": [
           {
             "exercise_id": "2026-10-11-S05-E01",
@@ -6603,6 +6637,15 @@
             "independent": true,
             "correct": true,
             "note": "Correct hat geprüft; file noun incorrect."
+          },
+          {
+            "date": "2026-10-13",
+            "session_id": "2026-10-13-S02",
+            "exercise_id": "2026-10-13-S02-E01",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct hat ... geprüft with Akkusativ die Bestätigung."
           }
         ],
         "praesens_reference": "ich prüfe; er prüft",
@@ -6616,7 +6659,8 @@
             "status": "practicing",
             "evidence_ids": [
               "2026-10-11-S05-E01",
-              "2026-10-12-S02-E02"
+              "2026-10-12-S02-E02",
+              "2026-10-13-S02-E01"
             ]
           }
         },
@@ -11123,13 +11167,24 @@
         "plural": "die Bestätigungen",
         "meaning_ar": "التأكيد / رسالة التأكيد",
         "type": "noun",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-13",
         "source": "2026-10-13-S02",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "evidence": [],
-        "usage_example": "Ich brauche eine Bestätigung."
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "evidence": [
+          {
+            "date": "2026-10-13",
+            "session_id": "2026-10-13-S02",
+            "exercise_id": "2026-10-13-S02-E01",
+            "kind": "written_context_use",
+            "independent": true,
+            "correct": true,
+            "note": "Independently produced correct die Bestätigung and meaning; typo in later pronoun 'sei' and missing possessive recipient are distinct issues, not failure of vocabulary recall."
+          }
+        ],
+        "usage_example": "Ich brauche eine Bestätigung.",
+        "last_reviewed": "2026-10-13"
       }
     ]
   },
@@ -13580,6 +13635,15 @@
       ],
       "pending_exercise_id": "2026-10-13-S02-E01",
       "note": "Explicit menu selection 2 → 3. New review session, no learner answer yet. Prior session S01 paused with E03 outstanding and all earlier pending work kept."
+    },
+    {
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T15:26:54+02:00",
+      "session_id": "2026-10-13-S02",
+      "event": "targeted_review_e01_corrected_e02_pending",
+      "answered_exercise_id": "2026-10-13-S02-E01",
+      "next_pending": "2026-10-13-S02-E02",
+      "note": "Perfekt and clause order correct, V171 correctly used. Only sei typo for sie and dem vs ihrem missing possessive. No full-sentence mastery. All previous pending tasks remain."
     }
   ],
   "exercise_results": [
@@ -17592,6 +17656,32 @@
         "object_pronoun_sie": "needs_retry"
       },
       "note": "Correct hat erstellt and hat eingefügt in Perfekt, directional in die Datei after prior case error, and German time gestern. Missing accusative object pronoun sie for die Kopie in second clause. Punctuation improvement optional. Not a fully correct independent translation."
+    },
+    {
+      "exercise_id": "2026-10-13-S02-E01",
+      "session_id": "2026-10-13-S02",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T15:26:54+02:00",
+      "mode": "written_sentence_translation",
+      "activity": "targeted_recent_review",
+      "prompt_ar": "امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها.",
+      "learner_answer": "Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt",
+      "correction": "Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "result": "needs_orthographic_pronoun_repair_and_possessive_recipient",
+      "dimension_outcomes": {
+        "pruefen_perfekt": "independent_correct",
+        "schicken_perfekt": "independent_correct",
+        "v171_lexical_context_use": "independent_correct",
+        "danach_verb_second": "independent_correct",
+        "dativ_kollege_form": "independent_correct",
+        "possessive_recipient": "needs_retry",
+        "feminine_pronoun_spelling": "needs_retry_spelling_only"
+      },
+      "note": "Correct hat ... geprüft, hat ... geschickt; V2 after danach, lexical die Bestätigung and dative dem Kollegen grammatical; typo 'sei' should be 'sie' for die Bestätigung, without proving a wrong gender choice. 'dem Kollegen' is grammatically Dativ but the Arabic 'لـزميلها' requires ihrem Kollegen. Comma between main clauses stylistically revised to period. Not fully correct due spelling and possessive mismatch."
     }
   ],
   "skill_tracking": {
@@ -18576,7 +18666,7 @@
     "latest_decision": {
       "date": "2026-10-13",
       "activity_id": "2026-10-13-S02",
-      "reason": "Learner chose recent-material targeted review. Select Perfekt and recently introduced file/message vocabulary; prioritize M08 feminine object pronoun, Dativ Kollege, correct subject after danach (M34), and future bevor/new verb practice. Include one new practical noun V171 after verifying full inventories. Previous S01 E03 remains paused."
+      "reason": "E01 correct on Perfekt/V2 and new noun. Repair typo 'sei' to 'sie' and show ihrem for intended her colleague. Switch to previously unassessed recent verbs aktualisieren and entfernen in Perfekt with directional/case practice; retain deferred exercises."
     }
   },
   "feature_config_updated_on": "2026-10-09",
