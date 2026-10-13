@@ -1,20 +1,27 @@
 # START HERE — AI session protocol
 
-## Latest update — 2026-10-13 S02-E02 answered
-- Current day open; active S02 recent-material targeted review. **S02-E02 already corrected**: learner's `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. The fixes are `Gestern`, `das Programm`. `gelöscht` is a valid alternative here but does not establish independent use of `entfernen`.
-- **Exact next unanswered S02-E03:** «أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها.» Test `entfernen` in Perfekt, `der Anhang`, `aus der Nachricht`, `ihrem Kollegen`; don't reveal the German solution early.
-- Paused S01-E03 and old review backlog stay unanswered. Current verb/vocab totals 147/171. More recent checkpoints override archival pointers below.
+This is the entry point for every assistant continuing the learner's German journey. Respect current user instructions and explain in concise Egyptian Arabic.
 
+## LIVE handoff — 2026-10-13 (user-requested pause and GitHub sync)
 
-This is the entry point for every assistant continuing this learner's German journey. Follow the learner's current explicit instructions first. Load the repository state before teaching. Explain to the learner in Egyptian Arabic.
+**Current status:** Day `2026-10-13` is **open**, NOT closed. User requested a break, so **no active session**: `current_session_id=null`, `paused_session_id=2026-10-13-S02`. Mode was **main menu 2 → option 3** (review recent material). No answer submitted to E05; maintenance must not fabricate one. **31 documented sessions**, **147 introduced verbs** and **171 registered vocabulary entries**; counts do not establish mastery.
 
-## Live checkpoint and precedence — 2026-10-13 repository reconciliation
-- **For live state read CURRENT_STATE.md, progress.json and days/2026-10-13.md.** Recheck these files from GitHub next time; all fixed figures in instructions are dated evidence, not permanent defaults.
-- **13 October 2026: open; ACTIVE session 2026-10-13-S02**, targeted recent-material review. **147 verbs introduced, 171 vocabulary entries**, not mastery counts. V171 die Bestätigung is practicing.
-- **S02-E01 already answered:** `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Correction: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.` Correct Perfekt/V2; written sei typo and missing possessive ihrem. Never score twice.
-- **NEXT UNANSWERED 2026-10-13-S02-E02**: «امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.» Target Perfekt with aktualisieren + entfernen, den Fehler, aus der Datei. **Do not pre-show model.**
-- Paused **2026-10-13-S01-E03** (auswählen/hinzufügen) and earlier **2026-10-12-S03-E06**, **2026-10-12-S02-E08** and the historical queue remain unresolved, not discarded.
-- Latest weak M32/M34, improving M08 and M28, stable M13; no spoken/listening inference. Repository maintenance is **not** a study session, new item, or answer. Previous dashboard snapshots stored in archive/; see REPOSITORY_HEALTH.md.
+**NEXT UNANSWERED when learner resumes S02: `2026-10-13-S02-E05` (Perfekt):**
+> امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.
+
+Goal: `verschieben` (#145, new verb) Perfekt, `den Termin auf Freitag`, Dativ `seiner Schwester`, `danach` word order. **Do not reveal full model before their answer.**
+
+**Previous paused S01-E03 also unanswered:** «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» Exercise `2026-10-13-S01-E03` is preserved, as are Oct12 and older pending retests. Do not merge or complete these prompts without independent attempts.
+
+**S02 already completed E01–E04**, recorded with full original answers and corrections in [progress.json](progress.json) and [days/2026-10-13.md](days/2026-10-13.md):
+- **E01:** `hat geprüft / hat geschickt` correct; `sei` spelling slip for `sie`; `ihrem Kollegen` for her colleague.
+- **E02:** `hat aktualisiert` correct; repair `Gester` → `Gestern`, `die Programm` → `das Programm`; `gelöscht` valid synonym but not independent `entfernen` evidence in E02.
+- **E03:** `hat entfernt` and `den Anhang` correct; `aus der Nachricht` preferable; second message must be `die Nachricht` (same message), and `ihrem Kollegen`.
+- **E04:** `hat ausgewählt` correct; repair `hat sie hinzu die Nachricht gefügt` to `hat sie sie der Nachricht hinzugefügt` (whole Partizip II, Akk pronoun, Dativ).
+
+**Item statuses:** #142 auswählen (Perfekt independently correct), #143 aktualisieren (Perfekt independently correct), #146 hinzufügen (attempted, malformed Perfekt), #147 entfernen (Perfekt independently correct), V170 der Anhang (correct independently). #145 verschieben unassessed, next review. M32/M34 weak, M08 improving. No speaking/audio in this session.
+
+**Startup precedence:** Read this file first, then [CURRENT_STATE.md](CURRENT_STATE.md), [LEARNING_PROFILE.md](LEARNING_PROFILE.md), [progress.json](progress.json), current/latest day log and curriculum. **Use those live records, not outdated archive headlines or old dated example instructions.** Present the nine-choice main menu unless the learner explicitly requests to continue the paused work. A pause alone does NOT close the day or create another session.
 
 ## 1. Required startup reads
 
