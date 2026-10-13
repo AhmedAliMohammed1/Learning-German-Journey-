@@ -2,14 +2,13 @@
 
 This is the entry point for every assistant continuing this learner's German journey. Follow the learner's current explicit instructions first. Load the repository state before teaching. Explain to the learner in Egyptian Arabic.
 
-## Latest handoff pointer — 2026-10-13
-- The user is moving to a new chat and requested a full sync. **Read CURRENT_STATE.md and progress.json for live authority**; historic sample numbers and older dated states elsewhere in this file are archival, not current.
-- **Live study date 2026-10-13: open but current_session_id=null; paused_session_id=2026-10-13-S01**. This is a chat-handoff pause, NOT an explicit day close.
-- **147 introduced verbs in single unified inventory** and **170 vocabulary entries**. New verb IDs 138–147 introduced 2026-10-12 with Präsens+Perfekt+examples. V170 der Anhang / die Anhänge introduced, still awaiting independent use. Avoid duplicates.
-- **Oct 13 S01 E02 already answered/corrected**, do not repeat: learner used correct hat erstellt, hat eingefügt and in die Datei but omitted `sie` for die Kopie. See dated log and progress.json for exact raw response.
-- **Next exact unanswered task 2026-10-13-S01-E03**: «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» Ask for one full German sentence only if user wants to continue. Target verbs auswählen + hinzufügen, article/masculine pronoun for Anhang and Dativ der Nachricht. Do not pre-display the German answer.
-- Older unanswered 2026-10-12-S03-E06, 2026-10-12-S02-E08, Oct11 reading/recall/verb exercises and due retests all preserved. No audio/oral dimensions assessed from written attempts.
-- If user initiates a fresh chat saying 'Continue my German Journey from AhmedAliMohammed1/Learning-German-Journey-. Read START_HERE.md first', verify latest GitHub files, then honor their chosen mode; do NOT silently start a new day/session or discard the paused E03. Use compact Egyptian Arabic, one exercise at a time.
+## Live checkpoint and precedence — 2026-10-13 repository reconciliation
+- **For live state read CURRENT_STATE.md, progress.json and days/2026-10-13.md.** Recheck these files from GitHub next time; all fixed figures in instructions are dated evidence, not permanent defaults.
+- **13 October 2026: open; ACTIVE session 2026-10-13-S02**, targeted recent-material review. **147 verbs introduced, 171 vocabulary entries**, not mastery counts. V171 die Bestätigung is practicing.
+- **S02-E01 already answered:** `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`. Correction: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.` Correct Perfekt/V2; written sei typo and missing possessive ihrem. Never score twice.
+- **NEXT UNANSWERED 2026-10-13-S02-E02**: «امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.» Target Perfekt with aktualisieren + entfernen, den Fehler, aus der Datei. **Do not pre-show model.**
+- Paused **2026-10-13-S01-E03** (auswählen/hinzufügen) and earlier **2026-10-12-S03-E06**, **2026-10-12-S02-E08** and the historical queue remain unresolved, not discarded.
+- Latest weak M32/M34, improving M08 and M28, stable M13; no spoken/listening inference. Repository maintenance is **not** a study session, new item, or answer. Previous dashboard snapshots stored in archive/; see REPOSITORY_HEALTH.md.
 
 ## 1. Required startup reads
 
@@ -85,7 +84,7 @@ Use **days/YYYY-MM-DD.md** only. Never create suffixes such as -2 or a second fi
 
 "Start a new study day" on an existing date means a fresh session in that same date file. Do not overwrite earlier sections, previous closure events, or unfinished exercises.
 
-If a historical day contains only a backfilled summary, read that summary as actual reported learning history even when sessions is 0. The count refers only to individually logged live session sections. For the live continuation point, use progress.pending_exercises and the newest saved checkpoint. At this feature update, E01–E40 are completed and corrected, while Batch 5 E41–E50 is pending. Preserve it if the learner chooses another mode; do not replace it with a generic review. Do not fabricate a previous exact question. Offer the nine choices before teaching unless a mode was already selected.
+If a historical day contains only a backfilled summary, read that summary as actual reported learning history even when sessions is 0. The count refers only to individually logged live session sections. For the live continuation point, use progress.pending_exercises and the newest saved checkpoint. Preserve all historical pending exercise IDs from progress.json rather than following a frozen Batch 5 pointer. Do not fabricate a previous exact question. Offer the nine choices before teaching unless a mode was already selected.
 
 Use ISO 8601 timestamps with the correct Berlin offset when the clock is available. Otherwise store null and record that the time was unavailable. Never invent historical times.
 
@@ -249,15 +248,15 @@ The learner supplied the original numbered list, grammar/vocabulary coverage, mi
 
 Read all four historical day summaries when broader context is needed: 2026-09-30, 2026-10-01, 2026-10-02, and 2026-10-03. Earlier days were administratively archived as closed at backfill, with original_closure_status unknown and null times. This is not proof that the learner issued a close command.
 
-Backfilled summaries preserve learning without pretending to reconstruct exact sessions or scored attempts. Day sessions and progress.sessions_recorded count individually logged live session sections only; historical_session_count is null. Do not treat 0 live sessions as 0 historical learning.
+Backfilled summaries preserve learning without inventing missing exact attempts. Day sessions and progress.sessions_recorded count documented sessions with identifiable IDs (31 as of 2026-10-13), including Oct8 S01 preserved in a historical summary; session history without IDs remains unknown. Do not treat 0 live sessions as 0 historical learning.
 
-Derive current weak priorities from the latest mistake records, not the historical backfill list. At this update, M13 Genitiv adjective endings and M28 verb-second after a fronted phrase are weak; several older patterns are now improving. Continue rotating all introduced material. Maintain improving topics and lightly sample stable ones; minor spelling is separate. Fresh evidence changes these baselines adaptively.
+Derive current weak priorities from the latest mistake records, not the historical backfill list. As of 2026-10-13 M32 and M34 are weak, M28 improving and M13 stable in progress.json; old backfill labels are archival. Continue rotating all introduced material. Maintain improving topics and lightly sample stable ones; minor spelling is separate. Fresh evidence changes these baselines adaptively.
 
 Keep CURRENT_STATE, README dashboard, progress.json, numbered rows, curriculum, and day logs aligned. Before the closing save, update the README progress dashboard if its figures or current focus changed.
 
 ## 9. Four skill modes
 
-Before an activity, inspect the exact current verb/vocabulary inventory, grammar statuses, recent answers/hints, weak patterns, mode-specific evidence, and due retests. Do not guess a CEFR level from the 60-verb count. Use a short diagnostic when that skill is unassessed. Select familiar practical topics and manageable novelty.
+Before an activity, inspect the exact current verb/vocabulary inventory, grammar statuses, recent answers/hints, weak patterns, mode-specific evidence, and due retests. Do not guess a CEFR level from the number of introduced verbs. Use a short diagnostic when that skill is unassessed. Select familiar practical topics and manageable novelty.
 
 ### 6 — Speaking / التحدث
 
