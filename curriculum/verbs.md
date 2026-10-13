@@ -182,3 +182,8 @@ All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt
 - Verb ID 141 erstellen: correct 'hat erstellt' Perfekt; now practicing; Präsens form not yet independently assessed.
 - Verb ID 139 einfügen: correct 'hat eingefügt' Perfekt and previous correct 'fügt ... ein' Präsens; practicing in both tense dimensions. E02 full sentence needs missing feminine accusative pronoun, so do not claim full success or mastery.
 - New verbs 142–147 are only introduced, not yet independently assessed. Current total 147 introduced verbs. Next pending 2026-10-13-S01-E03 with auswählen and hinzufügen.
+
+## 2026-10-13 S02-E01 — Perfekt review evidence
+- Correct independent Perfekt forms `hat ... geprüft` (#128), `hat ... geschickt` (#64); correct Dativ `dem Kollegen`, though possessive `ihrem` was omitted.
+- Whole sentence required pronoun spelling `sei` → `sie`. Verb forms are practicing rather than mastered.
+- Next pending S02-E02 tests new verbs #143 aktualisieren and #147 entfernen (Perfekt).
