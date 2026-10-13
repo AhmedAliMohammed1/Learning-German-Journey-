@@ -27,8 +27,8 @@ try:
 except (json.JSONDecodeError, ValueError) as exc:
     sys.exit(f"ERROR: invalid progress.json: {exc}")
 
-verb_lines = [[cell(c) for c in r] for r in rows(read("curriculum/verbs.md"), r"^\\|\\s*\\d+\\s*\\|")]
-vocab_lines = [[cell(c) for c in r] for r in rows(read("curriculum/vocabulary.md"), r"^\\|\\s*V\\d+\\s*\\|")]
+verb_lines = [[cell(c) for c in r] for r in rows(read("curriculum/verbs.md"), r"^\|\s*\d+\s*\|")]
+vocab_lines = [[cell(c) for c in r] for r in rows(read("curriculum/vocabulary.md"), r"^\|\s*V\d+\s*\|")]
 verb_items = progress["verbs"]["items"]
 vocab_items = progress["vocabulary"]["items"]
 
@@ -60,19 +60,19 @@ today_content = None
 for day_path in day_paths:
     data = day_path.read_text(encoding="utf-8")
     day = day_path.stem
-    match = re.match(r"^---\\s*\\n([\\s\\S]*?)\\n---", data)
+    match = re.match(r"^---\s*\n([\s\S]*?)\n---", data)
     if not match:
         errors.append(f"{day}: missing frontmatter")
         continue
     props = dict((m.group(1), m.group(2).strip().strip('"'))
                  for line in match.group(1).splitlines()
-                 if (m := re.match(r"^([a-z_]+):\\s*(.*)$", line)))
+                 if (m := re.match(r"^([a-z_]+):\s*(.*)$", line)))
     if props.get("date") != day:
         errors.append(f"{day}: date field mismatch")
-    headings = [line for line in data.splitlines() if re.match(r"^#{2,3}\\s+Session\\b", line, re.I)]
+    headings = [line for line in data.splitlines() if re.match(r"^#{2,3}\s+Session\b", line, re.I)]
     ids = set()
     for heading in headings:
-        found = re.search(r"\\b" + re.escape(day) + r"-S\\d{2}\\b", heading)
+        found = re.search(r"\b" + re.escape(day) + r"-S\d{2}\b", heading)
         if not found:
             errors.append(f"{day}: section has no canonical session ID")
         else:
