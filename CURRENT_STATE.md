@@ -1,60 +1,47 @@
-# Current learner state
+# Current learner state — 2026-10-13 (Berlin)
 
-## Latest checkpoint: 2026-10-13 S02-E04
-S02-E04 answered: Gestern hat meine Schwester die Datei ausgewählt, danach hat sie hinzu die Nachricht gefügt. Corrected: Gestern hat meine Schwester die Datei ausgewählt. Danach hat sie sie der Nachricht hinzugefügt. Correct hat ausgewählt; hinzugefügt needs one Partizip, sie Akk and der Nachricht Dat. Next unanswered S02-E05: امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته. Old S01-E03 remains pending. Totals 147 verbs, 171 words.
+**Session PAUSED on learner request. This is NOT an end-of-day closure.** The day `2026-10-13` remains **open**; `current_session_id=null`, `paused_session_id=2026-10-13-S02`. Current activity: main menu **2 → 3**, targeted review of recent material. No new practice occurred after E04.
 
+## Exact continuation — do not pre-show the German translation
 
-## Most recent attempt — Oct 13 S02-E02
-- E02 answered: `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht`. Corrections: `Gestern`, `das Programm`. `gelöscht` valid; `entfernen` not independently produced.
-- NEXT pending **2026-10-13-S02-E03**: أختي شالت المرفق من الرسالة امبارح، وبعد كده بعتت الرسالة لزميلها. Old S01-E03 preserved. Inventories 147 verbs / 171 words.
+**Next unanswered `2026-10-13-S02-E05`** (Perfekt):
 
+> امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.
 
-> **Authoritative current checkpoint** — last real learner answer 2026-10-13-S02-E01. Maintenance reconciled 2026-10-13; not a new study attempt. Full original evidence lives in [progress.json](progress.json) and [days/2026-10-13.md](days/2026-10-13.md).
+Target: `verschieben` (#145) in Perfekt; `den Termin auf Freitag`, `eine Nachricht seiner Schwester schicken`, `danach` verb-second. E05 has **no learner answer**. Ask one full Arabic → German sentence when the learner explicitly resumes. At fresh-chat startup, follow the normal menu first unless the learner chooses to continue directly.
 
-## Status and current session
+**Older paused question `2026-10-13-S01-E03`** also remains unanswered:
 
-- Timezone: **Europe/Berlin**. Current/latest study day: **2026-10-13**; day status **open**, not closed.
-- Active session: **2026-10-13-S02**, mode **Targeted review → Recent material**. Previous **2026-10-13-S01** is **paused** for the chat handoff; don't overwrite its exact pending exercise.
-- Inventories: **147 unique introduced verbs** in [curriculum/verbs.md](curriculum/verbs.md); **171 unique registered vocabulary items** in [curriculum/vocabulary.md](curriculum/vocabulary.md). No finite final verb target, no separate supplemental verb inventory. Mastered count **not established**.
-- Recorded sessions: **31 documented session IDs**, including 2026-10-08-S01 known through a historical summary. No invented historical timestamp or answer.
-- Main grammar introduced recently: **wenn** (10 Oct), **obwohl** (11 Oct), **bevor** (12 Oct). All need ongoing context review; present/Perfekt separately assessed.
+> أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.
 
-## Exact current exercise — unanswered
+Do not merge this with S02-E05 or mark it answered. Earlier Oct12 and Oct11 unfinished prompts and dated retests are retained in `progress.json`.
 
-**2026-10-13-S02-E02** — Arabic → German, Perfekt:
+## What was completed in S02
 
-> امبارح أخويا حدّث البرنامج، وبعد كده شال الغلطة من الملف.
+| ID | Independent learner result | Specific assessment |
+| --- | --- | --- |
+| E01 | `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt` | Perfekt/V2 correct; `sei→sie` spelling, `ihrem Kollegen` needed for her colleague |
+| E02 | `Gester hat mein Bruder die Programm aktualisiert, danach hat er den Fehler aus der Datei gelöscht` | `hat aktualisiert`, `den Fehler`, `aus der Datei` correct. Fix `Gestern`, `das Programm`; `gelöscht` a valid alternative but not proof of `entfernen` use |
+| E03 | `Meine Schwester hat gestern den Anhang von der Nachricht entfernt, danach hat sie dem Kollegen eine Nachricht geschickt` | `hat entfernt`, `den Anhang` correct. Prefer `aus der Nachricht`; same message `die Nachricht`, and `ihrem Kollegen` |
+| E04 | `Gestern hat meine Schwester die Datei ausgewählt, danach hat sie hinzu die Nachricht gefügt` | `hat ausgewählt` correct; use `hat sie sie der Nachricht hinzugefügt`: whole Perfekt participle, object pronoun and Dativ |
 
-Check **aktualisieren / entfernen** (verb IDs 143/147) in Perfekt, `das Programm`, `den Fehler` (Akkusativ), `aus der Datei` (Dativ), and verb-second after `danach`. **Do not show the German model before the learner answers.** This exercise has **not** been answered yet.
+Actual full corrections and exercise statuses are in [progress.json](progress.json) and [days/2026-10-13.md](days/2026-10-13.md). No E05 attempt; no invented oral or listening assessment.
 
-## Immediately preceding answer — answered and corrected
+## Inventory and learning focus
 
-**2026-10-13-S02-E01** prompt: «امبارح أختي راجعت التأكيد، وبعد كده بعته لزميلها.»
+- **147** sequential introduced verbs; **171** registered vocabulary entries. These are **not mastery counts**. Open-ended single verb inventory.
+- Recent verb evidence: #142 `auswählen` correct Perfekt; #143 `aktualisieren` correct Perfekt; #146 `hinzufügen` malformed Perfekt (still practicing); #147 `entfernen` correct Perfekt; #145 `verschieben` still unassessed.
+- Vocabulary V170 `der Anhang` practicing; V171 `die Bestätigung` practicing.
+- Weak historical patterns in latest structured record: **M32** (word order after `und`) and **M34** (preserve intended subject). **M08** pronouns improving but still needs spaced practice, likewise possessive `ihrem/seinem Kollegen`, definite reference and prepositional case. M13 stable in latest JSON.
+- **31** documented sessions in dated files, including partial historical summaries; exact legacy answers/times may be unavailable.
+- Writing evidence only for this study block; do not infer speaking, pronunciation or listening.
 
-- Independent original: `Gestern hat meine Schwester die Bestätigung geprüft, danach hat sie sei dem Kollegen geschickt`
-- Natural correction: `Gestern hat meine Schwester die Bestätigung geprüft. Danach hat sie sie ihrem Kollegen geschickt.`
-- Correct dimensions: Perfekt `hat geprüft / hat geschickt`; `danach hat sie` verb-second; `die Bestätigung` lexical item; `dem Kollegen` is correctly Dativ.
-- Corrections: `sei` is a written spelling slip for feminine Akk `sie`; this alone does **not** establish a wrong grammatical pronoun choice. `dem Kollegen` is grammatical but omits **ihrem** to mean «لزميلها». Not a fully correct sentence.
-- New vocabulary **V171 die Bestätigung / die Bestätigungen** is now **practicing** (one independent correct noun use), **not mastered**. This made vocabulary register 171, not 170.
+## Source-of-truth precedence
 
-## Older exercises — preserve, don't silently complete
+1. [START_HERE.md](START_HERE.md) and [AGENTS.md](AGENTS.md) for workflow.
+2. [progress.json](progress.json) for live status, exercise IDs, original answers, item evidence and queue.
+3. [days/2026-10-13.md](days/2026-10-13.md) for dated answer/context history.
+4. [curriculum/verbs.md](curriculum/verbs.md), [curriculum/vocabulary.md](curriculum/vocabulary.md), [curriculum/grammar.md](curriculum/grammar.md), [MISTAKE_PATTERNS.md](MISTAKE_PATTERNS.md) for teaching and evidence.
+5. [README.md](README.md) for short dashboard. [REPOSITORY_HEALTH.md](REPOSITORY_HEALTH.md) describes historical gaps.
 
-- **2026-10-13-S01-E03** — «أختي بتختار المرفق، وبعد كده بتضيفه للرسالة.» New separable `auswählen`, `hinzufügen`, `der Anhang` → `ihn`, Dativ `der Nachricht`. The preceding E02 was already corrected (omitted second-clause `sie`).
-- **2026-10-12-S03-E06** — «أخويا راجع المستندات امبارح قبل ما يبعتها لزميله.» `bevor` + Perfekt, documents `die Unterlagen`, Dativ colleague.
-- **2026-10-12-S02-E08** — «رغم إن أختي ملقتش الغلطة امبارح، هي راجعت الملف مرة تانية النهارده.» `obwohl` + past/present.
-- Oct11 reading, verb recall and older pending review/skill exercises remain in `progress.pending_exercises` and `progress.skill_tracking`. Do not replace them with a generic question.
-- As of 2026-10-13, **20 scheduled review_queue entries are due/overdue**; these are for follow-up during future study, not background notifications.
-
-## Focus and skill evidence
-
-- Weak high-priority: **M32** word order after `und`; **M34** keep intended subject after a clause.
-- Improving: **M08** `ihn/sie/es` (recent omission of `sie` in S01-E02), Dativ colleague/possessives, `Perfekt`, `bevor`, two-way prepositions. M13 Genitiv adjective ending is *stable* based on current structured data, not weak as the initial backfill once said.
-- Recent verb IDs **138–147** were introduced on Oct12, but **142–147** have not yet been independently assessed as of E01 S02. Actual independent evidence exists for 138,139,140,141 in limited present/Perfekt dimensions. Do not equate introduction with mastery.
-- Skill tracking: **reading practicing**; **speaking, conversation, listening not assessed**. Text-only work cannot establish pronunciation or listening.
-- Retest naturally inside learner-selected mode. One independent success is not mastery.
-
-## Repository rules
-
-Use [START_HERE.md](START_HERE.md), [LEARNING_PROFILE.md](LEARNING_PROFILE.md), and live `progress.json` to choose exercises. Keep one `days/YYYY-MM-DD.md` file per date, stable IDs, full raw answers, corrections, item/tense evidence and pending preservation. For new material, audit the whole inventory first. **Repository cleanup is not a learner study session**.
-
-Historical rolling `CURRENT_STATE` notes (including old conflicting “latest” headlines) remain preserved without loss in [the archived original](archive/CURRENT_STATE_before_2026-10-13_reconciliation.md). See [REPOSITORY_HEALTH.md](REPOSITORY_HEALTH.md) for reconciled historical metadata and known incomplete legacy records.
+Preserve previous extensive rolling snapshots in [archive/CURRENT_STATE_before_2026-10-13_reconciliation.md](archive/CURRENT_STATE_before_2026-10-13_reconciliation.md). A previously saved dated statement saying “latest” is archival if it conflicts with the current structured record. A pause does not close the study day.
