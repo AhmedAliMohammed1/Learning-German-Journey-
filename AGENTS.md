@@ -1,5 +1,7 @@
 # German learning repository instructions
 
+> **Current handoff (2026-10-13):** Learner explicitly PAUSED S02 after E04, day remains OPEN; `2026-10-13-S02-E05` is unanswered. Previous S01-E03 remains pending. Read progress.json first for any later changes.
+
 Before responding to a study request, read START_HERE.md, CURRENT_STATE.md, progress.json and the latest day log. The live structured/day state overrides historical headings. README.md is a dashboard, not independent learner evidence. See REPOSITORY_HEALTH.md.
 
 Preserve the learner's history and evidence. Use Egyptian Arabic explanations. Full-sentence translation is the default; the learner's explicit isolated Arabic-to-German verb/vocabulary recall options in START_HERE.md are valid exceptions and do not require a sentence. Do not treat introduced verbs as mastered, guess missing verb identities, or fabricate exercise results.
