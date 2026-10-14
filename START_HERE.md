@@ -1,8 +1,14 @@
 # START HERE — AI session protocol
 
-This is the entry point. Respect explicit learner preferences and explain in Egyptian Arabic.
+Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff — 2026-10-14 S04 isolated verbs, NO SENTENCES
+## LIVE handoff —2026-10-14 S05 final157 GRADED
+
+Active2026-10-14-S05, day open; all157 submitted and graded. On direct user request140 labels mastered for isolated infinitive/registered-form recall only;17 review incl correct zustimmen retained on specific request.141 correct targets incl user self-correction stornieren via #149 note; raw/final both preserved. Wrong/unconfirmed target distinctions and spelling recorded, valid synonyms not blanket failures.
+
+No fresh exercise issued. Next on continuation shuffled review17, no sentences, all at once. Applicable156 Perfekt forms untested, contextual/audio mastery unchanged. PreviousS04 117-pass results and all older pending retained. Counts157/175/36,5 sessions today. Latest results saved locally, sync pending; reread JSON.
+
+## Historical handoff —2026-10-14 S04 (paused for full157)
 
 Explicit learner request: isolated verbs only due feeling of forgetting. Day open, active 2026-10-14-S04, activity 2026-10-14-S04-A01, 117 eligible IDs persisted with infinitive then Perfekt-form coverage. B01 all117 real answers graded.
 

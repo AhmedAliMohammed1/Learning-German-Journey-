@@ -1,9 +1,9 @@
 # Current learner state —2026-10-14 (Berlin)
 
-Day open, active 2026-10-14-S04, isolated verbs, no sentences. Activity 2026-10-14-S04-A01, B01 graded: all117 answered, **107 exact target infinitives,8 spelling/source-form/reflexive repairs,2 target distinctions**. One recall pass, no mastery percentages. German answers/original entities and prompt mapping preserved.
+Day open, active2026-10-14-S05, isolated full157 review, no sentences. B01 all157 answers graded: **141 target forms correct** incl explicit self-corrected stornieren; per user instruction **140 marked mastered in isolated infinitive/registered-form recall**, **17 needs review** (16 incorrect/unconfirmed target forms + correctly recalled zustimmen kept review on explicit request).
 
-No currently unanswered batch slot. Next on continuation: short shuffled retry10; curriculum IDs [83, 88, 105, 107, 112, 115, 123, 133, 145, 155]. All117 Perfekt forms unattempted; activity practicing, not entirely completed.
+No fresh unanswered batch. Next on continuation: shuffled review17. Curriculum IDs[30, 31, 36, 37, 38, 41, 49, 72, 103, 105, 107, 110, 115, 125, 133, 151, 156]. Special handling #102 möchten valid softer want expression vs exact unproduced wollen;#153 mitbringen compatible bringing-along vs exact unproduced bringen. Do not label synonyms total semantic failure. #19 sitzen/setzen,40 polite möchten/wollen,63 holen/mitbringen,140 erinnern/denken need distinctions. Other errors spelling/source forms. #130 absagen corrected to stornieren in #149 user note, both raw/final retained.
 
-Repairs: wechseln, verlängern, erreichen, erledigen, sich entscheiden, sich beschweren, einpacken, verschieben. #28 technical hinunterladen understood but registered herunterladen unproduced; #63 prompt ambiguous take/bring, mitnehmen not blanket semantic failure, distinguish mitbringen. #116 mitnehmen correct. Suchen/Spielen/Schicken accepted as standalone entries.
+Mastered labels are explicit learner-requested **isolated recall only**. Existing contextual status/tense/unknown mastery untouched;156 applicable Perfekt forms untested, no delayed retention/audio assessment. Same-day second pass, not delayed evidence.
 
-157 verbs/175 vocabulary/35 sessions, no new material at grading. Separate isolated_recall.infinitive_recall evidence; contextual counters/tense/skill/audio unchanged. Retest due2026-10-15. S03-E01, S02-E10, S01-E06 and all historical pending preserved. Recall results uploaded to GitHub and verified at checkpoint 9f701e107241044479ed8b936880fd49cbe14f61.
+Counts157 verbs/175 vocabulary/36 sessions,5 today. S04 prior117 results preserved; S03-E01/S02-E10/S01-E06 and all older pending unchanged. Day open, no closure. Latest final results saved locally; sync pending.

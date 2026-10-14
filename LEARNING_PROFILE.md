@@ -162,3 +162,6 @@ This preference supersedes earlier fixed-target/supplemental-count wording.
 
 ## Explicit recall presentation preference — 2026-10-14
 - «هات كل الافعال متلغبطين وانا هجاوب كلو مره واحده»: current isolated-verb practice presents all eligible meanings shuffled, learner answers all once with matching numbers. Overrides one-item-at-a-time for this activity. Infinitives only in current pass, no sentences.
+
+## Final recall labels requested —2026-10-14
+- «اي حاجه غلط علم عليها انها محتاجه مراجعه واي حاجه صح علم عليها ان تم اتقناها». Correct isolated infinitive/registered-form recall marked mastered on direct request; wrong/unconfirmed targets needs review, correct zustimmen still review by specific request. Label scope explicitly recall; untested Perfekt/contextual/oral dimensions retain evidence.
