@@ -6,7 +6,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 Active2026-10-14-S05, day open; all157 submitted and graded. On direct user request140 labels mastered for isolated infinitive/registered-form recall only;17 review incl correct zustimmen retained on specific request.141 correct targets incl user self-correction stornieren via #149 note; raw/final both preserved. Wrong/unconfirmed target distinctions and spelling recorded, valid synonyms not blanket failures.
 
-No fresh exercise issued. Next on continuation shuffled review17, no sentences, all at once. Applicable156 Perfekt forms untested, contextual/audio mastery unchanged. PreviousS04 117-pass results and all older pending retained. Counts157/175/36,5 sessions today. Latest results saved locally, sync pending; reread JSON.
+No fresh exercise issued. Next on continuation shuffled review17, no sentences, all at once. Applicable156 Perfekt forms untested, contextual/audio mastery unchanged. PreviousS04 117-pass results and all older pending retained. Counts157/175/36,5 sessions today. Final results uploaded to main; checkpoint SHA verified 27da6629cc801634dc983b32069469ed5bf45e89. Reread JSON.
 
 ## Historical handoff —2026-10-14 S04 (paused for full157)
 

@@ -6,4 +6,4 @@ No fresh unanswered batch. Next on continuation: shuffled review17. Curriculum I
 
 Mastered labels are explicit learner-requested **isolated recall only**. Existing contextual status/tense/unknown mastery untouched;156 applicable Perfekt forms untested, no delayed retention/audio assessment. Same-day second pass, not delayed evidence.
 
-Counts157 verbs/175 vocabulary/36 sessions,5 today. S04 prior117 results preserved; S03-E01/S02-E10/S01-E06 and all older pending unchanged. Day open, no closure. Latest final results saved locally; sync pending.
+Counts157 verbs/175 vocabulary/36 sessions,5 today. S04 prior117 results preserved; S03-E01/S02-E10/S01-E06 and all older pending unchanged. Day open, no closure. Final results uploaded to main and verified at checkpoint 27da6629cc801634dc983b32069469ed5bf45e89.
