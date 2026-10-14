@@ -25,6 +25,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | wenn: conditional / repeated-time clauses | practicing | Introduced 2026-10-10, contrast with als |
 | obwohl: contrast clauses | practicing | Introduced 2026-10-11, written practice |
 | bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
+| damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 
 ## Cases and pronouns
 
@@ -519,3 +520,33 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - **E03:** Correct `hat entfernt`, `den Anhang`, `hat geschickt`, and Dativ noun `dem Kollegen`. `von der Nachricht` is grammatically possible; `aus der Nachricht` is more natural for removing an attachment. The Arabic refers to the **same** message: `die Nachricht`, not indefinite `eine Nachricht`. Her colleague = `ihrem Kollegen`.
 - **E04:** Correct independent `hat ausgewählt` and `die Datei`; incorrect split Perfekt construction `hat sie hinzu die Nachricht gefügt`. The needed form is **`Danach hat sie sie der Nachricht hinzugefügt.`**: separable Partizip II together, feminine direct-object `sie` and destination Dativ `der Nachricht`. #146 `hinzufügen` remains practicing with no independent correct Perfekt yet.
 - User requested a break after E04. Next **unanswered** `2026-10-13-S02-E05` will test `verschieben` Perfekt and recipient Dativ; not pre-answered. S01-E03 remains deferred. Day open, S02 paused; no audio assessment.
+
+## New grammar — damit (2026-10-14)
+- damit = علشان / لكي: purpose or intended goal. A complete subordinate clause has its own subject and final finite verb.
+- Ich erkläre die Regel, damit meine Schwester sie versteht. = أنا بشرح القاعدة علشان أختي تفهمها.
+- Damit mein Bruder den Schlüssel findet, lege ich ihn auf den Tisch. = علشان أخويا يلاقي المفتاح، أنا بحطه على الترابيزة. Fronted subordinate clause is followed by main finite verb.
+- Modal: Ich schicke meiner Schwester eine Nachricht, damit sie kommen kann. Infinitive kommen precedes final modal kann.
+- Same-subject alternative: Ich lerne Deutsch, um in Deutschland zu arbeiten. With different subjects, use damit plus a full clause; damit also permits the same subject.
+- New V172 die Anleitung / die Anleitungen: دليل التعليمات / إرشادات الاستخدام. Reference: Ich lese die Anleitung.
+- Current status introduced, 0 learner attempts. First E01 tests a different subject, Dativ recipient and installieren kann; no German exercise model disclosed.
+
+## Damit E01 checkpoint — 2026-10-14
+- Original: `Ich schicke meinem Bruder die Anleitung,damit er das Programm installieren kann`. Natural formatting: `Ich schicke meinem Bruder die Anleitung, damit er das Programm installieren kann.`. Independently correct full written translation, Dativ and modal-final order. One success, not mastery. Next fronted E02 unanswered.
+
+## Damit E02 checkpoint — 2026-10-14
+- Original: `Damit meine Schwester das Programm benutzen kann, schicke ich ihr die Anleitung`. Correct independently; fronted subordinate final kann and main schicke ich, Dativ ihr. Two successes this session, practicing; no delayed retention evidence.
+
+## Damit E03 checkpoint — 2026-10-14
+- Original `Gestern hat mein Bruder das Fahrrad repariert, damit meine Schwester heute benutzen kann.`; correction `Gestern hat mein Bruder das Fahrrad repariert, damit meine Schwester es heute benutzen kann.`. Main Perfekt correct, missing es. Purpose/order followed a near-model from damit/weil explanation and is supported evidence; 3 attempts, 2 independent full successes, practicing.
+
+## Damit E04 checkpoint — 2026-10-14
+- `Ich speichere die Datei, damit mein Bruder sie morgen drucken kann.` independently correct. Fresh die Datei/sie object pronoun; final drucken kann. Topic practicing: 4 attempts, 3 independent full successes. E05 tests no-modal purpose.
+
+## Damit E05 checkpoint — 2026-10-14
+- Original `Ich schalte das Licht aus, damit meine Schwester schlaft `; correction `Ich schalte das Licht aus, damit meine Schwester schläft.`. Purpose/order without modal independently correct; schlaft requires third singular schläft. Keep dimensions separate. Topic practicing, 5 attempts, 3 independent full successes.
+
+## 2026-10-14 S02-E04 — obwohl Perfekt auxiliary
+- abgelehnt alone lacks finite auxiliary: obwohl ... abgelehnt hat. Main inversion stimme ich ... zu correct; recipient needs meinem Kollegen Dativ. Independent original/correction in day log and JSON.
+
+## 2026-10-14 S02-E07 — reflexive preposition frames
+- Correct independent hat sich ... beschwert / entschuldigt forms; use über + Akk issue, bei + Dat apology recipient. Natural sich before gestern; bei ihrem Kollegen with weak masculine -n. Full original/correction preserved in day/JSON.

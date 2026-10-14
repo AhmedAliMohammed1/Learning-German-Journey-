@@ -1,4 +1,4 @@
-# Verb curriculum — 147 introduced verbs
+# Verb curriculum — 157 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -137,7 +137,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 127 | erlauben | يسمح بـ / يصرّح | ich erlaube | hat erlaubt | Der Chef erlaubt mir, früher zu gehen. | practicing | + Dat (person) + Akk / Infinitiv mit zu |
 | 128 | prüfen | يراجع / يفحص | ich prüfe; er prüft | hat geprüft | Ich prüfe die Rechnung. | practicing | + Akk; regular |
 | 129 | speichern | يحفظ ملف أو بيانات | ich speichere; er speichert | hat gespeichert | Ich speichere die Datei. | practicing | + Akk; regular |
-| 130 | drucken | يطبع | ich drucke; er druckt | hat gedruckt | Ich drucke die Unterlagen. | introduced | + Akk; regular |
+| 130 | drucken | يطبع | ich drucke; er druckt | hat gedruckt | Ich drucke die Unterlagen. | practicing | + Akk; regular |
 | 131 | löschen | يمسح / يحذف | ich lösche; er löscht | hat gelöscht | Ich lösche die Nachricht. | practicing | + Akk; regular |
 | 132 | installieren | يثبّت برنامج | ich installiere; er installiert | hat installiert | Ich installiere das Programm. | practicing | + Akk; -ieren, no ge- |
 | 133 | herunterladen | ينزّل ملف من الإنترنت | ich lade ... herunter; du lädst ... herunter; er lädt ... herunter | hat heruntergeladen | Ich lade die Datei herunter. | practicing | separable; a → ä in du/er; + Akk |
@@ -155,6 +155,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 145 | verschieben | ينقل / يؤجل | ich verschiebe; er verschiebt | hat verschoben | Ich verschiebe den Termin auf morgen. | introduced | inseparable ver-; + Akk; auf + Akk when postponing |
 | 146 | hinzufügen | يضيف | ich füge ... hinzu; er fügt ... hinzu | hat hinzugefügt | Ich füge der Nachricht einen Anhang hinzu. | practicing | separable; + Dat target + Akk thing |
 | 147 | entfernen | يزيل | ich entferne; er entfernt | hat entfernt | Ich entferne den Fehler aus der Datei. | practicing | inseparable ent-; + Akk + aus + Dat |
+| 148 | anbieten | يعرض / يقدّم | ich biete ... an; du bietest ... an; er bietet ... an | hat angeboten | Ich biete meinem Bruder Hilfe an. | practicing | separable; Dat person + Akk thing |
+| 149 | annehmen | يقبل عرض أو اقتراح | ich nehme ... an; du nimmst ... an; er nimmt ... an | hat angenommen | Ich nehme den Vorschlag an. | practicing | separable; + Akk |
+| 150 | ablehnen | يرفض | ich lehne ... ab; er lehnt ... ab | hat abgelehnt | Ich lehne den Vorschlag ab. | practicing | separable; + Akk |
+| 151 | zustimmen | يوافق على رأي أو اقتراح | ich stimme ... zu; er stimmt ... zu | hat zugestimmt | Ich stimme meinem Kollegen zu. | practicing | separable; + Dat person/thing |
+| 152 | widersprechen | يعترض على كلام حد / يخالف رأيه | ich widerspreche; du widersprichst; er widerspricht | hat widersprochen | Ich widerspreche meinem Bruder. | practicing | inseparable; + Dat; wider-, no ge- |
+| 153 | vorschlagen | يقترح | ich schlage ... vor; du schlägst ... vor; er schlägt ... vor | hat vorgeschlagen | Ich schlage meinem Kollegen einen Termin vor. | practicing | separable; Dat person + Akk thing |
+| 154 | besprechen | يناقش موضوع | ich bespreche; du besprichst; er bespricht | hat besprochen | Ich bespreche den Vorschlag mit meinem Chef. | practicing | inseparable be-; Akk topic; mit + Dat person |
+| 155 | sich beschweren | يشتكي | ich beschwere mich; er beschwert sich | hat sich beschwert | Ich beschwere mich über die Verspätung. | practicing | reflexive Akk; über + Akk issue; bei + Dat recipient |
+| 156 | sich entschuldigen | يعتذر | ich entschuldige mich; er entschuldigt sich | hat sich entschuldigt | Ich entschuldige mich bei meiner Schwester. | practicing | reflexive Akk; bei + Dat person; für + Akk reason |
+| 157 | lösen | يحل مشكلة | ich löse; er löst | hat gelöst | Ich löse das Problem. | practicing | + Akk; regular |
 
 ## How to read the table
 

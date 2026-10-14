@@ -535,3 +535,24 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - E04 raw: `Gestern hat meine Schwester die Datei ausgewählt, danach hat sie hinzu die Nachricht gefügt`. Correct `hat ausgewählt` / verb-second. `hinzugefügt` is a single Perfekt participle, second clause must include the feminine object pronoun `sie` and Dativ `der Nachricht`. Correct: `Danach hat sie sie der Nachricht hinzugefügt.`
 - These are distinct observable spelling, noun gender, referential definiteness, separable-Partizip, pronoun and recipient-possession issues; do not relabel `von der Nachricht` as ungrammatical or invent a recurrent-error count from one answer. Preserve currently weak **M32/M34** and improving **M08** as per the structured status map.
 - Learner explicitly paused after E04. **S02-E05 remains unanswered**, focused on `verschieben` Perfekt and Dativ `seiner Schwester`. The old S01-E03, other pending exercises and reviews remain saved. All evidence is written, not spoken or listening.
+
+## 2026-10-14 S01-E03 — M08 object omission
+- Original `Gestern hat mein Bruder das Fahrrad repariert, damit meine Schwester heute benutzen kann.`; corrected `Gestern hat mein Bruder das Fahrrad repariert, damit meine Schwester es heute benutzen kann.`. Omitted es for das Fahrrad. Main Perfekt correct; purpose/order had near-model support. Append to existing M08, remain improving; fresh die Datei/sie retest E04 pending.
+
+## 2026-10-14 S01-E04 — M08 fresh transfer
+- `Ich speichere die Datei, damit mein Bruder sie morgen drucken kann.` independently correct: sie refers to die Datei, Akk object. Fresh success after E03 omission, M08 remains improving; no delayed retention claim.
+
+## 2026-10-14 S02-E02 — M08 direct-object omission
+- Original `Meine Schwester hat gester den Vorschlag angeneommen,  danach hat sie ihrem Kollegen geschickt `; corrected `Meine Schwester hat gestern den Vorschlag angenommen. Danach hat sie ihn ihrem Kollegen geschickt.`. Missing ihn for masculine Vorschlag. Correct ihrem Kollegen Dativ, hat geschickt and V2 separate. Existing M08 retained improving; fresh transfer in E03 pending.
+
+## 2026-10-14 S02-E03 — M08 fresh correct pronoun
+- `Mein Bruder hat gestern den Vorschlag abgelehnt, danach eklärt er ihn seiner Schwester.` correctly uses ihn for Vorschlag and seiner Schwester Dativ. Second-clause tense/spelling error separate; M08 retained improving. Correction `Mein Bruder hat gestern den Vorschlag abgelehnt. Danach hat er ihn seiner Schwester erklärt.`.
+
+## 2026-10-14 S02-E04 — M02 possessive Dativ
+- `Obwohl meine Schwester gestern den Vorschlag abgelehnt, stimme ich heute meinen Kollegen zu  ` needs `Obwohl meine Schwester gestern den Vorschlag abgelehnt hat, stimme ich heute meinem Kollegen zu.`. zustimmen requires meinem Kollegen for one recipient; -n on Kollegen correct weak-noun form. Missing final hat is a separate auxiliary issue. M02 stays improving; main V2 and stimme ... zu correct.
+
+## 2026-10-14 S02-E05 — M02 repeated singular Dativ
+- `Mein Bruder hat gestern seinen Kollegen widersprochen, aber ich habe meinen Kollegen zugestimmt ` → `Mein Bruder hat gestern seinem Kollegen widersprochen, aber ich habe meinem Kollegen zugestimmt.`. Correct auxiliary/participle forms; recipient seinen/meinen needs seinem/meinem, as widersprechen and zustimmen both govern Dativ. Noun Kollegen correct. Continue embedding cases in new verbs; no broad regression or mastery inferred.
+
+## 2026-10-14 S02-E06 — M02 fresh Dativ success
+- Original `Mein Bruder vorschlagt seinem Kollegen einen Termin, danach bespricht er ihn die Vorschlag ` correctly contains seinem Kollegen and einen Termin. Corrected full sentence `Mein Bruder schlägt seinem Kollegen einen Termin vor. Danach bespricht er den Vorschlag mit ihm.`; vorschlagen separation/Umlaut, masculine den Vorschlag and mit ihm are separate corrections. Keep item evidence distinct.

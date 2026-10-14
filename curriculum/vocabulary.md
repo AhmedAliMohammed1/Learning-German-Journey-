@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**171 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**174 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -67,7 +67,7 @@
 | V059 | jetzt | — | الآن | adverb_or_adjective | introduced |
 | V060 | der Bus | die Busse | الحافلة | noun | introduced |
 | V061 | der Tee | die Tees | الشاي | noun | introduced |
-| V062 | die Hilfe | die Hilfen | المساعدة | noun | introduced |
+| V062 | die Hilfe | die Hilfen | المساعدة | noun | practicing |
 | V063 | der Tisch | die Tische | الطاولة | noun | introduced |
 | V064 | die Flasche | die Flaschen | الزجاجة | noun | introduced |
 | V065 | das Fenster | die Fenster | النافذة | noun | introduced |
@@ -177,6 +177,9 @@
 | V169 | die Kopie | die Kopien | نسخة / صورة طبق الأصل | noun | practicing |
 | V170 | der Anhang | die Anhänge | مرفق الرسالة / ملف مرفق | noun | practicing |
 | V171 | die Bestätigung | die Bestätigungen | التأكيد / رسالة التأكيد | noun | practicing |
+| V172 | die Anleitung | die Anleitungen | دليل التعليمات / إرشادات الاستخدام | noun | practicing |
+| V173 | der Vorschlag | die Vorschläge | اقتراح | noun | practicing |
+| V174 | das Problem | die Probleme | مشكلة | noun | practicing |
 
 ## Learning notes
 

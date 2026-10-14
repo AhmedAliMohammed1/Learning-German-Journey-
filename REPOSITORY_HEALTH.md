@@ -57,3 +57,8 @@ This is later than the original maintenance snapshot above; **no new study work*
 - Unified inventories remain **147 verbs / 171 vocabulary entries**; **31** documented session IDs remain unchanged. No mastery count or listening/speaking performance inferred.
 - The short live `README.md`, `CURRENT_STATE.md`, `START_HERE.md` and `AGENTS.md` supersede old point-in-time “next” notes. Earlier dated logs retain their chronological past checkpoints, not live pointers.
 - Checks verify JSON parse; table rows/IDs/statuses vs progress, active day frontmatter vs progress, and distinct preserved pending exercise IDs. The optional Python validator script is a future-check tool; this report does not claim it was executed through GitHub.
+
+## Verified local checkpoint — 2026-10-14 pause
+- 157 contiguous unique verb IDs, 174 contiguous unique vocabulary IDs, single tables. 33 documented sessions, 2 in current date. All prior evidence preserved.
+- Current day open, active session null, paused 2026-10-14-S02; E10 unanswered. 5 real S01 and 9 real S02 answers; no fake attempt at pause. Raw answers/tense/frame errors and positive dimensions retained.
+- GitHub sync requested; remote result verified separately after push. Historical health figures above are dated history.

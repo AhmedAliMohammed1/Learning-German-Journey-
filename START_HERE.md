@@ -1,8 +1,28 @@
 # START HERE — AI session protocol
 
-This is the entry point for every assistant continuing the learner's German journey. Respect current user instructions and explain in concise Egyptian Arabic.
+This is the entry point. Respect explicit learner preferences and explain in Egyptian Arabic.
 
-## LIVE handoff — 2026-10-13 (user-requested pause and GitHub sync)
+## LIVE handoff — 2026-10-14 S02 PAUSED, menu requested
+
+Learner: «كفايه كدا دلوقتي ارفع كل حاجه وارجع للقائمه الرئيسيه». Day open, no active session; **paused_session_id=2026-10-14-S02**. Return the nine choices; do not auto-start pending work. Full GitHub sync requested, verify actual remote result.
+
+Inventories **157 verbs / 174 vocabulary / 33 documented sessions**. New batch 148–157 all practicing, not mastered. S02 E01–E09 answered/corrected; exact original responses, support flags and dimension evidence saved. No fully correct whole S02 translation yet; many verb/case/order dimensions independently correct.
+
+Exact next unanswered **2026-10-14-S02-E10** (Perfekt): «أخويا قبل الاقتراح امبارح، وبعد كده اعتذر لزميله عن التأخير.». No learner answer/model yet. S01-E06 and all older pending preserved; Oct13 still open. S01 damit five attempts/three independent full successes, with supported E03 and schläft correction retained. No audio assessment. Retests due Oct15 and older queue retained.
+
+Latest E09: ihrem Kollegen/einen Termin and besprochen correct; repair vorgeschlagen, den Vorschlag, mit ihm. Key targets offered/accepted/proposed irregular participles, Dativ and reflexive preposition frames. Do not reset correct evidence or require all errors fixed before progression. **Always reread JSON/current day for later changes.**
+
+## Historical handoff — 2026-10-14 S01 pause (superseded by S02)
+
+Learner requested: «كفايه كدا سجل التعديلات وارجع للقائمه الرئيسيه». Day open; no active session, paused_session_id=2026-10-14-S01. Return the nine-choice main menu, do not auto-start another exercise.
+
+New main grammar topic **damit** practicing: 5 real written attempts; E01/E02/E04 independently fully correct. E03 omitted es after a near-model explaining damit/weil; E05 correct purpose/order but schlaft requires schläft. Original answers/corrections in progress.json and days/2026-10-14.md. No audio assessment.
+
+Next unanswered on explicit resume: **2026-10-14-S01-E06** «علشان أخويا يقدر يقرأ دليل التعليمات، أختي طبعت نسخة امبارح.» (fronted purpose Präsens; main Perfekt). No German exercise model shown. Old Oct13 S02-E05/S01-E03 and all older pending exercises remain preserved, Oct13 still open.
+
+Inventories: **147 verbs / 172 vocabulary entries / 32 documented sessions**; introduced is not mastered. V172 die Anleitung practicing with two independent contextual uses. Retests for damit and schlafen due **2026-10-15**; no background reminder implied. Saved locally; remote sync pending. Reread current structured state on startup.
+
+## Historical handoff — 2026-10-13 (superseded by live October 14 state)
 
 **Current status:** Day `2026-10-13` is **open**, NOT closed. User requested a break, so **no active session**: `current_session_id=null`, `paused_session_id=2026-10-13-S02`. Mode was **main menu 2 → option 3** (review recent material). No answer submitted to E05; maintenance must not fabricate one. **31 documented sessions**, **147 introduced verbs** and **171 registered vocabulary entries**; counts do not establish mastery.
 
