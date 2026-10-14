@@ -2,7 +2,19 @@
 
 This is the entry point. Respect explicit learner preferences and explain in Egyptian Arabic.
 
-## LIVE handoff — 2026-10-14 S02 PAUSED, menu requested
+## LIVE handoff — 2026-10-14 S04 isolated verbs, NO SENTENCES
+
+Explicit learner request: isolated verbs only due feeling of forgetting. Day open, active 2026-10-14-S04, activity 2026-10-14-S04-A01, 117 eligible IDs persisted with infinitive then Perfekt-form coverage. B01 all117 real answers graded.
+
+Latest explicit override: **all 117 meanings shuffled at once**, batch 2026-10-14-S04-B01 graded:107 exact,8 spelling/form repairs,2 target distinctions. Next short shuffled retry10 on continuation; no fresh prompt yet. Perfekt117 unattempted. Infinitives only; do not reveal German targets. Batch index mapping in recall_tracking. Old individual E01 reused for #90 within batch. Score lexical/form recall separately from contextual grammar/audio. No new vocabulary required. S03-E01 sentence, S02-E10, S01-E06 and Oct11 recall coverage and all old pending preserved. Counts 157/175/35. Saved locally; current review sync pending. Reread JSON for later state.
+
+## Historical handoff — 2026-10-14 S03 (paused for isolated recall)
+
+Day open, active **2026-10-14-S03**. Learner explicitly requested practice of preceding unresolved list; full-sentence default. 117 verb IDs saved in sentence_review_tracking activity 2026-10-14-S03-A01; rotate entire scope and both tenses, no coverage completed yet.
+
+Next unanswered **2026-10-14-S03-E01**, Präsens: «أنا بستنى أخويا قدام الورشة، وبعد كده برجع له المفتاح.». New V175 die Werkstatt / die Werkstätten, no attempt. Inventories 157/175, 34 documented sessions. S02-E10/S01-E06 and all older pending retained. Do not reveal model or start isolated recall unless chosen. Existing retests kept; no audio assessed. New review saved locally, remote sync pending. Always reread progress.json.
+
+## Historical handoff — 2026-10-14 S02 pause (superseded by active S03)
 
 Learner: «كفايه كدا دلوقتي ارفع كل حاجه وارجع للقائمه الرئيسيه». Day open, no active session; **paused_session_id=2026-10-14-S02**. Return the nine choices; do not auto-start pending work. Full GitHub learning checkpoint uploaded; remote main verified equal to cbed4c1aadd678af62451ee78b3b3a1cd56acd36.
 

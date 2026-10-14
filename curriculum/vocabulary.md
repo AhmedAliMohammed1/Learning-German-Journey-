@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**174 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**175 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -180,6 +180,7 @@
 | V172 | die Anleitung | die Anleitungen | دليل التعليمات / إرشادات الاستخدام | noun | practicing |
 | V173 | der Vorschlag | die Vorschläge | اقتراح | noun | practicing |
 | V174 | das Problem | die Probleme | مشكلة | noun | practicing |
+| V175 | die Werkstatt | die Werkstätten | الورشة / ورشة التصليح | noun | introduced |
 
 ## Learning notes
 

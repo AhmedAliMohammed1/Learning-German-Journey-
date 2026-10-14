@@ -156,3 +156,9 @@ Explicit learner preference:
 - Keep Präsens + Perfekt teaching/evidence rules unchanged.
 
 This preference supersedes earlier fixed-target/supplemental-count wording.
+
+## Explicit activity choice — 2026-10-14
+- Learner: «انا عايز اتمرن علي الافعال بس من غير جمل علشان حاسس اني بنسي الافعال ومش متمكن منهم». Current review uses isolated Arabic → German verbs, one item at a time, no sentences. Infinitive first; other reference forms can be tested separately without sentences. Preserve sentence modes for later choice. Self-reported forgetting is not a measured recall outcome.
+
+## Explicit recall presentation preference — 2026-10-14
+- «هات كل الافعال متلغبطين وانا هجاوب كلو مره واحده»: current isolated-verb practice presents all eligible meanings shuffled, learner answers all once with matching numbers. Overrides one-item-at-a-time for this activity. Infinitives only in current pass, no sentences.

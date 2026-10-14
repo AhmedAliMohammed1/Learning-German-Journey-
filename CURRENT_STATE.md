@@ -1,19 +1,9 @@
-# Current learner state — 2026-10-14 (Berlin)
+# Current learner state —2026-10-14 (Berlin)
 
-**Paused on learner request; return the nine-choice main menu.** Day open, no active session; paused_session_id=2026-10-14-S02. GitHub learning checkpoint uploaded and verified: cbed4c1aadd678af62451ee78b3b3a1cd56acd36.
+Day open, active 2026-10-14-S04, isolated verbs, no sentences. Activity 2026-10-14-S04-A01, B01 graded: all117 answered, **107 exact target infinitives,8 spelling/source-form/reflexive repairs,2 target distinctions**. One recall pass, no mastery percentages. German answers/original entities and prompt mapping preserved.
 
-## Exact continuation on selection
-**2026-10-14-S02-E10**, Perfekt, unanswered:
-> أخويا قبل الاقتراح امبارح، وبعد كده اعتذر لزميله عن التأخير.
+No currently unanswered batch slot. Next on continuation: short shuffled retry10; curriculum IDs [83, 88, 105, 107, 112, 115, 123, 133, 145, 155]. All117 Perfekt forms unattempted; activity practicing, not entirely completed.
 
-S02 E01–E09 answered and corrected, original spacing preserved in JSON. No fully correct whole sentence yet; positive verb/case/order dimensions must remain separate from complete translation accuracy. New verbs **148–157** all practicing, not mastered. Counts **157 verbs / 174 vocabulary / 33 documented sessions**.
+Repairs: wechseln, verlängern, erreichen, erledigen, sich entscheiden, sich beschweren, einpacken, verschieben. #28 technical hinunterladen understood but registered herunterladen unproduced; #63 prompt ambiguous take/bring, mitnehmen not blanket semantic failure, distinguish mitbringen. #116 mitnehmen correct. Suchen/Spielen/Schicken accepted as standalone entries.
 
-## Main evidence and remaining work
-- Correct forms: bietet ... an, hat abgelehnt, stimme ... zu, hat widersprochen, hat zugestimmt, bespricht, hat besprochen, reflexive hat sich beschwert/entschuldigt, lösen kann and hat gelöst.
-- Unresolved: angenommen spelling, angeboten, schlägt ... vor/vorgeschlagen; besprechen den Vorschlag mit ihm; singular Dativ with zustimmen/widersprechen; über issue, bei person/für reason. Fresh recipient Dat successes and Hilfe repair also saved; do not report broad regression.
-- V173 der Vorschlag practicing: lexical retrieval often correct, article/case errors separate. V174 das Problem practicing. No mastery estimates.
-- Prior **2026-10-14-S01-E06** remains unanswered: «علشان أخويا يقدر يقرأ دليل التعليمات، أختي طبعت نسخة امبارح.» S01 damit practicing with three independent full successes in five attempts; supported E03 and schläft correction retained.
-- Oct13 day still open; S02-E05 and S01-E03 and all older pending exercises preserved. No historical day closed by this pause.
-- Dated retests due 2026-10-15 and older due queue retained. Skill modes unchanged by text evidence; no audio assessed.
-
-Saved locally and uploaded; remote main matched checkpoint cbed4c1aadd678af62451ee78b3b3a1cd56acd36. Earlier rolling summaries remain in archive/.
+157 verbs/175 vocabulary/35 sessions, no new material at grading. Separate isolated_recall.infinitive_recall evidence; contextual counters/tense/skill/audio unchanged. Retest due2026-10-15. S03-E01, S02-E10, S01-E06 and all historical pending preserved. Results saved locally; new review remote sync pending.
