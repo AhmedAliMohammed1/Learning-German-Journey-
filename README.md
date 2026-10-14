@@ -1,6 +1,6 @@
 # German Learning Journey 🇩🇪
 
-Latest state **14 October 2026**: learner requested pause, save/upload everything and return to main menu. Day **open**, no active session, **2026-10-14-S02 paused**. GitHub synchronization pending verification.
+Latest state **14 October 2026**: learner requested pause, save/upload everything and return to main menu. Day **open**, no active session, **2026-10-14-S02 paused**. GitHub learning checkpoint uploaded and verified (`cbed4c1`).
 
 | Item | Current state |
 | --- | --- |

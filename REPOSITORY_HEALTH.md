@@ -62,3 +62,5 @@ This is later than the original maintenance snapshot above; **no new study work*
 - 157 contiguous unique verb IDs, 174 contiguous unique vocabulary IDs, single tables. 33 documented sessions, 2 in current date. All prior evidence preserved.
 - Current day open, active session null, paused 2026-10-14-S02; E10 unanswered. 5 real S01 and 9 real S02 answers; no fake attempt at pause. Raw answers/tense/frame errors and positive dimensions retained.
 - GitHub sync requested; remote result verified separately after push. Historical health figures above are dated history.
+
+- GitHub verification completed: learning checkpoint cbed4c1aadd678af62451ee78b3b3a1cd56acd36 pushed to origin/main; exact remote/local SHA match observed.

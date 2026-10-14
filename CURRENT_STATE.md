@@ -1,6 +1,6 @@
 # Current learner state — 2026-10-14 (Berlin)
 
-**Paused on learner request; return the nine-choice main menu.** Day open, no active session; paused_session_id=2026-10-14-S02. Full GitHub sync requested, pending verification.
+**Paused on learner request; return the nine-choice main menu.** Day open, no active session; paused_session_id=2026-10-14-S02. GitHub learning checkpoint uploaded and verified: cbed4c1aadd678af62451ee78b3b3a1cd56acd36.
 
 ## Exact continuation on selection
 **2026-10-14-S02-E10**, Perfekt, unanswered:
@@ -16,4 +16,4 @@ S02 E01–E09 answered and corrected, original spacing preserved in JSON. No ful
 - Oct13 day still open; S02-E05 and S01-E03 and all older pending exercises preserved. No historical day closed by this pause.
 - Dated retests due 2026-10-15 and older due queue retained. Skill modes unchanged by text evidence; no audio assessed.
 
-Saved locally. Latest checkpoint includes requested GitHub sync; verify remote before claiming completion. Earlier rolling summaries remain in archive/.
+Saved locally and uploaded; remote main matched checkpoint cbed4c1aadd678af62451ee78b3b3a1cd56acd36. Earlier rolling summaries remain in archive/.
