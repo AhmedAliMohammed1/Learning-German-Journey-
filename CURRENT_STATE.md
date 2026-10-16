@@ -1,9 +1,11 @@
-# Current learner state —2026-10-14 (Berlin)
+# Current learner state — 2026-10-16 (Berlin)
 
-Day open, active2026-10-14-S05, isolated full157 review, no sentences. B01 all157 answers graded: **141 target forms correct** incl explicit self-corrected stornieren; per user instruction **140 marked mastered in isolated infinitive/registered-form recall**, **17 needs review** (16 incorrect/unconfirmed target forms + correctly recalled zustimmen kept review on explicit request).
+Day **open**, active session **2026-10-16-S01**, mode **reading**, activity **2026-10-16-S01-A01**. A new written reading passage **Ein Problem im Büro** has been presented. The user has **not answered** its first comprehension question:
 
-No fresh unanswered batch. Next on continuation: shuffled review17. Curriculum IDs[30, 31, 36, 37, 38, 41, 49, 72, 103, 105, 107, 110, 115, 125, 133, 151, 156]. Special handling #102 möchten valid softer want expression vs exact unproduced wollen;#153 mitbringen compatible bringing-along vs exact unproduced bringen. Do not label synonyms total semantic failure. #19 sitzen/setzen,40 polite möchten/wollen,63 holen/mitbringen,140 erinnern/denken need distinctions. Other errors spelling/source forms. #130 absagen corrected to stornieren in #149 user note, both raw/final retained.
+**2026-10-16-S01-E01** — *Warum hat Lina ihren Kollegen Amir angerufen?*
 
-Mastered labels are explicit learner-requested **isolated recall only**. Existing contextual status/tense/unknown mastery untouched;156 applicable Perfekt forms untested, no delayed retention/audio assessment. Same-day second pass, not delayed evidence.
+Ask for one complete German answer, with Arabic fallback to confirm understanding. Do not reveal a German model before the attempt. Passage and activity are stored in days/2026-10-16.md and progress.json. Reading comprehension, grammar and written production remain unassessed for this new exercise until the learner answers. No speech/audio evaluation.
 
-Counts157 verbs/175 vocabulary/36 sessions,5 today. S04 prior117 results preserved; S03-E01/S02-E10/S01-E06 and all older pending unchanged. Day open, no closure. Final results uploaded to main and verified at checkpoint 27da6629cc801634dc983b32069469ed5bf45e89.
+**V176 die Rückmeldung / die Rückmeldungen** introduced in the reading passage; **176 registered vocabulary entries**, no mastery claim from exposure. **157 introduced verbs**, **37 documented sessions**, 1 today.
+
+Previous 2026-10-14-S05 paused: full157 isolated infinitive review, 140 marked mastered per direct learner request and 17 needs review, IDs [30,31,36,37,38,41,49,72,103,105,107,110,115,125,133,151,156]. These marks refer **only to isolated recall**, not to Perfekt/context/audio. Previous unanswered sentence exercises, due retests, and old reading activities remain preserved in progress.json. Oct14 remains unclosed, not fabricated as closed.
