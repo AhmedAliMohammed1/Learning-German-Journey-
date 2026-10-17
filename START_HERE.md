@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-17 isolated123 GRADED
 
-Same session2026-10-17-S01. All123 isolated answers saved:106 correct forms,8 spellings,6 contrasts,2 accepted alternatives with general target unconfirmed,1 reflexive omission. Labels139 mastered/18 review scoped to infinitive only; correct zustimmen review request preserved. Resume existing sentenceA01/E01 per learner sequence: «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No sentence model/answer yet; bringen recently corrected, lexical support flagged.17 repairs dueOct18 and122 applicable Perfekt forms deferred. Counts157/177/38, day open; old work retained. Read JSON/current day for any later state.
+Paused session2026-10-17-S01 on explicit request to return to main menu; day OPEN, no active session. Show nine choices, do not auto-start E01. All123 isolated answers saved:106 correct forms,8 spellings,6 contrasts,2 accepted alternatives with general target unconfirmed,1 reflexive omission. Labels139 mastered/18 review scoped to infinitive only; correct zustimmen review request preserved. On explicit continuation only, resume existing sentenceA01/E01: «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No sentence model/answer yet; bringen recently corrected, lexical support flagged.17 repairs dueOct18 and122 applicable Perfekt forms deferred. Counts157/177/38, day open; old work retained. Read JSON/current day for any later state.
 
 ## Historical handoff —2026-10-14 S05 final157 GRADED
 

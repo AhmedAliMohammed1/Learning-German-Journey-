@@ -1,6 +1,6 @@
 # Current learner state —2026-10-17 (Berlin)
 
-Day **open**, same session **2026-10-17-S01**, resumed sentence activity **2026-10-17-S01-A01** after learner requested verbs alone then sentences.
+Day **open**, **no active session**. Session **2026-10-17-S01** and sentence activity **2026-10-17-S01-A01** paused on explicit learner request «رجعني للقائمه الرئيسيه». Show all nine main-menu choices; do not auto-start an exercise.
 
 **Exact next unanswered 2026-10-17-S01-E01 — Perfekt:** «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No German sentence model shown. bringen lemma was recently shown in isolated correction, so do not count next answer as fresh independent bringen recall; assess grammar/cases/full production separately.
 
@@ -15,4 +15,4 @@ Current123-verb infinitive pass complete; isolated activity 2026-10-17-S01-A02 *
 
 Reading2026-10-16-S01-A01 and all older pending preserved. Historical days unclosed. M32/M34 weak; M08/M28 improving; damit practicing. No audio assessment.
 
-Next: await saved sentenceE01, then rotate middle-history Präsens. Local save complete; verify remote through Git refs.
+Next: main menu. Resume saved sentenceE01 only if the learner chooses continuation; otherwise honor the selected mode. Local pause saved; verify remote through Git refs.
