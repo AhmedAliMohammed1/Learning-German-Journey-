@@ -165,3 +165,6 @@ This preference supersedes earlier fixed-target/supplemental-count wording.
 
 ## Final recall labels requested —2026-10-14
 - «اي حاجه غلط علم عليها انها محتاجه مراجعه واي حاجه صح علم عليها ان تم اتقناها». Correct isolated infinitive/registered-form recall marked mastered on direct request; wrong/unconfirmed targets needs review, correct zustimmen still review by specific request. Label scope explicitly recall; untested Perfekt/contextual/oral dimensions retain evidence.
+
+## Current review sequence —2026-10-17
+- Explicit learner request: «هاتلي الافعال كلها الاول لوحدها وبعدين نرجع ناخد جمل». For current review, isolated verbs across the selected scope first, then return to preserved sentence activity. Retain prior all-at-once shuffled presentation preference. This is a sequence/mode choice, not mastery evidence.
