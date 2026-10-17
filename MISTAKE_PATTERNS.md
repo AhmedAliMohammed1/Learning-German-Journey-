@@ -570,3 +570,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-17 S03-E01 —relative grammar and static Dativ correct
 - `Das ist der Drucker, der auf dem Tisch liegt ` has correct der relative, final liegt, and auf dem Tisch Dativ. M27 stable with fresh independent success.
 - Preferred printer wording `Das ist der Drucker, der auf dem Schreibtisch steht.`: typical printer steht; liegt can describe lying orientation. Treat as contextual naturalness refinement, not incorrect conjugation/case or demonstrated stehen recall. Tisch general vs Schreibtisch specific. No subject identity/pronoun error or new M-pattern created.
+
+## 2026-10-17 S03-E02 —fresh Dativ success
+- `Das ist die Frau, die meinem Bruder hilft ` independently fully correct. M02: meinem Bruder after helfen singular Dativ; status improving retained alongside earlier Nominativ repairs. Final hilft and feminine relative die correct, no new error inferred.

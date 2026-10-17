@@ -27,7 +27,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
-| Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01 masculine relative/order/Dativ correct; printer position note; feminine E02 pending |
+| Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01/E02 masculine/feminine relative order correct; E02 fully correct incl helfen+Dativ; neuter E03 pending |
 
 ## Cases and pronouns
 
@@ -581,3 +581,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Independently correct der relative subject/gender, final liegt (also correctly conjugated), comma, der Drucker and static auf dem Tisch. Grammatically valid; normal printer position uses steht more naturally, whereas liegt implies a lying orientation. General Tisch accepted; Schreibtisch is more specific to desk. Do not classify these as relative-grammar/case failures or fabricate stehen production.
 - Topic practicing:1 attempt,1 independent relative-grammar success; no overall mastery. Drucker article/lemma practicing, plural not assessed; M27 stationary Dativ correct.
 - Exact pending 2026-10-17-S03-E02, Präsens: «دي الست اللي بتساعد أخويا.». Fresh feminine antecedent and helfen+Dativ, no exercise model shown. Delayed relative retest dueOct18.
+
+## Relative S03-E02 —independent full success (2026-10-17)
+- Learner raw `Das ist die Frau, die meinem Bruder hilft ` → `Das ist die Frau, die meinem Bruder hilft.` (only punctuation added). Feminine die Frau/die, final hilft and meinem Bruder Dativ independently correct.
+-2 real relative attempts,2 correct relative structures; E01 carries separate printer-position naturalness note, E02 fully correct. Still practicing; no plural/delayed mastery claim. M02 fresh Dativ success, remains improving.
+- Next exact 2026-10-17-S03-E03, Präsens: «ده الطفل اللي بيقرأ دليل التعليمات.». Neuter das plus known liest/Anleitung; no model shown. Existing delayed relative retest remains dueOct18, not incremented by same-session success.
