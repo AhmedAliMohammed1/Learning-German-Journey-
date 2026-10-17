@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-14 S05 final157 GRADED
+## LIVE handoff —2026-10-17 isolated123 GRADED
+
+Same session2026-10-17-S01. All123 isolated answers saved:106 correct forms,8 spellings,6 contrasts,2 accepted alternatives with general target unconfirmed,1 reflexive omission. Labels139 mastered/18 review scoped to infinitive only; correct zustimmen review request preserved. Resume existing sentenceA01/E01 per learner sequence: «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No sentence model/answer yet; bringen recently corrected, lexical support flagged.17 repairs dueOct18 and122 applicable Perfekt forms deferred. Counts157/177/38, day open; old work retained. Read JSON/current day for any later state.
+
+## Historical handoff —2026-10-14 S05 final157 GRADED
 
 Active2026-10-14-S05, day open; all157 submitted and graded. On direct user request140 labels mastered for isolated infinitive/registered-form recall only;17 review incl correct zustimmen retained on specific request.141 correct targets incl user self-correction stornieren via #149 note; raw/final both preserved. Wrong/unconfirmed target distinctions and spelling recorded, valid synonyms not blanket failures.
 

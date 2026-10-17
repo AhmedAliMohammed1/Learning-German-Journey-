@@ -556,3 +556,8 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-14 S02-E06 — M02 fresh Dativ success
 - Original `Mein Bruder vorschlagt seinem Kollegen einen Termin, danach bespricht er ihn die Vorschlag ` correctly contains seinem Kollegen and einen Termin. Corrected full sentence `Mein Bruder schlägt seinem Kollegen einen Termin vor. Danach bespricht er den Vorschlag mit ihm.`; vorschlagen separation/Umlaut, masculine den Vorschlag and mit ihm are separate corrections. Keep item evidence distinct.
+
+## 2026-10-17 S01 —isolated123 recall only
+-8 spelling repairs: verängern → verlängern; sich erinnenrn → sich erinnern; unterschrebien → unterschreiben; errichen → erreichen; anfengen → anfangen; aktulisieren → aktualisieren; duchen → duschen; wechslen → wechseln. Not evidence of grammatical case/order weakness.
+- Distinctions: holen/mitbringen, dürfen/erlauben (both directions), sitzen/setzen (both directions), möchten/wollen. Complain requires sich beschweren.
+- Broad-prompt mitnehmen and delivery-context mitbringen accepted alternatives; exact general nehmen/bringen recall unconfirmed. sich entscheiden accepted without für in infinitive-only task.106 other target forms correct. No contextual grammar/oral reassessment; existing M-pattern statuses unchanged. Repairs due2026-10-18, embedded in future requested sentences.

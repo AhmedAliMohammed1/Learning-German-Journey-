@@ -1,15 +1,18 @@
 # Current learner state —2026-10-17 (Berlin)
 
-Day **open**, same active session **2026-10-17-S01**, activity **2026-10-17-S01-A02**, **isolated verb recall before sentences** by explicit learner request: «هاتلي الافعال كلها الاول لوحدها وبعدين نرجع ناخد جمل».
+Day **open**, same session **2026-10-17-S01**, resumed sentence activity **2026-10-17-S01-A01** after learner requested verbs alone then sentences.
 
-Batch **2026-10-17-S01-B01** has all **123** current eligible meanings shuffled and issued at once. **No answers yet**. Await numbered answers1–123; requested **infinitive/registered form only**, with reflexives if needed. Exact mapping and Arabic prompts in progress.json and days/2026-10-17.md. Grade lexical meaning, target distinction, spelling/form separately; valid synonyms accepted without inventing target recall.
+**Exact next unanswered 2026-10-17-S01-E01 — Perfekt:** «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No German sentence model shown. bringen lemma was recently shown in isolated correction, so do not count next answer as fresh independent bringen recall; assess grammar/cases/full production separately.
 
-123 includes current contextual not-secure/new verbs and preserved individual form/recall targets across all history, not123 proven forgotten lemmas. Current pass does not assess Perfekt:122 applicable reference forms remain deferred; möchten has no own normal Perfekt. Historical140 recall-mastered/17 review labels unchanged.
+### Latest observed evidence
+**All123 isolated answers graded** in 2026-10-17-S01-B01:106 correct target forms,8 spelling repairs,6 meaning distinctions,2 accepted context-dependent alternatives with general targets unconfirmed,1 missing reflexive. Raw answers and explanations preserved in progress.json and days/2026-10-17.md. sich entscheiden accepted without requiring für; mitnehmen (#23) and mitbringen (#111) accepted semantically without fabricated nehmen/bringen recall.
 
-**157 verbs /177 vocabulary /38 documented sessions; one today**. No count, answer or mastery change on mode switch. V177 Arbeitsplan was introduced earlier today, unassessed.
+Current isolated recall labels **139 mastered /18 review**, under prior explicit learner labeling preference, including correct zustimmen retained review on specific request. Label scope infinitive/registered form only. Retention recorded only with prior comparable dated correct evidence. No contextual/Perfekt/audio mastery inferred.
 
-Sentence activity **2026-10-17-S01-A01** paused. Return after isolated verb work to exact unanswered **2026-10-17-S01-E01 — Perfekt:** «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.»
+Current123-verb infinitive pass complete; isolated activity 2026-10-17-S01-A02 **paused** with17 repairs and122 applicable Perfekt reference forms deferred, not a completed both-tense review. möchten exception preserved.17 repairs due2026-10-18, with older queue entries retained. Do not force them before requested sentences.
 
-Reading2026-10-16-S01-A01/Q1 and all older pending preserved. Historical days remain unclosed. Prior Oct14 recall results and17 retries preserved. M32/M34 weak; M08/M28 improving; damit practicing, due retests retained. No pronunciation/listening assessment.
+**157 verbs /177 vocabulary /38 documented sessions; one today**. V177 **der Arbeitsplan /die Arbeitspläne** introduced, not assessed. Sentence pool123 rotates old/middle/recent and both tenses.
 
-Local checkpoint saved; verify Git refs separately for remote transport.
+Reading2026-10-16-S01-A01 and all older pending preserved. Historical days unclosed. M32/M34 weak; M08/M28 improving; damit practicing. No audio assessment.
+
+Next: await saved sentenceE01, then rotate middle-history Präsens. Local save complete; verify remote through Git refs.
