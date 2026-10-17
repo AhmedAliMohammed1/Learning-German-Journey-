@@ -1,6 +1,6 @@
 # Current learner state —2026-10-17 (Berlin)
 
-Day **open**, active session **2026-10-17-S02**, new grammar track **ob in indirect yes/no questions**. Activity **2026-10-17-S02-A01**. Same-date session2; previousS01 paused.
+Day **open**, **no active session**. Latest session **2026-10-17-S02**, grammar activity **2026-10-17-S02-A01**, paused on explicit save-and-main-menu request. Show all nine main-menu choices, no automatic exercise. PreviousS01 remains paused.
 
 **Exact next unanswered 2026-10-17-S02-E02 — Präsens:** «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.» Full German sentence using ob; no model. Fresh retest of weiß and Nominativ possessives after E01 corrections.
 
@@ -10,4 +10,4 @@ Day **open**, active session **2026-10-17-S02**, new grammar track **ob in indir
 
 Previous unanswered **2026-10-17-S01-E01** Perfekt «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» remains paused with lexical-support note. Reading2026-10-16-S01-E01 and all old pending retained. Historical days unclosed.
 
-M32/M34 weak; M08/M28 improving; damit practicing, now embedded review while ob is main topic. No oral/audio assessment. Next: await ob sentenceE02, then fresh supported/adaptive transfer; do not force old review first. Local save complete; remote transport verified via Git refs.
+M32/M34 weak; M08/M28 improving; damit practicing, now embedded review while ob is main topic. No oral/audio assessment. Next: main menu. Resume ob sentenceE02 only on explicit continuation; otherwise honor selected mode. Local save complete; remote transport verified via Git refs.
