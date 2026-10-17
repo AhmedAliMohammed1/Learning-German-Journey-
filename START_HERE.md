@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-17 S02 new grammar ob
+## LIVE handoff —2026-10-17 S03 relative clauses
+
+DayOPEN active2026-10-17-S03; learner selected4→new grammar1. New main topic relative clauses with Nominativ subject der/die/das/pluraldie only. Explanation/examples provided,0 learner attempts. NewV179 Drucker/pluralDrucker, counts157/179/40,3 sessions same date file. Exact pending2026-10-17-S03-E01 Präsens «دي الطابعة اللي موجودة على المكتب.». No exercise-specific German model. obS02-E02 and all S01/recall/reading/retests preserved, do not force old pending before selected progression. Reread JSON/current day.
+
+## Historical handoff —2026-10-17 S02 new grammar ob
 
 Day OPEN, no active session; paused2026-10-17-S02 on explicit save-and-main-menu request. Offer nine choices, do not auto-start E02. Learner selected4→new grammar1. Genuinely new main topic ob indirect yes/no questions; E01 answered: ob/final braucht correct; full sentence needs Meine Schwester, weiß, ihr Kollege and eine Auskunft. Topic practicing,1 attempt,0 fully correct translations. NewV178 Auskunft/Auskünfte; counts157/178/39,2 sessions today in same file. Exact pending2026-10-17-S02-E02 Präsens «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.».. No exercise German model shown. OlderS01/123 graded recall/17 repairs/122 Perfekt forms/reading pending preserved; do not force deferred work. Read JSON and current day.
 

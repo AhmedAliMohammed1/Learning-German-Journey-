@@ -27,6 +27,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
+| Relative clauses: der/die/das/die as subject (Nominativ) | introduced | New main topic Oct17 S03; first written attempt pending |
 
 ## Cases and pronouns
 
@@ -566,3 +567,11 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Independent correct ob selection and final braucht; Auskunft lexical identity/feminine gender correct. Whole sentence needs Meine Schwester, sie weiß, Nominativ ihr Kollege (not Dativ ihrem Kollegen), indefinite eine Auskunft. Comma has no preceding space.
 - One attempt,0 independent full translations;1 correct ob structure. Topic practicing, not mastered. Subjects intended remain sister/colleague; case errors do not prove M34 subject-switch. No audio assessment.
 - Fresh next 2026-10-17-S02-E02 Präsens: «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.». No German model. V178 reuse later, then Perfekt; old pending retained.
+
+## New main grammar — relative clauses, Nominativ only (2026-10-17 S03)
+- Relativsätze = جمل الوصل: a clause describing a preceding noun (اللي...). Comma before relative clause, finite verb at end.
+- Here relative pronoun is the subject of its own clause: Nominativ der (masculine), die (feminine), das (neuter), die (plural). Gender/number refer back to the antecedent; case follows its role inside the relative clause. This table is not a rule for every relative case. Akk/Dat relatives are deferred.
+- Examples: **Das ist der Mann, der Deutsch lernt.**; **Das ist die Frau, die im Krankenhaus arbeitet.**; **Das ist das Kind, das im Park spielt.** Relative pronoun itself acts as subject; no extra er/sie/es needed.
+- NewV179 **der Drucker / die Drucker** = الطابعة. Reference **Ich kaufe einen Drucker.**
+- Introduced as genuinely new main topic after checking all prior grammar topic records and dated lesson headings. Related verb-final knowledge reused, not relabeled as new. Zero learner attempts; no mastery.
+- First pending2026-10-17-S03-E01 Präsens: «دي الطابعة اللي موجودة على المكتب.» Accept ist/steht for location; assess relative structure separately from location Dativ. No German exercise model shown. Paused obE02, prior S01 and reading prompts preserved.
