@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-17 S03 comprehensive Imperativ
 
-DayOPEN, same active2026-10-17-S03, activity2026-10-17-S03-A02; learner explicitly requested الأمر from A to Z. Full Egyptian Arabic lesson curriculum/imperativ.md, new topic introduced0 attempts. NewV180bitte/V181mal/V182doch; counts157/182/40,3sessions today. Exact pending2026-10-17-S03-E05 du «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». No German exercise model. RelativeE04 «دي الطابعات اللي موجودة في الورشة.» paused unchanged, all older evidence/retests retained. New persistent preference: complete practical grammar rules/subrules/exceptions/examples before gradual practice, accurately describe rare-form scope. Read JSON/current day.
+DayOPEN, same active2026-10-17-S03, activity2026-10-17-S03-A02; learner explicitly requested الأمر from A to Z. Full Egyptian Arabic lesson curriculum/imperativ.md, Imperativ practicing: E05 nimm...mit/bitte/Acc den correct, requested your omitted→deinen.1 structure success,0 exact full translations. NewV180bitte/V181mal/V182doch; counts157/182/40,3sessions today. Exact pending2026-10-17-S03-E06 ihr «اطلب من أصحابك: «من فضلكم ساعدوا أخويا.»». No German exercise model. RelativeE04 «دي الطابعات اللي موجودة في الورشة.» paused unchanged, all older evidence/retests retained. New persistent preference: complete practical grammar rules/subrules/exceptions/examples before gradual practice, accurately describe rare-form scope. Read JSON/current day.
 
 ## Historical handoff —2026-10-17 S03 relative clauses
 

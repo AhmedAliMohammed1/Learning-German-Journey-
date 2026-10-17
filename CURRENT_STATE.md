@@ -2,12 +2,12 @@
 
 Day **open**, same active session **2026-10-17-S03**, activity **2026-10-17-S03-A02**, new main topic **Imperativ** by explicit learner request. Comprehensive Egyptian Arabic reference at **curriculum/imperativ.md**.
 
-**Exact next unanswered 2026-10-17-S03-E05 — du command:** «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». No full German model/learner answer. Assess nimm...mit, deinen Reisepass and bitte separately after lesson.
+**Exact next unanswered 2026-10-17-S03-E06 — ihr command:** «اطلب من أصحابك: «من فضلكم ساعدوا أخويا.»». No full German model. Assess plural helft, bitte and meinem Bruder Dativ separately.
 
-Imperativ **introduced,0 attempts**, no mastery/audio assessment. Persistent learner preference: explain grammar comprehensively from basics through practical subrules/exceptions/examples, then gradual practice.3 new particles **V180bitte, V181mal, V182doch**, introduced only; no new verbs. **157 verbs/182 vocabulary/40 sessions;3 today**, same session (no S04).
+Imperativ **practicing,1 actual attempt,1 independent command-structure success,0 exact full translations**; no mastery/audio assessment. E05 `Nimm bitte den Reisepass mit!` → `Nimm bitte deinen Reisepass mit!`: nimm...mit, bitte and Acc den correct; target your requires deinen. Possessive meaning omission is not an incorrect case. Persistent learner preference: explain grammar comprehensively from basics through practical subrules/exceptions/examples, then gradual practice.V180bitte practicing after independent contextual use; V181mal/V182doch introduced only; no new verbs. **157 verbs/182 vocabulary/40 sessions;3 today**, same session (no S04).
 
 Relative activity **2026-10-17-S03-A01 paused** with exact unanswered **2026-10-17-S03-E04** «دي الطابعات اللي موجودة في الورشة.» der/die/das and verb-final structure independently correct in3 attempts; E01 printer-position note, E02 fully correct, E03 list→liest repair. Relative and liest retests dueOct18 preserved.
 
 Paused obS02-E02 «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.» and obE01 original/corrections retained. S01 sentence/123 graded recall,17 repairs dueOct18,122 Perfekt forms deferred, reading and all older pending retained. Recall labels139 mastered/18 review remain infinitive-only, special zustimmen review retained. Historical days open/unclosed as recorded.
 
-Next: first Imperativ exercise only after complete explanation; honor the chosen new topic without forcing prior tasks. Local checkpoint saved; remote verified via Git refs.
+Next: await informal plural Imperativ E06; honor the chosen new topic without forcing prior tasks. Local checkpoint saved; remote verified via Git refs.

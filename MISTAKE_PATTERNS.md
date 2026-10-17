@@ -576,3 +576,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-17 S03-E03 —written liest repair, relative success
 - `Das ist das Kind, das die Anleitung list` → `Das ist das Kind, das die Anleitung liest.`. Correct neuter das and clause-final position. list→liest is a written present-form repair, not a relative-pronoun error, failed infinitive recall or assessed pronunciation. Retest fresh liest context later, dueOct18. No new grammar-error pattern/status change from this single occurrence.
+
+## 2026-10-17 S03-E05 —possessive meaning, correct case
+- `Nimm bitte den Reisepass mit!` → `Nimm bitte deinen Reisepass mit!` to retain «جواز سفرك». Den is correct masculine Akkusativ but lacks requested possession; do not record a false Akk/Dat or imperative error. nimm...mit independently correct. Existing M-pattern statuses unchanged; embed a later possessive-fidelity check.

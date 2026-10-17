@@ -185,7 +185,7 @@
 | V177 | der Arbeitsplan | die Arbeitspläne | خطة العمل / جدول الشغل | noun | introduced |
 | V178 | die Auskunft | die Auskünfte | معلومة / إفادة من شخص أو جهة | noun | practicing |
 | V179 | der Drucker | die Drucker | الطابعة | noun | practicing |
-| V180 | bitte | — | من فضلك / لو سمحت | politeness_marker | introduced |
+| V180 | bitte | — | من فضلك / لو سمحت | politeness_marker | practicing |
 | V181 | mal | — | أداة بتخلي الطلب عفوي؛ مش معناها مرة حرفيًا هنا | modal_particle | introduced |
 | V182 | doch | — | أداة للتشجيع أو الإلحاح حسب السياق والنبرة | modal_particle | introduced |
 

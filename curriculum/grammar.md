@@ -28,7 +28,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
-| Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | Comprehensive lesson requested Oct17 S03-A02; first du exercise E05 pending |
+| Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | S03-E05 du nimm...mit/case correct, possession omitted; plural ihr E06 pending |
 
 ## Cases and pronouns
 
@@ -597,3 +597,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Explicit request for الأمر and comprehensive rules «من الالف ل الياء». Full Egyptian Arabic reference explanation and primary source links stored in [imperativ.md](imperativ.md). Covers purpose/addressees, regular du/e, e→i/ie and Umlaut distinction, ihr/Sie, sein/haben, separable/inseparable/reflexive verbs, negation, cases, politeness particles, wir, indirect alternatives, punctuation, clause structure and accurate notes on rare forms.
 - SameS03 session, no additional session; relative activity paused with exact E04 retained. Explain all practical rules before gradual practice. No new numbered verbs; every example uses registered known verbs.3 practical register particles V180bitte/V181mal/V182doch introduced with meanings/examples after complete inventory audit; no independent recall.
 - Zero Imperativ attempts at introduction. First exact pending 2026-10-17-S03-E05: «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». Requested du, no full German model. No audio assessed; no delayed Imperativ retest before observed practice.
+
+## Imperativ S03-E05 —du structure correct (2026-10-17)
+- Learner `Nimm bitte den Reisepass mit!`; prompt-faithful correction `Nimm bitte deinen Reisepass mit!`. nimm, final mit, bitte position and masculine Akkusativ den correct. den Reisepass = the passport, requested deinen Reisepass = your passport. Semantic possessive omission is not a case/verb-form error.
+-1 actual attempt,1 independent Imperativ structure success,0 exact full translations. Topic practicing, not mastered. bitte first real contextual use now practicing; all other dimensions retain evidence.
+- Next 2026-10-17-S03-E06, informal plural ihr: «اطلب من أصحابك: «من فضلكم ساعدوا أخويا.»». No full model; test helft/Dativ. Delayed Imperativ retest dueOct18; older prompts preserved.
