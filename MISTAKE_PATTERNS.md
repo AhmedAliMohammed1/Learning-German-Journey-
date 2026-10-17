@@ -573,3 +573,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-17 S03-E02 —fresh Dativ success
 - `Das ist die Frau, die meinem Bruder hilft ` independently fully correct. M02: meinem Bruder after helfen singular Dativ; status improving retained alongside earlier Nominativ repairs. Final hilft and feminine relative die correct, no new error inferred.
+
+## 2026-10-17 S03-E03 —written liest repair, relative success
+- `Das ist das Kind, das die Anleitung list` → `Das ist das Kind, das die Anleitung liest.`. Correct neuter das and clause-final position. list→liest is a written present-form repair, not a relative-pronoun error, failed infinitive recall or assessed pronunciation. Retest fresh liest context later, dueOct18. No new grammar-error pattern/status change from this single occurrence.
