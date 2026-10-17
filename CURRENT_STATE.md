@@ -1,17 +1,13 @@
 # Current learner state —2026-10-17 (Berlin)
 
-Day **open**, active session **2026-10-17-S03**, new main grammar **relative clauses with Nominativ subject pronouns der/die/das/die**. Activity **2026-10-17-S03-A01**, session3 in same day file.
+Day **open**, same active session **2026-10-17-S03**, activity **2026-10-17-S03-A02**, new main topic **Imperativ** by explicit learner request. Comprehensive Egyptian Arabic reference at **curriculum/imperativ.md**.
 
-**Exact next unanswered 2026-10-17-S03-E04 — Präsens:** «دي الطابعات اللي موجودة في الورشة.» No full German model. Plural die Drucker/die, main sind, final stehen/sind, static in der Werkstatt; accept natural equivalents.
+**Exact next unanswered 2026-10-17-S03-E05 — du command:** «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». No full German model/learner answer. Assess nimm...mit, deinen Reisepass and bitte separately after lesson.
 
-**Relative E01 answered:** `Das ist der Drucker, der auf dem Tisch liegt `. Relative der, final liegt, comma and static auf dem Tisch correct. Preferred ordinary-position/desk wording `Das ist der Drucker, der auf dem Schreibtisch steht.`. liegt is grammatically possible for lying orientation; treat printer steht as naturalness refinement, not grammar/form failure. Tisch general accepted, Schreibtisch more specific. Topic practicing:3 real attempts,3 independent relative-structure successes; no mastery. E03 whole translation needs liest repair. V179 Drucker article/lemma correct once, plural unassessed. Retest relative subjects/order dueOct18.
+Imperativ **introduced,0 attempts**, no mastery/audio assessment. Persistent learner preference: explain grammar comprehensively from basics through practical subrules/exceptions/examples, then gradual practice.3 new particles **V180bitte, V181mal, V182doch**, introduced only; no new verbs. **157 verbs/182 vocabulary/40 sessions;3 today**, same session (no S04).
 
-**Relative E02 fully correct:** `Das ist die Frau, die meinem Bruder hilft.`. Independent feminine die, final hilft and Dativ meinem Bruder; only punctuation added. Move to neuter, retain relative retestOct18.
+Relative activity **2026-10-17-S03-A01 paused** with exact unanswered **2026-10-17-S03-E04** «دي الطابعات اللي موجودة في الورشة.» der/die/das and verb-final structure independently correct in3 attempts; E01 printer-position note, E02 fully correct, E03 list→liest repair. Relative and liest retests dueOct18 preserved.
 
-**Relative E03:** `Das ist das Kind, das die Anleitung list` → `Das ist das Kind, das die Anleitung liest.`. Neuter das/order and die Anleitung correct; list→liest written form repair. Retest liest dueOct18, no pronunciation inference.
+Paused obS02-E02 «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.» and obE01 original/corrections retained. S01 sentence/123 graded recall,17 repairs dueOct18,122 Perfekt forms deferred, reading and all older pending retained. Recall labels139 mastered/18 review remain infinitive-only, special zustimmen review retained. Historical days open/unclosed as recorded.
 
-**157 verbs /179 vocabulary /40 documented sessions;3 today**. All previous evidence retained. Paused S02 ob practicing:1 real attempt, ob/final braucht correct, whole sentence needs Meine Schwester/weiß/ihr Kollege/eine Auskunft. Exact unanswered **2026-10-17-S02-E02** «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.» Retest dueOct18.
-
-Paused S01 sentenceE01 and all123 isolated answers retained:106 correct forms,8 spellings,6 contrasts,2 accepted alternatives target-unconfirmed,1 reflexive omission. Recall labels139 mastered/18 review infinitive-only, special zustimmen request preserved.17 repairs dueOct18,122 Perfekt forms deferred. Reading2026-10-16-S01-E01 and all older pending preserved; historical days unclosed.
-
-M02/M08/M28 improving; M32/M34 weak. Relative clause is new focus; old grammar remains available for embedded review. No audio assessment. Next: await relative sentenceE04, then fresh variants and later vocabulary reuse; do not force old pending first. Local save; remote transport verified via Git refs.
+Next: first Imperativ exercise only after complete explanation; honor the chosen new topic without forcing prior tasks. Local checkpoint saved; remote verified via Git refs.

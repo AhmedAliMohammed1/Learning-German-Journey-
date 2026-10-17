@@ -168,3 +168,8 @@ This preference supersedes earlier fixed-target/supplemental-count wording.
 
 ## Current review sequence —2026-10-17
 - Explicit learner request: «هاتلي الافعال كلها الاول لوحدها وبعدين نرجع ناخد جمل». For current review, isolated verbs across the selected scope first, then return to preserved sentence activity. Retain prior all-at-once shuffled presentation preference. This is a sequence/mode choice, not mastery evidence.
+
+## Comprehensive grammar explanations —2026-10-17
+- Explicit learner wording: «عايزك تشرحلي الامر
+متنساش اي حاجه عايز القاعه الي تشرحها تجبها من الالف ل الياء».
+- Explain a selected grammar topic from basics through practical forms/subrules/exceptions, cases/order, negatives, irregular/separable/reflexive patterns and register with clear examples, then gradual practice. Distinguish everyday rules from rare advanced constructions; never claim a short overview is exhaustive. Reuse known verbs and audit entire inventories before examples/new entries; pause and preserve earlier work on explicit topic switch.

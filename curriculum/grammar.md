@@ -28,6 +28,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
+| Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | Comprehensive lesson requested Oct17 S03-A02; first du exercise E05 pending |
 
 ## Cases and pronouns
 
@@ -591,3 +592,8 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Learner `Das ist das Kind, das die Anleitung list` → `Das ist das Kind, das die Anleitung liest.`. Neuter relative das, direct object die Anleitung and final verb position independently correct. Written third singular **liest**, not **list**; ich lese / er liest. No audio inference.
 -3 attempts,3 independent relative-structure successes; independent_correct is scoped to target structure. E02 fully correct whole translation; E03 requires written verb repair. Keep practicing; no broad regression or mastery.
 - Next 2026-10-17-S03-E04, Präsens: «دي الطابعات اللي موجودة في الورشة.». Reuse new Drucker plural, known Werkstatt; no model. Relative and liest retests dueOct18; older work retained.
+
+## New main grammar — Imperativ (2026-10-17 S03-A02)
+- Explicit request for الأمر and comprehensive rules «من الالف ل الياء». Full Egyptian Arabic reference explanation and primary source links stored in [imperativ.md](imperativ.md). Covers purpose/addressees, regular du/e, e→i/ie and Umlaut distinction, ihr/Sie, sein/haben, separable/inseparable/reflexive verbs, negation, cases, politeness particles, wir, indirect alternatives, punctuation, clause structure and accurate notes on rare forms.
+- SameS03 session, no additional session; relative activity paused with exact E04 retained. Explain all practical rules before gradual practice. No new numbered verbs; every example uses registered known verbs.3 practical register particles V180bitte/V181mal/V182doch introduced with meanings/examples after complete inventory audit; no independent recall.
+- Zero Imperativ attempts at introduction. First exact pending 2026-10-17-S03-E05: «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». Requested du, no full German model. No audio assessed; no delayed Imperativ retest before observed practice.

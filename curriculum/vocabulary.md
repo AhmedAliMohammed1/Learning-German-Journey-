@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**179 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**182 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -185,6 +185,9 @@
 | V177 | der Arbeitsplan | die Arbeitspläne | خطة العمل / جدول الشغل | noun | introduced |
 | V178 | die Auskunft | die Auskünfte | معلومة / إفادة من شخص أو جهة | noun | practicing |
 | V179 | der Drucker | die Drucker | الطابعة | noun | practicing |
+| V180 | bitte | — | من فضلك / لو سمحت | politeness_marker | introduced |
+| V181 | mal | — | أداة بتخلي الطلب عفوي؛ مش معناها مرة حرفيًا هنا | modal_particle | introduced |
+| V182 | doch | — | أداة للتشجيع أو الإلحاح حسب السياق والنبرة | modal_particle | introduced |
 
 ## Learning notes
 

@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-17 S03 relative clauses
+## LIVE handoff —2026-10-17 S03 comprehensive Imperativ
+
+DayOPEN, same active2026-10-17-S03, activity2026-10-17-S03-A02; learner explicitly requested الأمر from A to Z. Full Egyptian Arabic lesson curriculum/imperativ.md, new topic introduced0 attempts. NewV180bitte/V181mal/V182doch; counts157/182/40,3sessions today. Exact pending2026-10-17-S03-E05 du «قول لصاحبك الواحد: «من فضلك خد جواز سفرك معاك.»». No German exercise model. RelativeE04 «دي الطابعات اللي موجودة في الورشة.» paused unchanged, all older evidence/retests retained. New persistent preference: complete practical grammar rules/subrules/exceptions/examples before gradual practice, accurately describe rare-form scope. Read JSON/current day.
+
+## Historical handoff —2026-10-17 S03 relative clauses
 
 DayOPEN active2026-10-17-S03; learner selected4→new grammar1. New main topic relative clauses with Nominativ subject der/die/das/pluraldie only. E01 answered: der relative/final liegt/static Dativ correct; steht preferred for normal printer position, not a grammar failure.3 independent relative-structure successes; E02 fully correct, E03 das/order correct but list→liest. Topic practicing, whole translation success separate. NewV179 Drucker/pluralDrucker, counts157/179/40,3 sessions same date file. Exact pending2026-10-17-S03-E04 Präsens «دي الطابعات اللي موجودة في الورشة.».... No exercise-specific German model. obS02-E02 and all S01/recall/reading/retests preserved, do not force old pending before selected progression. Reread JSON/current day.
 
