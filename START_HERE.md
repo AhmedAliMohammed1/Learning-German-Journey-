@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-17 S03 comprehensive Imperativ
+## LIVE handoff —2026-10-17 S04 verbs158–167
+
+DayOPEN active2026-10-17-S04; learner selected4→new verbs2. New10 verbs158leihen,159zurückbringen,160zurückschicken,161aufbewahren,162erhalten,163bestätigen,164benachrichtigen,165nachfragen,166nachschauen,167sich kümmern um; present/Perfekt/examples/usage shown, zero learner attempts. Full inventory/history uniqueness check; mitteilen excluded as already explained Oct7. NewV183 Kundendienst/Kundendienste; counts167/183/41,4sessions same file. Exact pending2026-10-17-S04-E01 Perfekt «أختي استفسرت عند خدمة العملاء امبارح، وبعد كده بعتت رسالة لزميلها.». No model/answer. Planned70% new/30% embedded review, progression-first. All old Imperativ/relative/ob/recall/reading/retests retained. Read liveJSON/day; introduced is not mastered.
+
+## Historical handoff —2026-10-17 S03 comprehensive Imperativ
 
 DayOPEN, no active session; paused2026-10-17-S03/activityA02 on explicit save-and-main-menu request. Show nine choices, no automatic exercise. Latest E06/pause saved locally; approval review succeeded on retry, verify Git refs for remote persistence; learner explicitly requested الأمر from A to Z. Full Egyptian Arabic lesson curriculum/imperativ.md, Imperativ practicing: E05 nimm...mit/bitte/Acc den correct, requested your omitted→deinen.2 actual Imperativ attempts/1 command-form success/0 exact full translations; E06 hilft→helft with Dativ and final bitte correct. NewV180bitte/V181mal/V182doch; counts157/182/40,3sessions today. Exact pending2026-10-17-S03-E07 ihr «اطلب من أصحابك: «من فضلكم اقفلوا الباب.»». No German exercise model. RelativeE04 «دي الطابعات اللي موجودة في الورشة.» paused unchanged, all older evidence/retests retained. New persistent preference: complete practical grammar rules/subrules/exceptions/examples before gradual practice, accurately describe rare-form scope. Read JSON/current day.
 

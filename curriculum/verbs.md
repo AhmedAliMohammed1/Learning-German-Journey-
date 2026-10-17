@@ -1,4 +1,4 @@
-# Verb curriculum — 157 introduced verbs
+# Verb curriculum — 167 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -165,6 +165,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 155 | sich beschweren | يشتكي | ich beschwere mich; er beschwert sich | hat sich beschwert | Ich beschwere mich über die Verspätung. | practicing | reflexive Akk; über + Akk issue; bei + Dat recipient; isolated recall(2026-10-17): needs review |
 | 156 | sich entschuldigen | يعتذر | ich entschuldige mich; er entschuldigt sich | hat sich entschuldigt | Ich entschuldige mich bei meiner Schwester. | practicing | reflexive Akk; bei + Dat person; für + Akk reason; isolated recall(2026-10-17): mastered by learner request |
 | 157 | lösen | يحل مشكلة | ich löse; er löst | hat gelöst | Ich löse das Problem. | practicing | + Akk; regular; isolated recall(2026-10-17): mastered by learner request |
+| 158 | leihen | يسلّف حاجة / يستعير حسب التركيب | ich leihe; du leihst; er leiht | hat geliehen | Ich leihe meinem Bruder das Buch. | introduced | Dat person + Akk thing for lending; sich(Dat) etwas(Akk) leihen for borrowing; strong geliehen, no separable prefix |
+| 159 | zurückbringen | يرجّع حاجة بأنه يوصلها | ich bringe ... zurück; er bringt ... zurück | hat zurückgebracht | Ich bringe meiner Schwester das Buch zurück. | introduced | separable; Dat person + Akk thing; return by bringing, distinct from returning by sending |
+| 160 | zurückschicken | يرجّع حاجة بالبريد أو بإرسالها | ich schicke ... zurück; er schickt ... zurück | hat zurückgeschickt | Ich schicke die Jacke zurück. | introduced | separable; Akk thing; optional Dat recipient; zurück + geschickt |
+| 161 | aufbewahren | يحتفظ بحاجة ويحافظ عليها لوقت لاحق | ich bewahre ... auf; er bewahrt ... auf | hat aufbewahrt | Ich bewahre die Quittung auf. | introduced | separable auf-, inseparable be- base: aufbewahrt without extra ge; Akk thing |
+| 162 | erhalten | يتلقى / يستلم | ich erhalte; du erhältst; er erhält | hat erhalten | Ich erhalte eine Bestätigung. | introduced | inseparable er-; no ge; Akk; receiving sense selected, synonym of known bekommen but a new verified lemma |
+| 163 | bestätigen | يؤكد | ich bestätige; er bestätigt | hat bestätigt | Ich bestätige den Termin. | introduced | inseparable be-; no ge; Akk; contrast noun die Bestätigung already registered |
+| 164 | benachrichtigen | يبلّغ / يخطر حد | ich benachrichtige; er benachrichtigt | hat benachrichtigt | Ich benachrichtige meinen Kollegen. | introduced | inseparable be-; no ge; Akk person, optional über + Akk topic |
+| 165 | nachfragen | يستفسر / يسأل للتوضيح أو المتابعة | ich frage ... nach; er fragt ... nach | hat nachgefragt | Ich frage beim Kundendienst nach. | introduced | separable; bei + Dat person/office, nach + Dat topic when specified; beim = bei dem |
+| 166 | nachschauen | يراجع / يدوّر على معلومة عشان يتأكد | ich schaue ... nach; er schaut ... nach | hat nachgeschaut | Ich schaue in der Anleitung nach. | introduced | separable; consult/check information; in + Dat for reference location |
+| 167 | sich kümmern um | يهتم بـ / يتولّى مسؤولية حاجة | ich kümmere mich um; er kümmert sich um | hat sich gekümmert | Ich kümmere mich um das Problem. | introduced | reflexive Akk mich/dich/sich etc; um + Akk target; regular gekümmert |
 
 ## How to read the table
 
@@ -213,3 +223,8 @@ All 137 verbs that existed as of 2026-10-09 have a Präsens reference, a Perfekt
 
 ## Final isolated recall labels —2026-10-14
 - Learner explicitly requested correct answers marked mastered and incorrect ones needs review. Scoped outcome:140 mastered infinitive/registered-form recall,17 needs review including correctly answered zustimmen retained on request. Existing Status column is contextual baseline, separate from new usage-note recall labels. Perfekt/grammar/oral mastery not inferred.
+
+## Batch158–167 —2026-10-17 S04
+- Ten unique new verb lemmas introduced after entire157/182 inventory and historical exercise audit. All have present/Perfekt/example/usage references;0 assessed attempts at introduction. mitteilen was excluded because Oct7 correction already explained it; no guessed historical ID or duplicate introduction.
+- New V183 der Kundendienst /die Kundendienste (departments; service activity singular). First pendingS04-E01 Perfekt nachfragen + old schicken, Dat recipient and danach V2.
+- Practice planned roughly70% new/30% older embedded, not a measured outcome. All earlier pending and recall statuses preserved.
