@@ -566,3 +566,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - Original `Mein Schwester weißt nicht , ob ihrem Kollegen die Auskunft braucht` → `Meine Schwester weiß nicht, ob ihr Kollege eine Auskunft braucht.`.
 - M02 improving baseline retained; new feminine meine before Schwester and masculine ihr Kollege as subordinate subject need Nominativ. Dativ ihrem Kollegen is not this subject. Same intended people preserved, so no new M34 error. sie weiß vs du weißt is a verb form repair.
 - ob and final braucht independently correct. Auskunft identity/gender correct; eine vs die is intended indefinite meaning. Fresh E02 retest and delayed retestOct18; no global regression inferred.
+
+## 2026-10-17 S03-E01 —relative grammar and static Dativ correct
+- `Das ist der Drucker, der auf dem Tisch liegt ` has correct der relative, final liegt, and auf dem Tisch Dativ. M27 stable with fresh independent success.
+- Preferred printer wording `Das ist der Drucker, der auf dem Schreibtisch steht.`: typical printer steht; liegt can describe lying orientation. Treat as contextual naturalness refinement, not incorrect conjugation/case or demonstrated stehen recall. Tisch general vs Schreibtisch specific. No subject identity/pronoun error or new M-pattern created.

@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-17 S03 relative clauses
 
-DayOPEN active2026-10-17-S03; learner selected4→new grammar1. New main topic relative clauses with Nominativ subject der/die/das/pluraldie only. Explanation/examples provided,0 learner attempts. NewV179 Drucker/pluralDrucker, counts157/179/40,3 sessions same date file. Exact pending2026-10-17-S03-E01 Präsens «دي الطابعة اللي موجودة على المكتب.». No exercise-specific German model. obS02-E02 and all S01/recall/reading/retests preserved, do not force old pending before selected progression. Reread JSON/current day.
+DayOPEN active2026-10-17-S03; learner selected4→new grammar1. New main topic relative clauses with Nominativ subject der/die/das/pluraldie only. E01 answered: der relative/final liegt/static Dativ correct; steht preferred for normal printer position, not a grammar failure.1 independent relative-grammar success; topic practicing. NewV179 Drucker/pluralDrucker, counts157/179/40,3 sessions same date file. Exact pending2026-10-17-S03-E02 Präsens «دي الست اللي بتساعد أخويا.».. No exercise-specific German model. obS02-E02 and all S01/recall/reading/retests preserved, do not force old pending before selected progression. Reread JSON/current day.
 
 ## Historical handoff —2026-10-17 S02 new grammar ob
 
