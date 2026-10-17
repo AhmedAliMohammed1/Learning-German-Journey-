@@ -28,7 +28,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
-| Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | S03-E05 du nimm...mit/case correct, possession omitted; plural ihr E06 pending |
+| Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
 
 ## Cases and pronouns
 
@@ -602,3 +602,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Learner `Nimm bitte den Reisepass mit!`; prompt-faithful correction `Nimm bitte deinen Reisepass mit!`. nimm, final mit, bitte position and masculine Akkusativ den correct. den Reisepass = the passport, requested deinen Reisepass = your passport. Semantic possessive omission is not a case/verb-form error.
 -1 actual attempt,1 independent Imperativ structure success,0 exact full translations. Topic practicing, not mastered. bitte first real contextual use now practicing; all other dimensions retain evidence.
 - Next 2026-10-17-S03-E06, informal plural ihr: «اطلب من أصحابك: «من فضلكم ساعدوا أخويا.»». No full model; test helft/Dativ. Delayed Imperativ retest dueOct18; older prompts preserved.
+
+## Imperativ S03-E06 —plural form repair (2026-10-17)
+- Learner `Hilft meinem Bruder bitte !` → `Helft meinem Bruder bitte!`. ihr helft gives Helft!, while er/sie/es hilft is indicative; du imperative Hilf! distinct. Dativ meinem Bruder and final bitte independently correct. Only minor punctuation spacing besides verb form.
+-2 attempts,1 independent command-form success,0 exact full translations; no broad case regression. New form-transfer 2026-10-17-S03-E07 ihr: «اطلب من أصحابك: «من فضلكم اقفلوا الباب.»». No model. Existing delayed retest dueOct18 updated.

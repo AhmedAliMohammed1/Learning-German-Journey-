@@ -579,3 +579,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-17 S03-E05 —possessive meaning, correct case
 - `Nimm bitte den Reisepass mit!` → `Nimm bitte deinen Reisepass mit!` to retain «جواز سفرك». Den is correct masculine Akkusativ but lacks requested possession; do not record a false Akk/Dat or imperative error. nimm...mit independently correct. Existing M-pattern statuses unchanged; embed a later possessive-fidelity check.
+
+## 2026-10-17 S03-E06 —Dativ correct, plural imperative repair
+- `Hilft meinem Bruder bitte !` → `Helft meinem Bruder bitte!`. M02 fresh correct meinem Bruder after helfen; keep improving. Final bitte valid. ihr imperative Helft differs from third-singular hilft and du Hilf; no new case error or pronunciation inference.
