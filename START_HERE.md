@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-17 isolated123 GRADED
+## LIVE handoff —2026-10-17 S02 new grammar ob
+
+Day OPEN, active2026-10-17-S02. Learner selected4→new grammar1. Genuinely new main topic ob indirect yes/no questions; explanation/present/Perfekt examples shown, zero learner attempts. NewV178 Auskunft/Auskünfte; counts157/178/39,2 sessions today in same file. Exact pending2026-10-17-S02-E01 Präsens «أختي مش عارفة إذا كان زميلها محتاج معلومة.». No exercise German model shown. OlderS01/123 graded recall/17 repairs/122 Perfekt forms/reading pending preserved; do not force deferred work. Read JSON and current day.
+
+## Historical handoff —2026-10-17 isolated123 GRADED
 
 Paused session2026-10-17-S01 on explicit request to return to main menu; day OPEN, no active session. Show nine choices, do not auto-start E01. All123 isolated answers saved:106 correct forms,8 spellings,6 contrasts,2 accepted alternatives with general target unconfirmed,1 reflexive omission. Labels139 mastered/18 review scoped to infinitive only; correct zustimmen review request preserved. On explicit continuation only, resume existing sentenceA01/E01: «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No sentence model/answer yet; bringen recently corrected, lexical support flagged.17 repairs dueOct18 and122 applicable Perfekt forms deferred. Counts157/177/38, day open; old work retained. Read JSON/current day for any later state.
 

@@ -26,6 +26,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | obwohl: contrast clauses | practicing | Introduced 2026-10-11, written practice |
 | bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
+| ob: indirect yes/no questions; contrast with conditional wenn | introduced | New main topic Oct17 S02; first written attempt pending |
 
 ## Cases and pronouns
 
@@ -550,3 +551,12 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-14 S02-E07 — reflexive preposition frames
 - Correct independent hat sich ... beschwert / entschuldigt forms; use über + Akk issue, bei + Dat apology recipient. Natural sich before gestern; bei ihrem Kollegen with weak masculine -n. Full original/correction preserved in day/JSON.
+
+## New main grammar — ob (2026-10-17 S02)
+- ob introduces an indirect yes/no question (= هل / إذا كان لما تكون مش عارف الإجابة), as distinct from conditional wenn (= لو، شرط).
+- Direct: **Kommt mein Bruder heute?** Indirect: **Ich weiß nicht, ob mein Bruder heute kommt.** Ob clause has subject then remaining parts, finite verb final; comma before ob.
+- Perfekt reference: **Ich weiß nicht, ob er die Datei gespeichert hat.** Participle before the final finite auxiliary hat. Present with a modal similarly ends infinitive + finite modal.
+- Contrast example reusing known wenn: **Wenn mein Bruder kommt, rufe ich dich an.** = لو أخويا جه، هتصل بيك. Condition is not an indirect yes/no question.
+- New V178 **die Auskunft / die Auskünfte** = معلومة / إفادة من شخص أو جهة. Reference **Ich brauche eine Auskunft.**
+- Source2026-10-17-S02, zero learner attempts at introduction; introduced, not mastered. New topic absent from prior topic inventory/day main-lesson headings. Known indirect wo is earlier related material, not prior teaching of ob yes/no questions.
+- Exact pending2026-10-17-S02-E01 (Präsens): «أختي مش عارفة إذا كان زميلها محتاج معلومة.» No German model for the exercise shown. Known wissen/brauchen and Kollege reused. OlderS01 sentence,123 recall grading,17 repairs/122 Perfekt forms and reading remain preserved.

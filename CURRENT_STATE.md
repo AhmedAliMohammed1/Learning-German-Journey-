@@ -1,18 +1,13 @@
 # Current learner state —2026-10-17 (Berlin)
 
-Day **open**, **no active session**. Session **2026-10-17-S01** and sentence activity **2026-10-17-S01-A01** paused on explicit learner request «رجعني للقائمه الرئيسيه». Show all nine main-menu choices; do not auto-start an exercise.
+Day **open**, active session **2026-10-17-S02**, new grammar track **ob in indirect yes/no questions**. Activity **2026-10-17-S02-A01**. Same-date session2; previousS01 paused.
 
-**Exact next unanswered 2026-10-17-S01-E01 — Perfekt:** «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» No German sentence model shown. bringen lemma was recently shown in isolated correction, so do not count next answer as fresh independent bringen recall; assess grammar/cases/full production separately.
+**Exact next unanswered 2026-10-17-S02-E01 — Präsens:** «أختي مش عارفة إذا كان زميلها محتاج معلومة.» Ask full German sentence using ob; no exercise-specific German model before attempt. Subjects sister and her colleague; assess main weiß nicht, ob-final braucht, Nominativ ihr Kollege, new eine Auskunft separately.
 
-### Latest observed evidence
-**All123 isolated answers graded** in 2026-10-17-S01-B01:106 correct target forms,8 spelling repairs,6 meaning distinctions,2 accepted context-dependent alternatives with general targets unconfirmed,1 missing reflexive. Raw answers and explanations preserved in progress.json and days/2026-10-17.md. sich entscheiden accepted without requiring für; mitnehmen (#23) and mitbringen (#111) accepted semantically without fabricated nehmen/bringen recall.
+New topic **ob**, status introduced,0 learner attempts. Rule/explanation and direct→indirect present plus Perfekt teaching examples shown. Known wenn contrast conditional; known indirect wo retained. No grammar mastery from exposure. New **V178 die Auskunft /die Auskünfte** = معلومة /إفادة; plural and reference example introduced only.
 
-Current isolated recall labels **139 mastered /18 review**, under prior explicit learner labeling preference, including correct zustimmen retained review on specific request. Label scope infinitive/registered form only. Retention recorded only with prior comparable dated correct evidence. No contextual/Perfekt/audio mastery inferred.
+**157 verbs /178 vocabulary /39 documented sessions;2 today**. All earlier history preserved. Previous S01 isolated123:106 correct forms,8 spelling repairs,6 contrasts,2 accepted alternatives target-unconfirmed,1 reflexive omission; current recall labels139 mastered/18 review (special correct zustimmen retained review). Labels infinitive-only.17 repairs dueOct18,122 applicable Perfekt forms deferred.
 
-Current123-verb infinitive pass complete; isolated activity 2026-10-17-S01-A02 **paused** with17 repairs and122 applicable Perfekt reference forms deferred, not a completed both-tense review. möchten exception preserved.17 repairs due2026-10-18, with older queue entries retained. Do not force them before requested sentences.
+Previous unanswered **2026-10-17-S01-E01** Perfekt «امبارح أختي جابت لزميلها خطة العمل، وبعد كده وافقت على اقتراحه.» remains paused with lexical-support note. Reading2026-10-16-S01-E01 and all old pending retained. Historical days unclosed.
 
-**157 verbs /177 vocabulary /38 documented sessions; one today**. V177 **der Arbeitsplan /die Arbeitspläne** introduced, not assessed. Sentence pool123 rotates old/middle/recent and both tenses.
-
-Reading2026-10-16-S01-A01 and all older pending preserved. Historical days unclosed. M32/M34 weak; M08/M28 improving; damit practicing. No audio assessment.
-
-Next: main menu. Resume saved sentenceE01 only if the learner chooses continuation; otherwise honor the selected mode. Local pause saved; verify remote through Git refs.
+M32/M34 weak; M08/M28 improving; damit practicing, now embedded review while ob is main topic. No oral/audio assessment. Next: await ob sentenceE01, then fresh supported/adaptive transfer; do not force old review first. Local save complete; remote transport verified via Git refs.
