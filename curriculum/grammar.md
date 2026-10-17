@@ -26,7 +26,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | obwohl: contrast clauses | practicing | Introduced 2026-10-11, written practice |
 | bevor: temporal subordinate clause | practicing | Introduced 2026-10-12; written exercises completed, more review needed |
 | damit: purpose clauses; contrast with um ... zu | practicing | E01/E02 independently correct; mixed-tense E03 pending |
-| ob: indirect yes/no questions; contrast with conditional wenn | introduced | New main topic Oct17 S02; first written attempt pending |
+| ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 
 ## Cases and pronouns
 
@@ -560,3 +560,9 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - New V178 **die Auskunft / die Auskünfte** = معلومة / إفادة من شخص أو جهة. Reference **Ich brauche eine Auskunft.**
 - Source2026-10-17-S02, zero learner attempts at introduction; introduced, not mastered. New topic absent from prior topic inventory/day main-lesson headings. Known indirect wo is earlier related material, not prior teaching of ob yes/no questions.
 - Exact pending2026-10-17-S02-E01 (Präsens): «أختي مش عارفة إذا كان زميلها محتاج معلومة.» No German model for the exercise shown. Known wissen/brauchen and Kollege reused. OlderS01 sentence,123 recall grading,17 repairs/122 Perfekt forms and reading remain preserved.
+
+## Ob S02-E01 —first real answer (2026-10-17)
+- Learner: `Mein Schwester weißt nicht , ob ihrem Kollegen die Auskunft braucht`. Correct: `Meine Schwester weiß nicht, ob ihr Kollege eine Auskunft braucht.`.
+- Independent correct ob selection and final braucht; Auskunft lexical identity/feminine gender correct. Whole sentence needs Meine Schwester, sie weiß, Nominativ ihr Kollege (not Dativ ihrem Kollegen), indefinite eine Auskunft. Comma has no preceding space.
+- One attempt,0 independent full translations;1 correct ob structure. Topic practicing, not mastered. Subjects intended remain sister/colleague; case errors do not prove M34 subject-switch. No audio assessment.
+- Fresh next 2026-10-17-S02-E02 Präsens: «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.». No German model. V178 reuse later, then Perfekt; old pending retained.

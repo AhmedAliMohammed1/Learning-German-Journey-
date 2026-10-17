@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-17 S02 new grammar ob
 
-Day OPEN, active2026-10-17-S02. Learner selected4→new grammar1. Genuinely new main topic ob indirect yes/no questions; explanation/present/Perfekt examples shown, zero learner attempts. NewV178 Auskunft/Auskünfte; counts157/178/39,2 sessions today in same file. Exact pending2026-10-17-S02-E01 Präsens «أختي مش عارفة إذا كان زميلها محتاج معلومة.». No exercise German model shown. OlderS01/123 graded recall/17 repairs/122 Perfekt forms/reading pending preserved; do not force deferred work. Read JSON and current day.
+Day OPEN, active2026-10-17-S02. Learner selected4→new grammar1. Genuinely new main topic ob indirect yes/no questions; E01 answered: ob/final braucht correct; full sentence needs Meine Schwester, weiß, ihr Kollege and eine Auskunft. Topic practicing,1 attempt,0 fully correct translations. NewV178 Auskunft/Auskünfte; counts157/178/39,2 sessions today in same file. Exact pending2026-10-17-S02-E02 Präsens «أخويا مش عارف إذا كانت أخته بتشتغل النهارده.».. No exercise German model shown. OlderS01/123 graded recall/17 repairs/122 Perfekt forms/reading pending preserved; do not force deferred work. Read JSON and current day.
 
 ## Historical handoff —2026-10-17 isolated123 GRADED
 

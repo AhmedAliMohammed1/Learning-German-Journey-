@@ -561,3 +561,8 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 -8 spelling repairs: verängern → verlängern; sich erinnenrn → sich erinnern; unterschrebien → unterschreiben; errichen → erreichen; anfengen → anfangen; aktulisieren → aktualisieren; duchen → duschen; wechslen → wechseln. Not evidence of grammatical case/order weakness.
 - Distinctions: holen/mitbringen, dürfen/erlauben (both directions), sitzen/setzen (both directions), möchten/wollen. Complain requires sich beschweren.
 - Broad-prompt mitnehmen and delivery-context mitbringen accepted alternatives; exact general nehmen/bringen recall unconfirmed. sich entscheiden accepted without für in infinitive-only task.106 other target forms correct. No contextual grammar/oral reassessment; existing M-pattern statuses unchanged. Repairs due2026-10-18, embedded in future requested sentences.
+
+## 2026-10-17 S02-E01 —Nominativ subjects and wissen
+- Original `Mein Schwester weißt nicht , ob ihrem Kollegen die Auskunft braucht` → `Meine Schwester weiß nicht, ob ihr Kollege eine Auskunft braucht.`.
+- M02 improving baseline retained; new feminine meine before Schwester and masculine ihr Kollege as subordinate subject need Nominativ. Dativ ihrem Kollegen is not this subject. Same intended people preserved, so no new M34 error. sie weiß vs du weißt is a verb form repair.
+- ob and final braucht independently correct. Auskunft identity/gender correct; eine vs die is intended indefinite meaning. Fresh E02 retest and delayed retestOct18; no global regression inferred.

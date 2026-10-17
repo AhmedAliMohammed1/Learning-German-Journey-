@@ -183,7 +183,7 @@
 | V175 | die Werkstatt | die Werkstätten | الورشة / ورشة التصليح | noun | introduced |
 | V176 | die Rückmeldung | die Rückmeldungen | الرد / إفادة / تعليق | noun | introduced |
 | V177 | der Arbeitsplan | die Arbeitspläne | خطة العمل / جدول الشغل | noun | introduced |
-| V178 | die Auskunft | die Auskünfte | معلومة / إفادة من شخص أو جهة | noun | introduced |
+| V178 | die Auskunft | die Auskünfte | معلومة / إفادة من شخص أو جهة | noun | practicing |
 
 ## Learning notes
 
