@@ -637,3 +637,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E09 —reflexive Perfekt and retained success
 - `Mein Bruder hat gestern sich das Problem kümmert, und er hat die Quittung aufbewahrt` -> `Mein Bruder hat sich gestern um das Problem gekümmert und er hat die Quittung aufbewahrt.`. sich kümmern um -> hat sich um ... gekümmert; um+Akk retained across tenses. Correct hat/sich and independently correct aufbewahrt/und order separate from missing um and participle. Neutral sich-before-gestern model not treated as independent mandatory-order failure. No new mastery.
+
+## 2026-10-18 S01-E10 —erhält and reference frame
+- `Meine Schwester erhaltet heute das Buch, und er schaut die Anleitung nach ` -> `Meine Schwester erhält heute das Buch und sie schaut in der Anleitung nach.`. ich erhalte, du erhältst, er/sie erhält; ihr erhaltet is a different address. Sister remains sie; schaut...nach form/separation and und order correct. Manual as source in der Anleitung; do not teach universal in for every nachschauen use. No mastery promotion.

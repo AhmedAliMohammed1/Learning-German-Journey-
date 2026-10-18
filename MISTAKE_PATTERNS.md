@@ -615,3 +615,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E09 —aufbewahrt transfers correctly
 - aufbewahrt repair succeeds in fresh same-session context; und er hat and intended er correct (M32/M34 improving). Missing um repeats under verb167; kümmert -> gekümmert. Correct reflexive sich retained. No invented general reflexive-placement or identity error, no premature stable status from same-session streak.
+
+## 2026-10-18 S01-E10 —actor error distinct from correct order
+- M34: er after meine Schwester -> sie; fresh error resets streak, improving baseline retained after7 post-error successes, not erased. M32 order und er schaut independently correct, improving. Source in der Anleitung missing again; erhaltet -> erhält tracked162. No M08 object-pronoun error or M28 fronted-phrase error inferred.
