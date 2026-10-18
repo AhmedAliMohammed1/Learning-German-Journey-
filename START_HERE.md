@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E10: das Buch/heute, schaut...nach and und subject-first order correct. erhaltet -> erhält for meine Schwester; er -> sie to preserve sister; source frame in der Anleitung still missing.162/166 present now practicing with form/actor/frame dimensions separate. M34 improving with fresh actor error and streak reset, prior successes retained; M32 improving, M28 stable/M08 improving unchanged. Counts167/183/42,1today; all old pending/Oct19 queues/isolated/audio states retained, no mastery. Exact pending 2026-10-18-S01-E11 Präsens «أنا بستفسر عند خدمة العملاء، وأختي بتحتفظ بالإيصال.». No German model. Reread JSON/day.
+DayOPEN, no active session; paused2026-10-18-S01 on explicit main-menu request. Show all nine choices, no automatic practice. Exact unanswered 2026-10-18-S01-E11 Präsens «أنا بستفسر عند خدمة العملاء، وأختي بتحتفظ بالإيصال.». Counts167/183/42,1today, no new attempts/material/mastery. Batch158–167 partial/context evidence retained; latestE10 requires erhält/sie/in der Anleitung, correct schaut...nach/order. M34 improving fresh error streak reset; M32/M02/M08 improving, M28 stable. All old pending/retests dueOct18/19 retained; no day closed. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 
