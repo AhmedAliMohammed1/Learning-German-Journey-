@@ -597,3 +597,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E03 —correct subjects and object pronoun
 - M34 weak -> improving: two fresh independent explicit subjects since latest E01 error (E02 sie, E03 sie); M02 correct meiner Schwester and M08 correct es recorded. Missing mir is explicit recipient information omission, not wrong es/gender, wrong possessive case or grammatical invalidity. und sie bringt…zurück correct; M32 evidence in live JSON. Earlier errors retained.
+
+## 2026-10-18 S01-E04 —und order distinct from subject identity
+- M32 weak: und hat er -> und er hat. Correct er preserves brother, so M34 improving with fresh correct identity evidence; M08 improving with correct es for Buch. M28 stable unchanged, no fronted-adverb error. New participle aufbewahret -> aufbewahrt recorded in verb161 and delayed target; no invented generalized spelling pattern.

@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E03 grammatically correct: leihe meiner Schwester das Buch / sie bringt es morgen zurück. Add mir for explicit لي; not a verb/case/gender error.158/159 now practicing present;163/164 practicing present+Perfekt;165 practicing Perfekt; other5 new verbs unassessed. M34 now improving after E02/E03 correct subjects since latest error; M02/M08 improving, M28 stable. Counts167/183/42,1today. No mastery/audio/isolated recall change; Oct19 retests and older pending preserved. Exact pending 2026-10-18-S01-E04 Perfekt «أخويا استلم الكتاب امبارح، واحتفظ بيه.». No German model. Reread JSON/current day.
+DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E04: hat erhalten, es and intended er correct; und hat er -> und er hat; aufbewahret -> aufbewahrt. New161/162 now practicing Perfekt,161 needs participle repair.158/159 practicing present,163/164 both tenses,165 Perfekt; remaining160/166/167 unassessed. M32 weak, M08/M34 improving with correct object/subject evidence; M28 stable unchanged. Counts167/183/42,1today; no mastery/audio/isolated-recall changes. Oct19 queues and all older pending retained. Exact pending 2026-10-18-S01-E05 Perfekt «أختي راجعت دليل التعليمات امبارح، ورجّعت الجاكيت بالبريد.». No German model. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 

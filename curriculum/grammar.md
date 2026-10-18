@@ -619,3 +619,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E03 —Dat recipient and separable present
 - `Ich leihe meiner Schwester das Buch, und sie bringt es morgen zurück.` grammatical. Correct leihen Dat+Akk, sie/es, brings…zurück and future-reference morgen. Explicit لي requires mir: `Ich leihe meiner Schwester das Buch, und sie bringt es mir morgen zurück.`. No new grammar/mastery; next new162/161 Perfekt.
+
+## 2026-10-18 S01-E04 —und and aufbewahrt
+- `Mein Bruder hat das Buch gestern erhalten, und hat er es aufbewahret ` -> `Mein Bruder hat das Buch gestern erhalten und er hat es aufbewahrt.`. Correct erhalten/es/er. und is outside clause position count, unlike danach: und er hat versus danach hat er. Shared subject+auxiliary und es aufbewahrt also valid. aufbewahren=auf+bewahren; be- base blocks extra ge, regular -t gives aufbewahrt without extra e. No mastery promotion; E05 transfers und into new166/160.
