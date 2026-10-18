@@ -1,16 +1,7 @@
 # Current learner state —2026-10-18 (Berlin)
 
-Day open, **no active session**; paused **2026-10-18-S01** on explicit main-menu request, same batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed/sourceS04 paused on rollover.
+Day open; active **2026-10-18-S02**, activity**2026-10-18-S02-A01** isolated verb recall. PriorS01 paused, sentenceE11 still unanswered. Oct17 day unclosed.
 
-**Exact next unanswered 2026-10-18-S01-E11 —Präsens:** «أنا بستفسر عند خدمة العملاء، وأختي بتحتفظ بالإيصال.» No German model.165 frage...nach/beim Kundendienst and161 bewahrt...auf/die Quittung unassessed in present; different subjects ich/sister.
+Learner explicitly requests all not-yet-secure/new verbs only, will answer German.123-item batch 2026-10-18-S02-B01 issued Arabic-only shuffled all at once. Stable index/verb/exercise mapping saved in recall_tracking; zero answers/attempts. Selection: contextual status not strong/mastered OR unresolved infinitive/registered-form recall;10 new included, strong items not added solely for unassessed Perfekt. Eligibility does not mean forgotten lemma. First pass infinitive/registered form;122 applicable Perfekt targets deferred separately.167 verbs/183 vocabulary/43 sessions,2today. S01-E11 sentence and all old pending/retests preserved, no mastery/audio change.
 
-Latest18-S01-E10: das Buch/heute, schaut...nach and und subject-first order correct. erhaltet -> erhält for meine Schwester; er -> sie to preserve sister; source frame in der Anleitung still missing.162/166 present now practicing with form/actor/frame dimensions separate. M34 improving with fresh actor error and streak reset, prior successes retained; M32 improving, M28 stable/M08 improving unchanged. Counts167/183/42,1today; all old pending/Oct19 queues/isolated/audio states retained, no mastery.
-
-**Latest raw:** `Meine Schwester erhaltet heute das Buch, und er schaut die Anleitung nach `
-
-**Correction:** `Meine Schwester erhält heute das Buch und sie schaut in der Anleitung nach.`
-
-All10 batch verbs practicing by partial/context evidence; remaining present160/161/165 unassessed (161/165 next). Preserve prior aufbewahrt success, irregular geliehen/zurückgebracht repairs,167 um/gekümmert repairs and all other evidence. Imperativ3 attempts/2 form successes/0 full exact translations unchanged; old close-door/relative/ob/recall/reading pending deferred. Next show nine-choice main menu; do not auto-resume E11. Local save; verify remote refs.
-
-## Explicit main-menu pause —2026-10-18T15:10:51+02:00
-- Learner requested «ارجع للقائمه الرئيسيه». Session paused, day open; exact E11 remains unanswered, no hint/model/answer added. All counts/evidence/queues unchanged. Show nine choices and await selection.
+**Await all123 German answers, matched by list number.** First item 2026-10-18-S02-E01: «يرجّع حاجة لصاحبها — الفعل العام». Do not reveal German targets before response. Grade forms/meaning alternatives independently, retain raw list; no sentence requirement. Old139/18 isolated labels and10 new unassessed unchanged until actual answers. Latest contextual E10 repairs erhält/sie/in der Anleitung retained. Local save; verify remote refs.

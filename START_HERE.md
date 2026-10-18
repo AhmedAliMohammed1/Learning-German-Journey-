@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN, no active session; paused2026-10-18-S01 on explicit main-menu request. Show all nine choices, no automatic practice. Exact unanswered 2026-10-18-S01-E11 Präsens «أنا بستفسر عند خدمة العملاء، وأختي بتحتفظ بالإيصال.». Counts167/183/42,1today, no new attempts/material/mastery. Batch158–167 partial/context evidence retained; latestE10 requires erhält/sie/in der Anleitung, correct schaut...nach/order. M34 improving fresh error streak reset; M32/M02/M08 improving, M28 stable. All old pending/retests dueOct18/19 retained; no day closed. Reread JSON/day.
+DayOPEN active2026-10-18-S02, isolated activity2026-10-18-S02-A01. Learner explicitly requests all not-yet-secure/new verbs only, will answer German.123-item batch 2026-10-18-S02-B01 issued Arabic-only shuffled all at once. Stable index/verb/exercise mapping saved in recall_tracking; zero answers/attempts. Selection: contextual status not strong/mastered OR unresolved infinitive/registered-form recall;10 new included, strong items not added solely for unassessed Perfekt. Eligibility does not mean forgotten lemma. First pass infinitive/registered form;122 applicable Perfekt targets deferred separately.167 verbs/183 vocabulary/43 sessions,2today. S01-E11 sentence and all old pending/retests preserved, no mastery/audio change. Await123 numbered answers; no German targets/models. Reread JSON/day and exact batch mapping.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 
