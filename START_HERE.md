@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Latest18-S01-E01: bestätigt/benachrichtigt forms and den Termin correct; missing er and deinem→seinen (his/Akk). Kollegen ending and finite V2 position correct.163/164 now practicing form-only;165/V183 practicing from preceding fully correct Perfekt answer. M28 stable unchanged, M02 improving/M34 weak with latest errors. Exact pending 2026-10-18-S01-E02 Perfekt «أختي بلّغت زميلها امبارح، وبعد كده أكدت الموعد.». No German model. Counts167/183/42,1session today; prior days/old pending/retests retained, new contextual retestOct19. Reread JSON/current day.
+DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Latest18-S01-E02 independently fully correct Perfekt transfer: hat benachrichtigt, ihren Kollegen, hat bestätigt, explicit sie and both V2 clauses. Prior present correction known; fresh sentence without model, no delayed-retention claim.163/164 practicing both tenses,165/V183 practicing; other7 new unassessed. M02 improving/M34 weak each one success after latest error; M28 stable. Exact pending 2026-10-18-S01-E03 Präsens «أنا بسلّف أختي الكتاب، وهي بترجّعه لي بكرة.». No German model. Counts167/183/42,1today; old days/pending/queues retained, retestOct19 unchanged. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 

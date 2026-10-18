@@ -1,15 +1,13 @@
 # Current learner state —2026-10-18 (Berlin)
 
-Day **open**, active **2026-10-18-S01**, continuing batch **158–167** and activity **2026-10-17-S04-A01** fromOct17. Oct17-S04 paused on calendar rollover; Oct17 day remains unclosed.
+Day open; active **2026-10-18-S01**, ongoing batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed, sourceS04 paused on rollover. **167 verbs /183 vocabulary /42 sessions;1 today.**
 
-**Exact next unanswered 2026-10-18-S01-E02 —Perfekt:** «أختي بلّغت زميلها امبارح، وبعد كده أكدت الموعد.» No exercise-specific German model. Female subject, Akk ihren Kollegen and explicit follow-up subject; new163/164 already introduced.
+**Exact next unanswered 2026-10-18-S01-E03 —Präsens:** «أنا بسلّف أختي الكتاب، وهي بترجّعه لي بكرة.» No German exercise model. New158leihen/159zurückbringen with Dat recipient/Akk book, separable present, book pronoun and sister subject.
 
-**Previous fully correct answer** to original 2026-10-17-S04-E01, receivedOct18 in 2026-10-18-S01: `Meine Schwester hat gestern beim Kundendienst nachgefragt, danach hat sie ihrem Kollegen eine Nachricht geschickt`. Fully independent correct, no hint. Optional punctuation `Meine Schwester hat gestern beim Kundendienst nachgefragt. Danach hat sie ihrem Kollegen eine Nachricht geschickt.`. All Perfekt, recipient/case and V2/subject dimensions correct. Original ID and actual date preserved, not double counted.
+**Latest E02 raw:** `Gestern hat meine  Schwester ihren Kollegen benachrichtigt, danach hat sie den Termin bestätigt `
 
-**167 verbs/183 vocabulary/42 sessions;1 today**. New163/164 practicing after independently correct present forms, contextual subject/possessive/Akk repairs retained;165 nachfragen practicing after1 correct contextual Perfekt use; other7 new verbs unassessed. V183 Kundendienst practicing (contextual Dativ/lemma, plural unassessed). Neither mastery nor delayed retention from first answer. New retest dueOct19; existing retests dueOct18 kept.
+Fully independently correct; normalized optional punctuation `Gestern hat meine Schwester ihren Kollegen benachrichtigt. Danach hat sie den Termin bestätigt.` Both Perfekt forms, ihren Kollegen Akk, den Termin, Gestern/ danach V2 and explicit sister subject sie correct. Comma valid; double space cosmetic. Fresh same-session transfer after E01 present correction, no exercise-specific model; not delayed retention.
 
-**M28 V2 stable** after6 independent post-error successes acrossOct11/12/18; reduce drilling. M02 improving with latest deinem→seinen case/possessive error; M34 weak with omitted er, both fresh streaks reset. M28 finite position remains correct, no regression inferred. Embed one short due Imperativ retest later, retain chosen new-verb progression.
+163/164 practicing with present forms correct and latest fully correct Perfekt context; earlier E01 missing er/deinem→seinen repairs preserved.165 nachfragen/V183Kundendienst practicing from preceding correct answer. Other7 new verbs unassessed; no mastery/isolated recall change. M02 improving/M34 weak with one fresh success since latest errors; M28 stable with another correct exercise. Contextual retest remains dueOct19, old dueOct18 work retained.
 
-All older grammar/recall/reading and unfinished exercises preserved, including Oct17-S03-E07 and relativeE04, obE02;139/18 old recall labels and10 new isolated unassessed unchanged. Comprehensive explanation preference retained. No audio evidence. Next: await Perfekt sentenceE02. Local save; verify remote refs separately.
-
-**Latest actual E01:** `Mein Bruder bestätigt den Termin, danach benachrichtigt deinem Kollegen` → `Mein Bruder bestätigt den Termin. Danach benachrichtigt er seinen Kollegen.` Needs retry overall; bestätigt/benachrichtigt, den Termin, V2 finite position and noun ending Kollegen correct. Missing er; deinem is your/Dativ rather than his/Akk seinen. No independent full-context success or mastery. New contextual retest dueOct19.
+All old pending preserved: Oct17 ImperativS03-E07, relativeE04, obE02, recall and reading plus earlier dates.139/18 isolated labels and10 new unassessed unchanged. No audio evidence. Rotate new verbs, embed old cases/pronouns and a short due Imperativ later. Day/session open. Save locally; verify remote separately.

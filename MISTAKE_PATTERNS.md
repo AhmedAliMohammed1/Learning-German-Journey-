@@ -591,3 +591,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-18 —source 2026-10-17-S04-E01, answered in 2026-10-18-S01
 - `Meine Schwester hat gestern beim Kundendienst nachgefragt, danach hat sie ihrem Kollegen eine Nachricht geschickt` independently fully correct. M02 ihrem Kollegen Dativ; M28 danach hat sie; M34 sister preserved as sie.
 - M28 promoted improving→stable using Oct11 three correct and Oct12 two correct records after Oct9 error plus today,6 across3sessions. Existing successful_session_ids with old pre-error dates retained as historical, rationale based explicitly on post-error evidence. M02/M34 statuses preserved; no pronunciation evidence.
+
+## 2026-10-18 S01-E02 —fresh correct transfer
+- ihren Kollegen Akk and explicit sie correct in a fresh Perfekt sentence; M02 improving/M34 weak remain with one success since latest errors. Gestern hat/ danach hat sie correct; M28 stable. Same-session transfer not delayed retention; earlier errors retained.

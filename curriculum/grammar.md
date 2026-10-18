@@ -613,3 +613,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E01 —subject and governed case
 - Raw `Mein Bruder bestätigt den Termin, danach benachrichtigt deinem Kollegen` → `Mein Bruder bestätigt den Termin. Danach benachrichtigt er seinen Kollegen.`. Both present verb forms/den Termin correct; danach finite V2 position also correct. Missing subject er separate. benachrichtigen takes person Akk seinen Kollegen, not deinem (your/Dativ); weak noun ending already correct. No new grammar topic or mastery promotion. Fresh female-subject Perfekt E02 pending.
+
+## 2026-10-18 S01-E02 —correct case/subject/Perfekt transfer
+- `Gestern hat meine  Schwester ihren Kollegen benachrichtigt, danach hat sie den Termin bestätigt ` fully correct. ihren Kollegen Akk, hat benachrichtigt/hat bestätigt and both V2/explicit subject correct. Optional sentence split not a comma correction. No topic mastery promotion. Next new158/159 present pending.
