@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E04: hat erhalten, es and intended er correct; und hat er -> und er hat; aufbewahret -> aufbewahrt. New161/162 now practicing Perfekt,161 needs participle repair.158/159 practicing present,163/164 both tenses,165 Perfekt; remaining160/166/167 unassessed. M32 weak, M08/M34 improving with correct object/subject evidence; M28 stable unchanged. Counts167/183/42,1today; no mastery/audio/isolated-recall changes. Oct19 queues and all older pending retained. Exact pending 2026-10-18-S01-E05 Perfekt «أختي راجعت دليل التعليمات امبارح، ورجّعت الجاكيت بالبريد.». No German model. Reread JSON/day.
+DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E05: hat nachgeschaut and hat zurückgeschickt correct, die Jacke and und sie hat/sister subject correct. dia Anleitung -> in der Anleitung for manual as reference source; no universal in rule or inferred broad gender/case regression.160/166 now practicing Perfekt (166 form-only source frame repair), only167 still unassessed in batch. M32 weak with first fresh success since E04; M34 improving, M28 stable. Counts167/183/42,1today; all older pending/Oct19 queues/isolated recall/audio statuses retained. Exact pending 2026-10-18-S01-E06 Präsens «أنا بتولّى المشكلة، وأختي بتبلّغ زميلها.». No German model. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 

@@ -622,3 +622,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E04 —und and aufbewahrt
 - `Mein Bruder hat das Buch gestern erhalten, und hat er es aufbewahret ` -> `Mein Bruder hat das Buch gestern erhalten und er hat es aufbewahrt.`. Correct erhalten/es/er. und is outside clause position count, unlike danach: und er hat versus danach hat er. Shared subject+auxiliary und es aufbewahrt also valid. aufbewahren=auf+bewahren; be- base blocks extra ge, regular -t gives aufbewahrt without extra e. No mastery promotion; E05 transfers und into new166/160.
+
+## 2026-10-18 S01-E05 —reference source and und success
+- `Meine Schwester hat gestern dia Anleitung nachgeschaut, und sie hat die Jacke zurückgeschickt ` -> `Meine Schwester hat gestern in der Anleitung nachgeschaut und sie hat die Jacke zurückgeschickt.`. Both participles/und order correct. Consult information in a reference: in der Anleitung nachschauen (in+Dat, source not destination). Other nachschauen complements possible; do not teach universal in requirement. dia typo separate from missing frame. No mastery promotion.

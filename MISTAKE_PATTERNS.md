@@ -600,3 +600,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E04 —und order distinct from subject identity
 - M32 weak: und hat er -> und er hat. Correct er preserves brother, so M34 improving with fresh correct identity evidence; M08 improving with correct es for Buch. M28 stable unchanged, no fronted-adverb error. New participle aufbewahret -> aufbewahrt recorded in verb161 and delayed target; no invented generalized spelling pattern.
+
+## 2026-10-18 S01-E05 —und transfer succeeds
+- und sie hat independently correct; M32 weak with first success since E04 error. M34 improving, intended sister preserved. dia is spelling; in der Anleitung required for reference-source construction, not evidence of globally wrong noun gender or M27 directional-case confusion. Correct participles retained separately from frame repair.
