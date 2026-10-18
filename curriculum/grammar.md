@@ -606,3 +606,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## Imperativ S03-E06 —plural form repair (2026-10-17)
 - Learner `Hilft meinem Bruder bitte !` → `Helft meinem Bruder bitte!`. ihr helft gives Helft!, while er/sie/es hilft is indicative; du imperative Hilf! distinct. Dativ meinem Bruder and final bitte independently correct. Only minor punctuation spacing besides verb form.
 -2 attempts,1 independent command-form success,0 exact full translations; no broad case regression. New form-transfer 2026-10-17-S03-E07 ihr: «اطلب من أصحابك: «من فضلكم اقفلوا الباب.»». No model. Existing delayed retest dueOct18 updated.
+
+## 2026-10-18 continuation —Perfekt/case/V2 success
+- Source2026-10-17-S04-E01: `Meine Schwester hat gestern beim Kundendienst nachgefragt, danach hat sie ihrem Kollegen eine Nachricht geschickt` independently fully correct. nachgefragt and geschickt, beim Kundendienst, ihrem Kollegen/Dat, eine Nachricht/Akk, sister→sie and danach V2 correct. Comma joining main clauses acceptable; optional two-sentence punctuation not an error.
+- M28 now stable based6 dated independent post-error successes across3 sessions; other weak/improving baselines retained. Next new-date 2026-10-18-S01-E01 uses new163/164 in present and benachrichtigen+Akk. New-grammar topic statuses unchanged by embedded usage.

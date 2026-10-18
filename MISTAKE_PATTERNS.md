@@ -1,5 +1,10 @@
 # Adaptive mistake tracking
 
+## Latest update —2026-10-18
+- M28 fronted-element V2 now **stable**:6 dated post-error independent successes across Oct11-S03, Oct12-S02 and Oct18-S01. Reduce drill frequency; light retention.
+- M02 improving (fresh ihrem Kollegen correct); M34 weak (first specific recorded correct subject-preservation attempt, no blanket promotion). Other statuses remain from live JSON.
+
+
 ## Current status index — 2026-10-13
 
 The **live, canonical pattern statuses** are in `progress.json.mistake_patterns`. The old headings below (“Active/weak”, “Improving”, “Stable”, “needs_check”) are **2026-10-03 historical backfill snapshots**, not today's status. Preserve evidence but do not use old labels for current scheduling.
@@ -582,3 +587,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-17 S03-E06 —Dativ correct, plural imperative repair
 - `Hilft meinem Bruder bitte !` → `Helft meinem Bruder bitte!`. M02 fresh correct meinem Bruder after helfen; keep improving. Final bitte valid. ihr imperative Helft differs from third-singular hilft and du Hilf; no new case error or pronunciation inference.
+
+## 2026-10-18 —source 2026-10-17-S04-E01, answered in 2026-10-18-S01
+- `Meine Schwester hat gestern beim Kundendienst nachgefragt, danach hat sie ihrem Kollegen eine Nachricht geschickt` independently fully correct. M02 ihrem Kollegen Dativ; M28 danach hat sie; M34 sister preserved as sie.
+- M28 promoted improving→stable using Oct11 three correct and Oct12 two correct records after Oct9 error plus today,6 across3sessions. Existing successful_session_ids with old pre-error dates retained as historical, rationale based explicitly on post-error evidence. M02/M34 statuses preserved; no pronunciation evidence.

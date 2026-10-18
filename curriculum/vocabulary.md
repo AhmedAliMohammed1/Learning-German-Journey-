@@ -188,7 +188,7 @@
 | V180 | bitte | — | من فضلك / لو سمحت | politeness_marker | practicing |
 | V181 | mal | — | أداة بتخلي الطلب عفوي؛ مش معناها مرة حرفيًا هنا | modal_particle | introduced |
 | V182 | doch | — | أداة للتشجيع أو الإلحاح حسب السياق والنبرة | modal_particle | introduced |
-| V183 | der Kundendienst | die Kundendienste (أقسام/جهات؛ الخدمة نفسها غالبًا مفرد) | خدمة العملاء / قسم خدمة العملاء | noun | introduced |
+| V183 | der Kundendienst | die Kundendienste (أقسام/جهات؛ الخدمة نفسها غالبًا مفرد) | خدمة العملاء / قسم خدمة العملاء | noun | practicing |
 
 ## Learning notes
 

@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-17 S04 verbs158–167
+## LIVE handoff —2026-10-18 new-batch continuation
+
+DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Original17-S04-E01 answered onOct18 independently fully correct; raw/actual date/source ID preserved.165nachfragen andV183Kundendienst practicing, not mastered. Counts167/183/42,1session today. Oct17 day unclosed, S04 paused on rollover. Exact pending2026-10-18-S01-E01 Präsens «أخويا بيأكد الموعد، وبعد كده بيبلّغ زميله.». No German exercise model. M28 stable after6 dated post-error successes/3sessions; M02 improving/M34 weak retained. New nachfragen retestOct19, older dueOct18 retained; embed one short due Imperativ test without forcing old pending. Reread JSON/current day.
+
+## Historical handoff —2026-10-17 S04 verbs158–167
 
 DayOPEN active2026-10-17-S04; learner selected4→new verbs2. New10 verbs158leihen,159zurückbringen,160zurückschicken,161aufbewahren,162erhalten,163bestätigen,164benachrichtigen,165nachfragen,166nachschauen,167sich kümmern um; present/Perfekt/examples/usage shown, zero learner attempts. Full inventory/history uniqueness check; mitteilen excluded as already explained Oct7. NewV183 Kundendienst/Kundendienste; counts167/183/41,4sessions same file. Exact pending2026-10-17-S04-E01 Perfekt «أختي استفسرت عند خدمة العملاء امبارح، وبعد كده بعتت رسالة لزميلها.». No model/answer. Planned70% new/30% embedded review, progression-first. All old Imperativ/relative/ob/recall/reading/retests retained. Read liveJSON/day; introduced is not mastered.
 
