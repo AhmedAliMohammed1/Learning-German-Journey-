@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Latest18-S01-E02 independently fully correct Perfekt transfer: hat benachrichtigt, ihren Kollegen, hat bestätigt, explicit sie and both V2 clauses. Prior present correction known; fresh sentence without model, no delayed-retention claim.163/164 practicing both tenses,165/V183 practicing; other7 new unassessed. M02 improving/M34 weak each one success after latest error; M28 stable. Exact pending 2026-10-18-S01-E03 Präsens «أنا بسلّف أختي الكتاب، وهي بترجّعه لي بكرة.». No German model. Counts167/183/42,1today; old days/pending/queues retained, retestOct19 unchanged. Reread JSON/day.
+DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E03 grammatically correct: leihe meiner Schwester das Buch / sie bringt es morgen zurück. Add mir for explicit لي; not a verb/case/gender error.158/159 now practicing present;163/164 practicing present+Perfekt;165 practicing Perfekt; other5 new verbs unassessed. M34 now improving after E02/E03 correct subjects since latest error; M02/M08 improving, M28 stable. Counts167/183/42,1today. No mastery/audio/isolated recall change; Oct19 retests and older pending preserved. Exact pending 2026-10-18-S01-E04 Perfekt «أخويا استلم الكتاب امبارح، واحتفظ بيه.». No German model. Reread JSON/current day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 

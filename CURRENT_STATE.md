@@ -1,13 +1,13 @@
 # Current learner state —2026-10-18 (Berlin)
 
-Day open; active **2026-10-18-S01**, ongoing batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed, sourceS04 paused on rollover. **167 verbs /183 vocabulary /42 sessions;1 today.**
+Day open, active **2026-10-18-S01**, same batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed/sourceS04 paused on rollover.
 
-**Exact next unanswered 2026-10-18-S01-E03 —Präsens:** «أنا بسلّف أختي الكتاب، وهي بترجّعه لي بكرة.» No German exercise model. New158leihen/159zurückbringen with Dat recipient/Akk book, separable present, book pronoun and sister subject.
+**Exact next unanswered 2026-10-18-S01-E04 —Perfekt:** «أخويا استلم الكتاب امبارح، واحتفظ بيه.» No German model. New162erhalten/161aufbewahren; old book pronoun es.
 
-**Latest E02 raw:** `Gestern hat meine  Schwester ihren Kollegen benachrichtigt, danach hat sie den Termin bestätigt `
+Latest18-S01-E03 grammatically correct: leihe meiner Schwester das Buch / sie bringt es morgen zurück. Add mir for explicit لي; not a verb/case/gender error.158/159 now practicing present;163/164 practicing present+Perfekt;165 practicing Perfekt; other5 new verbs unassessed. M34 now improving after E02/E03 correct subjects since latest error; M02/M08 improving, M28 stable. Counts167/183/42,1today. No mastery/audio/isolated recall change; Oct19 retests and older pending preserved.
 
-Fully independently correct; normalized optional punctuation `Gestern hat meine Schwester ihren Kollegen benachrichtigt. Danach hat sie den Termin bestätigt.` Both Perfekt forms, ihren Kollegen Akk, den Termin, Gestern/ danach V2 and explicit sister subject sie correct. Comma valid; double space cosmetic. Fresh same-session transfer after E01 present correction, no exercise-specific model; not delayed retention.
+**Latest raw:** `Ich leihe meiner Schwester das Buch, und sie bringt es morgen zurück.`
 
-163/164 practicing with present forms correct and latest fully correct Perfekt context; earlier E01 missing er/deinem→seinen repairs preserved.165 nachfragen/V183Kundendienst practicing from preceding correct answer. Other7 new verbs unassessed; no mastery/isolated recall change. M02 improving/M34 weak with one fresh success since latest errors; M28 stable with another correct exercise. Contextual retest remains dueOct19, old dueOct18 work retained.
+**Explicit full translation:** `Ich leihe meiner Schwester das Buch, und sie bringt es mir morgen zurück.`
 
-All old pending preserved: Oct17 ImperativS03-E07, relativeE04, obE02, recall and reading plus earlier dates.139/18 isolated labels and10 new unassessed unchanged. No audio evidence. Rotate new verbs, embed old cases/pronouns and a short due Imperativ later. Day/session open. Save locally; verify remote separately.
+Previous E02 fully correct, E01 errors and all old evidence retained. M32 uses live JSON; correct und order in E03 separately recorded. Older Imperativ/relative/ob/recall/reading pending unchanged, progression-first; short due Imperativ test later.139/18 old isolated labels +10 new unassessed unchanged. Local save; verify remote via Git refs.

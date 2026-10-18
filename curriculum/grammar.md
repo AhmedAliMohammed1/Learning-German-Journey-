@@ -616,3 +616,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E02 —correct case/subject/Perfekt transfer
 - `Gestern hat meine  Schwester ihren Kollegen benachrichtigt, danach hat sie den Termin bestätigt ` fully correct. ihren Kollegen Akk, hat benachrichtigt/hat bestätigt and both V2/explicit subject correct. Optional sentence split not a comma correction. No topic mastery promotion. Next new158/159 present pending.
+
+## 2026-10-18 S01-E03 —Dat recipient and separable present
+- `Ich leihe meiner Schwester das Buch, und sie bringt es morgen zurück.` grammatical. Correct leihen Dat+Akk, sie/es, brings…zurück and future-reference morgen. Explicit لي requires mir: `Ich leihe meiner Schwester das Buch, und sie bringt es mir morgen zurück.`. No new grammar/mastery; next new162/161 Perfekt.

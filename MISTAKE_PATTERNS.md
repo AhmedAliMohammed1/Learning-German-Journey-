@@ -594,3 +594,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E02 —fresh correct transfer
 - ihren Kollegen Akk and explicit sie correct in a fresh Perfekt sentence; M02 improving/M34 weak remain with one success since latest errors. Gestern hat/ danach hat sie correct; M28 stable. Same-session transfer not delayed retention; earlier errors retained.
+
+## 2026-10-18 S01-E03 —correct subjects and object pronoun
+- M34 weak -> improving: two fresh independent explicit subjects since latest E01 error (E02 sie, E03 sie); M02 correct meiner Schwester and M08 correct es recorded. Missing mir is explicit recipient information omission, not wrong es/gender, wrong possessive case or grammatical invalidity. und sie bringt…zurück correct; M32 evidence in live JSON. Earlier errors retained.
