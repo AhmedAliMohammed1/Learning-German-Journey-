@@ -609,3 +609,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E07 —correct plural command, recipient detail omitted
 - Schickt...zurück correctly forms ihr command; explicit mir missing again (E03 and E07), targeted queue retained. zurückschicken accepted send-back alternative, zurückbringen unconfirmed; no invented failed lexical recall. No new error in clause-order/subject identity patterns.
+
+## 2026-10-18 S01-E08 —correct es ihr, participle repairs
+- es for Buch and recipient ihr plus pronoun order correct (M08); und ich habe and intended actor change correct (M32/M34). Remain improving; do not promote from same-session streak alone. First lending mir omitted, distinct from successful return ihr. geleihen -> geliehen and zurückbringt -> zurückgebracht tracked under respective Perfekt forms/dated retest, not blanket infinitive recall failures.

@@ -631,3 +631,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E07 —dated ihr command transfer
 - `Schickt das Buch morgen bitte zurück! ` is grammatical ihr command; add mir for explicit لي. Own-verb completion `Schickt mir das Buch morgen bitte zurück!`; bringing contrast `Bringt mir das Buch morgen bitte zurück!`. Command formation correct; missing recipient information separate. Imperativ stays practicing; original old question not completed by this new answer.
+
+## 2026-10-18 S01-E08 —irregular participles and recipients
+- `Meine Schwester hat gestern das Buch geleihen, und ich habe es ihr heute zurückbringt` -> `Meine Schwester hat mir gestern das Buch geliehen und ich habe es ihr heute zurückgebracht.`. leihen -> hat geliehen; zurückbringen -> hat zurückgebracht (base bringen -> gebracht, separable zurück prefix). hat/habe and es ihr/und actor shift correct. mir needed in first clause for سلّفتني. No new grammar mastery; next167 Perfekt/161 varied transfer.
