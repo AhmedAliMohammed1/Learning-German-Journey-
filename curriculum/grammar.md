@@ -628,3 +628,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E06 —sich kümmern um and agreement
 - `Ich kümmere mich das Problem, und meine Schwester benachrichtige ihren Kollegen` -> `Ich kümmere mich um das Problem und meine Schwester benachrichtigt ihren Kollegen.`. Correct kümmere mich; full frame requires um+Akk. meine Schwester=sie -> benachrichtigt (ich benachrichtige). ihren Kollegen and und order correct. No new grammar mastery; next short due ihr command with159 while original pending preserved.
+
+## 2026-10-18 S01-E07 —dated ihr command transfer
+- `Schickt das Buch morgen bitte zurück! ` is grammatical ihr command; add mir for explicit لي. Own-verb completion `Schickt mir das Buch morgen bitte zurück!`; bringing contrast `Bringt mir das Buch morgen bitte zurück!`. Command formation correct; missing recipient information separate. Imperativ stays practicing; original old question not completed by this new answer.

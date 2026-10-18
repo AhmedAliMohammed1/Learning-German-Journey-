@@ -2,12 +2,14 @@
 
 Day open, active **2026-10-18-S01**, same batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed/sourceS04 paused on rollover.
 
-**Exact next unanswered 2026-10-18-S01-E07 —ihr Imperativ:** «اطلب من أصحابك: «من فضلكم رجّعوا لي الكتاب بكرة.»» No German model. One short due grammar transfer with new159 zurückbringen, bitte, explicit mir, das Buch and morgen. Related old17-S03-E07 close-door prompt remains pending; queue not marked completed until actual answer.
+**Exact next unanswered 2026-10-18-S01-E08 —Perfekt:** «أختي سلّفتني الكتاب امبارح، وأنا رجّعته لها النهارده.» No German model.158geliehen/159zurückgebracht not assessed in Perfekt yet; explicit mir/ihr and es; subject sister->I. Prior Bringt/Schickt contrast is lexical support, not full Perfekt model.
 
-Latest18-S01-E06: kümmere mich, ihren Kollegen Akk, und order and actor identities correct; add um before das Problem, benachrichtige -> benachrichtigt for meine Schwester.167 now practicing present partial frame,164 latest ending needs repair; prior correct forms retained. All10 batch verbs now practicing with actual partial/context attempts, not mastered or all tense-complete. M32 now improving after E05/E06 fresh order successes since E04; M02/M34 improving, M28 stable. Counts167/183/42,1today. All old pending, Oct19 retests, isolated recall and audio statuses retained.
+Latest18-S01-E07: Schickt das Buch morgen bitte zurück! grammatical, correct ihr command/separation/bitte/Akk. Explicit mir missing; zurückschicken accepted send-back reading of broad Arabic, intended zurückbringen not produced (no failed159 attempt). Correct own-verb version adds mir; bringing contrast Bringt mir...zurück explained. Imperativ3 actual attempts/2 command-form successes/0 exact full translations; stays practicing, original paused close-door prompt unchanged. Dated command transfer saved, queue rescheduledOct19 interval0 for missing details, no broad retention/mastery. Counts167/183/42,1today; old pending/other queues retained.
 
-**Latest raw:** `Ich kümmere mich das Problem, und meine Schwester benachrichtige ihren Kollegen`
+**Latest raw:** `Schickt das Buch morgen bitte zurück! `
 
-**Correction:** `Ich kümmere mich um das Problem und meine Schwester benachrichtigt ihren Kollegen.`
+**Own-verb completion:** `Schickt mir das Buch morgen bitte zurück!`
 
-158/159 present;160/161/162/165/166 Perfekt;163/164 both tenses;167 present partial frame. Other tenses unassessed. Preserve all E01–E05 and older Imperativ/relative/ob/recall/reading evidence.139/18 old isolated labels +10 new unassessed unchanged. Next brief embedded test then continue varied batch practice, not automatic new introduction. Local save; verify remote separately.
+**Bringing target contrast:** `Bringt mir das Buch morgen bitte zurück!`
+
+All10 new verbs practicing with different partial/context dimensions, not mastered. Prior um/agreement/source-frame/aufbewahrt corrections retained. M32/M02/M08/M34 improving, M28 stable; command does not newly test these clause patterns. No oral evidence or isolated label changes. Old Imperativ/relative/ob/recall/reading deferred. Local save; verify remote via Git refs.

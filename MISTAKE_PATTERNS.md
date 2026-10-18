@@ -606,3 +606,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E06 —frame and agreement, correct order
 - M32 weak -> improving: E05 und sie hat and E06 und meine Schwester + finite verb correctly ordered since latest E04 inversion. Ending benachrichtige wrong for sister but order independently correct. M02/M34 improving with correct ihren Kollegen/intended sister. Missing um in sich kümmern um and third-person ending tracked in verb evidence/retest, not invented case/identity failures.
+
+## 2026-10-18 S01-E07 —correct plural command, recipient detail omitted
+- Schickt...zurück correctly forms ihr command; explicit mir missing again (E03 and E07), targeted queue retained. zurückschicken accepted send-back alternative, zurückbringen unconfirmed; no invented failed lexical recall. No new error in clause-order/subject identity patterns.
