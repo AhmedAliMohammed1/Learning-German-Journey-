@@ -603,3 +603,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E05 —und transfer succeeds
 - und sie hat independently correct; M32 weak with first success since E04 error. M34 improving, intended sister preserved. dia is spelling; in der Anleitung required for reference-source construction, not evidence of globally wrong noun gender or M27 directional-case confusion. Correct participles retained separately from frame repair.
+
+## 2026-10-18 S01-E06 —frame and agreement, correct order
+- M32 weak -> improving: E05 und sie hat and E06 und meine Schwester + finite verb correctly ordered since latest E04 inversion. Ending benachrichtige wrong for sister but order independently correct. M02/M34 improving with correct ihren Kollegen/intended sister. Missing um in sich kümmern um and third-person ending tracked in verb evidence/retest, not invented case/identity failures.

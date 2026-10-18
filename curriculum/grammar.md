@@ -625,3 +625,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E05 —reference source and und success
 - `Meine Schwester hat gestern dia Anleitung nachgeschaut, und sie hat die Jacke zurückgeschickt ` -> `Meine Schwester hat gestern in der Anleitung nachgeschaut und sie hat die Jacke zurückgeschickt.`. Both participles/und order correct. Consult information in a reference: in der Anleitung nachschauen (in+Dat, source not destination). Other nachschauen complements possible; do not teach universal in requirement. dia typo separate from missing frame. No mastery promotion.
+
+## 2026-10-18 S01-E06 —sich kümmern um and agreement
+- `Ich kümmere mich das Problem, und meine Schwester benachrichtige ihren Kollegen` -> `Ich kümmere mich um das Problem und meine Schwester benachrichtigt ihren Kollegen.`. Correct kümmere mich; full frame requires um+Akk. meine Schwester=sie -> benachrichtigt (ich benachrichtige). ihren Kollegen and und order correct. No new grammar mastery; next short due ihr command with159 while original pending preserved.

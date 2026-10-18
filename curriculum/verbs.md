@@ -174,7 +174,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 164 | benachrichtigen | يبلّغ / يخطر حد | ich benachrichtige; er benachrichtigt | hat benachrichtigt | Ich benachrichtige meinen Kollegen. | practicing | inseparable be-; no ge; Akk person, optional über + Akk topic |
 | 165 | nachfragen | يستفسر / يسأل للتوضيح أو المتابعة | ich frage ... nach; er fragt ... nach | hat nachgefragt | Ich frage beim Kundendienst nach. | practicing | separable; bei + Dat person/office, nach + Dat topic when specified; beim = bei dem |
 | 166 | nachschauen | يراجع / يدوّر على معلومة عشان يتأكد | ich schaue ... nach; er schaut ... nach | hat nachgeschaut | Ich schaue in der Anleitung nach. | practicing | separable; consult/check information; in + Dat for reference location |
-| 167 | sich kümmern um | يهتم بـ / يتولّى مسؤولية حاجة | ich kümmere mich um; er kümmert sich um | hat sich gekümmert | Ich kümmere mich um das Problem. | introduced | reflexive Akk mich/dich/sich etc; um + Akk target; regular gekümmert |
+| 167 | sich kümmern um | يهتم بـ / يتولّى مسؤولية حاجة | ich kümmere mich um; er kümmert sich um | hat sich gekümmert | Ich kümmere mich um das Problem. | practicing | reflexive Akk mich/dich/sich etc; um + Akk target; regular gekümmert |
 
 ## How to read the table
 

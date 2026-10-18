@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E05: hat nachgeschaut and hat zurückgeschickt correct, die Jacke and und sie hat/sister subject correct. dia Anleitung -> in der Anleitung for manual as reference source; no universal in rule or inferred broad gender/case regression.160/166 now practicing Perfekt (166 form-only source frame repair), only167 still unassessed in batch. M32 weak with first fresh success since E04; M34 improving, M28 stable. Counts167/183/42,1today; all older pending/Oct19 queues/isolated recall/audio statuses retained. Exact pending 2026-10-18-S01-E06 Präsens «أنا بتولّى المشكلة، وأختي بتبلّغ زميلها.». No German model. Reread JSON/day.
+DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E06: kümmere mich, ihren Kollegen Akk, und order and actor identities correct; add um before das Problem, benachrichtige -> benachrichtigt for meine Schwester.167 now practicing present partial frame,164 latest ending needs repair; prior correct forms retained. All10 batch verbs now practicing with actual partial/context attempts, not mastered or all tense-complete. M32 now improving after E05/E06 fresh order successes since E04; M02/M34 improving, M28 stable. Counts167/183/42,1today. All old pending, Oct19 retests, isolated recall and audio statuses retained. Exact pending 2026-10-18-S01-E07 ihr Imperativ «اطلب من أصحابك: «من فضلكم رجّعوا لي الكتاب بكرة.»». One brief due embedded grammar prompt; no German model, original close-door pending unchanged, queue uncompleted. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 
