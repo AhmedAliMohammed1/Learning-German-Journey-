@@ -634,3 +634,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E08 —irregular participles and recipients
 - `Meine Schwester hat gestern das Buch geleihen, und ich habe es ihr heute zurückbringt` -> `Meine Schwester hat mir gestern das Buch geliehen und ich habe es ihr heute zurückgebracht.`. leihen -> hat geliehen; zurückbringen -> hat zurückgebracht (base bringen -> gebracht, separable zurück prefix). hat/habe and es ihr/und actor shift correct. mir needed in first clause for سلّفتني. No new grammar mastery; next167 Perfekt/161 varied transfer.
+
+## 2026-10-18 S01-E09 —reflexive Perfekt and retained success
+- `Mein Bruder hat gestern sich das Problem kümmert, und er hat die Quittung aufbewahrt` -> `Mein Bruder hat sich gestern um das Problem gekümmert und er hat die Quittung aufbewahrt.`. sich kümmern um -> hat sich um ... gekümmert; um+Akk retained across tenses. Correct hat/sich and independently correct aufbewahrt/und order separate from missing um and participle. Neutral sich-before-gestern model not treated as independent mandatory-order failure. No new mastery.

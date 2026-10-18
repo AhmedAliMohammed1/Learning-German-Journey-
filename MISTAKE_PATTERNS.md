@@ -612,3 +612,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S01-E08 —correct es ihr, participle repairs
 - es for Buch and recipient ihr plus pronoun order correct (M08); und ich habe and intended actor change correct (M32/M34). Remain improving; do not promote from same-session streak alone. First lending mir omitted, distinct from successful return ihr. geleihen -> geliehen and zurückbringt -> zurückgebracht tracked under respective Perfekt forms/dated retest, not blanket infinitive recall failures.
+
+## 2026-10-18 S01-E09 —aufbewahrt transfers correctly
+- aufbewahrt repair succeeds in fresh same-session context; und er hat and intended er correct (M32/M34 improving). Missing um repeats under verb167; kümmert -> gekümmert. Correct reflexive sich retained. No invented general reflexive-placement or identity error, no premature stable status from same-session streak.

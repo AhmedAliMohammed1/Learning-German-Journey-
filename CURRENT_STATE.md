@@ -2,12 +2,12 @@
 
 Day open, active **2026-10-18-S01**, same batch158–167/activity2026-10-17-S04-A01. Oct17 day unclosed/sourceS04 paused on rollover.
 
-**Exact next unanswered 2026-10-18-S01-E09 —Perfekt:** «أخويا اتولّى المشكلة امبارح، واحتفظ بالإيصال.» No German model.167 Perfekt not assessed yet; transfer required um and161 aufbewahrt repair in new context. Registered V124Quittung reused.
+**Exact next unanswered 2026-10-18-S01-E10 —Präsens:** «أختي بتستلم الكتاب النهارده، وبتراجع دليل التعليمات.» No German model.162 erhält (ä) and166 schaut...nach not yet assessed in present; source in der Anleitung retested in new tense. Accept shared subject after und.
 
-Latest18-S01-E08: hat/habe, es ihr, das Buch, und ich habe, actor shift and gestern/heute correct. geleihen -> geliehen; zurückbringt -> zurückgebracht; add first recipient mir for سلّفتني. Return recipient ihr correctly produced (not blanket recipient omission).158/159 Perfekt now practicing with participle repairs; earlier present successes retained. All10 new verbs practicing in separate dimensions, not mastered. M08/M32/M34 improving with correct evidence; M02 improving/M28 stable unchanged. Counts167/183/42,1today; all old pending/Oct19 queues/isolated/audio states retained.
+Latest18-S01-E09: hat die Quittung aufbewahrt independently correct same-session transfer after prior correction; und er hat, actors, hat/sich correct. Add um das Problem, kümmert -> gekümmert in Perfekt. Model sich-before-gestern is neutral natural placement, not separately counted mandatory-order repair.167 Perfekt now practicing with frame/participle repairs,161 latest transfer success; prior failed attempts retained. M32/M34 improving, M02/M08 improving/M28 stable unchanged. Counts167/183/42,1today; all old pending,Oct19 queues,isolated/audio states retained; no mastery/delayed-retention claim.
 
-**Latest raw:** `Meine Schwester hat gestern das Buch geleihen, und ich habe es ihr heute zurückbringt`
+**Latest raw:** `Mein Bruder hat gestern sich das Problem kümmert, und er hat die Quittung aufbewahrt`
 
-**Correction:** `Meine Schwester hat mir gestern das Buch geliehen und ich habe es ihr heute zurückgebracht.`
+**Correction:** `Mein Bruder hat sich gestern um das Problem gekümmert und er hat die Quittung aufbewahrt.`
 
-Preserve prior Imperativ3 attempts/2 command-form successes/0 exact translations, original close-door pending; latest short command transfer already attempted. All older grammar/recall/reading unchanged. No automatic next batch or mastery; continue varied tense coverage and brief repairs. Local save; verify remote via Git refs.
+All10 new verbs practicing by actual partial/context dimensions. Remaining present160/161/162/165/166 unassessed;162/166 next. Imperativ3 attempts/2 command-form successes/0 exact translations retained; old close-door and all ob/relative/recall/reading pending unchanged. Continue varied coverage without forcing a long review. Local save; verify remote refs.

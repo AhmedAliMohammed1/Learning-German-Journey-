@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E08: hat/habe, es ihr, das Buch, und ich habe, actor shift and gestern/heute correct. geleihen -> geliehen; zurückbringt -> zurückgebracht; add first recipient mir for سلّفتني. Return recipient ihr correctly produced (not blanket recipient omission).158/159 Perfekt now practicing with participle repairs; earlier present successes retained. All10 new verbs practicing in separate dimensions, not mastered. M08/M32/M34 improving with correct evidence; M02 improving/M28 stable unchanged. Counts167/183/42,1today; all old pending/Oct19 queues/isolated/audio states retained. Exact pending 2026-10-18-S01-E09 Perfekt «أخويا اتولّى المشكلة امبارح، واحتفظ بالإيصال.». No German model. Reread JSON/day.
+DayOPEN active2026-10-18-S01, same batch/activity. Latest18-S01-E09: hat die Quittung aufbewahrt independently correct same-session transfer after prior correction; und er hat, actors, hat/sich correct. Add um das Problem, kümmert -> gekümmert in Perfekt. Model sich-before-gestern is neutral natural placement, not separately counted mandatory-order repair.167 Perfekt now practicing with frame/participle repairs,161 latest transfer success; prior failed attempts retained. M32/M34 improving, M02/M08 improving/M28 stable unchanged. Counts167/183/42,1today; all old pending,Oct19 queues,isolated/audio states retained; no mastery/delayed-retention claim. Exact pending 2026-10-18-S01-E10 Präsens «أختي بتستلم الكتاب النهارده، وبتراجع دليل التعليمات.». No German model. Reread JSON/day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 
