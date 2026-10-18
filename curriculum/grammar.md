@@ -610,3 +610,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-18 continuation —Perfekt/case/V2 success
 - Source2026-10-17-S04-E01: `Meine Schwester hat gestern beim Kundendienst nachgefragt, danach hat sie ihrem Kollegen eine Nachricht geschickt` independently fully correct. nachgefragt and geschickt, beim Kundendienst, ihrem Kollegen/Dat, eine Nachricht/Akk, sister→sie and danach V2 correct. Comma joining main clauses acceptable; optional two-sentence punctuation not an error.
 - M28 now stable based6 dated independent post-error successes across3 sessions; other weak/improving baselines retained. Next new-date 2026-10-18-S01-E01 uses new163/164 in present and benachrichtigen+Akk. New-grammar topic statuses unchanged by embedded usage.
+
+## 2026-10-18 S01-E01 —subject and governed case
+- Raw `Mein Bruder bestätigt den Termin, danach benachrichtigt deinem Kollegen` → `Mein Bruder bestätigt den Termin. Danach benachrichtigt er seinen Kollegen.`. Both present verb forms/den Termin correct; danach finite V2 position also correct. Missing subject er separate. benachrichtigen takes person Akk seinen Kollegen, not deinem (your/Dativ); weak noun ending already correct. No new grammar topic or mastery promotion. Fresh female-subject Perfekt E02 pending.

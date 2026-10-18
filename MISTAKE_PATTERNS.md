@@ -2,7 +2,7 @@
 
 ## Latest update —2026-10-18
 - M28 fronted-element V2 now **stable**:6 dated post-error independent successes across Oct11-S03, Oct12-S02 and Oct18-S01. Reduce drill frequency; light retention.
-- M02 improving (fresh ihrem Kollegen correct); M34 weak (first specific recorded correct subject-preservation attempt, no blanket promotion). Other statuses remain from live JSON.
+- Latest18-S01-E01: M02 improving with deinem→seinen (possessor and governed Akk), M34 weak with missing er; both post-error streaks reset. Previous correct ihrem Kollegen/subject evidence retained. M28 stable unchanged: finite position after danach correct, subject omission distinct. Kollegen noun ending already correct.
 
 
 ## Current status index — 2026-10-13

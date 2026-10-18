@@ -4,7 +4,7 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-18 new-batch continuation
 
-DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Original17-S04-E01 answered onOct18 independently fully correct; raw/actual date/source ID preserved.165nachfragen andV183Kundendienst practicing, not mastered. Counts167/183/42,1session today. Oct17 day unclosed, S04 paused on rollover. Exact pending2026-10-18-S01-E01 Präsens «أخويا بيأكد الموعد، وبعد كده بيبلّغ زميله.». No German exercise model. M28 stable after6 dated post-error successes/3sessions; M02 improving/M34 weak retained. New nachfragen retestOct19, older dueOct18 retained; embed one short due Imperativ test without forcing old pending. Reread JSON/current day.
+DayOPEN active2026-10-18-S01, same batch158–167/activity2026-10-17-S04-A01. Latest18-S01-E01: bestätigt/benachrichtigt forms and den Termin correct; missing er and deinem→seinen (his/Akk). Kollegen ending and finite V2 position correct.163/164 now practicing form-only;165/V183 practicing from preceding fully correct Perfekt answer. M28 stable unchanged, M02 improving/M34 weak with latest errors. Exact pending 2026-10-18-S01-E02 Perfekt «أختي بلّغت زميلها امبارح، وبعد كده أكدت الموعد.». No German model. Counts167/183/42,1session today; prior days/old pending/retests retained, new contextual retestOct19. Reread JSON/current day.
 
 ## Historical handoff —2026-10-17 S04 verbs158–167
 
