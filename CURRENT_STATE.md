@@ -12,6 +12,8 @@ Latest E03: `Meine Schwester hat gester sich um das Problem gekümmert, und sie 
 
 Latest E04 independently fully correct: `Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.`. Independently fully correct: fragt...nach separation, beim=bei dem + Dativ Kundendienst, bestätigt, den Termin Akk, danach V2 and intended er. Original comma between main clauses valid. No hint/model/audio; first recorded present-context success for165 does not complete Perfekt-specific retest.
 
-Exact pending 2026-10-19-S01-E05 (Perfekt): «أخويا راجع دليل التعليمات امبارح، وبعد كده رجّع الطابعة بالبريد.». No model/answer. New present retestOct20; all earlier queues and pending preserved.
+Latest E05: `Mein Bruder hat gestern die Anleitung nachgeschaut, danach hat er den Drucker zurückgeschickt. ` -> `Mein Bruder hat gestern in der Anleitung nachgeschaut, danach hat er den Drucker zurückgeschickt.`. Both Perfekt forms nachgeschaut/zurückgeschickt, auxiliaries, den Drucker, danach V2 and brother er correct. Manual used as reference source requires in der Anleitung here (in+Dat), not direct die Anleitung. Do not generalize that nachschauen always requires in or label correct die as a noun-gender failure. zurückgeschickt accepted for contextual postal return; per Post optional explicit detail. No model/hint/audio.
+
+Exact pending 2026-10-19-S01-E06 (Perfekt): «أخويا سلّفني الكتاب امبارح، وأنا رجّعته له النهارده.». Short E01 repair transfer; all ten recent verbs sampled in at least one tense, no full-tense/mastery claim. After this short check offer progression; no forced exhaustive repairs. All earlier queues/pending retained.
 
 Prior Oct18 S02 paused, old day open. Retry12 and122 isolated Perfekt forms deferred, isolated labels154 mastered/13 review unchanged and scoped to recall only. Old S01-E11 and every older prompt/queue preserved. No mastery/audio changes. Previous summary archived.

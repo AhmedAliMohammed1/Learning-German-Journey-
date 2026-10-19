@@ -633,3 +633,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-19-S01-E03 —delayed correct Perfekt/frame
 - Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery.
 - M32/M34 correct evidence retained, no new reflexive-order error. Target retestsOct22; spelling correction does not negate verb/frame success.
+
+## 2026-10-19-S01-E05 —reference source frame
+- Both Perfekt forms nachgeschaut/zurückgeschickt, auxiliaries, den Drucker, danach V2 and brother er correct. Manual used as reference source requires in der Anleitung here (in+Dat), not direct die Anleitung. Do not generalize that nachschauen always requires in or label correct die as a noun-gender failure. zurückgeschickt accepted for contextual postal return; per Post optional explicit detail. No model/hint/audio.
+- Source-frame repair repeated, target queue dueOct20. Correct verb forms/order/subject retained separately; no invented generalized case or gender failure.
