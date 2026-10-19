@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:05:02+02:00",
+  "last_updated_at": "2026-10-19T22:10:43+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S01",
   "sessions_recorded": 44,
-  "last_verified_study_at": "2026-10-19T22:05:02+02:00",
+  "last_verified_study_at": "2026-10-19T22:10:43+02:00",
   "active_topic": "recent_material_sentence_review",
-  "next_action": "Await 2026-10-19-S01-E03 (Perfekt): أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
+  "next_action": "Await 2026-10-19-S01-E04 (Präsens): أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11240,8 +11240,8 @@
     {
       "id": "2026-10-19-S01-E03",
       "prompt_ar": "أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
-      "status": "pending",
-      "learner_answer": null,
+      "status": "completed",
+      "learner_answer": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
       "hint_used": false,
       "model_shown": false,
       "activity": "recent_material_sentence_review",
@@ -11257,7 +11257,33 @@
         "V174",
         "V124"
       ],
-      "target": "sich kümmern um+Akk / gekümmert and aufbewahrt, feminine subject, und order; fresh variation of prior-day male prompt. No model."
+      "target": "sich kümmern um+Akk / gekümmert and aufbewahrt, feminine subject, und order; fresh variation of prior-day male prompt. No model.",
+      "learner_answer_raw": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
+      "correction": "Meine Schwester hat sich gestern um das Problem gekümmert, und sie hat die Quittung aufbewahrt.",
+      "result": "independent_target_success_spelling_repair",
+      "completed_at": "2026-10-19T22:10:43+02:00"
+    },
+    {
+      "id": "2026-10-19-S01-E04",
+      "prompt_ar": "أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "activity": "recent_material_sentence_review",
+      "activity_id": "2026-10-19-S01-A01",
+      "session_id": "2026-10-19-S01",
+      "tense": "Präsens",
+      "verb_ids": [
+        165,
+        163
+      ],
+      "vocabulary_ids": [
+        "V004",
+        "V183",
+        "V106"
+      ],
+      "target": "fragt beim Kundendienst nach; bestätigt den Termin; afterwards V2 and brother subject. No model."
     }
   ],
   "completed_exercise_ids": [
@@ -12206,7 +12232,8 @@
     "2026-10-18-S02-E122",
     "2026-10-18-S02-E123",
     "2026-10-19-S01-E01",
-    "2026-10-19-S01-E02"
+    "2026-10-19-S01-E02",
+    "2026-10-19-S01-E03"
   ],
   "verbs": {
     "learned_total": 167,
@@ -23802,9 +23829,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 3,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich bewahre ... auf; er bewahrt ... auf",
         "perfekt_reference": "hat aufbewahrt",
@@ -23819,11 +23846,12 @@
           },
           "Perfekt": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "independent_correct_same_session_form_and_context_transfer",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
             "evidence_ids": [
               "2026-10-18-S01-E04",
-              "2026-10-18-S01-E09"
+              "2026-10-18-S01-E09",
+              "2026-10-19-S01-E03"
             ]
           }
         },
@@ -23874,6 +23902,17 @@
             "independent": true,
             "correct": true,
             "note": "Correct hat die Quittung aufbewahrt after earlier aufbewahret correction; not delayed retention."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:10:43+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E03",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct next-day form/context transfer; gester spelling separate. No broad mastery."
           }
         ]
       },
@@ -24347,9 +24386,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 3,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich kümmere mich um; er kümmert sich um",
         "perfekt_reference": "hat sich gekümmert",
@@ -24369,10 +24408,11 @@
           },
           "Perfekt": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "needs_retry_participle_and_um_frame",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
             "evidence_ids": [
-              "2026-10-18-S01-E09"
+              "2026-10-18-S01-E09",
+              "2026-10-19-S01-E03"
             ]
           }
         },
@@ -24423,6 +24463,17 @@
             "independent": true,
             "correct": false,
             "note": "kümmert -> gekümmert; um required. Auxiliary hat and reflexive sich independently correct."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:10:43+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E03",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct next-day form/context transfer; gester spelling separate. No broad mastery."
           }
         ]
       }
@@ -31325,12 +31376,13 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 6,
-      "independent_correct_since_last_error": 5,
+      "independent_correct": 7,
+      "independent_correct_since_last_error": 6,
       "successful_session_ids": [
-        "2026-10-18-S01"
+        "2026-10-18-S01",
+        "2026-10-19-S01"
       ],
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-10-19",
       "evidence": [
         {
           "date": "2026-10-09",
@@ -31403,6 +31455,15 @@
           "independent": true,
           "correct": true,
           "note": "und er schaut has normal subject-first coordination; wrong actor belongs M34, not word order. Improving retained, post-error successes same session."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:10:43+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E03",
+          "independent": true,
+          "correct": true,
+          "note": "und sie hat correct order and intended sister; improving retained."
         }
       ]
     },
@@ -31485,8 +31546,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 9,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 10,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01"
@@ -31610,6 +31671,15 @@
           "independent": true,
           "correct": true,
           "note": "er correctly preserves brother."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:10:43+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E03",
+          "independent": true,
+          "correct": true,
+          "note": "und sie hat correct order and intended sister; improving retained."
         }
       ]
     }
@@ -31709,8 +31779,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "E02 graded; E03 pending; recent review active.",
-  "next_suggested_action": "Answer 2026-10-19-S01-E03",
+  "latest_study_state": "E03 target grammar correct, spelling repair; E04 pending.",
+  "next_suggested_action": "Answer 2026-10-19-S01-E04",
   "active_grammar": "imperativ",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -32997,6 +33067,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-19-S01-E02",
       "note": "Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:10:43+02:00",
+      "session_id": "2026-10-19-S01",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-19-S01-E03",
+      "note": "Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery."
     }
   ],
   "exercise_results": [
@@ -53130,6 +53208,30 @@
         "danach_order": "independent_correct",
         "vocabulary_reuse": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S01-E03",
+      "session_id": "2026-10-19-S01",
+      "activity_id": "2026-10-19-S01-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:10:43+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
+      "learner_answer": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
+      "learner_answer_raw": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
+      "correction": "Meine Schwester hat sich gestern um das Problem gekümmert, und sie hat die Quittung aufbewahrt.",
+      "result": "independent_target_success_spelling_repair",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery.",
+      "dimensions": {
+        "kuemmern_perfekt_and_um_frame": "independent_correct",
+        "aufbewahren_perfekt": "independent_correct",
+        "und_order_subject": "independent_correct",
+        "spelling": "needs_retry"
+      }
     }
   ],
   "skill_tracking": {
@@ -54351,14 +54453,15 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Delayed fresh aufbewahrt and und retest; E09 correct after E04 feedback, same-session success does not advance interval or complete dated retest.",
-      "due_on": "2026-10-19",
-      "interval_index": 0,
+      "due_on": "2026-10-22",
+      "interval_index": 1,
       "status": "scheduled",
-      "last_result": "independent_correct_same_session_aufbewahrt_und_transfer",
+      "last_result": "delayed_independent_correct_aufbewahrt_and_und",
       "evidence_ids": [
         "2026-10-18-S01-E04",
         "2026-10-18-S01-E05",
-        "2026-10-18-S01-E09"
+        "2026-10-18-S01-E09",
+        "2026-10-19-S01-E03"
       ]
     },
     {
@@ -54382,13 +54485,15 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Fresh sich kümmern um+Akk in present/Perfekt; E09 still missing um and needs gekümmert; benachrichtigt agreement separately still pending, no false assessed164 evidence.",
-      "due_on": "2026-10-19",
-      "interval_index": 0,
+      "due_on": "2026-10-22",
+      "interval_index": 1,
       "status": "scheduled",
-      "last_result": "kuemmern_um_still_missing_perfekt_participle_needs_retry_benachrichtigen_not_retested",
+      "last_result": "delayed_kuemmern_perfekt_um_correct_E03_benachrichtigt_agreement_correct_E02",
       "evidence_ids": [
         "2026-10-18-S01-E06",
-        "2026-10-18-S01-E09"
+        "2026-10-18-S01-E09",
+        "2026-10-19-S01-E02",
+        "2026-10-19-S01-E03"
       ]
     },
     {
@@ -90220,17 +90325,17 @@
           158,
           159,
           162,
-          164
+          164,
+          167,
+          161
         ],
         "remaining_ids": [
           160,
-          161,
           163,
           165,
-          166,
-          167
+          166
         ],
-        "current_exercise_id": "2026-10-19-S01-E03",
+        "current_exercise_id": "2026-10-19-S01-E04",
         "new_vocabulary_ids": [
           "V184"
         ],
@@ -90288,6 +90393,30 @@
               "subject_preservation": "independent_correct",
               "danach_order": "independent_correct",
               "vocabulary_reuse": "independent_correct"
+            }
+          },
+          {
+            "exercise_id": "2026-10-19-S01-E03",
+            "session_id": "2026-10-19-S01",
+            "activity_id": "2026-10-19-S01-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:10:43+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
+            "learner_answer": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
+            "learner_answer_raw": "Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ",
+            "correction": "Meine Schwester hat sich gestern um das Problem gekümmert, und sie hat die Quittung aufbewahrt.",
+            "result": "independent_target_success_spelling_repair",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery.",
+            "dimensions": {
+              "kuemmern_perfekt_and_um_frame": "independent_correct",
+              "aufbewahren_perfekt": "independent_correct",
+              "und_order_subject": "independent_correct",
+              "spelling": "needs_retry"
             }
           }
         ],

@@ -648,3 +648,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-19-S01-E02 —third singular form
 - Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim.
 - Correct M02/M28/M34 evidence retained separately; repeated erhalten form repair dueOct20, no new generalized mistake ID.
+
+## 2026-10-19-S01-E03 —delayed correct Perfekt/frame
+- Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery.
+- M32/M34 correct evidence retained, no new reflexive-order error. Target retestsOct22; spelling correction does not negate verb/frame success.
