@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:16:16+02:00",
+  "last_updated_at": "2026-10-19T22:19:14+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S01",
   "sessions_recorded": 44,
-  "last_verified_study_at": "2026-10-19T22:16:16+02:00",
+  "last_verified_study_at": "2026-10-19T22:19:14+02:00",
   "active_topic": "recent_material_sentence_review",
-  "next_action": "Await 2026-10-19-S01-E06 (Perfekt): أخويا سلّفني الكتاب امبارح، وأنا رجّعته له النهارده. Short transfer then offer progression; do not force all repairs first.",
+  "next_action": "Recent review6 answers graded; await choice: new verbs, new grammar, or continue review. No fresh exercise issued. Preserve all old pending and due retests.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11318,8 +11318,8 @@
     {
       "id": "2026-10-19-S01-E06",
       "prompt_ar": "أخويا سلّفني الكتاب امبارح، وأنا رجّعته له النهارده.",
-      "status": "pending",
-      "learner_answer": null,
+      "status": "completed",
+      "learner_answer": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
       "hint_used": false,
       "model_shown": false,
       "activity": "recent_material_sentence_review",
@@ -11334,7 +11334,12 @@
         "V004",
         "V009"
       ],
-      "target": "Short fresh E01 transfer after intervening items: geliehen, mir, zurückgebracht, es ihm order and changed male recipient. Previous instruction known, no model of E06."
+      "target": "Short fresh E01 transfer after intervening items: geliehen, mir, zurückgebracht, es ihm order and changed male recipient. Previous instruction known, no model of E06.",
+      "learner_answer_raw": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
+      "correction": "Mein Bruder hat mir gestern das Buch geliehen, und ich habe es ihm heute zurückgebracht.",
+      "accepted_alternative": "Mein Bruder hat mir gestern das Buch geliehen, danach habe ich es ihm heute zurückgebracht.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-19T22:19:14+02:00"
     }
   ],
   "completed_exercise_ids": [
@@ -12286,7 +12291,8 @@
     "2026-10-19-S01-E02",
     "2026-10-19-S01-E03",
     "2026-10-19-S01-E04",
-    "2026-10-19-S01-E05"
+    "2026-10-19-S01-E05",
+    "2026-10-19-S01-E06"
   ],
   "verbs": {
     "learned_total": 167,
@@ -23588,8 +23594,8 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 3,
-        "independent_correct": 1,
+        "recorded_attempts": 4,
+        "independent_correct": 2,
         "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich leihe; du leihst; er leiht",
@@ -23611,10 +23617,11 @@
           "Perfekt": {
             "status": "practicing",
             "last_assessed_on": "2026-10-19",
-            "latest_result": "needs_retry_participle",
+            "latest_result": "independent_correct_participle_sentence_details_need_retry",
             "evidence_ids": [
               "2026-10-18-S01-E08",
-              "2026-10-19-S01-E01"
+              "2026-10-19-S01-E01",
+              "2026-10-19-S01-E06"
             ]
           }
         },
@@ -23677,6 +23684,18 @@
             "independent": true,
             "correct": false,
             "note": "geleihet -> geliehen; auxiliary and mir correct."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:19:14+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E06",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "dimension": "Perfekt_participle",
+            "independent": true,
+            "correct": true,
+            "note": "Correct participle; missing first recipient/pronoun order separately assessed. Same-session transfer, not new delayed retention."
           }
         ]
       },
@@ -23689,8 +23708,8 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 3,
-        "independent_correct": 2,
+        "recorded_attempts": 4,
+        "independent_correct": 3,
         "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich bringe ... zurück; er bringt ... zurück",
@@ -23712,10 +23731,11 @@
           "Perfekt": {
             "status": "practicing",
             "last_assessed_on": "2026-10-19",
-            "latest_result": "independent_correct_participle",
+            "latest_result": "independent_correct_participle_sentence_details_need_retry",
             "evidence_ids": [
               "2026-10-18-S01-E08",
-              "2026-10-19-S01-E01"
+              "2026-10-19-S01-E01",
+              "2026-10-19-S01-E06"
             ]
           }
         },
@@ -23778,6 +23798,18 @@
             "independent": true,
             "correct": true,
             "note": "zurückgebracht correct next-day repair; sentence pronoun order separate."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:19:14+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E06",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "dimension": "Perfekt_participle",
+            "independent": true,
+            "correct": true,
+            "note": "Correct participle; missing first recipient/pronoun order separately assessed. Same-session transfer, not new delayed retention."
           }
         ]
       },
@@ -31143,8 +31175,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 17,
-      "independent_correct_since_last_error": 10,
+      "independent_correct": 18,
+      "independent_correct_since_last_error": 11,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
@@ -31290,6 +31322,15 @@
           "independent": true,
           "correct": true,
           "note": "danach hat er correct V2 and brother subject; statuses retained."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:19:14+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E06",
+          "independent": true,
+          "correct": true,
+          "note": "danach habe ich correctly preserves actor shift and V2; statuses retained."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -31681,8 +31722,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 12,
-      "independent_correct_since_last_error": 4,
+      "independent_correct": 13,
+      "independent_correct_since_last_error": 5,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01"
@@ -31833,6 +31874,15 @@
           "independent": true,
           "correct": true,
           "note": "danach hat er correct V2 and brother subject; statuses retained."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:19:14+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E06",
+          "independent": true,
+          "correct": true,
+          "note": "danach habe ich correctly preserves actor shift and V2; statuses retained."
         }
       ]
     }
@@ -31932,8 +31982,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "E05 graded; ten verbs sampled; short transfer E06 pending.",
-  "next_suggested_action": "Answer 2026-10-19-S01-E06",
+  "latest_study_state": "Recent review checkpoint after E06; day/session open, awaiting learner track choice.",
+  "next_suggested_action": "Recent review6 answers graded; await choice: new verbs, new grammar, or continue review. No fresh exercise issued. Preserve all old pending and due retests.",
   "active_grammar": "imperativ",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33244,6 +33294,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-19-S01-E05",
       "note": "Both Perfekt forms nachgeschaut/zurückgeschickt, auxiliaries, den Drucker, danach V2 and brother er correct. Manual used as reference source requires in der Anleitung here (in+Dat), not direct die Anleitung. Do not generalize that nachschauen always requires in or label correct die as a noun-gender failure. zurückgeschickt accepted for contextual postal return; per Post optional explicit detail. No model/hint/audio."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:19:14+02:00",
+      "session_id": "2026-10-19-S01",
+      "event": "written_answer_graded_progression_offered",
+      "exercise_id": "2026-10-19-S01-E06",
+      "note": "Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery."
     }
   ],
   "exercise_results": [
@@ -53443,6 +53501,36 @@
         "zurueckschicken_perfekt_context": "independent_correct",
         "danach_order_subject": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S01-E06",
+      "session_id": "2026-10-19-S01",
+      "activity_id": "2026-10-19-S01-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:19:14+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا سلّفني الكتاب امبارح، وأنا رجّعته له النهارده.",
+      "learner_answer": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
+      "learner_answer_raw": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
+      "correction": "Mein Bruder hat mir gestern das Buch geliehen, und ich habe es ihm heute zurückgebracht.",
+      "accepted_alternative": "Mein Bruder hat mir gestern das Buch geliehen, danach habe ich es ihm heute zurückgebracht.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "prior_feedback_known": [
+        "2026-10-19-S01-E01"
+      ],
+      "note": "Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery.",
+      "dimensions": {
+        "leihen_perfekt_form": "independent_correct",
+        "zurueckbringen_perfekt_form": "independent_correct",
+        "first_recipient_information": "needs_retry",
+        "return_pronoun_identity_case": "independent_correct",
+        "double_object_pronoun_order": "needs_retry",
+        "danach_order_subject": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -54647,15 +54735,16 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Fresh explicit lending/return recipients: E08 return ihr correct, first lending mir omitted. Preserve successful es ihr, no blanket recipient failure.",
-      "due_on": "2026-10-22",
-      "interval_index": 1,
+      "due_on": "2026-10-20",
+      "interval_index": 0,
       "status": "scheduled",
-      "last_result": "delayed_success_explicit_mir_and_ihr_order_assessed_separately",
+      "last_result": "first_mir_omitted_again_return_ihm_correct",
       "evidence_ids": [
         "2026-10-18-S01-E03",
         "2026-10-18-S01-E07",
         "2026-10-18-S01-E08",
-        "2026-10-19-S01-E01"
+        "2026-10-19-S01-E01",
+        "2026-10-19-S01-E06"
       ]
     },
     {
@@ -54717,10 +54806,11 @@
       "due_on": "2026-10-20",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "leihen_participle_needs_retry_zurueckgebracht_delayed_correct",
+      "last_result": "both_participles_correct_same_session_transfer_pending_delayed_retest",
       "evidence_ids": [
         "2026-10-18-S01-E08",
-        "2026-10-19-S01-E01"
+        "2026-10-19-S01-E01",
+        "2026-10-19-S01-E06"
       ]
     },
     {
@@ -54786,9 +54876,10 @@
       "due_on": "2026-10-20",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "ihr_es_needs_es_ihr",
+      "last_result": "ihm_es_needs_es_ihm",
       "evidence_ids": [
-        "2026-10-19-S01-E01"
+        "2026-10-19-S01-E01",
+        "2026-10-19-S01-E06"
       ]
     },
     {
@@ -90534,7 +90625,7 @@
         "session_id": "2026-10-19-S01",
         "mode": "written_sentence_translation",
         "scope": "recent_material",
-        "status": "active",
+        "status": "awaiting_choice",
         "pool_ids": [
           158,
           159,
@@ -90560,7 +90651,7 @@
           160
         ],
         "remaining_ids": [],
-        "current_exercise_id": "2026-10-19-S01-E06",
+        "current_exercise_id": null,
         "new_vocabulary_ids": [
           "V184"
         ],
@@ -90685,15 +90776,51 @@
               "zurueckschicken_perfekt_context": "independent_correct",
               "danach_order_subject": "independent_correct"
             }
+          },
+          {
+            "exercise_id": "2026-10-19-S01-E06",
+            "session_id": "2026-10-19-S01",
+            "activity_id": "2026-10-19-S01-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:19:14+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا سلّفني الكتاب امبارح، وأنا رجّعته له النهارده.",
+            "learner_answer": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
+            "learner_answer_raw": "Mein Bruder hat gestern das Buch geliehen, danach habe ich heute ihm es zurückgebracht.",
+            "correction": "Mein Bruder hat mir gestern das Buch geliehen, und ich habe es ihm heute zurückgebracht.",
+            "accepted_alternative": "Mein Bruder hat mir gestern das Buch geliehen, danach habe ich es ihm heute zurückgebracht.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "prior_feedback_known": [
+              "2026-10-19-S01-E01"
+            ],
+            "note": "Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery.",
+            "dimensions": {
+              "leihen_perfekt_form": "independent_correct",
+              "zurueckbringen_perfekt_form": "independent_correct",
+              "first_recipient_information": "needs_retry",
+              "return_pronoun_identity_case": "independent_correct",
+              "double_object_pronoun_order": "needs_retry",
+              "danach_order_subject": "independent_correct"
+            }
           }
         ],
         "selection_rationale": "Explicit menu2->3. Latest verbs158–167 with present and Perfekt, embedded und/subjects/recipients and optional recent Imperativ. Start due lending/return participles; isolated correctness does not establish contextual mastery. Preserve all old prompts and retry12.",
         "retry_ids": [
-          158,
           162,
           166
         ],
-        "coverage_note": "All ten verbs sampled in at least one contextual tense; not all-ten mastered or both-tense coverage complete. Short repair E06 then progression choice; do not force endless review."
+        "coverage_note": "All10 sampled in at least one tense,6 real sentences. E04 fully correct, E03 grammar targets correct with spelling repair. No full two-tense completion/mastery claim. Progression available.",
+        "next_action": "Offer new verbs, new grammar, or continue recent review; no new exercise until selected. Retain unresolved contextual targets and incomplete tense coverage.",
+        "pending_contextual_targets": [
+          "explicit_mir_first_recipient",
+          "unstressed_Akk_before_Dat_pronouns",
+          "erhaelt",
+          "nachschauen_in_reference"
+        ]
       }
     ]
   }

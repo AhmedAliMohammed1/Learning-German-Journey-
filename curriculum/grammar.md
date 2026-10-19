@@ -656,3 +656,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-19-S01-E05 —reference source frame
 - Both Perfekt forms nachgeschaut/zurückgeschickt, auxiliaries, den Drucker, danach V2 and brother er correct. Manual used as reference source requires in der Anleitung here (in+Dat), not direct die Anleitung. Do not generalize that nachschauen always requires in or label correct die as a noun-gender failure. zurückgeschickt accepted for contextual postal return; per Post optional explicit detail. No model/hint/audio.
 - Source-frame repair repeated, target queue dueOct20. Correct verb forms/order/subject retained separately; no invented generalized case or gender failure.
+
+## 2026-10-19-S01-E06 —participle repair, recipient/order unresolved
+- Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery.
+- Preserve correct pronoun identities and verb forms separately from omitted mir and es ihm ordering. Recipient/order retestsOct20; no invented M08 gender failure.
