@@ -29,6 +29,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
 | Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
+| ohne ... zu / ohne dass; noun-only ohne + Akk | introduced | New Oct19 S02; practical lesson, E01 unanswered |
 
 ## Cases and pronouns
 
@@ -660,3 +661,17 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-19-S01-E06 —participle repair, recipient/order unresolved
 - Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery.
 - Preserve correct pronoun identities and verb forms separately from omitted mir and es ihm ordering. Recipient/order retestsOct20; no invented M08 gender failure.
+
+## ohne … zu / ohne dass — من غير ما
+- New main topic after full grammar/day search; no earlier lesson found. V185 ohne introduced as preposition/connector, no new verbs. All167 verbs/184 vocabulary audited.
+- Same doer: main clause, ohne + complements + zu + infinitive. No second subject, comma required. Ich schicke die Datei, ohne sie zu prüfen. = ببعت الملف من غير ما أراجعه. Ich gehe, ohne den Kaffee zu trinken. = بمشي من غير ما أشرب القهوة.
+- Separable: prefix+zu+stem in one word: auszuschalten, zurückzubringen; Ich gehe, ohne das Licht auszuschalten. Inseparable and -ieren: zu benutzen, zu bestätigen, zu reparieren. Reflexive pronoun retained and matches implied doer: Ich gehe, ohne mich zu entschuldigen.
+- Fronting: Ohne die Anleitung zu lesen, benutze ich den Drucker. Entire infinitive group first, then finite main verb. Do not repeat ich in the ohne-zu group.
+- Different doers: ohne dass + subject + rest + final finite verb. Ich benutze das Auto, ohne dass mein Bruder es weiß. = بستخدم العربية من غير ما أخويا يعرف ده. Same doer may also use ohne dass: Ich schicke die Datei, ohne dass ich sie prüfe; ohne zu usually more compact. Different-doer prohibition applies to ordinary active construction; passive/implicit-subject advanced variants outside current practice.
+- Perfekt main clause: Ich habe die Datei geschickt, ohne sie zu prüfen. No need to convert zu prüfen to a conjugated past form merely because main clause is past. Finite Perfekt with ohne dass: Ich habe das Auto benutzt, ohne dass mein Bruder es gewusst hat. Final participle+auxiliary. Independent tense choice follows intended meaning.
+- Advanced anterior infinitive reference only: Ich habe den Mietvertrag unterschrieben, ohne ihn gelesen zu haben. Earlier reading did not occur; PartizipII + zu haben/zu sein expresses anteriority, no mandatory anterior-form demand in ordinary introductory exercises.
+- Modal reference: Ich höre die Nachricht, ohne sie verstehen zu können. = بسمع الرسالة من غير ما أقدر أفهمها. Lexical infinitive then zu + modal infinitive; no double zu. Not assessed.
+- ohne already means absence; do not add nicht automatically: ohne zu fragen. Contrast weil ich nicht frage = لأني مش بسأل, um zu fragen = علشان أسأل. Special logical double negation outside beginner practice, not declared universally impossible.
+- Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.
+- Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.
+- Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.

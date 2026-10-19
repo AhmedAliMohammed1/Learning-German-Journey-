@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:19:14+02:00",
+  "last_updated_at": "2026-10-19T22:21:27+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-19",
   "latest_day": "2026-10-19",
   "day_status": "open",
-  "current_session_id": "2026-10-19-S01",
-  "sessions_recorded": 44,
+  "current_session_id": "2026-10-19-S02",
+  "sessions_recorded": 45,
   "last_verified_study_at": "2026-10-19T22:19:14+02:00",
-  "active_topic": "recent_material_sentence_review",
-  "next_action": "Recent review6 answers graded; await choice: new verbs, new grammar, or continue review. No fresh exercise issued. Preserve all old pending and due retests.",
+  "active_topic": "ohne_zu_ohne_dass",
+  "next_action": "Await 2026-10-19-S02-E01 (Präsens, ohne...zu): أختي بترجّع الطابعة بالبريد من غير ما تبلّغ زميلها.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11340,6 +11340,30 @@
       "accepted_alternative": "Mein Bruder hat mir gestern das Buch geliehen, danach habe ich es ihm heute zurückgebracht.",
       "result": "needs_retry",
       "completed_at": "2026-10-19T22:19:14+02:00"
+    },
+    {
+      "id": "2026-10-19-S02-E01",
+      "session_id": "2026-10-19-S02",
+      "activity_id": "2026-10-19-S02-A01",
+      "activity": "new_grammar_sentence_translation",
+      "grammar_topic": "ohne_zu_ohne_dass",
+      "prompt_ar": "أختي بترجّع الطابعة بالبريد من غير ما تبلّغ زميلها.",
+      "tense": "Präsens",
+      "verb_ids": [
+        160,
+        164
+      ],
+      "vocabulary_ids": [
+        "V005",
+        "V179",
+        "V166",
+        "V185"
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "target": "Same subject ohne...zu, main separable zurückschicken, zu benachrichtigen, ihren Kollegen Akk. No exercise-specific model; grammar examples given."
     }
   ],
   "completed_exercise_ids": [
@@ -24810,7 +24834,7 @@
     }
   },
   "grammar": {
-    "active": "imperativ",
+    "active": "ohne_zu_ohne_dass",
     "topics": [
       {
         "id": "obwohl",
@@ -25527,6 +25551,38 @@
         "full_translation_independent_correct": 0,
         "paused_at": "2026-10-17T21:14:15+02:00",
         "pause_reason": "Learner requested save everything to Git and main menu; E07 unanswered."
+      },
+      {
+        "id": "ohne_zu_ohne_dass",
+        "title": "ohne ... zu / ohne dass: absence of accompanying action",
+        "status": "introduced",
+        "introduced_on": "2026-10-19",
+        "source": "2026-10-19-S02-A01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "activity_id": "2026-10-19-S02-A01",
+        "current_exercise_id": "2026-10-19-S02-E01",
+        "subtopics": [
+          "same_subject_infinitive",
+          "different_subject_finite_clause",
+          "separable_zu",
+          "reflexive_pronouns",
+          "fronting",
+          "negation_meaning",
+          "noun_ohne_akk",
+          "perfekt_main_and_subordinate",
+          "modal_and_anterior_infinitive_reference"
+        ],
+        "evidence": [
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:21:27+02:00",
+            "session_id": "2026-10-19-S02",
+            "kind": "practical_explanation_and_examples",
+            "learner_attempt": false
+          }
+        ],
+        "selection_rationale": "Explicit new grammar choice; absent from topic register and dated lesson search. Builds on known zu/subordinate order with recent verbs; avoids relabeling old weakness as new."
       }
     ],
     "studied_verb_patterns": [
@@ -25566,7 +25622,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 184,
+    "registered_entries_count": 185,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -29535,6 +29591,29 @@
           }
         ],
         "usage_example": "Ich brauche das Ladekabel."
+      },
+      {
+        "id": "V185",
+        "german": "ohne",
+        "plural": "—",
+        "meaning_ar": "من غير / بدون",
+        "type": "preposition_connector",
+        "status": "introduced",
+        "introduced_on": "2026-10-19",
+        "last_reviewed": null,
+        "source": "2026-10-19-S02-A01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "usage_example": "Ich gehe ohne meinen Bruder.",
+        "evidence": [
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:21:27+02:00",
+            "session_id": "2026-10-19-S02",
+            "kind": "introduced_with_grammar_and_examples",
+            "independently_recalled": false
+          }
+        ]
       }
     ]
   },
@@ -31982,9 +32061,9 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "Recent review checkpoint after E06; day/session open, awaiting learner track choice.",
-  "next_suggested_action": "Recent review6 answers graded; await choice: new verbs, new grammar, or continue review. No fresh exercise issued. Preserve all old pending and due retests.",
-  "active_grammar": "imperativ",
+  "latest_study_state": "New ohne grammar introduced; zero learner attempts, E01 pending.",
+  "next_suggested_action": "Answer 2026-10-19-S02-E01",
+  "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
   "backfilled_study_dates": [
@@ -33302,6 +33381,20 @@
       "event": "written_answer_graded_progression_offered",
       "exercise_id": "2026-10-19-S01-E06",
       "note": "Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:21:27+02:00",
+      "session_id": "2026-10-19-S02",
+      "activity_id": "2026-10-19-S02-A01",
+      "event": "new_grammar_introduced",
+      "learner_request": "2 (new grammar after recent review)",
+      "grammar_topic": "ohne_zu_ohne_dass",
+      "new_vocabulary_ids": [
+        "V185"
+      ],
+      "attempts_recorded": 0,
+      "pending_exercise_id": "2026-10-19-S02-E01"
     }
   ],
   "exercise_results": [
@@ -55109,7 +55202,7 @@
     }
   ],
   "current_review_scope": "all_history_unresolved_verbs_isolated",
-  "paused_session_id": "2026-10-18-S02",
+  "paused_session_id": "2026-10-19-S01",
   "recall_tracking": {
     "active_activity_id": null,
     "activities": [
@@ -88852,7 +88945,7 @@
     "remote_sync_blocker": null
   },
   "sentence_review_tracking": {
-    "active_activity_id": "2026-10-19-S01-A01",
+    "active_activity_id": "2026-10-19-S02-A01",
     "activities": [
       {
         "id": "2026-10-14-S03-A01",
@@ -90625,7 +90718,7 @@
         "session_id": "2026-10-19-S01",
         "mode": "written_sentence_translation",
         "scope": "recent_material",
-        "status": "awaiting_choice",
+        "status": "paused",
         "pool_ids": [
           158,
           159,
@@ -90820,7 +90913,23 @@
           "unstressed_Akk_before_Dat_pronouns",
           "erhaelt",
           "nachschauen_in_reference"
-        ]
+        ],
+        "paused_at": "2026-10-19T22:21:27+02:00",
+        "pause_reason": "Learner selected new grammar after recent review checkpoint."
+      },
+      {
+        "id": "2026-10-19-S02-A01",
+        "session_id": "2026-10-19-S02",
+        "mode": "written_sentence_translation",
+        "scope": "new_grammar",
+        "status": "active",
+        "grammar_topic": "ohne_zu_ohne_dass",
+        "current_exercise_id": "2026-10-19-S02-E01",
+        "attempts": [],
+        "new_vocabulary_ids": [
+          "V185"
+        ],
+        "teaching_note": "## ohne … zu / ohne dass — من غير ما\n- New main topic after full grammar/day search; no earlier lesson found. V185 ohne introduced as preposition/connector, no new verbs. All167 verbs/184 vocabulary audited.\n- Same doer: main clause, ohne + complements + zu + infinitive. No second subject, comma required. Ich schicke die Datei, ohne sie zu prüfen. = ببعت الملف من غير ما أراجعه. Ich gehe, ohne den Kaffee zu trinken. = بمشي من غير ما أشرب القهوة.\n- Separable: prefix+zu+stem in one word: auszuschalten, zurückzubringen; Ich gehe, ohne das Licht auszuschalten. Inseparable and -ieren: zu benutzen, zu bestätigen, zu reparieren. Reflexive pronoun retained and matches implied doer: Ich gehe, ohne mich zu entschuldigen.\n- Fronting: Ohne die Anleitung zu lesen, benutze ich den Drucker. Entire infinitive group first, then finite main verb. Do not repeat ich in the ohne-zu group.\n- Different doers: ohne dass + subject + rest + final finite verb. Ich benutze das Auto, ohne dass mein Bruder es weiß. = بستخدم العربية من غير ما أخويا يعرف ده. Same doer may also use ohne dass: Ich schicke die Datei, ohne dass ich sie prüfe; ohne zu usually more compact. Different-doer prohibition applies to ordinary active construction; passive/implicit-subject advanced variants outside current practice.\n- Perfekt main clause: Ich habe die Datei geschickt, ohne sie zu prüfen. No need to convert zu prüfen to a conjugated past form merely because main clause is past. Finite Perfekt with ohne dass: Ich habe das Auto benutzt, ohne dass mein Bruder es gewusst hat. Final participle+auxiliary. Independent tense choice follows intended meaning.\n- Advanced anterior infinitive reference only: Ich habe den Mietvertrag unterschrieben, ohne ihn gelesen zu haben. Earlier reading did not occur; PartizipII + zu haben/zu sein expresses anteriority, no mandatory anterior-form demand in ordinary introductory exercises.\n- Modal reference: Ich höre die Nachricht, ohne sie verstehen zu können. = بسمع الرسالة من غير ما أقدر أفهمها. Lexical infinitive then zu + modal infinitive; no double zu. Not assessed.\n- ohne already means absence; do not add nicht automatically: ohne zu fragen. Contrast weil ich nicht frage = لأني مش بسأل, um zu fragen = علشان أسأل. Special logical double negation outside beginner practice, not declared universally impossible.\n- Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.\n- Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.\n- Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.\n"
       }
     ]
   }
