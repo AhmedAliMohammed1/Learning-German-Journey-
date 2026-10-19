@@ -621,3 +621,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-18 S02 —isolated123 recall evidence
 -111 target forms,5 form/spelling repairs,1 sitzen/setzen distinction,6 accepted context variants with general target unconfirmed. See exact mapping in day/JSON. New10 correct, lexical labels154/13 scoped only to isolated forms. No contextual grammar-pattern counter updated by isolated recall. sich entscheiden/sich kümmern correct infinitives; für/um frame evidence stays separate. Special correct zustimmen review retained.
+
+## 2026-10-19-S01-E01 —correct recipient cases, pronoun order repair
+- geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim.
+- Pronoun ordering is separate from M08 gender/object omission: both es and ihr correctly selected. Existing pattern statuses unchanged; no new generalized error count. Fresh delayed check dueOct20.

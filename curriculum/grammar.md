@@ -640,3 +640,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-18 S01-E10 —erhält and reference frame
 - `Meine Schwester erhaltet heute das Buch, und er schaut die Anleitung nach ` -> `Meine Schwester erhält heute das Buch und sie schaut in der Anleitung nach.`. ich erhalte, du erhältst, er/sie erhält; ihr erhaltet is a different address. Sister remains sie; schaut...nach form/separation and und order correct. Manual as source in der Anleitung; do not teach universal in for every nachschauen use. No mastery promotion.
+
+## 2026-10-19-S01-E01 —correct recipient cases, pronoun order repair
+- geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim.
+- Pronoun ordering is separate from M08 gender/object omission: both es and ihr correctly selected. Existing pattern statuses unchanged; no new generalized error count. Fresh delayed check dueOct20.

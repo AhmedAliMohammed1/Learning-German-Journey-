@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T21:01:12+02:00",
+  "last_updated_at": "2026-10-19T21:34:21+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S01",
   "sessions_recorded": 44,
-  "last_verified_study_at": "2026-10-18T16:05:00+02:00",
+  "last_verified_study_at": "2026-10-19T21:34:21+02:00",
   "active_topic": "recent_material_sentence_review",
-  "next_action": "Await 2026-10-19-S01-E01: أختي سلّفتني كابل الشحن امبارح، وأنا رجّعته لها النهارده. Perfekt. Then rotate recent verbs with present/Perfekt and embedded review; no answer recorded.",
+  "next_action": "Await 2026-10-19-S01-E02 (Präsens): أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11189,8 +11189,8 @@
     {
       "id": "2026-10-19-S01-E01",
       "prompt_ar": "أختي سلّفتني كابل الشحن امبارح، وأنا رجّعته لها النهارده.",
-      "status": "pending",
-      "learner_answer": null,
+      "status": "completed",
+      "learner_answer": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
       "hint_used": false,
       "model_shown": false,
       "activity": "recent_material_sentence_review",
@@ -11205,7 +11205,33 @@
         "V005",
         "V184"
       ],
-      "target": "Fresh geliehen/zurückgebracht, explicit mir and ihr, es for Ladekabel, coordinated actor change. V184 lexical teaching supplied; no sentence model."
+      "target": "Fresh geliehen/zurückgebracht, explicit mir and ihr, es for Ladekabel, coordinated actor change. V184 lexical teaching supplied; no sentence model.",
+      "learner_answer_raw": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
+      "correction": "Meine Schwester hat mir gestern das Ladekabel geliehen, und ich habe es ihr heute zurückgebracht.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-19T21:34:21+02:00"
+    },
+    {
+      "id": "2026-10-19-S01-E02",
+      "prompt_ar": "أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "activity": "recent_material_sentence_review",
+      "activity_id": "2026-10-19-S01-A01",
+      "session_id": "2026-10-19-S01",
+      "tense": "Präsens",
+      "verb_ids": [
+        162,
+        164
+      ],
+      "vocabulary_ids": [
+        "V184",
+        "V004",
+        "V005"
+      ],
+      "target": "erhält and benachrichtigt, Akk seine Schwester, intended brother er, danach V2; reuse V184. No model."
     }
   ],
   "completed_exercise_ids": [
@@ -12152,7 +12178,8 @@
     "2026-10-18-S02-E120",
     "2026-10-18-S02-E121",
     "2026-10-18-S02-E122",
-    "2026-10-18-S02-E123"
+    "2026-10-18-S02-E123",
+    "2026-10-19-S01-E01"
   ],
   "verbs": {
     "learned_total": 167,
@@ -23454,9 +23481,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
+        "recorded_attempts": 3,
         "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich leihe; du leihst; er leiht",
         "perfekt_reference": "hat geliehen",
@@ -23476,10 +23503,11 @@
           },
           "Perfekt": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
+            "last_assessed_on": "2026-10-19",
             "latest_result": "needs_retry_participle",
             "evidence_ids": [
-              "2026-10-18-S01-E08"
+              "2026-10-18-S01-E08",
+              "2026-10-19-S01-E01"
             ]
           }
         },
@@ -23530,6 +23558,18 @@
             "independent": true,
             "correct": false,
             "note": "geleihen -> geliehen; auxiliary hat correct, mir recipient omitted."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T21:34:21+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E01",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "dimension": "Perfekt_participle",
+            "independent": true,
+            "correct": false,
+            "note": "geleihet -> geliehen; auxiliary and mir correct."
           }
         ]
       },
@@ -23542,9 +23582,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 3,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich bringe ... zurück; er bringt ... zurück",
         "perfekt_reference": "hat zurückgebracht",
@@ -23564,10 +23604,11 @@
           },
           "Perfekt": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "needs_retry_participle",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_participle",
             "evidence_ids": [
-              "2026-10-18-S01-E08"
+              "2026-10-18-S01-E08",
+              "2026-10-19-S01-E01"
             ]
           }
         },
@@ -23618,6 +23659,18 @@
             "independent": true,
             "correct": false,
             "note": "zurückbringt -> zurückgebracht; auxiliary habe, es ihr and intended bringing target correct."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T21:34:21+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E01",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "dimension": "Perfekt_participle",
+            "independent": true,
+            "correct": true,
+            "note": "zurückgebracht correct next-day repair; sentence pronoun order separate."
           }
         ]
       },
@@ -29197,11 +29250,11 @@
         "plural": "die Ladekabel",
         "meaning_ar": "كابل الشحن",
         "type": "noun",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-19",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-19",
         "source": "2026-10-19-S01-A01",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
         "evidence": [
           {
@@ -29210,6 +29263,15 @@
             "session_id": "2026-10-19-S01",
             "kind": "introduced_with_example",
             "independently_recalled": false
+          },
+          {
+            "date": "2026-10-19",
+            "exercise_id": "2026-10-19-S01-E01",
+            "kind": "contextual_vocabulary_use",
+            "lexical_correct": true,
+            "article_correct": true,
+            "lexical_support": true,
+            "note": "Correct das Ladekabel/es following supplied noun/example; plural and independent recall untested."
           }
         ],
         "usage_example": "Ich brauche das Ladekabel."
@@ -31557,8 +31619,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "Active recent-material sentence review; E01 unanswered.",
-  "next_suggested_action": "Answer 2026-10-19-S01-E01",
+  "latest_study_state": "E01 graded; E02 pending; recent review active.",
+  "next_suggested_action": "Answer 2026-10-19-S01-E02",
   "active_grammar": "imperativ",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -32829,6 +32891,14 @@
       ],
       "attempts_recorded": 0,
       "note": "Paused previous recall on date rollover; old day remains open. No mastery or retest result changes."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T21:34:21+02:00",
+      "session_id": "2026-10-19-S01",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-19-S01-E01",
+      "note": "geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim."
     }
   ],
   "exercise_results": [
@@ -52907,6 +52977,36 @@
       "actual_audio_assessed": false,
       "delayed_lexical_retention_confirmed": false,
       "note": "Correct independent isolated target form; no full sentence/Perfekt/oral inference."
+    },
+    {
+      "exercise_id": "2026-10-19-S01-E01",
+      "session_id": "2026-10-19-S01",
+      "activity_id": "2026-10-19-S01-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T21:34:21+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي سلّفتني كابل الشحن امبارح، وأنا رجّعته لها النهارده.",
+      "learner_answer": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
+      "learner_answer_raw": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
+      "correction": "Meine Schwester hat mir gestern das Ladekabel geliehen, und ich habe es ihr heute zurückgebracht.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "model_shown_before_attempt": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "vocabulary_support": [
+        "V184 introduced with example before attempt"
+      ],
+      "note": "geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim.",
+      "dimensions": {
+        "leihen_perfekt": "needs_retry",
+        "zurueckbringen_perfekt": "independent_correct",
+        "recipient_identity_and_case": "independent_correct",
+        "object_pronoun_gender": "independent_correct",
+        "double_object_pronoun_order": "needs_retry",
+        "und_order_and_subjects": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -54110,14 +54210,15 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Fresh explicit lending/return recipients: E08 return ihr correct, first lending mir omitted. Preserve successful es ihr, no blanket recipient failure.",
-      "due_on": "2026-10-19",
-      "interval_index": 0,
+      "due_on": "2026-10-22",
+      "interval_index": 1,
       "status": "scheduled",
-      "last_result": "return_recipient_ihr_correct_first_lending_recipient_mir_omitted",
+      "last_result": "delayed_success_explicit_mir_and_ihr_order_assessed_separately",
       "evidence_ids": [
         "2026-10-18-S01-E03",
         "2026-10-18-S01-E07",
-        "2026-10-18-S01-E08"
+        "2026-10-18-S01-E08",
+        "2026-10-19-S01-E01"
       ]
     },
     {
@@ -54172,12 +54273,13 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Fresh geliehen/zurückgebracht with explicit first and second recipients; auxiliaries/es ihr correct already.",
-      "due_on": "2026-10-19",
+      "due_on": "2026-10-20",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "needs_retry_participles_first_recipient",
+      "last_result": "leihen_participle_needs_retry_zurueckgebracht_delayed_correct",
       "evidence_ids": [
-        "2026-10-18-S01-E08"
+        "2026-10-18-S01-E08",
+        "2026-10-19-S01-E01"
       ]
     },
     {
@@ -54231,6 +54333,20 @@
         "2026-10-18-S02-E105",
         "2026-10-18-S02-E107",
         "2026-10-18-S02-E120"
+      ]
+    },
+    {
+      "id": "2026-10-19-double-object-pronouns",
+      "target_key": "written_unstressed_double_object_pronoun_order",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-19-S01-A01",
+      "target": "Neutral es ihr / es mir: Akkusativ pronoun before Dativ pronoun; distinguish correct case/gender from ordering.",
+      "due_on": "2026-10-20",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "ihr_es_needs_es_ihr",
+      "evidence_ids": [
+        "2026-10-19-S01-E01"
       ]
     }
   ],
@@ -89975,10 +90091,11 @@
           166,
           167
         ],
-        "tested_ids": [],
-        "remaining_ids": [
+        "tested_ids": [
           158,
-          159,
+          159
+        ],
+        "remaining_ids": [
           160,
           161,
           162,
@@ -89988,12 +90105,46 @@
           166,
           167
         ],
-        "current_exercise_id": "2026-10-19-S01-E01",
+        "current_exercise_id": "2026-10-19-S01-E02",
         "new_vocabulary_ids": [
           "V184"
         ],
-        "attempts": [],
-        "selection_rationale": "Explicit menu2->3. Latest verbs158–167 with present and Perfekt, embedded und/subjects/recipients and optional recent Imperativ. Start due lending/return participles; isolated correctness does not establish contextual mastery. Preserve all old prompts and retry12."
+        "attempts": [
+          {
+            "exercise_id": "2026-10-19-S01-E01",
+            "session_id": "2026-10-19-S01",
+            "activity_id": "2026-10-19-S01-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T21:34:21+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي سلّفتني كابل الشحن امبارح، وأنا رجّعته لها النهارده.",
+            "learner_answer": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
+            "learner_answer_raw": "Meine Schwester hat gestern mir das Ladekabel geleihet, und ich habe ihr es heute zurückgebracht",
+            "correction": "Meine Schwester hat mir gestern das Ladekabel geliehen, und ich habe es ihr heute zurückgebracht.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "model_shown_before_attempt": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "vocabulary_support": [
+              "V184 introduced with example before attempt"
+            ],
+            "note": "geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim.",
+            "dimensions": {
+              "leihen_perfekt": "needs_retry",
+              "zurueckbringen_perfekt": "independent_correct",
+              "recipient_identity_and_case": "independent_correct",
+              "object_pronoun_gender": "independent_correct",
+              "double_object_pronoun_order": "needs_retry",
+              "und_order_and_subjects": "independent_correct"
+            }
+          }
+        ],
+        "selection_rationale": "Explicit menu2->3. Latest verbs158–167 with present and Perfekt, embedded und/subjects/recipients and optional recent Imperativ. Start due lending/return participles; isolated correctness does not establish contextual mastery. Preserve all old prompts and retry12.",
+        "retry_ids": [
+          158
+        ]
       }
     ]
   }
