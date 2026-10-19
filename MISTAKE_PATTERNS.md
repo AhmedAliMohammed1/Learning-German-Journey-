@@ -641,3 +641,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-19-S01-E06 —participle repair, recipient/order unresolved
 - Both geliehen and zurückgebracht independently correct in fresh same-session transfer after E01 correction; not delayed retention for newly repaired geliehen. First clause omits explicit mir (سلّفني); bare das Buch geliehen can suggest borrowed rather than intended lent to me. Return es and ihm correctly selected, neutral unstressed order es ihm rather than ihm es. Place pronouns before heute naturally. danach habe ich is valid V2 and meaningful sequence; accept as alternative to und, no conjunction error. No model/hint for E06; prior E01 feedback known. No audio/global mastery.
 - Preserve correct pronoun identities and verb forms separately from omitted mir and es ihm ordering. Recipient/order retestsOct20; no invented M08 gender failure.
+
+## 2026-10-19-S02-E01 —correct new structure, lexical/case repair
+- ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio.
+- New grammar structure independently correct; M02 case error separate. Fresh separable E02 pending.

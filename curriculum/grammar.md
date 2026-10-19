@@ -29,7 +29,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | ob: indirect yes/no questions; contrast with conditional wenn | practicing | S02-E01 ob/final braucht correct; subject cases/wissen/definiteness repaired; E02 pending |
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
 | Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
-| ohne ... zu / ohne dass; noun-only ohne + Akk | introduced | New Oct19 S02; practical lesson, E01 unanswered |
+| ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
 
 ## Cases and pronouns
 
@@ -675,3 +675,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 - Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.
 - Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.
 - Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.
+
+## 2026-10-19-S02-E01 —correct new structure, lexical/case repair
+- ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio.
+- New grammar structure independently correct; M02 case error separate. Fresh separable E02 pending.

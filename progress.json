@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:21:27+02:00",
+  "last_updated_at": "2026-10-19T22:41:07+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S02",
   "sessions_recorded": 45,
-  "last_verified_study_at": "2026-10-19T22:19:14+02:00",
+  "last_verified_study_at": "2026-10-19T22:41:07+02:00",
   "active_topic": "ohne_zu_ohne_dass",
-  "next_action": "Await 2026-10-19-S02-E01 (Präsens, ohne...zu): أختي بترجّع الطابعة بالبريد من غير ما تبلّغ زميلها.",
+  "next_action": "Await 2026-10-19-S02-E02 (Präsens, ohne...zu): أخويا بيمشي من غير ما ياخد كابل الشحن معاه.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11359,11 +11359,38 @@
         "V166",
         "V185"
       ],
+      "status": "completed",
+      "learner_answer": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "Same subject ohne...zu, main separable zurückschicken, zu benachrichtigen, ihren Kollegen Akk. No exercise-specific model; grammar examples given.",
+      "learner_answer_raw": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+      "correction": "Meine Schwester schickt den Drucker zurück, ohne ihren Kollegen zu benachrichtigen.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-19T22:41:07+02:00"
+    },
+    {
+      "id": "2026-10-19-S02-E02",
+      "session_id": "2026-10-19-S02",
+      "activity_id": "2026-10-19-S02-A01",
+      "activity": "new_grammar_sentence_translation",
+      "grammar_topic": "ohne_zu_ohne_dass",
+      "prompt_ar": "أخويا بيمشي من غير ما ياخد كابل الشحن معاه.",
+      "tense": "Präsens",
+      "verb_ids": [
+        4,
+        97
+      ],
+      "vocabulary_ids": [
+        "V004",
+        "V184",
+        "V185"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "Same subject ohne...zu, main separable zurückschicken, zu benachrichtigen, ihren Kollegen Akk. No exercise-specific model; grammar examples given."
+      "target": "Same subject ohne...zu with separable mitnehmen -> mitzunehmen; das Ladekabel; no exercise-specific model."
     }
   ],
   "completed_exercise_ids": [
@@ -12316,7 +12343,8 @@
     "2026-10-19-S01-E03",
     "2026-10-19-S01-E04",
     "2026-10-19-S01-E05",
-    "2026-10-19-S01-E06"
+    "2026-10-19-S01-E06",
+    "2026-10-19-S02-E01"
   ],
   "verbs": {
     "learned_total": 167,
@@ -23846,8 +23874,8 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 3,
-        "independent_correct": 3,
+        "recorded_attempts": 4,
+        "independent_correct": 4,
         "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich schicke ... zurück; er schickt ... zurück",
@@ -23859,7 +23887,12 @@
         "source": "2026-10-17-S04",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "not_assessed",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
+            "evidence_ids": [
+              "2026-10-19-S02-E01"
+            ]
           },
           "Perfekt": {
             "status": "practicing",
@@ -23929,6 +23962,17 @@
             "correct": true,
             "form_correct": true,
             "note": "zurückgeschickt and den Drucker correct."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:41:07+02:00",
+            "session_id": "2026-10-19-S02",
+            "exercise_id": "2026-10-19-S02-E01",
+            "kind": "written_contextual_verb_use",
+            "dimension": "present_separable",
+            "independent": true,
+            "correct": true,
+            "note": "schickt...zurück correct."
           }
         ],
         "command_tracking": {
@@ -24247,7 +24291,7 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 4,
+        "recorded_attempts": 5,
         "independent_correct": 3,
         "last_reviewed": "2026-10-19",
         "historical_review_count": null,
@@ -24348,6 +24392,17 @@
             "independent": true,
             "correct": true,
             "note": "benachrichtigt er seine Schwester correct form/subject/Akk."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:41:07+02:00",
+            "session_id": "2026-10-19-S02",
+            "exercise_id": "2026-10-19-S02-E01",
+            "kind": "written_contextual_verb_use",
+            "dimension": "zu_infinitive_and_akk",
+            "independent": true,
+            "correct": false,
+            "note": "zu correctly external, but base nachrichtigen -> benachrichtigen; ihrem -> ihren."
           }
         ]
       },
@@ -25555,13 +25610,13 @@
       {
         "id": "ohne_zu_ohne_dass",
         "title": "ohne ... zu / ohne dass: absence of accompanying action",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-19",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
         "activity_id": "2026-10-19-S02-A01",
-        "current_exercise_id": "2026-10-19-S02-E01",
+        "current_exercise_id": "2026-10-19-S02-E02",
         "subtopics": [
           "same_subject_infinitive",
           "different_subject_finite_clause",
@@ -25580,9 +25635,21 @@
             "session_id": "2026-10-19-S02",
             "kind": "practical_explanation_and_examples",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:41:07+02:00",
+            "session_id": "2026-10-19-S02",
+            "exercise_id": "2026-10-19-S02-E01",
+            "independent": true,
+            "correct": true,
+            "correctness_scope": "ohne_zu_structure_only",
+            "full_translation_correct": false,
+            "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio."
           }
         ],
-        "selection_rationale": "Explicit new grammar choice; absent from topic register and dated lesson search. Builds on known zu/subordinate order with recent verbs; avoids relabeling old weakness as new."
+        "selection_rationale": "Explicit new grammar choice; absent from topic register and dated lesson search. Builds on known zu/subordinate order with recent verbs; avoids relabeling old weakness as new.",
+        "full_translation_independent_correct": 0
       }
     ],
     "studied_verb_patterns": [
@@ -29598,12 +29665,12 @@
         "plural": "—",
         "meaning_ar": "من غير / بدون",
         "type": "preposition_connector",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-19",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-19",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
         "usage_example": "Ich gehe ohne meinen Bruder.",
         "evidence": [
           {
@@ -29612,6 +29679,13 @@
             "session_id": "2026-10-19-S02",
             "kind": "introduced_with_grammar_and_examples",
             "independently_recalled": false
+          },
+          {
+            "date": "2026-10-19",
+            "exercise_id": "2026-10-19-S02-E01",
+            "kind": "contextual_connector_use",
+            "independent": true,
+            "correct": true
           }
         ]
       }
@@ -29843,9 +29917,9 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 5,
+      "recorded_errors": 6,
       "independent_correct": 10,
-      "independent_correct_since_last_error": 4,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01"
@@ -29986,6 +30060,15 @@
           "independent": true,
           "correct": true,
           "note": "seine Schwester correctly preserves his and governed Akk."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:41:07+02:00",
+          "session_id": "2026-10-19-S02",
+          "exercise_id": "2026-10-19-S02-E01",
+          "independent": true,
+          "correct": false,
+          "note": "Ihrem Kollegen -> ihren Kollegen: intended her, masculine Akk governed by benachrichtigen; noun -n correct. Improving retained, prior successes preserved."
         }
       ]
     },
@@ -32061,8 +32144,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "New ohne grammar introduced; zero learner attempts, E01 pending.",
-  "next_suggested_action": "Answer 2026-10-19-S02-E01",
+  "latest_study_state": "ohne E01 structure correct, verb/case repair; E02 pending.",
+  "next_suggested_action": "Answer 2026-10-19-S02-E02",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33395,6 +33478,14 @@
       ],
       "attempts_recorded": 0,
       "pending_exercise_id": "2026-10-19-S02-E01"
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:41:07+02:00",
+      "session_id": "2026-10-19-S02",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-19-S02-E01",
+      "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio."
     }
   ],
   "exercise_results": [
@@ -53624,6 +53715,31 @@
         "double_object_pronoun_order": "needs_retry",
         "danach_order_subject": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S02-E01",
+      "session_id": "2026-10-19-S02",
+      "activity_id": "2026-10-19-S02-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:41:07+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي بترجّع الطابعة بالبريد من غير ما تبلّغ زميلها.",
+      "learner_answer": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+      "learner_answer_raw": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+      "correction": "Meine Schwester schickt den Drucker zurück, ohne ihren Kollegen zu benachrichtigen.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio.",
+      "dimensions": {
+        "ohne_zu_structure": "independent_correct",
+        "zurueckschicken_present": "independent_correct",
+        "benachrichtigen_infinitive": "needs_retry",
+        "possessive_akk": "needs_retry",
+        "Kollegen_ending": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -54812,14 +54928,15 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Delayed fresh benachrichtigen case/possessive/subject retest; same-session E02 transfer correct, not delayed retention.",
-      "due_on": "2026-10-22",
-      "interval_index": 1,
+      "due_on": "2026-10-20",
+      "interval_index": 0,
       "status": "scheduled",
-      "last_result": "delayed_independent_correct_form_akk_possessive_subject",
+      "last_result": "zu_infinitive_missing_be_and_possessive_dativ_instead_of_akk",
       "evidence_ids": [
         "2026-10-18-S01-E01",
         "2026-10-18-S01-E02",
-        "2026-10-19-S01-E02"
+        "2026-10-19-S01-E02",
+        "2026-10-19-S02-E01"
       ]
     },
     {
@@ -54987,6 +55104,20 @@
       "last_result": "independent_correct",
       "evidence_ids": [
         "2026-10-19-S01-E04"
+      ]
+    },
+    {
+      "id": "2026-10-19-ohne-zu",
+      "target_key": "ohne_zu_ohne_dass_structural_transfer",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-19-S02-A01",
+      "target": "Fresh ohne...zu same-subject structure, then separable/reflexive and different-subject ohne dass; assess independently.",
+      "due_on": "2026-10-20",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "structure_correct_full_translation_needs_verb_case_repair",
+      "evidence_ids": [
+        "2026-10-19-S02-E01"
       ]
     }
   ],
@@ -90924,8 +91055,34 @@
         "scope": "new_grammar",
         "status": "active",
         "grammar_topic": "ohne_zu_ohne_dass",
-        "current_exercise_id": "2026-10-19-S02-E01",
-        "attempts": [],
+        "current_exercise_id": "2026-10-19-S02-E02",
+        "attempts": [
+          {
+            "exercise_id": "2026-10-19-S02-E01",
+            "session_id": "2026-10-19-S02",
+            "activity_id": "2026-10-19-S02-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:41:07+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي بترجّع الطابعة بالبريد من غير ما تبلّغ زميلها.",
+            "learner_answer": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+            "learner_answer_raw": "Meine Schwester schickt den Drucker zurück, ohne Ihrem Kollegen zu nachrichtigen",
+            "correction": "Meine Schwester schickt den Drucker zurück, ohne ihren Kollegen zu benachrichtigen.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio.",
+            "dimensions": {
+              "ohne_zu_structure": "independent_correct",
+              "zurueckschicken_present": "independent_correct",
+              "benachrichtigen_infinitive": "needs_retry",
+              "possessive_akk": "needs_retry",
+              "Kollegen_ending": "independent_correct"
+            }
+          }
+        ],
         "new_vocabulary_ids": [
           "V185"
         ],
