@@ -1,0 +1,7 @@
+# Current learner state —2026-10-18 (Berlin)
+
+Day open; active **2026-10-18-S02**, isolated activity**2026-10-18-S02-A01**. Batch2026-10-18-S02-B01 graded.
+
+All123 actual isolated answers graded:111 matching/accepted target forms,5 spelling/form repairs (#19/84/98/101/120),1 meaning contrast (#21 sitzen vs setzen),6 valid context-specific alternatives with target unconfirmed (#3/52/81/95/105/107). All10 new verbs correct. sich entscheiden/sich kümmern accepted as infinitives without optional governed preposition in isolated recall; contextual frames still separately unresolved.154 mastered/13 review labels apply only to infinitive/registered-form recall; correct zustimmen remains review by prior request.12 short-retry target IDs retained,122 applicable Perfekt forms deferred; no fresh prompt issued.167/183/43,2sessions today. All old sentenceE11/pending/queues and contextual mastery/audio unchanged.
+
+Next on continuation: shuffled isolated retry12, no German models before new attempt; then later separate Perfekt pass. No pending batch/exercise currently for S02; prior S01-E11 sentence remains deferred unanswered. Exact index mapping/raw/normalized answers/outcomes in JSON and day log. Review IDs: 38,49,54,147,84,106,36,83,35,91,37,144; special151 also retained in overall review label set. Never infer forgotten general verb from a valid narrower alternative. Local save; verify remote refs.

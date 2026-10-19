@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**183 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**184 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -189,6 +189,7 @@
 | V181 | mal | — | أداة بتخلي الطلب عفوي؛ مش معناها مرة حرفيًا هنا | modal_particle | introduced |
 | V182 | doch | — | أداة للتشجيع أو الإلحاح حسب السياق والنبرة | modal_particle | introduced |
 | V183 | der Kundendienst | die Kundendienste (أقسام/جهات؛ الخدمة نفسها غالبًا مفرد) | خدمة العملاء / قسم خدمة العملاء | noun | practicing |
+| V184 | das Ladekabel | die Ladekabel | كابل الشحن | noun | introduced |
 
 ## Learning notes
 
