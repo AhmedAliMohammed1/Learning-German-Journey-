@@ -625,3 +625,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-19-S01-E01 —correct recipient cases, pronoun order repair
 - geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim.
 - Pronoun ordering is separate from M08 gender/object omission: both es and ihr correctly selected. Existing pattern statuses unchanged; no new generalized error count. Fresh delayed check dueOct20.
+
+## 2026-10-19-S01-E02 —third singular form
+- Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim.
+- Correct M02/M28/M34 evidence retained separately; repeated erhalten form repair dueOct20, no new generalized mistake ID.

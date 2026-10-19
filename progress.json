@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T21:34:21+02:00",
+  "last_updated_at": "2026-10-19T22:05:02+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S01",
   "sessions_recorded": 44,
-  "last_verified_study_at": "2026-10-19T21:34:21+02:00",
+  "last_verified_study_at": "2026-10-19T22:05:02+02:00",
   "active_topic": "recent_material_sentence_review",
-  "next_action": "Await 2026-10-19-S01-E02 (Präsens): أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
+  "next_action": "Await 2026-10-19-S01-E03 (Perfekt): أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11214,8 +11214,8 @@
     {
       "id": "2026-10-19-S01-E02",
       "prompt_ar": "أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
-      "status": "pending",
-      "learner_answer": null,
+      "status": "completed",
+      "learner_answer": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
       "hint_used": false,
       "model_shown": false,
       "activity": "recent_material_sentence_review",
@@ -11231,7 +11231,33 @@
         "V004",
         "V005"
       ],
-      "target": "erhält and benachrichtigt, Akk seine Schwester, intended brother er, danach V2; reuse V184. No model."
+      "target": "erhält and benachrichtigt, Akk seine Schwester, intended brother er, danach V2; reuse V184. No model.",
+      "learner_answer_raw": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+      "correction": "Mein Bruder erhält heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-19T22:05:02+02:00"
+    },
+    {
+      "id": "2026-10-19-S01-E03",
+      "prompt_ar": "أختي اتولّت المشكلة امبارح، واحتفظت بالإيصال.",
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "activity": "recent_material_sentence_review",
+      "activity_id": "2026-10-19-S01-A01",
+      "session_id": "2026-10-19-S01",
+      "tense": "Perfekt",
+      "verb_ids": [
+        167,
+        161
+      ],
+      "vocabulary_ids": [
+        "V005",
+        "V174",
+        "V124"
+      ],
+      "target": "sich kümmern um+Akk / gekümmert and aufbewahrt, feminine subject, und order; fresh variation of prior-day male prompt. No model."
     }
   ],
   "completed_exercise_ids": [
@@ -12179,7 +12205,8 @@
     "2026-10-18-S02-E121",
     "2026-10-18-S02-E122",
     "2026-10-18-S02-E123",
-    "2026-10-19-S01-E01"
+    "2026-10-19-S01-E01",
+    "2026-10-19-S01-E02"
   ],
   "verbs": {
     "learned_total": 167,
@@ -23859,9 +23886,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
+        "recorded_attempts": 3,
         "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich erhalte; du erhältst; er erhält",
         "perfekt_reference": "hat erhalten",
@@ -23873,10 +23900,11 @@
         "tense_tracking": {
           "Präsens": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "needs_retry_third_person_erhaelt",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "needs_retry_third_singular",
             "evidence_ids": [
-              "2026-10-18-S01-E10"
+              "2026-10-18-S01-E10",
+              "2026-10-19-S01-E02"
             ]
           },
           "Perfekt": {
@@ -23935,6 +23963,17 @@
             "independent": true,
             "correct": false,
             "note": "erhaltet -> erhält for meine Schwester; correct Akk das Buch. Earlier Perfekt erhalten success retained."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:05:02+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E02",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "note": "Repeated erhaltet -> erhält for third singular; correct object/time."
           }
         ]
       },
@@ -24035,9 +24074,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 3,
-        "independent_correct": 2,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 4,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich benachrichtige; er benachrichtigt",
         "perfekt_reference": "hat benachrichtigt",
@@ -24049,11 +24088,12 @@
         "tense_tracking": {
           "Präsens": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "needs_retry_third_person_ending",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
             "evidence_ids": [
               "2026-10-18-S01-E01",
-              "2026-10-18-S01-E06"
+              "2026-10-18-S01-E06",
+              "2026-10-19-S01-E02"
             ]
           },
           "Perfekt": {
@@ -24124,6 +24164,17 @@
             "independent": true,
             "correct": false,
             "note": "benachrichtige -> benachrichtigt for meine Schwester. Correct lexical target and Akk object, earlier successes retained."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:05:02+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E02",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "benachrichtigt er seine Schwester correct form/subject/Akk."
           }
         ]
       },
@@ -29254,8 +29305,8 @@
         "introduced_on": "2026-10-19",
         "last_reviewed": "2026-10-19",
         "source": "2026-10-19-S01-A01",
-        "recorded_attempts": 1,
-        "independent_correct": 0,
+        "recorded_attempts": 2,
+        "independent_correct": 1,
         "evidence": [
           {
             "date": "2026-10-19",
@@ -29272,6 +29323,15 @@
             "article_correct": true,
             "lexical_support": true,
             "note": "Correct das Ladekabel/es following supplied noun/example; plural and independent recall untested."
+          },
+          {
+            "date": "2026-10-19",
+            "exercise_id": "2026-10-19-S01-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "lexical_correct": true,
+            "article_correct": true,
+            "note": "Fresh contextual das Ladekabel correct; no model for E02, plural untested."
           }
         ],
         "usage_example": "Ich brauche das Ladekabel."
@@ -29505,12 +29565,13 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 5,
-      "independent_correct": 9,
-      "independent_correct_since_last_error": 3,
+      "independent_correct": 10,
+      "independent_correct_since_last_error": 4,
       "successful_session_ids": [
-        "2026-10-18-S01"
+        "2026-10-18-S01",
+        "2026-10-19-S01"
       ],
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-10-19",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -29637,6 +29698,15 @@
           "independent": true,
           "correct": true,
           "note": "ihren Kollegen correctly preserves her in governed Akk; verb-ending error separate."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:05:02+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E02",
+          "independent": true,
+          "correct": true,
+          "note": "seine Schwester correctly preserves his and governed Akk."
         }
       ]
     },
@@ -30905,15 +30975,16 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 14,
-      "independent_correct_since_last_error": 7,
+      "independent_correct": 15,
+      "independent_correct_since_last_error": 8,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
         "2026-10-05-S01",
-        "2026-10-18-S01"
+        "2026-10-18-S01",
+        "2026-10-19-S01"
       ],
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-10-19",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -31024,6 +31095,15 @@
           "independent": true,
           "correct": true,
           "note": "Gestern hat meine Schwester and danach hat sie correct; count one exercise, stays stable."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:05:02+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E02",
+          "independent": true,
+          "correct": true,
+          "note": "danach benachrichtigt er correct V2."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -31405,12 +31485,13 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 8,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 9,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
-        "2026-10-18-S01"
+        "2026-10-18-S01",
+        "2026-10-19-S01"
       ],
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-10-19",
       "evidence": [
         {
           "date": "2026-10-09",
@@ -31520,6 +31601,15 @@
           "independent": true,
           "correct": false,
           "note": "er changes intended actor after meine Schwester; sie required. Preserve prior7 post-error successes, reset streak; improving baseline retained after single fresh error rather than erasing progress."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:05:02+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E02",
+          "independent": true,
+          "correct": true,
+          "note": "er correctly preserves brother."
         }
       ]
     }
@@ -31619,8 +31709,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "E01 graded; E02 pending; recent review active.",
-  "next_suggested_action": "Answer 2026-10-19-S01-E02",
+  "latest_study_state": "E02 graded; E03 pending; recent review active.",
+  "next_suggested_action": "Answer 2026-10-19-S01-E03",
   "active_grammar": "imperativ",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -32899,6 +32989,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-19-S01-E01",
       "note": "geleihet -> geliehen. zurückgebracht correct delayed form repair. Both explicit recipients mir/ihr and es gender correct; neutral unstressed double-object pronoun order es ihr (Akk before Dat). mir before gestern preferred neutral placement, not categorical ungrammaticality of gestern mir. und ich habe, auxiliaries and time details correct. New V184 supplied before attempt; contextual reuse supported lexically, no isolated recall claim."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:05:02+02:00",
+      "session_id": "2026-10-19-S01",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-19-S01-E02",
+      "note": "Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim."
     }
   ],
   "exercise_results": [
@@ -53007,6 +53105,31 @@
         "double_object_pronoun_order": "needs_retry",
         "und_order_and_subjects": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S01-E02",
+      "session_id": "2026-10-19-S01",
+      "activity_id": "2026-10-19-S01-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:05:02+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
+      "learner_answer": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+      "learner_answer_raw": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+      "correction": "Mein Bruder erhält heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim.",
+      "dimensions": {
+        "erhalten_present": "needs_retry",
+        "benachrichtigen_present_and_akk": "independent_correct",
+        "subject_preservation": "independent_correct",
+        "danach_order": "independent_correct",
+        "vocabulary_reuse": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -54195,13 +54318,14 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Delayed fresh benachrichtigen case/possessive/subject retest; same-session E02 transfer correct, not delayed retention.",
-      "due_on": "2026-10-19",
-      "interval_index": 0,
+      "due_on": "2026-10-22",
+      "interval_index": 1,
       "status": "scheduled",
-      "last_result": "independent_correct_same_session_transfer",
+      "last_result": "delayed_independent_correct_form_akk_possessive_subject",
       "evidence_ids": [
         "2026-10-18-S01-E01",
-        "2026-10-18-S01-E02"
+        "2026-10-18-S01-E02",
+        "2026-10-19-S01-E02"
       ]
     },
     {
@@ -54288,12 +54412,13 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-17-S04-A01",
       "target": "Fresh third-singular erhält with intended feminine subject preserved as sie; retain correct Akk object and und order.",
-      "due_on": "2026-10-19",
+      "due_on": "2026-10-20",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "needs_retry",
+      "last_result": "erhaltet_repeated_erhaelt_required_subject_correct",
       "evidence_ids": [
-        "2026-10-18-S01-E10"
+        "2026-10-18-S01-E10",
+        "2026-10-19-S01-E02"
       ]
     },
     {
@@ -90093,19 +90218,19 @@
         ],
         "tested_ids": [
           158,
-          159
+          159,
+          162,
+          164
         ],
         "remaining_ids": [
           160,
           161,
-          162,
           163,
-          164,
           165,
           166,
           167
         ],
-        "current_exercise_id": "2026-10-19-S01-E02",
+        "current_exercise_id": "2026-10-19-S01-E03",
         "new_vocabulary_ids": [
           "V184"
         ],
@@ -90139,11 +90264,37 @@
               "double_object_pronoun_order": "needs_retry",
               "und_order_and_subjects": "independent_correct"
             }
+          },
+          {
+            "exercise_id": "2026-10-19-S01-E02",
+            "session_id": "2026-10-19-S01",
+            "activity_id": "2026-10-19-S01-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:05:02+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا بيستلم كابل الشحن النهارده، وبعد كده بيبلّغ أخته.",
+            "learner_answer": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+            "learner_answer_raw": "Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+            "correction": "Mein Bruder erhält heute das Ladekabel, danach benachrichtigt er seine Schwester.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Only repair erhaltet -> erhält for third singular; ihr erhaltet is plural-you form. Correct benachrichtigt, Akk seine Schwester, das Ladekabel, danach V2 and intended er. Comma between main clauses valid. No hint/model before answer; no audio/mastery claim.",
+            "dimensions": {
+              "erhalten_present": "needs_retry",
+              "benachrichtigen_present_and_akk": "independent_correct",
+              "subject_preservation": "independent_correct",
+              "danach_order": "independent_correct",
+              "vocabulary_reuse": "independent_correct"
+            }
           }
         ],
         "selection_rationale": "Explicit menu2->3. Latest verbs158–167 with present and Perfekt, embedded und/subjects/recipients and optional recent Imperativ. Start due lending/return participles; isolated correctness does not establish contextual mastery. Preserve all old prompts and retry12.",
         "retry_ids": [
-          158
+          158,
+          162
         ]
       }
     ]
