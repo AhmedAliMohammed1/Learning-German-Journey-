@@ -10,6 +10,8 @@ Latest E02: `Mein Bruder erhaltet heute das Ladekabel, danach benachrichtigt er 
 
 Latest E03: `Meine Schwester hat gester sich um das Problem gekümmert, und sie hat die Quittung aufbewahrt ` -> `Meine Schwester hat sich gestern um das Problem gekümmert, und sie hat die Quittung aufbewahrt.`. Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery.
 
-Exact pending 2026-10-19-S01-E04 (Präsens): «أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.». No model/answer. Latest form/frame delayed successes nextOct22; all other pending/retests preserved.
+Latest E04 independently fully correct: `Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.`. Independently fully correct: fragt...nach separation, beim=bei dem + Dativ Kundendienst, bestätigt, den Termin Akk, danach V2 and intended er. Original comma between main clauses valid. No hint/model/audio; first recorded present-context success for165 does not complete Perfekt-specific retest.
+
+Exact pending 2026-10-19-S01-E05 (Perfekt): «أخويا راجع دليل التعليمات امبارح، وبعد كده رجّع الطابعة بالبريد.». No model/answer. New present retestOct20; all earlier queues and pending preserved.
 
 Prior Oct18 S02 paused, old day open. Retry12 and122 isolated Perfekt forms deferred, isolated labels154 mastered/13 review unchanged and scoped to recall only. Old S01-E11 and every older prompt/queue preserved. No mastery/audio changes. Previous summary archived.

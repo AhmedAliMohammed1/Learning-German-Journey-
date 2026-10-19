@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:10:43+02:00",
+  "last_updated_at": "2026-10-19T22:13:05+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-19-S01",
   "sessions_recorded": 44,
-  "last_verified_study_at": "2026-10-19T22:10:43+02:00",
+  "last_verified_study_at": "2026-10-19T22:13:05+02:00",
   "active_topic": "recent_material_sentence_review",
-  "next_action": "Await 2026-10-19-S01-E04 (Präsens): أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
+  "next_action": "Await 2026-10-19-S01-E05 (Perfekt): أخويا راجع دليل التعليمات امبارح، وبعد كده رجّع الطابعة بالبريد.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11266,8 +11266,8 @@
     {
       "id": "2026-10-19-S01-E04",
       "prompt_ar": "أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
-      "status": "pending",
-      "learner_answer": null,
+      "status": "completed",
+      "learner_answer": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
       "hint_used": false,
       "model_shown": false,
       "activity": "recent_material_sentence_review",
@@ -11283,7 +11283,33 @@
         "V183",
         "V106"
       ],
-      "target": "fragt beim Kundendienst nach; bestätigt den Termin; afterwards V2 and brother subject. No model."
+      "target": "fragt beim Kundendienst nach; bestätigt den Termin; afterwards V2 and brother subject. No model.",
+      "learner_answer_raw": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+      "correction": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+      "result": "independent_correct",
+      "completed_at": "2026-10-19T22:13:05+02:00"
+    },
+    {
+      "id": "2026-10-19-S01-E05",
+      "prompt_ar": "أخويا راجع دليل التعليمات امبارح، وبعد كده رجّع الطابعة بالبريد.",
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "activity": "recent_material_sentence_review",
+      "activity_id": "2026-10-19-S01-A01",
+      "session_id": "2026-10-19-S01",
+      "tense": "Perfekt",
+      "verb_ids": [
+        166,
+        160
+      ],
+      "vocabulary_ids": [
+        "V004",
+        "V172",
+        "V179"
+      ],
+      "target": "nachschauen reference source in der Anleitung + hat nachgeschaut; hat den Drucker zurückgeschickt, danach V2. Existing vocabulary; no model."
     }
   ],
   "completed_exercise_ids": [
@@ -12233,7 +12259,8 @@
     "2026-10-18-S02-E123",
     "2026-10-19-S01-E01",
     "2026-10-19-S01-E02",
-    "2026-10-19-S01-E03"
+    "2026-10-19-S01-E03",
+    "2026-10-19-S01-E04"
   ],
   "verbs": {
     "learned_total": 167,
@@ -24025,9 +24052,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 2,
-        "independent_correct": 2,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 3,
+        "independent_correct": 3,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich bestätige; er bestätigt",
         "perfekt_reference": "hat bestätigt",
@@ -24039,10 +24066,11 @@
         "tense_tracking": {
           "Präsens": {
             "status": "practicing",
-            "last_assessed_on": "2026-10-18",
-            "latest_result": "independent_correct_form_context_needs_retry",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
             "evidence_ids": [
-              "2026-10-18-S01-E01"
+              "2026-10-18-S01-E01",
+              "2026-10-19-S01-E04"
             ]
           },
           "Perfekt": {
@@ -24101,6 +24129,17 @@
             "independent": true,
             "correct": true,
             "note": "Fresh correct hat benachrichtigt/hat bestätigt with intended subject and governed case. No mastery."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:13:05+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E04",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Correct form/context in complete translation; no global mastery."
           }
         ]
       },
@@ -24226,9 +24265,9 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-18",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-19",
         "historical_review_count": null,
         "praesens_reference": "ich frage ... nach; er fragt ... nach",
         "perfekt_reference": "hat nachgefragt",
@@ -24239,7 +24278,12 @@
         "source": "2026-10-17-S04",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed"
+            "status": "practicing",
+            "last_assessed_on": "2026-10-19",
+            "latest_result": "independent_correct_form_and_context",
+            "evidence_ids": [
+              "2026-10-19-S01-E04"
+            ]
           },
           "Perfekt": {
             "status": "practicing",
@@ -24286,6 +24330,17 @@
             "independent": true,
             "correct": true,
             "note": "Independent hat nachgefragt and bei-Dat context; first observed attempt, no mastery."
+          },
+          {
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:13:05+02:00",
+            "session_id": "2026-10-19-S01",
+            "exercise_id": "2026-10-19-S01-E04",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "note": "Correct form/context in complete translation; no global mastery."
           }
         ]
       },
@@ -29316,10 +29371,10 @@
         "type": "noun",
         "status": "practicing",
         "introduced_on": "2026-10-17",
-        "last_reviewed": "2026-10-18",
+        "last_reviewed": "2026-10-19",
         "source": "2026-10-17-S04-A01",
-        "recorded_attempts": 1,
-        "independent_correct": 1,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
         "evidence": [
           {
             "date": "2026-10-17",
@@ -29339,6 +29394,16 @@
             "contextual_dative_correct": true,
             "plural_assessed": false,
             "note": "beim Kundendienst correctly used independently; no isolated article/plural mastery inferred."
+          },
+          {
+            "date": "2026-10-19",
+            "exercise_id": "2026-10-19-S01-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "lexical_correct": true,
+            "contextual_dative_correct": true,
+            "plural_assessed": false,
+            "note": "beim Kundendienst independently correct next-day contextual reuse."
           }
         ],
         "usage_example": "Ich frage beim Kundendienst nach.",
@@ -31026,8 +31091,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 15,
-      "independent_correct_since_last_error": 8,
+      "independent_correct": 16,
+      "independent_correct_since_last_error": 9,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
@@ -31155,6 +31220,15 @@
           "independent": true,
           "correct": true,
           "note": "danach benachrichtigt er correct V2."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:13:05+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E04",
+          "independent": true,
+          "correct": true,
+          "note": "danach bestätigt er correct V2 and brother subject; statuses retained."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -31546,8 +31620,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 10,
-      "independent_correct_since_last_error": 2,
+      "independent_correct": 11,
+      "independent_correct_since_last_error": 3,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01"
@@ -31680,6 +31754,15 @@
           "independent": true,
           "correct": true,
           "note": "und sie hat correct order and intended sister; improving retained."
+        },
+        {
+          "date": "2026-10-19",
+          "timestamp": "2026-10-19T22:13:05+02:00",
+          "session_id": "2026-10-19-S01",
+          "exercise_id": "2026-10-19-S01-E04",
+          "independent": true,
+          "correct": true,
+          "note": "danach bestätigt er correct V2 and brother subject; statuses retained."
         }
       ]
     }
@@ -31779,8 +31862,8 @@
     }
   },
   "latest_study_date": "2026-10-19",
-  "latest_study_state": "E03 target grammar correct, spelling repair; E04 pending.",
-  "next_suggested_action": "Answer 2026-10-19-S01-E04",
+  "latest_study_state": "E04 independently fully correct; E05 pending.",
+  "next_suggested_action": "Answer 2026-10-19-S01-E05",
   "active_grammar": "imperativ",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33075,6 +33158,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-19-S01-E03",
       "note": "Correct gekümmert, reflexive sich, um das Problem (Akk), aufbewahrt, die Quittung, und sie hat and intended sister. gester -> gestern spelling only; neutral sich gestern preferred, not a categorical grammar failure for gestern sich. Both target verb dimensions independently correct on next-day retest; whole written response needs spelling repair. No new hint/model before answer, no audio or global mastery."
+    },
+    {
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:13:05+02:00",
+      "session_id": "2026-10-19-S01",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-19-S01-E04",
+      "note": "Independently fully correct: fragt...nach separation, beim=bei dem + Dativ Kundendienst, bestätigt, den Termin Akk, danach V2 and intended er. Original comma between main clauses valid. No hint/model/audio; first recorded present-context success for165 does not complete Perfekt-specific retest."
     }
   ],
   "exercise_results": [
@@ -53232,6 +53323,24 @@
         "und_order_subject": "independent_correct",
         "spelling": "needs_retry"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S01-E04",
+      "session_id": "2026-10-19-S01",
+      "activity_id": "2026-10-19-S01-A01",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T22:13:05+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
+      "learner_answer": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+      "learner_answer_raw": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+      "correction": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Independently fully correct: fragt...nach separation, beim=bei dem + Dativ Kundendienst, bestätigt, den Termin Akk, danach V2 and intended er. Original comma between main clauses valid. No hint/model/audio; first recorded present-context success for165 does not complete Perfekt-specific retest."
     }
   ],
   "skill_tracking": {
@@ -54577,6 +54686,20 @@
       "last_result": "ihr_es_needs_es_ihr",
       "evidence_ids": [
         "2026-10-19-S01-E01"
+      ]
+    },
+    {
+      "id": "2026-10-19-nachfragen-bestaetigen-present",
+      "target_key": "recent_nachfragen_bestaetigen_present_context",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-19-S01-A01",
+      "target": "Fresh present nachfragen beim Kundendienst and bestätigen den Termin; separate from existing Perfekt-specific queue.",
+      "due_on": "2026-10-20",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct",
+      "evidence_ids": [
+        "2026-10-19-S01-E04"
       ]
     }
   ],
@@ -90327,15 +90450,15 @@
           162,
           164,
           167,
-          161
+          161,
+          165,
+          163
         ],
         "remaining_ids": [
           160,
-          163,
-          165,
           166
         ],
-        "current_exercise_id": "2026-10-19-S01-E04",
+        "current_exercise_id": "2026-10-19-S01-E05",
         "new_vocabulary_ids": [
           "V184"
         ],
@@ -90418,6 +90541,24 @@
               "und_order_subject": "independent_correct",
               "spelling": "needs_retry"
             }
+          },
+          {
+            "exercise_id": "2026-10-19-S01-E04",
+            "session_id": "2026-10-19-S01",
+            "activity_id": "2026-10-19-S01-A01",
+            "date": "2026-10-19",
+            "timestamp": "2026-10-19T22:13:05+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا بيستفسر عند خدمة العملاء، وبعد كده بيأكد الموعد.",
+            "learner_answer": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+            "learner_answer_raw": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+            "correction": "Mein Bruder fragt beim Kundendienst nach, danach bestätigt er den Termin.",
+            "result": "independent_correct",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Independently fully correct: fragt...nach separation, beim=bei dem + Dativ Kundendienst, bestätigt, den Termin Akk, danach V2 and intended er. Original comma between main clauses valid. No hint/model/audio; first recorded present-context success for165 does not complete Perfekt-specific retest."
           }
         ],
         "selection_rationale": "Explicit menu2->3. Latest verbs158–167 with present and Perfekt, embedded und/subjects/recipients and optional recent Imperativ. Start due lending/return participles; isolated correctness does not establish contextual mastery. Preserve all old prompts and retry12.",
