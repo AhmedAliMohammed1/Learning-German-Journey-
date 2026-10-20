@@ -653,3 +653,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-20-S01-E01 —supported separable-zu success
 - Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.
 - Separate noun gender from correct structure; fresh transfer pending.
+
+## 2026-10-20-S02-E02 —target verb, tense and object
+- schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.
+- Existing M08 omission updated; correct Dativ/V2/subject retained separately.

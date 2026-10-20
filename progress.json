@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T13:19:49+02:00",
+  "last_updated_at": "2026-10-20T13:22:07+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-20-S02",
   "sessions_recorded": 47,
-  "last_verified_study_at": "2026-10-20T13:19:49+02:00",
+  "last_verified_study_at": "2026-10-20T13:22:07+02:00",
   "active_topic": "new_verbs_168_177",
-  "next_action": "Await 2026-10-20-S02-E02 (Präsens): أخويا بيدوق الشوربة، وبعد كده بيقدّمها لأخته.",
+  "next_action": "Await 2026-10-20-S02-E03 (Präsens): أختي بتقلّب الشوربة، وبعد كده بتدوقها.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11493,11 +11493,36 @@
         "V048",
         "V005"
       ],
+      "status": "completed",
+      "learner_answer": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "probiert/serviert, feminine Akk sie, Dativ seiner Schwester, danach V2. No full sentence model.",
+      "learner_answer_raw": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+      "correction": "Mein Bruder probiert die Suppe, danach serviert er sie seiner Schwester.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-20T13:22:07+02:00"
+    },
+    {
+      "id": "2026-10-20-S02-E03",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "activity": "new_verbs_sentence_translation",
+      "prompt_ar": "أختي بتقلّب الشوربة، وبعد كده بتدوقها.",
+      "tense": "Präsens",
+      "verb_ids": [
+        171,
+        174
+      ],
+      "vocabulary_ids": [
+        "V005",
+        "V048"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "probiert/serviert, feminine Akk sie, Dativ seiner Schwester, danach V2. No full sentence model."
+      "target": "rührt then probiert, main female sie and Akk sie, new verb with embedded fresh correction transfer. Prior probiert feedback known; no complete sentence model."
     }
   ],
   "completed_exercise_ids": [
@@ -12454,7 +12479,8 @@
     "2026-10-19-S02-E01",
     "2026-10-19-S02-E02",
     "2026-10-20-S01-E01",
-    "2026-10-20-S02-E01"
+    "2026-10-20-S02-E01",
+    "2026-10-20-S02-E02"
   ],
   "verbs": {
     "learned_total": 177,
@@ -25126,11 +25152,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich probiere; er probiert",
         "perfekt_reference": "hat probiert",
@@ -25141,8 +25167,12 @@
         "source": "2026-10-20-S02",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E02"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "target_not_produced"
           },
           "Perfekt": {
             "status": "not_assessed",
@@ -25156,6 +25186,17 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:22:07+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E02",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "note": "Target probiert not produced; malformed schmickt, intended identity unconfirmed."
           }
         ]
       },
@@ -25246,11 +25287,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich serviere; er serviert",
         "perfekt_reference": "hat serviert",
@@ -25261,12 +25302,20 @@
         "source": "2026-10-20-S02",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E02"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "requested_present_replaced_by_perfekt"
           },
           "Perfekt": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E02"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "form_correct_unrequested_tense"
           }
         },
         "evidence": [
@@ -25276,6 +25325,17 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:22:07+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E02",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "note": "Correct hat...serviert form, wrong requested tense and omitted object sie; Dativ correct."
           }
         ]
       }
@@ -30593,13 +30653,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 6,
-      "independent_correct": 10,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 11,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-18-S01",
-        "2026-10-19-S01"
+        "2026-10-19-S01",
+        "2026-10-20-S02"
       ],
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-10-20",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -30744,6 +30805,15 @@
           "independent": true,
           "correct": false,
           "note": "Ihrem Kollegen -> ihren Kollegen: intended her, masculine Akk governed by benachrichtigen; noun -n correct. Improving retained, prior successes preserved."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:22:07+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E02",
+          "independent": true,
+          "correct": true,
+          "note": "seiner Schwester correct feminine Dativ and intended possession."
         }
       ]
     },
@@ -30896,9 +30966,9 @@
       "assessment_source": "learner_provided_history_backfill",
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
-      "recorded_errors": 5,
+      "recorded_errors": 6,
       "independent_correct": 10,
-      "independent_correct_since_last_error": 5,
+      "independent_correct_since_last_error": 0,
       "successful_session_ids": [
         "2026-10-09-S02",
         "2026-10-18-S01",
@@ -31036,6 +31106,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:22:07+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E02",
+          "independent": true,
+          "correct": false,
+          "note": "Explicit object sie for Suppe omitted after servieren."
         }
       ]
     },
@@ -32022,8 +32101,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 19,
-      "independent_correct_since_last_error": 12,
+      "independent_correct": 20,
+      "independent_correct_since_last_error": 13,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
@@ -32188,6 +32267,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:22:07+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E02",
+          "independent": true,
+          "correct": true,
+          "note": "danach hat er correct V2; tense error separate."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -32579,8 +32667,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 14,
-      "independent_correct_since_last_error": 6,
+      "independent_correct": 15,
+      "independent_correct_since_last_error": 7,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01",
@@ -32750,6 +32838,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:22:07+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E02",
+          "independent": true,
+          "correct": true,
+          "note": "er correctly preserves brother."
         }
       ]
     }
@@ -32849,8 +32946,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "New batch E01 fully correct first application; E02 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S02-E02",
+  "latest_study_state": "E02 corrected: probiert, serviert, object sie; E03 pending.",
+  "next_suggested_action": "Answer 2026-10-20-S02-E03",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34251,6 +34348,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-20-S02-E01",
       "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:22:07+02:00",
+      "session_id": "2026-10-20-S02",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-20-S02-E02",
+      "note": "schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio."
     }
   ],
   "exercise_results": [
@@ -54575,6 +54680,32 @@
       "actual_audio_assessed": false,
       "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery.",
       "prior_instruction": "Present examples and Perfekt reference forms taught; no exercise-specific model."
+    },
+    {
+      "exercise_id": "2026-10-20-S02-E02",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:22:07+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا بيدوق الشوربة، وبعد كده بيقدّمها لأخته.",
+      "learner_answer": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+      "learner_answer_raw": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+      "correction": "Mein Bruder probiert die Suppe, danach serviert er sie seiner Schwester.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.",
+      "dimensions": {
+        "probieren_present_target": "needs_retry",
+        "servieren_requested_present": "needs_retry",
+        "servieren_produced_perfekt_form": "independent_correct",
+        "seiner_Schwester_dativ": "independent_correct",
+        "explicit_sie_object": "needs_retry",
+        "danach_v2_subject": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -55997,6 +56128,20 @@
       "last_result": "independent_correct_first_application",
       "evidence_ids": [
         "2026-10-20-S02-E01"
+      ]
+    },
+    {
+      "id": "2026-10-20-probieren-servieren",
+      "target_key": "probieren_servieren_present_object_dativ",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-20-S02-A01",
+      "target": "Intentional taste probieren, present serviert, explicit feminine object sie with Dativ recipient; do not erase correct hat serviert form.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "needs_lexical_present_tense_object_repair_dativ_correct",
+      "evidence_ids": [
+        "2026-10-20-S02-E02"
       ]
     }
   ],
@@ -92042,17 +92187,17 @@
         ],
         "tested_ids": [
           168,
-          169
+          169,
+          174,
+          177
         ],
         "remaining_ids": [
           170,
           171,
           172,
           173,
-          174,
           175,
-          176,
-          177
+          176
         ],
         "attempts": [
           {
@@ -92073,13 +92218,43 @@
             "actual_audio_assessed": false,
             "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery.",
             "prior_instruction": "Present examples and Perfekt reference forms taught; no exercise-specific model."
+          },
+          {
+            "exercise_id": "2026-10-20-S02-E02",
+            "session_id": "2026-10-20-S02",
+            "activity_id": "2026-10-20-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:22:07+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا بيدوق الشوربة، وبعد كده بيقدّمها لأخته.",
+            "learner_answer": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+            "learner_answer_raw": "Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert",
+            "correction": "Mein Bruder probiert die Suppe, danach serviert er sie seiner Schwester.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.",
+            "dimensions": {
+              "probieren_present_target": "needs_retry",
+              "servieren_requested_present": "needs_retry",
+              "servieren_produced_perfekt_form": "independent_correct",
+              "seiner_Schwester_dativ": "independent_correct",
+              "explicit_sie_object": "needs_retry",
+              "danach_v2_subject": "independent_correct"
+            }
           }
         ],
-        "current_exercise_id": "2026-10-20-S02-E02",
+        "current_exercise_id": "2026-10-20-S02-E03",
         "new_vocabulary_ids": [
           "V186"
         ],
-        "selection_rationale": "Explicit main menu4->new verbs2. All167 verb and185 vocabulary rows plus prior curriculum/day history checked;10 candidates absent. Practical cooking theme,70%new/30%embedded prior grammar, present+Perfekt. Prior ohne prompt deferred, not forced first."
+        "selection_rationale": "Explicit main menu4->new verbs2. All167 verb and185 vocabulary rows plus prior curriculum/day history checked;10 candidates absent. Practical cooking theme,70%new/30%embedded prior grammar, present+Perfekt. Prior ohne prompt deferred, not forced first.",
+        "retry_ids": [
+          174,
+          177
+        ]
       }
     ]
   }
