@@ -660,3 +660,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-20-S02-E03 —object transfer, spelling separate
 - Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment.
+
+## 2026-10-20-S02-E05 —schmecken experiencer
+- First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery.

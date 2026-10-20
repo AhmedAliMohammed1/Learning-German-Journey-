@@ -691,3 +691,6 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-20-S02-E02 —target verb, tense and object
 - schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.
 - Existing M08 omission updated; correct Dativ/V2/subject retained separately.
+
+## 2026-10-20-S02-E05 —schmecken experiencer
+- First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery.

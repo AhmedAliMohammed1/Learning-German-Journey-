@@ -11,6 +11,8 @@ Latest E03: `Meine Schwester rührt die Suppe, danach propiert sie sie` -> `Mein
 
 Latest E04: `Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ` fully correct. Fully independent correct: hat gebraten, hat serviert in requested Perfekt, die Zwiebel, object sie referring to Zwiebel, seiner Schwester Dativ, danach V2/intended er and gestern. First173 application and fresh177 complete contextual transfer after E02 omission; not delayed retention/global mastery. No full model/hint/audio.
 
-Exact pending 2026-10-20-S02-E05 (Präsens): «أنا بخلط اللبن بالقهوة، والقهوة طعمها عاجب أخويا.». First clause matches prior teaching example: supported, not independent transfer. Second clause is fresh variation. No answer; all older pending retained.
+Latest E05: `Ich mische die Milch mit Kaffee, und der Kaffee schmickt meinen Bruder ` -> `Ich mische die Milch mit Kaffee, und der Kaffee schmeckt meinem Bruder gut.`. First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery.
+
+Exact pending 2026-10-20-S02-E06 (Perfekt): «أختي خبزت امبارح، والأكل كانت ريحته حلوة.». No model/answer.172/176 still unassessed;170/175 now practicing. All earlier pending preserved.
 
 PriorS01/ohne activity paused, old2026-10-20-S01-E02 «أنا ببعت الرسالة من غير ما أضيف المرفق.» unchanged. All older12 recall retries/122 Perfekt forms, pending sentences and queues preserved. No audio/mastery changes. Earlier dashboard archived.
