@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-20 new verbs168–177
+## LIVE handoff —2026-10-20 S02 paused / main menu
+
+DayOPEN no active session; paused2026-10-20-S02/activity2026-10-20-S02-A01 afterE05 on explicit save-to-GitHub/main-menu request. Show nine choices, no automatic exercise.177verbs/186vocabulary/47sessions,2today. New168–177 introduced, E01/E04 fully correct; E03 propiert→probiert spelling only; E02 verb/tense/object repairs; E05 mit Kaffee valid, supported mixing clause, schmeckt/meinem Bruder repair.172backen/176riechen unattempted. Exact pending2026-10-20-S02-E06 Perfekt «أختي خبزت امبارح، والأكل كانت ريحته حلوة.», no answer/model. All old ohne prompts/12recall retries/122Perfekt forms/dated queues retained. No day closure/mastery/audio changes. Read JSON/day.
+
+## Historical handoff —2026-10-20 new verbs168–177
 
 DayOPEN active2026-10-20-S02/activity2026-10-20-S02-A01. Explicit menu4→2. New verbs168schneiden,169schälen,170mischen,171rühren,172backen,173braten,174probieren,175schmecken,176riechen,177servieren; present/Perfekt/examples/usage taught, zero attempts. NewV186die Zwiebel/die Zwiebeln. Counts177/186/47,2sessions today. Full previous inventories/history checked. Exact pending2026-10-20-S02-E01 Perfekt «أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.». No answer/full sentence model. PriorS01/ohneE02 and all old queues/recall coverage retained paused; no forced review before new material. Read JSON/day.
 

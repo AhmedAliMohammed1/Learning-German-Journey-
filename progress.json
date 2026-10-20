@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T13:35:36+02:00",
+  "last_updated_at": "2026-10-20T16:05:41+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-20",
   "latest_day": "2026-10-20",
   "day_status": "open",
-  "current_session_id": "2026-10-20-S02",
+  "current_session_id": null,
   "sessions_recorded": 47,
   "last_verified_study_at": "2026-10-20T13:35:36+02:00",
   "active_topic": "new_verbs_168_177",
-  "next_action": "Await 2026-10-20-S02-E06 (Perfekt): أختي خبزت امبارح، والأكل كانت ريحته حلوة.",
+  "next_action": "Show nine-choice main menu, no automatic exercise. On explicit continuation resume 2026-10-20-S02-E06 (Perfekt): أختي خبزت امبارح، والأكل كانت ريحته حلوة.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -33208,8 +33208,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "E05 mixed support: mixing correct, schmeckt/meinem repair; E06 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S02-E06",
+  "latest_study_state": "S02 paused after E05 on explicit save-and-main-menu request; E06 unanswered, day open.",
+  "next_suggested_action": "Choose from nine-choice main menu",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34642,6 +34642,16 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-20-S02-E05",
       "note": "First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:05:41+02:00",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "event": "save_pause_main_menu_requested",
+      "learner_request": "احفظ كل حاجه علي جيت هب و ارجع للقائمه الرئيسيه",
+      "pending_exercise_id": "2026-10-20-S02-E06",
+      "note": "Day remains open. No new attempt, mastery change, session or item; all historical evidence retained."
     }
   ],
   "exercise_results": [
@@ -56756,7 +56766,7 @@
     }
   ],
   "current_review_scope": "all_history_unresolved_verbs_isolated",
-  "paused_session_id": "2026-10-20-S01",
+  "paused_session_id": "2026-10-20-S02",
   "recall_tracking": {
     "active_activity_id": null,
     "activities": [
@@ -90499,7 +90509,7 @@
     "remote_sync_blocker": null
   },
   "sentence_review_tracking": {
-    "active_activity_id": "2026-10-20-S02-A01",
+    "active_activity_id": null,
     "activities": [
       {
         "id": "2026-10-14-S03-A01",
@@ -92571,7 +92581,7 @@
         "session_id": "2026-10-20-S02",
         "mode": "written_sentence_translation",
         "scope": "new_verbs_168_177",
-        "status": "active",
+        "status": "paused",
         "pool_ids": [
           168,
           169,
@@ -92723,7 +92733,10 @@
           174,
           175,
           177
-        ]
+        ],
+        "paused_at": "2026-10-20T16:05:41+02:00",
+        "pause_reason": "Explicit save everything to GitHub and return to main menu",
+        "next_action": "Resume 2026-10-20-S02-E06 only when explicitly selected."
       }
     ]
   }
