@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T16:05:41+02:00",
+  "last_updated_at": "2026-10-20T23:38:18+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-20",
   "latest_day": "2026-10-20",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 47,
-  "last_verified_study_at": "2026-10-20T13:35:36+02:00",
-  "active_topic": "new_verbs_168_177",
-  "next_action": "Show nine-choice main menu, no automatic exercise. On explicit continuation resume 2026-10-20-S02-E06 (Perfekt): أختي خبزت امبارح، والأكل كانت ريحته حلوة.",
+  "current_session_id": "2026-10-20-S03",
+  "sessions_recorded": 48,
+  "last_verified_study_at": "2026-10-20T23:38:18+02:00",
+  "active_topic": "Targeted isolated verb recall, entire history",
+  "next_action": "Await 2026-10-20-S03-E01: يخبز / يسوّي في الفرن. Infinitive only, no sentence/model. Then continue persisted forms.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11604,6 +11604,21 @@
       "hint_used": false,
       "model_shown": false,
       "target": "hat gebacken; das Essen hat gut gerochen, und main-clause order and requested Perfekt both clauses. No new noun or sentence model."
+    },
+    {
+      "id": "2026-10-20-S03-E01",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "activity": "isolated_recall",
+      "prompt_ar": "يخبز / يسوّي في الفرن",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        172
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
     }
   ],
   "completed_exercise_ids": [
@@ -33208,8 +33223,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "S02 paused after E05 on explicit save-and-main-menu request; E06 unanswered, day open.",
-  "next_suggested_action": "Choose from nine-choice main menu",
+  "latest_study_state": "S03 active: targeted isolated recall; first infinitive prompt unanswered.",
+  "next_suggested_action": "Await 2026-10-20-S03-E01: يخبز / يسوّي في الفرن. Infinitive only, no sentence/model. Then continue persisted forms.",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34652,6 +34667,14 @@
       "learner_request": "احفظ كل حاجه علي جيت هب و ارجع للقائمه الرئيسيه",
       "pending_exercise_id": "2026-10-20-S02-E06",
       "note": "Day remains open. No new attempt, mastery change, session or item; all historical evidence retained."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:38:18+02:00",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "event": "targeted_isolated_recall_started",
+      "note": "132 eligible verbs; zero answers. Current prompt #172 infinitive. Prior S02 and all queues retained."
     }
   ],
   "exercise_results": [
@@ -56765,10 +56788,148 @@
       "note": "Maintenance only, no learning attempt or new session. Reconciled 31 documented session IDs across dated logs (Oct3=2, Oct4=1, Oct5=1, Oct6=2, Oct7=3, Oct8=1 documented historical summary, Oct9=5, Oct10=5, Oct11=5, Oct12=4, Oct13=2). Past README/CURRENT_STATE were archived and replaced with single live summaries; historical completed exercise records with missing raw data deliberately not synthesized. latest_study and scope fields synchronized to real Oct13 S02-E01."
     }
   ],
-  "current_review_scope": "all_history_unresolved_verbs_isolated",
+  "current_review_scope": {
+    "mode": "isolated_recall",
+    "activity_id": "2026-10-20-S03-A01",
+    "verb_ids": [
+      172,
+      35,
+      84,
+      177,
+      168,
+      175,
+      151,
+      147,
+      36,
+      91,
+      173,
+      37,
+      176,
+      174,
+      169,
+      38,
+      83,
+      144,
+      170,
+      171,
+      49,
+      106,
+      54,
+      135,
+      103,
+      97,
+      57,
+      111,
+      66,
+      60,
+      129,
+      150,
+      86,
+      98,
+      70,
+      143,
+      79,
+      124,
+      161,
+      81,
+      132,
+      155,
+      65,
+      117,
+      100,
+      80,
+      102,
+      85,
+      104,
+      67,
+      95,
+      58,
+      71,
+      160,
+      146,
+      90,
+      89,
+      123,
+      64,
+      87,
+      72,
+      141,
+      82,
+      121,
+      52,
+      78,
+      75,
+      130,
+      153,
+      53,
+      93,
+      116,
+      94,
+      166,
+      138,
+      128,
+      162,
+      113,
+      119,
+      61,
+      140,
+      107,
+      59,
+      73,
+      55,
+      154,
+      133,
+      63,
+      115,
+      99,
+      165,
+      139,
+      126,
+      120,
+      127,
+      77,
+      158,
+      62,
+      156,
+      110,
+      96,
+      134,
+      74,
+      157,
+      163,
+      159,
+      125,
+      109,
+      152,
+      136,
+      108,
+      69,
+      145,
+      148,
+      92,
+      112,
+      149,
+      56,
+      131,
+      164,
+      88,
+      114,
+      167,
+      105,
+      51,
+      137,
+      68,
+      122,
+      76,
+      101,
+      142,
+      118
+    ],
+    "coverage_complete": false
+  },
   "paused_session_id": "2026-10-20-S02",
   "recall_tracking": {
-    "active_activity_id": null,
+    "active_activity_id": "2026-10-20-S03-A01",
     "activities": [
       {
         "id": "2026-10-11-S04-A01",
@@ -90483,6 +90644,2829 @@
         "next_action": "Show feedback; on continuation short shuffled retry12 target forms/contrasts, no German models before fresh attempt.122 Perfekt forms deferred, no new prompt issued now.",
         "paused_at": "2026-10-19T21:01:12+02:00",
         "pause_reason": "Learner chose targeted recent-material sentence review; preserve retry12 and Perfekt coverage."
+      },
+      {
+        "id": "2026-10-20-S03-A01",
+        "session_id": "2026-10-20-S03",
+        "date": "2026-10-20",
+        "mode": "isolated_recall",
+        "type": "verbs",
+        "scope": "unresolved",
+        "status": "active",
+        "started_at": "2026-10-20T23:38:18+02:00",
+        "pool_ids": [
+          172,
+          35,
+          84,
+          177,
+          168,
+          175,
+          151,
+          147,
+          36,
+          91,
+          173,
+          37,
+          176,
+          174,
+          169,
+          38,
+          83,
+          144,
+          170,
+          171,
+          49,
+          106,
+          54,
+          135,
+          103,
+          97,
+          57,
+          111,
+          66,
+          60,
+          129,
+          150,
+          86,
+          98,
+          70,
+          143,
+          79,
+          124,
+          161,
+          81,
+          132,
+          155,
+          65,
+          117,
+          100,
+          80,
+          102,
+          85,
+          104,
+          67,
+          95,
+          58,
+          71,
+          160,
+          146,
+          90,
+          89,
+          123,
+          64,
+          87,
+          72,
+          141,
+          82,
+          121,
+          52,
+          78,
+          75,
+          130,
+          153,
+          53,
+          93,
+          116,
+          94,
+          166,
+          138,
+          128,
+          162,
+          113,
+          119,
+          61,
+          140,
+          107,
+          59,
+          73,
+          55,
+          154,
+          133,
+          63,
+          115,
+          99,
+          165,
+          139,
+          126,
+          120,
+          127,
+          77,
+          158,
+          62,
+          156,
+          110,
+          96,
+          134,
+          74,
+          157,
+          163,
+          159,
+          125,
+          109,
+          152,
+          136,
+          108,
+          69,
+          145,
+          148,
+          92,
+          112,
+          149,
+          56,
+          131,
+          164,
+          88,
+          114,
+          167,
+          105,
+          51,
+          137,
+          68,
+          122,
+          76,
+          101,
+          142,
+          118
+        ],
+        "pool_forms": [
+          {
+            "verb_id": 172,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 177,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 168,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 175,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 151,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 147,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 173,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 176,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 174,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 169,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 144,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 170,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 171,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 150,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 143,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 161,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 155,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 80,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 160,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 146,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 141,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 153,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 166,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 138,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 162,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 140,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 154,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 165,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 139,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 158,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 156,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 157,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 163,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 159,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 152,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 145,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 148,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 149,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 164,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 167,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 142,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 172,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 177,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 168,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 175,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 151,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 147,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 173,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 176,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 174,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 169,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 144,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 170,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 171,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 150,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 143,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 161,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 155,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 80,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 160,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 146,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 141,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 153,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 166,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 138,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 162,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 140,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 154,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 165,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 139,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 158,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 156,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 157,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 163,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 159,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 152,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 145,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 148,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 149,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 164,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 167,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 142,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "perfekt_form_recall"
+          }
+        ],
+        "presentation_mode": "one_at_a_time",
+        "current_index": 0,
+        "current_item": {
+          "verb_id": 172,
+          "dimension": "infinitive_recall",
+          "exercise_id": "2026-10-20-S03-E01"
+        },
+        "tested_ids": [],
+        "remaining_ids": [
+          172,
+          35,
+          84,
+          177,
+          168,
+          175,
+          151,
+          147,
+          36,
+          91,
+          173,
+          37,
+          176,
+          174,
+          169,
+          38,
+          83,
+          144,
+          170,
+          171,
+          49,
+          106,
+          54,
+          135,
+          103,
+          97,
+          57,
+          111,
+          66,
+          60,
+          129,
+          150,
+          86,
+          98,
+          70,
+          143,
+          79,
+          124,
+          161,
+          81,
+          132,
+          155,
+          65,
+          117,
+          100,
+          80,
+          102,
+          85,
+          104,
+          67,
+          95,
+          58,
+          71,
+          160,
+          146,
+          90,
+          89,
+          123,
+          64,
+          87,
+          72,
+          141,
+          82,
+          121,
+          52,
+          78,
+          75,
+          130,
+          153,
+          53,
+          93,
+          116,
+          94,
+          166,
+          138,
+          128,
+          162,
+          113,
+          119,
+          61,
+          140,
+          107,
+          59,
+          73,
+          55,
+          154,
+          133,
+          63,
+          115,
+          99,
+          165,
+          139,
+          126,
+          120,
+          127,
+          77,
+          158,
+          62,
+          156,
+          110,
+          96,
+          134,
+          74,
+          157,
+          163,
+          159,
+          125,
+          109,
+          152,
+          136,
+          108,
+          69,
+          145,
+          148,
+          92,
+          112,
+          149,
+          56,
+          131,
+          164,
+          88,
+          114,
+          167,
+          105,
+          51,
+          137,
+          68,
+          122,
+          76,
+          101,
+          142,
+          118
+        ],
+        "retry_ids": [],
+        "remaining_forms": [
+          {
+            "verb_id": 172,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 177,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 168,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 175,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 151,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 147,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 173,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 176,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 174,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 169,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 144,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 170,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 171,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 150,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 143,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 161,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 155,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 80,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 160,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 146,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 141,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 153,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 166,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 138,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 162,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 140,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 154,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 165,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 139,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 158,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 156,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 157,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 163,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 159,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 152,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 145,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 148,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 149,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 164,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 167,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 142,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "infinitive_recall"
+          },
+          {
+            "verb_id": 172,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 35,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 84,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 177,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 168,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 175,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 151,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 147,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 36,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 91,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 173,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 37,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 176,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 174,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 169,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 38,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 83,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 144,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 170,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 171,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 49,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 106,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 54,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 135,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 103,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 97,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 57,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 111,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 66,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 60,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 129,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 150,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 86,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 98,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 70,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 143,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 79,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 124,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 161,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 81,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 132,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 155,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 65,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 117,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 100,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 80,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 102,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 85,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 104,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 67,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 95,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 58,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 71,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 160,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 146,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 90,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 89,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 123,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 64,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 87,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 72,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 141,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 82,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 121,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 52,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 78,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 75,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 130,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 153,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 53,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 93,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 116,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 94,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 166,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 138,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 128,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 162,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 113,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 119,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 61,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 140,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 107,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 59,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 73,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 55,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 154,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 133,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 63,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 115,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 99,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 165,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 139,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 126,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 120,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 127,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 77,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 158,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 62,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 156,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 110,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 96,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 134,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 74,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 157,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 163,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 159,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 125,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 109,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 152,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 136,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 108,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 69,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 145,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 148,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 92,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 112,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 149,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 56,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 131,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 164,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 88,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 114,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 167,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 105,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 51,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 137,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 68,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 122,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 76,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 101,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 142,
+            "dimension": "perfekt_form_recall"
+          },
+          {
+            "verb_id": 118,
+            "dimension": "perfekt_form_recall"
+          }
+        ],
+        "attempts": [],
+        "selection_reasons": {
+          "35": [
+            "isolated_recall_unresolved_or_new"
+          ],
+          "36": [
+            "isolated_recall_unresolved_or_new"
+          ],
+          "37": [
+            "isolated_recall_unresolved_or_new"
+          ],
+          "38": [
+            "isolated_recall_unresolved_or_new"
+          ],
+          "49": [
+            "isolated_recall_unresolved_or_new"
+          ],
+          "51": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "52": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "53": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "54": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "55": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "56": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "57": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "58": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "59": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "60": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "61": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "62": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "63": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "64": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "65": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "66": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "67": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "68": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "69": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "70": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "71": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "72": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "73": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "74": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "75": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "76": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "77": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "78": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "79": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "80": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "81": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "82": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "83": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "84": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "85": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "86": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "87": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "88": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "89": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "90": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "91": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "92": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "93": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "94": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "95": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "96": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "97": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "98": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "99": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "100": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "101": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "102": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "103": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "104": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "105": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "106": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "107": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "108": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "109": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "110": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "111": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "112": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "113": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "114": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "115": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "116": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "117": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "118": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "119": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "120": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "121": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "122": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "123": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "124": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "125": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "126": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "127": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "128": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "129": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "130": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "131": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "132": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "133": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "134": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "135": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "136": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "137": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "138": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "139": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "140": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "141": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "142": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "143": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "144": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "145": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "146": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "147": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "148": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "149": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "150": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "151": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "152": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "153": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "154": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "155": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "156": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "157": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "158": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "159": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "160": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "161": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "162": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "163": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "164": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "165": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "166": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "167": [
+            "contextual_status_not_secure; does not negate correct isolated recall"
+          ],
+          "168": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "169": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "170": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "171": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "172": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "173": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "174": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "175": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "176": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ],
+          "177": [
+            "contextual_status_not_secure; does not negate correct isolated recall",
+            "isolated_recall_unresolved_or_new"
+          ]
+        },
+        "selection_rationale": "Full177 verbs and186 vocabulary audited. Entire-history non-secure contextual statuses plus unresolved isolated recall/new items; correct isolated labels retained. Prioritize unresolved/new first, rotate older range thereafter. Infinitive first, then applicable full auxiliary+participle forms. Prior activities/coverage preserved separately. Current learner selected verbs-only option after one-at-a-time offer; old all-at-once activity remains preserved.",
+        "prior_paused_session_id": "2026-10-20-S02",
+        "continuation": "2026-10-20-S03-E01"
       }
     ]
   },

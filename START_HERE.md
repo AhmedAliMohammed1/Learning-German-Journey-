@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-20 S02 paused / main menu
+## LIVE handoff —2026-10-20 S03 isolated recall
+
+Day OPEN, active2026-10-20-S03/activity2026-10-20-S03-A01. Targeted isolated verb recall across entire history: 132 eligible IDs, 264 form targets (infinitive then full Perfekt), zero answers. Prioritize unresolved/new; prior correct recall labels retained.177verbs/186vocabulary/48sessions,3today. Exact pending2026-10-20-S03-E01: «يخبز / يسوّي في الفرن» infinitive only; no model. S02-E06 and all older pending/recall queues preserved paused. No mastery/audio changes.
+
+## Historical handoff —2026-10-20 S02 paused / main menu
 
 DayOPEN no active session; paused2026-10-20-S02/activity2026-10-20-S02-A01 afterE05 on explicit save-to-GitHub/main-menu request. Show nine choices, no automatic exercise.177verbs/186vocabulary/47sessions,2today. New168–177 introduced, E01/E04 fully correct; E03 propiert→probiert spelling only; E02 verb/tense/object repairs; E05 mit Kaffee valid, supported mixing clause, schmeckt/meinem Bruder repair.172backen/176riechen unattempted. Exact pending2026-10-20-S02-E06 Perfekt «أختي خبزت امبارح، والأكل كانت ريحته حلوة.», no answer/model. All old ohne prompts/12recall retries/122Perfekt forms/dated queues retained. No day closure/mastery/audio changes. Read JSON/day.
 
