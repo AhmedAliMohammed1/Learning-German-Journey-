@@ -4,6 +4,8 @@ Read live JSON and explain in Egyptian Arabic.
 
 ## LIVE handoff —2026-10-20 S03 isolated recall
 
+Latest override: all132 infinitive prompts issued as S03-B01 on explicit request. Await numbered answers; no answers/model yet. E01 reused, separate Perfekt coverage retained. Use persisted batch mapping.
+
 Day OPEN, active2026-10-20-S03/activity2026-10-20-S03-A01. Targeted isolated verb recall across entire history: 132 eligible IDs, 264 form targets (infinitive then full Perfekt), zero answers. Prioritize unresolved/new; prior correct recall labels retained.177verbs/186vocabulary/48sessions,3today. Exact pending2026-10-20-S03-E01: «يخبز / يسوّي في الفرن» infinitive only; no model. S02-E06 and all older pending/recall queues preserved paused. No mastery/audio changes.
 
 ## Historical handoff —2026-10-20 S02 paused / main menu

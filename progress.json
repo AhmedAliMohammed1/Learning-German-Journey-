@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T23:38:18+02:00",
+  "last_updated_at": "2026-10-20T23:40:06+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -23,7 +23,7 @@
   "sessions_recorded": 48,
   "last_verified_study_at": "2026-10-20T23:38:18+02:00",
   "active_topic": "Targeted isolated verb recall, entire history",
-  "next_action": "Await 2026-10-20-S03-E01: يخبز / يسوّي في الفرن. Infinitive only, no sentence/model. Then continue persisted forms.",
+  "next_action": "Await numbered answers to B01 (132 infinitives). Perfekt remains a separate untested pass.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11614,6 +11614,2235 @@
       "requested_form": "infinitive",
       "verb_ids": [
         172
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 1
+    },
+    {
+      "id": "2026-10-20-S03-E02",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 2,
+      "activity": "isolated_recall",
+      "prompt_ar": "يُسمح له",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        35
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E03",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 3,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحجز فندق/تذكرة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        84
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E04",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 4,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقدّم الأكل أو الشرب",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        177
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E05",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 5,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقطّع / يقص",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        168
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E06",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 6,
+      "activity": "isolated_recall",
+      "prompt_ar": "يكون طعمه / يعجب حد طعمه",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        175
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E07",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 7,
+      "activity": "isolated_recall",
+      "prompt_ar": "يوافق على رأي أو اقتراح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        151
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E08",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 8,
+      "activity": "isolated_recall",
+      "prompt_ar": "يزيل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        147
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E09",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 9,
+      "activity": "isolated_recall",
+      "prompt_ar": "يأخذ",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        36
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E10",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 10,
+      "activity": "isolated_recall",
+      "prompt_ar": "يصل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        91
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E11",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 11,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقلي / يحمّر / يشوي حسب السياق",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        173
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E12",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 12,
+      "activity": "isolated_recall",
+      "prompt_ar": "يجلب / يحضر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        37
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E13",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 13,
+      "activity": "isolated_recall",
+      "prompt_ar": "يشم / تكون ريحته",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        176
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E14",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 14,
+      "activity": "isolated_recall",
+      "prompt_ar": "يجرّب / يدوق",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        174
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E15",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 15,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقشّر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        169
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E16",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 16,
+      "activity": "isolated_recall",
+      "prompt_ar": "يذهب ليحضر شيئًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        38
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E17",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 17,
+      "activity": "isolated_recall",
+      "prompt_ar": "يغيّر / يبدّل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        83
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E18",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 18,
+      "activity": "isolated_recall",
+      "prompt_ar": "يعيد توجيه",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        144
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E19",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 19,
+      "activity": "isolated_recall",
+      "prompt_ar": "يخلط",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        170
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E20",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 20,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقلّب / يحرّك خليط",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        171
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E21",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 21,
+      "activity": "isolated_recall",
+      "prompt_ar": "يكون جالسًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        49
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E22",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 22,
+      "activity": "isolated_recall",
+      "prompt_ar": "يجهز / يحضّر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        106
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E23",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 23,
+      "activity": "isolated_recall",
+      "prompt_ar": "يُجلس / يضع في وضع الجلوس",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        54
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E24",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 24,
+      "activity": "isolated_recall",
+      "prompt_ar": "يوصّل / يربط",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        135
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E25",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 25,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينسى",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        103
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E26",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 26,
+      "activity": "isolated_recall",
+      "prompt_ar": "يأخذ معه",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        97
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E27",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 27,
+      "activity": "isolated_recall",
+      "prompt_ar": "يبدأ",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        57
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E28",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 28,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقدّم طلب رسمي على حاجة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        111
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E29",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 29,
+      "activity": "isolated_recall",
+      "prompt_ar": "يغسل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        66
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E30",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 30,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقابل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        60
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E31",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 31,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحفظ ملف أو بيانات",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        129
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E32",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 32,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرفض",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        150
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E33",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 33,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستلم / يروح يجيب",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        86
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E34",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 34,
+      "activity": "isolated_recall",
+      "prompt_ar": "يسلّم / يقدّم شيئًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        98
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E35",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 35,
+      "activity": "isolated_recall",
+      "prompt_ar": "يسافر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        70
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E36",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 36,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحدّث",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        143
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E37",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 37,
+      "activity": "isolated_recall",
+      "prompt_ar": "يملأ استمارة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        79
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E38",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 38,
+      "activity": "isolated_recall",
+      "prompt_ar": "يفرّغ أمتعة / يفك غلاف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        124
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E39",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 39,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحتفظ بحاجة ويحافظ عليها لوقت لاحق",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        161
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E40",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 40,
+      "activity": "isolated_recall",
+      "prompt_ar": "يفقد / يضيّع",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        81
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E41",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 41,
+      "activity": "isolated_recall",
+      "prompt_ar": "يثبّت برنامج",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        132
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E42",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 42,
+      "activity": "isolated_recall",
+      "prompt_ar": "يشتكي",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        155
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E43",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 43,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحمل / يرتدي",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        65
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E44",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 44,
+      "activity": "isolated_recall",
+      "prompt_ar": "يفوّت قطارًا أو موعدًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        117
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E45",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 45,
+      "activity": "isolated_recall",
+      "prompt_ar": "يطفئ / يغلق جهازًا أو النور",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        100
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E46",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 46,
+      "activity": "isolated_recall",
+      "prompt_ar": "يوقّع",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        80
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E47",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 47,
+      "activity": "isolated_recall",
+      "prompt_ar": "يشرح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        102
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E48",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 48,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحجز مكان/ترابيزة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        85
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E49",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 49,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينصح / يوصي",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        104
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E50",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 50,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينظف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        67
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E51",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 51,
+      "activity": "isolated_recall",
+      "prompt_ar": "يدعو",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        95
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E52",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 52,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتوقف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        58
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E53",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 53,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرتب / يلم المكان",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        71
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E54",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 54,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرجّع حاجة بالبريد أو بإرسالها",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        160
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E55",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 55,
+      "activity": "isolated_recall",
+      "prompt_ar": "يضيف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        146
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E56",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 56,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلغي موعدًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        90
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E57",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 57,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحدد / يتفق على موعد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        89
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E58",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 58,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحزم / يوضّب أمتعة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        123
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E59",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 59,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرسل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        64
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E60",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 60,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرجّع / يعيد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        87
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E61",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 61,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستحم",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        72
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E62",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 62,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينشئ",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        141
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E63",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 63,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستخدم",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        82
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E64",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 64,
+      "activity": "isolated_recall",
+      "prompt_ar": "يكسب فلوس / يستحق",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        121
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E65",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 65,
+      "activity": "isolated_recall",
+      "prompt_ar": "يضع شيئًا أفقيًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        52
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E66",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 66,
+      "activity": "isolated_recall",
+      "prompt_ar": "يسجّل / يشترك",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        78
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E67",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 67,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتسوق / يشتري احتياجات",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        75
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E68",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 68,
+      "activity": "isolated_recall",
+      "prompt_ar": "يطبع",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        130
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E69",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 69,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقترح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        153
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E70",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 70,
+      "activity": "isolated_recall",
+      "prompt_ar": "يضع شيئًا قائمًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        53
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E71",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 71,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينزل من وسيلة مواصلات",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        93
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E72",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 72,
+      "activity": "isolated_recall",
+      "prompt_ar": "تنتهي مدة صلاحية / ينتهي موعد أو عقد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        116
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E73",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 73,
+      "activity": "isolated_recall",
+      "prompt_ar": "يغيّر / يبدّل وسيلة مواصلات",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        94
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E74",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 74,
+      "activity": "isolated_recall",
+      "prompt_ar": "يراجع / يدوّر على معلومة عشان يتأكد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        166
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E75",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 75,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينسخ",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        138
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E76",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 76,
+      "activity": "isolated_recall",
+      "prompt_ar": "يراجع / يفحص",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        128
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E77",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 77,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتلقى / يستلم",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        162
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E78",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 78,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلغي عقد / يستقيل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        113
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E79",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 79,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحوّل فلوس بنكياً",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        119
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E80",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 80,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقول",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        61
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E81",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 81,
+      "activity": "isolated_recall",
+      "prompt_ar": "يعدّل / يشتغل على ملف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        140
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E82",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 82,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقرر اختيار / يختار",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        107
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E83",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 83,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينتظر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        59
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E84",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 84,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرتدي / يلبس",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        73
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E85",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 85,
+      "activity": "isolated_recall",
+      "prompt_ar": "يفتح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        55
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E86",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 86,
+      "activity": "isolated_recall",
+      "prompt_ar": "يناقش موضوع",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        154
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E87",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 87,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينزّل ملف من الإنترنت",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        133
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E88",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 88,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتصل هاتفيًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        63
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E89",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 89,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينجز / يخلّص مهمة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        115
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E90",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 90,
+      "activity": "isolated_recall",
+      "prompt_ar": "يشغّل جهازًا / النور",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        99
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E91",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 91,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستفسر / يسأل للتوضيح أو المتابعة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        165
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E92",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 92,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلصق / يدرج",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        139
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E93",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 93,
+      "activity": "isolated_recall",
+      "prompt_ar": "يوعد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        126
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E94",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 94,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينفق / يصرف فلوس",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        120
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E95",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 95,
+      "activity": "isolated_recall",
+      "prompt_ar": "يسمح بـ / يصرّح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        127
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E96",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 96,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينتقل إلى سكن جديد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        77
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E97",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 97,
+      "activity": "isolated_recall",
+      "prompt_ar": "يسلّف حاجة / يستعير حسب التركيب",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        158
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E98",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 98,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحكي / يروي",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        62
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E99",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 99,
+      "activity": "isolated_recall",
+      "prompt_ar": "يعتذر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        156
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E100",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 100,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتذكر / يفتكر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        110
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E101",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 101,
+      "activity": "isolated_recall",
+      "prompt_ar": "يشارك / يحضر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        96
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E102",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 102,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرفع ملف على الإنترنت",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        134
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E103",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 103,
+      "activity": "isolated_recall",
+      "prompt_ar": "يخلع / ينتقل من السكن",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        74
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E104",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 104,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحل مشكلة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        157
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E105",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 105,
+      "activity": "isolated_recall",
+      "prompt_ar": "يؤكد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        163
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E106",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 106,
+      "activity": "isolated_recall",
+      "prompt_ar": "يرجّع حاجة بأنه يوصلها",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        159
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E107",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 107,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحسّن / يطوّر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        125
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E108",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 108,
+      "activity": "isolated_recall",
+      "prompt_ar": "يتمنى / يأمل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        109
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E109",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 109,
+      "activity": "isolated_recall",
+      "prompt_ar": "يعترض على كلام حد / يخالف رأيه",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        152
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E110",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 110,
+      "activity": "isolated_recall",
+      "prompt_ar": "يفصل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        136
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E111",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 111,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلغي حجزًا / طلبًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        108
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E112",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 112,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلعب",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        69
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E113",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 113,
+      "activity": "isolated_recall",
+      "prompt_ar": "ينقل / يؤجل",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        145
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E114",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 114,
+      "activity": "isolated_recall",
+      "prompt_ar": "يعرض / يقدّم",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        148
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E115",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 115,
+      "activity": "isolated_recall",
+      "prompt_ar": "يركب / يصعد وسيلة مواصلات",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        92
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E116",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 116,
+      "activity": "isolated_recall",
+      "prompt_ar": "يمدّد / يجدّد مدة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        112
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E117",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 117,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقبل عرض أو اقتراح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        149
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E118",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 118,
+      "activity": "isolated_recall",
+      "prompt_ar": "يغلق",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        56
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E119",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 119,
+      "activity": "isolated_recall",
+      "prompt_ar": "يمسح / يحذف",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        131
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E120",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 120,
+      "activity": "isolated_recall",
+      "prompt_ar": "يبلّغ / يخطر حد",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        164
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E121",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 121,
+      "activity": "isolated_recall",
+      "prompt_ar": "يحضر معه",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        88
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E122",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 122,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستبدل حاجة اشتراها",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        114
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E123",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 123,
+      "activity": "isolated_recall",
+      "prompt_ar": "يهتم بـ / يتولّى مسؤولية حاجة",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        167
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E124",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 124,
+      "activity": "isolated_recall",
+      "prompt_ar": "يلحق / يصل إلى",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        105
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E125",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 125,
+      "activity": "isolated_recall",
+      "prompt_ar": "يكون موضوعًا / مستلقيًا",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        51
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E126",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 126,
+      "activity": "isolated_recall",
+      "prompt_ar": "يقارن",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        137
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E127",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 127,
+      "activity": "isolated_recall",
+      "prompt_ar": "يمشي / يجري",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        68
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E128",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 128,
+      "activity": "isolated_recall",
+      "prompt_ar": "يوفّر / يحوش فلوس",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        122
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E129",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 129,
+      "activity": "isolated_recall",
+      "prompt_ar": "يستأجر",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        76
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E130",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 130,
+      "activity": "isolated_recall",
+      "prompt_ar": "يزور",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        101
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E131",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 131,
+      "activity": "isolated_recall",
+      "prompt_ar": "يختار",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        142
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false
+    },
+    {
+      "id": "2026-10-20-S03-E132",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "batch_id": "2026-10-20-S03-B01",
+      "batch_index": 132,
+      "activity": "isolated_recall",
+      "prompt_ar": "يصلّح",
+      "requested_form": "infinitive",
+      "verb_ids": [
+        118
       ],
       "status": "pending",
       "learner_answer": null,
@@ -33223,8 +35452,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "S03 active: targeted isolated recall; first infinitive prompt unanswered.",
-  "next_suggested_action": "Await 2026-10-20-S03-E01: يخبز / يسوّي في الفرن. Infinitive only, no sentence/model. Then continue persisted forms.",
+  "latest_study_state": "S03 active; all132 infinitive prompts issued together on explicit request, zero answers.",
+  "next_suggested_action": "Await numbered answers to B01 (132 infinitives). Perfekt remains a separate untested pass.",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34675,6 +36904,15 @@
       "activity_id": "2026-10-20-S03-A01",
       "event": "targeted_isolated_recall_started",
       "note": "132 eligible verbs; zero answers. Current prompt #172 infinitive. Prior S02 and all queues retained."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:40:06+02:00",
+      "session_id": "2026-10-20-S03",
+      "activity_id": "2026-10-20-S03-A01",
+      "event": "recall_presentation_changed",
+      "learner_request": "هات كل الافعال مره واحده",
+      "note": "Same132 pool/order; E01 reused, B01 mapping persisted; no new session/answer/mastery. Perfekt deferred separately."
     }
   ],
   "exercise_results": [
@@ -91846,13 +94084,9 @@
             "dimension": "perfekt_form_recall"
           }
         ],
-        "presentation_mode": "one_at_a_time",
+        "presentation_mode": "all_at_once_shuffled",
         "current_index": 0,
-        "current_item": {
-          "verb_id": 172,
-          "dimension": "infinitive_recall",
-          "exercise_id": "2026-10-20-S03-E01"
-        },
+        "current_item": null,
         "tested_ids": [],
         "remaining_ids": [
           172,
@@ -93466,7 +95700,944 @@
         },
         "selection_rationale": "Full177 verbs and186 vocabulary audited. Entire-history non-secure contextual statuses plus unresolved isolated recall/new items; correct isolated labels retained. Prioritize unresolved/new first, rotate older range thereafter. Infinitive first, then applicable full auxiliary+participle forms. Prior activities/coverage preserved separately. Current learner selected verbs-only option after one-at-a-time offer; old all-at-once activity remains preserved.",
         "prior_paused_session_id": "2026-10-20-S02",
-        "continuation": "2026-10-20-S03-E01"
+        "continuation": "Await numbered answers to B01 (132 infinitives). Perfekt remains a separate untested pass.",
+        "current_batch_id": "2026-10-20-S03-B01",
+        "batches": [
+          {
+            "id": "2026-10-20-S03-B01",
+            "issued_at": "2026-10-20T23:40:06+02:00",
+            "status": "pending",
+            "requested_form": "infinitive",
+            "items": [
+              {
+                "index": 1,
+                "verb_id": 172,
+                "exercise_id": "2026-10-20-S03-E01",
+                "prompt_ar": "يخبز / يسوّي في الفرن",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 2,
+                "verb_id": 35,
+                "exercise_id": "2026-10-20-S03-E02",
+                "prompt_ar": "يُسمح له",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 3,
+                "verb_id": 84,
+                "exercise_id": "2026-10-20-S03-E03",
+                "prompt_ar": "يحجز فندق/تذكرة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 4,
+                "verb_id": 177,
+                "exercise_id": "2026-10-20-S03-E04",
+                "prompt_ar": "يقدّم الأكل أو الشرب",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 5,
+                "verb_id": 168,
+                "exercise_id": "2026-10-20-S03-E05",
+                "prompt_ar": "يقطّع / يقص",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 6,
+                "verb_id": 175,
+                "exercise_id": "2026-10-20-S03-E06",
+                "prompt_ar": "يكون طعمه / يعجب حد طعمه",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 7,
+                "verb_id": 151,
+                "exercise_id": "2026-10-20-S03-E07",
+                "prompt_ar": "يوافق على رأي أو اقتراح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 8,
+                "verb_id": 147,
+                "exercise_id": "2026-10-20-S03-E08",
+                "prompt_ar": "يزيل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 9,
+                "verb_id": 36,
+                "exercise_id": "2026-10-20-S03-E09",
+                "prompt_ar": "يأخذ",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 10,
+                "verb_id": 91,
+                "exercise_id": "2026-10-20-S03-E10",
+                "prompt_ar": "يصل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 11,
+                "verb_id": 173,
+                "exercise_id": "2026-10-20-S03-E11",
+                "prompt_ar": "يقلي / يحمّر / يشوي حسب السياق",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 12,
+                "verb_id": 37,
+                "exercise_id": "2026-10-20-S03-E12",
+                "prompt_ar": "يجلب / يحضر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 13,
+                "verb_id": 176,
+                "exercise_id": "2026-10-20-S03-E13",
+                "prompt_ar": "يشم / تكون ريحته",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 14,
+                "verb_id": 174,
+                "exercise_id": "2026-10-20-S03-E14",
+                "prompt_ar": "يجرّب / يدوق",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 15,
+                "verb_id": 169,
+                "exercise_id": "2026-10-20-S03-E15",
+                "prompt_ar": "يقشّر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 16,
+                "verb_id": 38,
+                "exercise_id": "2026-10-20-S03-E16",
+                "prompt_ar": "يذهب ليحضر شيئًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 17,
+                "verb_id": 83,
+                "exercise_id": "2026-10-20-S03-E17",
+                "prompt_ar": "يغيّر / يبدّل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 18,
+                "verb_id": 144,
+                "exercise_id": "2026-10-20-S03-E18",
+                "prompt_ar": "يعيد توجيه",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 19,
+                "verb_id": 170,
+                "exercise_id": "2026-10-20-S03-E19",
+                "prompt_ar": "يخلط",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 20,
+                "verb_id": 171,
+                "exercise_id": "2026-10-20-S03-E20",
+                "prompt_ar": "يقلّب / يحرّك خليط",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 21,
+                "verb_id": 49,
+                "exercise_id": "2026-10-20-S03-E21",
+                "prompt_ar": "يكون جالسًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 22,
+                "verb_id": 106,
+                "exercise_id": "2026-10-20-S03-E22",
+                "prompt_ar": "يجهز / يحضّر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 23,
+                "verb_id": 54,
+                "exercise_id": "2026-10-20-S03-E23",
+                "prompt_ar": "يُجلس / يضع في وضع الجلوس",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 24,
+                "verb_id": 135,
+                "exercise_id": "2026-10-20-S03-E24",
+                "prompt_ar": "يوصّل / يربط",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 25,
+                "verb_id": 103,
+                "exercise_id": "2026-10-20-S03-E25",
+                "prompt_ar": "ينسى",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 26,
+                "verb_id": 97,
+                "exercise_id": "2026-10-20-S03-E26",
+                "prompt_ar": "يأخذ معه",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 27,
+                "verb_id": 57,
+                "exercise_id": "2026-10-20-S03-E27",
+                "prompt_ar": "يبدأ",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 28,
+                "verb_id": 111,
+                "exercise_id": "2026-10-20-S03-E28",
+                "prompt_ar": "يقدّم طلب رسمي على حاجة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 29,
+                "verb_id": 66,
+                "exercise_id": "2026-10-20-S03-E29",
+                "prompt_ar": "يغسل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 30,
+                "verb_id": 60,
+                "exercise_id": "2026-10-20-S03-E30",
+                "prompt_ar": "يقابل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 31,
+                "verb_id": 129,
+                "exercise_id": "2026-10-20-S03-E31",
+                "prompt_ar": "يحفظ ملف أو بيانات",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 32,
+                "verb_id": 150,
+                "exercise_id": "2026-10-20-S03-E32",
+                "prompt_ar": "يرفض",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 33,
+                "verb_id": 86,
+                "exercise_id": "2026-10-20-S03-E33",
+                "prompt_ar": "يستلم / يروح يجيب",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 34,
+                "verb_id": 98,
+                "exercise_id": "2026-10-20-S03-E34",
+                "prompt_ar": "يسلّم / يقدّم شيئًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 35,
+                "verb_id": 70,
+                "exercise_id": "2026-10-20-S03-E35",
+                "prompt_ar": "يسافر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 36,
+                "verb_id": 143,
+                "exercise_id": "2026-10-20-S03-E36",
+                "prompt_ar": "يحدّث",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 37,
+                "verb_id": 79,
+                "exercise_id": "2026-10-20-S03-E37",
+                "prompt_ar": "يملأ استمارة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 38,
+                "verb_id": 124,
+                "exercise_id": "2026-10-20-S03-E38",
+                "prompt_ar": "يفرّغ أمتعة / يفك غلاف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 39,
+                "verb_id": 161,
+                "exercise_id": "2026-10-20-S03-E39",
+                "prompt_ar": "يحتفظ بحاجة ويحافظ عليها لوقت لاحق",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 40,
+                "verb_id": 81,
+                "exercise_id": "2026-10-20-S03-E40",
+                "prompt_ar": "يفقد / يضيّع",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 41,
+                "verb_id": 132,
+                "exercise_id": "2026-10-20-S03-E41",
+                "prompt_ar": "يثبّت برنامج",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 42,
+                "verb_id": 155,
+                "exercise_id": "2026-10-20-S03-E42",
+                "prompt_ar": "يشتكي",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 43,
+                "verb_id": 65,
+                "exercise_id": "2026-10-20-S03-E43",
+                "prompt_ar": "يحمل / يرتدي",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 44,
+                "verb_id": 117,
+                "exercise_id": "2026-10-20-S03-E44",
+                "prompt_ar": "يفوّت قطارًا أو موعدًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 45,
+                "verb_id": 100,
+                "exercise_id": "2026-10-20-S03-E45",
+                "prompt_ar": "يطفئ / يغلق جهازًا أو النور",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 46,
+                "verb_id": 80,
+                "exercise_id": "2026-10-20-S03-E46",
+                "prompt_ar": "يوقّع",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 47,
+                "verb_id": 102,
+                "exercise_id": "2026-10-20-S03-E47",
+                "prompt_ar": "يشرح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 48,
+                "verb_id": 85,
+                "exercise_id": "2026-10-20-S03-E48",
+                "prompt_ar": "يحجز مكان/ترابيزة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 49,
+                "verb_id": 104,
+                "exercise_id": "2026-10-20-S03-E49",
+                "prompt_ar": "ينصح / يوصي",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 50,
+                "verb_id": 67,
+                "exercise_id": "2026-10-20-S03-E50",
+                "prompt_ar": "ينظف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 51,
+                "verb_id": 95,
+                "exercise_id": "2026-10-20-S03-E51",
+                "prompt_ar": "يدعو",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 52,
+                "verb_id": 58,
+                "exercise_id": "2026-10-20-S03-E52",
+                "prompt_ar": "يتوقف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 53,
+                "verb_id": 71,
+                "exercise_id": "2026-10-20-S03-E53",
+                "prompt_ar": "يرتب / يلم المكان",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 54,
+                "verb_id": 160,
+                "exercise_id": "2026-10-20-S03-E54",
+                "prompt_ar": "يرجّع حاجة بالبريد أو بإرسالها",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 55,
+                "verb_id": 146,
+                "exercise_id": "2026-10-20-S03-E55",
+                "prompt_ar": "يضيف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 56,
+                "verb_id": 90,
+                "exercise_id": "2026-10-20-S03-E56",
+                "prompt_ar": "يلغي موعدًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 57,
+                "verb_id": 89,
+                "exercise_id": "2026-10-20-S03-E57",
+                "prompt_ar": "يحدد / يتفق على موعد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 58,
+                "verb_id": 123,
+                "exercise_id": "2026-10-20-S03-E58",
+                "prompt_ar": "يحزم / يوضّب أمتعة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 59,
+                "verb_id": 64,
+                "exercise_id": "2026-10-20-S03-E59",
+                "prompt_ar": "يرسل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 60,
+                "verb_id": 87,
+                "exercise_id": "2026-10-20-S03-E60",
+                "prompt_ar": "يرجّع / يعيد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 61,
+                "verb_id": 72,
+                "exercise_id": "2026-10-20-S03-E61",
+                "prompt_ar": "يستحم",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 62,
+                "verb_id": 141,
+                "exercise_id": "2026-10-20-S03-E62",
+                "prompt_ar": "ينشئ",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 63,
+                "verb_id": 82,
+                "exercise_id": "2026-10-20-S03-E63",
+                "prompt_ar": "يستخدم",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 64,
+                "verb_id": 121,
+                "exercise_id": "2026-10-20-S03-E64",
+                "prompt_ar": "يكسب فلوس / يستحق",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 65,
+                "verb_id": 52,
+                "exercise_id": "2026-10-20-S03-E65",
+                "prompt_ar": "يضع شيئًا أفقيًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 66,
+                "verb_id": 78,
+                "exercise_id": "2026-10-20-S03-E66",
+                "prompt_ar": "يسجّل / يشترك",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 67,
+                "verb_id": 75,
+                "exercise_id": "2026-10-20-S03-E67",
+                "prompt_ar": "يتسوق / يشتري احتياجات",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 68,
+                "verb_id": 130,
+                "exercise_id": "2026-10-20-S03-E68",
+                "prompt_ar": "يطبع",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 69,
+                "verb_id": 153,
+                "exercise_id": "2026-10-20-S03-E69",
+                "prompt_ar": "يقترح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 70,
+                "verb_id": 53,
+                "exercise_id": "2026-10-20-S03-E70",
+                "prompt_ar": "يضع شيئًا قائمًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 71,
+                "verb_id": 93,
+                "exercise_id": "2026-10-20-S03-E71",
+                "prompt_ar": "ينزل من وسيلة مواصلات",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 72,
+                "verb_id": 116,
+                "exercise_id": "2026-10-20-S03-E72",
+                "prompt_ar": "تنتهي مدة صلاحية / ينتهي موعد أو عقد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 73,
+                "verb_id": 94,
+                "exercise_id": "2026-10-20-S03-E73",
+                "prompt_ar": "يغيّر / يبدّل وسيلة مواصلات",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 74,
+                "verb_id": 166,
+                "exercise_id": "2026-10-20-S03-E74",
+                "prompt_ar": "يراجع / يدوّر على معلومة عشان يتأكد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 75,
+                "verb_id": 138,
+                "exercise_id": "2026-10-20-S03-E75",
+                "prompt_ar": "ينسخ",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 76,
+                "verb_id": 128,
+                "exercise_id": "2026-10-20-S03-E76",
+                "prompt_ar": "يراجع / يفحص",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 77,
+                "verb_id": 162,
+                "exercise_id": "2026-10-20-S03-E77",
+                "prompt_ar": "يتلقى / يستلم",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 78,
+                "verb_id": 113,
+                "exercise_id": "2026-10-20-S03-E78",
+                "prompt_ar": "يلغي عقد / يستقيل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 79,
+                "verb_id": 119,
+                "exercise_id": "2026-10-20-S03-E79",
+                "prompt_ar": "يحوّل فلوس بنكياً",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 80,
+                "verb_id": 61,
+                "exercise_id": "2026-10-20-S03-E80",
+                "prompt_ar": "يقول",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 81,
+                "verb_id": 140,
+                "exercise_id": "2026-10-20-S03-E81",
+                "prompt_ar": "يعدّل / يشتغل على ملف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 82,
+                "verb_id": 107,
+                "exercise_id": "2026-10-20-S03-E82",
+                "prompt_ar": "يقرر اختيار / يختار",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 83,
+                "verb_id": 59,
+                "exercise_id": "2026-10-20-S03-E83",
+                "prompt_ar": "ينتظر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 84,
+                "verb_id": 73,
+                "exercise_id": "2026-10-20-S03-E84",
+                "prompt_ar": "يرتدي / يلبس",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 85,
+                "verb_id": 55,
+                "exercise_id": "2026-10-20-S03-E85",
+                "prompt_ar": "يفتح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 86,
+                "verb_id": 154,
+                "exercise_id": "2026-10-20-S03-E86",
+                "prompt_ar": "يناقش موضوع",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 87,
+                "verb_id": 133,
+                "exercise_id": "2026-10-20-S03-E87",
+                "prompt_ar": "ينزّل ملف من الإنترنت",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 88,
+                "verb_id": 63,
+                "exercise_id": "2026-10-20-S03-E88",
+                "prompt_ar": "يتصل هاتفيًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 89,
+                "verb_id": 115,
+                "exercise_id": "2026-10-20-S03-E89",
+                "prompt_ar": "ينجز / يخلّص مهمة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 90,
+                "verb_id": 99,
+                "exercise_id": "2026-10-20-S03-E90",
+                "prompt_ar": "يشغّل جهازًا / النور",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 91,
+                "verb_id": 165,
+                "exercise_id": "2026-10-20-S03-E91",
+                "prompt_ar": "يستفسر / يسأل للتوضيح أو المتابعة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 92,
+                "verb_id": 139,
+                "exercise_id": "2026-10-20-S03-E92",
+                "prompt_ar": "يلصق / يدرج",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 93,
+                "verb_id": 126,
+                "exercise_id": "2026-10-20-S03-E93",
+                "prompt_ar": "يوعد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 94,
+                "verb_id": 120,
+                "exercise_id": "2026-10-20-S03-E94",
+                "prompt_ar": "ينفق / يصرف فلوس",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 95,
+                "verb_id": 127,
+                "exercise_id": "2026-10-20-S03-E95",
+                "prompt_ar": "يسمح بـ / يصرّح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 96,
+                "verb_id": 77,
+                "exercise_id": "2026-10-20-S03-E96",
+                "prompt_ar": "ينتقل إلى سكن جديد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 97,
+                "verb_id": 158,
+                "exercise_id": "2026-10-20-S03-E97",
+                "prompt_ar": "يسلّف حاجة / يستعير حسب التركيب",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 98,
+                "verb_id": 62,
+                "exercise_id": "2026-10-20-S03-E98",
+                "prompt_ar": "يحكي / يروي",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 99,
+                "verb_id": 156,
+                "exercise_id": "2026-10-20-S03-E99",
+                "prompt_ar": "يعتذر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 100,
+                "verb_id": 110,
+                "exercise_id": "2026-10-20-S03-E100",
+                "prompt_ar": "يتذكر / يفتكر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 101,
+                "verb_id": 96,
+                "exercise_id": "2026-10-20-S03-E101",
+                "prompt_ar": "يشارك / يحضر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 102,
+                "verb_id": 134,
+                "exercise_id": "2026-10-20-S03-E102",
+                "prompt_ar": "يرفع ملف على الإنترنت",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 103,
+                "verb_id": 74,
+                "exercise_id": "2026-10-20-S03-E103",
+                "prompt_ar": "يخلع / ينتقل من السكن",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 104,
+                "verb_id": 157,
+                "exercise_id": "2026-10-20-S03-E104",
+                "prompt_ar": "يحل مشكلة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 105,
+                "verb_id": 163,
+                "exercise_id": "2026-10-20-S03-E105",
+                "prompt_ar": "يؤكد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 106,
+                "verb_id": 159,
+                "exercise_id": "2026-10-20-S03-E106",
+                "prompt_ar": "يرجّع حاجة بأنه يوصلها",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 107,
+                "verb_id": 125,
+                "exercise_id": "2026-10-20-S03-E107",
+                "prompt_ar": "يحسّن / يطوّر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 108,
+                "verb_id": 109,
+                "exercise_id": "2026-10-20-S03-E108",
+                "prompt_ar": "يتمنى / يأمل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 109,
+                "verb_id": 152,
+                "exercise_id": "2026-10-20-S03-E109",
+                "prompt_ar": "يعترض على كلام حد / يخالف رأيه",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 110,
+                "verb_id": 136,
+                "exercise_id": "2026-10-20-S03-E110",
+                "prompt_ar": "يفصل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 111,
+                "verb_id": 108,
+                "exercise_id": "2026-10-20-S03-E111",
+                "prompt_ar": "يلغي حجزًا / طلبًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 112,
+                "verb_id": 69,
+                "exercise_id": "2026-10-20-S03-E112",
+                "prompt_ar": "يلعب",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 113,
+                "verb_id": 145,
+                "exercise_id": "2026-10-20-S03-E113",
+                "prompt_ar": "ينقل / يؤجل",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 114,
+                "verb_id": 148,
+                "exercise_id": "2026-10-20-S03-E114",
+                "prompt_ar": "يعرض / يقدّم",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 115,
+                "verb_id": 92,
+                "exercise_id": "2026-10-20-S03-E115",
+                "prompt_ar": "يركب / يصعد وسيلة مواصلات",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 116,
+                "verb_id": 112,
+                "exercise_id": "2026-10-20-S03-E116",
+                "prompt_ar": "يمدّد / يجدّد مدة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 117,
+                "verb_id": 149,
+                "exercise_id": "2026-10-20-S03-E117",
+                "prompt_ar": "يقبل عرض أو اقتراح",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 118,
+                "verb_id": 56,
+                "exercise_id": "2026-10-20-S03-E118",
+                "prompt_ar": "يغلق",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 119,
+                "verb_id": 131,
+                "exercise_id": "2026-10-20-S03-E119",
+                "prompt_ar": "يمسح / يحذف",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 120,
+                "verb_id": 164,
+                "exercise_id": "2026-10-20-S03-E120",
+                "prompt_ar": "يبلّغ / يخطر حد",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 121,
+                "verb_id": 88,
+                "exercise_id": "2026-10-20-S03-E121",
+                "prompt_ar": "يحضر معه",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 122,
+                "verb_id": 114,
+                "exercise_id": "2026-10-20-S03-E122",
+                "prompt_ar": "يستبدل حاجة اشتراها",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 123,
+                "verb_id": 167,
+                "exercise_id": "2026-10-20-S03-E123",
+                "prompt_ar": "يهتم بـ / يتولّى مسؤولية حاجة",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 124,
+                "verb_id": 105,
+                "exercise_id": "2026-10-20-S03-E124",
+                "prompt_ar": "يلحق / يصل إلى",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 125,
+                "verb_id": 51,
+                "exercise_id": "2026-10-20-S03-E125",
+                "prompt_ar": "يكون موضوعًا / مستلقيًا",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 126,
+                "verb_id": 137,
+                "exercise_id": "2026-10-20-S03-E126",
+                "prompt_ar": "يقارن",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 127,
+                "verb_id": 68,
+                "exercise_id": "2026-10-20-S03-E127",
+                "prompt_ar": "يمشي / يجري",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 128,
+                "verb_id": 122,
+                "exercise_id": "2026-10-20-S03-E128",
+                "prompt_ar": "يوفّر / يحوش فلوس",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 129,
+                "verb_id": 76,
+                "exercise_id": "2026-10-20-S03-E129",
+                "prompt_ar": "يستأجر",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 130,
+                "verb_id": 101,
+                "exercise_id": "2026-10-20-S03-E130",
+                "prompt_ar": "يزور",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 131,
+                "verb_id": 142,
+                "exercise_id": "2026-10-20-S03-E131",
+                "prompt_ar": "يختار",
+                "requested_form": "infinitive"
+              },
+              {
+                "index": 132,
+                "verb_id": 118,
+                "exercise_id": "2026-10-20-S03-E132",
+                "prompt_ar": "يصلّح",
+                "requested_form": "infinitive"
+              }
+            ],
+            "learner_answer": null,
+            "model_shown": false
+          }
+        ]
       }
     ]
   },
