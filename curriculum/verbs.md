@@ -180,7 +180,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 170 | mischen | يخلط | ich mische; er mischt | hat gemischt | Ich mische die Milch mit dem Kaffee. | introduced | + Akk; etwas mit etwas(Dat) mischen |
 | 171 | rühren | يقلّب / يحرّك خليط | ich rühre; er rührt | hat gerührt | Ich rühre die Suppe. | practicing | + Akk; also in etwas(Dat) rühren; not separable |
 | 172 | backen | يخبز / يسوّي في الفرن | ich backe; du backst/bäckst; er backt/bäckt | hat gebacken | Ich backe heute. | introduced | Both present variants valid; usual cooking participle gebacken; + Akk optional |
-| 173 | braten | يقلي / يحمّر / يشوي حسب السياق | ich brate; du brätst; er brät | hat gebraten | Ich brate die Zwiebel. | introduced | + Akk in cooking; strong participle gebraten; cooking in pan/oven, not only deep frying |
+| 173 | braten | يقلي / يحمّر / يشوي حسب السياق | ich brate; du brätst; er brät | hat gebraten | Ich brate die Zwiebel. | practicing | + Akk in cooking; strong participle gebraten; cooking in pan/oven, not only deep frying |
 | 174 | probieren | يجرّب / يدوق | ich probiere; er probiert | hat probiert | Ich probiere die Suppe. | practicing | + Akk; -ieren has no ge-; tasting or trying |
 | 175 | schmecken | يكون طعمه / يعجب حد طعمه | ich schmecke; er schmeckt | hat geschmeckt | Die Suppe schmeckt mir gut. | introduced | Food is subject in this construction; person Dat; contrasts with tasting probieren; transitive tasting sense exists |
 | 176 | riechen | يشم / تكون ريحته | ich rieche; er riecht | hat gerochen | Die Suppe riecht gut. | introduced | Subject can emit smell; smelling something takes Akk; nach+Dat describes smell resemblance |

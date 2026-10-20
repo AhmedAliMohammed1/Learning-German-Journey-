@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T13:28:25+02:00",
+  "last_updated_at": "2026-10-20T13:33:19+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-20-S02",
   "sessions_recorded": 47,
-  "last_verified_study_at": "2026-10-20T13:28:25+02:00",
+  "last_verified_study_at": "2026-10-20T13:33:19+02:00",
   "active_topic": "new_verbs_168_177",
-  "next_action": "Await 2026-10-20-S02-E04 (Perfekt): أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.",
+  "next_action": "Await 2026-10-20-S02-E05 (Präsens): أنا بخلط اللبن بالقهوة، والقهوة طعمها عاجب أخويا. First clause already shown as teaching example; mark support separately.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11544,11 +11544,38 @@
         "V186",
         "V005"
       ],
+      "status": "completed",
+      "learner_answer": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "hat gebraten / hat serviert, die Zwiebel -> sie, seiner Schwester, danach V2. New173 plus177 contextual repair in explicitly requested Perfekt; no full model.",
+      "learner_answer_raw": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+      "correction": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert.",
+      "result": "independent_correct",
+      "completed_at": "2026-10-20T13:33:19+02:00"
+    },
+    {
+      "id": "2026-10-20-S02-E05",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "activity": "new_verbs_sentence_translation",
+      "prompt_ar": "أنا بخلط اللبن بالقهوة، والقهوة طعمها عاجب أخويا.",
+      "tense": "Präsens",
+      "verb_ids": [
+        170,
+        175
+      ],
+      "vocabulary_ids": [
+        "V047",
+        "V101",
+        "V004"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "hat gebraten / hat serviert, die Zwiebel -> sie, seiner Schwester, danach V2. New173 plus177 contextual repair in explicitly requested Perfekt; no full model."
+      "target": "mische die Milch mit dem Kaffee, coffee subject schmeckt meinem Bruder gut. New170/175 with mit+Dativ and experiencer Dativ, und order. First clause shares earlier teaching example; note partial prior-model support; changed schmecken context fresh.",
+      "support_note": "Initial teaching example Ich mische die Milch mit dem Kaffee exactly matches first clause; assess that clause as supported, not independent transfer."
     }
   ],
   "completed_exercise_ids": [
@@ -12507,7 +12534,8 @@
     "2026-10-20-S01-E01",
     "2026-10-20-S02-E01",
     "2026-10-20-S02-E02",
-    "2026-10-20-S02-E03"
+    "2026-10-20-S02-E03",
+    "2026-10-20-S02-E04"
   ],
   "verbs": {
     "learned_total": 177,
@@ -25155,11 +25183,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich brate; du brätst; er brät",
         "perfekt_reference": "hat gebraten",
@@ -25174,8 +25202,12 @@
             "evidence_ids": []
           },
           "Perfekt": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E04"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "independent_correct_form_and_context"
           }
         },
         "evidence": [
@@ -25185,6 +25217,17 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:33:19+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E04",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct complete Perfekt context, object and recipient. No mastery."
           }
         ]
       },
@@ -25345,8 +25388,8 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 1,
-        "independent_correct": 0,
+        "recorded_attempts": 2,
+        "independent_correct": 1,
         "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich serviere; er serviert",
@@ -25368,10 +25411,11 @@
           "Perfekt": {
             "status": "practicing",
             "evidence_ids": [
-              "2026-10-20-S02-E02"
+              "2026-10-20-S02-E02",
+              "2026-10-20-S02-E04"
             ],
             "last_assessed_on": "2026-10-20",
-            "latest_result": "form_correct_unrequested_tense"
+            "latest_result": "independent_correct_form_and_context"
           }
         },
         "evidence": [
@@ -25392,6 +25436,17 @@
             "independent": true,
             "correct": false,
             "note": "Correct hat...serviert form, wrong requested tense and omitted object sie; Dativ correct."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:33:19+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E04",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "Correct complete Perfekt context, object and recipient. No mastery."
           }
         ]
       }
@@ -30457,8 +30512,8 @@
         "introduced_on": "2026-10-20",
         "last_reviewed": "2026-10-20",
         "source": "2026-10-20-S02-A01",
-        "recorded_attempts": 1,
-        "independent_correct": 1,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
         "usage_example": "Ich kaufe eine Zwiebel.",
         "evidence": [
           {
@@ -30477,6 +30532,16 @@
             "article_correct": true,
             "plural_assessed": false,
             "note": "Correct die Zwiebel and feminine object sie in first application."
+          },
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-20-S02-E04",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "lexical_correct": true,
+            "article_correct": true,
+            "plural_assessed": false,
+            "note": "Fresh die Zwiebel and sie reuse."
           }
         ]
       }
@@ -30709,8 +30774,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 6,
-      "independent_correct": 11,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 12,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01",
@@ -30870,6 +30935,15 @@
           "independent": true,
           "correct": true,
           "note": "seiner Schwester correct feminine Dativ and intended possession."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:33:19+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Correct seiner Schwester Dativ, sie for Zwiebel, danach V2 and er subject. Prior statuses retained."
         }
       ]
     },
@@ -31023,8 +31097,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 6,
-      "independent_correct": 11,
-      "independent_correct_since_last_error": 1,
+      "independent_correct": 12,
+      "independent_correct_since_last_error": 2,
       "successful_session_ids": [
         "2026-10-09-S02",
         "2026-10-18-S01",
@@ -31180,6 +31254,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:33:19+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Correct seiner Schwester Dativ, sie for Zwiebel, danach V2 and er subject. Prior statuses retained."
         }
       ]
     },
@@ -32166,8 +32249,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 21,
-      "independent_correct_since_last_error": 14,
+      "independent_correct": 22,
+      "independent_correct_since_last_error": 15,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
@@ -32350,6 +32433,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:33:19+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Correct seiner Schwester Dativ, sie for Zwiebel, danach V2 and er subject. Prior statuses retained."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -32741,8 +32833,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 16,
-      "independent_correct_since_last_error": 8,
+      "independent_correct": 17,
+      "independent_correct_since_last_error": 9,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01",
@@ -32930,6 +33022,15 @@
           "independent": true,
           "correct": true,
           "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:33:19+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E04",
+          "independent": true,
+          "correct": true,
+          "note": "Correct seiner Schwester Dativ, sie for Zwiebel, danach V2 and er subject. Prior statuses retained."
         }
       ]
     }
@@ -33029,8 +33130,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "E03 grammar/meaning correct, propiert spelling repair; E04 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S02-E04",
+  "latest_study_state": "E04 fully correct; E05 pending with first-clause prior-model support.",
+  "next_suggested_action": "Answer 2026-10-20-S02-E05",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34447,6 +34548,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-20-S02-E03",
       "note": "Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:33:19+02:00",
+      "session_id": "2026-10-20-S02",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-20-S02-E04",
+      "note": "Fully independent correct: hat gebraten, hat serviert in requested Perfekt, die Zwiebel, object sie referring to Zwiebel, seiner Schwester Dativ, danach V2/intended er and gestern. First173 application and fresh177 complete contextual transfer after E02 omission; not delayed retention/global mastery. No full model/hint/audio."
     }
   ],
   "exercise_results": [
@@ -54822,6 +54931,24 @@
         "object_pronoun": "independent_correct",
         "tense_and_word_order": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-20-S02-E04",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:33:19+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.",
+      "learner_answer": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+      "learner_answer_raw": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+      "correction": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Fully independent correct: hat gebraten, hat serviert in requested Perfekt, die Zwiebel, object sie referring to Zwiebel, seiner Schwester Dativ, danach V2/intended er and gestern. First173 application and fresh177 complete contextual transfer after E02 omission; not delayed retention/global mastery. No full model/hint/audio."
     }
   ],
   "skill_tracking": {
@@ -56255,10 +56382,11 @@
       "due_on": "2026-10-21",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "E03_probieren_meaning_present_and_object_correct_spelling_propiert_needs_b_servieren_still_pending",
+      "last_result": "E04_servieren_Perfekt_object_Dativ_correct_present_still_unassessed_probieren_spelling_pending",
       "evidence_ids": [
         "2026-10-20-S02-E02",
-        "2026-10-20-S02-E03"
+        "2026-10-20-S02-E03",
+        "2026-10-20-S02-E04"
       ]
     },
     {
@@ -56273,6 +56401,20 @@
       "last_result": "independent_correct_first_application",
       "evidence_ids": [
         "2026-10-20-S02-E03"
+      ]
+    },
+    {
+      "id": "2026-10-20-braten-servieren-perfekt",
+      "target_key": "braten_servieren_perfekt_recipient_object",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-20-S02-A01",
+      "target": "Fresh gebraten/serviert with explicit object and Dativ recipient; later retention.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct",
+      "evidence_ids": [
+        "2026-10-20-S02-E04"
       ]
     }
   ],
@@ -92321,12 +92463,12 @@
           169,
           174,
           177,
-          171
+          171,
+          173
         ],
         "remaining_ids": [
           170,
           172,
-          173,
           175,
           176
         ],
@@ -92400,9 +92542,27 @@
               "object_pronoun": "independent_correct",
               "tense_and_word_order": "independent_correct"
             }
+          },
+          {
+            "exercise_id": "2026-10-20-S02-E04",
+            "session_id": "2026-10-20-S02",
+            "activity_id": "2026-10-20-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:33:19+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.",
+            "learner_answer": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+            "learner_answer_raw": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert ",
+            "correction": "Mein Bruder hat gestern die Zwiebel gebraten, danach hat er sie seiner Schwester serviert.",
+            "result": "independent_correct",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Fully independent correct: hat gebraten, hat serviert in requested Perfekt, die Zwiebel, object sie referring to Zwiebel, seiner Schwester Dativ, danach V2/intended er and gestern. First173 application and fresh177 complete contextual transfer after E02 omission; not delayed retention/global mastery. No full model/hint/audio."
           }
         ],
-        "current_exercise_id": "2026-10-20-S02-E04",
+        "current_exercise_id": "2026-10-20-S02-E05",
         "new_vocabulary_ids": [
           "V186"
         ],
