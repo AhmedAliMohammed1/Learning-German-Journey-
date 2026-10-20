@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-20 paused / main menu
+## LIVE handoff —2026-10-20 new verbs168–177
+
+DayOPEN active2026-10-20-S02/activity2026-10-20-S02-A01. Explicit menu4→2. New verbs168schneiden,169schälen,170mischen,171rühren,172backen,173braten,174probieren,175schmecken,176riechen,177servieren; present/Perfekt/examples/usage taught, zero attempts. NewV186die Zwiebel/die Zwiebeln. Counts177/186/47,2sessions today. Full previous inventories/history checked. Exact pending2026-10-20-S02-E01 Perfekt «أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.». No answer/full sentence model. PriorS01/ohneE02 and all old queues/recall coverage retained paused; no forced review before new material. Read JSON/day.
+
+## Historical handoff —2026-10-20 paused / main menu
 
 Day OPEN, no active session; paused2026-10-20-S01/activity2026-10-19-S02-A01 on explicit save-everything/main-menu request. Show nine choices, no automatic exercise. Exact pending2026-10-20-S01-E02: «أنا ببعت الرسالة من غير ما أضيف المرفق.» (Präsens, ohne...zu), no answer/model.167 verbs/185 vocabulary/46 sessions,1today. New ohne grammar3 attempts:1 independent structure success,1 supported success,0 fully correct translations; ohne dass untested. Latest auszuschalten correct with near-model support; die Licht→das Licht. Previous zu mitnehmen→mitzunehmen, das Ladekabel; läuft accepted walking variant. RetestsOct21; all old prompts/12 recall retries/122 Perfekt forms preserved. Read live JSON/day; old days not closed. Prior dashboard archived.
 

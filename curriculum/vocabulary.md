@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**185 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**186 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -191,6 +191,7 @@
 | V183 | der Kundendienst | die Kundendienste (أقسام/جهات؛ الخدمة نفسها غالبًا مفرد) | خدمة العملاء / قسم خدمة العملاء | noun | practicing |
 | V184 | das Ladekabel | die Ladekabel | كابل الشحن | noun | practicing |
 | V185 | ohne | — | من غير / بدون | preposition_connector | practicing |
+| V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | introduced |
 
 ## Learning notes
 

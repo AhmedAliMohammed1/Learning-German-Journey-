@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T12:39:56+02:00",
+  "last_updated_at": "2026-10-20T12:55:26+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-20",
   "latest_day": "2026-10-20",
   "day_status": "open",
-  "current_session_id": null,
-  "sessions_recorded": 46,
+  "current_session_id": "2026-10-20-S02",
+  "sessions_recorded": 47,
   "last_verified_study_at": "2026-10-20T12:38:36+02:00",
-  "active_topic": "ohne_zu_ohne_dass",
-  "next_action": "Show nine-choice main menu; no automatic exercise. On explicit continuation resume 2026-10-20-S01-E02: أنا ببعت الرسالة من غير ما أضيف المرفق.",
+  "active_topic": "new_verbs_168_177",
+  "next_action": "Await 2026-10-20-S02-E01 (Perfekt): أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11449,6 +11449,29 @@
       "hint_used": false,
       "model_shown": false,
       "target": "Fresh separable infinitive hinzufügen -> hinzuzufügen, den Anhang Akk, die Nachricht, same subject ohne. Prior rule known; no model for this sentence."
+    },
+    {
+      "id": "2026-10-20-S02-E01",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "activity": "new_verbs_sentence_translation",
+      "prompt_ar": "أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.",
+      "tense": "Perfekt",
+      "verb_ids": [
+        169,
+        168
+      ],
+      "vocabulary_ids": [
+        "V005",
+        "V186",
+        "V134",
+        "V149"
+      ],
+      "status": "pending",
+      "learner_answer": null,
+      "hint_used": false,
+      "model_shown": false,
+      "target": "hat geschält / hat geschnitten, die Zwiebel then Akk sie, danach V2 female subject. Present examples and Perfekt reference forms just taught; no full exercise model. First application, not delayed retention."
     }
   ],
   "completed_exercise_ids": [
@@ -12407,7 +12430,7 @@
     "2026-10-20-S01-E01"
   ],
   "verbs": {
-    "learned_total": 167,
+    "learned_total": 177,
     "mastered_total": null,
     "counting_policy": "Open-ended learned-verb inventory. No final target. Every newly introduced verb is appended to this same inventory and increments learned_total.",
     "items": [
@@ -24798,6 +24821,406 @@
             "note": "Correct next-day form/context transfer; gester spelling separate. No broad mastery."
           }
         ]
+      },
+      {
+        "id": 168,
+        "infinitive": "schneiden",
+        "meaning_ar": "يقطّع / يقص",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich schneide; du schneidest; er schneidet",
+        "perfekt_reference": "hat geschnitten",
+        "usage_note": "+ Akk; strong participle geschnitten",
+        "example_reference": "Ich schneide die Zwiebel.",
+        "example_translation_ar": "أنا بقطّع البصلة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 169,
+        "infinitive": "schälen",
+        "meaning_ar": "يقشّر",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich schäle; er schält",
+        "perfekt_reference": "hat geschält",
+        "usage_note": "+ Akk; regular",
+        "example_reference": "Ich schäle den Apfel.",
+        "example_translation_ar": "أنا بقشّر التفاحة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 170,
+        "infinitive": "mischen",
+        "meaning_ar": "يخلط",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich mische; er mischt",
+        "perfekt_reference": "hat gemischt",
+        "usage_note": "+ Akk; etwas mit etwas(Dat) mischen",
+        "example_reference": "Ich mische die Milch mit dem Kaffee.",
+        "example_translation_ar": "أنا بخلط اللبن بالقهوة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "infinitive": "rühren",
+        "meaning_ar": "يقلّب / يحرّك خليط",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich rühre; er rührt",
+        "perfekt_reference": "hat gerührt",
+        "usage_note": "+ Akk; also in etwas(Dat) rühren; not separable",
+        "example_reference": "Ich rühre die Suppe.",
+        "example_translation_ar": "أنا بقلّب الشوربة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "infinitive": "backen",
+        "meaning_ar": "يخبز / يسوّي في الفرن",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich backe; du backst/bäckst; er backt/bäckt",
+        "perfekt_reference": "hat gebacken",
+        "usage_note": "Both present variants valid; usual cooking participle gebacken; + Akk optional",
+        "example_reference": "Ich backe heute.",
+        "example_translation_ar": "أنا بخبز النهارده.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "infinitive": "braten",
+        "meaning_ar": "يقلي / يحمّر / يشوي حسب السياق",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich brate; du brätst; er brät",
+        "perfekt_reference": "hat gebraten",
+        "usage_note": "+ Akk in cooking; strong participle gebraten; cooking in pan/oven, not only deep frying",
+        "example_reference": "Ich brate die Zwiebel.",
+        "example_translation_ar": "أنا بحمّر البصلة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "infinitive": "probieren",
+        "meaning_ar": "يجرّب / يدوق",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich probiere; er probiert",
+        "perfekt_reference": "hat probiert",
+        "usage_note": "+ Akk; -ieren has no ge-; tasting or trying",
+        "example_reference": "Ich probiere die Suppe.",
+        "example_translation_ar": "أنا بدوق الشوربة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "infinitive": "schmecken",
+        "meaning_ar": "يكون طعمه / يعجب حد طعمه",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich schmecke; er schmeckt",
+        "perfekt_reference": "hat geschmeckt",
+        "usage_note": "Food is subject in this construction; person Dat; contrasts with tasting probieren; transitive tasting sense exists",
+        "example_reference": "Die Suppe schmeckt mir gut.",
+        "example_translation_ar": "الشوربة طعمها عاجبني.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "infinitive": "riechen",
+        "meaning_ar": "يشم / تكون ريحته",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich rieche; er riecht",
+        "perfekt_reference": "hat gerochen",
+        "usage_note": "Subject can emit smell; smelling something takes Akk; nach+Dat describes smell resemblance",
+        "example_reference": "Die Suppe riecht gut.",
+        "example_translation_ar": "الشوربة ريحتها حلوة.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "infinitive": "servieren",
+        "meaning_ar": "يقدّم الأكل أو الشرب",
+        "introduced": true,
+        "introduction_date": "2026-10-20",
+        "identity_status": "new_inventory_verified",
+        "study_status": "introduced",
+        "mastery": "unknown",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "last_reviewed": null,
+        "historical_review_count": null,
+        "praesens_reference": "ich serviere; er serviert",
+        "perfekt_reference": "hat serviert",
+        "usage_note": "Dat person + Akk food; -ieren has no ge-",
+        "example_reference": "Ich serviere meinem Bruder die Suppe.",
+        "example_translation_ar": "أنا بقدّم الشوربة لأخويا.",
+        "reference_is_teaching_information": true,
+        "source": "2026-10-20-S02",
+        "tense_tracking": {
+          "Präsens": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          },
+          "Perfekt": {
+            "status": "not_assessed",
+            "evidence_ids": []
+          }
+        },
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_present_perfekt_reference_and_example",
+            "learner_attempt": false
+          }
+        ]
       }
     ],
     "reference_completeness": {
@@ -25815,7 +26238,7 @@
   "vocabulary": {
     "total_known": null,
     "historical_register_recovered": true,
-    "registered_entries_count": 185,
+    "registered_entries_count": 186,
     "registered_numbered_verb_entries": 0,
     "count_scope": "deduplicated historical vocabulary register including words, expressions, and supplemental entries; not measured mastery",
     "exact_introduction_dates_known": false,
@@ -29849,6 +30272,30 @@
             "outcome": "correct_with_support"
           }
         ]
+      },
+      {
+        "id": "V186",
+        "german": "die Zwiebel",
+        "article": "die",
+        "plural": "die Zwiebeln",
+        "meaning_ar": "البصلة / البصل",
+        "type": "noun",
+        "status": "introduced",
+        "introduced_on": "2026-10-20",
+        "last_reviewed": null,
+        "source": "2026-10-20-S02-A01",
+        "recorded_attempts": 0,
+        "independent_correct": 0,
+        "usage_example": "Ich kaufe eine Zwiebel.",
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:55:26+02:00",
+            "session_id": "2026-10-20-S02",
+            "kind": "introduced_with_example",
+            "independently_recalled": false
+          }
+        ]
       }
     ]
   },
@@ -32305,8 +32752,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "Paused on explicit save-and-main-menu request; day remains open.",
-  "next_suggested_action": "Choose from nine-choice main menu",
+  "latest_study_state": "New verbs168–177 introduced; zero attempts; E01 pending.",
+  "next_suggested_action": "Answer 2026-10-20-S02-E01",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33674,6 +34121,31 @@
       "learner_request": "احفظ كل حاجه وارجعلي للقائمه الرئيسيه",
       "pending_exercise_id": "2026-10-20-S01-E02",
       "note": "No new attempts/items/mastery or closure; all history and retests preserved."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:55:26+02:00",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "event": "new_verb_batch_introduced",
+      "learner_request": "main menu4 then2",
+      "verb_ids": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177
+      ],
+      "new_vocabulary_ids": [
+        "V186"
+      ],
+      "attempts_recorded": 0,
+      "pending_exercise_id": "2026-10-20-S02-E01"
     }
   ],
   "exercise_results": [
@@ -89345,7 +89817,7 @@
     "remote_sync_blocker": null
   },
   "sentence_review_tracking": {
-    "active_activity_id": null,
+    "active_activity_id": "2026-10-20-S02-A01",
     "activities": [
       {
         "id": "2026-10-14-S03-A01",
@@ -91411,6 +91883,44 @@
         "paused_at": "2026-10-20T12:39:56+02:00",
         "pause_reason": "Explicit save everything and return to main menu",
         "next_action": "Resume preserved 2026-10-20-S01-E02 only after learner selects continuation."
+      },
+      {
+        "id": "2026-10-20-S02-A01",
+        "session_id": "2026-10-20-S02",
+        "mode": "written_sentence_translation",
+        "scope": "new_verbs_168_177",
+        "status": "active",
+        "pool_ids": [
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177
+        ],
+        "tested_ids": [],
+        "remaining_ids": [
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177
+        ],
+        "attempts": [],
+        "current_exercise_id": "2026-10-20-S02-E01",
+        "new_vocabulary_ids": [
+          "V186"
+        ],
+        "selection_rationale": "Explicit main menu4->new verbs2. All167 verb and185 vocabulary rows plus prior curriculum/day history checked;10 candidates absent. Practical cooking theme,70%new/30%embedded prior grammar, present+Perfekt. Prior ohne prompt deferred, not forced first."
       }
     ]
   }

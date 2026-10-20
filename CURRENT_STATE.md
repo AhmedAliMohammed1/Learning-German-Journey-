@@ -1,9 +1,8 @@
-# Current learner state —2026-10-20 paused
+# Current learner state —2026-10-20 new batch
+Day OPEN; active2026-10-20-S02, activity2026-10-20-S02-A01. Explicit menu4→2: ten new verbs168–177 introduced with Präsens/Perfekt/examples/usage, zero learner attempts.177 verbs/186 vocabulary/47 sessions,2today. NewV186 die Zwiebel/die Zwiebeln.
 
-Day OPEN, no active session. Paused 2026-10-20-S01, activity2026-10-19-S02-A01, on explicit request «احفظ كل حاجه وارجعلي للقائمه الرئيسيه». Show nine main-menu choices; do not automatically issue/resume exercises.
+Batch: schneiden, schälen, mischen, rühren, backen, braten, probieren, schmecken, riechen, servieren. All167 prior verb/185 vocabulary rows and curriculum/day history checked for uniqueness. Introduced is not mastered; isolated and contextual/tense coverage untested for new10.
 
-167 introduced verbs /185 registered vocabulary /46 documented sessions;1 today. Latest answer: Meine Schwester geht, ohne die Licht auszuschalten -> Meine Schwester geht, ohne das Licht auszuschalten. Correct separable auszuschalten with near-model instructional support; article die->das. Earlier mitnehmen requires mitzunehmen and das Ladekabel; läuft accepted walking meaning, geht preferred leaving context.
+Exact pending 2026-10-20-S02-E01 (Perfekt): «أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.». No answer/full German model; new forms taught. Planned70%new/30%embedded review.
 
-Grammar ohne...zu / ohne dass practicing:3 attempts,1 independent structural success,1 supported structural success,0 fully correct translations. ohne dass still untested. No pronunciation/listening/mastery inference. RetestsOct21; older outstanding queues retained.
-
-Exact unanswered on explicit continuation: 2026-10-20-S01-E02 (Präsens, ohne...zu): «أنا ببعت الرسالة من غير ما أضيف المرفق.». No German model/answer. All historical prompts, isolated retry12 and122 Perfekt coverage retained; previous days remain unchanged/open where recorded. Prior detailed dashboard archived.
+PriorS01/ohne activity paused, old2026-10-20-S01-E02 «أنا ببعت الرسالة من غير ما أضيف المرفق.» unchanged. All older12 recall retries/122 Perfekt forms, pending sentences and queues preserved. No audio/mastery changes. Earlier dashboard archived.
