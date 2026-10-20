@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-18 new-batch continuation
+## LIVE handoff —2026-10-20 paused / main menu
+
+Day OPEN, no active session; paused2026-10-20-S01/activity2026-10-19-S02-A01 on explicit save-everything/main-menu request. Show nine choices, no automatic exercise. Exact pending2026-10-20-S01-E02: «أنا ببعت الرسالة من غير ما أضيف المرفق.» (Präsens, ohne...zu), no answer/model.167 verbs/185 vocabulary/46 sessions,1today. New ohne grammar3 attempts:1 independent structure success,1 supported success,0 fully correct translations; ohne dass untested. Latest auszuschalten correct with near-model support; die Licht→das Licht. Previous zu mitnehmen→mitzunehmen, das Ladekabel; läuft accepted walking variant. RetestsOct21; all old prompts/12 recall retries/122 Perfekt forms preserved. Read live JSON/day; old days not closed. Prior dashboard archived.
+
+## Historical handoff —2026-10-18 new-batch continuation
 
 DayOPEN active2026-10-18-S02, isolated activity2026-10-18-S02-A01. All123 actual isolated answers graded:111 matching/accepted target forms,5 spelling/form repairs (#19/84/98/101/120),1 meaning contrast (#21 sitzen vs setzen),6 valid context-specific alternatives with target unconfirmed (#3/52/81/95/105/107). All10 new verbs correct. sich entscheiden/sich kümmern accepted as infinitives without optional governed preposition in isolated recall; contextual frames still separately unresolved.154 mastered/13 review labels apply only to infinitive/registered-form recall; correct zustimmen remains review by prior request.12 short-retry target IDs retained,122 applicable Perfekt forms deferred; no fresh prompt issued.167/183/43,2sessions today. All old sentenceE11/pending/queues and contextual mastery/audio unchanged. Show graded feedback; on continuation retry12. Reread JSON/day.
 

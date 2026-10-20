@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T12:38:36+02:00",
+  "last_updated_at": "2026-10-20T12:39:56+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -19,11 +19,11 @@
   "current_day": "2026-10-20",
   "latest_day": "2026-10-20",
   "day_status": "open",
-  "current_session_id": "2026-10-20-S01",
+  "current_session_id": null,
   "sessions_recorded": 46,
   "last_verified_study_at": "2026-10-20T12:38:36+02:00",
   "active_topic": "ohne_zu_ohne_dass",
-  "next_action": "Await 2026-10-20-S01-E02 (Präsens, ohne...zu): أنا ببعت الرسالة من غير ما أضيف المرفق.",
+  "next_action": "Show nine-choice main menu; no automatic exercise. On explicit continuation resume 2026-10-20-S01-E02: أنا ببعت الرسالة من غير ما أضيف المرفق.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -32305,8 +32305,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "E01 supported separable success, Licht article repair; fresh E02 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S01-E02",
+  "latest_study_state": "Paused on explicit save-and-main-menu request; day remains open.",
+  "next_suggested_action": "Choose from nine-choice main menu",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33664,6 +33664,16 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-20-S01-E01",
       "note": "Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:39:56+02:00",
+      "session_id": "2026-10-20-S01",
+      "activity_id": "2026-10-19-S02-A01",
+      "event": "save_pause_main_menu_requested",
+      "learner_request": "احفظ كل حاجه وارجعلي للقائمه الرئيسيه",
+      "pending_exercise_id": "2026-10-20-S01-E02",
+      "note": "No new attempts/items/mastery or closure; all history and retests preserved."
     }
   ],
   "exercise_results": [
@@ -55592,7 +55602,7 @@
     }
   ],
   "current_review_scope": "all_history_unresolved_verbs_isolated",
-  "paused_session_id": "2026-10-19-S02",
+  "paused_session_id": "2026-10-20-S01",
   "recall_tracking": {
     "active_activity_id": null,
     "activities": [
@@ -89335,7 +89345,7 @@
     "remote_sync_blocker": null
   },
   "sentence_review_tracking": {
-    "active_activity_id": "2026-10-19-S02-A01",
+    "active_activity_id": null,
     "activities": [
       {
         "id": "2026-10-14-S03-A01",
@@ -91312,7 +91322,7 @@
         "session_id": "2026-10-19-S02",
         "mode": "written_sentence_translation",
         "scope": "new_grammar",
-        "status": "active",
+        "status": "paused",
         "grammar_topic": "ohne_zu_ohne_dass",
         "current_exercise_id": "2026-10-20-S01-E02",
         "attempts": [
@@ -91397,7 +91407,10 @@
           "V185"
         ],
         "teaching_note": "## ohne … zu / ohne dass — من غير ما\n- New main topic after full grammar/day search; no earlier lesson found. V185 ohne introduced as preposition/connector, no new verbs. All167 verbs/184 vocabulary audited.\n- Same doer: main clause, ohne + complements + zu + infinitive. No second subject, comma required. Ich schicke die Datei, ohne sie zu prüfen. = ببعت الملف من غير ما أراجعه. Ich gehe, ohne den Kaffee zu trinken. = بمشي من غير ما أشرب القهوة.\n- Separable: prefix+zu+stem in one word: auszuschalten, zurückzubringen; Ich gehe, ohne das Licht auszuschalten. Inseparable and -ieren: zu benutzen, zu bestätigen, zu reparieren. Reflexive pronoun retained and matches implied doer: Ich gehe, ohne mich zu entschuldigen.\n- Fronting: Ohne die Anleitung zu lesen, benutze ich den Drucker. Entire infinitive group first, then finite main verb. Do not repeat ich in the ohne-zu group.\n- Different doers: ohne dass + subject + rest + final finite verb. Ich benutze das Auto, ohne dass mein Bruder es weiß. = بستخدم العربية من غير ما أخويا يعرف ده. Same doer may also use ohne dass: Ich schicke die Datei, ohne dass ich sie prüfe; ohne zu usually more compact. Different-doer prohibition applies to ordinary active construction; passive/implicit-subject advanced variants outside current practice.\n- Perfekt main clause: Ich habe die Datei geschickt, ohne sie zu prüfen. No need to convert zu prüfen to a conjugated past form merely because main clause is past. Finite Perfekt with ohne dass: Ich habe das Auto benutzt, ohne dass mein Bruder es gewusst hat. Final participle+auxiliary. Independent tense choice follows intended meaning.\n- Advanced anterior infinitive reference only: Ich habe den Mietvertrag unterschrieben, ohne ihn gelesen zu haben. Earlier reading did not occur; PartizipII + zu haben/zu sein expresses anteriority, no mandatory anterior-form demand in ordinary introductory exercises.\n- Modal reference: Ich höre die Nachricht, ohne sie verstehen zu können. = بسمع الرسالة من غير ما أقدر أفهمها. Lexical infinitive then zu + modal infinitive; no double zu. Not assessed.\n- ohne already means absence; do not add nicht automatically: ohne zu fragen. Contrast weil ich nicht frage = لأني مش بسأل, um zu fragen = علشان أسأل. Special logical double negation outside beginner practice, not declared universally impossible.\n- Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.\n- Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.\n- Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.\n",
-        "continued_in_session_id": "2026-10-20-S01"
+        "continued_in_session_id": "2026-10-20-S01",
+        "paused_at": "2026-10-20T12:39:56+02:00",
+        "pause_reason": "Explicit save everything and return to main menu",
+        "next_action": "Resume preserved 2026-10-20-S01-E02 only after learner selects continuation."
       }
     ]
   }

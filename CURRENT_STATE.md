@@ -1,8 +1,9 @@
-# Current learner state —2026-10-20
-Day OPEN; active2026-10-20-S01, ongoing activity2026-10-19-S02-A01; prior2026-10-19-S02 paused, Oct19 remains open.167 verbs/185 vocabulary/46 documented sessions,1today.
+# Current learner state —2026-10-20 paused
 
-Original 2026-10-19-S02-E02 answered today: `Mein Bruder läuft, ohne den Ladekabel zu mitnehmen`. Natural correction `Mein Bruder geht, ohne das Ladekabel mitzunehmen.`; accepted walking variant `Mein Bruder läuft, ohne das Ladekabel mitzunehmen.`. Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.
+Day OPEN, no active session. Paused 2026-10-20-S01, activity2026-10-19-S02-A01, on explicit request «احفظ كل حاجه وارجعلي للقائمه الرئيسيه». Show nine main-menu choices; do not automatically issue/resume exercises.
 
-Latest 2026-10-20-S01-E01: `Meine Schwester geht, ohne die Licht auszuschalten` -> `Meine Schwester geht, ohne das Licht auszuschalten.`. Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.
+167 introduced verbs /185 registered vocabulary /46 documented sessions;1 today. Latest answer: Meine Schwester geht, ohne die Licht auszuschalten -> Meine Schwester geht, ohne das Licht auszuschalten. Correct separable auszuschalten with near-model instructional support; article die->das. Earlier mitnehmen requires mitzunehmen and das Ladekabel; läuft accepted walking meaning, geht preferred leaving context.
 
-New exact pending 2026-10-20-S01-E02 (Präsens, ohne...zu): «أنا ببعت الرسالة من غير ما أضيف المرفق.». Fresh independent-transfer opportunity, no sentence model. Grammar practicing3 attempts/1 independent structure success/1 supported success/0 full translations. RetestsOct21; all older pending and isolated coverage retained.
+Grammar ohne...zu / ohne dass practicing:3 attempts,1 independent structural success,1 supported structural success,0 fully correct translations. ohne dass still untested. No pronunciation/listening/mastery inference. RetestsOct21; older outstanding queues retained.
+
+Exact unanswered on explicit continuation: 2026-10-20-S01-E02 (Präsens, ohne...zu): «أنا ببعت الرسالة من غير ما أضيف المرفق.». No German model/answer. All historical prompts, isolated retry12 and122 Perfekt coverage retained; previous days remain unchanged/open where recorded. Prior detailed dashboard archived.

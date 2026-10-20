@@ -1,0 +1,8 @@
+# Current learner state —2026-10-20
+Day OPEN; active2026-10-20-S01, ongoing activity2026-10-19-S02-A01; prior2026-10-19-S02 paused, Oct19 remains open.167 verbs/185 vocabulary/46 documented sessions,1today.
+
+Original 2026-10-19-S02-E02 answered today: `Mein Bruder läuft, ohne den Ladekabel zu mitnehmen`. Natural correction `Mein Bruder geht, ohne das Ladekabel mitzunehmen.`; accepted walking variant `Mein Bruder läuft, ohne das Ladekabel mitzunehmen.`. Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.
+
+Latest 2026-10-20-S01-E01: `Meine Schwester geht, ohne die Licht auszuschalten` -> `Meine Schwester geht, ohne das Licht auszuschalten.`. Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.
+
+New exact pending 2026-10-20-S01-E02 (Präsens, ohne...zu): «أنا ببعت الرسالة من غير ما أضيف المرفق.». Fresh independent-transfer opportunity, no sentence model. Grammar practicing3 attempts/1 independent structure success/1 supported success/0 full translations. RetestsOct21; all older pending and isolated coverage retained.
