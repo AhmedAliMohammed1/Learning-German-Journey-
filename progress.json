@@ -3,8 +3,8 @@
   "repository": "AhmedAliMohammed1/Learning-German-Journey-",
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
-  "last_updated": "2026-10-19",
-  "last_updated_at": "2026-10-19T22:41:07+02:00",
+  "last_updated": "2026-10-20",
+  "last_updated_at": "2026-10-20T12:34:30+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -16,14 +16,14 @@
     "history_source": "learner-supplied retrospective summary of prior conversation",
     "backfilled_on": "2026-10-03"
   },
-  "current_day": "2026-10-19",
-  "latest_day": "2026-10-19",
+  "current_day": "2026-10-20",
+  "latest_day": "2026-10-20",
   "day_status": "open",
-  "current_session_id": "2026-10-19-S02",
-  "sessions_recorded": 45,
-  "last_verified_study_at": "2026-10-19T22:41:07+02:00",
+  "current_session_id": "2026-10-20-S01",
+  "sessions_recorded": 46,
+  "last_verified_study_at": "2026-10-20T12:34:30+02:00",
   "active_topic": "ohne_zu_ohne_dass",
-  "next_action": "Await 2026-10-19-S02-E02 (Präsens, ohne...zu): أخويا بيمشي من غير ما ياخد كابل الشحن معاه.",
+  "next_action": "Await 2026-10-20-S01-E01 (Präsens): أختي بتمشي من غير ما تطفي النور. Earlier lesson near-model noted; later assess fresh independent transfer.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11386,11 +11386,41 @@
         "V184",
         "V185"
       ],
+      "status": "completed",
+      "learner_answer": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "Same subject ohne...zu with separable mitnehmen -> mitzunehmen; das Ladekabel; no exercise-specific model.",
+      "learner_answer_raw": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+      "correction": "Mein Bruder geht, ohne das Ladekabel mitzunehmen.",
+      "accepted_alternative": "Mein Bruder läuft, ohne das Ladekabel mitzunehmen.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-20T12:34:30+02:00",
+      "answered_in_session_id": "2026-10-20-S01"
+    },
+    {
+      "id": "2026-10-20-S01-E01",
+      "session_id": "2026-10-20-S01",
+      "activity_id": "2026-10-19-S02-A01",
+      "activity": "new_grammar_sentence_translation",
+      "grammar_topic": "ohne_zu_ohne_dass",
+      "prompt_ar": "أختي بتمشي من غير ما تطفي النور.",
+      "tense": "Präsens",
+      "verb_ids": [
+        4,
+        100
+      ],
+      "vocabulary_ids": [
+        "V005",
+        "V133",
+        "V185"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "Same subject ohne...zu with separable mitnehmen -> mitzunehmen; das Ladekabel; no exercise-specific model."
+      "target": "Fresh separable zu form auszuschalten, main geht for leaving. Earlier lesson included ich+same predicate example: near-model instructional support acknowledged, not fully independent transfer.",
+      "support_note": "Initial lesson showed Ich gehe, ohne das Licht auszuschalten; new subject variation therefore near-model supported practice."
     }
   ],
   "completed_exercise_ids": [
@@ -12344,7 +12374,8 @@
     "2026-10-19-S01-E04",
     "2026-10-19-S01-E05",
     "2026-10-19-S01-E06",
-    "2026-10-19-S02-E01"
+    "2026-10-19-S02-E01",
+    "2026-10-19-S02-E02"
   ],
   "verbs": {
     "learned_total": 167,
@@ -16534,9 +16565,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
-        "independent_correct": 1,
-        "last_reviewed": "2026-10-03",
+        "recorded_attempts": 2,
+        "independent_correct": 2,
+        "last_reviewed": "2026-10-20",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -16560,6 +16591,17 @@
             "learner_answer_raw": "laufen",
             "correction": "laufen",
             "note": "Correct isolated infinitive/registered form, independent typed answer."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:34:30+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-19-S02-E02",
+            "kind": "written_contextual_verb_use",
+            "dimension": "present_form",
+            "independent": true,
+            "correct": true,
+            "note": "läuft correct walking reading; intended leaving geht not produced."
           }
         ],
         "meaning_ar": "يمشي / يجري",
@@ -18758,9 +18800,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 4,
+        "recorded_attempts": 5,
         "independent_correct": 4,
-        "last_reviewed": "2026-10-17",
+        "last_reviewed": "2026-10-20",
         "evidence": [
           {
             "date": "2026-10-07",
@@ -18827,6 +18869,17 @@
             "independent": true,
             "correct": true,
             "note": "Correct nimm ... mit command; requested possessive omitted independently of verb grammar."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:34:30+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-19-S02-E02",
+            "kind": "written_contextual_verb_use",
+            "dimension": "separable_zu_infinitive",
+            "independent": true,
+            "correct": false,
+            "note": "mitnehmen recalled but zu placement requires mitzunehmen; not isolated lemma failure."
           }
         ],
         "meaning_ar": "يأخذ معه",
@@ -25613,10 +25666,10 @@
         "status": "practicing",
         "introduced_on": "2026-10-19",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 1,
+        "recorded_attempts": 2,
         "independent_correct": 1,
         "activity_id": "2026-10-19-S02-A01",
-        "current_exercise_id": "2026-10-19-S02-E02",
+        "current_exercise_id": "2026-10-20-S01-E01",
         "subtopics": [
           "same_subject_infinitive",
           "different_subject_finite_clause",
@@ -25646,6 +25699,17 @@
             "correctness_scope": "ohne_zu_structure_only",
             "full_translation_correct": false,
             "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:34:30+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-19-S02-E02",
+            "independent": true,
+            "correct": false,
+            "same_subject_choice_correct": true,
+            "separable_zu_correct": false,
+            "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio."
           }
         ],
         "selection_rationale": "Explicit new grammar choice; absent from topic register and dated lesson search. Builds on known zu/subordinate order with recent verbs; avoids relabeling old weakness as new.",
@@ -29626,9 +29690,9 @@
         "type": "noun",
         "status": "practicing",
         "introduced_on": "2026-10-19",
-        "last_reviewed": "2026-10-19",
+        "last_reviewed": "2026-10-20",
         "source": "2026-10-19-S01-A01",
-        "recorded_attempts": 2,
+        "recorded_attempts": 3,
         "independent_correct": 1,
         "evidence": [
           {
@@ -29655,6 +29719,15 @@
             "lexical_correct": true,
             "article_correct": true,
             "note": "Fresh contextual das Ladekabel correct; no model for E02, plural untested."
+          },
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-19-S02-E02",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "lexical_correct": true,
+            "article_correct": false,
+            "note": "Ladekabel lexical correct, den -> das neuter Akk; earlier correct uses retained."
           }
         ],
         "usage_example": "Ich brauche das Ladekabel."
@@ -29667,10 +29740,10 @@
         "type": "preposition_connector",
         "status": "practicing",
         "introduced_on": "2026-10-19",
-        "last_reviewed": "2026-10-19",
+        "last_reviewed": "2026-10-20",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 1,
-        "independent_correct": 1,
+        "recorded_attempts": 2,
+        "independent_correct": 2,
         "usage_example": "Ich gehe ohne meinen Bruder.",
         "evidence": [
           {
@@ -29686,6 +29759,14 @@
             "kind": "contextual_connector_use",
             "independent": true,
             "correct": true
+          },
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-19-S02-E02",
+            "kind": "contextual_connector_use",
+            "independent": true,
+            "correct": true,
+            "note": "ohne selected correctly; separable zu placement assessed in grammar."
           }
         ]
       }
@@ -32143,9 +32224,9 @@
       ]
     }
   },
-  "latest_study_date": "2026-10-19",
-  "latest_study_state": "ohne E01 structure correct, verb/case repair; E02 pending.",
-  "next_suggested_action": "Answer 2026-10-19-S02-E02",
+  "latest_study_date": "2026-10-20",
+  "latest_study_state": "Oct20 continuation: original E02 graded; new E01 pending; old day left open.",
+  "next_suggested_action": "Answer 2026-10-20-S01-E01",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33486,6 +33567,15 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-19-S02-E01",
       "note": "ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:34:30+02:00",
+      "session_id": "2026-10-20-S01",
+      "event": "date_rollover_and_written_answer_graded",
+      "issued_session_id": "2026-10-19-S02",
+      "exercise_id": "2026-10-19-S02-E02",
+      "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio."
     }
   ],
   "exercise_results": [
@@ -53740,6 +53830,33 @@
         "possessive_akk": "needs_retry",
         "Kollegen_ending": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-19-S02-E02",
+      "session_id": "2026-10-20-S01",
+      "issued_session_id": "2026-10-19-S02",
+      "activity_id": "2026-10-19-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:34:30+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أخويا بيمشي من غير ما ياخد كابل الشحن معاه.",
+      "learner_answer": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+      "learner_answer_raw": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+      "correction": "Mein Bruder geht, ohne das Ladekabel mitzunehmen.",
+      "accepted_alternative": "Mein Bruder läuft, ohne das Ladekabel mitzunehmen.",
+      "result": "needs_retry",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.",
+      "dimensions": {
+        "ohne_same_subject_choice": "independent_correct",
+        "separable_zu_position": "needs_retry",
+        "ladekabel_gender_article": "needs_retry",
+        "laufen_form": "independent_correct",
+        "gehen_target": "not_assessed"
+      }
     }
   ],
   "skill_tracking": {
@@ -55112,12 +55229,27 @@
       "mode": "written_sentence_translation",
       "activity_id": "2026-10-19-S02-A01",
       "target": "Fresh ohne...zu same-subject structure, then separable/reflexive and different-subject ohne dass; assess independently.",
-      "due_on": "2026-10-20",
+      "due_on": "2026-10-21",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "structure_correct_full_translation_needs_verb_case_repair",
+      "last_result": "same_subject_choice_correct_separable_zu_needs_retry",
       "evidence_ids": [
-        "2026-10-19-S02-E01"
+        "2026-10-19-S02-E01",
+        "2026-10-19-S02-E02"
+      ]
+    },
+    {
+      "id": "2026-10-20-ladekabel-article",
+      "target_key": "ladekabel_neuter_article_context",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-19-S02-A01",
+      "target": "das Ladekabel in fresh Akk context; distinguish noun retrieval from article accuracy.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "lexical_correct_den_instead_of_das",
+      "evidence_ids": [
+        "2026-10-19-S02-E02"
       ]
     }
   ],
@@ -55333,7 +55465,7 @@
     }
   ],
   "current_review_scope": "all_history_unresolved_verbs_isolated",
-  "paused_session_id": "2026-10-19-S01",
+  "paused_session_id": "2026-10-19-S02",
   "recall_tracking": {
     "active_activity_id": null,
     "activities": [
@@ -91055,7 +91187,7 @@
         "scope": "new_grammar",
         "status": "active",
         "grammar_topic": "ohne_zu_ohne_dass",
-        "current_exercise_id": "2026-10-19-S02-E02",
+        "current_exercise_id": "2026-10-20-S01-E01",
         "attempts": [
           {
             "exercise_id": "2026-10-19-S02-E01",
@@ -91081,12 +91213,40 @@
               "possessive_akk": "needs_retry",
               "Kollegen_ending": "independent_correct"
             }
+          },
+          {
+            "exercise_id": "2026-10-19-S02-E02",
+            "session_id": "2026-10-20-S01",
+            "issued_session_id": "2026-10-19-S02",
+            "activity_id": "2026-10-19-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:34:30+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أخويا بيمشي من غير ما ياخد كابل الشحن معاه.",
+            "learner_answer": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+            "learner_answer_raw": "Mein Bruder läuft, ohne den Ladekabel zu mitnehmen",
+            "correction": "Mein Bruder geht, ohne das Ladekabel mitzunehmen.",
+            "accepted_alternative": "Mein Bruder läuft, ohne das Ladekabel mitzunehmen.",
+            "result": "needs_retry",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.",
+            "dimensions": {
+              "ohne_same_subject_choice": "independent_correct",
+              "separable_zu_position": "needs_retry",
+              "ladekabel_gender_article": "needs_retry",
+              "laufen_form": "independent_correct",
+              "gehen_target": "not_assessed"
+            }
           }
         ],
         "new_vocabulary_ids": [
           "V185"
         ],
-        "teaching_note": "## ohne … zu / ohne dass — من غير ما\n- New main topic after full grammar/day search; no earlier lesson found. V185 ohne introduced as preposition/connector, no new verbs. All167 verbs/184 vocabulary audited.\n- Same doer: main clause, ohne + complements + zu + infinitive. No second subject, comma required. Ich schicke die Datei, ohne sie zu prüfen. = ببعت الملف من غير ما أراجعه. Ich gehe, ohne den Kaffee zu trinken. = بمشي من غير ما أشرب القهوة.\n- Separable: prefix+zu+stem in one word: auszuschalten, zurückzubringen; Ich gehe, ohne das Licht auszuschalten. Inseparable and -ieren: zu benutzen, zu bestätigen, zu reparieren. Reflexive pronoun retained and matches implied doer: Ich gehe, ohne mich zu entschuldigen.\n- Fronting: Ohne die Anleitung zu lesen, benutze ich den Drucker. Entire infinitive group first, then finite main verb. Do not repeat ich in the ohne-zu group.\n- Different doers: ohne dass + subject + rest + final finite verb. Ich benutze das Auto, ohne dass mein Bruder es weiß. = بستخدم العربية من غير ما أخويا يعرف ده. Same doer may also use ohne dass: Ich schicke die Datei, ohne dass ich sie prüfe; ohne zu usually more compact. Different-doer prohibition applies to ordinary active construction; passive/implicit-subject advanced variants outside current practice.\n- Perfekt main clause: Ich habe die Datei geschickt, ohne sie zu prüfen. No need to convert zu prüfen to a conjugated past form merely because main clause is past. Finite Perfekt with ohne dass: Ich habe das Auto benutzt, ohne dass mein Bruder es gewusst hat. Final participle+auxiliary. Independent tense choice follows intended meaning.\n- Advanced anterior infinitive reference only: Ich habe den Mietvertrag unterschrieben, ohne ihn gelesen zu haben. Earlier reading did not occur; PartizipII + zu haben/zu sein expresses anteriority, no mandatory anterior-form demand in ordinary introductory exercises.\n- Modal reference: Ich höre die Nachricht, ohne sie verstehen zu können. = بسمع الرسالة من غير ما أقدر أفهمها. Lexical infinitive then zu + modal infinitive; no double zu. Not assessed.\n- ohne already means absence; do not add nicht automatically: ohne zu fragen. Contrast weil ich nicht frage = لأني مش بسأل, um zu fragen = علشان أسأل. Special logical double negation outside beginner practice, not declared universally impossible.\n- Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.\n- Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.\n- Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.\n"
+        "teaching_note": "## ohne … zu / ohne dass — من غير ما\n- New main topic after full grammar/day search; no earlier lesson found. V185 ohne introduced as preposition/connector, no new verbs. All167 verbs/184 vocabulary audited.\n- Same doer: main clause, ohne + complements + zu + infinitive. No second subject, comma required. Ich schicke die Datei, ohne sie zu prüfen. = ببعت الملف من غير ما أراجعه. Ich gehe, ohne den Kaffee zu trinken. = بمشي من غير ما أشرب القهوة.\n- Separable: prefix+zu+stem in one word: auszuschalten, zurückzubringen; Ich gehe, ohne das Licht auszuschalten. Inseparable and -ieren: zu benutzen, zu bestätigen, zu reparieren. Reflexive pronoun retained and matches implied doer: Ich gehe, ohne mich zu entschuldigen.\n- Fronting: Ohne die Anleitung zu lesen, benutze ich den Drucker. Entire infinitive group first, then finite main verb. Do not repeat ich in the ohne-zu group.\n- Different doers: ohne dass + subject + rest + final finite verb. Ich benutze das Auto, ohne dass mein Bruder es weiß. = بستخدم العربية من غير ما أخويا يعرف ده. Same doer may also use ohne dass: Ich schicke die Datei, ohne dass ich sie prüfe; ohne zu usually more compact. Different-doer prohibition applies to ordinary active construction; passive/implicit-subject advanced variants outside current practice.\n- Perfekt main clause: Ich habe die Datei geschickt, ohne sie zu prüfen. No need to convert zu prüfen to a conjugated past form merely because main clause is past. Finite Perfekt with ohne dass: Ich habe das Auto benutzt, ohne dass mein Bruder es gewusst hat. Final participle+auxiliary. Independent tense choice follows intended meaning.\n- Advanced anterior infinitive reference only: Ich habe den Mietvertrag unterschrieben, ohne ihn gelesen zu haben. Earlier reading did not occur; PartizipII + zu haben/zu sein expresses anteriority, no mandatory anterior-form demand in ordinary introductory exercises.\n- Modal reference: Ich höre die Nachricht, ohne sie verstehen zu können. = بسمع الرسالة من غير ما أقدر أفهمها. Lexical infinitive then zu + modal infinitive; no double zu. Not assessed.\n- ohne already means absence; do not add nicht automatically: ohne zu fragen. Contrast weil ich nicht frage = لأني مش بسأل, um zu fragen = علشان أسأل. Special logical double negation outside beginner practice, not declared universally impossible.\n- Noun construction: ohne + Akkusativ, no verb and normally no comma for bare noun phrase. ohne meinen Bruder, ohne das Ladekabel; Ich gehe ohne meinen Bruder. Register ohne V185, article/plural not applicable.\n- Case inside the infinitive group comes from its verb/preposition, not globally from ohne: ohne meinem Bruder zu helfen (helfen+Dat), ohne meinen Bruder zu fragen (fragen+Akk). Contrast noun-only ohne meinen Bruder.\n- Practical main patterns taught; rare passive/complex modal-perfect variants excluded from current scope. Examples are instruction, zero learner attempts. Use incremental complete Arabic-to-German sentences and later delayed retests only after actual practice.\n",
+        "continued_in_session_id": "2026-10-20-S01"
       }
     ]
   }

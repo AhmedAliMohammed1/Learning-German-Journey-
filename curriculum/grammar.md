@@ -679,3 +679,7 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 ## 2026-10-19-S02-E01 —correct new structure, lexical/case repair
 - ohne...zu same-subject structure, comma, no repeated subject, final infinitive position, schickt...zurück and den Drucker correct. nachrichtigen -> benachrichtigen (whole inseparable verb; zu stays before it). Ihrem -> ihren: intended her lower-case ihr-, governed masculine Akk after benachrichtigen. Kollegen ending already correct. Distinguish correct new grammar structure from verb identity/case/capitalization repairs. No model/hint for exercise, no audio.
 - New grammar structure independently correct; M02 case error separate. Fresh separable E02 pending.
+
+## 2026-10-19-S02-E02 answered 2026-10-20 —separable zu and noun gender
+- Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.
+- Previously correct Ladekabel uses retained. No false laufen conjugation or isolated mitnehmen recall failure. Grammar queueOct21; supported next variant flagged.
