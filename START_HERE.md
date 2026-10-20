@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic.
 
-## LIVE handoff —2026-10-20 S03 isolated recall
+## LIVE handoff —2026-10-21 recall132 graded
+
+DayOPEN active2026-10-21-S01, activity2026-10-20-S03-A01. All132 B01 answers graded:122 matching/accepted target infinitives,6 spelling/form repairs (indices4/8/22/36/111/113),1 meaning contrast58 einpacken vs auspacken,3 contextual alternatives7/12/16 with target unconfirmed. Retry10 target IDs[177, 151, 147, 37, 38, 106, 143, 123, 108, 145];132 Perfekt forms deferred. No fresh prompt issued; on continuation shuffled retry10.177verbs/186vocabulary/49sessions,1today. No global/contextual/audio mastery changes. Oct20 left open with pausedS03. Preserve all old sentence/recall activities and queues. Raw results and alternatives in JSON/day.
+
+## Historical handoff —2026-10-20 S03 isolated recall
 
 Latest override: all132 infinitive prompts issued as S03-B01 on explicit request. Await numbered answers; no answers/model yet. E01 reused, separate Perfekt coverage retained. Use persisted batch mapping.
 

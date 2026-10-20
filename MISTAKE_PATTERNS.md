@@ -663,3 +663,8 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 
 ## 2026-10-20-S02-E05 —schmecken experiencer
 - First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery.
+
+##2026-10-21 isolated recall132
+- Six written infinitive repairs: serviern→servieren, entfehrnen→entfernen, vorbereit→vorbereiten, akualisieren→aktualisieren, storniern→stornieren, verschiben→verschieben. Spelling/form only, no audio diagnosis.
+- einpacken(pack) vs auspacken(unpack): one meaning contrast. annehmen for broad proposal acceptance, holen for broad bringing/fetching, abholen for collecting accepted contextually; zustimmen/bringen/holen targets remain unconfirmed, not blanket semantic failures.
+- sich anmelden and sich entscheiden accepted isolated forms; für not required in isolated recall. ankommen/erhalten explicitly included among supplied alternatives, correct. HTML space entities ignored. No contextual grammar-status changes from this batch.
