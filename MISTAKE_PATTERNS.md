@@ -657,3 +657,6 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-20-S02-E02 —target verb, tense and object
 - schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.
 - Existing M08 omission updated; correct Dativ/V2/subject retained separately.
+
+## 2026-10-20-S02-E03 —object transfer, spelling separate
+- Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment.

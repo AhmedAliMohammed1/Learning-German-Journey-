@@ -7,6 +7,8 @@ Latest E01: `Meine Schwester hat gestern die Zwiebel geschält, danach hat sie s
 
 Latest E02: `Mein Bruder schmickt die Suppe, danach hat er seiner Schwester serviert` -> `Mein Bruder probiert die Suppe, danach serviert er sie seiner Schwester.`. schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio.
 
-Exact pending 2026-10-20-S02-E03 (Präsens): «أختي بتقلّب الشوربة، وبعد كده بتدوقها.». No full model/answer.174/177 practicing;175 not independently attempted. All old pending retained.
+Latest E03: `Meine Schwester rührt die Suppe, danach propiert sie sie` -> `Meine Schwester rührt die Suppe, danach probiert sie sie.`. Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment.
+
+Exact pending 2026-10-20-S02-E04 (Perfekt): «أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.». No full model/answer.171 practicing; remaining new material continues. All prior pending preserved.
 
 PriorS01/ohne activity paused, old2026-10-20-S01-E02 «أنا ببعت الرسالة من غير ما أضيف المرفق.» unchanged. All older12 recall retries/122 Perfekt forms, pending sentences and queues preserved. No audio/mastery changes. Earlier dashboard archived.

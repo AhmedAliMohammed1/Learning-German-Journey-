@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T13:22:07+02:00",
+  "last_updated_at": "2026-10-20T13:28:25+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-20-S02",
   "sessions_recorded": 47,
-  "last_verified_study_at": "2026-10-20T13:22:07+02:00",
+  "last_verified_study_at": "2026-10-20T13:28:25+02:00",
   "active_topic": "new_verbs_168_177",
-  "next_action": "Await 2026-10-20-S02-E03 (Präsens): أختي بتقلّب الشوربة، وبعد كده بتدوقها.",
+  "next_action": "Await 2026-10-20-S02-E04 (Perfekt): أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11518,11 +11518,37 @@
         "V005",
         "V048"
       ],
+      "status": "completed",
+      "learner_answer": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "rührt then probiert, main female sie and Akk sie, new verb with embedded fresh correction transfer. Prior probiert feedback known; no complete sentence model.",
+      "learner_answer_raw": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+      "correction": "Meine Schwester rührt die Suppe, danach probiert sie sie.",
+      "result": "independent_target_success_spelling_repair",
+      "completed_at": "2026-10-20T13:28:25+02:00"
+    },
+    {
+      "id": "2026-10-20-S02-E04",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "activity": "new_verbs_sentence_translation",
+      "prompt_ar": "أخويا حمّر البصلة امبارح، وبعد كده قدّمها لأخته.",
+      "tense": "Perfekt",
+      "verb_ids": [
+        173,
+        177
+      ],
+      "vocabulary_ids": [
+        "V004",
+        "V186",
+        "V005"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "rührt then probiert, main female sie and Akk sie, new verb with embedded fresh correction transfer. Prior probiert feedback known; no complete sentence model."
+      "target": "hat gebraten / hat serviert, die Zwiebel -> sie, seiner Schwester, danach V2. New173 plus177 contextual repair in explicitly requested Perfekt; no full model."
     }
   ],
   "completed_exercise_ids": [
@@ -12480,7 +12506,8 @@
     "2026-10-19-S02-E02",
     "2026-10-20-S01-E01",
     "2026-10-20-S02-E01",
-    "2026-10-20-S02-E02"
+    "2026-10-20-S02-E02",
+    "2026-10-20-S02-E03"
   ],
   "verbs": {
     "learned_total": 177,
@@ -25032,11 +25059,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich rühre; er rührt",
         "perfekt_reference": "hat gerührt",
@@ -25047,8 +25074,12 @@
         "source": "2026-10-20-S02",
         "tense_tracking": {
           "Präsens": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E03"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "independent_correct"
           },
           "Perfekt": {
             "status": "not_assessed",
@@ -25062,6 +25093,18 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:28:25+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E03",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": true,
+            "meaning_correct": true,
+            "note": "rührt correct first application."
           }
         ]
       },
@@ -25154,7 +25197,7 @@
         "identity_status": "new_inventory_verified",
         "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 1,
+        "recorded_attempts": 2,
         "independent_correct": 0,
         "last_reviewed": "2026-10-20",
         "historical_review_count": null,
@@ -25169,10 +25212,11 @@
           "Präsens": {
             "status": "practicing",
             "evidence_ids": [
-              "2026-10-20-S02-E02"
+              "2026-10-20-S02-E02",
+              "2026-10-20-S02-E03"
             ],
             "last_assessed_on": "2026-10-20",
-            "latest_result": "target_not_produced"
+            "latest_result": "meaning_and_present_correct_spelling_repair"
           },
           "Perfekt": {
             "status": "not_assessed",
@@ -25197,6 +25241,18 @@
             "independent": true,
             "correct": false,
             "note": "Target probiert not produced; malformed schmickt, intended identity unconfirmed."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:28:25+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E03",
+            "kind": "written_contextual_verb_use",
+            "tense": "Präsens",
+            "independent": true,
+            "correct": false,
+            "meaning_correct": true,
+            "note": "propiert -> probiert spelling b/p, lexical target now selected; exact written form needs repair."
           }
         ]
       },
@@ -30967,8 +31023,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 6,
-      "independent_correct": 10,
-      "independent_correct_since_last_error": 0,
+      "independent_correct": 11,
+      "independent_correct_since_last_error": 1,
       "successful_session_ids": [
         "2026-10-09-S02",
         "2026-10-18-S01",
@@ -31115,6 +31171,15 @@
           "independent": true,
           "correct": false,
           "note": "Explicit object sie for Suppe omitted after servieren."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:28:25+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E03",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
         }
       ]
     },
@@ -32101,8 +32166,8 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 20,
-      "independent_correct_since_last_error": 13,
+      "independent_correct": 21,
+      "independent_correct_since_last_error": 14,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
@@ -32276,6 +32341,15 @@
           "independent": true,
           "correct": true,
           "note": "danach hat er correct V2; tense error separate."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:28:25+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E03",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -32667,8 +32741,8 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 15,
-      "independent_correct_since_last_error": 7,
+      "independent_correct": 16,
+      "independent_correct_since_last_error": 8,
       "successful_session_ids": [
         "2026-10-18-S01",
         "2026-10-19-S01",
@@ -32847,6 +32921,15 @@
           "independent": true,
           "correct": true,
           "note": "er correctly preserves brother."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:28:25+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E03",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie/object sie and danach V2; fresh same-session success, statuses retained."
         }
       ]
     }
@@ -32946,8 +33029,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "E02 corrected: probiert, serviert, object sie; E03 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S02-E03",
+  "latest_study_state": "E03 grammar/meaning correct, propiert spelling repair; E04 pending.",
+  "next_suggested_action": "Answer 2026-10-20-S02-E04",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34356,6 +34439,14 @@
       "event": "written_answer_graded",
       "exercise_id": "2026-10-20-S02-E02",
       "note": "schmickt not a correct form; target intentional tasting probiert. Do not infer precise intended lemma or mark an invented independent schmecken attempt. Contrast taught Die Suppe schmeckt mir gut, acknowledging schmecken also has transitive sensory uses. hat...serviert is correctly formed Perfekt but requested present serviert; preserve form evidence separately. Missing explicit object sie for Suppe in return clause, seiner Schwester Dat and danach hat er V2/intended brother already correct. Full translation needs repair; no model/hint/audio."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:28:25+02:00",
+      "session_id": "2026-10-20-S02",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-20-S02-E03",
+      "note": "Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment."
     }
   ],
   "exercise_results": [
@@ -54706,6 +54797,31 @@
         "explicit_sie_object": "needs_retry",
         "danach_v2_subject": "independent_correct"
       }
+    },
+    {
+      "exercise_id": "2026-10-20-S02-E03",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:28:25+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي بتقلّب الشوربة، وبعد كده بتدوقها.",
+      "learner_answer": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+      "learner_answer_raw": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+      "correction": "Meine Schwester rührt die Suppe, danach probiert sie sie.",
+      "result": "independent_target_success_spelling_repair",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment.",
+      "dimensions": {
+        "ruehren_present": "independent_correct",
+        "probieren_meaning_selection": "independent_correct",
+        "probieren_spelling": "needs_retry",
+        "object_pronoun": "independent_correct",
+        "tense_and_word_order": "independent_correct"
+      }
     }
   ],
   "skill_tracking": {
@@ -56139,9 +56255,24 @@
       "due_on": "2026-10-21",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "needs_lexical_present_tense_object_repair_dativ_correct",
+      "last_result": "E03_probieren_meaning_present_and_object_correct_spelling_propiert_needs_b_servieren_still_pending",
       "evidence_ids": [
-        "2026-10-20-S02-E02"
+        "2026-10-20-S02-E02",
+        "2026-10-20-S02-E03"
+      ]
+    },
+    {
+      "id": "2026-10-20-ruehren-present",
+      "target_key": "ruehren_present_suppe_context",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-20-S02-A01",
+      "target": "Fresh rühren present in context; first retention check.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct_first_application",
+      "evidence_ids": [
+        "2026-10-20-S02-E03"
       ]
     }
   ],
@@ -92189,11 +92320,11 @@
           168,
           169,
           174,
-          177
+          177,
+          171
         ],
         "remaining_ids": [
           170,
-          171,
           172,
           173,
           175,
@@ -92244,9 +92375,34 @@
               "explicit_sie_object": "needs_retry",
               "danach_v2_subject": "independent_correct"
             }
+          },
+          {
+            "exercise_id": "2026-10-20-S02-E03",
+            "session_id": "2026-10-20-S02",
+            "activity_id": "2026-10-20-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:28:25+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي بتقلّب الشوربة، وبعد كده بتدوقها.",
+            "learner_answer": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+            "learner_answer_raw": "Meine Schwester rührt die Suppe, danach propiert sie sie",
+            "correction": "Meine Schwester rührt die Suppe, danach probiert sie sie.",
+            "result": "independent_target_success_spelling_repair",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Only spelling propiert -> probiert (b, not p). rührt, die Suppe, requested present, danach V2, subject sie and object sie all correct. Target probieren selection recognizable; not new wrong-meaning failure. Fresh object-pronoun transfer after E02 omission, not delayed retention. No exercise model/hint/audio; spelling not pronunciation assessment.",
+            "dimensions": {
+              "ruehren_present": "independent_correct",
+              "probieren_meaning_selection": "independent_correct",
+              "probieren_spelling": "needs_retry",
+              "object_pronoun": "independent_correct",
+              "tense_and_word_order": "independent_correct"
+            }
           }
         ],
-        "current_exercise_id": "2026-10-20-S02-E03",
+        "current_exercise_id": "2026-10-20-S02-E04",
         "new_vocabulary_ids": [
           "V186"
         ],

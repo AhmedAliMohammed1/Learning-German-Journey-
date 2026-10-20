@@ -178,7 +178,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 168 | schneiden | يقطّع / يقص | ich schneide; du schneidest; er schneidet | hat geschnitten | Ich schneide die Zwiebel. | practicing | + Akk; strong participle geschnitten |
 | 169 | schälen | يقشّر | ich schäle; er schält | hat geschält | Ich schäle den Apfel. | practicing | + Akk; regular |
 | 170 | mischen | يخلط | ich mische; er mischt | hat gemischt | Ich mische die Milch mit dem Kaffee. | introduced | + Akk; etwas mit etwas(Dat) mischen |
-| 171 | rühren | يقلّب / يحرّك خليط | ich rühre; er rührt | hat gerührt | Ich rühre die Suppe. | introduced | + Akk; also in etwas(Dat) rühren; not separable |
+| 171 | rühren | يقلّب / يحرّك خليط | ich rühre; er rührt | hat gerührt | Ich rühre die Suppe. | practicing | + Akk; also in etwas(Dat) rühren; not separable |
 | 172 | backen | يخبز / يسوّي في الفرن | ich backe; du backst/bäckst; er backt/bäckt | hat gebacken | Ich backe heute. | introduced | Both present variants valid; usual cooking participle gebacken; + Akk optional |
 | 173 | braten | يقلي / يحمّر / يشوي حسب السياق | ich brate; du brätst; er brät | hat gebraten | Ich brate die Zwiebel. | introduced | + Akk in cooking; strong participle gebraten; cooking in pan/oven, not only deep frying |
 | 174 | probieren | يجرّب / يدوق | ich probiere; er probiert | hat probiert | Ich probiere die Suppe. | practicing | + Akk; -ieren has no ge-; tasting or trying |
