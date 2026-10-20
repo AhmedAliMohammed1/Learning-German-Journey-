@@ -138,7 +138,7 @@
 | V130 | der Briefkasten | die Briefkästen | صندوق البريد | noun | practicing |
 | V131 | der Fahrkartenautomat | die Fahrkartenautomaten | ماكينة التذاكر | noun | introduced |
 | V132 | die Haltestelle | die Haltestellen | موقف / محطة الأتوبيس أو الترام | noun | introduced |
-| V133 | das Licht | die Lichter | النور / الضوء | noun | introduced |
+| V133 | das Licht | die Lichter | النور / الضوء | noun | practicing |
 | V134 | gestern | — | امبارح | adverb_or_adjective | practicing |
 | V135 | die Kantine | die Kantinen | الكانتين / مطعم الشركة أو الجامعة | noun | introduced |
 | V136 | die Besprechung | die Besprechungen | الاجتماع / اجتماع العمل | noun | introduced |

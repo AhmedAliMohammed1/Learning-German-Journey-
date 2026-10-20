@@ -649,3 +649,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## 2026-10-19-S02-E02 answered 2026-10-20 —separable zu and noun gender
 - Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio.
 - Previously correct Ladekabel uses retained. No false laufen conjugation or isolated mitnehmen recall failure. Grammar queueOct21; supported next variant flagged.
+
+## 2026-10-20-S01-E01 —supported separable-zu success
+- Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.
+- Separate noun gender from correct structure; fresh transfer pending.

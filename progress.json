@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T12:34:30+02:00",
+  "last_updated_at": "2026-10-20T12:38:36+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-20-S01",
   "sessions_recorded": 46,
-  "last_verified_study_at": "2026-10-20T12:34:30+02:00",
+  "last_verified_study_at": "2026-10-20T12:38:36+02:00",
   "active_topic": "ohne_zu_ohne_dass",
-  "next_action": "Await 2026-10-20-S01-E01 (Präsens): أختي بتمشي من غير ما تطفي النور. Earlier lesson near-model noted; later assess fresh independent transfer.",
+  "next_action": "Await 2026-10-20-S01-E02 (Präsens, ohne...zu): أنا ببعت الرسالة من غير ما أضيف المرفق.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11415,12 +11415,40 @@
         "V133",
         "V185"
       ],
+      "status": "completed",
+      "learner_answer": "Meine Schwester geht, ohne die Licht auszuschalten",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "Fresh separable zu form auszuschalten, main geht for leaving. Earlier lesson included ich+same predicate example: near-model instructional support acknowledged, not fully independent transfer.",
+      "support_note": "Initial lesson showed Ich gehe, ohne das Licht auszuschalten; new subject variation therefore near-model supported practice.",
+      "learner_answer_raw": "Meine Schwester geht, ohne die Licht auszuschalten",
+      "correction": "Meine Schwester geht, ohne das Licht auszuschalten.",
+      "result": "needs_retry",
+      "completed_at": "2026-10-20T12:38:36+02:00",
+      "near_model_support": true
+    },
+    {
+      "id": "2026-10-20-S01-E02",
+      "session_id": "2026-10-20-S01",
+      "activity_id": "2026-10-19-S02-A01",
+      "activity": "new_grammar_sentence_translation",
+      "grammar_topic": "ohne_zu_ohne_dass",
+      "prompt_ar": "أنا ببعت الرسالة من غير ما أضيف المرفق.",
+      "tense": "Präsens",
+      "verb_ids": [
+        64,
+        146
+      ],
+      "vocabulary_ids": [
+        "V003",
+        "V170",
+        "V185"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "Fresh separable zu form auszuschalten, main geht for leaving. Earlier lesson included ich+same predicate example: near-model instructional support acknowledged, not fully independent transfer.",
-      "support_note": "Initial lesson showed Ich gehe, ohne das Licht auszuschalten; new subject variation therefore near-model supported practice."
+      "target": "Fresh separable infinitive hinzufügen -> hinzuzufügen, den Anhang Akk, die Nachricht, same subject ohne. Prior rule known; no model for this sentence."
     }
   ],
   "completed_exercise_ids": [
@@ -12375,7 +12403,8 @@
     "2026-10-19-S01-E05",
     "2026-10-19-S01-E06",
     "2026-10-19-S02-E01",
-    "2026-10-19-S02-E02"
+    "2026-10-19-S02-E02",
+    "2026-10-20-S01-E01"
   ],
   "verbs": {
     "learned_total": 167,
@@ -12660,9 +12689,9 @@
         "study_status": "strong",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
+        "recorded_attempts": 2,
         "independent_correct": 1,
-        "last_reviewed": "2026-10-03",
+        "last_reviewed": "2026-10-20",
         "evidence": [
           {
             "date": "2026-10-03",
@@ -12672,6 +12701,17 @@
             "independent": true,
             "correct": true,
             "note": "gehen correctly used."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:38:36+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-20-S01-E01",
+            "kind": "written_contextual_verb_use",
+            "independent": false,
+            "correct": true,
+            "outcome": "correct_with_support",
+            "note": "Correct form in near-model subject variation; no independent counter increment."
           }
         ],
         "meaning_ar": "يذهب",
@@ -19098,9 +19138,9 @@
         "study_status": "practicing",
         "mastery": "unknown",
         "historical_review_count": null,
-        "recorded_attempts": 1,
+        "recorded_attempts": 2,
         "independent_correct": 1,
-        "last_reviewed": "2026-10-14",
+        "last_reviewed": "2026-10-20",
         "evidence": [
           {
             "date": "2026-10-07",
@@ -19133,6 +19173,17 @@
             "learner_answer_raw": "ausschalten",
             "correction": "ausschalten",
             "note": "Correct isolated infinitive/registered form, independent typed answer."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:38:36+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-20-S01-E01",
+            "kind": "written_contextual_verb_use",
+            "independent": false,
+            "correct": true,
+            "outcome": "correct_with_support",
+            "note": "Correct form in near-model subject variation; no independent counter increment."
           }
         ],
         "meaning_ar": "يطفئ / يغلق جهازًا أو النور",
@@ -25666,10 +25717,10 @@
         "status": "practicing",
         "introduced_on": "2026-10-19",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 2,
+        "recorded_attempts": 3,
         "independent_correct": 1,
         "activity_id": "2026-10-19-S02-A01",
-        "current_exercise_id": "2026-10-20-S01-E01",
+        "current_exercise_id": "2026-10-20-S01-E02",
         "subtopics": [
           "same_subject_infinitive",
           "different_subject_finite_clause",
@@ -25710,10 +25761,21 @@
             "same_subject_choice_correct": true,
             "separable_zu_correct": false,
             "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio."
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:38:36+02:00",
+            "session_id": "2026-10-20-S01",
+            "exercise_id": "2026-10-20-S01-E01",
+            "independent": false,
+            "correct": true,
+            "outcome": "correct_with_support",
+            "note": "Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next."
           }
         ],
         "selection_rationale": "Explicit new grammar choice; absent from topic register and dated lesson search. Builds on known zu/subordinate order with recent verbs; avoids relabeling old weakness as new.",
-        "full_translation_independent_correct": 0
+        "full_translation_independent_correct": 0,
+        "supported_correct": 1
       }
     ],
     "studied_verb_patterns": [
@@ -28102,13 +28164,23 @@
         "type": "noun",
         "article": "das",
         "plural": "die Lichter",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-07",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-20",
         "source": "2026-10-07-S01 final numbered batch",
-        "recorded_attempts": 0,
+        "recorded_attempts": 1,
         "independent_correct": 0,
-        "evidence": []
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-20-S01-E01",
+            "kind": "contextual_vocabulary_use",
+            "lexical_correct": true,
+            "article_correct": false,
+            "near_model_support": true,
+            "note": "die -> das Licht; preserve lexical identity success."
+          }
+        ]
       },
       {
         "id": "V134",
@@ -29742,7 +29814,7 @@
         "introduced_on": "2026-10-19",
         "last_reviewed": "2026-10-20",
         "source": "2026-10-19-S02-A01",
-        "recorded_attempts": 2,
+        "recorded_attempts": 3,
         "independent_correct": 2,
         "usage_example": "Ich gehe ohne meinen Bruder.",
         "evidence": [
@@ -29767,6 +29839,14 @@
             "independent": true,
             "correct": true,
             "note": "ohne selected correctly; separable zu placement assessed in grammar."
+          },
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-20-S01-E01",
+            "kind": "contextual_connector_use",
+            "independent": false,
+            "correct": true,
+            "outcome": "correct_with_support"
           }
         ]
       }
@@ -32225,8 +32305,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "Oct20 continuation: original E02 graded; new E01 pending; old day left open.",
-  "next_suggested_action": "Answer 2026-10-20-S01-E01",
+  "latest_study_state": "E01 supported separable success, Licht article repair; fresh E02 pending.",
+  "next_suggested_action": "Answer 2026-10-20-S01-E02",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -33576,6 +33656,14 @@
       "issued_session_id": "2026-10-19-S02",
       "exercise_id": "2026-10-19-S02-E02",
       "note": "Correct ohne choice, omitted shared subject, comma and main läuft conjugation. zu mitnehmen -> mitzunehmen (separable mit+zu+nehmen); den Ladekabel -> das Ladekabel, neuter Akk. läuft valid walking reading of broad Arabic بيمشي; geht preferred intended leaving sense, not blanket lexical failure and not independent gehen evidence. New main dateOct20, original exercise ID preserved. No model/hint/audio."
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:38:36+02:00",
+      "session_id": "2026-10-20-S01",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-20-S01-E01",
+      "note": "Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next."
     }
   ],
   "exercise_results": [
@@ -53857,6 +53945,30 @@
         "laufen_form": "independent_correct",
         "gehen_target": "not_assessed"
       }
+    },
+    {
+      "exercise_id": "2026-10-20-S01-E01",
+      "session_id": "2026-10-20-S01",
+      "activity_id": "2026-10-19-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:38:36+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي بتمشي من غير ما تطفي النور.",
+      "learner_answer": "Meine Schwester geht, ohne die Licht auszuschalten",
+      "learner_answer_raw": "Meine Schwester geht, ohne die Licht auszuschalten",
+      "correction": "Meine Schwester geht, ohne das Licht auszuschalten.",
+      "result": "needs_retry",
+      "independent": false,
+      "near_model_support": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.",
+      "dimensions": {
+        "ohne_zu_and_separable_form": "correct_with_support",
+        "licht_article": "needs_retry",
+        "main_verb_agreement": "correct_with_support"
+      }
     }
   ],
   "skill_tracking": {
@@ -55232,10 +55344,11 @@
       "due_on": "2026-10-21",
       "interval_index": 0,
       "status": "scheduled",
-      "last_result": "same_subject_choice_correct_separable_zu_needs_retry",
+      "last_result": "separable_auszuschalten_correct_with_near_model_support_article_repair",
       "evidence_ids": [
         "2026-10-19-S02-E01",
-        "2026-10-19-S02-E02"
+        "2026-10-19-S02-E02",
+        "2026-10-20-S01-E01"
       ]
     },
     {
@@ -55250,6 +55363,20 @@
       "last_result": "lexical_correct_den_instead_of_das",
       "evidence_ids": [
         "2026-10-19-S02-E02"
+      ]
+    },
+    {
+      "id": "2026-10-20-licht-article",
+      "target_key": "licht_neuter_article_context",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-19-S02-A01",
+      "target": "das Licht in a fresh context; article accuracy distinct from lexical retrieval.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "die_instead_of_das",
+      "evidence_ids": [
+        "2026-10-20-S01-E01"
       ]
     }
   ],
@@ -91187,7 +91314,7 @@
         "scope": "new_grammar",
         "status": "active",
         "grammar_topic": "ohne_zu_ohne_dass",
-        "current_exercise_id": "2026-10-20-S01-E01",
+        "current_exercise_id": "2026-10-20-S01-E02",
         "attempts": [
           {
             "exercise_id": "2026-10-19-S02-E01",
@@ -91239,6 +91366,30 @@
               "ladekabel_gender_article": "needs_retry",
               "laufen_form": "independent_correct",
               "gehen_target": "not_assessed"
+            }
+          },
+          {
+            "exercise_id": "2026-10-20-S01-E01",
+            "session_id": "2026-10-20-S01",
+            "activity_id": "2026-10-19-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T12:38:36+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي بتمشي من غير ما تطفي النور.",
+            "learner_answer": "Meine Schwester geht, ohne die Licht auszuschalten",
+            "learner_answer_raw": "Meine Schwester geht, ohne die Licht auszuschalten",
+            "correction": "Meine Schwester geht, ohne das Licht auszuschalten.",
+            "result": "needs_retry",
+            "independent": false,
+            "near_model_support": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Only substantive correction die Licht -> das Licht (neuter Akk). Correct geht, ohne same-subject structure and separable auszuschalten. Near-model support: original lesson Ich gehe, ohne das Licht auszuschalten; explicitly presented as close practice. Thus correct_with_support for target structure, not independent transfer/mastery. No audio; fresh transfer next.",
+            "dimensions": {
+              "ohne_zu_and_separable_form": "correct_with_support",
+              "licht_article": "needs_retry",
+              "main_verb_agreement": "correct_with_support"
             }
           }
         ],
