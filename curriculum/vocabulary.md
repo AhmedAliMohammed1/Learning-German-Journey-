@@ -191,7 +191,7 @@
 | V183 | der Kundendienst | die Kundendienste (أقسام/جهات؛ الخدمة نفسها غالبًا مفرد) | خدمة العملاء / قسم خدمة العملاء | noun | practicing |
 | V184 | das Ladekabel | die Ladekabel | كابل الشحن | noun | practicing |
 | V185 | ohne | — | من غير / بدون | preposition_connector | practicing |
-| V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | introduced |
+| V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | practicing |
 
 ## Learning notes
 

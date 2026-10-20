@@ -4,7 +4,7 @@
   "timezone": "Europe/Berlin",
   "initialized_on": "2026-10-03",
   "last_updated": "2026-10-20",
-  "last_updated_at": "2026-10-20T12:55:26+02:00",
+  "last_updated_at": "2026-10-20T13:19:49+02:00",
   "provenance": {
     "conversation_id": "6abcb4b3-c050-83eb-a1cd-f057a1c8d7d2",
     "baseline_source": "explicit learner-provided history backfill",
@@ -21,9 +21,9 @@
   "day_status": "open",
   "current_session_id": "2026-10-20-S02",
   "sessions_recorded": 47,
-  "last_verified_study_at": "2026-10-20T12:38:36+02:00",
+  "last_verified_study_at": "2026-10-20T13:19:49+02:00",
   "active_topic": "new_verbs_168_177",
-  "next_action": "Await 2026-10-20-S02-E01 (Perfekt): أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.",
+  "next_action": "Await 2026-10-20-S02-E02 (Präsens): أخويا بيدوق الشوربة، وبعد كده بيقدّمها لأخته.",
   "pending_exercises": [
     {
       "id": "2026-10-06-S02-E51",
@@ -11467,11 +11467,37 @@
         "V134",
         "V149"
       ],
+      "status": "completed",
+      "learner_answer": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+      "hint_used": false,
+      "model_shown": false,
+      "target": "hat geschält / hat geschnitten, die Zwiebel then Akk sie, danach V2 female subject. Present examples and Perfekt reference forms just taught; no full exercise model. First application, not delayed retention.",
+      "learner_answer_raw": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+      "correction": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten.",
+      "result": "independent_correct",
+      "completed_at": "2026-10-20T13:19:49+02:00"
+    },
+    {
+      "id": "2026-10-20-S02-E02",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "activity": "new_verbs_sentence_translation",
+      "prompt_ar": "أخويا بيدوق الشوربة، وبعد كده بيقدّمها لأخته.",
+      "tense": "Präsens",
+      "verb_ids": [
+        174,
+        177
+      ],
+      "vocabulary_ids": [
+        "V004",
+        "V048",
+        "V005"
+      ],
       "status": "pending",
       "learner_answer": null,
       "hint_used": false,
       "model_shown": false,
-      "target": "hat geschält / hat geschnitten, die Zwiebel then Akk sie, danach V2 female subject. Present examples and Perfekt reference forms just taught; no full exercise model. First application, not delayed retention."
+      "target": "probiert/serviert, feminine Akk sie, Dativ seiner Schwester, danach V2. No full sentence model."
     }
   ],
   "completed_exercise_ids": [
@@ -12427,7 +12453,8 @@
     "2026-10-19-S01-E06",
     "2026-10-19-S02-E01",
     "2026-10-19-S02-E02",
-    "2026-10-20-S01-E01"
+    "2026-10-20-S01-E01",
+    "2026-10-20-S02-E01"
   ],
   "verbs": {
     "learned_total": 177,
@@ -24829,11 +24856,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich schneide; du schneidest; er schneidet",
         "perfekt_reference": "hat geschnitten",
@@ -24848,8 +24875,12 @@
             "evidence_ids": []
           },
           "Perfekt": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E01"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "independent_correct_form_and_context"
           }
         },
         "evidence": [
@@ -24859,6 +24890,17 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:19:49+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E01",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "First correct application, not delayed retention; present unassessed."
           }
         ]
       },
@@ -24869,11 +24911,11 @@
         "introduced": true,
         "introduction_date": "2026-10-20",
         "identity_status": "new_inventory_verified",
-        "study_status": "introduced",
+        "study_status": "practicing",
         "mastery": "unknown",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
-        "last_reviewed": null,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
+        "last_reviewed": "2026-10-20",
         "historical_review_count": null,
         "praesens_reference": "ich schäle; er schält",
         "perfekt_reference": "hat geschält",
@@ -24888,8 +24930,12 @@
             "evidence_ids": []
           },
           "Perfekt": {
-            "status": "not_assessed",
-            "evidence_ids": []
+            "status": "practicing",
+            "evidence_ids": [
+              "2026-10-20-S02-E01"
+            ],
+            "last_assessed_on": "2026-10-20",
+            "latest_result": "independent_correct_form_and_context"
           }
         },
         "evidence": [
@@ -24899,6 +24945,17 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_present_perfekt_reference_and_example",
             "learner_attempt": false
+          },
+          {
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:19:49+02:00",
+            "session_id": "2026-10-20-S02",
+            "exercise_id": "2026-10-20-S02-E01",
+            "kind": "written_contextual_verb_use",
+            "tense": "Perfekt",
+            "independent": true,
+            "correct": true,
+            "note": "First correct application, not delayed retention; present unassessed."
           }
         ]
       },
@@ -30280,12 +30337,12 @@
         "plural": "die Zwiebeln",
         "meaning_ar": "البصلة / البصل",
         "type": "noun",
-        "status": "introduced",
+        "status": "practicing",
         "introduced_on": "2026-10-20",
-        "last_reviewed": null,
+        "last_reviewed": "2026-10-20",
         "source": "2026-10-20-S02-A01",
-        "recorded_attempts": 0,
-        "independent_correct": 0,
+        "recorded_attempts": 1,
+        "independent_correct": 1,
         "usage_example": "Ich kaufe eine Zwiebel.",
         "evidence": [
           {
@@ -30294,6 +30351,16 @@
             "session_id": "2026-10-20-S02",
             "kind": "introduced_with_example",
             "independently_recalled": false
+          },
+          {
+            "date": "2026-10-20",
+            "exercise_id": "2026-10-20-S02-E01",
+            "kind": "contextual_vocabulary_use",
+            "independent": true,
+            "lexical_correct": true,
+            "article_correct": true,
+            "plural_assessed": false,
+            "note": "Correct die Zwiebel and feminine object sie in first application."
           }
         ]
       }
@@ -30830,13 +30897,14 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 5,
-      "independent_correct": 9,
-      "independent_correct_since_last_error": 4,
+      "independent_correct": 10,
+      "independent_correct_since_last_error": 5,
       "successful_session_ids": [
         "2026-10-09-S02",
-        "2026-10-18-S01"
+        "2026-10-18-S01",
+        "2026-10-20-S02"
       ],
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-10-20",
       "evidence": [
         {
           "date": "2026-10-09",
@@ -30959,6 +31027,15 @@
           "independent": true,
           "correct": true,
           "note": "es correctly refers to das Buch, and es ihr correctly orders two object pronouns."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:19:49+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E01",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
         }
       ]
     },
@@ -31945,16 +32022,17 @@
       "assessment_date": "2026-10-03",
       "historical_error_count": null,
       "recorded_errors": 2,
-      "independent_correct": 18,
-      "independent_correct_since_last_error": 11,
+      "independent_correct": 19,
+      "independent_correct_since_last_error": 12,
       "successful_session_ids": [
         "2026-10-03-S01",
         "2026-10-03-S02",
         "2026-10-05-S01",
         "2026-10-18-S01",
-        "2026-10-19-S01"
+        "2026-10-19-S01",
+        "2026-10-20-S02"
       ],
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-10-20",
       "evidence": [
         {
           "date": "2026-10-03",
@@ -32101,6 +32179,15 @@
           "independent": true,
           "correct": true,
           "note": "danach habe ich correctly preserves actor shift and V2; statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:19:49+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E01",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
         }
       ],
       "status_changed_on": "2026-10-18",
@@ -32492,13 +32579,14 @@
       "assessment_date": "2026-10-09",
       "historical_error_count": null,
       "recorded_errors": 4,
-      "independent_correct": 13,
-      "independent_correct_since_last_error": 5,
+      "independent_correct": 14,
+      "independent_correct_since_last_error": 6,
       "successful_session_ids": [
         "2026-10-18-S01",
-        "2026-10-19-S01"
+        "2026-10-19-S01",
+        "2026-10-20-S02"
       ],
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-10-20",
       "evidence": [
         {
           "date": "2026-10-09",
@@ -32653,6 +32741,15 @@
           "independent": true,
           "correct": true,
           "note": "danach habe ich correctly preserves actor shift and V2; statuses retained."
+        },
+        {
+          "date": "2026-10-20",
+          "timestamp": "2026-10-20T13:19:49+02:00",
+          "session_id": "2026-10-20-S02",
+          "exercise_id": "2026-10-20-S02-E01",
+          "independent": true,
+          "correct": true,
+          "note": "Correct subject sie and Akk object sie referring to Zwiebel; danach V2 correct. Existing statuses retained."
         }
       ]
     }
@@ -32752,8 +32849,8 @@
     }
   },
   "latest_study_date": "2026-10-20",
-  "latest_study_state": "New verbs168–177 introduced; zero attempts; E01 pending.",
-  "next_suggested_action": "Answer 2026-10-20-S02-E01",
+  "latest_study_state": "New batch E01 fully correct first application; E02 pending.",
+  "next_suggested_action": "Answer 2026-10-20-S02-E02",
   "active_grammar": "ohne_zu_ohne_dass",
   "session_count_scope": "individually_logged_live_sessions_only; historical session count unknown",
   "historical_session_count": null,
@@ -34146,6 +34243,14 @@
       ],
       "attempts_recorded": 0,
       "pending_exercise_id": "2026-10-20-S02-E01"
+    },
+    {
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:19:49+02:00",
+      "session_id": "2026-10-20-S02",
+      "event": "written_answer_graded",
+      "exercise_id": "2026-10-20-S02-E01",
+      "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery."
     }
   ],
   "exercise_results": [
@@ -54451,6 +54556,25 @@
         "licht_article": "needs_retry",
         "main_verb_agreement": "correct_with_support"
       }
+    },
+    {
+      "exercise_id": "2026-10-20-S02-E01",
+      "session_id": "2026-10-20-S02",
+      "activity_id": "2026-10-20-S02-A01",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T13:19:49+02:00",
+      "mode": "written_sentence_translation",
+      "prompt_ar": "أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.",
+      "learner_answer": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+      "learner_answer_raw": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+      "correction": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten.",
+      "result": "independent_correct",
+      "independent": true,
+      "hint_used": false,
+      "copied": false,
+      "actual_audio_assessed": false,
+      "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery.",
+      "prior_instruction": "Present examples and Perfekt reference forms taught; no exercise-specific model."
     }
   ],
   "skill_tracking": {
@@ -55859,6 +55983,20 @@
       "last_result": "die_instead_of_das",
       "evidence_ids": [
         "2026-10-20-S01-E01"
+      ]
+    },
+    {
+      "id": "2026-10-20-schaelen-schneiden",
+      "target_key": "schaelen_schneiden_perfekt_zwiebel_pronoun",
+      "mode": "written_sentence_translation",
+      "activity_id": "2026-10-20-S02-A01",
+      "target": "Fresh schälen/schneiden Perfekt, Zwiebel and feminine Akk pronoun; first next-day retention check.",
+      "due_on": "2026-10-21",
+      "interval_index": 0,
+      "status": "scheduled",
+      "last_result": "independent_correct_first_application",
+      "evidence_ids": [
+        "2026-10-20-S02-E01"
       ]
     }
   ],
@@ -91902,10 +92040,11 @@
           176,
           177
         ],
-        "tested_ids": [],
-        "remaining_ids": [
+        "tested_ids": [
           168,
-          169,
+          169
+        ],
+        "remaining_ids": [
           170,
           171,
           172,
@@ -91915,8 +92054,28 @@
           176,
           177
         ],
-        "attempts": [],
-        "current_exercise_id": "2026-10-20-S02-E01",
+        "attempts": [
+          {
+            "exercise_id": "2026-10-20-S02-E01",
+            "session_id": "2026-10-20-S02",
+            "activity_id": "2026-10-20-S02-A01",
+            "date": "2026-10-20",
+            "timestamp": "2026-10-20T13:19:49+02:00",
+            "mode": "written_sentence_translation",
+            "prompt_ar": "أختي قشّرت البصلة امبارح، وبعد كده قطّعتها.",
+            "learner_answer": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+            "learner_answer_raw": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten",
+            "correction": "Meine Schwester hat gestern die Zwiebel geschält, danach hat sie sie geschnitten.",
+            "result": "independent_correct",
+            "independent": true,
+            "hint_used": false,
+            "copied": false,
+            "actual_audio_assessed": false,
+            "note": "Independently correct complete first application after new references: hat geschält, hat geschnitten, die Zwiebel, first sie subject/second sie Akk object, danach V2 and gestern. Only optional final punctuation added; comma between main clauses valid. Teaching references known, no full sentence model/hint; not delayed retention or mastery.",
+            "prior_instruction": "Present examples and Perfekt reference forms taught; no exercise-specific model."
+          }
+        ],
+        "current_exercise_id": "2026-10-20-S02-E02",
         "new_vocabulary_ids": [
           "V186"
         ],
