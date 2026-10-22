@@ -30,6 +30,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
 | Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
 | ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
+| während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | introduced | New grammar 2026-10-22-S02; no assessed answers yet |
 
 ## Cases and pronouns
 
@@ -694,3 +695,35 @@ S03-E10 independently correct obwohl clause-final habe and main-clause V2 verbes
 
 ## 2026-10-20-S02-E05 —schmecken experiencer
 - First clause correct; mass-noun mit Kaffee without article valid, dem not required. Near-model prior instruction for mixing clause remains supported. Second clause correct der Kaffee as subject and und subject-first order, but schmickt -> schmeckt and meinen Bruder -> meinem Bruder (Dativ experiencer). gut added for explicit tastes good; schmeckt meinem Bruder alone can idiomatically mean he likes its taste, so no mandatory missing-gut error. No audio/full exercise model; independent second-clause attempt, no global mastery.
+
+
+## New grammar — während (2026-10-22)
+
+New main topic selected explicitly under Start new study day → New grammar on 2026-10-22-S02. No independent learner answers yet; status **introduced**.
+
+**während** has two important functions:
+
+1. **Conjunction:** temporal “while / while ... is happening,” and contrastive “whereas”; introduces a subordinate clause with conjugated verb **last**.
+   - Während meine Schwester kocht, lerne ich Deutsch.
+   - Ich lerne Deutsch, während meine Schwester kocht.
+   - Während ich gearbeitet habe, hat meine Schwester gelernt.
+   - Während ich Kaffee mag, trinkt mein Bruder lieber Tee. (contrast, not necessarily simultaneous)
+2. **Preposition:** “during + noun phrase,” typically **Genitiv** in standard German.
+   - während der Arbeit (die Arbeit → der Arbeit)
+   - Während der Arbeit habe ich eine Nachricht bekommen.
+   - **während meiner Arbeit** also possible if possessive intended. Everyday colloquial Dativ is heard but standard teaching should prefer Genitiv. With feminine noun **der Arbeit**, Genitiv and Dativ look identical, so this example cannot establish case mastery by itself.
+
+Conjunction structure:
+- [Während + subject + other elements + finite verb], [finite main verb + main subject + ...].
+- [Main clause finite verb in position 2], während + subject + ... + finite verb.
+- In subordinate Perfekt, participle precedes auxiliary: **während ich gearbeitet habe**.
+- Modal: **während ich lernen muss**.
+- Separable present: **während ich meine Tasche einpacke** (not **packe ... ein** in subordinate clause).
+- Reflexive: **während ich mich vorbereite**.
+- Scope of negative: **während ich nicht arbeite** is different from **während ich arbeite, benutze ich mein Handy nicht**.
+- Unlike **bevor** (before), **während** links overlapping actions; unlike **weil** (because) it gives time/contrast, not a reason.
+- Simple time contrast: **während** two ongoing actions versus **als** single past event, **wenn** repeated time or condition; not an absolute ban on past events with während.
+- Contrast sense can overlap with **aber** but während introduces a subordinate clause and uses verb-final order; **aber** coordinates normal main-clause order.
+
+Exercise pending **2026-10-22-S02-E01** Arabic-to-German full sentence (Präsens): «بينما أختي بتحضّر الأكل، أنا براجع الرسالة.» No German model before answer. Existing verbs: vorbereiten, prüfen; no new vocabulary items. Track first attempt separately from teaching examples.
+
