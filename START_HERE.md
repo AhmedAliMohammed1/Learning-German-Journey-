@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E07 graded
+
+Active2026-10-23-S02,7attempts. Raw `Meine Schwester hat sich gestern gebeeilt, danach hat sie sich zu Hause ausgeruht` → `Meine Schwester hat sich gestern beeilt, danach hat sie sich zu Hause ausgeruht.`. Only gebeeilt→beeilt, inseparable be- no ge-. Both reflexive pronouns/auxiliaries correct; full ausruhen clause independent correct.181/182Perfekt practicing. Next2026-10-23-S02-E08 Perfekt «أخويا صحي بدري امبارح، وبعد كده صحّى أخته.», no model. Diagnostic2 following first full new-verb pass; at most3–5then progression.187/187/53unchanged; all prior queues retained.
+
 ## LIVE answer checkpoint —2026-10-23-S02-E06 graded
 
 Active2026-10-23-S02,6attempts; all10new verbs attempted, not mastery/full tense coverage. Raw `Mein Bruder hat gestern eingeschlaft, danach hat meine Schwester den Wecker ausgeschaltet (or zugemacht)`; correction `Mein Bruder ist gestern eingeschlafen, danach hat meine Schwester den Wecker ausgeschaltet.`. Repair sein/PartizipII; whole primary alarm clause correct. Alternative zugemacht inappropriate for switching off alarm, correct primary retained. V187denWecker correct, practicing. Next2026-10-23-S02-E07 Perfekt «أختي استعجلت امبارح، وبعد كده ارتاحت في البيت.», no model. Short cross-tense diagnostic up to3–5sentences then progression.187/187/53unchanged; all old queues retained.
