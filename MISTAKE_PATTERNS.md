@@ -668,3 +668,7 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 - Six written infinitive repairs: serviern→servieren, entfehrnen→entfernen, vorbereit→vorbereiten, akualisieren→aktualisieren, storniern→stornieren, verschiben→verschieben. Spelling/form only, no audio diagnosis.
 - einpacken(pack) vs auspacken(unpack): one meaning contrast. annehmen for broad proposal acceptance, holen for broad bringing/fetching, abholen for collecting accepted contextually; zustimmen/bringen/holen targets remain unconfirmed, not blanket semantic failures.
 - sich anmelden and sich entscheiden accepted isolated forms; für not required in isolated recall. ankommen/erhalten explicitly included among supplied alternatives, correct. HTML space entities ignored. No contextual grammar-status changes from this batch.
+
+## Dated evidence —2026-10-23-S02-E01
+- Raw `Meine Schwester hat gestern meinem Bruder aufgeweckt, danach hat er aufgestehet`; correction `Meine Schwester hat gestern meinen Bruder aufgeweckt, danach ist er aufgestanden.`.
+- M02/M14: meinen Bruder Akk after aufwecken, not meinem. M28 finite position after danach correct; M34 intended er correct. Existing baseline statuses retained, fresh error/success counters and exact dimensions in JSON. aufstehen auxiliary/participle retest dueOct24; no infinitive-recall downgrade.

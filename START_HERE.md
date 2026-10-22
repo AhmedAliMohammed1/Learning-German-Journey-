@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E01 graded
+
+Active2026-10-23-S02; E01 raw `Meine Schwester hat gestern meinem Bruder aufgeweckt, danach hat er aufgestehet` corrected `Meine Schwester hat gestern meinen Bruder aufgeweckt, danach ist er aufgestanden.`. Correct new180Perfekt form, intended er and danach position; repair Akk meinen, ist aufgestanden. One attempt,0 fully correct sentences;180practicing, old48Perfekt errors separate from mastered infinitive. Next2026-10-23-S02-E02 Präsens «أخويا بيستعجل علشان الأتوبيس جاي، وأختي بتاخد راحة في البيت.», no model yet.187verbs/187vocabulary/53sessions unchanged. Case/aufstehen retestsOct24; all old queues retained.
+
 ## LIVE handoff —2026-10-23 new verbs178–187
 
 Explicit main menu4→2. DayOPEN active2026-10-23-S02, activity2026-10-23-S02-A01;187verbs/187vocabulary/53sessions,2today. New178aufwachen,179einschlafen,180aufwecken,181sich ausruhen,182sich beeilen,183frühstücken,184aufmachen,185zumachen,186aufhängen,187trocknen andV187der Wecker introduced with present/Perfekt/examples/usage. Zero attempts. Exact next2026-10-23-S02-E01, Perfekt «أختي صحّت أخويا من النوم امبارح، وبعد كده هو قام من السرير.»; no German exercise-specific model. Preserve deferred أثناء/während2026-10-22-S02-E02 in pausedOct23-S01, all earlier recall/sentence/Perfekt/retest queues. No day closure/mastery/audio inference. Full inventory/history uniqueness verified. Next practice70%new/30%embedded old. ReadJSON/day.
