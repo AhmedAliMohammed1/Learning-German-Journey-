@@ -8,4 +8,4 @@ Next unanswered **2026-10-22-S02-E01**, Arabic Präsens full sentence: «بين�
 
 Inventory counts: **177 verbs / 186 vocabulary items / 51 documented sessions** (including Oct22 S02). Old Oct21 retry10/Perfekt132 and other unfinished exercises still deferred. Oct22 session S01 retry target IDs [177,151,106,108,145,37] remain in its recorded log, not overwritten.
 
-Synchronization caveat: huge progress.json was last updated Oct21 and prior attempted mutation failed. Newer truth is dated log + CURRENT_STATE + START_HERE + grammar curriculum. On a capable save, merge current sessions and exercise state into JSON without inventing answers. No audio assessment.
+Persistence: progress.json successfully synchronized and verified with 29 Oct22 results and grammar waehrend status introduced; no missing sync.
