@@ -32,7 +32,7 @@
 | V024 | spät | — | متأخر | adverb_or_adjective | introduced |
 | V025 | früh | — | مبكر | adverb_or_adjective | introduced |
 | V026 | der Stuhl | die Stühle | الكرسي | noun | introduced |
-| V027 | die Tür | die Türen | الباب | noun | introduced |
+| V027 | die Tür | die Türen | الباب | noun | practicing |
 | V028 | vor der Tür | — | أمام الباب | expression | introduced |
 | V029 | das Geld | — | المال | noun | introduced |
 | V030 | der Name | die Namen | الاسم | noun | introduced |
@@ -70,7 +70,7 @@
 | V062 | die Hilfe | die Hilfen | المساعدة | noun | practicing |
 | V063 | der Tisch | die Tische | الطاولة | noun | introduced |
 | V064 | die Flasche | die Flaschen | الزجاجة | noun | introduced |
-| V065 | das Fenster | die Fenster | النافذة | noun | introduced |
+| V065 | das Fenster | die Fenster | النافذة | noun | practicing |
 | V066 | kalt | — | بارد | adverb_or_adjective | introduced |
 | V067 | die Stadt | die Städte | المدينة | noun | introduced |
 | V068 | das Kind | die Kinder | الطفل | noun | introduced |

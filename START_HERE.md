@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E04 graded
+
+Active2026-10-23-S02,4attempts. E04 `Mein Bruder hat gestern das Fenster aufgemacht, danach hat er der Tür zugemacht` → `Mein Bruder hat gestern das Fenster aufgemacht, danach hat er die Tür zugemacht.`. Both new Perfekt forms correct, only der Tür→die Tür feminine Akk object.184/185Perfekt practicing, no mastery. Next2026-10-23-S02-E05 Präsens «أختي بتنشف القميص، وبعد كده بتعلّقه.», no model yet.187/187/53unchanged. All prior mistakes/prompts/queues retained.
+
 ## LIVE answer checkpoint —2026-10-23-S02-E03 graded
 
 Active2026-10-23-S02,3attempts. E03 `Meine Schwester hat gestern aufgewacht, danach hat sie mit meinem Bruder gefrühstückt` → `Meine Schwester ist gestern früh aufgewacht, danach hat sie mit meinem Bruder gefrühstückt.`. Correct participles/full breakfast clause/mitDativ/danachV2/sie; repair sein auxiliary and missing früh.178/183Perfekt practicing; retestsOct24. Next2026-10-23-S02-E04 Perfekt «أخويا فتح الشباك امبارح، وبعد كده قفل الباب.», use new batch open/close forms, accept prior synonyms fairly. No model.187/187/53 unchanged, all older queues preserved.
