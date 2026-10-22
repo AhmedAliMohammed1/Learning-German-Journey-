@@ -1,6 +1,10 @@
 # START HERE — AI session protocol
 
-Read live JSON and explain in Egyptian Arabic.
+Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
+
+## LIVE handoff — 2026-10-22 29-verb targeted recall graded, returned to main menu
+
+User selected targeted review of all newer/unsecure verbs, answered all 29 at once, then explicitly requested save and main menu. Full raw 29 answers and graded meanings are in days/2026-10-22.md. Session2026-10-22-S01 paused; day OPEN, no active prompt. 23 exact target forms, #14 absagen contextually accepted (storniern spelling repair); #2 annehmen and #18 mitbringen contextually valid alternatives but target zustimmen/bringen unconfirmed; #1 serviern and #8 vorbereit form repairs; #16 vorschlagen means propose, target verschieben not recalled. Retry IDs [177,151,106,108,145,37] when selected. 177 verbs,186 vocab,50 sessions. No Perfekt/context/audio mastery claims; preserve old 10-retry/132 Perfekt plus earlier activities. **IMPORTANT: progress.json remains dated Oct21 because its huge write failed; do not treat it as latest, backfill dated evidence on successful write.** Read CURRENT_STATE.md and days/2026-10-22.md. Offer nine-choice main menu unless learner specifies new activity.
 
 ## LIVE handoff —2026-10-21 recall132 graded
 
