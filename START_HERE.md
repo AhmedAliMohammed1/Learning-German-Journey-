@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
-## LIVE handoff — 2026-10-23 continuation of während (after midnight)
+## LIVE handoff —2026-10-23 new verbs178–187
+
+Explicit main menu4→2. DayOPEN active2026-10-23-S02, activity2026-10-23-S02-A01;187verbs/187vocabulary/53sessions,2today. New178aufwachen,179einschlafen,180aufwecken,181sich ausruhen,182sich beeilen,183frühstücken,184aufmachen,185zumachen,186aufhängen,187trocknen andV187der Wecker introduced with present/Perfekt/examples/usage. Zero attempts. Exact next2026-10-23-S02-E01, Perfekt «أختي صحّت أخويا من النوم امبارح، وبعد كده هو قام من السرير.»; no German exercise-specific model. Preserve deferred أثناء/während2026-10-22-S02-E02 in pausedOct23-S01, all earlier recall/sentence/Perfekt/retest queues. No day closure/mastery/audio inference. Full inventory/history uniqueness verified. Next practice70%new/30%embedded old. ReadJSON/day.
+
+## Historical handoff — 2026-10-23 continuation of während (after midnight)
 
 Oct23 day OPEN, new session **2026-10-23-S01** is active; Oct22-S02 paused at date rollover, Oct22 day not closed. Last real answer Oct22 E01 fully correct: `Während meine Schwester das Essen vorbereitet, prüfe ich die Nachricht`. Topic während practicing, not mastered. **Exact next exercise** (keep original ID **2026-10-22-S02-E02**, issued on Oct22 and still unanswered): «أنا بوضّب الشنطة، بينما أخويا بيحضّر الأكل.» User writes full German Präsens sentence, no German model before first answer. Tests postposed während and separable einpacken. No Oct23 answer yet. 177 verbs, 186 vocabulary, 52 sessions including new Oct23 S01; Oct22 29 verb recall and all older queues preserved. Updated progress.json and days/2026-10-23.md, verified. Continue already-selected grammar activity if user asks to continue, or offer nine-choice menu on generic startup.
 
