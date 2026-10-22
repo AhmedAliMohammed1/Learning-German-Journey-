@@ -48,7 +48,7 @@
 | V040 | der Nachbar | die Nachbarn | الجار | noun | introduced |
 | V041 | die Adresse | die Adressen | العنوان | noun | introduced |
 | V042 | das Abendessen | die Abendessen | العشاء | noun | introduced |
-| V043 | das Hemd | die Hemden | القميص | noun | introduced |
+| V043 | das Hemd | die Hemden | القميص | noun | practicing |
 | V044 | die Regel | die Regeln | القاعدة | noun | introduced |
 | V045 | die Prüfung | die Prüfungen | الامتحان | noun | introduced |
 | V046 | das Wasser | — | الماء | noun | introduced |

@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E05 graded
+
+Active2026-10-23-S02,5attempts. E05 `Meine Schwester trockt das Hemd, danach hängt sie es auf` → `Meine Schwester trocknet das Hemd, danach hängt sie es auf.`. Only trockt→trocknet form repair; independent hängt...auf/es/danach/sie correct. First clause near-model support, no full independent success.186/187Präsens practicing. Next2026-10-23-S02-E06 Perfekt «أخويا غلبه النوم امبارح، وبعد كده أختي طفت المنبّه.», last unattempted179einschlafen+old100ausschalten/V187Wecker. No model.187/187/53unchanged; prior queues retained.
+
 ## LIVE answer checkpoint —2026-10-23-S02-E04 graded
 
 Active2026-10-23-S02,4attempts. E04 `Mein Bruder hat gestern das Fenster aufgemacht, danach hat er der Tür zugemacht` → `Mein Bruder hat gestern das Fenster aufgemacht, danach hat er die Tür zugemacht.`. Both new Perfekt forms correct, only der Tür→die Tür feminine Akk object.184/185Perfekt practicing, no mastery. Next2026-10-23-S02-E05 Präsens «أختي بتنشف القميص، وبعد كده بتعلّقه.», no model yet.187/187/53unchanged. All prior mistakes/prompts/queues retained.

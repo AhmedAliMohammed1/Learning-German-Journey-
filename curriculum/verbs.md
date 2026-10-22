@@ -193,8 +193,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 183 | frühstücken | يفطر / ياكل الفطار | ich frühstücke; er frühstückt | hat gefrühstückt | Ich frühstücke mit meiner Schwester. | practicing | regular; normally intransitive; mit + Dat for companion. |
 | 184 | aufmachen | يفتح — تعبير يومي | ich mache auf; er macht auf | hat aufgemacht | Ich mache das Fenster auf. | practicing | separable; Akk object; everyday synonym of known öffnen, distinct new lemma. |
 | 185 | zumachen | يقفل — تعبير يومي | ich mache zu; er macht zu | hat zugemacht | Ich mache die Tür zu. | practicing | separable; Akk object; everyday synonym of known schließen, distinct new lemma. |
-| 186 | aufhängen | يعلّق حاجة | ich hänge auf; er hängt auf | hat aufgehängt | Ich hänge meine Jacke auf. | introduced | separable; transitive + Akk; weak past aufgehängt for hanging an object. |
-| 187 | trocknen | ينشّف حاجة / ينشف | ich trockne; er trocknet | hat getrocknet (transitive); ist getrocknet (intransitive) | Ich trockne das Hemd. | introduced | Transitive: Ich habe das Hemd getrocknet. Intransitive: Das Hemd ist getrocknet. er trocknet, not trocknt. |
+| 186 | aufhängen | يعلّق حاجة | ich hänge auf; er hängt auf | hat aufgehängt | Ich hänge meine Jacke auf. | practicing | separable; transitive + Akk; weak past aufgehängt for hanging an object. |
+| 187 | trocknen | ينشّف حاجة / ينشف | ich trockne; er trocknet | hat getrocknet (transitive); ist getrocknet (intransitive) | Ich trockne das Hemd. | practicing | Transitive: Ich habe das Hemd getrocknet. Intransitive: Das Hemd ist getrocknet. er trocknet, not trocknt. |
 
 ## How to read the table
 
