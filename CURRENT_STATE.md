@@ -1,3 +1,10 @@
-# Current learner state —2026-10-21 recall graded
+# Current learner state — 2026-10-22, targeted verb recall graded and paused
 
-DayOPEN active2026-10-21-S01, activity2026-10-20-S03-A01. All132 B01 answers graded:122 matching/accepted target infinitives,6 spelling/form repairs (indices4/8/22/36/111/113),1 meaning contrast58 einpacken vs auspacken,3 contextual alternatives7/12/16 with target unconfirmed. Retry10 target IDs[177, 151, 147, 37, 38, 106, 143, 123, 108, 145];132 Perfekt forms deferred. No fresh prompt issued; on continuation shuffled retry10.177verbs/186vocabulary/49sessions,1today. No global/contextual/audio mastery changes. Oct20 left open with pausedS03. Preserve all old sentence/recall activities and queues. Raw results and alternatives in JSON/day.
+Learner chose targeted recall of newer + not-secure verbs, Arabic → German Infinitiv, requested all at once, submitted 29 numbered answers and asked to save and return to main menu. No further prompt active.
+
+29 distinct target IDs (question order): 177,151,168,147,162,38,169,106,175,143,165,123,171,108,160,145,172,37,176,158,170,159,173,163,166,174,161,164,167.
+Results: 23 exact target forms; 1 contextually accepted target/partial spelling (#14 absagen / storniern → stornieren); 2 valid contextual alternatives but intended targets unconfirmed (#2 annehmen for zustimmen; #18 mitbringen for bringen); 2 target-identifiable spelling/form fixes (#1 serviern → servieren; #8 vorbereit → vorbereiten); 1 wrong target (#16 vorschlagen → verschieben). Feedback given already; don't count any as contextual/Perfekt/oral mastery. Retry six IDs: 177,151,106,108,145,37. Accepted 23 exact + 1 contextually accepted, not global mastery.
+
+Today Oct22: session 2026-10-22-S01 targeted review paused; day OPEN, no active session after user requested main menu. Intro inventory unchanged: 177 verbs, 186 registered vocabulary, 50 recorded sessions including Oct22. No newly introduced items.
+
+Preserve earlier Oct21/Oct20 unfinished recall including retry10, deferred 132 Perfekt forms, and all earlier tasks. Latest actual answer grading is 2026-10-22. Offer nine-choice main menu on next startup. Complete raw 29 answers preserved in day log / checkpoint. If progress.json still reports Oct21, synchronize rather than overwrite earlier evidence.
