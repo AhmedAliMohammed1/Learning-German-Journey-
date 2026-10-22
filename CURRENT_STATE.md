@@ -1,10 +1,11 @@
-# Current learner state — 2026-10-22, targeted verb recall graded and paused
+# Current learner state — 2026-10-22 new grammar während
 
-Learner chose targeted recall of newer + not-secure verbs, Arabic → German Infinitiv, requested all at once, submitted 29 numbered answers and asked to save and return to main menu. No further prompt active.
+Day OPEN; active session **2026-10-22-S02**, new study day menu 4 → new grammar 1. Last session S01: 29 targeted isolated verb answers fully graded and PAUSED on menu return, all raw results in days/2026-10-22.md. No loss of older review queues.
 
-29 distinct target IDs (question order): 177,151,168,147,162,38,169,106,175,143,165,123,171,108,160,145,172,37,176,158,170,159,173,163,166,174,161,164,167.
-Results: 23 exact target forms; 1 contextually accepted target/partial spelling (#14 absagen / storniern → stornieren); 2 valid contextual alternatives but intended targets unconfirmed (#2 annehmen for zustimmen; #18 mitbringen for bringen); 2 target-identifiable spelling/form fixes (#1 serviern → servieren; #8 vorbereit → vorbereiten); 1 wrong target (#16 vorschlagen → verschieben). Feedback given already; don't count any as contextual/Perfekt/oral mastery. Retry six IDs: 177,151,106,108,145,37. Accepted 23 exact + 1 contextually accepted, not global mastery.
+New grammar **während**, not previously in topic map or curriculum: conjunction while/whereas with finite verb last in subordinate clause, main-clause V2 after fronting; temporal vs contrast meanings, Präsens/Perfekt, modal, separable, reflexive, negation; and preposition + Genitiv. Full teaching in curriculum/grammar.md and session log. Topic **introduced**, no learner answers or grammar mastery recorded yet. No new verbs or vocabulary counted.
 
-Today Oct22: session 2026-10-22-S01 targeted review paused; day OPEN, no active session after user requested main menu. Intro inventory unchanged: 177 verbs, 186 registered vocabulary, 50 recorded sessions including Oct22. No newly introduced items.
+Next unanswered **2026-10-22-S02-E01**, Arabic Präsens full sentence: «بينما أختي بتحضّر الأكل، أنا براجع الرسالة.» No German exercise model shown. Await learner response, correct entire sentence in Egyptian Arabic, then fresh variation; continue new grammar without forcing prior review.
 
-Preserve earlier Oct21/Oct20 unfinished recall including retry10, deferred 132 Perfekt forms, and all earlier tasks. Latest actual answer grading is 2026-10-22. Offer nine-choice main menu on next startup. Complete raw 29 answers preserved in day log / checkpoint. If progress.json still reports Oct21, synchronize rather than overwrite earlier evidence.
+Inventory counts: **177 verbs / 186 vocabulary items / 51 documented sessions** (including Oct22 S02). Old Oct21 retry10/Perfekt132 and other unfinished exercises still deferred. Oct22 session S01 retry target IDs [177,151,106,108,145,37] remain in its recorded log, not overwritten.
+
+Synchronization caveat: huge progress.json was last updated Oct21 and prior attempted mutation failed. Newer truth is dated log + CURRENT_STATE + START_HERE + grammar curriculum. On a capable save, merge current sessions and exercise state into JSON without inventing answers. No audio assessment.
