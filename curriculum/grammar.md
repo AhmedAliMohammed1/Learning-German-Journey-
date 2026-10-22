@@ -30,7 +30,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | Relative clauses: der/die/das/die as subject (Nominativ) | practicing | S03-E01–E03 der/die/das relative structure correct; E03 list→liest; plural E04 pending |
 | Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
 | ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
-| während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | introduced | New grammar 2026-10-22-S02; no assessed answers yet |
+| während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | practicing | 2026-10-22-S02-E01 independently correct; further variations pending |
 
 ## Cases and pronouns
 
