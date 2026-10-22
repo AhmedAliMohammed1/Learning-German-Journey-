@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E03 graded
+
+Active2026-10-23-S02,3attempts. E03 `Meine Schwester hat gestern aufgewacht, danach hat sie mit meinem Bruder gefrühstückt` → `Meine Schwester ist gestern früh aufgewacht, danach hat sie mit meinem Bruder gefrühstückt.`. Correct participles/full breakfast clause/mitDativ/danachV2/sie; repair sein auxiliary and missing früh.178/183Perfekt practicing; retestsOct24. Next2026-10-23-S02-E04 Perfekt «أخويا فتح الشباك امبارح، وبعد كده قفل الباب.», use new batch open/close forms, accept prior synonyms fairly. No model.187/187/53 unchanged, all older queues preserved.
+
 ## LIVE answer checkpoint —2026-10-23-S02-E02 graded
 
 Active2026-10-23-S02,2attempts. E02 `Mein Bruder beeilt sich weil der Bus kommt, und meine Schwester ruht sich zu Hause aus` correct grammar/reflexive/conjugation/word order; add comma before weil. Prior two teaching examples are near models, so supported success, not independent fresh transfer.181/182Präsens practicing; delayed transferOct24. Next2026-10-23-S02-E03 Perfekt «أختي صحيت بدري امبارح، وبعد كده فطرت مع أخويا.», no model. E01 case/aufstehen repairs and all old queues retained.187verbs/187vocabulary/53sessions unchanged.
