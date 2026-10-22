@@ -2,6 +2,10 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
+## LIVE answer checkpoint —2026-10-23-S02-E06 graded
+
+Active2026-10-23-S02,6attempts; all10new verbs attempted, not mastery/full tense coverage. Raw `Mein Bruder hat gestern eingeschlaft, danach hat meine Schwester den Wecker ausgeschaltet (or zugemacht)`; correction `Mein Bruder ist gestern eingeschlafen, danach hat meine Schwester den Wecker ausgeschaltet.`. Repair sein/PartizipII; whole primary alarm clause correct. Alternative zugemacht inappropriate for switching off alarm, correct primary retained. V187denWecker correct, practicing. Next2026-10-23-S02-E07 Perfekt «أختي استعجلت امبارح، وبعد كده ارتاحت في البيت.», no model. Short cross-tense diagnostic up to3–5sentences then progression.187/187/53unchanged; all old queues retained.
+
 ## LIVE answer checkpoint —2026-10-23-S02-E05 graded
 
 Active2026-10-23-S02,5attempts. E05 `Meine Schwester trockt das Hemd, danach hängt sie es auf` → `Meine Schwester trocknet das Hemd, danach hängt sie es auf.`. Only trockt→trocknet form repair; independent hängt...auf/es/danach/sie correct. First clause near-model support, no full independent success.186/187Präsens practicing. Next2026-10-23-S02-E06 Perfekt «أخويا غلبه النوم امبارح، وبعد كده أختي طفت المنبّه.», last unattempted179einschlafen+old100ausschalten/V187Wecker. No model.187/187/53unchanged; prior queues retained.

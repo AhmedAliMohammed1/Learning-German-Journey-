@@ -192,7 +192,7 @@
 | V184 | das Ladekabel | die Ladekabel | كابل الشحن | noun | practicing |
 | V185 | ohne | — | من غير / بدون | preposition_connector | practicing |
 | V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | practicing |
-| V187 | der Wecker | die Wecker | المنبّه | noun | introduced |
+| V187 | der Wecker | die Wecker | المنبّه | noun | practicing |
 
 ## Learning notes
 
