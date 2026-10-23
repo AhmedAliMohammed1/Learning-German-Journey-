@@ -50,3 +50,7 @@ Learner raw: `Ich habe mich gestern bei dem Meeting vorgestellt, danach habe ich
 
 ## 2026-10-24 new verbs E08
 Raw: `Meine Schwester hat gester das Handy aufgeladen, aber das Handy hat heute kaputtgegangen`. Correct: `Meine Schwester hat gestern das Handy aufgeladen, aber das Handy ist heute kaputtgegangen.` Correct aufladen Perfekt; spelling gestern and sein auxiliary for kaputtgehen need attention. Next E09 targets remaining new verb nachholen or vermeiden in a fresh tense context; suggested: «أنا بتجنب الأخطاء، عشان كده براجع الرسالة قبل ما أبعتها.» use vermeiden and prüfen, Präsens + deshalb, no model yet.
+
+
+## 2026-10-24 new verbs E09
+Raw: `Ich vermeide das Fehler, deshalb prüfe ich die Nachricht bevor ich sie schicke`. Correct: `Ich vermeide Fehler, deshalb prüfe ich die Nachricht, bevor ich sie schicke.` `das Fehler` repaired to bare plural `Fehler`; comma before bevor. Vermeide, deshalb V2, subordinate verb final, sie object pronoun all independently correct. New verb vermeiden practicing. Next E10: «أخويا اتأخر امبارح، عشان كده هيعوّض الدرس النهارده.» Perfekt sich verspäten and Präsens nachholen, no model shown.
