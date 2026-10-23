@@ -1,4 +1,4 @@
-# Verb curriculum — 190 introduced verbs
+# Verb curriculum — 200 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -198,6 +198,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 188 | üben | يتمرن | ich übe; sie übt | hat geübt | Sie übt jeden Tag. | introduced | regular |
 | 189 | einziehen | ينتقل إلى منزل | ich ziehe ein | ist eingezogen | Ich ziehe morgen in die Wohnung ein. | introduced | separable; differs from umziehen |
 | 190 | kaputtgehen | يتعطل | es geht kaputt | ist kaputtgegangen | Mein Auto ist kaputtgegangen. | introduced | separable; sein in Perfekt |
+| 191 | aufladen | يشحن بطارية / موبايل | er lädt ... auf | hat aufgeladen | Ich lade mein Handy auf. | introduced | separable; Akk object |
+| 192 | sich verspäten | يتأخر عن موعد | er verspätet sich | hat sich verspätet | Ich habe mich verspätet. | introduced | reflexive, sich = Akk |
+| 193 | ausfallen | يُلغى / يتعطل (قطار/محاضرة) | er fällt ... aus | ist ausgefallen | Der Zug ist ausgefallen. | introduced | separable, Perfekt sein |
+| 194 | stattfinden | يُقام / يحصل حدث | es findet ... statt | hat stattgefunden | Das Meeting findet morgen statt. | introduced | separable, Perfekt haben |
+| 195 | nachholen | يعوّض حاجة فاتته | er holt ... nach | hat nachgeholt | Ich hole den Unterricht nach. | introduced | separable, Akk object |
+| 196 | sich gewöhnen an | يتعوّد على حاجة | er gewöhnt sich an ... | hat sich gewöhnt | Ich gewöhne mich an die Arbeit. | introduced | reflexive; an + Akk; Perfekt hat sich an ... gewöhnt |
+| 197 | vermeiden | يتجنّب | er vermeidet | hat vermieden | Ich vermeide Fehler. | introduced | irregular; no ge-; Akk |
+| 198 | bemerken | يلاحظ | er bemerkt | hat bemerkt | Ich habe den Fehler bemerkt. | introduced | inseparable be-, no ge-; Akk |
+| 199 | fehlen | يغيب / ينقص / يوحش | er fehlt | hat gefehlt | Mein Bruder fehlt heute. | introduced | Du fehlst mir = أنت واحشني; Dativ person |
+| 200 | sich vorstellen | يعرّف نفسه / يتخيّل | er stellt sich vor | hat sich vorgestellt | Ich stelle mich kurz vor. | introduced | separable reflexive; vorstellen can also mean introduce someone (+ Dat recipient) |
 
 ## How to read the table
 
