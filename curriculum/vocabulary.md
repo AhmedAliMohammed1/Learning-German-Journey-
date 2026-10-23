@@ -194,6 +194,7 @@
 | V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | practicing |
 | V187 | der Wecker | die Wecker | المنبّه | noun | practicing |
 | V188 | die Gewohnheit | die Gewohnheiten | العادة / العادات | noun | introduced |
+| V189 | das öffentliche Verkehrsmittel | die öffentlichen Verkehrsmittel | وسيلة مواصلات عامة؛ mit öffentlichen Verkehrsmitteln = بالمواصلات العامة | noun_phrase | introduced |
 
 ## Learning notes
 
