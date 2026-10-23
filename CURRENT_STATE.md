@@ -25,3 +25,8 @@ New verbs 191-200 introduced: aufladen; sich verspäten; ausfallen; stattfinden;
 
 ## 2026-10-24 exercise checkpoint
 New verb exercise E01 learner answer: `Meine Schwester hat sich die Arbeit verspätet, weil den Zug ausgefallen hat`. Correction: `Meine Schwester hat sich gestern zur Arbeit verspätet, weil der Zug ausgefallen ist.` Repairs: destination zur Arbeit; nominative der Zug; ausfallen with sein; missing gestern. Reflexive verspätet correct. E02 unanswered: translate 'The lecture took place yesterday, and I will make up the lesson tomorrow' using stattfinden and nachholen; first clause Perfekt, second present. Learner asked what lecture means: newly registered vocabulary V193 die Vorlesung / die Vorlesungen. Counts **200 verbs, 193 vocabulary**. E02 not attempted yet.
+
+
+## 2026-10-24 new verbs E02 and E03
+E02 raw `Die Verlesung hat gestern stattgefunden, und ich hole morgen die Erricht nach`; corrected `Die Vorlesung hat gestern stattgefunden, und ich hole morgen den Unterricht nach.` Both new verb forms correct, nouns corrected.
+E03 raw `Meine Schwester hat gester ihr Handy aufgeladen, danach hat sie dass der Akku noch schwach bemerkt`; corrected `Meine Schwester hat gestern ihr Handy aufgeladen. Danach hat sie bemerkt, dass der Akku noch schwach ist.` Both new Perfekt forms correct, repairs gestern and dass subordinate order/final ist. Vocabulary V194 Unterricht, V195 Akku and V196 schwach now saved, 196 registered words; 200 verbs. Next E04: «أنا بحاول أتجنب الأخطاء، لكن لاحظت غلطة في الرسالة امبارح.» Use vermeiden Präsens and bemerken Perfekt. No answer yet.
