@@ -58,3 +58,7 @@ Raw: `Ich vermeide das Fehler, deshalb prüfe ich die Nachricht bevor ich sie sc
 
 ## 2026-10-24 new verbs E10
 Raw: `Mein Bruder hat gestern verspätet, deshalb gewöhnt er sich heute die Unterricht`. Correct: `Mein Bruder hat sich gestern verspätet, deshalb holt er heute den Unterricht nach.` Missing reflexive `sich` in sich verspäten, incorrect substitution `gewöhnt` for `nachholen`, Unterricht masculine Akk `den`. Correct intended deshalb finite-first inversion shape and gestern/heute. These require fresh retests, not mastered. Next E11: «أنا نسيت أشحن موبايلي امبارح، وعشان كده شحنته النهارده.» Use aufladen + vergessen, Perfekt; no German model before attempt.
+
+
+## 2026-10-24 new verbs E11
+Learner: `Ich habe gestern Mein Handy vergessen zu aufladen, deshalb habe ich es heute aufgeladen`. Natural correction: `Ich habe gestern vergessen, mein Handy aufzuladen. Deshalb habe ich es heute aufgeladen.` Repairs separable zu-infinitive aufzuladen, lowercase mein; correct habe vergessen, deshalb finite V2, es, aufgeladen. Note also `Ich habe gestern vergessen, mein Handy aufzuladen` is preferred word order; verb placement after vergessen must be explained. New verb aufladen practicing. Next E12: fresh mixed reflexive: «أختي اتعودت على شغلها الجديد، لكن أخويا لسه بيتأخر عن المواعيد.» Test sich gewöhnen an + sich verspäten, Perfekt/present; no answer yet.
