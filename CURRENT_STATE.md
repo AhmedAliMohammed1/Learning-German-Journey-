@@ -1,7 +1,7 @@
-# Current learner state — 2026-10-23 S03 active
+# Current learner state — 2026-10-23 S03 graded
 
-Current targeted isolated recall activity **2026-10-23-S03-A01**, batch **2026-10-23-S03-B01**, awaits **17 numbered Arabic→German verb answers at once**. User requested all insecure/new verbs together. Source exact learner-specific isolated recall statuses: 6 needs_review (37,106,108,145,151,177), 10 most recent verb items 178–187 with no isolated form-recall assessment, and special polite #31 möchten unassessed in that dimension. Note: this classification is for isolated verb recall, not full tense/context mastery.
+Last activity `2026-10-23-S03-A01`, batch `2026-10-23-S03-B01` has 17 learner answers (all at once), **12 exact, 2 semantic/context alternatives, 3 form repairs**. Full raw numbered text, per-item target/outcome and explanatory distinctions are recorded in `days/2026-10-23.md`. All 17 were isolated typed recall, not actual oral/Perfekt assessment.
 
-**Day OPEN; active_session_id=2026-10-23-S03; 187 verbs / 187 registered vocabulary / 54 documented sessions; 3 sessions on Oct23.** Batch issued, **zero answers**, no new mastery/items/Perfekt or audio assessment. Stable numbered exercise IDs E01–E17 and exact Arabic prompts in days/2026-10-23.md and progress.json. Wait for learner to submit all 17 together; do not reveal German model verbs before answer.
+Follow-up choice (do NOT automatically quiz): bulk 5-ID retry **[181,37,182,187,31]** (sich ausruhen vs aufruhen, bringen vs mitbringen, sich beeilen reflexive, trocknen vs trocken, möchten vs wollen). Other 12 exact for this isolated batch, including old previously misspelled `servieren`, `vorbereiten`. #31 had an earlier correct registered-form recall; preserve it despite current polite contrast error.
 
-Earlier **2026-10-23-S02** paused with E08 «أخويا صحي بدري امبارح، وبعد كده صحّى أخته.» still unanswered; `während` 2026-10-22-S02-E02 and all older reviews/retests remain preserved. Do not force those before current selected recall.
+Day OPEN and session `2026-10-23-S03`, 187 introduced verbs / 187 registered vocabulary / 54 documented sessions. Do not create new session or add counts merely for grading. No new full mastery granted. Original paused S02-E08 (wake up / wake sibling in Perfekt) and während/Perfekt queues retained.
