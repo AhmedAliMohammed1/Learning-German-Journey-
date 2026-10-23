@@ -1,4 +1,4 @@
-# Verb curriculum — 187 introduced verbs
+# Verb curriculum — 190 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -195,6 +195,9 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 185 | zumachen | يقفل — تعبير يومي | ich mache zu; er macht zu | hat zugemacht | Ich mache die Tür zu. | practicing | separable; Akk object; everyday synonym of known schließen, distinct new lemma. ; isorecall(2026-10-23 #14): independent_correct |
 | 186 | aufhängen | يعلّق حاجة | ich hänge auf; er hängt auf | hat aufgehängt | Ich hänge meine Jacke auf. | practicing | separable; transitive + Akk; weak past aufgehängt for hanging an object. ; isorecall(2026-10-23 #7): independent_correct |
 | 187 | trocknen | ينشّف حاجة / ينشف | ich trockne; er trocknet | hat getrocknet (transitive); ist getrocknet (intransitive) | Ich trockne das Hemd. | practicing | Transitive: Ich habe das Hemd getrocknet. Intransitive: Das Hemd ist getrocknet. er trocknet, not trocknt. ; isorecall(2026-10-23 #15): needs_form_retry |
+| 188 | üben | يتمرن | ich übe; sie übt | hat geübt | Sie übt jeden Tag. | introduced | regular |
+| 189 | einziehen | ينتقل إلى منزل | ich ziehe ein | ist eingezogen | Ich ziehe morgen in die Wohnung ein. | introduced | separable; differs from umziehen |
+| 190 | kaputtgehen | يتعطل | es geht kaputt | ist kaputtgegangen | Mein Auto ist kaputtgegangen. | introduced | separable; sein in Perfekt |
 
 ## How to read the table
 
