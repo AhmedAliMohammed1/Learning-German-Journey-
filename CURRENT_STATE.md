@@ -46,3 +46,7 @@ Raw: `Mein Bruder fehlt gestern den Termin, aber der Termin findet pünktlich st
 
 ## 2026-10-24 new verbs E07
 Learner raw: `Ich habe mich gestern bei dem Meeting vorgestellt, danach habe ich einen Fehler bemerkt`. Fully correct independently, including reflexive Perfekt `habe mich vorgestellt`, bei + Dativ, danach V2, and `habe ... bemerkt`. `beim Meeting` is optional contraction; original grammatical. New verbs 200 and 198 practicing, no delayed-retention mastery. Next E08: «أختي شحنت الموبايل امبارح، لكن النهارده البطارية فضيت تاني.» Use aufladen in Perfekt; introduce ausgehen? Better use known kaputtgehen for equipment: «أختي شحنت الموبايل امبارح، لكن النهارده الموبايل باظ.» use aufladen Perfekt + kaputtgehen Perfekt.
+
+
+## 2026-10-24 new verbs E08
+Raw: `Meine Schwester hat gester das Handy aufgeladen, aber das Handy hat heute kaputtgegangen`. Correct: `Meine Schwester hat gestern das Handy aufgeladen, aber das Handy ist heute kaputtgegangen.` Correct aufladen Perfekt; spelling gestern and sein auxiliary for kaputtgehen need attention. Next E09 targets remaining new verb nachholen or vermeiden in a fresh tense context; suggested: «أنا بتجنب الأخطاء، عشان كده براجع الرسالة قبل ما أبعتها.» use vermeiden and prüfen, Präsens + deshalb, no model yet.
