@@ -1,7 +1,7 @@
-# Current learner state — 2026-10-23 S03 graded
+# Current learner state — 2026-10-23 S04 seitdem introduced
 
-Last activity `2026-10-23-S03-A01`, batch `2026-10-23-S03-B01` has 17 learner answers (all at once), **12 exact, 2 semantic/context alternatives, 3 form repairs**. Full raw numbered text, per-item target/outcome and explanatory distinctions are recorded in `days/2026-10-23.md`. All 17 were isolated typed recall, not actual oral/Perfekt assessment.
+**ACTIVE:** 2026-10-23-S04, activity 2026-10-23-S04-A01; day OPEN. 187 verbs / **188 vocabulary** / **55 sessions** (4 on Oct23). New main grammar **seitdem** introduced and explained in full, 0 learner answers, not mastered. Unique new V188 **die Gewohnheit / die Gewohnheiten** introduced, not mastered.
 
-Follow-up choice (do NOT automatically quiz): bulk 5-ID retry **[181,37,182,187,31]** (sich ausruhen vs aufruhen, bringen vs mitbringen, sich beeilen reflexive, trocknen vs trocken, möchten vs wollen). Other 12 exact for this isolated batch, including old previously misspelled `servieren`, `vorbereiten`. #31 had an earlier correct registered-form recall; preserve it despite current polite contrast error.
+**Exact pending 2026-10-23-S04-E01:** «أخويا بيصحى بدري كل يوم، من ساعة ما بقى بيشتغل في ميونخ.» Full Arabic→German Präsens sentence, postposed seitdem-clause with finite verb last, separable aufwachen, explicit intended subject, and every-day meaning. NO German model shown yet. Wait for independent learner answer before correcting. Afterward progress to varied use (fronted, Perfekt, seit+Dat) while embedding earlier weak areas.
 
-Day OPEN and session `2026-10-23-S03`, 187 introduced verbs / 187 registered vocabulary / 54 documented sessions. Do not create new session or add counts merely for grading. No new full mastery granted. Original paused S02-E08 (wake up / wake sibling in Perfekt) and während/Perfekt queues retained.
+The prior S03 17-item isolated recall is graded (12 exact, 2 semantic/context neighbors, 3 form repairs), optional bulk 5-target retry [181,37,182,187,31] deferred. S02-E08 Perfekt wake-up sentence and Oct22 während-E02 plus all historical recall/Perfekt skill queues preserved. Do not force deferred work. No audio competence inferred.
