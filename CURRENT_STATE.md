@@ -1,7 +1,9 @@
-# Current learner state — 2026-10-23 S04 seitdem introduced
+# Current learner state — 2026-10-24 continuation of seitdem
 
-**ACTIVE:** 2026-10-23-S04, activity 2026-10-23-S04-A01; day OPEN. 187 verbs / **188 vocabulary** / **55 sessions** (4 on Oct23). New main grammar **seitdem** introduced and explained in full, 0 learner answers, not mastered. Unique new V188 **die Gewohnheit / die Gewohnheiten** introduced, not mastered.
+**ACTIVE:** prior session 2026-10-23-S04 continued, day record remains open. 187 verbs / **189 vocabulary** (new V189) / **55 documented sessions** before any newly counted Oct24 session. Seitdem practicing, not mastered.
 
-**Exact pending 2026-10-23-S04-E01:** «أخويا بيصحى بدري كل يوم، من ساعة ما بقى بيشتغل في ميونخ.» Full Arabic→German Präsens sentence, postposed seitdem-clause with finite verb last, separable aufwachen, explicit intended subject, and every-day meaning. NO German model shown yet. Wait for independent learner answer before correcting. Afterward progress to varied use (fronted, Perfekt, seit+Dat) while embedding earlier weak areas.
+**Latest learner answers:** E01 omitted `er`; E02 correct apart from capitalizing Arbeit; E03 omitted `ich`, used einziehen infinitive instead of `umgezogen bin`; E04 fully correct; E05 repairs Deutsch, angefangen hat ... zu lernen, übt; E06 auxiliary hat→habe. Corrections and upcoming target recorded in days/2026-10-23.md.
 
-The prior S03 17-item isolated recall is graded (12 exact, 2 semantic/context neighbors, 3 form repairs), optional bulk 5-target retry [181,37,182,187,31] deferred. S02-E08 Perfekt wake-up sentence and Oct22 während-E02 plus all historical recall/Perfekt skill queues preserved. Do not force deferred work. No audio competence inferred.
+**Current unanswered E07:** «أنا بروح الشغل بالمواصلات من ساعة ما عربيتي باظت.» Learner asked what public transport means and explicitly requested registration. New **V189 das öffentliche Verkehrsmittel / die öffentlichen Verkehrsmittel**, common phrase **mit öffentlichen Verkehrsmitteln** = بالمواصلات العامة. Introduced only, no learner answer yet. Do not count unfamiliar word as past recall error. Resume E07 or adjust to known vocabulary if preferred.
+
+The S03 five isolated verb retries [181,37,182,187,31], paused S02-E08, Oct22 während-E02 and historic Perfekt/review tasks remain deferred. No pronunciation/audio inference. 
