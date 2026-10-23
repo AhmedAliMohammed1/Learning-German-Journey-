@@ -198,6 +198,7 @@
 | V190 | die Arbeit | die Arbeiten | الشغل؛ zur Arbeit = إلى الشغل | noun | introduced |
 | V191 | kaputt | — | بايظ / معطل | adjective | introduced |
 | V192 | zur Arbeit | — | إلى الشغل | phrase | introduced |
+| V193 | die Vorlesung | die Vorlesungen | المحاضرة الجامعية | noun | introduced |
 
 ## Learning notes
 
