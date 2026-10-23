@@ -54,3 +54,7 @@ Raw: `Meine Schwester hat gester das Handy aufgeladen, aber das Handy hat heute 
 
 ## 2026-10-24 new verbs E09
 Raw: `Ich vermeide das Fehler, deshalb prüfe ich die Nachricht bevor ich sie schicke`. Correct: `Ich vermeide Fehler, deshalb prüfe ich die Nachricht, bevor ich sie schicke.` `das Fehler` repaired to bare plural `Fehler`; comma before bevor. Vermeide, deshalb V2, subordinate verb final, sie object pronoun all independently correct. New verb vermeiden practicing. Next E10: «أخويا اتأخر امبارح، عشان كده هيعوّض الدرس النهارده.» Perfekt sich verspäten and Präsens nachholen, no model shown.
+
+
+## 2026-10-24 new verbs E10
+Raw: `Mein Bruder hat gestern verspätet, deshalb gewöhnt er sich heute die Unterricht`. Correct: `Mein Bruder hat sich gestern verspätet, deshalb holt er heute den Unterricht nach.` Missing reflexive `sich` in sich verspäten, incorrect substitution `gewöhnt` for `nachholen`, Unterricht masculine Akk `den`. Correct intended deshalb finite-first inversion shape and gestern/heute. These require fresh retests, not mastered. Next E11: «أنا نسيت أشحن موبايلي امبارح، وعشان كده شحنته النهارده.» Use aufladen + vergessen, Perfekt; no German model before attempt.
