@@ -21,3 +21,7 @@ E10 learner raw: `Seitdem meine Schwester nach Berlin umgezogen ist, fährt sie 
 
 ## New verbs session, 2026-10-24
 New verbs 191-200 introduced: aufladen; sich verspäten; ausfallen; stattfinden; nachholen; sich gewöhnen an; vermeiden; bemerken; fehlen; sich vorstellen. Totals: 200 verbs, 192 vocabulary. Zero learner attempts in this new batch. First pending translation: My sister was late to work yesterday because the train was cancelled; use Perfekt and weil. All previous pending work preserved.
+
+
+## 2026-10-24 exercise checkpoint
+New verb exercise E01 learner answer: `Meine Schwester hat sich die Arbeit verspätet, weil den Zug ausgefallen hat`. Correction: `Meine Schwester hat sich gestern zur Arbeit verspätet, weil der Zug ausgefallen ist.` Repairs: destination zur Arbeit; nominative der Zug; ausfallen with sein; missing gestern. Reflexive verspätet correct. E02 unanswered: translate 'The lecture took place yesterday, and I will make up the lesson tomorrow' using stattfinden and nachholen; first clause Perfekt, second present. Learner asked what lecture means: newly registered vocabulary V193 die Vorlesung / die Vorlesungen. Counts **200 verbs, 193 vocabulary**. E02 not attempted yet.
