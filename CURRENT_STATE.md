@@ -30,3 +30,7 @@ New verb exercise E01 learner answer: `Meine Schwester hat sich die Arbeit versp
 ## 2026-10-24 new verbs E02 and E03
 E02 raw `Die Verlesung hat gestern stattgefunden, und ich hole morgen die Erricht nach`; corrected `Die Vorlesung hat gestern stattgefunden, und ich hole morgen den Unterricht nach.` Both new verb forms correct, nouns corrected.
 E03 raw `Meine Schwester hat gester ihr Handy aufgeladen, danach hat sie dass der Akku noch schwach bemerkt`; corrected `Meine Schwester hat gestern ihr Handy aufgeladen. Danach hat sie bemerkt, dass der Akku noch schwach ist.` Both new Perfekt forms correct, repairs gestern and dass subordinate order/final ist. Vocabulary V194 Unterricht, V195 Akku and V196 schwach now saved, 196 registered words; 200 verbs. Next E04: «أنا بحاول أتجنب الأخطاء، لكن لاحظت غلطة في الرسالة امبارح.» Use vermeiden Präsens and bemerken Perfekt. No answer yet.
+
+
+## 2026-10-24 new verb E04
+Raw: `Ich versuche den Fehler vermeiden, aber ich habe gestern einen Fehler in der Nachricht bemerkt`. Corrected: `Ich versuche, Fehler zu vermeiden, aber ich habe gestern einen Fehler in der Nachricht bemerkt.` Requires zu-infinitive with versuchen; indefinite plural Fehler fits generic 'mistakes'. Correct independent Perfekt `habe ... bemerkt`, Akk `einen Fehler`, and `in der Nachricht`. vermeiden introduced, not yet independently produced in finite form. Next E05: «أنا اتعودت على الشغل الجديد، بس أخويا لسه بيتأخر كل يوم.» Target sich gewöhnen an Perfekt + sich verspäten Präsens. No answer shown.
