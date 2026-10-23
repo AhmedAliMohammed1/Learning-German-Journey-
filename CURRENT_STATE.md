@@ -17,3 +17,7 @@ Learner explicitly asked to register unfamiliar verbs and vocabulary encountered
 E08 raw: `Ich fahre mit dem Bus zur Arbeit, seitdem ich nach München umgezogen ist`. Correction: `Ich fahre mit dem Bus zur Arbeit, seitdem ich nach München umgezogen bin.` Auxiliary ich bin.
 E09 raw: `Seitdem mein Auto kaputtgegangen ist, fahre ich mit der öffentlichen verkehrmittel zur Arbeit`. Correction: `Seitdem mein Auto kaputtgegangen ist, fahre ich mit öffentlichen Verkehrsmitteln zur Arbeit.` Dativ plural phrase needed repair.
 E10 learner raw: `Seitdem meine Schwester nach Berlin umgezogen ist, fährt sie mit dem Bus zur Arbeit`. Fully correct independently: Seitdem subordinate, Perfekt, main clause inversion, Dativ Bus and zur Arbeit. Seitdem practicing; do not declare delayed mastery. Next return to menu or a fresh short test as preferred.
+
+
+## New verbs session, 2026-10-24
+New verbs 191-200 introduced: aufladen; sich verspäten; ausfallen; stattfinden; nachholen; sich gewöhnen an; vermeiden; bemerken; fehlen; sich vorstellen. Totals: 200 verbs, 192 vocabulary. Zero learner attempts in this new batch. First pending translation: My sister was late to work yesterday because the train was cancelled; use Perfekt and weil. All previous pending work preserved.
