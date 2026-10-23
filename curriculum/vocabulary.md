@@ -199,6 +199,9 @@
 | V191 | kaputt | — | بايظ / معطل | adjective | introduced |
 | V192 | zur Arbeit | — | إلى الشغل | phrase | introduced |
 | V193 | die Vorlesung | die Vorlesungen | المحاضرة الجامعية | noun | introduced |
+| V194 | der Unterricht | — | الدرس / التدريس | noun | introduced |
+| V195 | der Akku | die Akkus | البطارية القابلة للشحن | noun | introduced |
+| V196 | schwach | — | ضعيف | adjective | introduced |
 
 ## Learning notes
 
