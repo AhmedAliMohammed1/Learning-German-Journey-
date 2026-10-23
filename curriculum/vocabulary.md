@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**188 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**192 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -195,6 +195,9 @@
 | V187 | der Wecker | die Wecker | المنبّه | noun | practicing |
 | V188 | die Gewohnheit | die Gewohnheiten | العادة / العادات | noun | introduced |
 | V189 | das öffentliche Verkehrsmittel | die öffentlichen Verkehrsmittel | وسيلة مواصلات عامة؛ mit öffentlichen Verkehrsmitteln = بالمواصلات العامة | noun_phrase | introduced |
+| V190 | die Arbeit | die Arbeiten | الشغل؛ zur Arbeit = إلى الشغل | noun | introduced |
+| V191 | kaputt | — | بايظ / معطل | adjective | introduced |
+| V192 | zur Arbeit | — | إلى الشغل | phrase | introduced |
 
 ## Learning notes
 
