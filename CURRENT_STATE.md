@@ -42,3 +42,7 @@ Raw: `Ich gewöhne mich an der neuen Arbeit, aber mein Bruder verspät sich noch
 
 ## 2026-10-24 E06
 Raw: `Mein Bruder fehlt gestern den Termin, aber der Termin findet pünktlich statt`. Corrected: `Mein Bruder hat gestern bei dem Meeting gefehlt, aber das Meeting hat pünktlich stattgefunden.` Both event verbs required Perfekt, not present. `den Termin` not object of fehlen; bei dem Meeting for absent from meeting. pünktlich correct. Next E07: «أنا قدمت نفسي في الاجتماع امبارح، وبعد كده لاحظت غلطة.» Use sich vorstellen + bemerken in Perfekt. No answer yet.
+
+
+## 2026-10-24 new verbs E07
+Learner raw: `Ich habe mich gestern bei dem Meeting vorgestellt, danach habe ich einen Fehler bemerkt`. Fully correct independently, including reflexive Perfekt `habe mich vorgestellt`, bei + Dativ, danach V2, and `habe ... bemerkt`. `beim Meeting` is optional contraction; original grammatical. New verbs 200 and 198 practicing, no delayed-retention mastery. Next E08: «أختي شحنت الموبايل امبارح، لكن النهارده البطارية فضيت تاني.» Use aufladen in Perfekt; introduce ausgehen? Better use known kaputtgehen for equipment: «أختي شحنت الموبايل امبارح، لكن النهارده الموبايل باظ.» use aufladen Perfekt + kaputtgehen Perfekt.
