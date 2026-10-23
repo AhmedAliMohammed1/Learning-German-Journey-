@@ -11,3 +11,9 @@ The S03 five isolated verb retries [181,37,182,187,31], paused S02-E08, Oct22 w�
 
 ## 2026-10-24 vocabulary/verb audit
 Learner explicitly asked to register unfamiliar verbs and vocabulary encountered in recent Seitdem practice. Checked unified inventories and avoided re-adding existing verbs #6 fahren, #57 anfangen, #77 umziehen and prior nouns V137 Auto, V189 Verkehrsmittel. Added verbs #188 üben, #189 einziehen, #190 kaputtgehen and vocabulary V190 die Arbeit, V191 kaputt, V192 zur Arbeit. **New totals: 190 verbs, 192 vocabulary entries.** All introduced, not mastered. E07 raw answer: Ich gehe die Arbeit mit öffentlichen Verkehrmitteln, seitdem mein Auto kaput hat. Correction: Ich fahre mit öffentlichen Verkehrsmitteln zur Arbeit, seitdem mein Auto kaputtgegangen ist. Current unanswered E08: «أنا بروح الشغل بالأتوبيس من ساعة ما انتقلت لميونخ.»
+
+
+## 2026-10-24 latest Seitdem practice
+E08 raw: `Ich fahre mit dem Bus zur Arbeit, seitdem ich nach München umgezogen ist`. Correction: `Ich fahre mit dem Bus zur Arbeit, seitdem ich nach München umgezogen bin.` Auxiliary ich bin.
+E09 raw: `Seitdem mein Auto kaputtgegangen ist, fahre ich mit der öffentlichen verkehrmittel zur Arbeit`. Correction: `Seitdem mein Auto kaputtgegangen ist, fahre ich mit öffentlichen Verkehrsmitteln zur Arbeit.` Dativ plural phrase needed repair.
+E10 learner raw: `Seitdem meine Schwester nach Berlin umgezogen ist, fährt sie mit dem Bus zur Arbeit`. Fully correct independently: Seitdem subordinate, Perfekt, main clause inversion, Dativ Bus and zur Arbeit. Seitdem practicing; do not declare delayed mastery. Next return to menu or a fresh short test as preferred.
