@@ -38,3 +38,7 @@ Raw: `Ich versuche den Fehler vermeiden, aber ich habe gestern einen Fehler in d
 
 ## 2026-10-24 new verbs E05
 Raw: `Ich gewöhne mich an der neuen Arbeit, aber mein Bruder verspät sich noch jeden Tag`. Correct: `Ich habe mich an die neue Arbeit gewöhnt, aber mein Bruder verspätet sich noch jeden Tag.` Repairs Perfekt tense, an+Akk and adjective ending, verspätet sich form. The attempt correctly used the reflexive pronoun in the first clause and aber/noch jeden Tag. Both new verbs remain practicing, not mastered. Next E06: «أخويا غاب عن الاجتماع امبارح، لكن الاجتماع اتعمل في معاده.» Target fehlen and stattfinden Perfekt; no answer yet.
+
+
+## 2026-10-24 E06
+Raw: `Mein Bruder fehlt gestern den Termin, aber der Termin findet pünktlich statt`. Corrected: `Mein Bruder hat gestern bei dem Meeting gefehlt, aber das Meeting hat pünktlich stattgefunden.` Both event verbs required Perfekt, not present. `den Termin` not object of fehlen; bei dem Meeting for absent from meeting. pünktlich correct. Next E07: «أنا قدمت نفسي في الاجتماع امبارح، وبعد كده لاحظت غلطة.» Use sich vorstellen + bemerken in Perfekt. No answer yet.
