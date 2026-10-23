@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**187 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**188 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -193,6 +193,7 @@
 | V185 | ohne | — | من غير / بدون | preposition_connector | practicing |
 | V186 | die Zwiebel | die Zwiebeln | البصلة / البصل | noun | practicing |
 | V187 | der Wecker | die Wecker | المنبّه | noun | practicing |
+| V188 | die Gewohnheit | die Gewohnheiten | العادة / العادات | noun | introduced |
 
 ## Learning notes
 
