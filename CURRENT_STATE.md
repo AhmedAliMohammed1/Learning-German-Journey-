@@ -34,3 +34,7 @@ E03 raw `Meine Schwester hat gester ihr Handy aufgeladen, danach hat sie dass de
 
 ## 2026-10-24 new verb E04
 Raw: `Ich versuche den Fehler vermeiden, aber ich habe gestern einen Fehler in der Nachricht bemerkt`. Corrected: `Ich versuche, Fehler zu vermeiden, aber ich habe gestern einen Fehler in der Nachricht bemerkt.` Requires zu-infinitive with versuchen; indefinite plural Fehler fits generic 'mistakes'. Correct independent Perfekt `habe ... bemerkt`, Akk `einen Fehler`, and `in der Nachricht`. vermeiden introduced, not yet independently produced in finite form. Next E05: «أنا اتعودت على الشغل الجديد، بس أخويا لسه بيتأخر كل يوم.» Target sich gewöhnen an Perfekt + sich verspäten Präsens. No answer shown.
+
+
+## 2026-10-24 new verbs E05
+Raw: `Ich gewöhne mich an der neuen Arbeit, aber mein Bruder verspät sich noch jeden Tag`. Correct: `Ich habe mich an die neue Arbeit gewöhnt, aber mein Bruder verspätet sich noch jeden Tag.` Repairs Perfekt tense, an+Akk and adjective ending, verspätet sich form. The attempt correctly used the reflexive pronoun in the first clause and aber/noch jeden Tag. Both new verbs remain practicing, not mastered. Next E06: «أخويا غاب عن الاجتماع امبارح، لكن الاجتماع اتعمل في معاده.» Target fehlen and stattfinden Perfekt; no answer yet.
