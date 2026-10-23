@@ -31,6 +31,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | Imperativ: du/ihr/Sie, exceptions, negatives, reflexives and related request forms | introduced | E05 du correct/possession repair; E06 ihr hilft→helft, Dativ/bitte correct; E07 pending |
 | ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
 | während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | practicing | 2026-10-22-S02-E01 independently correct; further variations pending |
+| seitdem conjunction/adverb; contrast seit + Dativ, vor + Dativ | introduced | New 2026-10-23 S04, E01 unanswered |
 
 ## Cases and pronouns
 
@@ -727,3 +728,19 @@ Conjunction structure:
 
 Exercise pending **2026-10-22-S02-E01** Arabic-to-German full sentence (Präsens): «بينما أختي بتحضّر الأكل، أنا براجع الرسالة.» No German model before answer. Existing verbs: vorbereiten, prüfen; no new vocabulary items. Track first attempt separately from teaching examples.
 
+
+
+## Topic — seitdem (new 2026-10-23)
+**Meaning:** seitdem = since / from the time that (من ساعة ما). A past starting point linked to a continuing state or change. Newly taught as main topic, 0 independent learner attempts.
+- **Conjunction** introduces subordinate clause with conjugated verb at end: `Seitdem ich in Deutschland wohne, lerne ich Deutsch.` The fronted subordinate clause is position one; `lerne ich` follows comma in main V2.
+- **Postposed clause:** `Ich lerne Deutsch, seitdem ich hier wohne.` Clause-final `wohne`.
+- **Präsens** with ongoing state begun in past: `Seitdem ich hier arbeite, lerne ich viel.` Do not automatically convert everything to Perfekt when Arabic says 'بقالي'.
+- **Perfekt:** `Seitdem ich nach Deutschland gekommen bin, lerne ich Deutsch.` In subordinate clause Partizip II `gekommen` before final finite auxiliary `bin`.
+- **Modalverb:** `Seitdem ich hier wohne, muss ich mehr Deutsch sprechen.` In main clause `muss` V2 and infinitive `sprechen` final.
+- **Separable verb** within subordinate clause: `Seitdem ich früh aufstehe, habe ich mehr Zeit.` Unlike standalone main clauses, `aufstehe` remains attached at clause end.
+- **Reflexive:** `Seitdem ich mich ausruhe, fühle ich mich besser.` Maintain reflexive pronouns.
+- **Independent time adverb seitdem = since then:** `Ich bin vor einem Jahr umgezogen. Seitdem wohne ich hier.` Since it is a fronted time adverb in a main clause, finite verb comes immediately next.
+- **seit + Dativ**, with a noun/duration: `seit einem Jahr`, `seit zwei Jahren`; **seitdem + full clause**. **vor + Dativ**: `vor einem Jahr` = one year ago, not ongoing duration. `Ich wohne seit einem Jahr hier` vs `Ich bin vor einem Jahr umgezogen`.
+- **während** expresses overlapping action (while/during), **seitdem** marks starting point and what followed.
+- New V188: `die Gewohnheit`, plural `die Gewohnheiten` (عادة); teacher-supplied example `Das ist eine gute Gewohnheit.` No production yet.
+- First unanswered E01 (Präsens, no German exercise model): «أخويا بيصحى بدري كل يوم، من ساعة ما بقى بيشتغل في ميونخ.»
