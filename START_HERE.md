@@ -2,7 +2,11 @@
 
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
-## LIVE checkpoint — 2026-10-23-S03 bulk verb answers graded
+## LIVE checkpoint — 2026-10-23-S04 new grammar seitdem
+
+User explicitly chose main menu 4 → 1 for genuinely new grammar. Verified `seitdem` absent from all main grammar topics; taught full temporal conjunction/adverb rules, fronted and postposed clause order, Präsens ongoing, Perfekt, modal, separable/reflexive, seit + Dativ versus vor + Dativ, contrast während. **Introduced not mastered**. New V188 **die Gewohnheit** verified unique in the 187-entry inventory. Status day OPEN, active session `2026-10-23-S04` / activity `2026-10-23-S04-A01`; 187 verbs / 188 vocabulary / 55 documented sessions. Exact next unanswered `2026-10-23-S04-E01` (Präsens): «أخويا بيصحى بدري كل يوم، من ساعة ما بقى بيشتغل في ميونخ.» No German exercise model or learner answer yet. Do not show answer until learner attempts. Prior S03 bulk review graded; 5 unresolved retry IDs [181,37,182,187,31] deferred. Earlier S02-E08, während E02, all Perfekt/history queues preserved. Read progress.json, CURRENT_STATE.md and today's day log.
+
+## Historical checkpoint — 2026-10-23-S03 bulk verb answers graded
 
 User submitted all 17 verbs at once and asked for bulk testing, not one-by-one. Grading: **12 exact, 2 semantic/context alternatives, 3 repairs**. Five targets for possible bulk retest [181,37,182,187,31]; no German answer models before that optional independent retry. Exact raw answers/outcomes in `days/2026-10-23.md`, high-level summary in `CURRENT_STATE.md`. 187 verbs/187 vocabulary/54 documented sessions; day remains OPEN, session S03. Original S02-E08 and all earlier dated/Perfekt queues stay paused. This recent test is isolated source/registered-form recall, not full tense or contextual mastery.
 
