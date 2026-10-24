@@ -1,5 +1,10 @@
 # START HERE — AI session protocol
 
+## LATEST handoff — 2026-10-24 CLOSED, main menu requested
+
+User explicitly requested that all progress be saved and to return to the nine-choice main menu. **Day is CLOSED**; no active exercise. Authoritative latest summary `CURRENT_STATE.md`, dated complete raw-answer ledger `days/2026-10-24.md`, canonical inventories `curriculum/verbs.md` (200) and `curriculum/vocabulary.md` (196). Today's new verbs #191–200, 14 submitted new-verb exercise answers, E15 deferred. Earlier since/seitdem and recall items also preserved. On return offer the nine-choice menu, no automatic lesson. Do not infer mastery. The GitHub connector's fetch of `progress.json` returned empty content despite a SHA; **do not overwrite it from an empty response**. Prioritize dated log and CURRENT_STATE over stale structured fields until safe JSON reconciliation.
+
+
 Read live JSON and explain in Egyptian Arabic; when structured JSON lags, honor newer dated verified day log and summary.
 
 ## LIVE checkpoint — 2026-10-23-S04 new grammar seitdem
