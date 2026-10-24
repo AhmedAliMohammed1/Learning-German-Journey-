@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**192 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**196 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
