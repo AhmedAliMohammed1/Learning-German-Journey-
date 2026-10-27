@@ -1,6 +1,6 @@
-# Current learner state — 2026-10-27 OPEN
+# Current learner state — 2026-10-27 PAUSED; main menu
 
-Main menu 2 → 5 targeted isolated infinitive recall. Session `2026-10-27-S01`, activity `2026-10-27-S01-A01`. E01 `umsteigen` correct independently. Full batch `2026-10-27-S01-B01` **149 answered and graded**, raw text and exact inventory mappings stored in `days/2026-10-27.md`. First pass: 137 exact, 2 acceptable grammatical registered-form variants, 1 valid alternative, 4 contextual alternatives but distinct registered targets still unconfirmed, 5 form/spelling fixes. No Perfekt/contextual/delayed mastery claims. Recommended next: randomized retest #2/33/42/45/104 (form), #69/90/101/142 (target contrasts), optionally #30 einziehen vs umziehen. No new prompt issued yet. Inventories 200 verbs/196 vocabulary unchanged; all historical pending prompts retained. `progress.json` is still unreadable (empty through connector) and untouched.
+User requested main menu after completing full isolated verb-recall batch. Day OPEN, session 2026-10-27-S01 paused, no active prompt. E01 umsteigen correct independently; bulk B01 all 149 responses graded and recorded in days/2026-10-27.md. Score: 137 exact, 2 accepted forms, 1 accepted meaning alternative, 4 contextually related alternatives, 5 spelling/form repairs. Next optional nine-item retest: #2, #33, #42, #45, #69, #90, #101, #104, #142; optional #30 einziehen versus umziehen. Retests are not mandatory; no answers invented. Prior unfinished work unchanged. 200 verbs, 196 vocabulary entries. No Perfekt or delayed mastery inferred. progress.json last verified structured state lags dated logs; use this summary and dated records if necessary.
 
 
 ---
