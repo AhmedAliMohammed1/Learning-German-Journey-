@@ -1,3 +1,9 @@
+# Current learner state — 2026-10-27 OPEN
+
+User selected targeted review 2 → 5: isolated Arabic → German infinitive recall of not-yet-secure verbs, one prompt at a time. Started session `2026-10-27-S01` / activity `2026-10-27-S01-A01`. Next unanswered `2026-10-27-S01-E01`: «يبدّل وسيلة المواصلات أثناء الرحلة، زي ينزل من قطار ويركب قطار تاني.» (verb #94; do not reveal answer before learner attempt). No responses/grades yet. Counts unchanged: 200 verbs, 196 vocabulary. All older pending work preserved. `progress.json` connector content remains empty; do not overwrite it.
+
+---
+
 # Current learner state — 2026-10-24 CLOSED
 
 User explicitly closed today's German Journey after a brief review. Full documented study and corrections are in `days/2026-10-24.md`; previous sessions in `days/2026-10-23.md` remain preserved.
