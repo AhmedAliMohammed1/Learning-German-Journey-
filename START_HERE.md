@@ -1,6 +1,12 @@
 # START HERE — AI session protocol
 
-## LATEST handoff — 2026-10-24 CLOSED, main menu requested
+## LATEST handoff — 2026-10-27 OPEN, session PAUSED; main menu requested
+
+Authoritative latest day: `days/2026-10-27.md` (October 27, 2026). Learner chose menu 2 → 5 to recall all not-yet-secure verbs. E01 `umsteigen` correct independently; subsequent full batch `2026-10-27-S01-B01` answered **all 149** German infinitives in one message. Full verb-ID mapping, raw answers and fair grading are preserved in dated log. Results: **137 exact, 2 accepted form variants, 1 accepted meaning alternative, 4 contextual near alternatives with distinct target not confirmed, and 5 form/spelling repairs**. Do not equate this with Perfekt or contextual mastery. Next optional targeted 9-item retest: #2, #33, #42, #45, #104 (form/spelling) and #69, #90, #101, #142 (lexical distinctions); #30 `umziehen` vs `einziehen` optional. Learner then **explicitly requested main menu**. Day stays OPEN, session S01 PAUSED, no active exercise. Present full nine-choice menu; do not launch drill or close day automatically. **200 introduced verbs, 196 registered vocabulary entries**, not automatically mastered. Older pending new-verb E15 from Oct24 and all historical exercises preserved.
+
+CAUTION: `progress.json` was found to be readable via GitHub blob-SHA API but ordinary `fetch_file` returns empty due to its large size. Its Oct23 structured fields are stale; prioritize the dated Oct24 and Oct27 ledgers, live `CURRENT_STATE.md`, and current curriculum until safe reconciliation. **Never treat an empty fetch_file response as an empty JSON file and never overwrite it blindly.**
+
+## Historical handoff — 2026-10-24 CLOSED, main menu requested
 
 User explicitly requested that all progress be saved and to return to the nine-choice main menu. **Day is CLOSED**; no active exercise. Authoritative latest summary `CURRENT_STATE.md`, dated complete raw-answer ledger `days/2026-10-24.md`, canonical inventories `curriculum/verbs.md` (200) and `curriculum/vocabulary.md` (196). Today's new verbs #191–200, 14 submitted new-verb exercise answers, E15 deferred. Earlier since/seitdem and recall items also preserved. On return offer the nine-choice menu, no automatic lesson. Do not infer mastery. The GitHub connector's fetch of `progress.json` returned empty content despite a SHA; **do not overwrite it from an empty response**. Prioritize dated log and CURRENT_STATE over stale structured fields until safe JSON reconciliation.
 
