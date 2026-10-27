@@ -1,4 +1,4 @@
-# Verb curriculum — 200 introduced verbs
+# Verb curriculum — 210 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -208,6 +208,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 198 | bemerken | يلاحظ | er bemerkt | hat bemerkt | Ich habe den Fehler bemerkt. | introduced | inseparable be-, no ge-; Akk |
 | 199 | fehlen | يغيب / ينقص / يوحش | er fehlt | hat gefehlt | Mein Bruder fehlt heute. | introduced | Du fehlst mir = أنت واحشني; Dativ person |
 | 200 | sich vorstellen | يعرّف نفسه / يتخيّل | er stellt sich vor | hat sich vorgestellt | Ich stelle mich kurz vor. | introduced | separable reflexive; vorstellen can also mean introduce someone (+ Dat recipient) |
+| 201 | dauern | يستغرق وقت | es dauert | hat gedauert | Wie lange dauert die Fahrt? | introduced | es dauert zehn Minuten; Wie lange dauert ...? |
+| 202 | passen | يناسب / مقاسه يكون مناسب | die Schuhe passen; es passt mir | hat gepasst | Diese Schuhe passen mir gut. | introduced | الشخص Dativ: mir/dir/ihm/ihr؛ للمقاس أو المواعيد |
+| 203 | gehören | يخص / يكون ملك لحد | das gehört mir | hat gehört | Wem gehört diese Tasche? | introduced | المالك Dativ: Das gehört mir |
+| 204 | bedeuten | يعني / معناه | das bedeutet | hat bedeutet | Was bedeutet dieses Wort? | introduced | للسؤال عن معنى الكلام والإشارات |
+| 205 | sich freuen | يفرح / يتطلع لحاجة بحماس | ich freue mich | hat sich gefreut | Ich freue mich auf das Wochenende. | introduced | auf + Akk للمستقبل؛ über + Akk للحاضر/الماضي |
+| 206 | klappen | يمشي تمام / يظبط / ينجح | es klappt | hat geklappt | Hat mit dem Termin alles geklappt? | introduced | شائع جدًا في المواعيد والخطط: Das klappt nicht. |
+| 207 | schaffen | يقدر ينجز / يلحق | ich schaffe es | hat geschafft | Ich schaffe es heute nicht. | introduced | Ich habe es geschafft! = نجحت/خلصتها |
+| 208 | aufpassen | ياخد باله / ينتبه | ich passe auf; er passt auf | hat aufgepasst | Pass auf, wenn du die Straße überquerst! | introduced | منفصل؛ aufpassen auf + Akk؛ auf Kinder aufpassen |
+| 209 | anprobieren | يجرّب هدوم أو جزمة | ich probiere ... an | hat anprobiert | Kann ich diese Jacke anprobieren? | introduced | منفصل؛ للهدوم/الجزمة، مختلف عن probieren العامة |
+| 210 | sich fühlen | يحس بنفسه / يشعر بحالة | ich fühle mich; er fühlt sich | hat sich gefühlt | Ich fühle mich heute viel besser. | introduced | انعكاسي + صفة: sich gut/schlecht/müde fühlen |
 
 ## How to read the table
 
