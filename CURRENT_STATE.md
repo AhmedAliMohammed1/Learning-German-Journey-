@@ -1,3 +1,9 @@
+# Current learner state — 2026-10-27 S02 ACTIVE (10 new daily verbs)
+
+User chose menu 4 → 2 and explicitly requested 10 genuinely new, useful everyday verbs. Audited 200 registered verbs and 196 registered vocabulary entries for duplicates. New verbs #201–210: **dauern, passen, gehören, bedeuten, sich freuen, klappen, schaffen, aufpassen, anprobieren, sich fühlen**. Each has Präsens, Perfekt, usage/example and Egyptian Arabic meaning in `curriculum/verbs.md` and `days/2026-10-27.md`. New V197 **die Größe / die Größen**. Totals: **210 introduced verbs and 197 registered vocabulary**, not mastery. Day OPEN. New session **2026-10-27-S02**, activity **2026-10-27-S02-A01** ACTIVE. Next unanswered E01 (Perfekt, full German sentence): «أختي جرّبت الجاكيت امبارح، لكن للأسف الجاكيت ما كانش مناسب ليها.». No model German answer shown, so wait for independent learner attempt. Earlier S01 149 batch grading + umsteigen still saved; nine-item retest optional and all older prompts preserved. Next progression ~70% new verbs 30% old grammar.
+
+---
+
 # Current learner state — 2026-10-27 PAUSED; main menu
 
 User requested main menu after completing full isolated verb-recall batch. Day OPEN, session 2026-10-27-S01 paused, no active prompt. E01 umsteigen correct independently; bulk B01 all 149 responses graded and recorded in days/2026-10-27.md. Score: 137 exact, 2 accepted forms, 1 accepted meaning alternative, 4 contextually related alternatives, 5 spelling/form repairs. Next optional nine-item retest: #2, #33, #42, #45, #69, #90, #101, #104, #142; optional #30 einziehen versus umziehen. Retests are not mandatory; no answers invented. Prior unfinished work unchanged. 200 verbs, 196 vocabulary entries. No Perfekt or delayed mastery inferred. progress.json last verified structured state lags dated logs; use this summary and dated records if necessary.
