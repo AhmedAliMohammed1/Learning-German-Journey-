@@ -1,6 +1,7 @@
 # Current learner state — 2026-10-27 OPEN
 
-User selected targeted review 2 → 5: isolated Arabic → German infinitive recall of not-yet-secure verbs, one prompt at a time. Session `2026-10-27-S01` / activity `2026-10-27-S01-A01` OPEN. `E01` (#94 umsteigen) learner answered `umsteigen`, first-attempt independent exact infinitive recall 1/1. Next unanswered `2026-10-27-S01-E02`: «يفضّي الشنطة بعد السفر ويطلّع الحاجات اللي جواها.» (verb #124; do not reveal German answer before learner attempt). Only infinitive recall has been assessed; not Perfekt/sentence mastery. Counts unchanged: 200 verbs, 196 vocabulary. All older pending work preserved. `progress.json` connector content remains empty; do not overwrite it.
+User's targeted review 2 → 5 was switched by explicit request to **bulk isolated Arabic→German infinitive recall** of all not-yet-secure verbs. A single full batch `2026-10-27-S01-B01` with **149 unanswered Arabic-only prompts** is saved in `days/2026-10-27.md`, numbers #1–149 with exact inventory-ID mappings. From 200 total registered verbs, 50 were labeled strong for context; #94 `umsteigen` was independently answered correctly first in E01, and is not repeated. Batch #1 is previous E02 (#124 auspacken), not duplicate work. **Await numbered answers**, grade all together fairly, separating lexical recall from full contextual / Perfekt mastery. No new answers or proficiency inferred. Existing 196 registered vocabulary entries, all historical pending work preserved. `progress.json` still unreadable as empty through connector; do not overwrite.
+
 
 ---
 
