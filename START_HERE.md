@@ -1,6 +1,11 @@
 # START HERE — AI session protocol
 
-## LATEST handoff — 2026-10-27 OPEN, session PAUSED; main menu requested
+## LATEST handoff — 2026-10-27 S02 ACTIVE: 10 NEW practical everyday verbs
+
+Explicit user selection menu 4 → 2, preference for useful everyday verbs **not previously taught**. Audited full 200-verb / 196-vocabulary curricula before registering new **#201–210**: dauern, passen, gehören, bedeuten, sich freuen, klappen, schaffen, aufpassen, anprobieren, sich fühlen. All have teaching references with Egyptian Arabic meaning, Präsens, Perfekt and usage examples, no learner attempts or mastery. New vocabulary **V197 die Größe / die Größen**. Total **210 verbs / 197 vocabulary**. Day OPEN, current `2026-10-27-S02` and activity `2026-10-27-S02-A01`. Exact next unanswered `2026-10-27-S02-E01` (Perfekt): «أختي جرّبت الجاكيت امبارح، لكن للأسف الجاكيت ما كانش مناسب ليها.». **Do NOT reveal complete German translation/model until learner attempts.** Old 149-item recall and #94 independently answered, retest9 optional, all historical pending exercises retained. Read `CURRENT_STATE.md`, `days/2026-10-27.md`, canonical inventories and structured `progress.json` (large; fetch by blob SHA if needed).
+
+
+## Historical handoff — 2026-10-27 S01 PAUSED, main menu requested
 
 Authoritative latest day: `days/2026-10-27.md` (October 27, 2026). Learner chose menu 2 → 5 to recall all not-yet-secure verbs. E01 `umsteigen` correct independently; subsequent full batch `2026-10-27-S01-B01` answered **all 149** German infinitives in one message. Full verb-ID mapping, raw answers and fair grading are preserved in dated log. Results: **137 exact, 2 accepted form variants, 1 accepted meaning alternative, 4 contextual near alternatives with distinct target not confirmed, and 5 form/spelling repairs**. Do not equate this with Perfekt or contextual mastery. Next optional targeted 9-item retest: #2, #33, #42, #45, #104 (form/spelling) and #69, #90, #101, #142 (lexical distinctions); #30 `umziehen` vs `einziehen` optional. Learner then **explicitly requested main menu**. Day stays OPEN, session S01 PAUSED, no active exercise. Present full nine-choice menu; do not launch drill or close day automatically. **200 introduced verbs, 196 registered vocabulary entries**, not automatically mastered. Older pending new-verb E15 from Oct24 and all historical exercises preserved.
 
