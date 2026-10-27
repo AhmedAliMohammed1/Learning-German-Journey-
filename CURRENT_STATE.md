@@ -1,6 +1,6 @@
 # Current learner state — 2026-10-27 OPEN
 
-User selected targeted review 2 → 5: isolated Arabic → German infinitive recall of not-yet-secure verbs, one prompt at a time. Started session `2026-10-27-S01` / activity `2026-10-27-S01-A01`. Next unanswered `2026-10-27-S01-E01`: «يبدّل وسيلة المواصلات أثناء الرحلة، زي ينزل من قطار ويركب قطار تاني.» (verb #94; do not reveal answer before learner attempt). No responses/grades yet. Counts unchanged: 200 verbs, 196 vocabulary. All older pending work preserved. `progress.json` connector content remains empty; do not overwrite it.
+User selected targeted review 2 → 5: isolated Arabic → German infinitive recall of not-yet-secure verbs, one prompt at a time. Session `2026-10-27-S01` / activity `2026-10-27-S01-A01` OPEN. `E01` (#94 umsteigen) learner answered `umsteigen`, first-attempt independent exact infinitive recall 1/1. Next unanswered `2026-10-27-S01-E02`: «يفضّي الشنطة بعد السفر ويطلّع الحاجات اللي جواها.» (verb #124; do not reveal German answer before learner attempt). Only infinitive recall has been assessed; not Perfekt/sentence mastery. Counts unchanged: 200 verbs, 196 vocabulary. All older pending work preserved. `progress.json` connector content remains empty; do not overwrite it.
 
 ---
 
