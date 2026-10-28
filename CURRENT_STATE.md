@@ -1,3 +1,9 @@
+# LIVE mode switch — 2026-10-28 S01 / A02 ACTIVE
+
+Learner requested all uncertain verbs including new FIRST. Isolated Arabic→German infinitive recall; 162 eligible across full history, including all #201–210 and older item-level unresolved #31/#37. B01 contains ten prompts E02–E11, awaiting numbered answers, no models shown. All remaining pool IDs saved. Perfekt form recall separately deferred, not completed. Sentence activity A01 PAUSED; E01 and all historical pending preserved. Same session (59 total), OPEN day, counts unchanged 210 verbs /198 vocabulary. No answers or mastery changes. Read latest event in days/2026-10-28.md and progress.json.
+
+---
+
 # Current learner state — 2026-10-28 S01 ACTIVE
 
 Explicit selection 2 → 4: history-wide unresolved written sentence/grammar review, rotating early/middle/recent material and both Präsens and Perfekt. Day OPEN; session 2026-10-28-S01; activity 2026-10-28-S01-A01. **210 introduced verbs / 198 registered vocabulary / 59 documented sessions**, no mastery claim. New V198 die Ermäßigung / die Ermäßigungen, تخفيض / خصم, introduced with teacher example, no learner attempts. First pending 2026-10-28-S01-E01 (Perfekt): «أختي سلّفتني الكتاب امبارح، وبعد كده أنا رجّعته لها.». No answer/model shown. Focus leihen/explicit mir, return pronoun es ihr; later rotate cases, subordinate order, separable zu and recent reflexive/Dativ verbs. Prior Oct27 S02 PAUSED, day remains OPEN, E01 preserved along with all older work. No audio assessment. Local save; remote verification pending.
