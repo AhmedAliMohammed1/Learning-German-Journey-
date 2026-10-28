@@ -1,3 +1,9 @@
+# LATEST handoff — Oct28 S02 ACTIVE: household verbs211–220
+
+Explicit menu4→2. Full210/198 inventories and prior teaching logs audited before introducing aufschließen, abschließen, einräumen, ausräumen, wegwerfen, aufheben, bügeln, wischen, abwaschen, abtrocknen, with Präsens/Perfekt/examples/usage. New V199 die Spülmaschine/die Spülmaschinen. Now220 introduced verbs/199 registered vocabulary/60 documented sessions, not mastery. Day OPEN, session 2026-10-28-S02, activity 2026-10-28-S02-A01. Next unanswered 2026-10-28-S02-E01 Perfekt: «أختي فضّت غسالة الأطباق امبارح، وبعد كده نشّفت الكوبايات.». No full exercise model shown; await independent answer. Previous S01 recall40/162 PAUSED,122 unseen, B05 and retries retained; every historical prompt preserved. Approx70%new/30%embedded review; no audio assessed. Read progress.json and latest day session.
+
+---
+
 # LATEST handoff — 2026-10-28 PAUSED / MAIN MENU
 
 User explicitly requested save everything and main menu. Day OPEN; no active session. Paused S01/A02 isolated recall:40/162 first-pass targets tested (35 exact,1 accepted semantic alternative,4 repairs),122 unseen. Repair/contrast IDs167,202,210,91,207 preserved. B05 E42–E51 unanswered. Sentence E01 and all historical pending retained. Counts210 verbs/198 vocabulary/59 documented sessions unchanged. Perfekt deferred; no audio assessment. **Present all nine main-menu choices; no automatic drill or day closure.** Resume saved B05 only when learner selects it. Latest detailed evidence: days/2026-10-28.md and progress.json.

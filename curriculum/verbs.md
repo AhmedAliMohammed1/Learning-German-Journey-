@@ -1,4 +1,4 @@
-# Verb curriculum — 210 introduced verbs
+# Verb curriculum — 220 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -218,6 +218,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 208 | aufpassen | ياخد باله / ينتبه | ich passe auf; er passt auf | hat aufgepasst | Pass auf, wenn du die Straße überquerst! | introduced | منفصل؛ aufpassen auf + Akk؛ auf Kinder aufpassen |
 | 209 | anprobieren | يجرّب هدوم أو جزمة | ich probiere ... an | hat anprobiert | Kann ich diese Jacke anprobieren? | introduced | منفصل؛ للهدوم/الجزمة، مختلف عن probieren العامة; isolated recall(2026-10-28 B01): independent_correct |
 | 210 | sich fühlen | يحس بنفسه / يشعر بحالة | ich fühle mich; er fühlt sich | hat sich gefühlt | Ich fühle mich heute viel besser. | introduced | انعكاسي + صفة: sich gut/schlecht/müde fühlen; isolated recall(2026-10-28 B01): needs_form_retry |
+| 211 | aufschließen | يفتح بالمفتاح | ich schließe auf; du schließt auf; er schließt auf | hat aufgeschlossen | Ich schließe die Tür auf. | introduced | منفصل؛ + Akk. فتح القفل بالمفتاح، مش مجرد فتح الباب. |
+| 212 | abschließen | يقفل بالمفتاح | ich schließe ab; du schließt ab; er schließt ab | hat abgeschlossen | Ich schließe die Wohnung ab. | introduced | منفصل؛ + Akk. هنا قفل بالمفتاح؛ له أيضًا معنى إنهاء حاجة حسب السياق. |
+| 213 | einräumen | يرصّ / يحط الحاجات في مكانها جوّه | ich räume ein; er räumt ein | hat eingeräumt | Ich räume die Spülmaschine ein. | introduced | منفصل؛ + Akk: die Spülmaschine einräumen = يحمّلها بالأطباق. |
+| 214 | ausräumen | يفضّي مكان أو جهاز من اللي جواه | ich räume aus; er räumt aus | hat ausgeräumt | Ich räume meine Tasche aus. | introduced | منفصل؛ + Akk؛ عكس einräumen؛ الغسالة تُفضّى بعد الغسيل. |
+| 215 | wegwerfen | يرمي حاجة ويتخلّص منها | ich werfe weg; du wirfst weg; er wirft weg | hat weggeworfen | Ich werfe die Kopie weg. | introduced | منفصل؛ + Akk؛ e → i في du/er؛ مش مجرد werfen في أي اتجاه. |
+| 216 | aufheben | يلقط حاجة من الأرض / يحتفظ بحاجة | ich hebe auf; er hebt auf | hat aufgehoben | Ich hebe den Schlüssel auf. | introduced | منفصل؛ + Akk؛ المعنى هنا يلقط من الأرض؛ قد يعني يحتفظ بحاجة حسب السياق. |
+| 217 | bügeln | يكوي هدوم | ich bügle; er bügelt | hat gebügelt | Ich bügle das Hemd. | introduced | غير منفصل؛ + Akk؛ ich bügele صيغة صحيحة كمان. |
+| 218 | wischen | يمسح سطح / يمسح الأرض | ich wische; er wischt | hat gewischt | Ich wische den Tisch. | introduced | غير منفصل؛ + Akk؛ للمسح والتنظيف، مش löschen لحذف ملف. |
+| 219 | abwaschen | يغسل الأطباق أو حاجة بالمية | ich wasche ab; du wäschst ab; er wäscht ab | hat abgewaschen | Ich wasche die Tasse ab. | introduced | منفصل؛ + Akk أو بدون مفعول عند الكلام عن غسيل الأطباق؛ a → ä في du/er. |
+| 220 | abtrocknen | ينشّف حاجة بعد غسلها أو بلّها | ich trockne ab; er trocknet ab | hat abgetrocknet | Ich trockne den Tisch ab. | introduced | منفصل؛ + Akk؛ يُستخدم كتير مع تنشيف الأطباق أو الإيدين بفوطة. |
 
 ## How to read the table
 
