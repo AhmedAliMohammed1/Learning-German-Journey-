@@ -1,3 +1,9 @@
+# LIVE checkpoint — Oct28 S01 A02, B03 GRADED / B04 PENDING
+
+B03:9 exact forms,1 spelling repair schffen → schaffen. Cumulative30/162 first-pass tested,132 unseen;four repair targets and ankommen/erreichen contrast pending. B04 E32–E41 awaits ten numbered infinitives. No new material, counts210 verbs/198 vocabulary/59 sessions unchanged. Sentence E01/all historical pending retained; Perfekt deferred; no audio assessed. Latest raw evidence in day log/progress.json.
+
+---
+
 # LIVE checkpoint — Oct28 S01 A02, B02 GRADED / B03 PENDING
 
 B02:9 exact target forms,1 valid semantic alternative erreichen for arrival prompt; ankommen exact target unconfirmed, not a semantic error. Cumulative20/162 first-pass tested,142 unseen;3 B01 repairs+1 lexical contrast pending. B03 E22–E31 awaits ten numbered infinitives. No new material, counts210 verbs/198 vocabulary/59 sessions unchanged. Sentence E01 and all older prompts retained; Perfekt deferred, audio unassessed. Read latest day event/progress.json.
