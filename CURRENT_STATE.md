@@ -1,3 +1,9 @@
+# LATEST handoff — Oct28 S02 A02 ACTIVE: broader everyday verbs221–230
+
+Learner corrected household-heavy selection, asking important broadly useful daily verbs never taught before. Full220/199 inventories and prior logs audited. New221–230: lassen, passieren, reichen, halten, erwarten, sich verabreden, reden, sich wünschen, genießen, sich interessieren für. Present/Perfekt/examples/usage taught; zero learner attempts. V200 die Meinung/die Meinungen. Counts230 introduced verbs/200 registered vocabulary/60 sessions. Same S02; A01 household lesson paused,E01 preserved; IDs211–220 retained. New A02 active, first pending 2026-10-28-S02-E02 Perfekt: «امبارح أختي اتفقت مع أخويا على مقابلة، وبعد كده اتكلمت معاه عن رأيه.». No full exercise model yet. Old recall40/162 paused and all historical pending retained. Preference saved in LEARNING_PROFILE.md/progress.json. Read newest day event.
+
+---
+
 # LATEST handoff — Oct28 S02 ACTIVE: household verbs211–220
 
 Explicit menu4→2. Full210/198 inventories and prior teaching logs audited before introducing aufschließen, abschließen, einräumen, ausräumen, wegwerfen, aufheben, bügeln, wischen, abwaschen, abtrocknen, with Präsens/Perfekt/examples/usage. New V199 die Spülmaschine/die Spülmaschinen. Now220 introduced verbs/199 registered vocabulary/60 documented sessions, not mastery. Day OPEN, session 2026-10-28-S02, activity 2026-10-28-S02-A01. Next unanswered 2026-10-28-S02-E01 Perfekt: «أختي فضّت غسالة الأطباق امبارح، وبعد كده نشّفت الكوبايات.». No full exercise model shown; await independent answer. Previous S01 recall40/162 PAUSED,122 unseen, B05 and retries retained; every historical prompt preserved. Approx70%new/30%embedded review; no audio assessed. Read progress.json and latest day session.

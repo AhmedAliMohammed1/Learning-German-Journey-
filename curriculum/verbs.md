@@ -1,4 +1,4 @@
-# Verb curriculum — 220 introduced verbs
+# Verb curriculum — 230 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -228,6 +228,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 218 | wischen | يمسح سطح / يمسح الأرض | ich wische; er wischt | hat gewischt | Ich wische den Tisch. | introduced | غير منفصل؛ + Akk؛ للمسح والتنظيف، مش löschen لحذف ملف. |
 | 219 | abwaschen | يغسل الأطباق أو حاجة بالمية | ich wasche ab; du wäschst ab; er wäscht ab | hat abgewaschen | Ich wasche die Tasse ab. | introduced | منفصل؛ + Akk أو بدون مفعول عند الكلام عن غسيل الأطباق؛ a → ä في du/er. |
 | 220 | abtrocknen | ينشّف حاجة بعد غسلها أو بلّها | ich trockne ab; er trocknet ab | hat abgetrocknet | Ich trockne den Tisch ab. | introduced | منفصل؛ + Akk؛ يُستخدم كتير مع تنشيف الأطباق أو الإيدين بفوطة. |
+| 221 | lassen | يسيب حاجة / يخلّي أو يسمح لحد يعمل حاجة | ich lasse; du lässt; er lässt | hat gelassen | Ich lasse mein Handy zu Hause. | introduced | المثال: يسيب حاجة في مكان. مع فعل تاني: lassen + Infinitiv بدون zu؛ Perfekt وقتها ممكن يستخدم Ersatzinfinitiv: hat ... machen lassen؛ يتشرح لاحقًا عند التطبيق. |
+| 222 | passieren | يحصل / يحدث | es passiert | ist passiert | Was passiert hier? | introduced | لأحداث: Was ist passiert?؛ Perfekt مع sein. معنى المرور عبر نقطة قد يختلف، مش الهدف هنا. |
+| 223 | reichen | يكفّي | es reicht; das Geld reicht | hat gereicht | Das Geld reicht mir. | introduced | للكفاية: mir/dir... Dativ؛ له كمان معنى يناول حاجة حسب السياق. |
+| 224 | halten | يمسك حاجة / يثبّتها | ich halte; du hältst; er hält | hat gehalten | Ich halte die Tasche. | introduced | + Akk؛ du hältst/er hält. ممكن كمان يتوقف في سياق المواصلات. |
+| 225 | erwarten | يتوقّع / ينتظر حاجة متوقّعة | ich erwarte; er erwartet | hat erwartet | Ich erwarte eine Antwort. | introduced | + Akk مباشرة، مش auf؛ erwarten يتوقع أو ينتظر حاجة متوقعة، warten auf هو الانتظار نفسه. |
+| 226 | sich verabreden | يتفق مع حد على مقابلة | ich verabrede mich; er verabredet sich | hat sich verabredet | Wir verabreden uns für morgen. | introduced | انعكاسي؛ mit + Dat للشخص، für للوقت المتفق عليه؛ مش مجرد يقابل حد بالفعل. |
+| 227 | reden | يتكلم | ich rede; er redet | hat geredet | Ich rede mit meinem Bruder. | introduced | mit + Dat مع مين؛ über + Akk عن إيه. |
+| 228 | sich wünschen | يتمنّى حاجة لنفسه | ich wünsche mir; er wünscht sich | hat sich gewünscht | Ich wünsche mir eine Reise. | introduced | مع الحاجة المطلوبة Akk، الضمير الانعكاسي Dat: mir/dir/sich/uns/euch/sich. مثال عام بدون انعكاس: jemandem etwas wünschen. |
+| 229 | genießen | يستمتع بحاجة | ich genieße; er genießt | hat genossen | Ich genieße den Kaffee. | introduced | + Akk مباشرة؛ مش mit؛ Partizip II غير منتظم genossen. |
+| 230 | sich interessieren für | يهتم بموضوع / يكون عنده اهتمام بيه | ich interessiere mich; er interessiert sich | hat sich interessiert | Ich interessiere mich für diese Wohnung. | introduced | انعكاسي؛ für + Akk. يختلف عن sich kümmern um: يتولّى مسؤولية أو يرعى حاجة؛ هنا اهتمام بالموضوع. |
 
 ## How to read the table
 

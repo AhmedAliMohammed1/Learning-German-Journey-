@@ -173,3 +173,9 @@ This preference supersedes earlier fixed-target/supplemental-count wording.
 - Explicit learner wording: «عايزك تشرحلي الامر
 متنساش اي حاجه عايز القاعه الي تشرحها تجبها من الالف ل الياء».
 - Explain a selected grammar topic from basics through practical forms/subrules/exceptions, cases/order, negatives, irregular/separable/reflexive patterns and register with clear examples, then gradual practice. Distinguish everyday rules from rare advanced constructions; never claim a short overview is exhaustive. Reuse known verbs and audit entire inventories before examples/new entries; pause and preserve earlier work on explicit topic switch.
+
+
+## Everyday verb selection priority — 2026-10-28
+- Explicit learner: «انا محتاج افعال مهمه انا ممكن استخدمها اكتر في الحياه اليوميه و متكونش خدناهم قبل كدا».
+- Prefer broadly reusable everyday conversation verbs across social plans, needs, expectations and experiences; avoid an entire specialized household-task batch unless explicitly requested. New candidates must never duplicate prior taught items.
+- Household211–220 already introduced remain in history, without mastery or attempts. Broader221–230 selected next on direct request; pending work deferred.
