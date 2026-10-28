@@ -1,3 +1,9 @@
+# LIVE checkpoint — Oct28 S01 A02, B04 GRADED / B05 PENDING
+
+B04:10/10 exact independent infinitives.40/162 first-pass tested,122 unseen; prior four repairs and ankommen/erreichen contrast remain pending. B05 E42–E51 awaits ten numbered infinitives; accept bare sich entscheiden without optional für in isolated recall. Counts210 verbs/198 vocabulary/59 sessions unchanged, day OPEN. Sentence E01 and all historical prompts preserved; Perfekt separately deferred; audio unassessed. Read latest day event/progress.json.
+
+---
+
 # LIVE checkpoint — Oct28 S01 A02, B03 GRADED / B04 PENDING
 
 B03:9 exact forms,1 spelling repair schffen → schaffen. Cumulative30/162 first-pass tested,132 unseen;four repair targets and ankommen/erreichen contrast pending. B04 E32–E41 awaits ten numbered infinitives. No new material, counts210 verbs/198 vocabulary/59 sessions unchanged. Sentence E01/all historical pending retained; Perfekt deferred; no audio assessed. Latest raw evidence in day log/progress.json.
