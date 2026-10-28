@@ -1,3 +1,9 @@
+# LIVE checkpoint — 2026-10-28 S01 A02, B01 GRADED / B02 PENDING
+
+B01: seven exact forms, three repairs (sich kümmern **um**, **passen**, sich **fühlen**). Preserve correct kümmern lemma; frame error separate. 10/162 first-pass tested,152 unseen;3 retries deferred. Ten new Arabic prompts B02 (E12–E21) awaiting numbered infinitives. Perfekt deferred; sentence E01 paused and preserved. Day OPEN,59 sessions,210 verbs/198 vocabulary unchanged; no audio evidence. Exact raw answers/corrections in day log and progress.json.
+
+---
+
 # LIVE mode switch — 2026-10-28 S01 / A02 ACTIVE
 
 Learner requested all uncertain verbs including new FIRST. Isolated Arabic→German infinitive recall; 162 eligible across full history, including all #201–210 and older item-level unresolved #31/#37. B01 contains ten prompts E02–E11, awaiting numbered answers, no models shown. All remaining pool IDs saved. Perfekt form recall separately deferred, not completed. Sentence activity A01 PAUSED; E01 and all historical pending preserved. Same session (59 total), OPEN day, counts unchanged 210 verbs /198 vocabulary. No answers or mastery changes. Read latest event in days/2026-10-28.md and progress.json.
