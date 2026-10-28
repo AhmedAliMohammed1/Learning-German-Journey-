@@ -1,3 +1,9 @@
+# LATEST handoff — 2026-10-28 PAUSED / MAIN MENU
+
+User explicitly requested save everything and main menu. Day OPEN; no active session. Paused S01/A02 isolated recall:40/162 first-pass targets tested (35 exact,1 accepted semantic alternative,4 repairs),122 unseen. Repair/contrast IDs167,202,210,91,207 preserved. B05 E42–E51 unanswered. Sentence E01 and all historical pending retained. Counts210 verbs/198 vocabulary/59 documented sessions unchanged. Perfekt deferred; no audio assessment. **Present all nine main-menu choices; no automatic drill or day closure.** Resume saved B05 only when learner selects it. Latest detailed evidence: days/2026-10-28.md and progress.json.
+
+---
+
 # LIVE checkpoint — Oct28 S01 A02, B04 GRADED / B05 PENDING
 
 B04:10/10 exact independent infinitives.40/162 first-pass tested,122 unseen; prior four repairs and ankommen/erreichen contrast remain pending. B05 E42–E51 awaits ten numbered infinitives; accept bare sich entscheiden without optional für in isolated recall. Counts210 verbs/198 vocabulary/59 sessions unchanged, day OPEN. Sentence E01 and all historical prompts preserved; Perfekt separately deferred; audio unassessed. Read latest day event/progress.json.
