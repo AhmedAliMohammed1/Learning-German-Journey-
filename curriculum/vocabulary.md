@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**197 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**198 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -203,6 +203,7 @@
 | V195 | der Akku | die Akkus | البطارية القابلة للشحن | noun | introduced |
 | V196 | schwach | — | ضعيف | adjective | introduced |
 | V197 | die Größe | die Größen | المقاس / الحجم (مثلاً مقاس الهدوم والجزمة) | noun | introduced |
+| V198 | die Ermäßigung | die Ermäßigungen | تخفيض / خصم في السعر | noun | introduced |
 
 ## Learning notes
 

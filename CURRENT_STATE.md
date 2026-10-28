@@ -1,3 +1,9 @@
+# Current learner state — 2026-10-28 S01 ACTIVE
+
+Explicit selection 2 → 4: history-wide unresolved written sentence/grammar review, rotating early/middle/recent material and both Präsens and Perfekt. Day OPEN; session 2026-10-28-S01; activity 2026-10-28-S01-A01. **210 introduced verbs / 198 registered vocabulary / 59 documented sessions**, no mastery claim. New V198 die Ermäßigung / die Ermäßigungen, تخفيض / خصم, introduced with teacher example, no learner attempts. First pending 2026-10-28-S01-E01 (Perfekt): «أختي سلّفتني الكتاب امبارح، وبعد كده أنا رجّعته لها.». No answer/model shown. Focus leihen/explicit mir, return pronoun es ihr; later rotate cases, subordinate order, separable zu and recent reflexive/Dativ verbs. Prior Oct27 S02 PAUSED, day remains OPEN, E01 preserved along with all older work. No audio assessment. Local save; remote verification pending.
+
+---
+
 # Current learner state — 2026-10-27 S02 ACTIVE (10 new daily verbs)
 
 User chose menu 4 → 2 and explicitly requested 10 genuinely new, useful everyday verbs. Audited 200 registered verbs and 196 registered vocabulary entries for duplicates. New verbs #201–210: **dauern, passen, gehören, bedeuten, sich freuen, klappen, schaffen, aufpassen, anprobieren, sich fühlen**. Each has Präsens, Perfekt, usage/example and Egyptian Arabic meaning in `curriculum/verbs.md` and `days/2026-10-27.md`. New V197 **die Größe / die Größen**. Totals: **210 introduced verbs and 197 registered vocabulary**, not mastery. Day OPEN. New session **2026-10-27-S02**, activity **2026-10-27-S02-A01** ACTIVE. Next unanswered E01 (Perfekt, full German sentence): «أختي جرّبت الجاكيت امبارح، لكن للأسف الجاكيت ما كانش مناسب ليها.». No model German answer shown, so wait for independent learner attempt. Earlier S01 149 batch grading + umsteigen still saved; nine-item retest optional and all older prompts preserved. Next progression ~70% new verbs 30% old grammar.

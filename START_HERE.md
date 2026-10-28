@@ -1,3 +1,9 @@
+# LATEST handoff — 2026-10-28 S01 ACTIVE: history-wide targeted sentence review
+
+Explicit menu 2 → 4. Read progress.json, CURRENT_STATE.md and days/2026-10-28.md. Full inventories audited: 210 verbs / now 198 vocabulary, 59 documented sessions. New V198 die Ermäßigung / die Ermäßigungen introduced with teacher example; no learner attempt. Day OPEN, session 2026-10-28-S01/activity 2026-10-28-S01-A01. First pending 2026-10-28-S01-E01 (Perfekt): «أختي سلّفتني الكتاب امبارح، وبعد كده أنا رجّعته لها.». No German model shown; wait for full independent answer. Rotate unresolved tense/context/grammar across entire history, not only recent verbs; lexical strong labels remain separate. Oct27 S02 paused, day remains OPEN; all pending prompts retained. No audio assessed.
+
+---
+
 # START HERE — AI session protocol
 
 ## LATEST handoff — 2026-10-27 S02 ACTIVE: 10 NEW practical everyday verbs
