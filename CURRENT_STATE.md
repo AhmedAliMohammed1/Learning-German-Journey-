@@ -1,3 +1,9 @@
+# LIVE checkpoint — Oct28 S01 A02, B02 GRADED / B03 PENDING
+
+B02:9 exact target forms,1 valid semantic alternative erreichen for arrival prompt; ankommen exact target unconfirmed, not a semantic error. Cumulative20/162 first-pass tested,142 unseen;3 B01 repairs+1 lexical contrast pending. B03 E22–E31 awaits ten numbered infinitives. No new material, counts210 verbs/198 vocabulary/59 sessions unchanged. Sentence E01 and all older prompts retained; Perfekt deferred, audio unassessed. Read latest day event/progress.json.
+
+---
+
 # LIVE checkpoint — 2026-10-28 S01 A02, B01 GRADED / B02 PENDING
 
 B01: seven exact forms, three repairs (sich kümmern **um**, **passen**, sich **fühlen**). Preserve correct kümmern lemma; frame error separate. 10/162 first-pass tested,152 unseen;3 retries deferred. Ten new Arabic prompts B02 (E12–E21) awaiting numbered infinitives. Perfekt deferred; sentence E01 paused and preserved. Day OPEN,59 sessions,210 verbs/198 vocabulary unchanged; no audio evidence. Exact raw answers/corrections in day log and progress.json.
