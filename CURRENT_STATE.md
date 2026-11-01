@@ -1,3 +1,9 @@
+# Konjunktiv II E06 graded — plural forms correct, verb contrast pending
+
+`Wir würden eine größere Wohnung kaufen, wenn wir mehr Geld hätten` is grammatical but prompt requested renting, target `mieten`. Plural würden/hätten and adjective größer correct. E07 independent lexical transfer pending. Full evidence days/2026-11-02.md.
+
+---
+
 # Nov02 S02 E05 graded: Konjunktiv II verb forms correct; location preposition repair
 
 Learner wrote `Mein Bruder würde nach eine großere Stadt reisen, wenn er mehr Zeit hätte`. Corrected `Mein Bruder würde in eine größere Stadt reisen, wenn er mehr Zeit hätte.` Third-person würde/hätte independently correct after E04 repairs; use `in eine` for indefinite city and umlaut in `größere`. E06 pending, old B15 paused 140/162. Full evidence in days/2026-11-02.md; progress.json still pending reconciliation.
