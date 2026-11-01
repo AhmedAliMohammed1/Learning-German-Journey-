@@ -1,3 +1,11 @@
+# LATEST handoff — 2026-11-01 S01 ACTIVE: targeted B06 10/10, B07 pending
+
+Learner completed isolated recall **2026-10-28-S01-B06** E52–E61 within today's session 2026-11-01-S01. All ten independently supplied infinitives were exact: ausziehen, einpacken, aufbewahren, einschlafen, buchen, löschen, verpassen, drucken, liegen, besprechen. Grade **10/10**, no model/hints; separate tense/context/audio mastery unassessed. Full raw results recorded in days/2026-11-01.md and progress.json.
+
+In original 162-pool recall, **60 tested, 102 first-pass unseen**; cumulative 54 exact, one accepted meaning alternative, five form/frame repairs. Earlier retry/contrast verb IDs 167,202,210,91,207,110 retained. **B07 E62–E71 unanswered** (IDs 168,174,137,148,176,194,162,141,190,201); await isolated Arabic→German infinitives without showing models. Twenty later introduced verbs #211–230 outside original pool still need tests. Current day Nov1 OPEN, session 2026-11-01-S01 active, 61 documented sessions, totals unchanged: 230 verbs introduced /200 vocabulary. Other paused new-verb activity and historical pending exercises retained. Next use B07; do not redo B05/B06.
+
+---
+
 # LATEST handoff — 2026-11-01 S01 ACTIVE: targeted verb recall B05 graded / B06 pending
 
 Learner explicitly selected main menu 2→5, resumed earlier 2026-10-28-S01-A02 (targeted isolated German infinitive recall). 2026-10-28-S01-B05 E42–E51 graded on Nov1 with original issued exercise IDs preserved: **9 exact/accepted bare reflexive forms, 1 reflexive repair** (Verb #110 learner «erinnern» versus «sich erinnern», lemma correct). All ten independent typed answers archived in days/2026-11-01.md and progress.json. No sentence, Perfekt or audio mastery inferred.
