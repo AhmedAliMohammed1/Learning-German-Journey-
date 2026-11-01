@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01: B07 graded 8/10 / B08 pending
+
+B07 (E62–E71) was graded on Nov1 in resumed 2026-10-28-S01-A02: **8 exact infinitives**, one lexical target mismatch `leihen` for `erhalten` (#162; `bekommen` valid semantic alternative), and one present-tense form `dauert` for requested infinitive `dauern` (#201). Preserve prior correct #162 recall evidence; #201 meaning recognized. Full originals in `days/2026-11-01.md` and `progress.json`. Original 162-target pool now 70 tested / 92 unseen; 62 exact, one semantic alternative, six form/frame repairs, one lexical mismatch. Retry IDs 167,202,210,91,207,110,162,201 retained. **B08 E72–E81 is unanswered** for IDs 184,134,160,78,85,98,186,166,101,83; ask ten Arabic→German infinitives without giving answer models. 20 newer verbs 211–230 not tested in original pool. Nov1 day OPEN; active session 2026-11-01-S01; 61 sessions,230 verbs/200 vocab. No closure; all other pending preserved.
+
+---
+
 # LATEST handoff — Nov01 S01 ACTIVE: B06 graded 10/10 / B07 unanswered
 
 On Nov1 learner submitted 2026-10-28-S01-B06 E52–E61, ten German infinitives, all exact/independent with no hints: ausziehen, einpacken, aufbewahren, einschlafen, buchen, löschen, verpassen, drucken, liegen, besprechen. Result 10/10 saved in progress.json and days/2026-11-01.md. Original 162-pool targeted recall now 60 tested/102 unseen; 54 exact, 1 accepted semantic alternative, 5 repairs; retry IDs 167,202,210,91,207,110 preserved. Next B07 E62–E71 **unanswered** IDs 168,174,137,148,176,194,162,141,190,201; no German models before learner attempt. Twenty additional verbs #211–230 beyond original pool untested. Nov1 day OPEN, 2026-11-01-S01 active, 61 sessions, 230 introduced verbs /200 vocabulary. All historical pending/new-verb activities preserved. Read CURRENT_STATE and newest day.
