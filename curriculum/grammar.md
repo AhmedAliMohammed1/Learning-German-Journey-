@@ -32,6 +32,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
 | während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | practicing | 2026-10-22-S02-E01 independently correct; further variations pending |
 | seitdem conjunction/adverb; contrast seit + Dativ, vor + Dativ | introduced | New 2026-10-23 S04, E01 unanswered |
+| Konjunktiv II: würde + Infinitiv for hypothetical wishes and polite intentions | introduced | New 2026-11-02-S02; first independent sentence E01 pending; no learner attempt yet |
 
 ## Cases and pronouns
 
@@ -744,3 +745,7 @@ Exercise pending **2026-10-22-S02-E01** Arabic-to-German full sentence (Präsens
 - **während** expresses overlapping action (while/during), **seitdem** marks starting point and what followed.
 - New V188: `die Gewohnheit`, plural `die Gewohnheiten` (عادة); teacher-supplied example `Das ist eine gute Gewohnheit.` No production yet.
 - First unanswered E01 (Präsens, no German exercise model): «أخويا بيصحى بدري كل يوم، من ساعة ما بقى بيشتغل في ميونخ.»
+
+## New grammar topic — Konjunktiv II (würde + Infinitiv), Nov02 S02
+
+Introduced simple conditional/hypothetical and polite wish expression using conjugated würde and a sentence-final main verb infinitive. Conjugation: ich würde, du würdest, er/sie/es würde, wir würden, ihr würdet, sie/Sie würden. Reference examples: Ich würde ein Auto kaufen. Ich würde gern in München arbeiten. Ich würde gern einen Kaffee bestellen. An deiner Stelle würde ich mehr Deutsch lernen. Wir würden morgen nach Berlin fahren. Distinguish hypothetical from present Indicative; do not infer mastery from teacher examples. Related weil clause already introduced. First **unanswered** Arabic→German independent sentence E01: «أنا كنت أحب أشتغل في ألمانيا، لأن عندي فرص كويسة هناك.» Do not show complete German answer before learner response. No assessment recorded yet.
