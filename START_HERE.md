@@ -1,3 +1,9 @@
+# Nov02 S02 E07 graded: mieten transferred correctly, Führerschein case/spelling repair
+
+Learner wrote `Meine Schwester würde ein Auto mieten, wenn sie eine Füherschein hätte`. Correct: `Meine Schwester würde ein Auto mieten, wenn sie einen Führerschein hätte.` Grammar würde/hätte good; mieten corrected independently after E06; accusative masculine einen, missing r spelling. Next E08 pending. Full log days/2026-11-02.md; structured progress.json not reconciled.
+
+---
+
 # Konjunktiv II E06 graded — plural forms correct, verb contrast pending
 
 `Wir würden eine größere Wohnung kaufen, wenn wir mehr Geld hätten` is grammatical but prompt requested renting, target `mieten`. Plural würden/hätten and adjective größer correct. E07 independent lexical transfer pending. Full evidence days/2026-11-02.md.
