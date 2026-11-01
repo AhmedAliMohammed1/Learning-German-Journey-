@@ -1,3 +1,9 @@
+# LATEST handoff — Nov02 S01: B14 graded 9/10 accepted, 140/162 tested
+
+B14 E132–E141: **8 exact**, one accepted contextual alternative `hinzufügen` for adding text to a document (registered target `einfügen`, #139 remains unconfirmed), and one spelling repair `anfengen` → `anfangen` (#57). Score **9/10 accepted**, **8/10 exact target**. Original 162 pool now **140 tested, 22 unseen**; cumulative **127 exact, 3 accepted alternatives, 8 repairs, 2 lexical mismatches**. Preserve retries/contrasts from B01–B13 plus #57 and #139. Newer 20 verbs #211–230 outside original pool untested. Session Nov02 S01 OPEN, 230 introduced verbs/200 vocab/62 sessions. Next B15 not yet issued. Large `progress.json` remains stale from oversized connector write failure; dated logs are authoritative until reconciled.
+
+---
+
 # LATEST handoff — Nov02 S01: B13 graded 10/10, 130/162 tested
 
 Learner gave ten independently correct registered infinitives in B13 E122–E131: sich beeilen, weiterleiten, ausschalten, entfernen, widersprechen, laufen, annehmen, schälen, spielen, umsteigen. Original recall pool now **130 tested / 32 unseen**, cumulative **119 exact, 2 accepted alternatives, 7 repairs and 2 lexical mismatches**. Prior error retries and contrasts retained; newer verbs #211–230 not in original pool and still pending. Day Nov2 OPEN, same 2026-11-02-S01 session and ongoing Oct28 A02 activity; 230 introduced verbs, 200 vocabulary, 62 documented sessions. Next B14 not issued. `progress.json` still needs reconciliation due to oversized connector writes; date ledger authoritative for B13.
