@@ -1,3 +1,9 @@
+# LATEST handoff — Nov02 S02 new verbs #231–240 introduced (4→2)
+
+Learner switched from Konjunktiv II E08 (paused) to ten important everyday NEW verbs, after auditing existing 230 rows: #231 ausleihen, #232 überprüfen, #233 zurückrufen, #234 abheben, #235 einzahlen, #236 verschlafen, #237 ausprobieren, #238 mitteilen, #239 wegbringen, #240 sich erkundigen nach. Presented Arabic meanings, Präsens, Perfekt, and real-life examples. Introduced only, **no learner attempts**. Now 240 introduced verbs/200 vocabulary. First new-verb exercise pending: «امبارح كنت عايز أسحب فلوس من البنك، بس اكتشفت إن رصيدي مش كفاية.» Previous E08, B15 and all older pending preserved. Day remains OPEN. Structured progress.json still needs reconciliation.
+
+---
+
 # Nov02 S02 E07 graded: mieten transferred correctly, Führerschein case/spelling repair
 
 Learner wrote `Meine Schwester würde ein Auto mieten, wenn sie eine Füherschein hätte`. Correct: `Meine Schwester würde ein Auto mieten, wenn sie einen Führerschein hätte.` Grammar würde/hätte good; mieten corrected independently after E06; accusative masculine einen, missing r spelling. Next E08 pending. Full log days/2026-11-02.md; structured progress.json not reconciled.
