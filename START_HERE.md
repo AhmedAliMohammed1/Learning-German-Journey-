@@ -1,3 +1,9 @@
+# LATEST handoff — Nov02 S01: B12 10/10; 120/162 tested
+
+Learner independently answered B12 E112–E121 in newly dated 2026-11-02-S01, continuing 2026-10-28-S01-A02. All ten exact: #89 `vereinbaren`, #200 `sich vorstellen`, #132 `installieren`, #99 `einschalten`, #87 `zurückgeben`, #80 `unterschreiben`, #71 `aufräumen`, #114 `umtauschen`, #81 `verlieren`, #156 `sich entschuldigen`. Original recall pool now **120 tested / 42 unseen**: **109 exact, 2 accepted alternatives, 7 repairs, 2 lexical mismatches**. Preserve all earlier retries and 20 newer #211–230 not yet tested in original pool. Day Nov2 OPEN; 62 documented sessions, 230 verbs /200 vocabulary. Next B13 unissued. Full details in `days/2026-11-02.md`. Large progress.json remains stale from connector payload failure; reconcile later from dated logs, do not claim JSON synced.
+
+---
+
 # LATEST handoff — Nov01 S01: B11 graded 10/10, 110/162 tested
 
 B11 exercises E102–E111: all ten independent exact German infinitive recalls: trocknen, schicken, zustimmen, schmecken, verschieben, erzählen, ausfüllen, reisen, mitnehmen, bearbeiten. Original recall pool **110 tested, 52 unseen**. Cumulative **99 exact, 2 accepted alternatives, 7 spelling/form/frame repairs, 2 lexical mismatches**. Previous B09/B10 corrections and retries remain pending, including #196, #150 and #115 contrast. Twenty more recent verbs #211–230 outside original recall pool still to test. Nov1 OPEN, session S01, 230 introduced verbs/200 vocabulary/61 documented sessions. Next B12 from the remaining 52, not yet issued. Large progress.json stale due to prior connector write failure; dated log and summary are authoritative, reconcile structured records later.
