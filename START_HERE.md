@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01: B10 graded 9/10 accepted, 100/162 tested
+
+B10 E92–E101: 8 exact, 1 valid contextual alternative (`schaffen` for task completion; target `erledigen` #115 remains unconfirmed), 1 spelling repair `ablehen` → `ablehnen` (#150). Fair batch score **9/10 accepted**, **8/10 exact target**, no full sentence or Perfekt inference. Cumulative original 162 pool **100 tested, 62 unseen**, totals **89 exact, 2 accepted semantic/context alternatives, 7 form/spelling repairs, 2 lexical mismatches**. Preserve existing retry IDs #167,#202,#210,#91,#207,#110,#162,#201,#196 plus new #150, lexical contrast #115. Newer verbs #211–230 remain outside pool. Day OPEN, session S01, 230 introduced verbs /200 vocabulary /61 sessions. B11 not issued; continue with unseen 62. `progress.json` is known stale due to oversized connector write failure; detailed dated log is authoritative until safely reconciled.
+
+---
+
 # LATEST handoff — Nov01 S01: B09 graded 9/10; 90/162 tested
 
 B09 E82–E91 independent Arabic→German infinitive answers: 9 exact, 1 lexical mismatch (#196 learner `sich kümmern um` versus target `sich gewöhnen an`). The learner recalled a correct but different reflexive verb; do not equate caring for with becoming accustomed to. Cumulative original 162 pool: **90 tested / 72 unseen**; **81 exact, 1 accepted semantic alternative, 6 form/frame repairs, 2 lexical mismatches**. B08 10/10 remains saved. Retry prior #167,#202,#210,#91,#207,#110,#162,#201 and new #196. All earlier pending work preserved; 20 later introduced verbs #211–230 not part of original pool. Day Nov1 OPEN, session 2026-11-01-S01 active, totals 230 verbs/200 vocab/61 documented sessions. Next B10 after selecting ten from unseen pool. **Persistence:** dated log and summaries committed; large `progress.json` still requires reconciliation due to connector payload limitation; do not trust its stale B08/B09 pending state.
