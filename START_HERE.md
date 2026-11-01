@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01: B08 10/10 graded, 80/162 tested
+
+Learner independently answered B08 E72–E81 with all ten exact/accepted registered forms: #184 `aufmachen`, #134 `hochladen`, #160 `zurückschicken`, #78 `sich anmelden`, #85 `reservieren`, #98 `abgeben`, #186 `aufhängen`, #166 `nachschauen`, #101 `besuchen`, #83 `wechseln`. Score **10/10**. Original 162-pool is now **80 tested, 82 unseen**, cumulative **72 exact, one accepted semantic alternative, six form/frame repairs, one lexical mismatch**. Preserve retries #167,#202,#210,#91,#207,#110,#162,#201 and all historical pending; newer 211–230 still untested. No contextual/Perfekt/audio inference. Date Nov1 OPEN, session 2026-11-01-S01 active; totals 230 verbs/200 vocab/61 sessions. Next: B09 targeted isolated recall from remaining untested pool; do not reuse B08 as unanswered.
+
+---
+
 # LATEST handoff — Nov01 S01: B07 graded 8/10 / B08 pending
 
 B07 (E62–E71) was graded on Nov1 in resumed 2026-10-28-S01-A02: **8 exact infinitives**, one lexical target mismatch `leihen` for `erhalten` (#162; `bekommen` valid semantic alternative), and one present-tense form `dauert` for requested infinitive `dauern` (#201). Preserve prior correct #162 recall evidence; #201 meaning recognized. Full originals in `days/2026-11-01.md` and `progress.json`. Original 162-target pool now 70 tested / 92 unseen; 62 exact, one semantic alternative, six form/frame repairs, one lexical mismatch. Retry IDs 167,202,210,91,207,110,162,201 retained. **B08 E72–E81 is unanswered** for IDs 184,134,160,78,85,98,186,166,101,83; ask ten Arabic→German infinitives without giving answer models. 20 newer verbs 211–230 not tested in original pool. Nov1 day OPEN; active session 2026-11-01-S01; 61 sessions,230 verbs/200 vocab. No closure; all other pending preserved.
