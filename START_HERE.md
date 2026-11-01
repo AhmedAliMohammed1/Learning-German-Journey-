@@ -1,3 +1,9 @@
+# FINAL CANONICAL SYNC — 2026-11-02
+
+Verified final chosen ten everyday verbs **#231–240** committed to curriculum/verbs.md (240 rows total; not the rejected preliminary ten). This note supersedes older statements below that canonical inventory has only 230. The 10 new verbs are introduced, not tested. User paused learning until tomorrow, Nov 3; grammar E08 and verb B15 remain unanswered. Structured progress.json still needs reconciliation; don't claim it was synchronized.
+
+---
+
 # CURRENT: Nov 02 session paused until Nov 03, 2026
 
 User requested all work saved and no more lessons today. The FINAL chosen set of ten everyday verbs is: abwischen, staubsaugen, lüften, aufwärmen, nachfüllen, sich hinsetzen, vorbeikommen, losgehen, abstellen, sich merken. These are introduced only, not yet tested. The previously proposed first ten were rejected and are NOT in canonical verbs.md. Konjunktiv II E01-E07 graded, E08 paused. B15 paused (140/162 tested). **Read days/2026-11-02-final-checkpoint.md for authoritative complete handoff** and days/2026-11-02-new-verbs-revised.md for examples. Canonical verbs.md still contains 230 registered verbs, not 240. Large progress.json remains stale.
