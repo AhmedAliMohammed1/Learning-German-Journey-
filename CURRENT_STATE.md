@@ -1,3 +1,9 @@
+# Nov02 S02 E02 graded — hypothetical condition needs hätte
+
+Raw answer: `Ich würde gern ein neues Auto kaufen, wenn ich das genug Geld habe`. Natural correction: `Ich würde gern ein neues Auto kaufen, wenn ich genug Geld hätte.` Correct independent würde + kaufen, adjective `ein neues Auto`, and weil/wenn verb-final structure. Repairs: no `das` with `genug Geld`; use Konjunktiv II `hätte` for hypothetical possession. E03 unattempted: «أنا كنت هسافر ميونخ لو كان عندي وقت أكتر.» Keep B15 recall paused at 140/162. Full evidence in days/2026-11-02.md. Structured progress.json not yet reconciled.
+
+---
+
 # Nov02 S02 E01 graded: würde correct, weil subject omitted
 
 Learner: `Ich würde gern in Deutschland arbeiten, weil eine gute chance dort habe`. Correction: `Ich würde gern in Deutschland arbeiten, weil ich dort gute Chancen habe.` Next E02: «أنا كنت أحب أشتري عربية جديدة، لو كان معايا فلوس كفاية.» See days/2026-11-02.md. B15 paused at 140/162. Structured progress.json pending synchronization.
