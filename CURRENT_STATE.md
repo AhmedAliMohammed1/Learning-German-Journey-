@@ -1,3 +1,9 @@
+# Nov02 S02 E03 correct independent hypothetical sentence
+
+Konjunktiv II E03: learner independently wrote `Ich würde nach München fahren, wenn ich genug Zeit hätte.` Exact natural German; würde + infinitive, nach + city, wenn final hätte correct. E02 repairs successfully transferred. Topic practicing/improving on this dimension, not fully mastered. Next E04 fresh variation pending. B15 paused. 
+
+---
+
 # Nov02 S02 E02 graded — hypothetical condition needs hätte
 
 Raw answer: `Ich würde gern ein neues Auto kaufen, wenn ich das genug Geld habe`. Natural correction: `Ich würde gern ein neues Auto kaufen, wenn ich genug Geld hätte.` Correct independent würde + kaufen, adjective `ein neues Auto`, and weil/wenn verb-final structure. Repairs: no `das` with `genug Geld`; use Konjunktiv II `hätte` for hypothetical possession. E03 unattempted: «أنا كنت هسافر ميونخ لو كان عندي وقت أكتر.» Keep B15 recall paused at 140/162. Full evidence in days/2026-11-02.md. Structured progress.json not yet reconciled.
