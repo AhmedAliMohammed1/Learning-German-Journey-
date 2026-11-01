@@ -1,5 +1,7 @@
 # LATEST handoff — Nov01 S01: B08 10/10 graded, 80/162 tested
 
+**Persistence note:** B08 results are verified in `days/2026-11-01.md`, `CURRENT_STATE.md`, `START_HERE.md`. The large `progress.json` update failed due to a connector transport error; its B08 pending records are stale. Next capable writer must reconcile E72–E81 from the dated log without duplicating results. Do not downgrade learner score or say all files synchronized.
+
 Learner independently answered B08 E72–E81 with all ten exact/accepted registered forms: #184 `aufmachen`, #134 `hochladen`, #160 `zurückschicken`, #78 `sich anmelden`, #85 `reservieren`, #98 `abgeben`, #186 `aufhängen`, #166 `nachschauen`, #101 `besuchen`, #83 `wechseln`. Score **10/10**. Original 162-pool is now **80 tested, 82 unseen**, cumulative **72 exact, one accepted semantic alternative, six form/frame repairs, one lexical mismatch**. Preserve retries #167,#202,#210,#91,#207,#110,#162,#201 and all historical pending; newer 211–230 still untested. No contextual/Perfekt/audio inference. Date Nov1 OPEN, session 2026-11-01-S01 active; totals 230 verbs/200 vocab/61 sessions. Next: B09 targeted isolated recall from remaining untested pool; do not reuse B08 as unanswered.
 
 ---
