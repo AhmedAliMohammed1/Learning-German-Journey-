@@ -1,3 +1,9 @@
+# FINAL CANONICAL SYNC — 2026-11-02
+
+Verified final chosen ten everyday verbs **#231–240** committed to curriculum/verbs.md (240 rows total; not the rejected preliminary ten). This note supersedes older statements below that canonical inventory has only 230. The 10 new verbs are introduced, not tested. User paused learning until tomorrow, Nov 3; grammar E08 and verb B15 remain unanswered. Structured progress.json still needs reconciliation; don't claim it was synchronized.
+
+---
+
 # Nov 2 2026 — End-of-day checkpoint (authoritative)
 
 User asked to save everything to GitHub and resume tomorrow, Nov 3. No more drills today.
