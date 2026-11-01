@@ -1,3 +1,9 @@
+# Nov02 S02 E05 graded: Konjunktiv II verb forms correct; location preposition repair
+
+Learner wrote `Mein Bruder würde nach eine großere Stadt reisen, wenn er mehr Zeit hätte`. Corrected `Mein Bruder würde in eine größere Stadt reisen, wenn er mehr Zeit hätte.` Third-person würde/hätte independently correct after E04 repairs; use `in eine` for indefinite city and umlaut in `größere`. E06 pending, old B15 paused 140/162. Full evidence in days/2026-11-02.md; progress.json still pending reconciliation.
+
+---
+
 # Nov02 S02: Konjunktiv II E04 graded, singular endings need retry
 
 E04 raw: `Meine Schwester würdet eine große Wohnungkaufen, wenn sie mehr Geld hättet`. Correction: `Meine Schwester würde eine größere Wohnung kaufen, wenn sie mehr Geld hätte.` Errors: third-person singular würde/hätte, comparative größere and spacing. Correct conditional structure. Next E05 fresh retest pending; B15 paused. Complete record in days/2026-11-02.md; progress.json pending reconciliation.
