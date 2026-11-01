@@ -1,3 +1,9 @@
+# LATEST handoff — Nov02 S02: new grammar Konjunktiv II introduced; E01 pending
+
+After selecting main menu 4→1, learner received first new lesson on **Konjunktiv II: würde + Infinitiv**, audited absent from the grammar topic map. Examples and complete würde conjugation explained in Egyptian Arabic; topic only **introduced**, not practiced/mastered. New session 2026-11-02-S02; pending first sentence 2026-11-02-S02-E01: «أنا كنت أحب أشتغل في ألمانيا، لأن عندي فرص كويسة هناك.» Wait for independently typed full sentence before correcting or giving answer model. Old isolated recall B15 paused at 140/162 with 22 unseen; no day closure. 230 verbs/200 vocab/63 documented sessions. Large progress.json still stale and should be reconciled from dated logs.
+
+---
+
 # LATEST handoff — Nov02 S01: B14 graded 9/10 accepted, 140/162 tested
 
 B14 E132–E141: **8 exact**, one accepted contextual alternative `hinzufügen` for adding text to a document (registered target `einfügen`, #139 remains unconfirmed), and one spelling repair `anfengen` → `anfangen` (#57). Score **9/10 accepted**, **8/10 exact target**. Original 162 pool now **140 tested, 22 unseen**; cumulative **127 exact, 3 accepted alternatives, 8 repairs, 2 lexical mismatches**. Preserve retries/contrasts from B01–B13 plus #57 and #139. Newer 20 verbs #211–230 outside original pool untested. Session Nov02 S01 OPEN, 230 introduced verbs/200 vocab/62 sessions. Next B15 not yet issued. Large `progress.json` remains stale from oversized connector write failure; dated logs are authoritative until reconciled.
