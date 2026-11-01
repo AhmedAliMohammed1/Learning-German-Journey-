@@ -1,3 +1,9 @@
+# Nov02 S02: Konjunktiv II E04 graded, singular endings need retry
+
+E04 raw: `Meine Schwester würdet eine große Wohnungkaufen, wenn sie mehr Geld hättet`. Correction: `Meine Schwester würde eine größere Wohnung kaufen, wenn sie mehr Geld hätte.` Errors: third-person singular würde/hätte, comparative größere and spacing. Correct conditional structure. Next E05 fresh retest pending; B15 paused. Complete record in days/2026-11-02.md; progress.json pending reconciliation.
+
+---
+
 # Nov02 S02 E03 correct independent hypothetical sentence
 
 Konjunktiv II E03: learner independently wrote `Ich würde nach München fahren, wenn ich genug Zeit hätte.` Exact natural German; würde + infinitive, nach + city, wenn final hätte correct. E02 repairs successfully transferred. Topic practicing/improving on this dimension, not fully mastered. Next E04 fresh variation pending. B15 paused. 
