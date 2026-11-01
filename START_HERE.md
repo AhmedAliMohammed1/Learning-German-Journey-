@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01: B11 graded 10/10, 110/162 tested
+
+B11 exercises E102–E111: all ten independent exact German infinitive recalls: trocknen, schicken, zustimmen, schmecken, verschieben, erzählen, ausfüllen, reisen, mitnehmen, bearbeiten. Original recall pool **110 tested, 52 unseen**. Cumulative **99 exact, 2 accepted alternatives, 7 spelling/form/frame repairs, 2 lexical mismatches**. Previous B09/B10 corrections and retries remain pending, including #196, #150 and #115 contrast. Twenty more recent verbs #211–230 outside original recall pool still to test. Nov1 OPEN, session S01, 230 introduced verbs/200 vocabulary/61 documented sessions. Next B12 from the remaining 52, not yet issued. Large progress.json stale due to prior connector write failure; dated log and summary are authoritative, reconcile structured records later.
+
+---
+
 # LATEST handoff — Nov01 S01: B10 graded 9/10 accepted, 100/162 tested
 
 B10 E92–E101: 8 exact, 1 valid contextual alternative (`schaffen` for task completion; target `erledigen` #115 remains unconfirmed), 1 spelling repair `ablehen` → `ablehnen` (#150). Fair batch score **9/10 accepted**, **8/10 exact target**, no full sentence or Perfekt inference. Cumulative original 162 pool **100 tested, 62 unseen**, totals **89 exact, 2 accepted semantic/context alternatives, 7 form/spelling repairs, 2 lexical mismatches**. Preserve existing retry IDs #167,#202,#210,#91,#207,#110,#162,#201,#196 plus new #150, lexical contrast #115. Newer verbs #211–230 remain outside pool. Day OPEN, session S01, 230 introduced verbs /200 vocabulary /61 sessions. B11 not issued; continue with unseen 62. `progress.json` is known stale due to oversized connector write failure; detailed dated log is authoritative until safely reconciled.
