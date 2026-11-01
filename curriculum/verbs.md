@@ -1,4 +1,4 @@
-# Verb curriculum — 230 introduced verbs
+# Verb curriculum — 240 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -238,6 +238,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 228 | sich wünschen | يتمنّى حاجة لنفسه | ich wünsche mir; er wünscht sich | hat sich gewünscht | Ich wünsche mir eine Reise. | introduced | مع الحاجة المطلوبة Akk، الضمير الانعكاسي Dat: mir/dir/sich/uns/euch/sich. مثال عام بدون انعكاس: jemandem etwas wünschen. |
 | 229 | genießen | يستمتع بحاجة | ich genieße; er genießt | hat genossen | Ich genieße den Kaffee. | introduced | + Akk مباشرة؛ مش mit؛ Partizip II غير منتظم genossen. |
 | 230 | sich interessieren für | يهتم بموضوع / يكون عنده اهتمام بيه | ich interessiere mich; er interessiert sich | hat sich interessiert | Ich interessiere mich für diese Wohnung. | introduced | انعكاسي؛ für + Akk. يختلف عن sich kümmern um: يتولّى مسؤولية أو يرعى حاجة؛ هنا اهتمام بالموضوع. |
+| 231 | abwischen | يمسح سطحًا | ich wische ... ab | hat abgewischt | Ich wische den Tisch ab. | introduced | Separable; Akk surface, e.g. den Tisch. |
+| 232 | staubsaugen | يكنس بالمكنسة الكهربائية | ich sauge Staub / ich staubsauge | hat Staub gesaugt / hat gestaubsaugt | Ich muss heute staubsaugen. | introduced | Both Staub saugen and staubsaugen occur; conjugation can vary. |
+| 233 | lüften | يهوّي الغرفة | ich lüfte | hat gelüftet | Ich lüfte jeden Morgen das Zimmer. | introduced | Regular verb, Akk room. |
+| 234 | aufwärmen | يسخّن الأكل | ich wärme ... auf | hat aufgewärmt | Ich wärme das Essen auf. | introduced | Separable; Akk object. |
+| 235 | nachfüllen | يعيد ملء شيء | ich fülle ... nach | hat nachgefüllt | Kannst du bitte Wasser nachfüllen? | introduced | Separable; replenish liquid or supply. |
+| 236 | sich hinsetzen | يجلس أو يقعد | ich setze mich hin | hat sich hingesetzt | Setz dich bitte hin! | introduced | Reflexive Akk, separable. |
+| 237 | vorbeikommen | يمر للزيارة | ich komme ... vorbei | ist vorbeigekommen | Kannst du morgen vorbeikommen? | introduced | Separable; sein in Perfekt. |
+| 238 | losgehen | ينطلق أو يبدأ المشي | ich gehe ... los | ist losgegangen | Wir müssen jetzt losgehen. | introduced | Separable; sein in Perfekt. |
+| 239 | abstellen | يركن أو يضع شيئًا | ich stelle ... ab | hat abgestellt | Wo kann ich mein Fahrrad abstellen? | introduced | Separable; Akk object; parking bicycle. |
+| 240 | sich merken | يتذكر أو يحتفظ بالمعلومة | ich merke mir | hat sich gemerkt | Ich kann mir den Namen nicht merken. | introduced | Reflexive Dativ (mir), Akk item. |
 
 ## How to read the table
 
