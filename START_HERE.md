@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01: B09 graded 9/10; 90/162 tested
+
+B09 E82–E91 independent Arabic→German infinitive answers: 9 exact, 1 lexical mismatch (#196 learner `sich kümmern um` versus target `sich gewöhnen an`). The learner recalled a correct but different reflexive verb; do not equate caring for with becoming accustomed to. Cumulative original 162 pool: **90 tested / 72 unseen**; **81 exact, 1 accepted semantic alternative, 6 form/frame repairs, 2 lexical mismatches**. B08 10/10 remains saved. Retry prior #167,#202,#210,#91,#207,#110,#162,#201 and new #196. All earlier pending work preserved; 20 later introduced verbs #211–230 not part of original pool. Day Nov1 OPEN, session 2026-11-01-S01 active, totals 230 verbs/200 vocab/61 documented sessions. Next B10 after selecting ten from unseen pool. **Persistence:** dated log and summaries committed; large `progress.json` still requires reconciliation due to connector payload limitation; do not trust its stale B08/B09 pending state.
+
+---
+
 # LATEST handoff — Nov01 S01: B08 10/10 graded, 80/162 tested
 
 **Persistence note:** B08 results are verified in `days/2026-11-01.md`, `CURRENT_STATE.md`, `START_HERE.md`. The large `progress.json` update failed due to a connector transport error; its B08 pending records are stale. Next capable writer must reconcile E72–E81 from the dated log without duplicating results. Do not downgrade learner score or say all files synchronized.
