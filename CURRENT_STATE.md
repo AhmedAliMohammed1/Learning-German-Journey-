@@ -1,3 +1,11 @@
+# LATEST handoff — 2026-11-01 S01 ACTIVE: targeted verb recall B05 graded / B06 pending
+
+Learner explicitly selected main menu 2→5, resumed earlier 2026-10-28-S01-A02 (targeted isolated German infinitive recall). 2026-10-28-S01-B05 E42–E51 graded on Nov1 with original issued exercise IDs preserved: **9 exact/accepted bare reflexive forms, 1 reflexive repair** (Verb #110 learner «erinnern» versus «sich erinnern», lemma correct). All ten independent typed answers archived in days/2026-11-01.md and progress.json. No sentence, Perfekt or audio mastery inferred.
+
+First-pass original pool **50/162 tested, 112 untested**: cumulatively **44 exact, 1 accepted semantic alternative, 5 repairs**. Retry/contrast IDs 167,202,210,91,207,110. Twenty newly introduced verbs #211–230 are outside original 162 pool and still await separate practice. New B06 E52–E61 (verbs 74,123,161,179,84,131,117,130,51,154) issued, *unanswered*; await ten German infinitives with no German models. All earlier pending exercises and paused new-verb lesson 2026-10-28-S02-E02 preserved. Day **2026-11-01 OPEN**, active session **2026-11-01-S01**, existing activity A02 resumed, 61 documented sessions, **230 introduced verbs / 200 vocabulary entries**. No day closure. Next retest Nov2; older overdue items remain pending. Read latest day event and progress.json.
+
+---
+
 # LATEST handoff — Oct28 S02 A02 ACTIVE: broader everyday verbs221–230
 
 Learner corrected household-heavy selection, asking important broadly useful daily verbs never taught before. Full220/199 inventories and prior logs audited. New221–230: lassen, passieren, reichen, halten, erwarten, sich verabreden, reden, sich wünschen, genießen, sich interessieren für. Present/Perfekt/examples/usage taught; zero learner attempts. V200 die Meinung/die Meinungen. Counts230 introduced verbs/200 registered vocabulary/60 sessions. Same S02; A01 household lesson paused,E01 preserved; IDs211–220 retained. New A02 active, first pending 2026-10-28-S02-E02 Perfekt: «امبارح أختي اتفقت مع أخويا على مقابلة، وبعد كده اتكلمت معاه عن رأيه.». No full exercise model yet. Old recall40/162 paused and all historical pending retained. Preference saved in LEARNING_PROFILE.md/progress.json. Read newest day event.
