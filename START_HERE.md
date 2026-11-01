@@ -1,3 +1,9 @@
+# LATEST handoff — Nov02 S01: B13 graded 10/10, 130/162 tested
+
+Learner gave ten independently correct registered infinitives in B13 E122–E131: sich beeilen, weiterleiten, ausschalten, entfernen, widersprechen, laufen, annehmen, schälen, spielen, umsteigen. Original recall pool now **130 tested / 32 unseen**, cumulative **119 exact, 2 accepted alternatives, 7 repairs and 2 lexical mismatches**. Prior error retries and contrasts retained; newer verbs #211–230 not in original pool and still pending. Day Nov2 OPEN, same 2026-11-02-S01 session and ongoing Oct28 A02 activity; 230 introduced verbs, 200 vocabulary, 62 documented sessions. Next B14 not issued. `progress.json` still needs reconciliation due to oversized connector writes; date ledger authoritative for B13.
+
+---
+
 # LATEST handoff — Nov02 S01: B12 10/10; 120/162 tested
 
 Learner independently answered B12 E112–E121 in newly dated 2026-11-02-S01, continuing 2026-10-28-S01-A02. All ten exact: #89 `vereinbaren`, #200 `sich vorstellen`, #132 `installieren`, #99 `einschalten`, #87 `zurückgeben`, #80 `unterschreiben`, #71 `aufräumen`, #114 `umtauschen`, #81 `verlieren`, #156 `sich entschuldigen`. Original recall pool now **120 tested / 42 unseen**: **109 exact, 2 accepted alternatives, 7 repairs, 2 lexical mismatches**. Preserve all earlier retries and 20 newer #211–230 not yet tested in original pool. Day Nov2 OPEN; 62 documented sessions, 230 verbs /200 vocabulary. Next B13 unissued. Full details in `days/2026-11-02.md`. Large progress.json remains stale from connector payload failure; reconcile later from dated logs, do not claim JSON synced.
