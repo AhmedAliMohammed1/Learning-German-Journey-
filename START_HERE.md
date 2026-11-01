@@ -1,3 +1,9 @@
+# CURRENT: Nov 02 session paused until Nov 03, 2026
+
+User requested all work saved and no more lessons today. The FINAL chosen set of ten everyday verbs is: abwischen, staubsaugen, lüften, aufwärmen, nachfüllen, sich hinsetzen, vorbeikommen, losgehen, abstellen, sich merken. These are introduced only, not yet tested. The previously proposed first ten were rejected and are NOT in canonical verbs.md. Konjunktiv II E01-E07 graded, E08 paused. B15 paused (140/162 tested). **Read days/2026-11-02-final-checkpoint.md for authoritative complete handoff** and days/2026-11-02-new-verbs-revised.md for examples. Canonical verbs.md still contains 230 registered verbs, not 240. Large progress.json remains stale.
+
+---
+
 # LATEST handoff — Nov02 S02 new verbs #231–240 introduced (4→2)
 
 Learner switched from Konjunktiv II E08 (paused) to ten important everyday NEW verbs, after auditing existing 230 rows: #231 ausleihen, #232 überprüfen, #233 zurückrufen, #234 abheben, #235 einzahlen, #236 verschlafen, #237 ausprobieren, #238 mitteilen, #239 wegbringen, #240 sich erkundigen nach. Presented Arabic meanings, Präsens, Perfekt, and real-life examples. Introduced only, **no learner attempts**. Now 240 introduced verbs/200 vocabulary. First new-verb exercise pending: «امبارح كنت عايز أسحب فلوس من البنك، بس اكتشفت إن رصيدي مش كفاية.» Previous E08, B15 and all older pending preserved. Day remains OPEN. Structured progress.json still needs reconciliation.
