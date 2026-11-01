@@ -1,3 +1,9 @@
+# Nov02 S02 E02 graded — hypothetical condition needs hätte
+
+Raw answer: `Ich würde gern ein neues Auto kaufen, wenn ich das genug Geld habe`. Natural correction: `Ich würde gern ein neues Auto kaufen, wenn ich genug Geld hätte.` Correct independent würde + kaufen, adjective `ein neues Auto`, and weil/wenn verb-final structure. Repairs: no `das` with `genug Geld`; use Konjunktiv II `hätte` for hypothetical possession. E03 unattempted: «أنا كنت هسافر ميونخ لو كان عندي وقت أكتر.» Keep B15 recall paused at 140/162. Full evidence in days/2026-11-02.md. Structured progress.json not yet reconciled.
+
+---
+
 # LATEST handoff — Nov02 S02: new grammar Konjunktiv II introduced; E01 pending
 
 After selecting main menu 4→1, learner received first new lesson on **Konjunktiv II: würde + Infinitiv**, audited absent from the grammar topic map. Examples and complete würde conjugation explained in Egyptian Arabic; topic only **introduced**, not practiced/mastered. New session 2026-11-02-S02; pending first sentence 2026-11-02-S02-E01: «أنا كنت أحب أشتغل في ألمانيا، لأن عندي فرص كويسة هناك.» Wait for independently typed full sentence before correcting or giving answer model. Old isolated recall B15 paused at 140/162 with 22 unseen; no day closure. 230 verbs/200 vocab/63 documented sessions. Large progress.json still stale and should be reconciled from dated logs.
