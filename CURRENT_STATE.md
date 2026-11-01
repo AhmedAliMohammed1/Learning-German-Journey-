@@ -1,3 +1,9 @@
+# LATEST handoff — Nov01 S01 ACTIVE: B07 8/10, B08 unanswered
+
+On 2026-11-01, B07 E62–E71 of existing activity 2026-10-28-S01-A02 graded **8 exact independent infinitives / 10**. Two distinct issues: verb #162 learner `leihen` for receiving (target `erhalten`, acceptable `bekommen`) = lexical mismatch, but older correct `erhalten` recalls retained; verb #201 learner `dauert` instead of requested infinitive `dauern` = finite-form/infinitive distinction (meaning recognized). Results saved in days/2026-11-01.md and progress.json, no full-sentence/Perfekt/audio inference. Original162 pool **70 first-pass tested, 92 unseen**:62 exact,1 accepted semantic alternative,6 form/frame repairs,1 lexical mismatch. Next **B08 E72–E81**, 10 unanswered prompts (IDs 184,134,160,78,85,98,186,166,101,83); keep models hidden before independent answers. All retry/contrast IDs 167,202,210,91,207,110,162,201 preserved. Twenty newer verbs211–230 outside original pool yet to be assessed. Day Nov1 OPEN, session 2026-11-01-S01 active, 61 documented sessions; totals230 verbs/200 vocabulary. All old pending preserved. Continue B08.
+
+---
+
 # LATEST handoff — 2026-11-01 S01 ACTIVE: targeted B06 10/10, B07 pending
 
 Learner completed isolated recall **2026-10-28-S01-B06** E52–E61 within today's session 2026-11-01-S01. All ten independently supplied infinitives were exact: ausziehen, einpacken, aufbewahren, einschlafen, buchen, löschen, verpassen, drucken, liegen, besprechen. Grade **10/10**, no model/hints; separate tense/context/audio mastery unassessed. Full raw results recorded in days/2026-11-01.md and progress.json.
