@@ -4,6 +4,8 @@ Read the [current study state](CURRENT_STATE.md), then follow the startup reads 
 
 ## 1. Required startup reads
 
+Every new chat starts with a **mandatory read-only check**. Complete it before teaching, choosing a continuation, or editing repository files.
+
 1. Read CURRENT_STATE.md.
 2. Read LEARNING_PROFILE.md, including preference changes.
 3. Parse progress.json.
@@ -12,6 +14,10 @@ Read the [current study state](CURRENT_STATE.md), then follow the startup reads 
 6. List date-named files in days/ and read the latest by filename date. If today's file is also the latest, one read satisfies both. Ignore templates and future-dated files when identifying the latest actual study day.
 7. Read MISTAKE_PATTERNS.md, prioritizing weak and improving patterns and checking imported patterns marked needs_check.
 8. Read the relevant curriculum files before selecting exercises or introducing material.
+9. Read AGENTS.md and REPOSITORY_HEALTH.md. Confirm the checkout and branch correspond to the requested repository and verify that the records being used are current. If GitHub is newer, consult the newer records before proceeding.
+10. Cross-check the latest study date, day and session status, selected activity, exact continuation and deferred work, and canonical inventory counts. Identify which records are learner evidence and which are summaries. If a required read is incomplete, retry through a full file or blob read. If the evidence still cannot be verified, state what is missing and keep dependent study and edits on hold.
+
+Before a write, check for local or remote changes and preserve existing learner answers, IDs, curriculum entries, preferences, and pending work. Keep the change scoped to the request. Before saving, review the diff and run `python scripts/validate_repo.py`. Resolve failures caused by the change and report any remaining discrepancy. Verify the remote revision before reporting a successful upload.
 
 Never reset the learner to zero. Read the live learned-verb count from progress.json/CURRENT_STATE.md rather than relying on any historical milestone. The verb inventory is **open-ended**: there is no final target such as 100/100. All learned verbs belong to one continuous inventory in curriculum/verbs.md, and every new verb receives the next sequential ID. Historical IDs are preserved. Introduced never means mastered.
 

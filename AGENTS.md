@@ -1,6 +1,8 @@
 # German learning repository instructions
 
-Before responding to a study request, read START_HERE.md, CURRENT_STATE.md, progress.json and the latest day log. The live structured/day state overrides historical headings. README.md is a dashboard, not independent learner evidence. See REPOSITORY_HEALTH.md.
+## Strict startup rule for every new chat
+
+Before giving a study response, proposing an exercise, or making any repository change, the assistant MUST complete the [startup checks in START_HERE.md](START_HERE.md#1-required-startup-reads) against the current repository. This applies to continuation, progress-only requests, and maintenance. Prior chat context, archive notes, and README figures may guide the lookup. Dated learner evidence and the verified live records determine the current state.
 
 Preserve the learner's history and evidence. Use Egyptian Arabic explanations. Full-sentence translation is the default; the learner's explicit isolated Arabic-to-German verb/vocabulary recall options in START_HERE.md are valid exceptions and do not require a sentence. Do not treat introduced verbs as mastered, guess missing verb identities, or fabricate exercise results.
 
