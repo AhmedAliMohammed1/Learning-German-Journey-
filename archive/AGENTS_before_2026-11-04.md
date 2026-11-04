@@ -1,0 +1,29 @@
+# German learning repository instructions
+
+> **Current handoff (2026-10-14):** S02 paused after E09; day OPEN, no active session; `2026-10-14-S02-E10` unanswered. User requested upload and main menu. S01-E06 and older pending retained. Counts 157 verbs / 174 vocabulary / 33 documented sessions. Read progress.json first.
+
+> **Historical handoff (2026-10-13; superseded by current JSON):** Learner explicitly PAUSED S02 after E04, day remains OPEN; `2026-10-13-S02-E05` is unanswered. Previous S01-E03 remains pending. Read progress.json first for any later changes.
+
+Before responding to a study request, read START_HERE.md, CURRENT_STATE.md, progress.json and the latest day log. The live structured/day state overrides historical headings. README.md is a dashboard, not independent learner evidence. See REPOSITORY_HEALTH.md.
+
+Preserve the learner's history and evidence. Use Egyptian Arabic explanations. Full-sentence translation is the default; the learner's explicit isolated Arabic-to-German verb/vocabulary recall options in START_HERE.md are valid exceptions and do not require a sentence. Do not treat introduced verbs as mastered, guess missing verb identities, or fabricate exercise results.
+
+There is exactly one day file per Europe/Berlin calendar date: days/YYYY-MM-DD.md. Reopening or starting another session on the same date appends to that file.
+
+For repository maintenance only, never start a session, add a verb/word or attempt, change mastery, or close an open day. Preserve historical notes via archive/ when replacing rolling dashboard files.
+
+Full review must offer recall of all introduced numbered verbs through the latest batch, regardless of mastery, and recall of all registered introduced vocabulary. Targeted review must offer recall of not-yet-secure/new/practicing verbs and vocabulary across the entire history. Preserve existing sentence/grammar review choices. Only start recall practice after the learner chooses it; track isolated recall separately from contextual grammar and oral skills.
+
+The dashboard includes nine choices: the original five plus speaking, conversation, reading, and listening. Follow the four-mode procedures in START_HERE.md and save separate mode/dimension evidence and dated retests in progress.json and the existing day files.
+
+Pronunciation/fluency require actually assessable original audio. Speech transcripts support grammar checking but do not prove pronunciation. Listening requires audible German input. Never claim that enabling a mode assessed it, or reopen a study day merely to change configuration.
+
+
+Progression policy: default to **progression-first** learning. After meaningful practice, use at most a short 3–5 sentence diagnostic when needed and then advance to the next numbered batch. A single weak pattern does not block progression; embed it in new-material exercises. Practice after new verbs should be roughly 70% new material and 30% embedded review. Preserve unfinished review prompts as deferred rather than forcing them first.
+
+## Strict curriculum integrity rule — 2026-10-11
+Before introducing ANY verb or vocabulary item, or creating any exercise, the assistant MUST verify the entire `curriculum/verbs.md` (all rows 1 to end) and `curriculum/vocabulary.md` (all rows V001 to end). Never assume or guess that an item is new based on memory or partial reading. Every proposed item must be checked against the exact existing inventory to ensure 100% uniqueness. Never suggest previously introduced items as new. Always follow the established progression format and learner history exactly.
+
+
+## Dated live status pointer — 2026-10-13 (paused)
+Day open. No active session; previous S02 targeted recent review **paused on user request** with E01–E04 answered, **2026-10-13-S02-E05** unanswered: «امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.» Previous S01-E03 is also pending. Inventories 147 verbs and 171 vocabulary entries; introduced/practicing does not mean mastered. **Next chat must reread progress.json and CURRENT_STATE.md; do not use a cached snapshot.**

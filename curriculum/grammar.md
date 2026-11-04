@@ -32,7 +32,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | ohne ... zu / ohne dass; noun-only ohne + Akk | practicing | E01 structure correct; verb/case repaired, E02 pending |
 | während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | practicing | 2026-10-22-S02-E01 independently correct; further variations pending |
 | seitdem conjunction/adverb; contrast seit + Dativ, vor + Dativ | introduced | New 2026-10-23 S04, E01 unanswered |
-| Konjunktiv II: würde + Infinitiv for hypothetical wishes and polite intentions | introduced | New 2026-11-02-S02; first independent sentence E01 pending; no learner attempt yet |
+| Konjunktiv II: würde + Infinitiv for hypothetical wishes and polite intentions | practicing | 2026-11-02-S02 E01–E07 answered; E08 deferred |
 
 ## Cases and pronouns
 

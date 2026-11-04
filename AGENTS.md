@@ -1,9 +1,5 @@
 # German learning repository instructions
 
-> **Current handoff (2026-10-14):** S02 paused after E09; day OPEN, no active session; `2026-10-14-S02-E10` unanswered. User requested upload and main menu. S01-E06 and older pending retained. Counts 157 verbs / 174 vocabulary / 33 documented sessions. Read progress.json first.
-
-> **Historical handoff (2026-10-13; superseded by current JSON):** Learner explicitly PAUSED S02 after E04, day remains OPEN; `2026-10-13-S02-E05` is unanswered. Previous S01-E03 remains pending. Read progress.json first for any later changes.
-
 Before responding to a study request, read START_HERE.md, CURRENT_STATE.md, progress.json and the latest day log. The live structured/day state overrides historical headings. README.md is a dashboard, not independent learner evidence. See REPOSITORY_HEALTH.md.
 
 Preserve the learner's history and evidence. Use Egyptian Arabic explanations. Full-sentence translation is the default; the learner's explicit isolated Arabic-to-German verb/vocabulary recall options in START_HERE.md are valid exceptions and do not require a sentence. Do not treat introduced verbs as mastered, guess missing verb identities, or fabricate exercise results.
@@ -23,7 +19,3 @@ Progression policy: default to **progression-first** learning. After meaningful 
 
 ## Strict curriculum integrity rule — 2026-10-11
 Before introducing ANY verb or vocabulary item, or creating any exercise, the assistant MUST verify the entire `curriculum/verbs.md` (all rows 1 to end) and `curriculum/vocabulary.md` (all rows V001 to end). Never assume or guess that an item is new based on memory or partial reading. Every proposed item must be checked against the exact existing inventory to ensure 100% uniqueness. Never suggest previously introduced items as new. Always follow the established progression format and learner history exactly.
-
-
-## Dated live status pointer — 2026-10-13 (paused)
-Day open. No active session; previous S02 targeted recent review **paused on user request** with E01–E04 answered, **2026-10-13-S02-E05** unanswered: «امبارح أخويا أجّل الموعد ليوم الجمعة، وبعد كده بعت رسالة لأخته.» Previous S01-E03 is also pending. Inventories 147 verbs and 171 vocabulary entries; introduced/practicing does not mean mastered. **Next chat must reread progress.json and CURRENT_STATE.md; do not use a cached snapshot.**
