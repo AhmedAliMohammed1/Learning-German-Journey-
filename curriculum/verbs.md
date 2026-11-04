@@ -1,4 +1,4 @@
-# Verb curriculum — 250 introduced verbs
+# Verb curriculum — 260 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -258,6 +258,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 248 | sich verletzen | يتعور أو يتصاب | ich verletze mich | hat sich verletzt | Ich habe mich verletzt. | introduced | انعكاسي مع Akkusativ. |
 | 249 | sich umdrehen | يلفّ بجسمه عشان يبص وراه | ich drehe mich um | hat sich umgedreht | Ich drehe mich um. | practicing | فعل منفصل وانعكاسي. |
 | 250 | losfahren | يتحرّك بمركبة أو يبدأ الرحلة | ich fahre los, er fährt los | ist losgefahren | Der Bus fährt jetzt los. | practicing | فعل منفصل، Perfekt مع sein. |
+| 251 | kosten | سعره كذا / يكلّف | es kostet | hat gekostet | Wie viel kostet das? | introduced | للسعر؛ الحاجة هي الفاعل. |
+| 252 | wiegen | وزنه كذا / يوزن حاجة | ich wiege; du wiegst; er wiegt | hat gewogen | Der Koffer wiegt zehn Kilo. | introduced | المثال عن الوزن بالكيلو. |
+| 253 | messen | يقيس | ich messe; du misst; er misst | hat gemessen | Ich messe den Tisch. | introduced | الشيء اللي بتقيسه Akkusativ. |
+| 254 | feiern | يحتفل | ich feiere; er feiert | hat gefeiert | Wir feiern am Wochenende. | introduced | ممكن ييجي مع مناسبة كمفعول. |
+| 255 | weggehen | يمشي من مكان / يخرج | ich gehe weg; er geht weg | ist weggegangen | Ich gehe jetzt weg. | introduced | منفصل؛ Perfekt مع sein. |
+| 256 | sich langweilen | يزهق / يحس بالملل | ich langweile mich; er langweilt sich | hat sich gelangweilt | Ich langweile mich zu Hause. | introduced | انعكاسي مع Akkusativ. |
+| 257 | frieren | يحس بالبرد | ich friere; du frierst; er friert | hat gefroren | Ich friere hier. | introduced | haben لما الشخص يحس بالبرد. |
+| 258 | schwitzen | يعرق | ich schwitze; er schwitzt | hat geschwitzt | Ich schwitze bei der Arbeit. | introduced | فعل غير منفصل. |
+| 259 | aufdrehen | يفتح الحنفية باللفّ / يعلّي الصوت | ich drehe auf; er dreht auf | hat aufgedreht | Ich drehe das Wasser auf. | introduced | منفصل؛ المعنى حسب المفعول. |
+| 260 | zudrehen | يقفل الحنفية باللفّ | ich drehe zu; er dreht zu | hat zugedreht | Ich drehe das Wasser zu. | introduced | منفصل؛ عكس aufdrehen في سياق الحنفية. |
 
 ## How to read the table
 
