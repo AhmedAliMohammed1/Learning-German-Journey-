@@ -33,6 +33,7 @@ Backfilled from prior conversation using the learner's supplied history, 2026-10
 | während as conjunction (simultaneity / contrast) and preposition (+Genitiv) | practicing | 2026-10-22-S02-E01 independently correct; further variations pending |
 | seitdem conjunction/adverb; contrast seit + Dativ, vor + Dativ | introduced | New 2026-10-23 S04, E01 unanswered |
 | Konjunktiv II: würde + Infinitiv for hypothetical wishes and polite intentions | practicing | 2026-11-02-S02 E01–E07 answered; E08 deferred |
+| Futur I: werden + Infinitiv and future reference with Präsens | practicing | 2026-11-04-S03 E01–E07 answered; auxiliary agreement needs focused practice |
 
 ## Cases and pronouns
 
@@ -749,3 +750,11 @@ Exercise pending **2026-10-22-S02-E01** Arabic-to-German full sentence (Präsens
 ## New grammar topic — Konjunktiv II (würde + Infinitiv), Nov02 S02
 
 Introduced simple conditional/hypothetical and polite wish expression using conjugated würde and a sentence-final main verb infinitive. Conjugation: ich würde, du würdest, er/sie/es würde, wir würden, ihr würdet, sie/Sie würden. Reference examples: Ich würde ein Auto kaufen. Ich würde gern in München arbeiten. Ich würde gern einen Kaffee bestellen. An deiner Stelle würde ich mehr Deutsch lernen. Wir würden morgen nach Berlin fahren. Distinguish hypothetical from present Indicative; do not infer mastery from teacher examples. Related weil clause already introduced. First **unanswered** Arabic→German independent sentence E01: «أنا كنت أحب أشتغل في ألمانيا، لأن عندي فرص كويسة هناك.» Do not show complete German answer before learner response. No assessment recorded yet.
+
+## Futur I — 2026-11-04
+
+- Main clause: conjugated werden in position 2; infinitive last. Forms: werde, wirst, wird, werden, werdet, werden. Yes/no questions begin with werden. In subordinate clauses using Futur I: infinitive + conjugated werden at the end.
+- With a clear time marker, everyday Präsens often expresses future plans. Futur I can express intentions, promises, predictions or assumptions. Contrast würde for hypothetical meaning.
+- First four translations graded. E01 fully correct; retest wirst, kein Auto and finite verb placement in wenn with Futur I in the main clause.
+
+- E05–E07 retained final infinitives and appropriate main-clause placement. Auxiliary agreement (wirst, werden, wird), negation and subordinate ankommt require fresh practice.
