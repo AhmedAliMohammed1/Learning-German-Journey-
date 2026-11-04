@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**200 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**201 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -206,6 +206,7 @@
 | V198 | die Ermäßigung | die Ermäßigungen | تخفيض / خصم في السعر | noun | introduced |
 | V199 | die Spülmaschine | die Spülmaschinen | غسالة الأطباق | noun | introduced |
 | V200 | die Meinung | die Meinungen | الرأي | noun | introduced |
+| V201 | die Steckdosenleiste | die Steckdosenleisten | مشترك كهربا | noun | introduced |
 
 ## Learning notes
 
