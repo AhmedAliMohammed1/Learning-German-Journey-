@@ -1,4 +1,4 @@
-# Verb curriculum — 240 introduced verbs
+# Verb curriculum — 250 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -248,6 +248,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 238 | losgehen | ينطلق أو يبدأ المشي | ich gehe ... los | ist losgegangen | Wir müssen jetzt losgehen. | introduced | Separable; sein in Perfekt. |
 | 239 | abstellen | يركن أو يضع شيئًا | ich stelle ... ab | hat abgestellt | Wo kann ich mein Fahrrad abstellen? | introduced | Separable; Akk object; parking bicycle. |
 | 240 | sich merken | يتذكر أو يحتفظ بالمعلومة | ich merke mir | hat sich gemerkt | Ich kann mir den Namen nicht merken. | introduced | Reflexive Dativ (mir), Akk item. |
+| 241 | mitkommen | ييجي مع حد | ich komme mit | ist mitgekommen | Kommst du mit? | practicing | فعل منفصل. |
+| 242 | zuhören | ينصت لحد | ich höre dir zu | hat zugehört | Ich höre dir zu. | practicing | فعل منفصل، الشخص Dativ. |
+| 243 | nachdenken | يفكّر في موضوع | ich denke darüber nach | hat nachgedacht | Ich denke über deinen Vorschlag nach. | practicing | über + Akkusativ. |
+| 244 | klingeln | يرنّ، زي الجرس | es klingelt | hat geklingelt | Es klingelt an der Tür. | practicing | an der Tür للمكان. |
+| 245 | tippen | يكتب على كيبورد أو موبايل | ich tippe | hat getippt | Ich tippe eine Nachricht. | introduced | المعنى هنا الكتابة على لوحة مفاتيح. |
+| 246 | aufessen | يخلّص أكله | ich esse auf, er isst auf | hat aufgegessen | Er isst seinen Salat auf. | practicing | فعل منفصل. |
+| 247 | abnehmen | وزنه ينزل | ich nehme ab, er nimmt ab | hat abgenommen | Ich habe zwei Kilo abgenommen. | introduced | فعل منفصل. المعنى هنا خسارة الوزن. |
+| 248 | sich verletzen | يتعور أو يتصاب | ich verletze mich | hat sich verletzt | Ich habe mich verletzt. | introduced | انعكاسي مع Akkusativ. |
+| 249 | sich umdrehen | يلفّ بجسمه عشان يبص وراه | ich drehe mich um | hat sich umgedreht | Ich drehe mich um. | practicing | فعل منفصل وانعكاسي. |
+| 250 | losfahren | يتحرّك بمركبة أو يبدأ الرحلة | ich fahre los, er fährt los | ist losgefahren | Der Bus fährt jetzt los. | practicing | فعل منفصل، Perfekt مع sein. |
 
 ## How to read the table
 
