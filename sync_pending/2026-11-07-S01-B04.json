@@ -1,0 +1,130 @@
+{
+  "schema": "german_journey_pending_progress_reconciliation_v1",
+  "source_day": "days/2026-11-07.md",
+  "source_session_id": "2026-11-07-S01",
+  "source_activity_id": "2026-11-07-S01-A01",
+  "batch": "B04",
+  "base_progress_sha": "7da11092dc29360e3a5d58fa058df7be0b136dd9",
+  "reason": "Keep exact learner evidence and preserve machine-readable results while large progress.json write is blocked by connector transport",
+  "apply_policy": "Merge B01 through B04 by unique exercise_id into progress.json when possible; never create a second Nov7 session or overwrite prior learner evidence, historical pending exercises or unassessed Perfekt.",
+  "results": [
+    {
+      "exercise_id": "2026-11-07-S01-E31",
+      "verb_id": 119,
+      "prompt_ar": "يحوّل فلوس عن طريق البنك",
+      "answer": "überweisen",
+      "target": "überweisen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E32",
+      "verb_id": 99,
+      "prompt_ar": "يشغّل جهاز أو النور",
+      "answer": "einschalten",
+      "target": "einschalten",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E33",
+      "verb_id": 190,
+      "prompt_ar": "يتعطّل أو يبوظ، زي عربية",
+      "answer": "kaputtgehen",
+      "target": "kaputtgehen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E34",
+      "verb_id": 29,
+      "prompt_ar": "يحتاج حاجة",
+      "answer": "brauchen",
+      "target": "brauchen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E35",
+      "verb_id": 164,
+      "prompt_ar": "يبلّغ حد أو يخطره بحاجة",
+      "answer": "benachrichtigen",
+      "target": "benachrichtigen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E36",
+      "verb_id": 76,
+      "prompt_ar": "يستأجر حاجة، زي شقة أو عربية",
+      "answer": "mieten",
+      "target": "mieten",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E37",
+      "verb_id": 54,
+      "prompt_ar": "يُقعّد حد على كرسي أو يضعه في وضع الجلوس",
+      "answer": "setzen",
+      "target": "setzen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E38",
+      "verb_id": 143,
+      "prompt_ar": "يحدّث برنامج أو بيانات",
+      "answer": "aktualisieren",
+      "target": "aktualisieren",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E39",
+      "verb_id": 8,
+      "prompt_ar": "يسكن في مكان",
+      "answer": "wohnen",
+      "target": "wohnen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E40",
+      "verb_id": 246,
+      "prompt_ar": "يخلّص أكله كله",
+      "answer": "aufessen",
+      "target": "aufessen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    }
+  ],
+  "batch_tested_ids": [
+    119,
+    99,
+    190,
+    29,
+    164,
+    76,
+    54,
+    143,
+    8,
+    246
+  ],
+  "combined_review": {
+    "tested_count": 40,
+    "exact_correct_count": 33,
+    "retry_ids": [
+      197,
+      93,
+      257,
+      220,
+      226,
+      178,
+      62
+    ],
+    "unseen_count": 220,
+    "perfekt_coverage": "not_started"
+  },
+  "prior_pending_preserved": true
+}
