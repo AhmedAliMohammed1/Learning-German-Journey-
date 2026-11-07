@@ -1,0 +1,115 @@
+{
+  "schema": "german_journey_pending_progress_reconciliation_v1",
+  "source_day": "days/2026-11-07.md",
+  "source_session_id": "2026-11-07-S01",
+  "source_activity_id": "2026-11-07-S01-A01",
+  "base_progress_sha": "7da11092dc29360e3a5d58fa058df7be0b136dd9",
+  "reason": "Large progress.json upload fails with h2 protocol error on update_file and create_blob; not yet applied to progress.json",
+  "apply_policy": "Idempotently merge these 10 attempts into exercise_results, completed_exercise_ids, verbs.items[].evidence, recall_tracking.activities, update current_review_scope, current_day/latest_day/latest_study_date, sessions_recorded +1 only if absent, and preserve all prior pending exercises. Recheck base SHA/possible concurrent changes first.",
+  "inventory_count": 260,
+  "review_type": "full_verb_infinitive",
+  "results": [
+    {
+      "exercise_id": "2026-11-07-S01-E01",
+      "verb_id": 197,
+      "answer": "vermieden",
+      "target": "vermeiden",
+      "outcome": "needs_form_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E02",
+      "verb_id": 93,
+      "answer": "austeigen",
+      "target": "aussteigen",
+      "outcome": "needs_spelling_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E03",
+      "verb_id": 257,
+      "answer": "sich füllen",
+      "target": "frieren",
+      "outcome": "needs_lexical_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E04",
+      "verb_id": 220,
+      "answer": "abtrocken",
+      "target": "abtrocknen",
+      "outcome": "needs_spelling_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E05",
+      "verb_id": 154,
+      "answer": "besprechen",
+      "target": "besprechen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E06",
+      "verb_id": 241,
+      "answer": "mitkommen",
+      "target": "mitkommen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E07",
+      "verb_id": 35,
+      "answer": "dürfen",
+      "target": "dürfen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E08",
+      "verb_id": 253,
+      "answer": "messen",
+      "target": "messen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E09",
+      "verb_id": 226,
+      "answer": "verabreden",
+      "target": "sich verabreden",
+      "outcome": "needs_reflexive_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E10",
+      "verb_id": 68,
+      "answer": "laufen",
+      "target": "laufen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    }
+  ],
+  "first_batch_tested_ids": [
+    197,
+    93,
+    257,
+    220,
+    154,
+    241,
+    35,
+    253,
+    226,
+    68
+  ],
+  "remaining_unseen_count": 250,
+  "retry_ids": [
+    197,
+    93,
+    257,
+    220,
+    226
+  ],
+  "perfekt_unassessed_in_review": 260,
+  "prior_pending_preserved": true
+}
