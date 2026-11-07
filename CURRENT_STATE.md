@@ -2,19 +2,19 @@
 
 ## Latest learner evidence — 2026-11-07
 
-The full review of all **260 verbs** has completed two shuffled infinitive batches in existing session `2026-11-07-S01`.
+Full verb review of all **260 verbs**: B01, B02, B03 graded under the **same session `2026-11-07-S01`**, mode isolated Infinitiv recall.
 
-- **B01**: 10 tested, 5 exact, 5 needing retry (IDs **197, 93, 257, 220, 226**: vermeiden, aussteigen, frieren, abtrocknen, sich verabreden).
-- **B02**: 10/10 independent correct (IDs **198, 149, 46, 222, 79, 259, 125, 12, 173, 102**). No new retry targets.
-- **Combined**: 20 distinct verbs tested, 15 exact, 5 retry, 240 unseen in the infinitive pass. Perfekt pass remains pending.
-- **Next:** B03, 10 new shuffled infinitives; keep B01 5 retry targets for a separate fresh test. Do not duplicate B01/B02 attempts.
-- Evidence: [November 7 study log](days/2026-11-07.md), [B01 pending sync](sync_pending/2026-11-07-S01-B01.json), [B02 pending sync](sync_pending/2026-11-07-S01-B02.json).
-- **Sync discrepancy**: `progress.json` still has November 4 snapshot because oversized connector upload failed. Both machine-readable deltas must be applied idempotently during reconciliation. The dated study log is learner evidence. No new session count should be added for B02, which belongs to S01.
+- B01: 5 exact / 10, 5 retry IDs **197, 93, 257, 220, 226**.
+- B02: 10 exact / 10, no new retries.
+- B03: 8 exact / 10. New retries: **178 aufwachen** (answered aufstehen; meaning distinction) and **62 erzählen** (answered erzälen; missing h).
+- **Combined coverage: 30 unique verbs tested, 23 exact, 7 needing retest, 230 untested**. Perfekt pass not started. Retry IDs **197, 93, 257, 220, 226, 178, 62**.
+- Next: **B04** with 10 as-yet-unseen verbs. Do not count revisits as new coverage. Later test seven flagged forms in fresh shuffled prompts.
+- [Dated learner evidence](days/2026-11-07.md), [B01 delta](sync_pending/2026-11-07-S01-B01.json), [B02 delta](sync_pending/2026-11-07-S01-B02.json), [B03 delta](sync_pending/2026-11-07-S01-B03.json).
 
-## Earlier pending work
+## Persistence and prior work
 
-- **260** introduced verbs and **202** vocabulary entries. There were **67** documented sessions before November 7, plus S01 documented in the November 7 log. Structured count has not yet synchronized.
-- The 2026-11-04-S04-E01–E04 new-verb sentence exercises, Futur I, Konjunktiv II, targeted recalls and #231–240 contextual practice remain deferred, unchanged.
-- Grammar needs: `mir`, `stellen/stehen`, V2 after `jetzt`, `aus + Dativ`, and Futur I.
+- `progress.json` remains **unsynchronized** (November 4 blob) because the large-file connector update failed. Apply the three deltas idempotently, with one Nov7 S01 session increment only, once a capable write path is available; do not report the JSON as saved until verified.
+- **260 introduced verbs**, **202 vocabulary entries**, 67 prior sessions plus Nov7 S01 documented in the day log.
+- November 4 S04-E01–E04, Futur I, grammar review, historical targeted recall and #231–240 contextual practice still deferred and preserved. Existing weaknesses include mir, stellen/stehen, V2 after jetzt and aus + Dativ.
 
 [Structured progress](progress.json) · [Study protocol](START_HERE.md)
