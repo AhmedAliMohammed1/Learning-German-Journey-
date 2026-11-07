@@ -1,4 +1,4 @@
-# Verb curriculum — 260 introduced verbs
+# Verb curriculum — 270 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -268,6 +268,16 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 258 | schwitzen | يعرق | ich schwitze; er schwitzt | hat geschwitzt | Ich schwitze bei der Arbeit. | introduced | فعل غير منفصل. |
 | 259 | aufdrehen | يفتح الحنفية باللفّ / يعلّي الصوت | ich drehe auf; er dreht auf | hat aufgedreht | Ich drehe das Wasser auf. | introduced | منفصل؛ المعنى حسب المفعول. |
 | 260 | zudrehen | يقفل الحنفية باللفّ | ich drehe zu; er dreht zu | hat zugedreht | Ich drehe das Wasser zu. | introduced | منفصل؛ عكس aufdrehen في سياق الحنفية. |
+| 261 | verbieten | يمنع / يحرّم حاجة | ich verbiete; er verbietet | hat verboten | Der Arzt verbietet mir das Rauchen. | introduced | Dat person + Akk thing; irregular Partizip II. |
+| 262 | überlegen | يفكّر كويس قبل ما يقرر | ich überlege; er überlegt | hat überlegt | Ich überlege noch, ob ich mitkomme. | introduced | Often überlegen, ob ...; distinguish nachdenken über. |
+| 263 | zurückrufen | يردّ على مكالمة / يتصل تاني | ich rufe zurück | hat zurückgerufen | Ich rufe dich später zurück. | introduced | Separable; Akk person. |
+| 264 | vorhaben | ناوي / مخطّط يعمل حاجة | ich habe vor; er hat vor | hat vorgehabt | Ich habe vor, morgen früher aufzustehen. | introduced | Separable; vorhaben, etwas zu tun. |
+| 265 | auffallen | يلفت النظر / يتلاحظ | es fällt mir auf | ist aufgefallen | Mir ist ein Fehler aufgefallen. | introduced | Separable; Dat person; subject is noticed thing. |
+| 266 | ausgehen | يخرج يتفسّح / يسهر | ich gehe aus; er geht aus | ist ausgegangen | Wir gehen heute Abend aus. | introduced | Separable; social going out; different from weggehen. |
+| 267 | sich melden | يتواصل / يردّ / يبلغ عن نفسه | ich melde mich; er meldet sich | hat sich gemeldet | Ich melde mich morgen bei dir. | introduced | Reflexive; sich melden bei + Dat. |
+| 268 | behalten | يحتفظ بحاجة / ما يرجّعهاش | ich behalte; er behält | hat behalten | Du kannst das Buch behalten. | introduced | Akk object; differs from aufbewahren. |
+| 269 | einfallen | تيجي فكرة في بال حد / يفتكر فجأة | mir fällt etwas ein | ist eingefallen | Mir ist eine gute Idee eingefallen. | introduced | Separable; Dat experiencer, idea as subject. |
+| 270 | sich konzentrieren | يركّز في حاجة | ich konzentriere mich; er konzentriert sich | hat sich konzentriert | Ich konzentriere mich auf die Arbeit. | introduced | Reflexive; auf + Akk. |
 
 ## How to read the table
 
