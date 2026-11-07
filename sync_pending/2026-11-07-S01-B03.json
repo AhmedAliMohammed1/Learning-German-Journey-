@@ -1,0 +1,130 @@
+{
+  "schema": "german_journey_pending_progress_reconciliation_v1",
+  "source_day": "days/2026-11-07.md",
+  "source_session_id": "2026-11-07-S01",
+  "source_activity_id": "2026-11-07-S01-A01",
+  "batch": "B03",
+  "base_progress_sha": "7da11092dc29360e3a5d58fa058df7be0b136dd9",
+  "reason": "Large progress.json update previously failed at connector transport; preserve B03 as incremental idempotent learner evidence",
+  "apply_policy": "Merge by unique exercise_id, preserve all older pending work, no new session increment for B03, apply B01 and B02 pending deltas as well; update both tested and retry coverage once only",
+  "results": [
+    {
+      "exercise_id": "2026-11-07-S01-E21",
+      "verb_id": 17,
+      "prompt_ar": "يساعد حد",
+      "answer": "helfen",
+      "target": "helfen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E22",
+      "verb_id": 111,
+      "prompt_ar": "يقدّم طلب رسمي على حاجة، زي فيزا",
+      "answer": "beantragen",
+      "target": "beantragen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E23",
+      "verb_id": 178,
+      "prompt_ar": "يصحى من النوم",
+      "answer": "aufstehen",
+      "target": "aufwachen",
+      "outcome": "needs_lexical_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E24",
+      "verb_id": 42,
+      "prompt_ar": "يبيع حاجة",
+      "answer": "verkaufen",
+      "target": "verkaufen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E25",
+      "verb_id": 155,
+      "prompt_ar": "يشتكي من مشكلة",
+      "answer": "sich beschweren",
+      "target": "sich beschweren",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E26",
+      "verb_id": 62,
+      "prompt_ar": "يحكي أو يروي حاجة لحد",
+      "answer": "erzälen",
+      "target": "erzählen",
+      "outcome": "needs_spelling_retry",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E27",
+      "verb_id": 133,
+      "prompt_ar": "ينزّل ملف من الإنترنت",
+      "answer": "herunterladen",
+      "target": "herunterladen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E28",
+      "verb_id": 205,
+      "prompt_ar": "يفرح أو يتطلع لحاجة بحماس",
+      "answer": "sich freuen",
+      "target": "sich freuen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E29",
+      "verb_id": 252,
+      "prompt_ar": "يوزن حاجة أو يعرف وزنها",
+      "answer": "wiegen",
+      "target": "wiegen",
+      "outcome": "independent_correct",
+      "hint_used": false
+    },
+    {
+      "exercise_id": "2026-11-07-S01-E30",
+      "verb_id": 89,
+      "prompt_ar": "يحدد موعد أو يتفق عليه",
+      "answer": "vereinbaren",
+      "target": "vereinbaren",
+      "outcome": "independent_correct",
+      "hint_used": false
+    }
+  ],
+  "batch_tested_ids": [
+    17,
+    111,
+    178,
+    42,
+    155,
+    62,
+    133,
+    205,
+    252,
+    89
+  ],
+  "combined_review": {
+    "tested_count": 30,
+    "exact_correct_count": 23,
+    "retry_ids": [
+      197,
+      93,
+      257,
+      220,
+      226,
+      178,
+      62
+    ],
+    "unseen_count": 230,
+    "perfekt_coverage": "not_started"
+  },
+  "prior_pending_preserved": true
+}
