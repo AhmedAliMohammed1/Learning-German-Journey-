@@ -1,0 +1,103 @@
+{
+  "schema": "german_journey_pending_progress_reconciliation_v1",
+  "date": "2026-11-07",
+  "source_day": "days/2026-11-07.md",
+  "session_id": "2026-11-07-S02",
+  "base_progress_sha": "7da11092dc29360e3a5d58fa058df7be0b136dd9",
+  "operation": "introduce_new_verbs",
+  "apply_policy": "Idempotently add ten verb items #261-270 to verbs.items, update learned_total to 270 and verb counts, create session 2026-11-07-S02 once, preserve the existing S01 review and all B01-B04 attempts and retry IDs; append E01-E04 pending exercises without answers, maintain all older pending tasks, preserve vocabulary count 202, current day 2026-11-07. Do not infer mastery. Verify current GitHub state before merging.",
+  "verbs": [
+    {
+      "id": 261,
+      "infinitive": "verbieten",
+      "meaning_ar": "يمنع",
+      "present": "ich verbiete; er verbietet",
+      "perfekt": "hat verboten"
+    },
+    {
+      "id": 262,
+      "infinitive": "überlegen",
+      "meaning_ar": "يفكّر كويس قبل ما يقرر",
+      "present": "ich überlege",
+      "perfekt": "hat überlegt"
+    },
+    {
+      "id": 263,
+      "infinitive": "zurückrufen",
+      "meaning_ar": "يردّ على مكالمة",
+      "present": "ich rufe zurück",
+      "perfekt": "hat zurückgerufen"
+    },
+    {
+      "id": 264,
+      "infinitive": "vorhaben",
+      "meaning_ar": "ناوي يعمل حاجة",
+      "present": "ich habe vor",
+      "perfekt": "hat vorgehabt"
+    },
+    {
+      "id": 265,
+      "infinitive": "auffallen",
+      "meaning_ar": "يلفت نظر حد",
+      "present": "es fällt mir auf",
+      "perfekt": "ist aufgefallen"
+    },
+    {
+      "id": 266,
+      "infinitive": "ausgehen",
+      "meaning_ar": "يخرج يتفسح",
+      "present": "ich gehe aus",
+      "perfekt": "ist ausgegangen"
+    },
+    {
+      "id": 267,
+      "infinitive": "sich melden",
+      "meaning_ar": "يتواصل أو يرد",
+      "present": "ich melde mich",
+      "perfekt": "hat sich gemeldet"
+    },
+    {
+      "id": 268,
+      "infinitive": "behalten",
+      "meaning_ar": "يحتفظ بحاجة",
+      "present": "ich behalte",
+      "perfekt": "hat behalten"
+    },
+    {
+      "id": 269,
+      "infinitive": "einfallen",
+      "meaning_ar": "فكرة تيجي في باله",
+      "present": "mir fällt etwas ein",
+      "perfekt": "ist eingefallen"
+    },
+    {
+      "id": 270,
+      "infinitive": "sich konzentrieren",
+      "meaning_ar": "يركز",
+      "present": "ich konzentriere mich",
+      "perfekt": "hat sich konzentriert"
+    }
+  ],
+  "pending_exercise_ids": [
+    "2026-11-07-S02-E01",
+    "2026-11-07-S02-E02",
+    "2026-11-07-S02-E03",
+    "2026-11-07-S02-E04"
+  ],
+  "preserved_review": {
+    "tested_ids_count": 40,
+    "exact_count": 33,
+    "retry_ids": [
+      197,
+      93,
+      257,
+      220,
+      226,
+      178,
+      62
+    ],
+    "inventory_total_after_introduction": 270,
+    "unseen_count": 230
+  },
+  "prior_pending_preserved": true
+}
