@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**223 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**224 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -229,6 +229,7 @@
 | V221 | ganz | ganze / ganzen / ganzes (declined adjective) | كامل / كل | adjective | introduced |
 | V222 | die Welt | die Welten | العالم / العوالم | noun | introduced |
 | V223 | die Veranstaltung | die Veranstaltungen | فعالية / حدث منظّم / مناسبة | noun | introduced |
+| V224 | die Landschaft | die Landschaften | الطبيعة / المناظر الطبيعية / طبيعة المنطقة | noun | introduced |
 
 ## Learning notes
 
