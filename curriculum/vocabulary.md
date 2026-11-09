@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**244 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**245 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -250,6 +250,7 @@
 | V242 | der Turm | die Türme | برج (مبنى أو هيكل مرتفع) | noun | introduced |
 | V243 | bisher | — | حتى الآن / لحد دلوقتي / لغاية دلوقتي | adverb | introduced |
 | V244 | gemeinsam | — | مع بعض / سوا / بشكل مشترك | adjective_adverb | introduced |
+| V245 | hoffentlich | — | يا رب / أتمنى / إن شاء الله (للتعبير عن الأمل) | adverb | introduced |
 
 ## Learning notes
 
