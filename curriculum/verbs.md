@@ -1,4 +1,4 @@
-# Verb curriculum — 270 introduced verbs
+# Verb curriculum — 271 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -278,6 +278,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 268 | behalten | يحتفظ بحاجة / ما يرجّعهاش | ich behalte; er behält | hat behalten | Du kannst das Buch behalten. | introduced | Akk object; differs from aufbewahren. |
 | 269 | einfallen | تيجي فكرة في بال حد / يفتكر فجأة | mir fällt etwas ein | ist eingefallen | Mir ist eine gute Idee eingefallen. | introduced | Separable; Dat experiencer, idea as subject. |
 | 270 | sich konzentrieren | يركّز في حاجة | ich konzentriere mich; er konzentriert sich | hat sich konzentriert | Ich konzentriere mich auf die Arbeit. | introduced | Reflexive; auf + Akk. |
+| 271 | lagern | يخزّن / يتخزّن (بضائع) | ich lagere; er lagert | hat gelagert | Die Firma lagert ihre Waren im Hafen. | introduced | Regular; transitive + Akk, also intransitive for goods in storage. |
 
 ## How to read the table
 
