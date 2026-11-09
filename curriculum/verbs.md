@@ -1,4 +1,4 @@
-# Verb curriculum — 278 introduced verbs
+# Verb curriculum — 279 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -286,6 +286,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 276 | tun | يعمل / يفعل حاجة | ich tue; du tust; er tut | hat getan | Was kann ich für dich tun? | introduced | Irregular: Präteritum tat; common phrases Was soll ich tun? / Das tut mir leid.; contrast machen. |
 | 277 | reagieren | يتفاعل / يستجيب / يرد فعل على موقف | ich reagiere; er reagiert | hat reagiert | Er hat schnell auf meine Nachricht reagiert. | introduced | Regular verb ending -ieren; no ge- in Partizip II; reagieren auf + Akk. |
 | 278 | beschäftigen | يشغّل شخص / يشغل باله بحاجة؛ sich beschäftigen mit = ينشغل بـ | ich beschäftige; er beschäftigt; ich beschäftige mich mit ... | hat beschäftigt; hat sich beschäftigt | Ich beschäftige mich mit Deutsch. | introduced | Inseparable be- (no ge-); transitive jemanden beschäftigen + Akk; reflexive sich beschäftigen mit + Dat; beschäftigt sein = يكون مشغول. |
+| 279 | überfliegen | يقرأ بسرعة / يلقي نظرة سريعة؛ يحلّق فوق مكان | ich überfliege; er überfliegt | hat überflogen | Ich habe den Text nur kurz überflogen. | introduced | Inseparable über- in these senses; strong: Präteritum überflog; Akk object. |
 
 ## How to read the table
 
