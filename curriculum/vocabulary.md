@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**230 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**231 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -236,6 +236,7 @@
 | V228 | laut | — | عالي الصوت / بصوت عالي؛ وفقًا لـ (حرف جر) | adjective_adverb_preposition | introduced |
 | V229 | denn | — | لأن / عشان (حرف عطف)؛ طيب / بقى في الأسئلة (Modalpartikel) | conjunction_particle | introduced |
 | V230 | genervt | — | متضايق / متعصب / مخنوق من حاجة أو حد | adjective | introduced |
+| V231 | der Föhn | die Föhne | السيشوار / مجفف الشعر؛ رياح دافئة جافة في الجبال | noun | introduced |
 
 ## Learning notes
 
