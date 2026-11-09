@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**246 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**247 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -252,6 +252,7 @@
 | V244 | gemeinsam | — | مع بعض / سوا / بشكل مشترك | adjective_adverb | introduced |
 | V245 | hoffentlich | — | يا رب / أتمنى / إن شاء الله (للتعبير عن الأمل) | adverb | introduced |
 | V246 | herum | — | حوالين / هنا وهناك / في كل اتجاه؛ um ... herum = حول | adverb_particle | introduced |
+| V247 | die Überraschung | die Überraschungen | مفاجأة | noun | introduced |
 
 ## Learning notes
 
