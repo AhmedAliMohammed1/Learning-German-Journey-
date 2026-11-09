@@ -1,4 +1,4 @@
-# Verb curriculum — 276 introduced verbs
+# Verb curriculum — 277 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -284,6 +284,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 274 | betonen | يؤكد على حاجة / يشدّد على نقطة أو على نطق كلمة | ich betone; du betonst; er betont | hat betont | Der Lehrer betont dieses Wort. | introduced | Inseparable be- prefix (no ge- in Perfekt); + Akk; also betonen, dass ... |
 | 275 | feststecken | يكون عالق / محشور / مش قادر يكمل | ich stecke fest; er steckt fest | hat festgesteckt | Wir stecken im Stau fest. | introduced | Separable fest-; often in + Dativ (im Stau feststecken). |
 | 276 | tun | يعمل / يفعل حاجة | ich tue; du tust; er tut | hat getan | Was kann ich für dich tun? | introduced | Irregular: Präteritum tat; common phrases Was soll ich tun? / Das tut mir leid.; contrast machen. |
+| 277 | reagieren | يتفاعل / يستجيب / يرد فعل على موقف | ich reagiere; er reagiert | hat reagiert | Er hat schnell auf meine Nachricht reagiert. | introduced | Regular verb ending -ieren; no ge- in Partizip II; reagieren auf + Akk. |
 
 ## How to read the table
 
