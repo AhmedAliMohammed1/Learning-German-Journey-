@@ -6,6 +6,8 @@
 
 **2026-11-09 study evidence:** Photo-based Hamburg reading/writing worksheet corrected: true/false 4/6 (a and c incorrect); written answers need further practice with Stadt/sie, adjective endings, and gefallen + Dativ. Handwriting partially uncertain. No new vocabulary counted for this exercise. See [Nov 9 log](days/2026-11-09.md). Earlier pending prompts remain unchanged.
 
+**2026-11-09:** Corrected photo workbook *Termine* (page 27): 7a three labels correct, 7b six content corrections broadly appropriate (handwriting partly uncertain); taught temporal in/vor/nach + Dativ and für + Akkusativ. Four-question quiz offered, no answers yet; see [Nov 9 day log](days/2026-11-09.md). No mastery promotion.
+
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
 **Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **279 introduced verbs**, **239 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
