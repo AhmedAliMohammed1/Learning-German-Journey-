@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**202 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**217 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -210,6 +210,19 @@
 | V202 | übermorgen | — | بعد بكرا | adverb | introduced |
 | V203 | der Einwohner | die Einwohner | ساكن / أحد سكان مدينة أو منطقة | noun | introduced |
 | V204 | die Kunst | die Künste | الفن / الفنون | noun | introduced |
+| V205 | spannend | — | مشوّق / مثير للاهتمام | adjective | introduced |
+| V206 | der Hafen | die Häfen | الميناء | noun | introduced |
+| V207 | das Schiff | die Schiffe | السفينة؛ Schiffen = Dativ Plural | noun | introduced |
+| V208 | die Speicherstadt | — | حي المخازن التاريخي في هامبورج | proper_noun | introduced |
+| V209 | die Ware | die Waren | البضاعة / البضائع؛ Waren قد تكون أيضًا ماضي sein | noun | introduced |
+| V210 | die Ausstellung | die Ausstellungen | المعرض / المعارض | noun | introduced |
+| V211 | die Lesung | die Lesungen | قراءة أدبية أمام الجمهور / أمسية قراءة | noun | introduced |
+| V212 | die Theateraufführung | die Theateraufführungen | عرض مسرحي | noun | introduced |
+| V213 | das Wahrzeichen | die Wahrzeichen | معلم شهير يرمز لمدينة | noun | introduced |
+| V214 | der Blick | die Blicke | النظرة / المنظر | noun | introduced |
+| V215 | der Kirchturm | die Kirchtürme | برج الكنيسة | noun | introduced |
+| V216 | überall | — | في كل مكان | adverb | introduced |
+| V217 | irgendwann | — | في وقت ما / في يوم من الأيام | adverb | introduced |
 
 ## Learning notes
 
