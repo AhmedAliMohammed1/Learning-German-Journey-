@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**237 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**238 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -243,6 +243,7 @@
 | V235 | das Ding | die Dinge (Dativ Plural: den Dingen) | حاجة / شيء | noun | introduced |
 | V236 | nun | — | الآن / دلوقتي / طيب بقى (للانتقال في الكلام) | adverb_particle | introduced |
 | V237 | die Geschäftsreise | die Geschäftsreisen | رحلة شغل / سفرية عمل | noun | introduced |
+| V238 | die Sitzung | die Sitzungen | جلسة / اجتماع رسمي | noun | introduced |
 
 ## Learning notes
 
