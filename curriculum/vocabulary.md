@@ -209,6 +209,7 @@
 | V201 | die Steckdosenleiste | die Steckdosenleisten | مشترك كهربا | noun | introduced |
 | V202 | übermorgen | — | بعد بكرا | adverb | introduced |
 | V203 | der Einwohner | die Einwohner | ساكن / أحد سكان مدينة أو منطقة | noun | introduced |
+| V204 | die Kunst | die Künste | الفن / الفنون | noun | introduced |
 
 ## Learning notes
 
