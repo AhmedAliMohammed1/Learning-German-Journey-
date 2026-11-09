@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**240 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**241 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -246,6 +246,7 @@
 | V238 | die Sitzung | die Sitzungen | جلسة / اجتماع رسمي | noun | introduced |
 | V239 | wahrscheinlich | — | غالبًا / على الأرجح / من المحتمل | adverb_adjective | introduced |
 | V240 | das Navi | die Navis | جهاز الملاحة / GPS العربية؛ اختصار Navigationsgerät | noun | introduced |
+| V241 | seltsam | — | غريب / غير مألوف / يثير الاستغراب | adjective | introduced |
 
 ## Learning notes
 
