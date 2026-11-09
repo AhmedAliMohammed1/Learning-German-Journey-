@@ -1,4 +1,4 @@
-# Verb curriculum — 273 introduced verbs
+# Verb curriculum — 274 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -281,6 +281,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 271 | lagern | يخزّن / يتخزّن (بضائع) | ich lagere; er lagert | hat gelagert | Die Firma lagert ihre Waren im Hafen. | introduced | Regular; transitive + Akk, also intransitive for goods in storage. |
 | 272 | nennen | يسمّي / يذكر اسم حاجة أو شخص | ich nenne; du nennst; er nennt | hat genannt | Kannst du mir deinen Namen nennen? | introduced | Strong-mixed verb: Präteritum nannte; usually Akk thing/name; Dat person + Akk thing in jemandem etwas nennen. |
 | 273 | vorlesen | يقرأ بصوت عالي لحد / يقرأ لحد حاجة يسمعها | ich lese vor; du liest vor; er liest vor | hat vorgelesen | Ich lese meinem Kind eine Geschichte vor. | introduced | Separable vor-; strong: las vor (Präteritum); Dat person + Akk thing. |
+| 274 | betonen | يؤكد على حاجة / يشدّد على نقطة أو على نطق كلمة | ich betone; du betonst; er betont | hat betont | Der Lehrer betont dieses Wort. | introduced | Inseparable be- prefix (no ge- in Perfekt); + Akk; also betonen, dass ... |
 
 ## How to read the table
 
