@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**220 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**222 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -226,6 +226,8 @@
 | V218 | der Laden | die Läden | محل / دكان | noun | introduced |
 | V219 | das Geschäft | die Geschäfte | محل / متجر؛ نشاط تجاري | noun | introduced |
 | V220 | besonders | — | خصوصًا / بشكل خاص / جدًا للتأكيد | adverb | introduced |
+| V221 | ganz | ganze / ganzen / ganzes (declined adjective) | كامل / كل | adjective | introduced |
+| V222 | die Welt | die Welten | العالم / العوالم | noun | introduced |
 
 ## Learning notes
 
