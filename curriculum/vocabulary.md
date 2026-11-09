@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**247 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**248 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -253,6 +253,7 @@
 | V245 | hoffentlich | — | يا رب / أتمنى / إن شاء الله (للتعبير عن الأمل) | adverb | introduced |
 | V246 | herum | — | حوالين / هنا وهناك / في كل اتجاه؛ um ... herum = حول | adverb_particle | introduced |
 | V247 | die Überraschung | die Überraschungen | مفاجأة | noun | introduced |
+| V248 | das Rätsel | die Rätsel | لغز / فزورة / أحجية | noun | introduced |
 
 ## Learning notes
 
