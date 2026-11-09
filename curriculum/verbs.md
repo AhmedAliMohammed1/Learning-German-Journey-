@@ -1,4 +1,4 @@
-# Verb curriculum — 283 introduced verbs
+# Verb curriculum — 284 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -291,6 +291,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 281 | bellen | ينبح (صوت الكلب) | ich belle; du bellst; er bellt | hat gebellt | Der Hund bellt. | introduced | Regular verb; Präteritum bellte; `bellt` = 3rd singular or 2nd plural Präsens. |
 | 282 | streicheln | يطبطب على / يمسح بإيده بحنان | ich streichle; du streichelst; er streichelt | hat gestreichelt | Das Kind streichelt den Hund. | introduced | Regular verb; Präteritum streichelte; transitive + Akkusativ; `streichelt` = 3rd person singular or 2nd person plural Präsens. |
 | 283 | ansehen (sich etwas ansehen) | يبص على / يتفرج على / يفحص | ich sehe an; du siehst an; er sieht an; ich sehe mir etwas an | hat angesehen | Ich sehe mir einen Film an. | introduced | Separable an-; strong: Präteritum sah an; transitive etwas ansehen + Akk; reflexive-dative sich (mir/dir/...) etwas ansehen. |
+| 284 | lachen | يضحك | ich lache; du lachst; er lacht | hat gelacht | Warum lachst du? | introduced | Regular verb; Präteritum lachte; über jemanden/etwas lachen + Akkusativ. |
 
 ## How to read the table
 
