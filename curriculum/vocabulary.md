@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**235 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**236 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -241,6 +241,7 @@
 | V233 | die Etage | die Etagen | الدور / الطابق في مبنى | noun | introduced |
 | V234 | wohl | — | مرتاح / بخير في sich wohlfühlen؛ غالبًا / على الأرجح كـ Modalpartikel | adverb_particle | introduced |
 | V235 | das Ding | die Dinge (Dativ Plural: den Dingen) | حاجة / شيء | noun | introduced |
+| V236 | nun | — | الآن / دلوقتي / طيب بقى (للانتقال في الكلام) | adverb_particle | introduced |
 
 ## Learning notes
 
