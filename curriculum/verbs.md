@@ -1,4 +1,4 @@
-# Verb curriculum — 280 introduced verbs
+# Verb curriculum — 281 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -288,6 +288,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 278 | beschäftigen | يشغّل شخص / يشغل باله بحاجة؛ sich beschäftigen mit = ينشغل بـ | ich beschäftige; er beschäftigt; ich beschäftige mich mit ... | hat beschäftigt; hat sich beschäftigt | Ich beschäftige mich mit Deutsch. | introduced | Inseparable be- (no ge-); transitive jemanden beschäftigen + Akk; reflexive sich beschäftigen mit + Dat; beschäftigt sein = يكون مشغول. |
 | 279 | überfliegen | يقرأ بسرعة / يلقي نظرة سريعة؛ يحلّق فوق مكان | ich überfliege; er überfliegt | hat überflogen | Ich habe den Text nur kurz überflogen. | introduced | Inseparable über- in these senses; strong: Präteritum überflog; Akk object. |
 | 280 | sich verhalten | يتصرف / يسلك بطريقة معينة | ich verhalte mich; du verhältst dich; er verhält sich | hat sich verhalten | Er verhält sich heute seltsam. | introduced | Reflexive + Akk pronoun; strong Präteritum verhielt sich; inseparable ver-; describes behavior in a situation. |
+| 281 | bellen | ينبح (صوت الكلب) | ich belle; du bellst; er bellt | hat gebellt | Der Hund bellt. | introduced | Regular verb; Präteritum bellte; `bellt` = 3rd singular or 2nd plural Präsens. |
 
 ## How to read the table
 
