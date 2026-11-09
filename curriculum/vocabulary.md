@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**228 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**229 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -234,6 +234,7 @@
 | V226 | das Lied | die Lieder | أغنية | noun | introduced |
 | V227 | zu zweit | — | اتنين مع بعض / شخصين سوا | expression | introduced |
 | V228 | laut | — | عالي الصوت / بصوت عالي؛ وفقًا لـ (حرف جر) | adjective_adverb_preposition | introduced |
+| V229 | denn | — | لأن / عشان (حرف عطف)؛ طيب / بقى في الأسئلة (Modalpartikel) | conjunction_particle | introduced |
 
 ## Learning notes
 
