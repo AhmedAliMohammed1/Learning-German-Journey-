@@ -2,11 +2,11 @@
 
 ## Latest update — 2026-11-09 (Europe/Berlin)
 
-**Vocabulary:** added **V203 der Einwohner**, **V204 die Kunst**, and **V205–V217** (13 items); **#271 lagern** added to verbs (plural **die Einwohner**, ساكن / أحد سكان مدينة أو منطقة), all introduced, not mastered. Logged in [Nov 9 day log](days/2026-11-09.md). Previous pending exercises and Nov 7 study checkpoints unchanged.
+**Vocabulary:** added **V203 der Einwohner**, **V204 die Kunst**, and **V205–V217** (13 items), plus **V218 der Laden** and **V219 das Geschäft**; **#271 lagern** added to verbs (plural **die Einwohner**, ساكن / أحد سكان مدينة أو منطقة), all introduced, not mastered. Logged in [Nov 9 day log](days/2026-11-09.md). Previous pending exercises and Nov 7 study checkpoints unchanged.
 
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
-**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **271 introduced verbs**, **217 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
+**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **271 introduced verbs**, **219 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
 
 - New verbs: **261 verbieten**, **262 überlegen**, **263 zurückrufen**, **264 vorhaben**, **265 auffallen**, **266 ausgehen**, **267 sich melden**, **268 behalten**, **269 einfallen**, **270 sich konzentrieren**. Each has Präsens + Perfekt and an example.
 - **Exact next step:** start full-sentence translation `2026-11-07-S02-E01` (four exercises E01–E04 pending, no learner answers yet). Reuse #268 and #269 in follow-up.
