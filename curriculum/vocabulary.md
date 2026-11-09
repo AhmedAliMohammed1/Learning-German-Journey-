@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**249 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**250 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -255,6 +255,7 @@
 | V247 | die Überraschung | die Überraschungen | مفاجأة | noun | introduced |
 | V248 | das Rätsel | die Rätsel | لغز / فزورة / أحجية | noun | introduced |
 | V249 | darum | — | عشان كده / لذلك؛ عن ذلك في es geht darum | adverb_pronominal | introduced |
+| V250 | das Kärtchen | die Kärtchen | بطاقة صغيرة / كارت صغير | noun | introduced |
 
 ## Learning notes
 
