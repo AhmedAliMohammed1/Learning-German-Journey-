@@ -1,4 +1,4 @@
-# Verb curriculum — 279 introduced verbs
+# Verb curriculum — 280 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -287,6 +287,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 277 | reagieren | يتفاعل / يستجيب / يرد فعل على موقف | ich reagiere; er reagiert | hat reagiert | Er hat schnell auf meine Nachricht reagiert. | introduced | Regular verb ending -ieren; no ge- in Partizip II; reagieren auf + Akk. |
 | 278 | beschäftigen | يشغّل شخص / يشغل باله بحاجة؛ sich beschäftigen mit = ينشغل بـ | ich beschäftige; er beschäftigt; ich beschäftige mich mit ... | hat beschäftigt; hat sich beschäftigt | Ich beschäftige mich mit Deutsch. | introduced | Inseparable be- (no ge-); transitive jemanden beschäftigen + Akk; reflexive sich beschäftigen mit + Dat; beschäftigt sein = يكون مشغول. |
 | 279 | überfliegen | يقرأ بسرعة / يلقي نظرة سريعة؛ يحلّق فوق مكان | ich überfliege; er überfliegt | hat überflogen | Ich habe den Text nur kurz überflogen. | introduced | Inseparable über- in these senses; strong: Präteritum überflog; Akk object. |
+| 280 | sich verhalten | يتصرف / يسلك بطريقة معينة | ich verhalte mich; du verhältst dich; er verhält sich | hat sich verhalten | Er verhält sich heute seltsam. | introduced | Reflexive + Akk pronoun; strong Präteritum verhielt sich; inseparable ver-; describes behavior in a situation. |
 
 ## How to read the table
 
