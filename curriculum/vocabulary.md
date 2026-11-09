@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**219 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**220 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -225,6 +225,7 @@
 | V217 | irgendwann | — | في وقت ما / في يوم من الأيام | adverb | introduced |
 | V218 | der Laden | die Läden | محل / دكان | noun | introduced |
 | V219 | das Geschäft | die Geschäfte | محل / متجر؛ نشاط تجاري | noun | introduced |
+| V220 | besonders | — | خصوصًا / بشكل خاص / جدًا للتأكيد | adverb | introduced |
 
 ## Learning notes
 
