@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**217 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**219 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -223,6 +223,8 @@
 | V215 | der Kirchturm | die Kirchtürme | برج الكنيسة | noun | introduced |
 | V216 | überall | — | في كل مكان | adverb | introduced |
 | V217 | irgendwann | — | في وقت ما / في يوم من الأيام | adverb | introduced |
+| V218 | der Laden | die Läden | محل / دكان | noun | introduced |
+| V219 | das Geschäft | die Geschäfte | محل / متجر؛ نشاط تجاري | noun | introduced |
 
 ## Learning notes
 
