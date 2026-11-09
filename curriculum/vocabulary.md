@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**232 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**233 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -238,6 +238,7 @@
 | V230 | genervt | — | متضايق / متعصب / مخنوق من حاجة أو حد | adjective | introduced |
 | V231 | der Föhn | die Föhne | السيشوار / مجفف الشعر؛ رياح دافئة جافة في الجبال | noun | introduced |
 | V232 | der Alarmknopf | die Alarmknöpfe | زر الإنذار / زر الطوارئ | noun | introduced |
+| V233 | die Etage | die Etagen | الدور / الطابق في مبنى | noun | introduced |
 
 ## Learning notes
 
