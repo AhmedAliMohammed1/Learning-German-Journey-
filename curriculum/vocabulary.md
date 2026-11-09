@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**226 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**228 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -232,6 +232,8 @@
 | V224 | die Landschaft | die Landschaften | الطبيعة / المناظر الطبيعية / طبيعة المنطقة | noun | introduced |
 | V225 | das Schnucki | die Schnuckis | يا حبيبي / يا قلبي؛ اسم دلع عامي للمقرّبين | noun | introduced |
 | V226 | das Lied | die Lieder | أغنية | noun | introduced |
+| V227 | zu zweit | — | اتنين مع بعض / شخصين سوا | expression | introduced |
+| V228 | laut | — | عالي الصوت / بصوت عالي؛ وفقًا لـ (حرف جر) | adjective_adverb_preposition | introduced |
 
 ## Learning notes
 
