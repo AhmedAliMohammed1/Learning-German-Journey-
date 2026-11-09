@@ -1,4 +1,4 @@
-# Verb curriculum — 281 introduced verbs
+# Verb curriculum — 282 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -289,6 +289,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 279 | überfliegen | يقرأ بسرعة / يلقي نظرة سريعة؛ يحلّق فوق مكان | ich überfliege; er überfliegt | hat überflogen | Ich habe den Text nur kurz überflogen. | introduced | Inseparable über- in these senses; strong: Präteritum überflog; Akk object. |
 | 280 | sich verhalten | يتصرف / يسلك بطريقة معينة | ich verhalte mich; du verhältst dich; er verhält sich | hat sich verhalten | Er verhält sich heute seltsam. | introduced | Reflexive + Akk pronoun; strong Präteritum verhielt sich; inseparable ver-; describes behavior in a situation. |
 | 281 | bellen | ينبح (صوت الكلب) | ich belle; du bellst; er bellt | hat gebellt | Der Hund bellt. | introduced | Regular verb; Präteritum bellte; `bellt` = 3rd singular or 2nd plural Präsens. |
+| 282 | streicheln | يطبطب على / يمسح بإيده بحنان | ich streichle; du streichelst; er streichelt | hat gestreichelt | Das Kind streichelt den Hund. | introduced | Regular verb; Präteritum streichelte; transitive + Akkusativ; `streichelt` = 3rd person singular or 2nd person plural Präsens. |
 
 ## How to read the table
 
