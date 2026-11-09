@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**241 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**242 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -247,6 +247,7 @@
 | V239 | wahrscheinlich | — | غالبًا / على الأرجح / من المحتمل | adverb_adjective | introduced |
 | V240 | das Navi | die Navis | جهاز الملاحة / GPS العربية؛ اختصار Navigationsgerät | noun | introduced |
 | V241 | seltsam | — | غريب / غير مألوف / يثير الاستغراب | adjective | introduced |
+| V242 | der Turm | die Türme | برج (مبنى أو هيكل مرتفع) | noun | introduced |
 
 ## Learning notes
 
