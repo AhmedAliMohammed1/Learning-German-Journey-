@@ -208,6 +208,7 @@
 | V200 | die Meinung | die Meinungen | الرأي | noun | introduced |
 | V201 | die Steckdosenleiste | die Steckdosenleisten | مشترك كهربا | noun | introduced |
 | V202 | übermorgen | — | بعد بكرا | adverb | introduced |
+| V203 | der Einwohner | die Einwohner | ساكن / أحد سكان مدينة أو منطقة | noun | introduced |
 
 ## Learning notes
 
