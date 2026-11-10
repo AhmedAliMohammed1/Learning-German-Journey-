@@ -10,7 +10,7 @@
 
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
-**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **288 introduced verbs**, **286 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
+**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **288 introduced verbs**, **287 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
 
 - New verbs: **261 verbieten**, **262 überlegen**, **263 zurückrufen**, **264 vorhaben**, **265 auffallen**, **266 ausgehen**, **267 sich melden**, **268 behalten**, **269 einfallen**, **270 sich konzentrieren**. Each has Präsens + Perfekt and an example.
 - **Exact next step:** start full-sentence translation `2026-11-07-S02-E01` (four exercises E01–E04 pending, no learner answers yet). Reuse #268 and #269 in follow-up.
@@ -23,3 +23,5 @@
 **2026-11-10 worksheet batch:** audited photographed *Lernwortschatz* hotel/complaints/appointments page against both complete registers, added 32 vocabulary items (V254–V285) and 4 verbs (#285–#288) without duplicates; documented full IDs, duplicates, and treatment of word forms in [Nov 10 day log](days/2026-11-10.md). Introduced only; progress.json sync pending.
 
 **2026-11-10:** Added **V286 die Aufnahmeprüfung** after checking entire canonical inventory; `die Prüfung` V045 unchanged. Introduced, not mastered. See [day log](days/2026-11-10.md).
+
+**2026-11-10:** Added standalone noun **V287 die Aufnahme** (plural die Aufnahmen; admission, recording, shot, intake) after user asked for its meaning. Compound Aufnahmeprüfung remains V286; no verb automatically added.
