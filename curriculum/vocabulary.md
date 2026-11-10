@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**289 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**290 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -295,6 +295,7 @@
 | V287 | die Aufnahme | die Aufnahmen | القبول / التسجيل / لقطة أو تصوير / استقبال شخص حسب السياق | noun | introduced |
 | V288 | die Fremdsprache | die Fremdsprachen | لغة أجنبية / لغات أجنبية | noun | introduced |
 | V289 | der Ausdruck | die Ausdrücke | تعبير / مصطلح / نسخة مطبوعة حسب السياق | noun | introduced |
+| V290 | der Textanfang | die Textanfänge | بداية النص / أول النص | noun | introduced |
 
 ## Learning notes
 
