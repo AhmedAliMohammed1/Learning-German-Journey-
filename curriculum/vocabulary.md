@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**299 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**300 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -305,6 +305,7 @@
 | V297 | der Beitrag | die Beiträge | مساهمة / منشور / اشتراك أو مساهمة مالية | Ich zahle jeden Monat meinen Versicherungsbeitrag. | أنا بدفع اشتراك التأمين كل شهر. | noun | introduced |
 | V298 | die Notiz | die Notizen | ملاحظة مكتوبة / ملاحظات | Ich mache mir Notizen während der Vorlesung. | أنا بكتب ملاحظات لنفسي أثناء المحاضرة. | noun | introduced |
 | V299 | der Traumberuf | die Traumberufe | وظيفة الأحلام / المهنة اللي نفسك تشتغل فيها | Mein Traumberuf ist Softwareentwickler. | وظيفة أحلامي إني أكون مطوّر برمجيات. | noun | introduced |
+| V300 | eigentlich | — | في الحقيقة / في الأصل / أصلاً / لتلطيف السؤال حسب السياق | Eigentlich wollte ich heute lernen, aber ich bin müde. | أنا في الحقيقة كنت ناوي أذاكر النهارده، بس أنا تعبان. | adverb_or_adjective | introduced |
 
 ## Learning notes
 
