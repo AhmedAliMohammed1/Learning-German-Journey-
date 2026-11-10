@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**287 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**288 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -293,6 +293,7 @@
 | V285 | Mit freundlichen Grüßen | — | مع أطيب التحيات (ختام خطاب رسمي) | formal_closing | introduced |
 | V286 | die Aufnahmeprüfung | die Aufnahmeprüfungen | امتحان القبول / اختبار الالتحاق | noun | introduced |
 | V287 | die Aufnahme | die Aufnahmen | القبول / التسجيل / لقطة أو تصوير / استقبال شخص حسب السياق | noun | introduced |
+| V288 | die Fremdsprache | die Fremdsprachen | لغة أجنبية / لغات أجنبية | noun | introduced |
 
 ## Learning notes
 
