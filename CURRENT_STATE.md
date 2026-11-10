@@ -10,7 +10,7 @@
 
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
-**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **290 introduced verbs**, **287 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
+**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **291 introduced verbs**, **287 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
 
 - New verbs: **261 verbieten**, **262 überlegen**, **263 zurückrufen**, **264 vorhaben**, **265 auffallen**, **266 ausgehen**, **267 sich melden**, **268 behalten**, **269 einfallen**, **270 sich konzentrieren**. Each has Präsens + Perfekt and an example.
 - **Exact next step:** start full-sentence translation `2026-11-07-S02-E01` (four exercises E01–E04 pending, no learner answers yet). Reuse #268 and #269 in follow-up.
@@ -29,3 +29,5 @@
 **2026-11-10:** Added new verb **#289 ausnehmen** after checking all existing verbs and vocabulary, meaning exclude, gut fish, or fleece financially. Introduced only; see day log.
 
 **2026-11-10:** Registered new verb **#290 aufnehmen** (separable, hat aufgenommen; record / receive / admit / absorb) after checking complete inventories; related noun Aufnahme stays V287. See [day log](days/2026-11-10.md).
+
+**2026-11-10:** Added **#291 segeln**, after checking canonical inventories; `ist gesegelt` for travel, `hat gesegelt` possible for the activity; introduced only.
