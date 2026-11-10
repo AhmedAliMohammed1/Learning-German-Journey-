@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**251 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**252 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -257,6 +257,7 @@
 | V249 | darum | — | عشان كده / لذلك؛ عن ذلك في es geht darum | adverb_pronominal | introduced |
 | V250 | das Kärtchen | die Kärtchen | بطاقة صغيرة / كارت صغير | noun | introduced |
 | V251 | auswendig | — | عن ظهر قلب / من غير ما تبص في الكتاب؛ auswendig lernen = يحفظ | adverb | introduced |
+| V252 | die Beschwerde | die Beschwerden | شكوى؛ (جمعًا) أعراض صحية | noun | introduced |
 
 ## Learning notes
 
