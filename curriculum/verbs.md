@@ -1,4 +1,4 @@
-# Verb curriculum — 284 introduced verbs
+# Verb curriculum — 288 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -292,6 +292,10 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 282 | streicheln | يطبطب على / يمسح بإيده بحنان | ich streichle; du streichelst; er streichelt | hat gestreichelt | Das Kind streichelt den Hund. | introduced | Regular verb; Präteritum streichelte; transitive + Akkusativ; `streichelt` = 3rd person singular or 2nd person plural Präsens. |
 | 283 | ansehen (sich etwas ansehen) | يبص على / يتفرج على / يفحص | ich sehe an; du siehst an; er sieht an; ich sehe mir etwas an | hat angesehen | Ich sehe mir einen Film an. | introduced | Separable an-; strong: Präteritum sah an; transitive etwas ansehen + Akk; reflexive-dative sich (mir/dir/...) etwas ansehen. |
 | 284 | lachen | يضحك | ich lache; du lachst; er lacht | hat gelacht | Warum lachst du? | introduced | Regular verb; Präteritum lachte; über jemanden/etwas lachen + Akkusativ. |
+| 285 | rufen | ينادي / يستدعي / يطلب حد؛ Hilfe rufen = ينادي للمساعدة | ich rufe; du rufst; er ruft | hat gerufen | Ich rufe sofort Hilfe. | introduced | Strong verb; Präteritum rief; + Akk object; Hilfe rufen means call for help. |
+| 286 | funktionieren | يشتغل / يعمل بشكل سليم (الجهاز) | ich funktioniere; es funktioniert | hat funktioniert | Die Heizung funktioniert nicht. | introduced | Regular, typically an object/device as subject. |
+| 287 | ausmachen | يطفي / يقفل جهاز؛ كمان يتفق على موعد أو ترتيب | ich mache aus; er macht aus | hat ausgemacht | Bitte mach das Licht aus. | introduced | Separable aus-; Präteritum machte aus; + Akk. |
+| 288 | kennenlernen | يتعرف على شخص لأول مرة | ich lerne kennen; er lernt kennen | hat kennengelernt | Ich möchte neue Leute kennenlernen. | introduced | Separable kennen-; + Akk; Präteritum lernte kennen. |
 
 ## How to read the table
 
