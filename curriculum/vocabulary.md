@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**291 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**292 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -297,6 +297,7 @@
 | V289 | der Ausdruck | die Ausdrücke | تعبير / مصطلح / نسخة مطبوعة حسب السياق | Ich kenne diesen Ausdruck nicht. | أنا مش عارف التعبير ده. | noun | introduced |
 | V290 | der Textanfang | die Textanfänge | بداية النص / أول النص | Lies bitte den Textanfang. | اقرأ بداية النص من فضلك. | noun | introduced |
 | V291 | unbedingt | — | ضروري جدًا / لازم / بالتأكيد؛ للتأكيد على الضرورة أو الرغبة | Ich muss unbedingt mit dir sprechen. | لازم أتكلم معاك ضروري. | adverb | introduced |
+| V292 | auf keinen Fall | — | أبدًا / مستحيل / تحت أي ظرف من الظروف | Das darfst du auf keinen Fall machen! | إوعى تعمل كده نهائي! | expression | introduced |
 
 ## Learning notes
 
