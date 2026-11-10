@@ -10,7 +10,7 @@
 
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
-**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **292 introduced verbs**, **290 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
+**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **293 introduced verbs**, **290 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
 
 - New verbs: **261 verbieten**, **262 überlegen**, **263 zurückrufen**, **264 vorhaben**, **265 auffallen**, **266 ausgehen**, **267 sich melden**, **268 behalten**, **269 einfallen**, **270 sich konzentrieren**. Each has Präsens + Perfekt and an example.
 - **Exact next step:** start full-sentence translation `2026-11-07-S02-E01` (four exercises E01–E04 pending, no learner answers yet). Reuse #268 and #269 in follow-up.
@@ -39,3 +39,5 @@
 **2026-11-10:** Added **V290 der Textanfang** (plural die Textanfänge) after full duplicate check; introduced, not mastered.
 
 **2026-11-10:** Added new verb **#292 komponieren** (regular -ieren; hat komponiert) after full duplicate audit; introduced, not mastered.
+
+**2026-11-10:** Added **#293 zählen** (from user `zählt`; hat gezählt), checked full inventories; introduced, not mastered.
