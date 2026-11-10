@@ -1,4 +1,4 @@
-# Verb curriculum — 288 introduced verbs
+# Verb curriculum — 289 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -296,6 +296,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 286 | funktionieren | يشتغل / يعمل بشكل سليم (الجهاز) | ich funktioniere; es funktioniert | hat funktioniert | Die Heizung funktioniert nicht. | introduced | Regular, typically an object/device as subject. |
 | 287 | ausmachen | يطفي / يقفل جهاز؛ كمان يتفق على موعد أو ترتيب | ich mache aus; er macht aus | hat ausgemacht | Bitte mach das Licht aus. | introduced | Separable aus-; Präteritum machte aus; + Akk. |
 | 288 | kennenlernen | يتعرف على شخص لأول مرة | ich lerne kennen; er lernt kennen | hat kennengelernt | Ich möchte neue Leute kennenlernen. | introduced | Separable kennen-; + Akk; Präteritum lernte kennen. |
+| 289 | ausnehmen | يستثني / ينظف السمك من الأحشاء / يستغل حد ماديًا | ich nehme aus; du nimmst aus; er nimmt aus | hat ausgenommen | Der Koch nimmt den Fisch aus. | introduced | Separable aus-; strong Präteritum nahm aus. `jemanden ausnehmen` can mean exploit financially; `ausgenommen` may mean except. |
 
 ## How to read the table
 
