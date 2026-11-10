@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**253 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**285 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -259,6 +259,38 @@
 | V251 | auswendig | — | عن ظهر قلب / من غير ما تبص في الكتاب؛ auswendig lernen = يحفظ | adverb | introduced |
 | V252 | die Beschwerde | die Beschwerden | شكوى؛ (جمعًا) أعراض صحية | noun | introduced |
 | V253 | sicher | — | أكيد / متأكد / آمن حسب السياق | adjective_adverb | introduced |
+| V254 | der Aufzug | die Aufzüge | الأسانسير / المصعد | noun | introduced |
+| V255 | die Dusche | die Duschen | الدش / مكان الاستحمام | noun | introduced |
+| V256 | der Fernseher | die Fernseher | التلفزيون / جهاز التلفزيون | noun | introduced |
+| V257 | der Gast | die Gäste | ضيف / نزيل الفندق | noun | introduced |
+| V258 | das Handtuch | die Handtücher | فوطة / منشفة | noun | introduced |
+| V259 | die Heizung | die Heizungen | التدفئة / جهاز التدفئة | noun | introduced |
+| V260 | die Klimaanlage | die Klimaanlagen | التكييف / جهاز التكييف | noun | introduced |
+| V261 | die Verbindung | die Verbindungen | اتصال / وصلة / ارتباط | noun | introduced |
+| V262 | die Internetverbindung | die Internetverbindungen | اتصال الإنترنت | noun | introduced |
+| V263 | der Bescheid | die Bescheide | إفادة / إشعار رسمي؛ Bescheid sagen = يبلغ | noun | introduced |
+| V264 | die Lust | — | الرغبة / النفس في حاجة؛ Lust haben auf + Akk | noun | introduced |
+| V265 | die Angst | die Ängste | الخوف؛ Angst haben vor + Dat | noun | introduced |
+| V266 | der Kurs | die Kurse | كورس / دورة تدريبية | noun | introduced |
+| V267 | der Tanzkurs | die Tanzkurse | كورس رقص | noun | introduced |
+| V268 | der Spanischkurs | die Spanischkurse | كورس لغة إسبانية | noun | introduced |
+| V269 | das Leben | — (في معنى الحياة عمومًا) | الحياة / المعيشة | noun | introduced |
+| V270 | das Radio | die Radios | الراديو / جهاز الراديو | noun | introduced |
+| V271 | die Seife | die Seifen | الصابون / قطعة صابون | noun | introduced |
+| V272 | der Bademantel | die Bademäntel | روب الحمام / برنس | noun | introduced |
+| V273 | das Telefon | die Telefone | التليفون / جهاز الهاتف | noun | introduced |
+| V274 | sofort | — | فورًا / حالًا | adverb | introduced |
+| V275 | pünktlich | — | في المعاد / ملتزم بالمواعيد | adjective_adverb | introduced |
+| V276 | halb | halbe / halben / halbes | نصف / نص؛ eine halbe Stunde | adjective | introduced |
+| V277 | dumm | — | غبي / تصرف غير حكيم؛ Wie dumm! = يا للخسارة | adjective | introduced |
+| V278 | lustig | — | مضحك / مسلّي / مرح | adjective | introduced |
+| V279 | nichts | — | لا شيء / مفيش حاجة | pronoun | introduced |
+| V280 | selbst | — | بنفسه / بنفسها / ذاتيًا / حتى | pronoun_adverb | introduced |
+| V281 | Bescheid sagen | — | يبلغ / يعرّف حد بمعلومة؛ jdm. Bescheid sagen | expression | introduced |
+| V282 | Lust haben (auf) | — | يكون عنده رغبة في حاجة؛ auf + Akk | expression | introduced |
+| V283 | Angst haben (vor) | — | يخاف من؛ vor + Dat | expression | introduced |
+| V284 | Sehr geehrte / Sehr geehrter | — | حضرتك / عزيزي في بداية خطاب رسمي | formal_greeting | introduced |
+| V285 | Mit freundlichen Grüßen | — | مع أطيب التحيات (ختام خطاب رسمي) | formal_closing | introduced |
 
 ## Learning notes
 
