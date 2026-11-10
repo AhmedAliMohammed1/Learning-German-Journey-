@@ -1,4 +1,4 @@
-# Verb curriculum — 290 introduced verbs
+# Verb curriculum — 291 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -298,6 +298,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 288 | kennenlernen | يتعرف على شخص لأول مرة | ich lerne kennen; er lernt kennen | hat kennengelernt | Ich möchte neue Leute kennenlernen. | introduced | Separable kennen-; + Akk; Präteritum lernte kennen. |
 | 289 | ausnehmen | يستثني / ينظف السمك من الأحشاء / يستغل حد ماديًا | ich nehme aus; du nimmst aus; er nimmt aus | hat ausgenommen | Der Koch nimmt den Fisch aus. | introduced | Separable aus-; strong Präteritum nahm aus. `jemanden ausnehmen` can mean exploit financially; `ausgenommen` may mean except. |
 | 290 | aufnehmen | يستقبل / يقبل / يسجّل / يصوّر / يستوعب | ich nehme auf; du nimmst auf; er nimmt auf | hat aufgenommen | Ich nehme ein Video auf. | introduced | Separable auf-; strong Präteritum nahm auf; + Akk object. Related noun: die Aufnahme V287. |
+| 291 | segeln | يبحر بالمركب الشراعي / يمارس الإبحار | ich segle; du segelst; er segelt | ist gesegelt; hat gesegelt (activity focus) | Wir sind gestern auf dem See gesegelt. | introduced | Regular verb; Präteritum segelte; sein commonly for movement, haben possible for sailing as an activity. |
 
 ## How to read the table
 
