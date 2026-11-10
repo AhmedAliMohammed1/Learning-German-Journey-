@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**285 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**286 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -291,6 +291,7 @@
 | V283 | Angst haben (vor) | — | يخاف من؛ vor + Dat | expression | introduced |
 | V284 | Sehr geehrte / Sehr geehrter | — | حضرتك / عزيزي في بداية خطاب رسمي | formal_greeting | introduced |
 | V285 | Mit freundlichen Grüßen | — | مع أطيب التحيات (ختام خطاب رسمي) | formal_closing | introduced |
+| V286 | die Aufnahmeprüfung | die Aufnahmeprüfungen | امتحان القبول / اختبار الالتحاق | noun | introduced |
 
 ## Learning notes
 
