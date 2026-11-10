@@ -10,7 +10,7 @@
 
 ## Latest prior study — 2026-11-07 (Europe/Berlin)
 
-**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **284 introduced verbs**, **253 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
+**Session S02:** selected new everyday verbs on same existing day, introducing **#261–270**. New total **288 introduced verbs**, **285 registered vocabulary entries**. Ten newly introduced forms are *not mastered*. The ten new entries and four pending Arabic→German sentence prompts are saved in [curriculum/verbs.md](curriculum/verbs.md) and [the Nov 7 day log](days/2026-11-07.md).
 
 - New verbs: **261 verbieten**, **262 überlegen**, **263 zurückrufen**, **264 vorhaben**, **265 auffallen**, **266 ausgehen**, **267 sich melden**, **268 behalten**, **269 einfallen**, **270 sich konzentrieren**. Each has Präsens + Perfekt and an example.
 - **Exact next step:** start full-sentence translation `2026-11-07-S02-E01` (four exercises E01–E04 pending, no learner answers yet). Reuse #268 and #269 in follow-up.
@@ -19,3 +19,5 @@
 - **Sync discrepancy:** large `progress.json` still points to November 4, 260 verbs and the older vocabulary count; connector updates failed at large payload size. [B01–B04 pending delta files](sync_pending/) and [new-verb S02 delta](sync_pending/2026-11-07-S02-new-verbs.json) are machine-readable reconciliation sources. Apply idempotently with distinct session IDs S01/S02, preserving all old pending work and attempts. Do not claim complete structured sync yet.
 
 [Study protocol](START_HERE.md) · [Structured progress](progress.json)
+
+**2026-11-10 worksheet batch:** audited photographed *Lernwortschatz* hotel/complaints/appointments page against both complete registers, added 32 vocabulary items (V254–V285) and 4 verbs (#285–#288) without duplicates; documented full IDs, duplicates, and treatment of word forms in [Nov 10 day log](days/2026-11-10.md). Introduced only; progress.json sync pending.
