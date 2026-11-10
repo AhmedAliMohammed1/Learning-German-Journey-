@@ -1,4 +1,4 @@
-# Verb curriculum — 293 introduced verbs
+# Verb curriculum — 294 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -301,6 +301,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 291 | segeln | يبحر بالمركب الشراعي / يمارس الإبحار | ich segle; du segelst; er segelt | ist gesegelt; hat gesegelt (activity focus) | Wir sind gestern auf dem See gesegelt. | introduced | Regular verb; Präteritum segelte; sein commonly for movement, haben possible for sailing as an activity. |
 | 292 | komponieren | يؤلّف موسيقى / يلحّن | ich komponiere; du komponierst; er komponiert | hat komponiert | Er komponiert ein neues Lied. | introduced | Regular -ieren verb: Partizip II without ge-; Präteritum komponierte; Akkusativ object. |
 | 293 | zählen | يعدّ / يحسب / يكون له أهمية | ich zähle; du zählst; er zählt | hat gezählt | Jede Minute zählt. | introduced | Regular verb, Präteritum zählte; zählen zu + Dat = be among, zählen auf + Akk = rely on. |
+| 294 | sich verlieben | يقع في الحب / يحب حد لأول مرة | ich verliebe mich; du verliebst dich; er verliebt sich | hat sich verliebt | Ich habe mich in sie verliebt. | introduced | Reflexive verb, sich verlieben in + Akkusativ; regular, Präteritum verliebte sich; inseparable ver- (no ge-). |
 
 ## How to read the table
 
