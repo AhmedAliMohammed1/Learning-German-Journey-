@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**293 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**294 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -299,6 +299,7 @@
 | V291 | unbedingt | — | ضروري جدًا / لازم / بالتأكيد؛ للتأكيد على الضرورة أو الرغبة | Ich muss unbedingt mit dir sprechen. | لازم أتكلم معاك ضروري. | adverb | introduced |
 | V292 | auf keinen Fall | — | أبدًا / مستحيل / تحت أي ظرف من الظروف | Das darfst du auf keinen Fall machen! | إوعى تعمل كده نهائي! | expression | introduced |
 | V293 | das Gedicht | die Gedichte | قصيدة شعرية / قصائد | Ich lese gern Gedichte. | أنا بحب أقرأ قصائد شعرية. | noun | introduced |
+| V294 | schwierig | — | صعب / معقّد | Die Prüfung war sehr schwierig. | الامتحان كان صعب جدًا. | adverb_or_adjective | introduced |
 
 ## Learning notes
 
