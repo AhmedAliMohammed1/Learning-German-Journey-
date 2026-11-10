@@ -43,3 +43,5 @@
 **2026-11-10:** Added **#293 zählen** (from user `zählt`; hat gezählt), checked full inventories; introduced, not mastered.
 
 **2026-11-10 vocabulary enhancement:** Added permanent `Example (German)` column to all **290 canonical vocabulary entries**, each with a German contextual example. Rule added to AGENTS.md, LEARNING_PROFILE.md and vocabulary learning notes for all future additions. Counts and mastery unchanged. See [day log](days/2026-11-10.md).
+
+**2026-11-10 vocabulary examples translated:** Every existing vocabulary row V001–V290 now includes `Example translation (Egyptian Arabic)` paired with German example. Permanent rule updated in AGENTS.md and LEARNING_PROFILE.md for all future vocabulary (examples AND translations). Counts/mastery unchanged.
