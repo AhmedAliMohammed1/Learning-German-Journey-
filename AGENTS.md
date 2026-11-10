@@ -21,3 +21,7 @@ Progression policy: default to **progression-first** learning. After meaningful 
 
 ## Strict curriculum integrity rule — 2026-10-11
 Before introducing ANY verb or vocabulary item, or creating any exercise, the assistant MUST verify the entire `curriculum/verbs.md` (all rows 1 to end) and `curriculum/vocabulary.md` (all rows V001 to end). Never assume or guess that an item is new based on memory or partial reading. Every proposed item must be checked against the exact existing inventory to ensure 100% uniqueness. Never suggest previously introduced items as new. Always follow the established progression format and learner history exactly.
+
+## Permanent vocabulary example rule — 2026-11-10
+
+When adding or importing **any new vocabulary entry**, write at least **one correct, natural German usage example** in the **Example (German)** column of `curriculum/vocabulary.md` in the same numbered row. Every entry, including old entries and supplements/expressions, must have a populated example; conventional complete greeting/sign-off formulas count for letter phrases. Preserve ID, article, plural, Arabic meaning, type, learning status and past learner evidence. When checking or validating a batch, verify that the number of nonempty example cells equals the number of numbered vocabulary rows. Teaching examples do not count as learner attempts or mastery.
