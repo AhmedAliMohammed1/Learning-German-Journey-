@@ -28,7 +28,7 @@
 
 ## Permanent vocabulary example rule — 2026-11-10
 
-For **every** vocabulary entry, include at least **one natural and grammatically correct German example** inside the `Example (German)` field in `curriculum/vocabulary.md`. For nouns keep their article and plural; for all entries preserve IDs, meanings and statuses. Applies retroactively to the whole inventory and to every new word/batch. Examples are teaching references, not independent student recall or mastery.
+For **every** vocabulary entry, include at least **one natural and grammatically correct German example** inside `Example (German)` **and a faithful Egyptian Arabic translation** inside `Example translation (Egyptian Arabic)` in `curriculum/vocabulary.md`. For nouns keep their article and plural; for all entries preserve IDs, meanings and statuses. Applies retroactively to the whole inventory and to every new word/batch. Examples and their translations are teaching references, not independent student recall or mastery.
 
 ## Correction format
 
