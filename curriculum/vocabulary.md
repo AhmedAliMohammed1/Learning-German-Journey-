@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**300 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**329 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -306,6 +306,35 @@
 | V298 | die Notiz | die Notizen | ملاحظة مكتوبة / ملاحظات | Ich mache mir Notizen während der Vorlesung. | أنا بكتب ملاحظات لنفسي أثناء المحاضرة. | noun | introduced |
 | V299 | der Traumberuf | die Traumberufe | وظيفة الأحلام / المهنة اللي نفسك تشتغل فيها | Mein Traumberuf ist Softwareentwickler. | وظيفة أحلامي إني أكون مطوّر برمجيات. | noun | introduced |
 | V300 | eigentlich | — | في الحقيقة / في الأصل / أصلاً / لتلطيف السؤال حسب السياق | Eigentlich wollte ich heute lernen, aber ich bin müde. | أنا في الحقيقة كنت ناوي أذاكر النهارده، بس أنا تعبان. | adverb_or_adjective | introduced |
+| V301 | die Klasse | die Klassen | فصل / صف دراسي | Unsere Klasse macht morgen einen Ausflug. | فصلنا هيعمل رحلة بكرة. | noun | introduced |
+| V302 | der Führerschein | die Führerscheine | رخصة القيادة | Ich möchte meinen Führerschein machen. | أنا عايز أطلع رخصة قيادة. | noun | introduced |
+| V303 | die Sängerin | die Sängerinnen | مطربة / مغنية | Meine Schwester möchte Sängerin werden. | أختي نفسها تبقى مطربة. | noun | introduced |
+| V304 | der Wunsch | die Wünsche | أمنية / رغبة | Ich habe einen großen Wunsch. | عندي أمنية كبيرة. | noun | introduced |
+| V305 | das Jahr | die Jahre | سنة / عام | Nächstes Jahr fahre ich nach Deutschland. | السنة الجاية هسافر ألمانيا. | noun | introduced |
+| V306 | Australien | — | أستراليا | Er möchte durch Australien reisen. | هو عايز يسافر في أستراليا. | place_name | introduced |
+| V307 | allein | — | لوحده / بمفرده | Ich möchte allein wohnen. | أنا عايز أسكن لوحدي. | adverb_or_adjective | introduced |
+| V308 | der Berufswunsch | die Berufswünsche | المهنة اللي الشخص عايز يشتغلها | Meine Eltern kennen meinen Berufswunsch. | أهلي عارفين أنا نفسي أشتغل إيه. | noun | introduced |
+| V309 | die Ausbildung | die Ausbildungen | تدريب مهني / تأهيل مهني | Sie macht eine Ausbildung zur Köchin. | هي بتعمل تدريب مهني عشان تبقى شيف. | noun | introduced |
+| V310 | die Kreditkarte | die Kreditkarten | بطاقة ائتمان | Ich bezahle mit meiner Kreditkarte. | أنا بدفع ببطاقة الائتمان بتاعتي. | noun | introduced |
+| V311 | immer | — | دايمًا | Er liest immer im Zug. | هو دايمًا بيقرأ في القطر. | adverb_or_adjective | introduced |
+| V312 | nie | — | أبدًا / ولا مرة | Ich trinke nie Kaffee am Abend. | أنا عمري ما بشرب قهوة بالليل. | adverb_or_adjective | introduced |
+| V313 | Dänisch | — | اللغة الدنماركية | Ich möchte Dänisch lernen. | أنا عايز أتعلم دنماركي. | language_name | introduced |
+| V314 | der Popstar | die Popstars | نجم غناء بوب | Sie möchte Popstar werden. | هي نفسها تبقى نجمة بوب. | noun | introduced |
+| V315 | der Politiker | die Politiker | سياسي / رجل سياسة | Mein Onkel ist Politiker. | عمي سياسي. | noun | introduced |
+| V316 | das Wetter | — | الجو / الطقس | Das Wetter ist heute schlecht. | الجو وحش النهارده. | noun | introduced |
+| V317 | schlecht | — | سيئ / وحش | Mir geht es heute schlecht. | أنا مش كويس النهارده. | adverb_or_adjective | introduced |
+| V318 | Französisch | — | اللغة الفرنسية | Sie lernt jeden Tag Französisch. | هي بتتعلم فرنساوي كل يوم. | language_name | introduced |
+| V319 | wichtig | — | مهم | Dieser Termin ist sehr wichtig. | الموعد ده مهم جدًا. | adverb_or_adjective | introduced |
+| V320 | vielleicht | — | يمكن / ربما | Vielleicht komme ich morgen. | يمكن أجي بكرة. | adverb_or_adjective | introduced |
+| V321 | bald | — | قريبًا | Wir sehen uns bald. | هنشوف بعض قريب. | adverb_or_adjective | introduced |
+| V322 | nur | — | بس / فقط | Ich habe nur zehn Euro. | معايا عشرة يورو بس. | adverb_or_adjective | introduced |
+| V323 | ein paar | — | كام / شوية (مع اسم جمع) | Ich bleibe ein paar Tage hier. | هفضل هنا كام يوم. | expression | introduced |
+| V324 | nächstes Jahr | — | السنة الجاية | Nächstes Jahr will ich mehr reisen. | السنة الجاية عايز أسافر أكتر. | expression | introduced |
+| V325 | viel | mehr; am meisten | كتير / كمية كبيرة | Ich habe heute viel Arbeit. | عندي شغل كتير النهارده. | adverb_or_adjective | introduced |
+| V326 | mit | + Dativ | مع / باستخدام | Ich fahre mit meinem Freund. | أنا بسافر مع صاحبي. | preposition | introduced |
+| V327 | weiter | — | يكمل / زيادة / أبعد، حسب السياق | Wie geht es weiter? | إيه اللي هيحصل بعد كده؟ | adverb_or_adjective | introduced |
+| V328 | die Hausaufgabe | die Hausaufgaben | واجب مدرسي / واجبات | Ich mache jetzt meine Hausaufgaben. | أنا بعمل واجباتي دلوقتي. | noun | introduced |
+| V329 | der April | — | شهر أبريل | Im April habe ich Urlaub. | عندي إجازة في أبريل. | noun | introduced |
 
 ## Learning notes
 
