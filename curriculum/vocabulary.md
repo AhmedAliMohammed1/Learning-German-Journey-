@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**295 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**296 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -301,6 +301,7 @@
 | V293 | das Gedicht | die Gedichte | قصيدة شعرية / قصائد | Ich lese gern Gedichte. | أنا بحب أقرأ قصائد شعرية. | noun | introduced |
 | V294 | schwierig | — | صعب / معقّد | Die Prüfung war sehr schwierig. | الامتحان كان صعب جدًا. | adverb_or_adjective | introduced |
 | V295 | schön | schöner; am schönsten; schönste (attributive superlative) | جميل / حلو؛ الأجمل في صيغة schönste | Das ist der schönste Tag meines Lebens. | ده أجمل يوم في حياتي. | adverb_or_adjective | introduced |
+| V296 | vital | — | مفعم بالحيوية / نشيط / بصحة وحيوية كويسة | Mein Großvater ist noch sehr vital. | جدي لسه نشيط جدًا ومليان حيوية. | adverb_or_adjective | introduced |
 
 ## Learning notes
 
