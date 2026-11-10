@@ -1,4 +1,4 @@
-# Verb curriculum — 291 introduced verbs
+# Verb curriculum — 292 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -299,6 +299,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 289 | ausnehmen | يستثني / ينظف السمك من الأحشاء / يستغل حد ماديًا | ich nehme aus; du nimmst aus; er nimmt aus | hat ausgenommen | Der Koch nimmt den Fisch aus. | introduced | Separable aus-; strong Präteritum nahm aus. `jemanden ausnehmen` can mean exploit financially; `ausgenommen` may mean except. |
 | 290 | aufnehmen | يستقبل / يقبل / يسجّل / يصوّر / يستوعب | ich nehme auf; du nimmst auf; er nimmt auf | hat aufgenommen | Ich nehme ein Video auf. | introduced | Separable auf-; strong Präteritum nahm auf; + Akk object. Related noun: die Aufnahme V287. |
 | 291 | segeln | يبحر بالمركب الشراعي / يمارس الإبحار | ich segle; du segelst; er segelt | ist gesegelt; hat gesegelt (activity focus) | Wir sind gestern auf dem See gesegelt. | introduced | Regular verb; Präteritum segelte; sein commonly for movement, haben possible for sailing as an activity. |
+| 292 | komponieren | يؤلّف موسيقى / يلحّن | ich komponiere; du komponierst; er komponiert | hat komponiert | Er komponiert ein neues Lied. | introduced | Regular -ieren verb: Partizip II without ge-; Präteritum komponierte; Akkusativ object. |
 
 ## How to read the table
 
