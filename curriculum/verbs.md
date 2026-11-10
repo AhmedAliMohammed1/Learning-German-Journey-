@@ -1,4 +1,4 @@
-# Verb curriculum — 294 introduced verbs
+# Verb curriculum — 300 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -302,6 +302,12 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 292 | komponieren | يؤلّف موسيقى / يلحّن | ich komponiere; du komponierst; er komponiert | hat komponiert | Er komponiert ein neues Lied. | introduced | Regular -ieren verb: Partizip II without ge-; Präteritum komponierte; Akkusativ object. |
 | 293 | zählen | يعدّ / يحسب / يكون له أهمية | ich zähle; du zählst; er zählt | hat gezählt | Jede Minute zählt. | introduced | Regular verb, Präteritum zählte; zählen zu + Dat = be among, zählen auf + Akk = rely on. |
 | 294 | sich verlieben | يقع في الحب / يحب حد لأول مرة | ich verliebe mich; du verliebst dich; er verliebt sich | hat sich verliebt | Ich habe mich in sie verliebt. | introduced | Reflexive verb, sich verlieben in + Akkusativ; regular, Präteritum verliebte sich; inseparable ver- (no ge-). |
+| 295 | weitergehen | يكمل / يستمر / يمشي لقدّام | ich gehe weiter; du gehst weiter; er geht weiter | ist weitergegangen | Wie geht es weiter? | introduced | Separable weiter-; Präteritum ging weiter. |
+| 296 | werden | يصبح / يبقى؛ مساعد للمستقبل | ich werde; du wirst; er wird | ist geworden | Ich möchte Lehrer werden. | introduced | Irregular; Präteritum wurde; infinitive after wollen. |
+| 297 | heiraten | يتجوز / يتزوج | ich heirate; du heiratest; er heiratet | hat geheiratet | Wann wollt ihr heiraten? | introduced | Regular; Präteritum heiratete; Akkusativ possible. |
+| 298 | übersetzen | يترجم | ich übersetze; du übersetzt; er übersetzt | hat übersetzt | Sie möchte Bücher übersetzen. | introduced | Inseparable über- when meaning translate; Präteritum übersetzte. |
+| 299 | leben | يعيش | ich lebe; du lebst; er lebt | hat gelebt | David möchte allein leben. | introduced | Regular; Präteritum lebte; noun das Leben already V269. |
+| 300 | sprechen | يتكلم / يتحدث | ich spreche; du sprichst; er spricht | hat gesprochen | Er spricht vier Fremdsprachen. | introduced | Irregular; Präteritum sprach; sprechen mit + Dativ; construction V093 already. |
 
 ## How to read the table
 
