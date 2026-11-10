@@ -26,6 +26,10 @@
 - Track verb competence separately by tense. A verb can be strong in present use but still unresolved in Perfekt, or the reverse.
 - Unless explicitly requested otherwise, "past" in this learning journey means **Perfekt**.
 
+## Permanent vocabulary example rule — 2026-11-10
+
+For **every** vocabulary entry, include at least **one natural and grammatically correct German example** inside the `Example (German)` field in `curriculum/vocabulary.md`. For nouns keep their article and plural; for all entries preserve IDs, meanings and statuses. Applies retroactively to the whole inventory and to every new word/batch. Examples are teaching references, not independent student recall or mastery.
+
 ## Correction format
 
 1. Quote the learner's full German answer.
