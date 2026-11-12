@@ -1,5 +1,10 @@
 # Current study state
 
+## Image reading — 2026-11-12: Ich liebe alle Tiere / Tierärztin
+
+- Screenshot `Ich liebe alle Tiere. Also will ich später mal Tierärztin werden. Das ist doch klar!` translated and explained; existing #296 werden, V070 später, V181 mal, V182 doch reused without duplication. Full canonical duplicate audit passed. Added **#312 lieben** (`hat geliebt`), **V379 das Tier** (`die Tiere`), **V380 der Tierarzt / die Tierärztin** (`die Tierärzte / die Tierärztinnen`), **V381 also**, **V382 klar**, **V383 alle**; every new entry has a German example and Egyptian Arabic translation. Introduced only, not mastered. Current counts **312 verbs / 383 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Existing paused reviews and large progress.json reconciliation unchanged.
+
+
 ## Image reading — 2026-11-12: Nach dem Abitur will ich erst mal Urlaub machen
 
 - Image text: `Nach dem Abitur will ich erst mal Urlaub machen.` = بعد ما أخلص الثانوية العامة، عايز الأول آخد إجازة. Explained `nach + Dativ`, `erst mal` vs `zum ersten Mal`, modal `will` + final infinitive. Existing **#30 wollen** retained without duplication. Full vocab audit passed; added **V375 das Abitur**, **V376 der Urlaub**, **V377 erst mal**, **V378 nach**, each with German example and Egyptian Arabic translation; all introduced, not mastered. Canonical counts **311 verbs / 378 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Prior pending review and large structured progress.json reconciliation unchanged.
