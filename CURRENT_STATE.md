@@ -1,5 +1,10 @@
 # Current study state
 
+## Grammar checkpoint — 2026-11-12: Komparativ / Superlativ
+
+- Learner independently answered 4 mini-test prompts: 1 `älter` ✅, 2 `am schnellsten` ✅, 3 `wie` ✅, 4 `am besten` ❌, expected `das beste` in `Das ist das beste Buch.`. Score **3/4 = 75%**. Targeted retest: **attributive Superlativ with definite article vs predicative `am ...sten`**. Raw responses and full grading stored in [Nov 12 day log](days/2026-11-12.md). Preserve the incorrect Q4 for future review, no mastery promotion; existing inventory **302 verbs / 339 vocabulary** unchanged.
+
+
 ## Vocabulary intake — 2026-11-12: Ratschläge / Leuten
 
 - Added **V338 der Ratschlag** (die Ratschläge, Dativ `den Ratschlägen`, نصيحة) and **V339 die Leute** (plural only, Dativ `den Leuten`, الناس) after complete verb/vocabulary duplicate audit. Both include German example and Egyptian Arabic translation. Introduced, not mastered. Current canonical totals **302 verbs / 339 vocabulary**. Logged in [Nov 12 day log](days/2026-11-12.md); prior pending work and structured `progress.json` sync issue preserved.
