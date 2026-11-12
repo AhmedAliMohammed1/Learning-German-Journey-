@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-12: Arm / Bein
+
+- Learner gave inflected forms `armen` and `beinen`. Full duplicate audit passed; registered **V336 der Arm**, plural `die Arme` / Dativ plural `den Armen`, and **V337 das Bein**, plural `die Beine` / Dativ plural `den Beinen`. Each new row contains a German usage example with matching Egyptian Arabic translation. Introduced only, not mastered. Current canonical count **301 verbs / 337 vocabulary entries**. See [Nov 12 day log](days/2026-11-12.md). Previous pending work unchanged; structured `progress.json` reconciliation still pending.
+
+
 ## Vocabulary addition — 2026-11-12: Fieber
 
 - Added **V335 das Fieber**, normally no plural, الحُمّى / السخونية, with bilingual example `Das Fieber ist nicht zu hoch.` = السخونية مش عالية زيادة عن اللزوم. Learner submitted lowercase `das fieber ist nicht zu hoch`; corrected noun capitalization, meaning and sentence structure correct. Full inventory duplicate audit passed. Status introduced, not mastered. Current count: **301 verbs / 335 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Older pending work unchanged; large structured progress sync remains outstanding.
