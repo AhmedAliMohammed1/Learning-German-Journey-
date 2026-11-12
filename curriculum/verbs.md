@@ -1,4 +1,4 @@
-# Verb curriculum — 300 introduced verbs
+# Verb curriculum — 301 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -308,6 +308,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 298 | übersetzen | يترجم | ich übersetze; du übersetzt; er übersetzt | hat übersetzt | Sie möchte Bücher übersetzen. | introduced | Inseparable über- when meaning translate; Präteritum übersetzte. |
 | 299 | leben | يعيش | ich lebe; du lebst; er lebt | hat gelebt | David möchte allein leben. | introduced | Regular; Präteritum lebte; noun das Leben already V269. |
 | 300 | sprechen | يتكلم / يتحدث | ich spreche; du sprichst; er spricht | hat gesprochen | Er spricht vier Fremdsprachen. | introduced | Irregular; Präteritum sprach; sprechen mit + Dativ; construction V093 already. |
+| 301 | schlagen | يضرب / يخبط؛ يهزم في منافسة؛ يدقّ (القلب) | ich schlage; du schlägst; er schlägt | hat geschlagen | Mein Herz schlägt schnell. | introduced | Strong verb; Akk object when hitting/defeating; gegen + Akk for knocking against something; distinct from #153 vorschlagen. |
 
 ## How to read the table
 
