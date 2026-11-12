@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary additions — 2026-11-12: Nonne and Kräuter
+
+- Added **V330 die Nonne** (plural `die Nonnen`, راهبة) and **V331 das Kraut** (plural `die Kräuter`, عشبة/أعشاب) after complete inventory audit. Both rows contain a natural German example and Egyptian Arabic translation. See [Nov 12 day log](days/2026-11-12.md). Status introduced only. Canonical totals: **301 verbs / 331 vocabulary entries**. Old exercises preserved; `progress.json` remains pending reconciliation.
+
+
 ## Vocabulary intake — 2026-11-12
 
 - Added canonical verb **#301 schlagen** (يخبط / يضرب / يهزم / يدق القلب; Präsens `ich schlage, du schlägst, er schlägt`; Perfekt `hat geschlagen`). Checked full 300-verb and 329-vocabulary inventories first; `vorschlagen` #153 already existed and was not duplicated. Newly **introduced**, not mastered. See [Nov 12 day log](days/2026-11-12.md). Current totals: **301 verbs and 329 registered vocabulary entries**. Structured progress.json sync still pending; previously paused review untouched.
