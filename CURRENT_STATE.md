@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Sachbearbeiter
+
+- Learner wrote `schachbearbeite`; likely spelling **Sachbearbeiter** verified in German dictionaries, corrected provisionally. Added **V364 der Sachbearbeiter / die Sachbearbeiterin** (plural `die Sachbearbeiter / die Sachbearbeiterinnen`) = موظف/موظفة مختصة بالطلبات والملفات, with `Der Sachbearbeiter bearbeitet meinen Antrag.` = الموظف المختص بيراجع طلبي. Full canonical duplicate audit passed. Introduced, not mastered. Totals **309 verbs / 364 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Deferred review work and progress.json reconciliation unchanged.
+
+
 ## Vocabulary/verb intake — 2026-11-12: Da hieß
 
 - Learner submitted fragment `Da hieß`. Registered **#309 heißen** = اسمه / يعني, Präteritum `hieß`, Perfekt `hat geheißen`, example `Früher hieß die Stadt anders.` = زمان المدينة كان اسمها مختلف. Registered **V363 da** = هناك / ساعتها / بما إن, example `Da war ich noch jung.` = ساعتها كنت لسه صغير. Checked full registers for duplicates; fragment remains incomplete absent context. Both introduced, not mastered. Totals **309 verbs / 363 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Pending review history and large progress.json reconciliation unchanged.
