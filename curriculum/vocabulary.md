@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**354 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**356 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -360,6 +360,8 @@
 | V352 | die Nase | die Nasen | الأنف / المناخير | Meine Nase läuft. | مناخيري بتسيل. | noun | introduced |
 | V353 | der Mund | die Münder | الفم / البُق | Mach bitte den Mund auf. | افتح بقك لو سمحت. | noun | introduced |
 | V354 | das Heilkraut | die Heilkräuter | عشبة طبية / أعشاب طبية علاجية | Meine Oma benutzt Heilkräuter für ihren Tee. | جدتي بتستخدم أعشاب طبية في الشاي بتاعها. | noun | introduced |
+| V355 | das Kloster | die Klöster | الدير / الأديرة؛ مكان الرهبان أو الراهبات | Die Nonne lebt in einem Kloster. | الراهبة عايشة في دير. | noun | introduced |
+| V356 | Biberach (an der Riß) | —; Ortsname | بيبراخ؛ مدينة ألمانية في بادن فورتمبيرغ | Ich fahre morgen nach Biberach. | أنا مسافر بيبراخ بكرة. | proper_name | introduced |
 
 ## Learning notes
 
