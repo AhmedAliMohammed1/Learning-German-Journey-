@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Husten
+
+- Added **V332 der Husten** (الكحة / السعال; usually no plural), German example `Ich habe starken Husten.` and Egyptian Arabic translation `عندي كحة شديدة.`, after full inventory audit. Related verb `husten` explained but not newly registered. Canonical inventory **301 verbs / 332 vocabulary entries**, introduced not mastered. See [Nov 12 day log](days/2026-11-12.md). Structured `progress.json` synchronization pending.
+
+
 ## Vocabulary additions — 2026-11-12: Nonne and Kräuter
 
 - Added **V330 die Nonne** (plural `die Nonnen`, راهبة) and **V331 das Kraut** (plural `die Kräuter`, عشبة/أعشاب) after complete inventory audit. Both rows contain a natural German example and Egyptian Arabic translation. See [Nov 12 day log](days/2026-11-12.md). Status introduced only. Canonical totals: **301 verbs / 331 vocabulary entries**. Old exercises preserved; `progress.json` remains pending reconciliation.
