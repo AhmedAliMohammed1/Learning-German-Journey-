@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**362 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**363 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -368,6 +368,7 @@
 | V360 | der Betrieb | die Betriebe | شركة / منشأة أو التشغيل حسب السياق | Die Maschine ist in Betrieb. | الماكينة شغالة. | noun | introduced |
 | V361 | das Versprechen | die Versprechen | وعد / وعود | Er hat sein Versprechen gehalten. | هو وفّى بوعده. | noun | introduced |
 | V362 | die Wirklichkeit | normalerweise kein Plural | الحقيقة / الواقع؛ wirklich + -keit | In Wirklichkeit ist er sehr nett. | في الحقيقة هو لطيف جدًا. | noun | introduced |
+| V363 | da | — | هناك / هنا / ساعتها؛ وقد تأتي بمعنى بما أن | Da war ich noch jung. | ساعتها كنت لسه صغير. | adverb_or_conjunction | introduced |
 
 ## Learning notes
 
