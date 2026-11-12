@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**331 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**332 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -337,6 +337,7 @@
 | V329 | der April | — | شهر أبريل | Im April habe ich Urlaub. | عندي إجازة في أبريل. | noun | introduced |
 | V330 | die Nonne | die Nonnen | راهبة / واحدة مكرّسة حياتها للدين | Die Nonne lebt in einem Kloster. | الراهبة عايشة في دير. | noun | introduced |
 | V331 | das Kraut | die Kräuter | عشبة / أعشاب، خصوصًا للطعام أو الشاي | Ich benutze frische Kräuter zum Kochen. | أنا بستخدم أعشاب طازة في الطبخ. | noun | introduced |
+| V332 | der Husten | normalerweise kein Plural | الكحة / السعال | Ich habe starken Husten. | عندي كحة شديدة. | noun | introduced |
 
 ## Learning notes
 
