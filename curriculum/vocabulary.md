@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**365 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**366 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -371,6 +371,7 @@
 | V363 | da | — | هناك / هنا / ساعتها؛ وقد تأتي بمعنى بما أن | Da war ich noch jung. | ساعتها كنت لسه صغير. | adverb_or_conjunction | introduced |
 | V364 | der Sachbearbeiter / die Sachbearbeiterin | die Sachbearbeiter / die Sachbearbeiterinnen | الموظف أو الموظفة المختصة بملف أو طلب | Der Sachbearbeiter bearbeitet meinen Antrag. | الموظف المختص بيراجع طلبي. | noun | introduced |
 | V365 | der Erfolg | die Erfolge | النجاح / الإنجاز | Ich wünsche dir viel Erfolg! | بتمنالك نجاح كبير / بالتوفيق! | noun | introduced |
+| V366 | der Apparat | die Apparate | جهاز / تليفون؛ am Apparat = معاك على التليفون | Müller am Apparat. | معاك مولر على التليفون. | noun | introduced |
 
 ## Learning notes
 
