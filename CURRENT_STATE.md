@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-12: Büsche and Hecken
+
+- Learner submitted plural `Büsche` and `Hecken`. Full canonical duplicate check passed; added **V369 der Busch**, plural `die Büsche` = شُجيرة / شجيرات, and **V370 die Hecke**, plural `die Hecken` = سياج نباتي / سور من الشجيرات. Each entry includes German example and Egyptian Arabic translation. Introduced, not mastered. Canonical totals **309 verbs / 370 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused reviews and large structured progress.json reconciliation preserved.
+
+
 ## Vocabulary addition — 2026-11-12: verschieden
 
 - Registered **V368 verschieden** (Adjektiv) = مختلف / متنوع. It previously appeared in the V357 example only; full canonical duplicate audit passed. Example `Wir haben verschiedene Meinungen.` = إحنا عندنا آراء مختلفة. Adjective inflections and difference from `anders` explained. Introduced only, not mastered. Canonical totals **309 verbs / 368 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Prior deferred reviews and large progress.json reconciliation unchanged.
