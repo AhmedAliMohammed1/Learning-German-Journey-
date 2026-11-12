@@ -1,5 +1,16 @@
 # Current study state
 
+## Latest review checkpoint — 2026-11-12 (Europe/Berlin)
+
+**Targeted infinitive recall paused; returned to main menu.** Two answered batches, **100 distinct verbs** (#251–300, #201–250), recorded with all verbatim answers, scores and corrections in [Nov 12 day log](days/2026-11-12.md). Round 1: **43/50** accepted; seven spelling/lemma errors. Round 2: **43/50** exact target form accepted + **one semantic alternative** (#231 wischen, exact abwischen unconfirmed); six incorrect. Combined 86 target-form correct + one semantic alternative, **13 errors**, one target unconfirmed. This is **infinitive isolated recall evidence only**, not Perfekt or context mastery.
+
+**Exact next step (if targeted practice resumed):** round 3 #151–200 was *shown but unanswered*; review its 50 items if chosen, then retry 13 errors and #231, plus remaining verbs and vocabulary as selected. Student explicitly paused and returned to main menu. Leave prior Nov 7 sentence E01–E04, B05, and earlier pending work intact. November 12 log is direct learner evidence. No new words or verbs introduced. Current inventory 300 verbs / 329 vocabulary.
+
+**Sync warning:** `progress.json` still contains stale Nov 4 snapshot due to large payload; do NOT treat it as full updated evidence. The day log and older `sync_pending` sources remain required for reconciliation. No fabricated mastery promotions or completion.
+
+**New instruction from learner:** for each future German word they send, translate/explain in Egyptian Arabic, cross-check both full inventories for duplicates, add genuinely new items to the appropriate canonical register with a natural German example + Egyptian Arabic example translation, and persist changes to GitHub.
+
+
 ## Latest update — 2026-11-09 (Europe/Berlin)
 
 **Vocabulary:** added **V203 der Einwohner**, **V204 die Kunst**, and **V205–V217** (13 items), plus **V218 der Laden** and **V219 das Geschäft** and **V220 besonders**, **V221 ganz**, and **V222 die Welt** and **V223 die Veranstaltung** and **V224 die Landschaft** and **V225 das Schnucki**, and **V226 das Lied**, **V227 zu zweit**, and **V228 laut** and **V229 denn** and **V230 genervt** and **V231 der Föhn** and **V232 der Alarmknopf** and **V233 die Etage** and **V234 wohl** and **V235 das Ding** and **V236 nun** and **V237 die Geschäftsreise** and **V238 die Sitzung** and **V239 wahrscheinlich** and **V240 das Navi** and **V241 seltsam** and **V242 der Turm** and **V243 bisher** and **V244 gemeinsam** and **V245 hoffentlich** and **V246 herum** and **V247 die Überraschung** and **V248 das Rätsel** and **V249 darum** and **V250 das Kärtchen** and **V251 auswendig** and **V252 die Beschwerde** and **V253 sicher**; **#271 lagern** and **#272 nennen** and **#273 vorlesen** and **#274 betonen** and **#275 feststecken** and **#276 tun** and **#277 reagieren** and **#278 beschäftigen** and **#279 überfliegen** and **#280 sich verhalten** and **#281 bellen** and **#282 streicheln** and **#283 ansehen** and **#284 lachen** added to verbs (plural **die Einwohner**, ساكن / أحد سكان مدينة أو منطقة), all introduced, not mastered. Logged in [Nov 9 day log](days/2026-11-09.md). Previous pending exercises and Nov 7 study checkpoints unchanged.
