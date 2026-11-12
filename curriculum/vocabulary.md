@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**371 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**372 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -377,6 +377,7 @@
 | V369 | der Busch | die Büsche | شُجيرة / شجيرات؛ نبات كثيف الأغصان | Im Garten wachsen viele Büsche. | فيه شجيرات كتير بتنمو في الجنينة. | noun | introduced |
 | V370 | die Hecke | die Hecken | سياج نباتي / سور من الشجيرات | Die Hecke ist sehr hoch. | السياج النباتي عالي جدًا. | noun | introduced |
 | V371 | die Rasse | die Rassen | سلالة / سلالات (خصوصًا للحيوانات)؛ مصطلح بشري تاريخي/اجتماعي حسب السياق | Es gibt viele verschiedene Hunderassen. | فيه سلالات كلاب مختلفة كتير. | noun | introduced |
+| V372 | dick | — (Adjektiv: dicker; am dicksten) | تخين / سميك / تقيل حسب السياق | Das Buch ist sehr dick. | الكتاب ده تخين جدًا. | adjective | introduced |
 
 ## Learning notes
 
