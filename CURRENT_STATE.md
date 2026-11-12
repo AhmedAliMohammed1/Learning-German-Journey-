@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb addition — 2026-11-12: zeichnen
+
+- Registered **#306 zeichnen** = يرسم, Präsens `ich zeichne / du zeichnest / er zeichnet`, Perfekt `hat gezeichnet`, German example `Ich zeichne ein Haus.` = أنا برسم بيت. Full duplicate audit of 305 verbs and 358 vocabulary entries passed. Compared to `malen`. Introduced, not mastered. Canonical totals **306 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous pending work and progress.json reconciliation unchanged.
+
+
 ## Verb intake — 2026-11-12: heilen / erscheinen
 
 - Completed earlier interrupted registration of **#304 heilen**, meaning يشفي / يلتئم, Perfekt `hat geheilt`, example `Die Wunde heilt langsam.` = الجرح بيلتئم ببطء.
