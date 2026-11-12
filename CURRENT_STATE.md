@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: verschieden
+
+- Registered **V368 verschieden** (Adjektiv) = مختلف / متنوع. It previously appeared in the V357 example only; full canonical duplicate audit passed. Example `Wir haben verschiedene Meinungen.` = إحنا عندنا آراء مختلفة. Adjective inflections and difference from `anders` explained. Introduced only, not mastered. Canonical totals **309 verbs / 368 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Prior deferred reviews and large progress.json reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Strom
 
 - Learner submitted `strom`; normalized noun capitalization `der Strom`, plural `die Ströme`. After auditing all 366 vocabulary and 309 verbs, registered **V367** = الكهرباء / التيار الكهربائي, bilingual example `Wir haben keinen Strom.` = الكهربا قاطعة عندنا. Introduced only, not mastered. Canonical totals **309 verbs / 367 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior deferred reviews and large progress.json discrepancy unchanged.
