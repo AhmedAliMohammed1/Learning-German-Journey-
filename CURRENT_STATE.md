@@ -1,5 +1,10 @@
 # Current study state
 
+## Image reading — 2026-11-12: ein Fest machen versus festmachen
+
+- Learner provided image: `Zu meinem 50. Geburtstag will ich ein Fest machen. Nur für Frauen. Ohne Männer.`. Explained **ein Fest machen** = يعمل حفلة (noun `Fest`) vs existing **#311 festmachen** = يثبّت / يربط (separable verb). Full canonical duplicate check passed. Registered **V373 das Fest**, plural `die Feste`, example `Zu meinem Geburtstag mache ich ein Fest.` = بمناسبة عيد ميلادي هعمل حفلة; **V374 der Geburtstag**, plural `die Geburtstage`, example `Zu meinem 50. Geburtstag will ich ein Fest machen.` = بمناسبة عيد ميلادي الخمسين عايز أعمل حفلة. Both introduced only, not mastered. Totals **311 verbs / 374 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Previous pending work and large progress.json sync issue unchanged.
+
+
 ## Verb intake — 2026-11-12: festmachen
 
 - Learner submitted `fest machen`; normalized **festmachen**, separable regular verb. Full canonical duplicate check passed; added **#311 festmachen** = يثبّت / يربط بإحكام / يرسّي مركب; Präteritum `machte fest`, Perfekt `hat festgemacht`. Example `Ich mache das Fahrrad am Zaun fest.` = أنا بربط العجلة في السور. Distinguish existing #275 `feststecken`. Introduced, not mastered. Totals **311 verbs / 372 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Earlier deferred review and large structured progress.json sync issue unchanged.
