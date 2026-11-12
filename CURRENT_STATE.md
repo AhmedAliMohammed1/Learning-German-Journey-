@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Salbei
+
+- Registered **V358 der Salbei** = الميرمية / المريمية, normally no everyday plural (botanical `die Salbeien`), with `Ich trinke Salbeitee.` = أنا بشرب شاي الميرمية. Full duplicate audit passed; distinct from existing V334 `die Salbe` (ointment). Introduced, not mastered. Canonical totals **303 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Existing pending reviews and progress.json sync issue unchanged.
+
+
 ## Vocabulary and morphology — 2026-11-12: Krankheit / -heit
 
 - User supplied `Krankheiten` and asked about final `heiten`. Duplicate audit passed; registered **V357 die Krankheit**, plural `die Krankheiten` = المرض / الأمراض, bilingual example `Es gibt viele verschiedene Krankheiten.` = فيه أمراض مختلفة كتير. Taught adjective-to-noun `-heit/-keit` suffix and plural `-en` (no independent `-heiten` suffix); examples are teaching-only, not registered. Introduced, not mastered. Canonical total **303 verbs / 357 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Pending reviews and large progress.json sync discrepancy unchanged.
