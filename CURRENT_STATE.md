@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb addition — 2026-11-12: aussehen
+
+- Learner provided `aussehen`. Full canonical audit passed; added new **#308 aussehen** = يبدو / شكله عامل إزاي, separable `ich sehe aus; du siehst aus; er sieht aus`, Perfekt `hat ausgesehen`; `Du siehst heute gut aus.` = إنت شكلك حلو النهارده. Distinct from existing `ansehen`. Introduced, not mastered. Canonical totals **308 verbs / 361 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Paused activities and `progress.json` sync issue remain.
+
+
 ## Phrase correction and vocabulary — 2026-11-12: Versprechen
 
 - Learner wrote `So weit Ihre versprechen`. Explained tentative intended idiom `So viel zu Ihren Versprechen!`, alternate verbal `Sie versprechen ...`, and `so weit` vs `soweit`. Full inventory audit found already existing verb **#126 versprechen** (not duplicated). Registered **V361 das Versprechen**, plural `die Versprechen` = وعد / وعود, German example `Er hat sein Versprechen gehalten.` = هو وفّى بوعده. Introduced only, no mastery claim. Canonical totals **307 verbs / 361 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior pending reviews and large progress.json sync discrepancy unchanged.
