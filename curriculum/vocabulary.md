@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**329 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**331 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -335,6 +335,8 @@
 | V327 | weiter | — | يكمل / زيادة / أبعد، حسب السياق | Wie geht es weiter? | إيه اللي هيحصل بعد كده؟ | adverb_or_adjective | introduced |
 | V328 | die Hausaufgabe | die Hausaufgaben | واجب مدرسي / واجبات | Ich mache jetzt meine Hausaufgaben. | أنا بعمل واجباتي دلوقتي. | noun | introduced |
 | V329 | der April | — | شهر أبريل | Im April habe ich Urlaub. | عندي إجازة في أبريل. | noun | introduced |
+| V330 | die Nonne | die Nonnen | راهبة / واحدة مكرّسة حياتها للدين | Die Nonne lebt in einem Kloster. | الراهبة عايشة في دير. | noun | introduced |
+| V331 | das Kraut | die Kräuter | عشبة / أعشاب، خصوصًا للطعام أو الشاي | Ich benutze frische Kräuter zum Kochen. | أنا بستخدم أعشاب طازة في الطبخ. | noun | introduced |
 
 ## Learning notes
 
