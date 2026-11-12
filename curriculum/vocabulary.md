@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**367 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**368 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -373,6 +373,7 @@
 | V365 | der Erfolg | die Erfolge | النجاح / الإنجاز | Ich wünsche dir viel Erfolg! | بتمنالك نجاح كبير / بالتوفيق! | noun | introduced |
 | V366 | der Apparat | die Apparate | جهاز / تليفون؛ am Apparat = معاك على التليفون | Müller am Apparat. | معاك مولر على التليفون. | noun | introduced |
 | V367 | der Strom | die Ströme | الكهرباء / التيار الكهربائي؛ تيار مائي أو نهر كبير حسب السياق | Wir haben keinen Strom. | الكهربا قاطعة عندنا. | noun | introduced |
+| V368 | verschieden | — (Adjektiv; dekliniert: verschiedene, verschiedenen) | مختلف / متنوع / عدة أنواع من | Wir haben verschiedene Meinungen. | إحنا عندنا آراء مختلفة. | adjective | introduced |
 
 ## Learning notes
 
