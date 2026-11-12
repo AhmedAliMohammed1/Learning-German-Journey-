@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**335 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**337 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -341,6 +341,8 @@
 | V333 | der Schnupfen | normalerweise kein Plural | الرشح / الزكام | Ich habe Schnupfen. | عندي رشح. | noun | introduced |
 | V334 | die Salbe | die Salben | مرهم / دهان طبي | Ich brauche eine Salbe gegen Schmerzen. | أنا محتاج مرهم للألم. | noun | introduced |
 | V335 | das Fieber | normalerweise kein Plural | الحُمّى / السخونية / ارتفاع حرارة الجسم | Das Fieber ist nicht zu hoch. | السخونية مش عالية زيادة عن اللزوم. | noun | introduced |
+| V336 | der Arm | die Arme; Dativ Plural: den Armen | الذراع / الدراع | Ich trage das Baby in meinen Armen. | أنا شايل البيبي بين دراعاتي. | noun | introduced |
+| V337 | das Bein | die Beine; Dativ Plural: den Beinen | الرِجل / الساق | Meine Beine tun weh. | رجليا بتوجعني. | noun | introduced |
 
 ## Learning notes
 
