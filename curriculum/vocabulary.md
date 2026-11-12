@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**370 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**371 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -376,6 +376,7 @@
 | V368 | verschieden | — (Adjektiv; dekliniert: verschiedene, verschiedenen) | مختلف / متنوع / عدة أنواع من | Wir haben verschiedene Meinungen. | إحنا عندنا آراء مختلفة. | adjective | introduced |
 | V369 | der Busch | die Büsche | شُجيرة / شجيرات؛ نبات كثيف الأغصان | Im Garten wachsen viele Büsche. | فيه شجيرات كتير بتنمو في الجنينة. | noun | introduced |
 | V370 | die Hecke | die Hecken | سياج نباتي / سور من الشجيرات | Die Hecke ist sehr hoch. | السياج النباتي عالي جدًا. | noun | introduced |
+| V371 | die Rasse | die Rassen | سلالة / سلالات (خصوصًا للحيوانات)؛ مصطلح بشري تاريخي/اجتماعي حسب السياق | Es gibt viele verschiedene Hunderassen. | فيه سلالات كلاب مختلفة كتير. | noun | introduced |
 
 ## Learning notes
 
