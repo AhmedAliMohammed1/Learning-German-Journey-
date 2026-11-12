@@ -672,3 +672,9 @@ S03-E13: fresh correct erlauben Perfekt and Dativ meiner Schwester. Feminine Mei
 ## Dated evidence —2026-10-23-S02-E01
 - Raw `Meine Schwester hat gestern meinem Bruder aufgeweckt, danach hat er aufgestehet`; correction `Meine Schwester hat gestern meinen Bruder aufgeweckt, danach ist er aufgestanden.`.
 - M02/M14: meinen Bruder Akk after aufwecken, not meinem. M28 finite position after danach correct; M34 intended er correct. Existing baseline statuses retained, fresh error/success counters and exact dimensions in JSON. aufstehen auxiliary/participle retest dueOct24; no infinitive-recall downgrade.
+
+
+## 2026-11-12 — Superlativ: attributive vs predicative
+
+- Independent four-item Komparativ/Superlativ quiz score: **3/4**; correct: `älter`, `am schnellsten`, `wie`. **Actual error**: for `Das ist ___ Buch. (gut)` learner selected `am besten`; expected `das beste` (complete sentence `Das ist das beste Buch.`). Contrast predicative `Das Buch ist am besten.`.
+- **Retest target (open)**: choose `der/die/das + superlative adjective ending` before nouns, versus `am + ...sten` after verbs without an attributive noun. No claim of mastery until user independently corrects a new example; preserve learner raw answer. See `days/2026-11-12.md`.
