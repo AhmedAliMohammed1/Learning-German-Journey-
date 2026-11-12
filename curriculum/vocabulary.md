@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**378 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**383 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -384,6 +384,11 @@
 | V376 | der Urlaub | die Urlaube (selten; meistens Singular) | الإجازة / العطلة من الشغل أو الدراسة | Nach dem Abitur will ich Urlaub machen. | بعد الأبيتور عايز آخد إجازة. | noun | introduced |
 | V377 | erst mal (erstmal) | — | الأول / مبدئيًا / في البداية؛ مش معناها لأول مرة | Ich will erst mal schlafen. | أنا عايز أنام الأول. | expression | introduced |
 | V378 | nach | — (Präposition + Dativ; temporal oder Richtung) | بعد + Dativ؛ وإلى مع المدن والدول بدون أداة تعريف | Nach der Arbeit gehe ich nach Hause. | بعد الشغل بروح البيت. | preposition | introduced |
+| V379 | das Tier | die Tiere | حيوان / حيوانات | Ich liebe alle Tiere. | أنا بحب كل الحيوانات. | noun | introduced |
+| V380 | der Tierarzt / die Tierärztin | die Tierärzte / die Tierärztinnen | طبيب بيطري / طبيبة بيطرية | Ich will später mal Tierärztin werden. | أنا عايزة أبقى دكتورة بيطرية في المستقبل. | noun | introduced |
+| V381 | also | — | إذًا / لذلك / عشان كده | Ich bin müde, also gehe ich schlafen. | أنا تعبان، وعشان كده هروح أنام. | adverb_or_connector | introduced |
+| V382 | klar | — (Adjektiv: klarer; am klarsten) | واضح / مفهوم؛ طبعًا في بعض التعبيرات | Das ist doch klar! | ده واضح طبعًا! | adjective | introduced |
+| V383 | alle | — (Pronomen/Artikelwort; Formen: alle, allen, aller) | كل / جميع (مع الجمع) | Alle Tiere brauchen Wasser. | كل الحيوانات محتاجة مياه. | determiner_or_pronoun | introduced |
 
 ## Learning notes
 
