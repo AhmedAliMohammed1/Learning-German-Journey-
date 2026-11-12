@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Schnupfen
+
+- Added **V333 der Schnupfen** (الرشح / الزكام; usually no plural), with German example `Ich habe Schnupfen.` and its Egyptian Arabic translation `عندي رشح.` after complete canonical duplicate check. Introduced, not mastered. Current total **301 verbs / 333 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused exercises preserved and large `progress.json` reconciliation remains pending.
+
+
 ## Vocabulary addition — 2026-11-12: Husten
 
 - Added **V332 der Husten** (الكحة / السعال; usually no plural), German example `Ich habe starken Husten.` and Egyptian Arabic translation `عندي كحة شديدة.`, after full inventory audit. Related verb `husten` explained but not newly registered. Canonical inventory **301 verbs / 332 vocabulary entries**, introduced not mastered. See [Nov 12 day log](days/2026-11-12.md). Structured `progress.json` synchronization pending.
