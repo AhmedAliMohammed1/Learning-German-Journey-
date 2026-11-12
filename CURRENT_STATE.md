@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-12
+
+- Added canonical verb **#301 schlagen** (يخبط / يضرب / يهزم / يدق القلب; Präsens `ich schlage, du schlägst, er schlägt`; Perfekt `hat geschlagen`). Checked full 300-verb and 329-vocabulary inventories first; `vorschlagen` #153 already existed and was not duplicated. Newly **introduced**, not mastered. See [Nov 12 day log](days/2026-11-12.md). Current totals: **301 verbs and 329 registered vocabulary entries**. Structured progress.json sync still pending; previously paused review untouched.
+
+
 ## Latest review checkpoint — 2026-11-12 (Europe/Berlin)
 
 **Targeted infinitive recall paused; returned to main menu.** Two answered batches, **100 distinct verbs** (#251–300, #201–250), recorded with all verbatim answers, scores and corrections in [Nov 12 day log](days/2026-11-12.md). Round 1: **43/50** accepted; seven spelling/lemma errors. Round 2: **43/50** exact target form accepted + **one semantic alternative** (#231 wischen, exact abwischen unconfirmed); six incorrect. Combined 86 target-form correct + one semantic alternative, **13 errors**, one target unconfirmed. This is **infinitive isolated recall evidence only**, not Perfekt or context mastery.
