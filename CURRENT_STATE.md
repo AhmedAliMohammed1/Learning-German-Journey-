@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb intake — 2026-11-12: festmachen
+
+- Learner submitted `fest machen`; normalized **festmachen**, separable regular verb. Full canonical duplicate check passed; added **#311 festmachen** = يثبّت / يربط بإحكام / يرسّي مركب; Präteritum `machte fest`, Perfekt `hat festgemacht`. Example `Ich mache das Fahrrad am Zaun fest.` = أنا بربط العجلة في السور. Distinguish existing #275 `feststecken`. Introduced, not mastered. Totals **311 verbs / 372 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Earlier deferred review and large structured progress.json sync issue unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: dick
 
 - Learner submitted **dick**; full canonical duplicate check passed. Added **V372 dick** (adjective) = تخين / سميك; comparative `dicker`, superlative `am dicksten`, example `Das Buch ist sehr dick.` = الكتاب ده تخين جدًا. Introduced, not mastered. Canonical totals **310 verbs / 372 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Older review tasks and large progress.json sync issue unchanged.
