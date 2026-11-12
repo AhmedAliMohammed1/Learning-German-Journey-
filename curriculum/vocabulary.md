@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**333 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**334 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -339,6 +339,7 @@
 | V331 | das Kraut | die Kräuter | عشبة / أعشاب، خصوصًا للطعام أو الشاي | Ich benutze frische Kräuter zum Kochen. | أنا بستخدم أعشاب طازة في الطبخ. | noun | introduced |
 | V332 | der Husten | normalerweise kein Plural | الكحة / السعال | Ich habe starken Husten. | عندي كحة شديدة. | noun | introduced |
 | V333 | der Schnupfen | normalerweise kein Plural | الرشح / الزكام | Ich habe Schnupfen. | عندي رشح. | noun | introduced |
+| V334 | die Salbe | die Salben | مرهم / دهان طبي | Ich brauche eine Salbe gegen Schmerzen. | أنا محتاج مرهم للألم. | noun | introduced |
 
 ## Learning notes
 
