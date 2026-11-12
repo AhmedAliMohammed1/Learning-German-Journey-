@@ -1,4 +1,4 @@
-# Verb curriculum — 307 introduced verbs
+# Verb curriculum — 308 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -315,6 +315,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 305 | erscheinen | يظهر / يحضر / يصدر أو يُنشر (كتاب)؛ يبدو | ich erscheine; du erscheinst; er erscheint | ist erschienen | Das Buch ist gestern erschienen. | introduced | Strong, inseparable er- prefix; Präteritum erschien (wir/sie erschienen); Perfekt ist erschienen; appear/show up or be published; erscheinen + Dat (mir) to seem. Arabic: الكتاب اتنشر امبارح. |
 | 306 | zeichnen | يرسم (بالقلم / خطوط أو أشكال) | ich zeichne; du zeichnest; er zeichnet | hat gezeichnet | Ich zeichne ein Haus. | introduced | Regular; Präteritum zeichnete; + Akk for drawn object; contrast malen (painting/coloring). Arabic example: أنا برسم بيت. |
 | 307 | ausstellen | يعرض في معرض / يُصدر وثيقة رسمية | ich stelle aus; du stellst aus; er stellt aus | hat ausgestellt | Das Museum stellt alte Bilder aus. | introduced | Regular separable aus- prefix; Präteritum stellte aus; Akk object (Bilder ausstellen; ein Zeugnis ausstellen). Arabic example: المتحف بيعرض لوحات قديمة. Related existing V210 die Ausstellung. |
+| 308 | aussehen | يبدو / شكله عامل إزاي | ich sehe aus; du siehst aus; er sieht aus | hat ausgesehen | Du siehst heute gut aus. | introduced | Strong, separable aus- verb; Präteritum sah aus; sehen stem vowel change e→ie; aussehen + adjective; Wie sieht ... aus?; contrast ansehen (watch/look at). Arabic example: إنت شكلك حلو النهارده. |
 
 ## How to read the table
 
