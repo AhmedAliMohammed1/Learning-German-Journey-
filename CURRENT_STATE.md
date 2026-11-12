@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary and morphology — 2026-11-12: Krankheit / -heit
+
+- User supplied `Krankheiten` and asked about final `heiten`. Duplicate audit passed; registered **V357 die Krankheit**, plural `die Krankheiten` = المرض / الأمراض, bilingual example `Es gibt viele verschiedene Krankheiten.` = فيه أمراض مختلفة كتير. Taught adjective-to-noun `-heit/-keit` suffix and plural `-en` (no independent `-heiten` suffix); examples are teaching-only, not registered. Introduced, not mastered. Canonical total **303 verbs / 357 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Pending reviews and large progress.json sync discrepancy unchanged.
+
+
 ## Vocabulary intake — 2026-11-12: Kloster and Biberach
 
 - Finished previously interrupted **V355 das Kloster**, plural `die Klöster`, الدير, example `Die Nonne lebt in einem Kloster.` = الراهبة عايشة في دير. Learner then submitted `Bieberach`; interpreted as likely misspelling of German city **Biberach an der Riß**, verified from current municipal/state sources; registered proper name **V356 Biberach (an der Riß)**, example `Ich fahre morgen nach Biberach.` = أنا مسافر بيبراخ بكرة. Duplicate check of all canonical nouns and verbs passed. Both introduced, not mastered. Totals **303 verbs / 356 vocabulary**. See [Nov 12 day log](days/2026-11-12.md); older pending work and structured progress.json reconciliation unchanged.
