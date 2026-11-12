@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**360 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**361 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -366,6 +366,7 @@
 | V358 | der Salbei | normalerweise kein Plural; botanisch: die Salbeien | الميرمية / المريمية؛ عشبة عطرية | Ich trinke Salbeitee. | أنا بشرب شاي الميرمية. | noun | introduced |
 | V359 | die Verwendung | die Verwendungen (selten im Alltag) | الاستخدام / الاستعمال | Die Verwendung von Heilkräutern ist weit verbreitet. | استخدام الأعشاب الطبية منتشر جدًا. | noun | introduced |
 | V360 | der Betrieb | die Betriebe | شركة / منشأة أو التشغيل حسب السياق | Die Maschine ist in Betrieb. | الماكينة شغالة. | noun | introduced |
+| V361 | das Versprechen | die Versprechen | وعد / وعود | Er hat sein Versprechen gehalten. | هو وفّى بوعده. | noun | introduced |
 
 ## Learning notes
 
