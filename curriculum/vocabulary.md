@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**372 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**374 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -378,6 +378,8 @@
 | V370 | die Hecke | die Hecken | سياج نباتي / سور من الشجيرات | Die Hecke ist sehr hoch. | السياج النباتي عالي جدًا. | noun | introduced |
 | V371 | die Rasse | die Rassen | سلالة / سلالات (خصوصًا للحيوانات)؛ مصطلح بشري تاريخي/اجتماعي حسب السياق | Es gibt viele verschiedene Hunderassen. | فيه سلالات كلاب مختلفة كتير. | noun | introduced |
 | V372 | dick | — (Adjektiv: dicker; am dicksten) | تخين / سميك / تقيل حسب السياق | Das Buch ist sehr dick. | الكتاب ده تخين جدًا. | adjective | introduced |
+| V373 | das Fest | die Feste | حفلة / احتفال؛ ein Fest machen = يعمل حفلة (غير الفعل festmachen) | Zu meinem Geburtstag mache ich ein Fest. | بمناسبة عيد ميلادي هعمل حفلة. | noun | introduced |
+| V374 | der Geburtstag | die Geburtstage | عيد الميلاد (يوم ميلاد شخص) | Zu meinem 50. Geburtstag will ich ein Fest machen. | بمناسبة عيد ميلادي الخمسين عايز أعمل حفلة. | noun | introduced |
 
 ## Learning notes
 
