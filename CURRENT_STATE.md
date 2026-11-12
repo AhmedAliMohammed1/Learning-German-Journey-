@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Fieber
+
+- Added **V335 das Fieber**, normally no plural, الحُمّى / السخونية, with bilingual example `Das Fieber ist nicht zu hoch.` = السخونية مش عالية زيادة عن اللزوم. Learner submitted lowercase `das fieber ist nicht zu hoch`; corrected noun capitalization, meaning and sentence structure correct. Full inventory duplicate audit passed. Status introduced, not mastered. Current count: **301 verbs / 335 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Older pending work unchanged; large structured progress sync remains outstanding.
+
+
 ## Vocabulary addition — 2026-11-12: Salbe
 
 - Registered **V334 die Salbe**, plural `die Salben`, مرهم / دهان طبي, with `Ich brauche eine Salbe gegen Schmerzen.` = أنا محتاج مرهم للألم. Complete 333-vocabulary / 301-verb duplicate audit found no earlier lemma. Status introduced only. Canonical totals: **301 verbs / 334 vocabulary entries**. See [Nov 12 day log](days/2026-11-12.md). Older study pauses and structured progress reconciliation unchanged.
