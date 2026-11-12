@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-12: heilen / erscheinen
+
+- Completed earlier interrupted registration of **#304 heilen**, meaning يشفي / يلتئم, Perfekt `hat geheilt`, example `Die Wunde heilt langsam.` = الجرح بيلتئم ببطء.
+- User next submitted `Erschienen`, a form of new **#305 erscheinen**, Perfekt `ist erschienen`, Präteritum `erschien` (plural `erschienen`), example `Das Buch ist gestern erschienen.` = الكتاب اتنشر امبارح. Full canonical duplicate audit passed. Both introduced, not mastered. **305 verbs / 358 vocabulary**. Details [Nov 12 log](days/2026-11-12.md). Old paused exercises and large structured progress.json reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Salbei
 
 - Registered **V358 der Salbei** = الميرمية / المريمية, normally no everyday plural (botanical `die Salbeien`), with `Ich trinke Salbeitee.` = أنا بشرب شاي الميرمية. Full duplicate audit passed; distinct from existing V334 `die Salbe` (ointment). Introduced, not mastered. Canonical totals **303 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Existing pending reviews and progress.json sync issue unchanged.
