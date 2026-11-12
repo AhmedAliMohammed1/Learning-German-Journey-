@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-12: Kloster and Biberach
+
+- Finished previously interrupted **V355 das Kloster**, plural `die Klöster`, الدير, example `Die Nonne lebt in einem Kloster.` = الراهبة عايشة في دير. Learner then submitted `Bieberach`; interpreted as likely misspelling of German city **Biberach an der Riß**, verified from current municipal/state sources; registered proper name **V356 Biberach (an der Riß)**, example `Ich fahre morgen nach Biberach.` = أنا مسافر بيبراخ بكرة. Duplicate check of all canonical nouns and verbs passed. Both introduced, not mastered. Totals **303 verbs / 356 vocabulary**. See [Nov 12 day log](days/2026-11-12.md); older pending work and structured progress.json reconciliation unchanged.
+
+
 ## Verb addition — 2026-11-12: beantworten
 
 - Registered new **#303 beantworten** (يجيب على سؤال / يرد على شيء), `ich beantworte; du beantwortest; er beantwortet`, Perfekt `hat beantwortet`, example `Ich beantworte deine Frage.` = أنا بجاوب على سؤالك. Checked existing #16 `antworten` and V001 `die Antwort` and full inventories; no duplicate. Taught Akk direct object versus `antworten auf + Akk` / Dativ person. **Introduced**, not mastered. Canonical totals **303 verbs / 354 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous pending activities preserved; progress.json reconciliation outstanding.
