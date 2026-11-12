@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Apparat
+
+- Learner submitted `Am appart`, interpreted as **am Apparat** (telephone formula). Registered **V366 der Apparat**, plural `die Apparate` = جهاز / تليفون, example `Müller am Apparat.` = معاك مولر على التليفون. Explained `am = an dem`, Dativ, and phone greeting. Full duplicate audit passed. Introduced, not mastered. Current canonical totals **309 verbs / 366 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Pending reviews and large structured progress.json reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Erfolg
 
 - Learner submitted `Erflog`; interpreted probable correction **der Erfolg**, plural `die Erfolge`. Full duplicate audit passed. Registered **V365**, النجاح / الإنجاز, example `Ich wünsche dir viel Erfolg!` = بتمنالك نجاح كبير / بالتوفيق! Introduced, not mastered. Current canonical totals **309 verbs / 365 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior pending tasks and progress.json reconciliation unchanged.
