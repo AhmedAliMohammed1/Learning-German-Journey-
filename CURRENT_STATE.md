@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Verwendung
+
+- User submitted `Verwendung`; full canonical duplicate audit passed. Registered **V359 die Verwendung**, plural `die Verwendungen` (uncommon in everyday language), meaning الاستخدام / الاستعمال, with `Die Verwendung von Heilkräutern ist weit verbreitet.` = استخدام الأعشاب الطبية منتشر جدًا. Related verb `verwenden` explained but not registered independently. Status introduced, not mastered. Canonical totals **307 verbs / 359 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior pending tasks and large progress.json reconciliation preserved.
+
+
 ## Verb addition — 2026-11-12: ausstellen
 
 - User explicitly asked to register **#307 ausstellen** = يعرض / يُصدر مستند, regular separable `ich stelle aus, er stellt aus`, Perfekt `hat ausgestellt`, example `Das Museum stellt alte Bilder aus.` = المتحف بيعرض لوحات قديمة. Complete duplicate audit passed; related **V210 die Ausstellung** already exists. Introduced only, not mastered. Current canonical count **307 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused reviews and large progress.json sync discrepancy preserved.
