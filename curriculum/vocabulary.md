@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**358 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**359 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -364,6 +364,7 @@
 | V356 | Biberach (an der Riß) | —; Ortsname | بيبراخ؛ مدينة ألمانية في بادن فورتمبيرغ | Ich fahre morgen nach Biberach. | أنا مسافر بيبراخ بكرة. | proper_name | introduced |
 | V357 | die Krankheit | die Krankheiten | مرض / أمراض؛ -heit لاحقة بتحوّل الصفة لاسم، و-en للجمع | Es gibt viele verschiedene Krankheiten. | فيه أمراض مختلفة كتير. | noun | introduced |
 | V358 | der Salbei | normalerweise kein Plural; botanisch: die Salbeien | الميرمية / المريمية؛ عشبة عطرية | Ich trinke Salbeitee. | أنا بشرب شاي الميرمية. | noun | introduced |
+| V359 | die Verwendung | die Verwendungen (selten im Alltag) | الاستخدام / الاستعمال | Die Verwendung von Heilkräutern ist weit verbreitet. | استخدام الأعشاب الطبية منتشر جدًا. | noun | introduced |
 
 ## Learning notes
 
