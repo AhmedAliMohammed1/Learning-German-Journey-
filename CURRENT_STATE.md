@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Erfolg
+
+- Learner submitted `Erflog`; interpreted probable correction **der Erfolg**, plural `die Erfolge`. Full duplicate audit passed. Registered **V365**, النجاح / الإنجاز, example `Ich wünsche dir viel Erfolg!` = بتمنالك نجاح كبير / بالتوفيق! Introduced, not mastered. Current canonical totals **309 verbs / 365 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior pending tasks and progress.json reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Sachbearbeiter
 
 - Learner wrote `schachbearbeite`; likely spelling **Sachbearbeiter** verified in German dictionaries, corrected provisionally. Added **V364 der Sachbearbeiter / die Sachbearbeiterin** (plural `die Sachbearbeiter / die Sachbearbeiterinnen`) = موظف/موظفة مختصة بالطلبات والملفات, with `Der Sachbearbeiter bearbeitet meinen Antrag.` = الموظف المختص بيراجع طلبي. Full canonical duplicate audit passed. Introduced, not mastered. Totals **309 verbs / 364 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Deferred review work and progress.json reconciliation unchanged.
