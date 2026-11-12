@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Betrieb
+
+- Registered **V360 der Betrieb**, plural `die Betriebe`, meaning شركة / منشأة or تشغيل, example `Die Maschine ist in Betrieb.` = الماكينة شغالة. Duplicate audit of 359 vocabulary and 307 verb entries passed. Introduced, not mastered. Canonical totals **307 verbs / 360 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Pending reviews and large `progress.json` synchronization issue preserved.
+
+
 ## Vocabulary addition — 2026-11-12: Verwendung
 
 - User submitted `Verwendung`; full canonical duplicate audit passed. Registered **V359 die Verwendung**, plural `die Verwendungen` (uncommon in everyday language), meaning الاستخدام / الاستعمال, with `Die Verwendung von Heilkräutern ist weit verbreitet.` = استخدام الأعشاب الطبية منتشر جدًا. Related verb `verwenden` explained but not registered independently. Status introduced, not mastered. Canonical totals **307 verbs / 359 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior pending tasks and large progress.json reconciliation preserved.
