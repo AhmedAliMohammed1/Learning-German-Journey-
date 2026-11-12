@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb addition — 2026-11-12: ausstellen
+
+- User explicitly asked to register **#307 ausstellen** = يعرض / يُصدر مستند, regular separable `ich stelle aus, er stellt aus`, Perfekt `hat ausgestellt`, example `Das Museum stellt alte Bilder aus.` = المتحف بيعرض لوحات قديمة. Complete duplicate audit passed; related **V210 die Ausstellung** already exists. Introduced only, not mastered. Current canonical count **307 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused reviews and large progress.json sync discrepancy preserved.
+
+
 ## Verb addition — 2026-11-12: zeichnen
 
 - Registered **#306 zeichnen** = يرسم, Präsens `ich zeichne / du zeichnest / er zeichnet`, Perfekt `hat gezeichnet`, German example `Ich zeichne ein Haus.` = أنا برسم بيت. Full duplicate audit of 305 verbs and 358 vocabulary entries passed. Compared to `malen`. Introduced, not mastered. Canonical totals **306 verbs / 358 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous pending work and progress.json reconciliation unchanged.
