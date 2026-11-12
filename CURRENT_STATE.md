@@ -1,5 +1,10 @@
 # Current study state
 
+## Body parts vocabulary — 2026-11-12
+
+- Learner provided 16 body-part forms. Existing **V336 der Arm** and **V337 das Bein** reused without duplicates. Added **14 noun entries V340–V353**: der Kopf, der Hals, der Rücken, die Brust, der Bauch, die Hand, der Finger, der Fuß, das Knie, das Ohr, das Auge, der Zahn, die Nase, der Mund. Correct singular `das Auge` for learner's plural `Augen`, and capitalize `Rücken`. Each row records plural, a German example and Egyptian-Arabic translation; **introduced**, not mastered. Current canonical totals **302 verbs / 353 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Earlier pending exercises and `progress.json` reconciliation not changed.
+
+
 ## Grammar checkpoint — 2026-11-12: Komparativ / Superlativ
 
 - Learner independently answered 4 mini-test prompts: 1 `älter` ✅, 2 `am schnellsten` ✅, 3 `wie` ✅, 4 `am besten` ❌, expected `das beste` in `Das ist das beste Buch.`. Score **3/4 = 75%**. Targeted retest: **attributive Superlativ with definite article vs predicative `am ...sten`**. Raw responses and full grading stored in [Nov 12 day log](days/2026-11-12.md). Preserve the incorrect Q4 for future review, no mastery promotion; existing inventory **302 verbs / 339 vocabulary** unchanged.
