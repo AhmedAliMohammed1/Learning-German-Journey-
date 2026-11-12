@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**339 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**353 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -345,6 +345,20 @@
 | V337 | das Bein | die Beine; Dativ Plural: den Beinen | الرِجل / الساق | Meine Beine tun weh. | رجليا بتوجعني. | noun | introduced |
 | V338 | der Ratschlag | die Ratschläge; Dativ Plural: den Ratschlägen | نصيحة / نصائح | Mein Lehrer gibt mir gute Ratschläge. | المدرس بتاعي بيديني نصايح كويسة. | noun | introduced |
 | V339 | die Leute | Pluralwort; Dativ: den Leuten | الناس (اسم جمع بدون مفرد معتاد) | Ich helfe den Leuten. | أنا بساعد الناس. | noun | introduced |
+| V340 | der Kopf | die Köpfe | الرأس / الدماغ | Mein Kopf tut weh. | دماغي بتوجعني. | noun | introduced |
+| V341 | der Hals | die Hälse | الرقبة / الحلق | Mein Hals tut weh. | رقبتي / زوري بيوجعني. | noun | introduced |
+| V342 | der Rücken | die Rücken | الضهر | Mein Rücken tut weh. | ضهري بيوجعني. | noun | introduced |
+| V343 | die Brust | die Brüste | الصدر | Ich habe Schmerzen in der Brust. | عندي ألم في صدري. | noun | introduced |
+| V344 | der Bauch | die Bäuche | البطن | Mein Bauch tut weh. | بطني بتوجعني. | noun | introduced |
+| V345 | die Hand | die Hände | الإيد | Meine Hände sind kalt. | إيديا ساقعة. | noun | introduced |
+| V346 | der Finger | die Finger | صباع الإيد | Mein Finger tut weh. | صباعي بيوجعني. | noun | introduced |
+| V347 | der Fuß | die Füße | القدم | Mein Fuß tut weh. | قدمي بتوجعني. | noun | introduced |
+| V348 | das Knie | die Knie | الركبة | Mein Knie tut weh. | ركبتي بتوجعني. | noun | introduced |
+| V349 | das Ohr | die Ohren | الودن | Mein Ohr tut weh. | ودني بتوجعني. | noun | introduced |
+| V350 | das Auge | die Augen | العين | Meine Augen sind müde. | عينيا تعبانة. | noun | introduced |
+| V351 | der Zahn | die Zähne | السِنّة | Mein Zahn tut weh. | سنّي بتوجعني. | noun | introduced |
+| V352 | die Nase | die Nasen | الأنف / المناخير | Meine Nase läuft. | مناخيري بتسيل. | noun | introduced |
+| V353 | der Mund | die Münder | الفم / البُق | Mach bitte den Mund auf. | افتح بقك لو سمحت. | noun | introduced |
 
 ## Learning notes
 
