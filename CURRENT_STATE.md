@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Wirklichkeit
+
+- Learner wrote `wirkclichkeit`; corrected to **die Wirklichkeit** (الحقيقة / الواقع), usually no everyday plural. Full duplicate audit passed. Registered **V362** with bilingual example `In Wirklichkeit ist er sehr nett.` = في الحقيقة هو لطيف جدًا. Explained `wirklich + -keit` nominalization and distinction from adverb/adjective `wirklich`. Introduced, not mastered. Canonical totals **308 verbs / 362 vocabulary**. See [Nov 12 day log](days/2026-11-12.md); earlier deferred reviews and large progress.json sync discrepancy unchanged.
+
+
 ## Verb addition — 2026-11-12: aussehen
 
 - Learner provided `aussehen`. Full canonical audit passed; added new **#308 aussehen** = يبدو / شكله عامل إزاي, separable `ich sehe aus; du siehst aus; er sieht aus`, Perfekt `hat ausgesehen`; `Du siehst heute gut aus.` = إنت شكلك حلو النهارده. Distinct from existing `ansehen`. Introduced, not mastered. Canonical totals **308 verbs / 361 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Paused activities and `progress.json` sync issue remain.
