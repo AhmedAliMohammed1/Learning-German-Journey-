@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Strom
+
+- Learner submitted `strom`; normalized noun capitalization `der Strom`, plural `die Ströme`. After auditing all 366 vocabulary and 309 verbs, registered **V367** = الكهرباء / التيار الكهربائي, bilingual example `Wir haben keinen Strom.` = الكهربا قاطعة عندنا. Introduced only, not mastered. Canonical totals **309 verbs / 367 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Prior deferred reviews and large progress.json discrepancy unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Apparat
 
 - Learner submitted `Am appart`, interpreted as **am Apparat** (telephone formula). Registered **V366 der Apparat**, plural `die Apparate` = جهاز / تليفون, example `Müller am Apparat.` = معاك مولر على التليفون. Explained `am = an dem`, Dativ, and phone greeting. Full duplicate audit passed. Introduced, not mastered. Current canonical totals **309 verbs / 366 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Pending reviews and large structured progress.json reconciliation unchanged.
