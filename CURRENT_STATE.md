@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb addition — 2026-11-12: beantworten
+
+- Registered new **#303 beantworten** (يجيب على سؤال / يرد على شيء), `ich beantworte; du beantwortest; er beantwortet`, Perfekt `hat beantwortet`, example `Ich beantworte deine Frage.` = أنا بجاوب على سؤالك. Checked existing #16 `antworten` and V001 `die Antwort` and full inventories; no duplicate. Taught Akk direct object versus `antworten auf + Akk` / Dativ person. **Introduced**, not mastered. Canonical totals **303 verbs / 354 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous pending activities preserved; progress.json reconciliation outstanding.
+
+
 ## Vocabulary addition — 2026-11-12: Heilkräuter
 
 - Learner submitted `HeilKräuter`; corrected capitalization `Heilkräuter` and identified plural of **das Heilkraut**. Full inventory check: existing **V331 das Kraut** is related but not a duplicate. Added **V354 das Heilkraut**, plural **die Heilkräuter**, with Egyptian Arabic translation and example `Meine Oma benutzt Heilkräuter für ihren Tee.` = جدتي بتستخدم أعشاب طبية في الشاي بتاعها. Introduced only, not mastered. Current canonical totals **302 verbs / 354 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Deferred exercises and large progress.json reconciliation unchanged.
