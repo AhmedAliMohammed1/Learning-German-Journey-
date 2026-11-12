@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary/verb intake — 2026-11-12: Da hieß
+
+- Learner submitted fragment `Da hieß`. Registered **#309 heißen** = اسمه / يعني, Präteritum `hieß`, Perfekt `hat geheißen`, example `Früher hieß die Stadt anders.` = زمان المدينة كان اسمها مختلف. Registered **V363 da** = هناك / ساعتها / بما إن, example `Da war ich noch jung.` = ساعتها كنت لسه صغير. Checked full registers for duplicates; fragment remains incomplete absent context. Both introduced, not mastered. Totals **309 verbs / 363 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Pending review history and large progress.json reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Wirklichkeit
 
 - Learner wrote `wirkclichkeit`; corrected to **die Wirklichkeit** (الحقيقة / الواقع), usually no everyday plural. Full duplicate audit passed. Registered **V362** with bilingual example `In Wirklichkeit ist er sehr nett.` = في الحقيقة هو لطيف جدًا. Explained `wirklich + -keit` nominalization and distinction from adverb/adjective `wirklich`. Introduced, not mastered. Canonical totals **308 verbs / 362 vocabulary**. See [Nov 12 day log](days/2026-11-12.md); earlier deferred reviews and large progress.json sync discrepancy unchanged.
