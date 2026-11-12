@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: dick
+
+- Learner submitted **dick**; full canonical duplicate check passed. Added **V372 dick** (adjective) = تخين / سميك; comparative `dicker`, superlative `am dicksten`, example `Das Buch ist sehr dick.` = الكتاب ده تخين جدًا. Introduced, not mastered. Canonical totals **310 verbs / 372 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Older review tasks and large progress.json sync issue unchanged.
+
+
 ## Verb/vocabulary intake — 2026-11-12: melden / Rassen
 
 - Learner supplied `melden rassen`. Verified full canonical inventories: existing **#267 sich melden** but independent **melden** absent; new **#310 melden** = يبلّغ عن شيء, Perfekt `hat gemeldet`, example `Ich muss den Unfall der Polizei melden.` = لازم أبلّغ الشرطة عن الحادث. New **V371 die Rasse**, plural `die Rassen` = سلالة / سلالات, example `Es gibt viele verschiedene Hunderassen.` = فيه سلالات كلاب مختلفة كتير. Both introduced not mastered. Counts **310 verbs / 371 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused review and large progress.json reconciliation unchanged.
