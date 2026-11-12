@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**374 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**378 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -380,6 +380,10 @@
 | V372 | dick | — (Adjektiv: dicker; am dicksten) | تخين / سميك / تقيل حسب السياق | Das Buch ist sehr dick. | الكتاب ده تخين جدًا. | adjective | introduced |
 | V373 | das Fest | die Feste | حفلة / احتفال؛ ein Fest machen = يعمل حفلة (غير الفعل festmachen) | Zu meinem Geburtstag mache ich ein Fest. | بمناسبة عيد ميلادي هعمل حفلة. | noun | introduced |
 | V374 | der Geburtstag | die Geburtstage | عيد الميلاد (يوم ميلاد شخص) | Zu meinem 50. Geburtstag will ich ein Fest machen. | بمناسبة عيد ميلادي الخمسين عايز أعمل حفلة. | noun | introduced |
+| V375 | das Abitur | gewöhnlich kein Plural | الأبيتور؛ شهادة إنهاء الثانوية المؤهلة للجامعة بألمانيا | Nach dem Abitur möchte ich studieren. | بعد الأبيتور عايز أدرس في الجامعة. | noun | introduced |
+| V376 | der Urlaub | die Urlaube (selten; meistens Singular) | الإجازة / العطلة من الشغل أو الدراسة | Nach dem Abitur will ich Urlaub machen. | بعد الأبيتور عايز آخد إجازة. | noun | introduced |
+| V377 | erst mal (erstmal) | — | الأول / مبدئيًا / في البداية؛ مش معناها لأول مرة | Ich will erst mal schlafen. | أنا عايز أنام الأول. | expression | introduced |
+| V378 | nach | — (Präposition + Dativ; temporal oder Richtung) | بعد + Dativ؛ وإلى مع المدن والدول بدون أداة تعريف | Nach der Arbeit gehe ich nach Hause. | بعد الشغل بروح البيت. | preposition | introduced |
 
 ## Learning notes
 
