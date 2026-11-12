@@ -1,4 +1,4 @@
-# Verb curriculum — 309 introduced verbs
+# Verb curriculum — 310 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -317,6 +317,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 307 | ausstellen | يعرض في معرض / يُصدر وثيقة رسمية | ich stelle aus; du stellst aus; er stellt aus | hat ausgestellt | Das Museum stellt alte Bilder aus. | introduced | Regular separable aus- prefix; Präteritum stellte aus; Akk object (Bilder ausstellen; ein Zeugnis ausstellen). Arabic example: المتحف بيعرض لوحات قديمة. Related existing V210 die Ausstellung. |
 | 308 | aussehen | يبدو / شكله عامل إزاي | ich sehe aus; du siehst aus; er sieht aus | hat ausgesehen | Du siehst heute gut aus. | introduced | Strong, separable aus- verb; Präteritum sah aus; sehen stem vowel change e→ie; aussehen + adjective; Wie sieht ... aus?; contrast ansehen (watch/look at). Arabic example: إنت شكلك حلو النهارده. |
 | 309 | heißen | اسمه / يُسمّى / يعني | ich heiße; du heißt; er heißt | hat geheißen | Früher hieß die Stadt anders. | introduced | Strong verb; Präteritum hieß (ich/er), wir hießen; can mean be called or mean; compare sein / bedeuten. Arabic: زمان المدينة كان اسمها مختلف. |
+| 310 | melden | يبلّغ عن حاجة / يخطر جهة بمعلومة | ich melde; du meldest; er meldet | hat gemeldet | Ich muss den Unfall der Polizei melden. | introduced | Regular, non-reflexive; Präteritum meldete; Akk thing (den Unfall) and Dat recipient (der Polizei). Distinct usage from existing #267 sich melden (= يتواصل/يرد/يعلن عن نفسه). Arabic: لازم أبلّغ الشرطة عن الحادث. |
 
 ## How to read the table
 
