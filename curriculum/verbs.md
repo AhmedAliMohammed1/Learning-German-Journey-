@@ -1,4 +1,4 @@
-# Verb curriculum — 311 introduced verbs
+# Verb curriculum — 312 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -319,6 +319,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 309 | heißen | اسمه / يُسمّى / يعني | ich heiße; du heißt; er heißt | hat geheißen | Früher hieß die Stadt anders. | introduced | Strong verb; Präteritum hieß (ich/er), wir hießen; can mean be called or mean; compare sein / bedeuten. Arabic: زمان المدينة كان اسمها مختلف. |
 | 310 | melden | يبلّغ عن حاجة / يخطر جهة بمعلومة | ich melde; du meldest; er meldet | hat gemeldet | Ich muss den Unfall der Polizei melden. | introduced | Regular, non-reflexive; Präteritum meldete; Akk thing (den Unfall) and Dat recipient (der Polizei). Distinct usage from existing #267 sich melden (= يتواصل/يرد/يعلن عن نفسه). Arabic: لازم أبلّغ الشرطة عن الحادث. |
 | 311 | festmachen | يثبّت / يربط بإحكام / يرسّي مركب؛ يربط نتيجة بمعيار | ich mache fest; du machst fest; er macht fest | hat festgemacht | Ich mache das Fahrrad am Zaun fest. | introduced | Regular separable verb: Präteritum machte fest; Perfekt hat festgemacht. Common: etwas an etwas (Dat) festmachen; Das Boot macht am Hafen fest; den Erfolg an den Ergebnissen festmachen. Distinguish #275 feststecken. Arabic example: أنا بربط العجلة في السور. |
+| 312 | lieben | يحب / يعشق | ich liebe; du liebst; er liebt | hat geliebt | Ich liebe alle Tiere. | introduced | Regular weak verb; Präteritum liebte; Akk object. Arabic: أنا بحب كل الحيوانات. |
 
 ## How to read the table
 
