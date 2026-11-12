@@ -1,5 +1,10 @@
 # Current study state
 
+## Image reading — 2026-11-12: Nach dem Abitur will ich erst mal Urlaub machen
+
+- Image text: `Nach dem Abitur will ich erst mal Urlaub machen.` = بعد ما أخلص الثانوية العامة، عايز الأول آخد إجازة. Explained `nach + Dativ`, `erst mal` vs `zum ersten Mal`, modal `will` + final infinitive. Existing **#30 wollen** retained without duplication. Full vocab audit passed; added **V375 das Abitur**, **V376 der Urlaub**, **V377 erst mal**, **V378 nach**, each with German example and Egyptian Arabic translation; all introduced, not mastered. Canonical counts **311 verbs / 378 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Prior pending review and large structured progress.json reconciliation unchanged.
+
+
 ## Image reading — 2026-11-12: ein Fest machen versus festmachen
 
 - Learner provided image: `Zu meinem 50. Geburtstag will ich ein Fest machen. Nur für Frauen. Ohne Männer.`. Explained **ein Fest machen** = يعمل حفلة (noun `Fest`) vs existing **#311 festmachen** = يثبّت / يربط (separable verb). Full canonical duplicate check passed. Registered **V373 das Fest**, plural `die Feste`, example `Zu meinem Geburtstag mache ich ein Fest.` = بمناسبة عيد ميلادي هعمل حفلة; **V374 der Geburtstag**, plural `die Geburtstage`, example `Zu meinem 50. Geburtstag will ich ein Fest machen.` = بمناسبة عيد ميلادي الخمسين عايز أعمل حفلة. Both introduced only, not mastered. Totals **311 verbs / 374 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Previous pending work and large progress.json sync issue unchanged.
