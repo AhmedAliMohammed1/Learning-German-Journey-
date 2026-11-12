@@ -1,4 +1,4 @@
-# Verb curriculum — 303 introduced verbs
+# Verb curriculum — 305 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -311,6 +311,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 301 | schlagen | يضرب / يخبط؛ يهزم في منافسة؛ يدقّ (القلب) | ich schlage; du schlägst; er schlägt | hat geschlagen | Mein Herz schlägt schnell. | introduced | Strong verb; Akk object when hitting/defeating; gegen + Akk for knocking against something; distinct from #153 vorschlagen. |
 | 302 | wehtun | يوجع / يسبب ألم | ich tue weh; du tust weh; er tut weh; plural: sie tun weh | hat wehgetan | Mein Kopf tut weh. | introduced | Separable verb: wehtun → tut ... weh; subject is the aching body part (Mein Bein tut weh / Meine Beine tun weh); Dativ person optional (Mir tut der Rücken weh); Präteritum tat weh; distinct from #276 tun. |
 | 303 | beantworten | يجاوب على سؤال / يرد على حاجة | ich beantworte; du beantwortest; er beantwortet | hat beantwortet | Ich beantworte deine Frage. | introduced | Regular, inseparable be- prefix; Präteritum beantwortete; + Akk of question/message (die Frage beantworten). Contrasts #16 antworten: jemandem (Dat) antworten / auf + Akk antworten. Arabic example: أنا بجاوب على سؤالك. |
+| 304 | heilen | يشفي / يلتئم (جرح) | ich heile; du heilst; er heilt | hat geheilt | Die Wunde heilt langsam. | introduced | Regular; Präteritum heilte; intransitive for wound healing, transitive + Akk for healing person; distinguish behandeln (treat). Arabic: الجرح بيلتئم ببطء. |
+| 305 | erscheinen | يظهر / يحضر / يصدر أو يُنشر (كتاب)؛ يبدو | ich erscheine; du erscheinst; er erscheint | ist erschienen | Das Buch ist gestern erschienen. | introduced | Strong, inseparable er- prefix; Präteritum erschien (wir/sie erschienen); Perfekt ist erschienen; appear/show up or be published; erscheinen + Dat (mir) to seem. Arabic: الكتاب اتنشر امبارح. |
 
 ## How to read the table
 
