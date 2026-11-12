@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb addition — 2026-11-12: wehtun
+
+- Learner supplied `weh` and `tut`. After checking all canonical entries, registered **#302 wehtun** (يوجع; separable `tut ... weh`, Perfekt `hat wehgetan`), example `Mein Kopf tut weh.` = دماغي بتوجعني. Existing #276 `tun` not duplicated; `weh` taught as part of the compound, not separately registered. Status introduced, not mastered. **302 verbs / 337 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Previous deferred work and large progress.json sync discrepancy unchanged.
+
+
 ## Vocabulary intake — 2026-11-12: Arm / Bein
 
 - Learner gave inflected forms `armen` and `beinen`. Full duplicate audit passed; registered **V336 der Arm**, plural `die Arme` / Dativ plural `den Armen`, and **V337 das Bein**, plural `die Beine` / Dativ plural `den Beinen`. Each new row contains a German usage example with matching Egyptian Arabic translation. Introduced only, not mastered. Current canonical count **301 verbs / 337 vocabulary entries**. See [Nov 12 day log](days/2026-11-12.md). Previous pending work unchanged; structured `progress.json` reconciliation still pending.
