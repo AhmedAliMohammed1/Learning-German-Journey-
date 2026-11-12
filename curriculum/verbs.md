@@ -1,4 +1,4 @@
-# Verb curriculum — 305 introduced verbs
+# Verb curriculum — 306 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -313,6 +313,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 303 | beantworten | يجاوب على سؤال / يرد على حاجة | ich beantworte; du beantwortest; er beantwortet | hat beantwortet | Ich beantworte deine Frage. | introduced | Regular, inseparable be- prefix; Präteritum beantwortete; + Akk of question/message (die Frage beantworten). Contrasts #16 antworten: jemandem (Dat) antworten / auf + Akk antworten. Arabic example: أنا بجاوب على سؤالك. |
 | 304 | heilen | يشفي / يلتئم (جرح) | ich heile; du heilst; er heilt | hat geheilt | Die Wunde heilt langsam. | introduced | Regular; Präteritum heilte; intransitive for wound healing, transitive + Akk for healing person; distinguish behandeln (treat). Arabic: الجرح بيلتئم ببطء. |
 | 305 | erscheinen | يظهر / يحضر / يصدر أو يُنشر (كتاب)؛ يبدو | ich erscheine; du erscheinst; er erscheint | ist erschienen | Das Buch ist gestern erschienen. | introduced | Strong, inseparable er- prefix; Präteritum erschien (wir/sie erschienen); Perfekt ist erschienen; appear/show up or be published; erscheinen + Dat (mir) to seem. Arabic: الكتاب اتنشر امبارح. |
+| 306 | zeichnen | يرسم (بالقلم / خطوط أو أشكال) | ich zeichne; du zeichnest; er zeichnet | hat gezeichnet | Ich zeichne ein Haus. | introduced | Regular; Präteritum zeichnete; + Akk for drawn object; contrast malen (painting/coloring). Arabic example: أنا برسم بيت. |
 
 ## How to read the table
 
