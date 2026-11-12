@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**359 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**360 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -365,6 +365,7 @@
 | V357 | die Krankheit | die Krankheiten | مرض / أمراض؛ -heit لاحقة بتحوّل الصفة لاسم، و-en للجمع | Es gibt viele verschiedene Krankheiten. | فيه أمراض مختلفة كتير. | noun | introduced |
 | V358 | der Salbei | normalerweise kein Plural; botanisch: die Salbeien | الميرمية / المريمية؛ عشبة عطرية | Ich trinke Salbeitee. | أنا بشرب شاي الميرمية. | noun | introduced |
 | V359 | die Verwendung | die Verwendungen (selten im Alltag) | الاستخدام / الاستعمال | Die Verwendung von Heilkräutern ist weit verbreitet. | استخدام الأعشاب الطبية منتشر جدًا. | noun | introduced |
+| V360 | der Betrieb | die Betriebe | شركة / منشأة أو التشغيل حسب السياق | Die Maschine ist in Betrieb. | الماكينة شغالة. | noun | introduced |
 
 ## Learning notes
 
