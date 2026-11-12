@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**366 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**367 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -372,6 +372,7 @@
 | V364 | der Sachbearbeiter / die Sachbearbeiterin | die Sachbearbeiter / die Sachbearbeiterinnen | الموظف أو الموظفة المختصة بملف أو طلب | Der Sachbearbeiter bearbeitet meinen Antrag. | الموظف المختص بيراجع طلبي. | noun | introduced |
 | V365 | der Erfolg | die Erfolge | النجاح / الإنجاز | Ich wünsche dir viel Erfolg! | بتمنالك نجاح كبير / بالتوفيق! | noun | introduced |
 | V366 | der Apparat | die Apparate | جهاز / تليفون؛ am Apparat = معاك على التليفون | Müller am Apparat. | معاك مولر على التليفون. | noun | introduced |
+| V367 | der Strom | die Ströme | الكهرباء / التيار الكهربائي؛ تيار مائي أو نهر كبير حسب السياق | Wir haben keinen Strom. | الكهربا قاطعة عندنا. | noun | introduced |
 
 ## Learning notes
 
