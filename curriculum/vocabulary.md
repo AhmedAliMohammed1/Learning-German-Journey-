@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**357 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**358 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -363,6 +363,7 @@
 | V355 | das Kloster | die Klöster | الدير / الأديرة؛ مكان الرهبان أو الراهبات | Die Nonne lebt in einem Kloster. | الراهبة عايشة في دير. | noun | introduced |
 | V356 | Biberach (an der Riß) | —; Ortsname | بيبراخ؛ مدينة ألمانية في بادن فورتمبيرغ | Ich fahre morgen nach Biberach. | أنا مسافر بيبراخ بكرة. | proper_name | introduced |
 | V357 | die Krankheit | die Krankheiten | مرض / أمراض؛ -heit لاحقة بتحوّل الصفة لاسم، و-en للجمع | Es gibt viele verschiedene Krankheiten. | فيه أمراض مختلفة كتير. | noun | introduced |
+| V358 | der Salbei | normalerweise kein Plural; botanisch: die Salbeien | الميرمية / المريمية؛ عشبة عطرية | Ich trinke Salbeitee. | أنا بشرب شاي الميرمية. | noun | introduced |
 
 ## Learning notes
 
