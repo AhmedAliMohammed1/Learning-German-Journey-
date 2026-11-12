@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb/vocabulary intake — 2026-11-12: melden / Rassen
+
+- Learner supplied `melden rassen`. Verified full canonical inventories: existing **#267 sich melden** but independent **melden** absent; new **#310 melden** = يبلّغ عن شيء, Perfekt `hat gemeldet`, example `Ich muss den Unfall der Polizei melden.` = لازم أبلّغ الشرطة عن الحادث. New **V371 die Rasse**, plural `die Rassen` = سلالة / سلالات, example `Es gibt viele verschiedene Hunderassen.` = فيه سلالات كلاب مختلفة كتير. Both introduced not mastered. Counts **310 verbs / 371 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused review and large progress.json reconciliation unchanged.
+
+
 ## Vocabulary intake — 2026-11-12: Büsche and Hecken
 
 - Learner submitted plural `Büsche` and `Hecken`. Full canonical duplicate check passed; added **V369 der Busch**, plural `die Büsche` = شُجيرة / شجيرات, and **V370 die Hecke**, plural `die Hecken` = سياج نباتي / سور من الشجيرات. Each entry includes German example and Egyptian Arabic translation. Introduced, not mastered. Canonical totals **309 verbs / 370 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused reviews and large structured progress.json reconciliation preserved.
