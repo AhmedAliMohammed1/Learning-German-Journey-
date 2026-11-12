@@ -183,3 +183,7 @@ This preference supersedes earlier fixed-target/supplemental-count wording.
 - Explicit learner: «انا محتاج افعال مهمه انا ممكن استخدمها اكتر في الحياه اليوميه و متكونش خدناهم قبل كدا».
 - Prefer broadly reusable everyday conversation verbs across social plans, needs, expectations and experiences; avoid an entire specialized household-task batch unless explicitly requested. New candidates must never duplicate prior taught items.
 - Household211–220 already introduced remain in history, without mastery or attempts. Broader221–230 selected next on direct request; pending work deferred.
+
+## Vocabulary intake workflow — explicit learner request 2026-11-12
+
+Learner requested: «احفظ كل حاجه علي جيت هب و بعد كدا انا هديك كلمات قولي ترجمتها و احفظها علي جيت هب». When a word is supplied, provide Egyptian Arabic meaning, check the complete verb and vocabulary inventories for duplication before registering; if genuinely new append next stable ID to the appropriate register, include required present/Perfekt details for verbs or article/plural and bilingual example for vocabulary, and verify GitHub persistence. If already known, explain it and do not duplicate. Preserve previous progress and paused work. A request to save/navigation alone is not a study attempt or item introduction.
