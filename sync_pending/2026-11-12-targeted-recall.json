@@ -1,0 +1,703 @@
+{
+  "schema": "isolated_recall_incremental_delta_v1",
+  "date": "2026-11-12",
+  "repository": "AhmedAliMohammed1/Learning-German-Journey-",
+  "source_day": "days/2026-11-12.md",
+  "session_status": "paused_main_menu",
+  "activity": "targeted_isolated_infinitive_recall",
+  "introduced_count_change": 0,
+  "vocabulary_count_change": 0,
+  "records": [
+    {
+      "exercise_id": "2026-11-12-R01-E01",
+      "verb_id": 261,
+      "learner_answer": "vorbieten",
+      "outcome": "needs_review",
+      "correct_target": "verbieten"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E02",
+      "verb_id": 262,
+      "learner_answer": "überlegen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E03",
+      "verb_id": 263,
+      "learner_answer": "zurückrufen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E04",
+      "verb_id": 264,
+      "learner_answer": "vorhaben",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E05",
+      "verb_id": 265,
+      "learner_answer": "auffallen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E06",
+      "verb_id": 266,
+      "learner_answer": "ausgehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E07",
+      "verb_id": 267,
+      "learner_answer": "sich melden",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E08",
+      "verb_id": 268,
+      "learner_answer": "behalten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E09",
+      "verb_id": 269,
+      "learner_answer": "einfallen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E10",
+      "verb_id": 270,
+      "learner_answer": "sich konzentrieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E11",
+      "verb_id": 271,
+      "learner_answer": "legern",
+      "outcome": "needs_review",
+      "correct_target": "lagern"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E12",
+      "verb_id": 272,
+      "learner_answer": "nennen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E13",
+      "verb_id": 273,
+      "learner_answer": "sich vorlesen",
+      "outcome": "needs_review",
+      "correct_target": "vorlesen"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E14",
+      "verb_id": 274,
+      "learner_answer": "benoten",
+      "outcome": "needs_review",
+      "correct_target": "betonen"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E15",
+      "verb_id": 275,
+      "learner_answer": "feststecken",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E16",
+      "verb_id": 276,
+      "learner_answer": "tun / machen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E17",
+      "verb_id": 277,
+      "learner_answer": "reagieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E18",
+      "verb_id": 278,
+      "learner_answer": "beschäftigen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E19",
+      "verb_id": 279,
+      "learner_answer": "überfliegen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E20",
+      "verb_id": 280,
+      "learner_answer": "sich verhalten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E21",
+      "verb_id": 281,
+      "learner_answer": "bellen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E22",
+      "verb_id": 282,
+      "learner_answer": "streicheln",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E23",
+      "verb_id": 283,
+      "learner_answer": "anshene",
+      "outcome": "needs_review",
+      "correct_target": "ansehen"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E24",
+      "verb_id": 284,
+      "learner_answer": "lachen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E25",
+      "verb_id": 285,
+      "learner_answer": "rufen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E26",
+      "verb_id": 286,
+      "learner_answer": "funktionieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E27",
+      "verb_id": 287,
+      "learner_answer": "ausmachen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E28",
+      "verb_id": 288,
+      "learner_answer": "kennenlernen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E29",
+      "verb_id": 289,
+      "learner_answer": "ausnehmen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E30",
+      "verb_id": 290,
+      "learner_answer": "aufnehmen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E31",
+      "verb_id": 291,
+      "learner_answer": "segln",
+      "outcome": "needs_review",
+      "correct_target": "segeln"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E32",
+      "verb_id": 292,
+      "learner_answer": "komponieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E33",
+      "verb_id": 293,
+      "learner_answer": "zählen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E34",
+      "verb_id": 294,
+      "learner_answer": "sich verlieben",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E35",
+      "verb_id": 295,
+      "learner_answer": "weitergehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E36",
+      "verb_id": 296,
+      "learner_answer": "werden",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E37",
+      "verb_id": 297,
+      "learner_answer": "heiraten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E38",
+      "verb_id": 298,
+      "learner_answer": "übersetzen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E39",
+      "verb_id": 299,
+      "learner_answer": "leben",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E40",
+      "verb_id": 300,
+      "learner_answer": "reden / sprechen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E41",
+      "verb_id": 251,
+      "learner_answer": "kosten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E42",
+      "verb_id": 252,
+      "learner_answer": "wiegen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E43",
+      "verb_id": 253,
+      "learner_answer": "messen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E44",
+      "verb_id": 254,
+      "learner_answer": "feiern",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E45",
+      "verb_id": 255,
+      "learner_answer": "weggehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E46",
+      "verb_id": 256,
+      "learner_answer": "sich langweilen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E47",
+      "verb_id": 257,
+      "learner_answer": "frieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E48",
+      "verb_id": 258,
+      "learner_answer": "schwiten",
+      "outcome": "needs_review",
+      "correct_target": "schwitzen"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E49",
+      "verb_id": 259,
+      "learner_answer": "aufdrehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R01-E50",
+      "verb_id": 260,
+      "learner_answer": "zudrehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E01",
+      "verb_id": 201,
+      "learner_answer": "dauern",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E02",
+      "verb_id": 202,
+      "learner_answer": "passen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E03",
+      "verb_id": 203,
+      "learner_answer": "gehören",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E04",
+      "verb_id": 204,
+      "learner_answer": "bedeuten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E05",
+      "verb_id": 205,
+      "learner_answer": "sich freuen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E06",
+      "verb_id": 206,
+      "learner_answer": "klappen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E07",
+      "verb_id": 207,
+      "learner_answer": "schaffen / erledigen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E08",
+      "verb_id": 208,
+      "learner_answer": "aufpassen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E09",
+      "verb_id": 209,
+      "learner_answer": "anpropariern",
+      "outcome": "needs_review",
+      "correct_target": "anprobieren"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E10",
+      "verb_id": 210,
+      "learner_answer": "sich fühlen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E11",
+      "verb_id": 211,
+      "learner_answer": "aufschließen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E12",
+      "verb_id": 212,
+      "learner_answer": "abschließen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E13",
+      "verb_id": 213,
+      "learner_answer": "einräumen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E14",
+      "verb_id": 214,
+      "learner_answer": "aufräumen",
+      "outcome": "needs_review",
+      "correct_target": "ausräumen"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E15",
+      "verb_id": 215,
+      "learner_answer": "wegwerfen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E16",
+      "verb_id": 216,
+      "learner_answer": "aufheben",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E17",
+      "verb_id": 217,
+      "learner_answer": "bügeln",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E18",
+      "verb_id": 218,
+      "learner_answer": "wischen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E19",
+      "verb_id": 219,
+      "learner_answer": "abwaschen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E20",
+      "verb_id": 220,
+      "learner_answer": "abtrocken",
+      "outcome": "needs_review",
+      "correct_target": "abtrocknen"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E21",
+      "verb_id": 221,
+      "learner_answer": "lassen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E22",
+      "verb_id": 222,
+      "learner_answer": "passieren",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E23",
+      "verb_id": 223,
+      "learner_answer": "reichen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E24",
+      "verb_id": 224,
+      "learner_answer": "halten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E25",
+      "verb_id": 225,
+      "learner_answer": "erwarten",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E26",
+      "verb_id": 226,
+      "learner_answer": "verabreden",
+      "outcome": "needs_review",
+      "correct_target": "sich verabreden"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E27",
+      "verb_id": 227,
+      "learner_answer": "reden",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E28",
+      "verb_id": 228,
+      "learner_answer": "sich wünschen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E29",
+      "verb_id": 229,
+      "learner_answer": "genießen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E30",
+      "verb_id": 230,
+      "learner_answer": "sich interessieren für",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E31",
+      "verb_id": 231,
+      "learner_answer": "wischen",
+      "outcome": "semantic_neighbor_target_unconfirmed"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E32",
+      "verb_id": 232,
+      "learner_answer": "staubsaugen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E33",
+      "verb_id": 233,
+      "learner_answer": "lüften",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E34",
+      "verb_id": 234,
+      "learner_answer": "aufwärmen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E35",
+      "verb_id": 235,
+      "learner_answer": "nachfüllen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E36",
+      "verb_id": 236,
+      "learner_answer": "sich hinsitzen",
+      "outcome": "needs_review",
+      "correct_target": "sich hinsetzen"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E37",
+      "verb_id": 237,
+      "learner_answer": "vorbeikommen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E38",
+      "verb_id": 238,
+      "learner_answer": "losfahren",
+      "outcome": "needs_review",
+      "correct_target": "losgehen"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E39",
+      "verb_id": 239,
+      "learner_answer": "abstellen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E40",
+      "verb_id": 240,
+      "learner_answer": "sich merken",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E41",
+      "verb_id": 241,
+      "learner_answer": "mitkommen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E42",
+      "verb_id": 242,
+      "learner_answer": "zuhören",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E43",
+      "verb_id": 243,
+      "learner_answer": "nachdenken",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E44",
+      "verb_id": 244,
+      "learner_answer": "klingeln",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E45",
+      "verb_id": 245,
+      "learner_answer": "tippen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E46",
+      "verb_id": 246,
+      "learner_answer": "aufessen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E47",
+      "verb_id": 247,
+      "learner_answer": "abnehmen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E48",
+      "verb_id": 248,
+      "learner_answer": "sich verletzen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E49",
+      "verb_id": 249,
+      "learner_answer": "sich umdrehen",
+      "outcome": "accepted"
+    },
+    {
+      "exercise_id": "2026-11-12-R02-E50",
+      "verb_id": 250,
+      "learner_answer": "losfahren",
+      "outcome": "accepted"
+    }
+  ],
+  "summary": {
+    "attempted": 100,
+    "accepted_target": 86,
+    "accepted_semantic_neighbor_target_unconfirmed": 1,
+    "needs_review": 13
+  },
+  "pending": {
+    "next_round_ids": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "retry_verb_ids": [
+      261,
+      271,
+      273,
+      274,
+      283,
+      291,
+      258,
+      209,
+      214,
+      220,
+      226,
+      236,
+      238,
+      231
+    ]
+  },
+  "preserve_existing_pending": true,
+  "structured_progress_sync_pending": true
+}
