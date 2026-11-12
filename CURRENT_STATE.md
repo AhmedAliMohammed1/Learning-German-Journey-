@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Salbe
+
+- Registered **V334 die Salbe**, plural `die Salben`, مرهم / دهان طبي, with `Ich brauche eine Salbe gegen Schmerzen.` = أنا محتاج مرهم للألم. Complete 333-vocabulary / 301-verb duplicate audit found no earlier lemma. Status introduced only. Canonical totals: **301 verbs / 334 vocabulary entries**. See [Nov 12 day log](days/2026-11-12.md). Older study pauses and structured progress reconciliation unchanged.
+
+
 ## Vocabulary addition — 2026-11-12: Schnupfen
 
 - Added **V333 der Schnupfen** (الرشح / الزكام; usually no plural), with German example `Ich habe Schnupfen.` and its Egyptian Arabic translation `عندي رشح.` after complete canonical duplicate check. Introduced, not mastered. Current total **301 verbs / 333 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Previous paused exercises preserved and large `progress.json` reconciliation remains pending.
