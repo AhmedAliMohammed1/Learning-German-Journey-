@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary addition — 2026-11-12: Heilkräuter
+
+- Learner submitted `HeilKräuter`; corrected capitalization `Heilkräuter` and identified plural of **das Heilkraut**. Full inventory check: existing **V331 das Kraut** is related but not a duplicate. Added **V354 das Heilkraut**, plural **die Heilkräuter**, with Egyptian Arabic translation and example `Meine Oma benutzt Heilkräuter für ihren Tee.` = جدتي بتستخدم أعشاب طبية في الشاي بتاعها. Introduced only, not mastered. Current canonical totals **302 verbs / 354 vocabulary**. See [Nov 12 day log](days/2026-11-12.md). Deferred exercises and large progress.json reconciliation unchanged.
+
+
 ## Body parts vocabulary — 2026-11-12
 
 - Learner provided 16 body-part forms. Existing **V336 der Arm** and **V337 das Bein** reused without duplicates. Added **14 noun entries V340–V353**: der Kopf, der Hals, der Rücken, die Brust, der Bauch, die Hand, der Finger, der Fuß, das Knie, das Ohr, das Auge, der Zahn, die Nase, der Mund. Correct singular `das Auge` for learner's plural `Augen`, and capitalize `Rücken`. Each row records plural, a German example and Egyptian-Arabic translation; **introduced**, not mastered. Current canonical totals **302 verbs / 353 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Earlier pending exercises and `progress.json` reconciliation not changed.
