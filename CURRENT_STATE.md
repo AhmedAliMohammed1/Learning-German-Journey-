@@ -1,5 +1,10 @@
 # Current study state
 
+## Verb intake — 2026-11-12: aufgeben
+
+- Learner submitted `Aufgeben`; normalized **aufgeben**, strong separable verb, fully checked against 312 canonical verbs. Registered **#313 aufgeben** = يستسلم / يتخلى / يكلّف بمهمة / يرسل بالبريد; Präsens `ich gebe auf; du gibst auf; er gibt auf`, Präteritum `gab auf`, Perfekt `hat aufgegeben`; example `Gib nicht auf!` = متستسلمش! Distinguished `abgeben`. Introduced, not mastered. Totals **313 verbs / 383 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Prior reviews and large progress.json sync issue unchanged.
+
+
 ## Image reading — 2026-11-12: Ich liebe alle Tiere / Tierärztin
 
 - Screenshot `Ich liebe alle Tiere. Also will ich später mal Tierärztin werden. Das ist doch klar!` translated and explained; existing #296 werden, V070 später, V181 mal, V182 doch reused without duplication. Full canonical duplicate audit passed. Added **#312 lieben** (`hat geliebt`), **V379 das Tier** (`die Tiere`), **V380 der Tierarzt / die Tierärztin** (`die Tierärzte / die Tierärztinnen`), **V381 also**, **V382 klar**, **V383 alle**; every new entry has a German example and Egyptian Arabic translation. Introduced only, not mastered. Current counts **312 verbs / 383 vocabulary**. See [Nov 12 log](days/2026-11-12.md). Existing paused reviews and large progress.json reconciliation unchanged.
