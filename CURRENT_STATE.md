@@ -1,5 +1,10 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-12: Ratschläge / Leuten
+
+- Added **V338 der Ratschlag** (die Ratschläge, Dativ `den Ratschlägen`, نصيحة) and **V339 die Leute** (plural only, Dativ `den Leuten`, الناس) after complete verb/vocabulary duplicate audit. Both include German example and Egyptian Arabic translation. Introduced, not mastered. Current canonical totals **302 verbs / 339 vocabulary**. Logged in [Nov 12 day log](days/2026-11-12.md); prior pending work and structured `progress.json` sync issue preserved.
+
+
 ## Verb addition — 2026-11-12: wehtun
 
 - Learner supplied `weh` and `tut`. After checking all canonical entries, registered **#302 wehtun** (يوجع; separable `tut ... weh`, Perfekt `hat wehgetan`), example `Mein Kopf tut weh.` = دماغي بتوجعني. Existing #276 `tun` not duplicated; `weh` taught as part of the compound, not separately registered. Status introduced, not mastered. **302 verbs / 337 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Previous deferred work and large progress.json sync discrepancy unchanged.
