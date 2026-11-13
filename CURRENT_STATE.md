@@ -1,5 +1,13 @@
 # Current study state
 
+## Targeted introduced-only recall — R03 graded, 2026-11-13
+
+- User answered 20 mixed isolated Arabic→German items from R03 (`2026-11-13-S01-R03-E01–E20`); original submissions and corrections stored in [Nov 13 day log](days/2026-11-13.md). **19/20 exact independent recall (95%)**. One error on #192 `sich verspäten`: learner wrote `verspaten` (missing `sich` and umlaut); form retry due. `beschäftigen` was correctly accepted for the transitive sense of the deliberately ambiguous prompt; reflexive `sich beschäftigen mit` not assessed.
+- Coverage: **60 unique baseline introduced items answered / 446**, **386 still unseen**. Prior 10 retest flags from R01/R02 retained, plus #192 from R03 → **11 retest flags in total** (including capitalization and exact-target distinction, not all semantic errors).
+- Exact next action: R04, 20 untested fresh IDs, Arabic→German (verb Infinitiv, noun nominative article), store issued prompts first. Revisit queued errors in separate shuffled retests. All previous pending work remains; no contextual/Perfekt/oral mastery promotion.
+- `progress.json` still stale/oversized and its full structured reconciliation is outstanding. Dated evidence and CURRENT_STATE.md represent the saved checkpoint, not a claim of structured sync.
+
+
 ## Targeted introduced-only recall — 2026-11-13 round 3 issued (unanswered)
 
 - User requested R03 with 20 untouched IDs from the frozen 446-entry baseline-`introduced` pool. Verified disjoint from all 40 R01/R02 IDs, and exact current introduced register status. Issued **10 verbs + 10 vocabulary** as `2026-11-13-S01-R03-E01–E20` in [Nov 13 day log](days/2026-11-13.md), with Arabic prompts and stable IDs. No answers received; no mastery or attempts changes.
