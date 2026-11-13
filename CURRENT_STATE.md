@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: lieber (V388)
+
+- Learner submitted `lieber`, absent as standalone entry from complete canonical verb/vocabulary audit. Added **V388 lieber** (comparative adverb `gern – lieber – am liebsten`, meaning بفضّل / أحبّ أكتر), with bilingual example `Ich trinke lieber Tee als Kaffee.` = أنا بفضّل الشاي عن القهوة. An inflected form of adjective `lieb` can also be `lieber` in other contexts. Status `introduced` only. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
+- Registered totals **314 verbs, 388 vocabulary**. Frozen original introduced recall pool **446**, 100 answered, 346 untested, 26 review flags, **R06 next** remains unchanged; later-added V388 is outside original frozen 446. Preserve previous pauses, mistakes and pending exercise logs; stale `progress.json` reconciliation still pending.
+
+
 ## Vocabulary intake — 2026-11-13: schade (V387)
 
 - Learner submitted `schade`; full canonical verb/vocabulary duplicate check found no entry. Saved **V387 schade** as predicative adjective/exclamation meaning يا خسارة / مؤسف, with German and Egyptian Arabic example `Schade, dass du heute nicht kommen kannst!` = يا خسارة إنك مش هتعرف تيجي النهارده! No article; lowercase adjective distinct from nouns `Schaden` etc. Status `introduced`, no assessment or mastery. See [vocabulary](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
