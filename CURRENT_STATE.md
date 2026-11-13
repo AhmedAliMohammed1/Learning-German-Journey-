@@ -1,5 +1,13 @@
 # Current study state
 
+## Photo textbook intake checkpoint — 2026-11-13
+
+- User sent photograph of p.44 (German grammar: Präteritum of sein/haben; Perfekt with nonseparable verbs; adjectives about appearance/character; talking about the past; reactions). Full canonical audit prevented duplicates: existing #1 sein, #2 haben, #316 erkennen, #39 bekommen, #103 vergessen, #156 sich entschuldigen, #155 sich beschweren, #277 reagieren and V372 dick, V278 lustig, V397 Wahnsinn were retained. Forms war/hatte/erkannt etc. were not independently registered as new verbs.
+- New **#317 gefallen** (يعجب; `gefällt`, `gefiel`, `hat gefallen`, Dativ: `Das Kleid gefällt mir.`). New photo vocabulary **V399–V424 (26 entries)** and **V426–V433 (8 entries)**; all translated into Egyptian Arabic and supplied with German example and Arabic translation in canonical inventory. Items include sympathisch, unsympathisch, schlank, blond, dunkel, lang, kurz, das Haar, der Bart, die Brille, nett, interessant, früher, die Sekretärin, das Baby, erstaunt, echt, Ach komm!, Ach du liebe Zeit!, Ach was!, der Single, das Aussehen, der Charakter, die Person, ein bisschen, der Prominente/die Prominente, das Mädchen, das Foto, das Tagebuch, die Grammatik, die Kommunikation, das Präteritum, das Perfekt, Vergangenes. All `introduced`, not mastered. See [vocabulary](curriculum/vocabulary.md), [verbs](curriculum/verbs.md), [dated log](days/2026-11-13.md).
+- **Concurrent inventory change**: V425 `der Boden` was independently inserted while processing photo; kept untouched and refreshed GitHub SHA. Canonical totals verified at photo intake **317 verbs, 433 vocabulary**, which include the separately added V425, while this photo contributes exactly 1 verb and 34 vocabulary items.
+- **R06 next** for historical frozen introduced-only cohort: **446 total, 100 answered, 346 unseen, 26 retest flags**. Later new vocabulary is outside that frozen group; all old answers and paused activities preserved. `progress.json` structured synchronization still outstanding.
+
+
 ## Vocabulary intake — 2026-11-13: boden → der Boden (V425)
 
 - Learner submitted lowercase `boden`, corrected to capitalized German noun **der Boden**, plural **die Böden**, meaning الأرض / الأرضية / التربة حسب السياق. Full current canonical verb/vocabulary duplicate audit found no independent `Boden` entry. Added **V425** with reference example `Der Boden ist nass.` = الأرضية مبلولة. Introduced only, no assessed learner production or mastery. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
