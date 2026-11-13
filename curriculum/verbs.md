@@ -1,4 +1,4 @@
-# Verb curriculum — 314 introduced verbs
+# Verb curriculum — 315 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -322,6 +322,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 312 | lieben | يحب / يعشق | ich liebe; du liebst; er liebt | hat geliebt | Ich liebe alle Tiere. | introduced | Regular weak verb; Präteritum liebte; Akk object. Arabic: أنا بحب كل الحيوانات. |
 | 313 | aufgeben | يستسلم / يتخلى عن شيء / يكلّف بواجب / يرسل طرد بالبريد | ich gebe auf; du gibst auf; er gibt auf | hat aufgegeben | Gib nicht auf! | introduced | Strong separable verb; Präteritum gab auf; imperative gib auf / Gib nicht auf!; Akk object where applicable. Ich werde niemals aufgeben. = أنا عمري ما هستسلم; Der Lehrer gibt uns Hausaufgaben auf. = المدرس بيدينا واجبات; ein Paket bei der Post aufgeben = يرسل طرد من البريد. Distinguish abgeben = يسلّم. Arabic main example: متستسلمش! |
 | 314 | begleiten | يرافق / يصاحب حد / يروح معاه لمكان | ich begleite; du begleitest; er begleitet | hat begleitet | Ich begleite meine Mutter zum Arzt. | introduced | Weak regular **inseparable** verb, prefix be-; Präteritum begleitete. Takes Akkusativ person (meine Mutter), often destination zu + Dativ (zum Arzt). Perfekt uses haben without ge-: hat begleitet (not gebegleitet). Arabic example: أنا بروح مع أمي للدكتور. |
+| 315 | aussagen | يقول / يصرّح / يدلي بشهادة؛ يدلّ على / يوضّح معلومة | ich sage aus; du sagst aus; er sagt aus | hat ausgesagt | Der Zeuge sagt vor Gericht aus. | introduced | Regular separable verb: aus + sagen, Präteritum sagte aus, Perfekt hat ausgesagt. As testimony: (vor Gericht / bei der Polizei) aussagen = يدلي بشهادة. About meaning: etwas sagt etwas über jemanden/etwas aus = شيء بيوضح حاجة عن شخص/موضوع; e.g. Das Ergebnis sagt viel über seine Leistung aus. Arabic main example: الشاهد بيدلي بشهادته قدام المحكمة. Noun distinct: die Aussage (statement/testimony). |
 
 ## How to read the table
 
