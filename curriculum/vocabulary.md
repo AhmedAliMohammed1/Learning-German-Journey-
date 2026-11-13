@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**424 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**425 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -430,6 +430,7 @@
 | V422 | die Person | die Personen | الشخص | Diese Person ist sehr nett. | الشخص ده لطيف جدًا. | noun | introduced |
 | V423 | ein bisschen | — (Mengen-/Gradangabe) | شوية / قليلًا | Er ist ein bisschen müde. | هو تعبان شوية. | expression | introduced |
 | V424 | der Prominente / die Prominente | die Prominenten | شخص مشهور / شخصية مشهورة | Sie spricht über einen Prominenten. | هي بتتكلم عن شخصية مشهورة. | noun | introduced |
+| V425 | der Boden | die Böden | الأرض / الأرضية / التربة حسب السياق | Der Boden ist nass. | الأرضية مبلولة. | noun | introduced |
 
 ## Learning notes
 
