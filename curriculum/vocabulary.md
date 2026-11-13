@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**389 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**390 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -395,6 +395,7 @@
 | V387 | schade | — (prädikatives Adjektiv / Ausruf; oft „Schade!“ oder „Es ist schade, dass …“) | خسارة / يا خسارة / مؤسف | Schade, dass du heute nicht kommen kannst! | يا خسارة إنك مش هتعرف تيجي النهارده! | adjective_or_exclamation | introduced |
 | V388 | lieber | — (Komparativ von gern: gern – lieber – am liebsten; auch gebeugte Form von lieb, je nach Kontext) | يفضّل / أحبّ أكتر / بالأحرى؛ أحيانًا عزيز حسب الاستخدام | Ich trinke lieber Tee als Kaffee. | أنا بفضّل الشاي عن القهوة. | adverb_comparative | introduced |
 | V389 | der Körper | die Körper | الجسم / جسم الإنسان | Bewegung ist gut für den Körper. | الحركة مفيدة للجسم. | noun | introduced |
+| V390 | das Nahrungsmittel | die Nahrungsmittel | مادة غذائية / نوع من الأكل؛ مواد غذائية (بالجمع) | Frische Nahrungsmittel sind wichtig für eine gesunde Ernährung. | المواد الغذائية الطازة مهمة للأكل الصحي. | noun | introduced |
 
 ## Learning notes
 
