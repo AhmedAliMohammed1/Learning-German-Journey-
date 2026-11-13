@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Wasserdicht → wasserdicht (V392)
+
+- User supplied `Wasserdicht`, corrected to normal lowercase adjective lemma `wasserdicht`. Full canonical verb/vocabulary duplicate audit found no existing entry. Added **V392 wasserdicht** (ضد الميه / محكم ضد دخول الميه), with `Diese Jacke ist wasserdicht.` = الجاكيت ده ضد الميه ومش بيسربها. Distinguish weaker `wasserabweisend` (repels water). Status `introduced`, no assessment or mastery. Recorded in [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
+- Canonical totals now **315 verbs + 392 vocabulary**. Original frozen introduced-only recall pool still **446 (100 tested, 346 unseen, 26 retest flags; next R06)** and excludes later-added V392. Older pause and pending activities preserved; large structured `progress.json` sync remains pending.
+
+
 ## Vocabulary intake — 2026-11-13: glatte → glatt (V391)
 
 - Learner gave the inflected adjective `glatte`; canonical full-list duplicate search found no `glatt` lemma. Registered **V391 glatt** (ناعم/أملس، مستوٍ، زَلِق حسب context), comparatives `glatter / am glattesten`; `glatte` is adjective inflection, not separate lexeme. Example `Die Straße ist glatt.` = الطريق زَلِق. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md). Only `introduced`, no independent recall test or mastery.
