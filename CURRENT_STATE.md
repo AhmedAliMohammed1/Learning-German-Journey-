@@ -1,5 +1,12 @@
 # Current study state
 
+## User-requested pause after R05 — 2026-11-13
+
+- Learner explicitly requested to **save everything and pause**. R01–R05 original responses, grading and corrections are in [Nov 13 log](days/2026-11-13.md). 100 unique mixed baseline-introduced items were tested from 446, **346 unseen**, with **26 prior retest flags** retained (some valid alternative forms awaiting target confirmation, not all mistakes).
+- **Exact next step on return: issue R06** with 20 never-before-tested introduced IDs, Arabic→German isolated recall (verbs Infinitiv, nouns article), after checking all R01–R05 ID coverage. Then grade user answers and preserve raw submissions; revisit flagged items separately later. Do not restart, duplicate, mark mastered, or close the day merely due to pause. All historical pending sessions preserved.
+- `progress.json` has an unresolved oversized stale structured snapshot; the current verified save is the dated day log plus this state summary. No claim of full structured synchronization.
+
+
 ## Targeted introduced-only recall — R05 graded (2026-11-13)
 
 - R05 `2026-11-13-S01-R05-E01–E20` answered and graded, all original responses saved verbatim in [Nov 13 day log](days/2026-11-13.md). **13/20 exact canonical recall (65%)**, **6 actual errors**, **one valid plural variant** (V354 learner `die Heilkräuter` instead of singular target `das Heilkraut`, singular unconfirmed), hence **14/20 meaning/related-form accepted**. Learner gave `jeden / alle` for V383; `alle` matches the required plural and is credited. No automatic global mastery promotion.
