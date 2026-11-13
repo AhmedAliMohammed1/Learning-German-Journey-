@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**425 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**433 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -431,6 +431,14 @@
 | V423 | ein bisschen | — (Mengen-/Gradangabe) | شوية / قليلًا | Er ist ein bisschen müde. | هو تعبان شوية. | expression | introduced |
 | V424 | der Prominente / die Prominente | die Prominenten | شخص مشهور / شخصية مشهورة | Sie spricht über einen Prominenten. | هي بتتكلم عن شخصية مشهورة. | noun | introduced |
 | V425 | der Boden | die Böden | الأرض / الأرضية / التربة حسب السياق | Der Boden ist nass. | الأرضية مبلولة. | noun | introduced |
+| V426 | das Mädchen | die Mädchen | البنت / الفتاة | Das Mädchen schreibt ein Tagebuch. | البنت بتكتب يومياتها. | noun | introduced |
+| V427 | das Foto | die Fotos | الصورة الفوتوغرافية | Sieh dir das Foto an! | بص على الصورة! | noun | introduced |
+| V428 | das Tagebuch | die Tagebücher | المفكرة اليومية / دفتر اليوميات | Ich schreibe jeden Abend in mein Tagebuch. | أنا بكتب في يومياتي كل مساء. | noun | introduced |
+| V429 | die Grammatik | — (meist Singular) | القواعد اللغوية | Heute lerne ich deutsche Grammatik. | النهارده بتعلم قواعد ألماني. | noun | introduced |
+| V430 | die Kommunikation | — (meist Singular) | التواصل / الاتصال | Gute Kommunikation ist wichtig. | التواصل الكويس مهم. | noun | introduced |
+| V431 | das Präteritum | — (grammatische Zeitform) | زمن الماضي البسيط في الألماني | War und hatte stehen im Präteritum. | كلمتا war وhatte في زمن الماضي البسيط. | grammar_noun | introduced |
+| V432 | das Perfekt | — (grammatische Zeitform) | زمن الماضي المركب في الألماني | Ich habe gelernt steht im Perfekt. | جملة Ich habe gelernt في زمن الماضي المركب. | grammar_noun | introduced |
+| V433 | Vergangenes | — (substantiviertes Adjektiv) | حاجات حصلت في الماضي / أمور فاتت | Wir sprechen über Vergangenes. | إحنا بنتكلم عن حاجات حصلت زمان. | nominalized_adjective | introduced |
 
 ## Learning notes
 
