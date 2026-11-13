@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-13: erkannen → erkennen (#316)
+
+- Learner gave misspelled `erkannen`, corrected to `erkennen`. Audited entire canonical verb/vocabulary for duplicates and found none. Added **#316 erkennen** = يتعرف على / يميّز / يدرك, present `ich erkenne; du erkennst; er erkennt`, Präteritum `erkannte`, Perfekt `hat erkannt` (inseparable er-, no ge-), with bilingual example `Ich habe ihn auf dem Foto sofort erkannt.` = أنا اتعرفت عليه فورًا في الصورة. Learner input spelling `erkannen` retained in [dated log](days/2026-11-13.md); new entry `introduced` only and not tested/mastered. See [verb register](curriculum/verbs.md).
+- Current canonical totals **316 verbs + 396 vocabulary**. Frozen original introduced-only recall pool still **446 entries, 100 tested, 346 unseen, 26 retest flags, R06 next**, no retroactive new-lemma insertion. All other pause/history preserved. `progress.json` structured reconciliation remains outstanding.
+
+
 ## Vocabulary intake — 2026-11-13: fröhlich (V395), traurig (V396)
 
 - User gave two adjectives, `fröhlich` and `traurig`. Audited canonical verb and vocabulary inventories, neither registered previously. Added **V395 fröhlich** (فرحان/مبسوط/بشوش; `fröhlicher`, `am fröhlichsten`), example `Die Kinder sind heute sehr fröhlich.` = الأطفال مبسوطين جدًا النهارده; and **V396 traurig** (حزين/زعلان; `trauriger`, `am traurigsten`), example `Sie ist traurig, weil ihr Freund wegzieht.` = هي زعلانة عشان صاحبها هينقل يعيش في مكان تاني. Both status `introduced` only; no actual learner recall test. See [vocabulary](curriculum/vocabulary.md), [Nov 13 log](days/2026-11-13.md).
