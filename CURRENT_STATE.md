@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: komisch (V394)
+
+- Learner submitted `komisch`, absent from complete canonical verb/vocabulary check. Registered **V394 komisch** (غريب / مش طبيعي؛ أحيانًا مضحك according to context), adjective comparative `komischer`, superlative `am komischsten`; `Das klingt komisch.` = الكلام ده غريب. Contrasts with more unambiguous `seltsam` (odd) and `lustig` (funny). Status `introduced` only, no attempt or mastery; see [vocabulary](curriculum/vocabulary.md) and [Nov 13 day evidence](days/2026-11-13.md).
+- Canonical totals **315 verbs + 394 vocabulary**. Previous frozen mixed introduced-only review pool **446**, 100 answered, 346 unseen, 26 review flags, **R06 next**; newly added V394 not counted retroactively. All learner pauses, older answers, mistakes and pending activities preserved; full structured `progress.json` synchronization still outstanding.
+
+
 ## Vocabulary intake — 2026-11-13: Hübsch → hübsch (V393)
 
 - Learner submitted `Hübsch`; checked complete canonical verb/vocabulary inventory and found no existing `hübsch`. Registered **V393 hübsch**, an adjective normally written lowercase, meaning جميل / حلو / جذّاب المظهر, comparative `hübscher`, superlative `am hübschesten`. Example `Das Kleid ist sehr hübsch.` = الفستان ده جميل جدًا. `introduced` only, not assessed/mastered. See [vocabulary register](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
