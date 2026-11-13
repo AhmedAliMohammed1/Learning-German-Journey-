@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**383 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**384 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -389,6 +389,7 @@
 | V381 | also | — | إذًا / لذلك / عشان كده | Ich bin müde, also gehe ich schlafen. | أنا تعبان، وعشان كده هروح أنام. | adverb_or_connector | introduced |
 | V382 | klar | — (Adjektiv: klarer; am klarsten) | واضح / مفهوم؛ طبعًا في بعض التعبيرات | Das ist doch klar! | ده واضح طبعًا! | adjective | introduced |
 | V383 | alle | — (Pronomen/Artikelwort; Formen: alle, allen, aller) | كل / جميع (مع الجمع) | Alle Tiere brauchen Wasser. | كل الحيوانات محتاجة مياه. | determiner_or_pronoun | introduced |
+| V384 | der Himmel | die Himmel (selten; im Alltag meist Singular) | السما / السماء؛ أحيانًا الجنة أو الفردوس حسب السياق | Heute ist der Himmel blau. | النهارده السما لونها أزرق. | noun | introduced |
 
 ## Learning notes
 
