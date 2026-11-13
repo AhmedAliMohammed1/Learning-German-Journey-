@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**384 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**386 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -390,6 +390,8 @@
 | V382 | klar | — (Adjektiv: klarer; am klarsten) | واضح / مفهوم؛ طبعًا في بعض التعبيرات | Das ist doch klar! | ده واضح طبعًا! | adjective | introduced |
 | V383 | alle | — (Pronomen/Artikelwort; Formen: alle, allen, aller) | كل / جميع (مع الجمع) | Alle Tiere brauchen Wasser. | كل الحيوانات محتاجة مياه. | determiner_or_pronoun | introduced |
 | V384 | der Himmel | die Himmel (selten; im Alltag meist Singular) | السما / السماء؛ أحيانًا الجنة أو الفردوس حسب السياق | Heute ist der Himmel blau. | النهارده السما لونها أزرق. | noun | introduced |
+| V385 | das Ziel | die Ziele | الهدف / الغاية؛ الوجهة أو المكان اللي رايح له | Mein Ziel ist, besser Deutsch zu sprechen. | هدفي إني أتكلم ألماني أحسن. | noun | introduced |
+| V386 | das Leitungswasser | normalerweise kein Plural | مياه الحنفية / مية الصنبور | In Deutschland kann man vielerorts Leitungswasser trinken. | في أماكن كتير في ألمانيا تقدر تشرب مياه الحنفية. | noun | introduced |
 
 ## Learning notes
 
