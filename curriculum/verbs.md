@@ -1,4 +1,4 @@
-# Verb curriculum — 313 introduced verbs
+# Verb curriculum — 314 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -321,6 +321,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 311 | festmachen | يثبّت / يربط بإحكام / يرسّي مركب؛ يربط نتيجة بمعيار | ich mache fest; du machst fest; er macht fest | hat festgemacht | Ich mache das Fahrrad am Zaun fest. | introduced | Regular separable verb: Präteritum machte fest; Perfekt hat festgemacht. Common: etwas an etwas (Dat) festmachen; Das Boot macht am Hafen fest; den Erfolg an den Ergebnissen festmachen. Distinguish #275 feststecken. Arabic example: أنا بربط العجلة في السور. |
 | 312 | lieben | يحب / يعشق | ich liebe; du liebst; er liebt | hat geliebt | Ich liebe alle Tiere. | introduced | Regular weak verb; Präteritum liebte; Akk object. Arabic: أنا بحب كل الحيوانات. |
 | 313 | aufgeben | يستسلم / يتخلى عن شيء / يكلّف بواجب / يرسل طرد بالبريد | ich gebe auf; du gibst auf; er gibt auf | hat aufgegeben | Gib nicht auf! | introduced | Strong separable verb; Präteritum gab auf; imperative gib auf / Gib nicht auf!; Akk object where applicable. Ich werde niemals aufgeben. = أنا عمري ما هستسلم; Der Lehrer gibt uns Hausaufgaben auf. = المدرس بيدينا واجبات; ein Paket bei der Post aufgeben = يرسل طرد من البريد. Distinguish abgeben = يسلّم. Arabic main example: متستسلمش! |
+| 314 | begleiten | يرافق / يصاحب حد / يروح معاه لمكان | ich begleite; du begleitest; er begleitet | hat begleitet | Ich begleite meine Mutter zum Arzt. | introduced | Weak regular **inseparable** verb, prefix be-; Präteritum begleitete. Takes Akkusativ person (meine Mutter), often destination zu + Dativ (zum Arzt). Perfekt uses haben without ge-: hat begleitet (not gebegleitet). Arabic example: أنا بروح مع أمي للدكتور. |
 
 ## How to read the table
 
