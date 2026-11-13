@@ -1,5 +1,12 @@
 # Current study state
 
+## New vocabulary intake — 2026-11-13: Himmel (V384)
+
+- User submitted `Himmel`, checked full canonical verb and vocabulary inventories for prior occurrence. New **V384 der Himmel** = السما / السماء، وبحسب السياق الجنة / الفردوس; rare plural `die Himmel`, normally singular in everyday speech. Bilingual reference example: `Heute ist der Himmel blau.` = النهارده السما لونها أزرق. Status `introduced`, no mastery or test evidence. Saved in [vocabulary register](curriculum/vocabulary.md) and [Nov 13 day log](days/2026-11-13.md).
+- Canonical totals now **314 verbs, 384 vocabulary**. R01–R05 frozen initial introduced-only 446-item pool unchanged, with **100 answered, 346 unseen, 26 separate retest flags, R06 next**. V384 and #314 were introduced after this frozen selection and must not be silently counted inside it.
+- Structured `progress.json` oversized stale sync remains pending; preserve all prior exercise history and pause marker.
+
+
 ## New verb introduction — 2026-11-13: begleiten (#314)
 
 - User submitted `begleiten` for translation and unique intake. Full canonical verb/vocabulary duplicate audit found none. Added **#314 begleiten**, introduced (not mastered), with Präsens `ich begleite; du begleitest; er begleitet`, Perfekt `hat begleitet`, Präteritum `begleitete`, and German/Egyptian-Arabic example `Ich begleite meine Mutter zum Arzt.` = أنا بروح مع أمي للدكتور. Regular inseparable `be-` verb, Akkusativ companion.
