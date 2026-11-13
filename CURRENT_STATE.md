@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Wahnsinn (V397)
+
+- Learner supplied `Wahnsinn`; full canonical inventories checked for duplicates, no prior entry. Added **V397 der Wahnsinn** = الجنون / حاجة مش معقولة; colloquial `Wahnsinn!` often يا نهار أبيض / رهيب / تحفة, tone-dependent. Usually singular. Example `Wahnsinn! Das ist ja unglaublich!` = يا نهار أبيض! ده مش معقول! Registered as `introduced` (no independent tested recall or mastery), in [vocabulary](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
+- Totals **316 verbs + 397 vocabulary**. Original frozen introduced recall cohort still **446 items, 100 tested, 346 unseen, 26 retry flags, R06 next**; new V397 not counted retroactively. Earlier paused sessions, answers and mistakes preserved. Structured `progress.json` reconciliation still pending.
+
+
 ## Verb intake — 2026-11-13: erkannen → erkennen (#316)
 
 - Learner gave misspelled `erkannen`, corrected to `erkennen`. Audited entire canonical verb/vocabulary for duplicates and found none. Added **#316 erkennen** = يتعرف على / يميّز / يدرك, present `ich erkenne; du erkennst; er erkennt`, Präteritum `erkannte`, Perfekt `hat erkannt` (inseparable er-, no ge-), with bilingual example `Ich habe ihn auf dem Foto sofort erkannt.` = أنا اتعرفت عليه فورًا في الصورة. Learner input spelling `erkannen` retained in [dated log](days/2026-11-13.md); new entry `introduced` only and not tested/mastered. See [verb register](curriculum/verbs.md).
