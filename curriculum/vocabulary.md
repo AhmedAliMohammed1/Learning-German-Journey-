@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**393 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**394 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -399,6 +399,7 @@
 | V391 | glatt | — (Adjektiv: glatter; am glattesten; flektiert z. B. glatte) | ناعم / أملس؛ مستوٍ؛ زَلِق حسب السياق | Die Straße ist glatt. | الطريق زَلِق. | adjective | introduced |
 | V392 | wasserdicht | — (Adjektiv: auch wasserdichte, wasserdichter; Steigerung selten) | ضد الميه / ما بيسربش مية / محكم ضد دخول الماء | Diese Jacke ist wasserdicht. | الجاكيت ده ضد الميه ومش بيسربها. | adjective | introduced |
 | V393 | hübsch | — (Adjektiv: hübscher; am hübschesten) | جميل / حلو / شكله لطيف أو جذّاب، غالبًا في الشكل والمظهر | Das Kleid ist sehr hübsch. | الفستان ده جميل جدًا. | adjective | introduced |
+| V394 | komisch | — (Adjektiv: komischer; am komischsten) | غريب / مش طبيعي؛ مضحك أحيانًا حسب السياق | Das klingt komisch. | ده شكله / كلامه غريب. | adjective | introduced |
 
 ## Learning notes
 
