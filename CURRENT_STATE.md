@@ -1,5 +1,13 @@
 # Current study state
 
+## Targeted introduced-only recall — 2026-11-13 round 2 graded
+
+- R02 `2026-11-13-S01-R02-E01–E20` was answered independently; original answers and individual outcomes are preserved in [Nov 13 day log](days/2026-11-13.md). 15 exact correct, four form/article/spelling errors, one valid semantic alternative (`umziehen` for change of residence instead of target `einziehen`); therefore 16/20 semantic acceptance and 15/20 exact target forms. No new words or verbs introduced, and no automatic mastery changes.
+- New R02 retest flags: **V034 die Wohnung** (missing article and capitalization), **V257 der Gast** (article), **V293 das Gedicht** (spelling), **V205 spannend** (spelling); target-specific **#189 einziehen** remains unconfirmed despite valid alternative `umziehen`. Preserve R01 four errors (#197, V355, #273, V370) and V247 capitalization reminder. **10 combined retest flags**, with nuanced semantic status.
+- Coverage: **40 of initial 446 introduced entries tested**, **406 not yet tested**. Exact continuation is new R03 with 20 other untested baseline-introduced items, mixed Arabic→German isolated recall (verbs Infinitiv; nouns nominative article), then shuffled error retests. Keep all earlier paused activities.
+- Structured `progress.json` still has a known oversized stale snapshot; this dated day log and current state are saved but full structured synchronization is not complete.
+
+
 ## Targeted introduced-only recall — 2026-11-13 round 2 issued (unanswered)
 
 - Learner explicitly continued mixed introduced-only Arabic→German review. Issued 20 **new** items (10 verbs, 10 vocabulary) as `2026-11-13-S01-R02-E01–E20`, stored with exact Arabic prompts and canonical IDs in [Nov 13 day log](days/2026-11-13.md). No responses received, do not grade or count them as attempted.
