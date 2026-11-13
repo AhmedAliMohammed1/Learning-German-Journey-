@@ -1,5 +1,12 @@
 # Current study state
 
+## Targeted introduced-only recall — R05 issued, unanswered (2026-11-13)
+
+- User requested 20 fresh Arabic→German isolated recall prompts from the frozen 446-entry baseline `introduced` list. Verified exactly 10 verbs + 10 vocabulary with canonical introduced status, disjoint from all 80 R01–R04 tested IDs. Recorded prompts and stable IDs as `2026-11-13-S01-R05-E01–E20` in [Nov 13 day log](days/2026-11-13.md). No learner answers received, no attempts, outcomes or mastery changed.
+- **Coverage: 80 answered, 20 R05 issued/unanswered, 346 still not issued, thus 366 still untested**. Existing 19 review flags for previous rounds (wrong forms, articles, spelling, and valid alternative/target distinctions) retained separately.
+- Exact next action: collect R05 answers in question order, grade against saved prompts and preserve verbatim answers; proceed with new untested R06 thereafter and separate shuffled retests. Older pending activities and large stale `progress.json` discrepancy remain intact.
+
+
 ## Targeted introduced-only recall — R04 graded (2026-11-13)
 
 - R04 `2026-11-13-S01-R04-E01–E20` answered and graded; original learner responses preserved in [Nov 13 day log](days/2026-11-13.md). **12/20 exact canonical target-form matches**, 6 true form/article/meaning errors, 2 meaningful/regional alternative forms with exact intended target lemma unconfirmed. No mastery promotion or new curriculum entries. `die Sitzung/ Meeting` accepted because `die Sitzung` was recalled.
