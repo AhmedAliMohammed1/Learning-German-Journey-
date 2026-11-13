@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: schade (V387)
+
+- Learner submitted `schade`; full canonical verb/vocabulary duplicate check found no entry. Saved **V387 schade** as predicative adjective/exclamation meaning يا خسارة / مؤسف, with German and Egyptian Arabic example `Schade, dass du heute nicht kommen kannst!` = يا خسارة إنك مش هتعرف تيجي النهارده! No article; lowercase adjective distinct from nouns `Schaden` etc. Status `introduced`, no assessment or mastery. See [vocabulary](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
+- Inventory now **314 verbs + 387 vocabulary**. Previously frozen R01–R05 baseline introduced pool remains **446**, with **100 tested / 346 unseen / 26 retest flags / R06 next**, unaltered by later additions. Preserve all earlier exercise and pause state; `progress.json` structured sync still outstanding.
+
+
 ## Vocabulary intake — 2026-11-13: Ziel and Leitungswasser (V385–V386)
 
 - Learner supplied `Ziel` and misspelled `Leitungwasser`; full verb/vocab duplicate audit found no matches. Saved corrected **V385 das Ziel** (die Ziele; الهدف / الغاية / الوجهة) and **V386 das Leitungswasser** (uncountable; مياه الحنفية) in [vocabulary register](curriculum/vocabulary.md), with German/Egyptian-Arabic examples; additional dated evidence in [Nov 13 log](days/2026-11-13.md). Both introduced only, not mastered.
