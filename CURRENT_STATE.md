@@ -1,5 +1,12 @@
 # Current study state
 
+## Targeted introduced-only recall — 2026-11-13 round 3 issued (unanswered)
+
+- User requested R03 with 20 untouched IDs from the frozen 446-entry baseline-`introduced` pool. Verified disjoint from all 40 R01/R02 IDs, and exact current introduced register status. Issued **10 verbs + 10 vocabulary** as `2026-11-13-S01-R03-E01–E20` in [Nov 13 day log](days/2026-11-13.md), with Arabic prompts and stable IDs. No answers received; no mastery or attempts changes.
+- Coverage: **40 answered**, **20 R03 prompts issued/unanswered**, **386 not yet issued**, and therefore **406 not yet tested**. Prior **10 retry flags** remain from R01/R02 and are not included in the new 20.
+- Exact next step: grade R03 responses in order, save raw answers and corrections, then continue with previously untested entries. All old activities and unresolved `progress.json` structured-sync warning preserved.
+
+
 ## Targeted introduced-only recall — 2026-11-13 round 2 graded
 
 - R02 `2026-11-13-S01-R02-E01–E20` was answered independently; original answers and individual outcomes are preserved in [Nov 13 day log](days/2026-11-13.md). 15 exact correct, four form/article/spelling errors, one valid semantic alternative (`umziehen` for change of residence instead of target `einziehen`); therefore 16/20 semantic acceptance and 15/20 exact target forms. No new words or verbs introduced, and no automatic mastery changes.
