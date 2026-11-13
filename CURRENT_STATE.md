@@ -1,5 +1,12 @@
 # Current study state
 
+## Targeted introduced-only recall — 2026-11-13 round 2 issued (unanswered)
+
+- Learner explicitly continued mixed introduced-only Arabic→German review. Issued 20 **new** items (10 verbs, 10 vocabulary) as `2026-11-13-S01-R02-E01–E20`, stored with exact Arabic prompts and canonical IDs in [Nov 13 day log](days/2026-11-13.md). No responses received, do not grade or count them as attempted.
+- Baseline pool 446 items: **20 round-1 answered; 20 round-2 issued but unanswered; 406 not yet issued**. Thus **426 still untested**; four actual round-1 errors and one capitalization form reminder remain queued for a later shuffled pass.
+- Exact next action: collect the 20 round-2 responses in order, grade each against issued prompts, then update dated evidence and continue unseen pool. Keep earlier pending work and unsynced large `progress.json` reconciliation unchanged.
+
+
 ## Targeted introduced-only recall — 2026-11-13 round 1
 
 - Learner selected **all baseline `introduced` verbs and vocabulary**, mixed isolated Arabic→German recall (verbs Infinitiv, nouns nominative article). Canonical inventory snapshot: **313 verbs / 383 vocabulary**, exact `introduced` row counts **129 verbs + 317 vocabulary = 446 eligible**. Statuses reflect baseline, not contextual or Perfekt mastery.
