@@ -1,4 +1,4 @@
-# Verb curriculum — 317 introduced verbs
+# Verb curriculum — 318 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -325,6 +325,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 315 | aussagen | يقول / يصرّح / يدلي بشهادة؛ يدلّ على / يوضّح معلومة | ich sage aus; du sagst aus; er sagt aus | hat ausgesagt | Der Zeuge sagt vor Gericht aus. | introduced | Regular separable verb: aus + sagen, Präteritum sagte aus, Perfekt hat ausgesagt. As testimony: (vor Gericht / bei der Polizei) aussagen = يدلي بشهادة. About meaning: etwas sagt etwas über jemanden/etwas aus = شيء بيوضح حاجة عن شخص/موضوع; e.g. Das Ergebnis sagt viel über seine Leistung aus. Arabic main example: الشاهد بيدلي بشهادته قدام المحكمة. Noun distinct: die Aussage (statement/testimony). |
 | 316 | erkennen | يتعرّف على شخص أو حاجة / يميّز / يدرك أو يكتشف حقيقة | ich erkenne; du erkennst; er erkennt | hat erkannt | Ich habe ihn auf dem Foto sofort erkannt. | introduced | Strong inseparable verb with er-: Präteritum erkannte; Perfekt hat erkannt (no ge-). Akk object: jemanden/etwas erkennen. Distinguish kennen = يعرف مسبقًا; erkennen = يتعرّف أو يميّز/يدرك؛ anerkennen = يعترف رسميًا أو يقدّر. Arabic example: أنا اتعرفت عليه فورًا في الصورة. Learner input spelling erkannen corrected to erkennen. |
 | 317 | gefallen | يعجب شخص / ينال إعجابه | ich gefalle; du gefällst; er gefällt | hat gefallen | Das Kleid gefällt mir. | introduced | Strong inseparable verb; Präteritum gefiel; Perfekt hat gefallen (no ge-); thing/person liked is subject, liker takes Dativ: Das Kleid gefällt mir / Die Schuhe gefallen ihr. Distinct from sich gefallen and fallen. Arabic example: الفستان عاجبني. |
+| 318 | decken | يغطّي / يجهّز السفرة / يلبّي أو يغطي احتياجًا أو تكاليف | ich decke; du deckst; er deckt | hat gedeckt | Ich decke den Tisch für das Abendessen. | introduced | Regular weak non-separable verb; Präteritum deckte; Perfekt hat gedeckt. Takes Akkusativ. `den Tisch decken` = يجهّز السفرة; `etwas mit etwas (Dat) decken` = يغطي حاجة بشيء؛ `die Kosten decken` = يغطي التكاليف؛ `den Bedarf decken` = يلبّي الاحتياج. Example Arabic: أنا بجهّز السفرة للعشا. Distinguish zudecken = يغطّي (شخصًا/شيئًا بغطاء), aufdecken = يكشف / يجهّز السفرة حسب السياق. |
 
 ## How to read the table
 
