@@ -1,5 +1,12 @@
 # Current study state
 
+## Targeted introduced-only recall — 2026-11-13 round 1
+
+- Learner selected **all baseline `introduced` verbs and vocabulary**, mixed isolated Arabic→German recall (verbs Infinitiv, nouns nominative article). Canonical inventory snapshot: **313 verbs / 383 vocabulary**, exact `introduced` row counts **129 verbs + 317 vocabulary = 446 eligible**. Statuses reflect baseline, not contextual or Perfekt mastery.
+- First 20 answered independently in writing, recorded verbatim in [Nov 13 day log](days/2026-11-13.md) as `2026-11-13-S01-R01-E01–E20`. **15 exact written forms**, **1 correct lexical identity with capitalization-only repair** (`die überraschung` → `die Überraschung`), **4 errors to retry**: #197 `vermieden` → `vermeiden`, V355 `das Klster` → `das Kloster`, #273 `verlesen` → `vorlesen`, V370 `der Hecke` → `die Hecke` (nominative). Meaning/lemma score **16/20**, strict spelling/form **15/20**.
+- **Exact continuation**: 20 tested, **426 unseen** from initial eligible scope; give another shuffled mixed 20 without reusing tested entries as new, later retest 4 errors plus the capitalization item. No automatic mastery promotion, no Perfekt/context/oral claims. Older pending practice and Nov 12 review remain paused.
+- Structured `progress.json` is still a stale large snapshot with unresolved connector synchronization; day log and this checkpoint are current dated evidence. **The structured sync remains pending**; don't claim it complete.
+
 ## Verb intake — 2026-11-12: aufgeben
 
 - Learner submitted `Aufgeben`; normalized **aufgeben**, strong separable verb, fully checked against 312 canonical verbs. Registered **#313 aufgeben** = يستسلم / يتخلى / يكلّف بمهمة / يرسل بالبريد; Präsens `ich gebe auf; du gibst auf; er gibt auf`, Präteritum `gab auf`, Perfekt `hat aufgegeben`; example `Gib nicht auf!` = متستسلمش! Distinguished `abgeben`. Introduced, not mastered. Totals **313 verbs / 383 vocabulary**; see [Nov 12 day log](days/2026-11-12.md). Prior reviews and large progress.json sync issue unchanged.
