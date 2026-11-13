@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**386 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**387 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -392,6 +392,7 @@
 | V384 | der Himmel | die Himmel (selten; im Alltag meist Singular) | السما / السماء؛ أحيانًا الجنة أو الفردوس حسب السياق | Heute ist der Himmel blau. | النهارده السما لونها أزرق. | noun | introduced |
 | V385 | das Ziel | die Ziele | الهدف / الغاية؛ الوجهة أو المكان اللي رايح له | Mein Ziel ist, besser Deutsch zu sprechen. | هدفي إني أتكلم ألماني أحسن. | noun | introduced |
 | V386 | das Leitungswasser | normalerweise kein Plural | مياه الحنفية / مية الصنبور | In Deutschland kann man vielerorts Leitungswasser trinken. | في أماكن كتير في ألمانيا تقدر تشرب مياه الحنفية. | noun | introduced |
+| V387 | schade | — (prädikatives Adjektiv / Ausruf; oft „Schade!“ oder „Es ist schade, dass …“) | خسارة / يا خسارة / مؤسف | Schade, dass du heute nicht kommen kannst! | يا خسارة إنك مش هتعرف تيجي النهارده! | adjective_or_exclamation | introduced |
 
 ## Learning notes
 
