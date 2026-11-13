@@ -1,5 +1,11 @@
 # Current study state
 
+## New verb intake — 2026-11-13: aussagen (#315)
+
+- Learner submitted `aussagen`, not present in complete canonical verb/vocabulary search. Registered **#315 aussagen** as separable regular verb, `ich sage aus; du sagst aus; er sagt aus`, `hat ausgesagt`, `sagte aus`; meanings يدلي بشهادة / يصرّح, and يدل على / يوضح معنى. Example `Der Zeuge sagt vor Gericht aus.` = الشاهد بيدلي بشهادته قدام المحكمة. Status `introduced` only. See [verb inventory](curriculum/verbs.md) and [dated log](days/2026-11-13.md).
+- Inventory **315 verbs + 388 vocabulary**. Previously frozen mixed introduced-only recall scope stays **446**, 100 tested, 346 unseen, 26 retest flags; **R06 next**. #315 and other post-baseline new entries not counted retroactively. Old pause and other exercises preserved. `progress.json` structured sync still pending.
+
+
 ## Vocabulary intake — 2026-11-13: lieber (V388)
 
 - Learner submitted `lieber`, absent as standalone entry from complete canonical verb/vocabulary audit. Added **V388 lieber** (comparative adverb `gern – lieber – am liebsten`, meaning بفضّل / أحبّ أكتر), with bilingual example `Ich trinke lieber Tee als Kaffee.` = أنا بفضّل الشاي عن القهوة. An inflected form of adjective `lieb` can also be `lieber` in other contexts. Status `introduced` only. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
