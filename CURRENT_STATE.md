@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: nämlich (V398)
+
+- Learner submitted `nämlich`; full duplicate audit of canonical verb/vocabulary registers found none. Added **V398 nämlich** as explanatory particle/adverb meaning والسبب إن / لأن / ألا وهو according to context. Example `Ich kann heute nicht kommen. Ich muss nämlich arbeiten.` = مش هقدر أجي النهارده، عشان أنا لازم أشتغل. Also appositional use `zwei Katzen, nämlich Mia und Leo`. `introduced` only, no learner tested recall/mastery. See [vocabulary register](curriculum/vocabulary.md) and [dated evidence](days/2026-11-13.md).
+- Totals **316 verbs + 398 vocabulary**. Historic frozen initial introduced-only mixed review cohort **446 items / 100 tested / 346 unseen / 26 retest flags / R06 next**, not retroactively expanded by later V398. Preserve paused work, prior attempts and mistakes; large stale `progress.json` structured reconciliation remains pending.
+
+
 ## Vocabulary intake — 2026-11-13: Wahnsinn (V397)
 
 - Learner supplied `Wahnsinn`; full canonical inventories checked for duplicates, no prior entry. Added **V397 der Wahnsinn** = الجنون / حاجة مش معقولة; colloquial `Wahnsinn!` often يا نهار أبيض / رهيب / تحفة, tone-dependent. Usually singular. Example `Wahnsinn! Das ist ja unglaublich!` = يا نهار أبيض! ده مش معقول! Registered as `introduced` (no independent tested recall or mastery), in [vocabulary](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
