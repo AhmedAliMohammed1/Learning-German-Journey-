@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Nahrungsmittel (V390)
+
+- Learner submitted `Nahrungsmittel`; checked complete canonical verbs and vocabulary inventories and found no matching existing standalone entry. Added **V390 das Nahrungsmittel** (plural `die Nahrungsmittel`, مادة غذائية / مواد غذائية), bilingual example `Frische Nahrungsmittel sind wichtig für eine gesunde Ernährung.` = المواد الغذائية الطازة مهمة للأكل الصحي. `introduced` only, not tested or mastered. Recorded in [vocabulary inventory](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
+- Canonical totals now **315 verbs + 390 vocabulary**. Frozen original review pool remains **446**, with **100 answered, 346 unseen, 26 retest flags, R06 next**; later-added V390 is not retroactively counted. Prior learner pause, all evidence and exercises preserved. Large `progress.json` structured sync still pending.
+
+
 ## Vocabulary intake — 2026-11-13: Körper (V389)
 
 - Learner submitted `Körper`; comprehensive duplicate check against canonical verb/vocabulary found no existing entry. Registered **V389 der Körper** (die Körper; الجسم / جسم الإنسان) with example `Bewegung ist gut für den Körper.` = الحركة مفيدة للجسم. Masculine noun, taught nominative article and plural; introduced only, not attempted/mastered. See [vocabulary inventory](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
