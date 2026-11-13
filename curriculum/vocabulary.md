@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**394 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**396 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -400,6 +400,8 @@
 | V392 | wasserdicht | — (Adjektiv: auch wasserdichte, wasserdichter; Steigerung selten) | ضد الميه / ما بيسربش مية / محكم ضد دخول الماء | Diese Jacke ist wasserdicht. | الجاكيت ده ضد الميه ومش بيسربها. | adjective | introduced |
 | V393 | hübsch | — (Adjektiv: hübscher; am hübschesten) | جميل / حلو / شكله لطيف أو جذّاب، غالبًا في الشكل والمظهر | Das Kleid ist sehr hübsch. | الفستان ده جميل جدًا. | adjective | introduced |
 | V394 | komisch | — (Adjektiv: komischer; am komischsten) | غريب / مش طبيعي؛ مضحك أحيانًا حسب السياق | Das klingt komisch. | ده شكله / كلامه غريب. | adjective | introduced |
+| V395 | fröhlich | — (Adjektiv: fröhlicher; am fröhlichsten) | فرحان / مبسوط / بشوش | Die Kinder sind heute sehr fröhlich. | الأطفال مبسوطين جدًا النهارده. | adjective | introduced |
+| V396 | traurig | — (Adjektiv: trauriger; am traurigsten) | زعلان / حزين | Sie ist traurig, weil ihr Freund wegzieht. | هي زعلانة عشان صاحبها هينقل يعيش في مكان تاني. | adjective | introduced |
 
 ## Learning notes
 
