@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: glatte → glatt (V391)
+
+- Learner gave the inflected adjective `glatte`; canonical full-list duplicate search found no `glatt` lemma. Registered **V391 glatt** (ناعم/أملس، مستوٍ، زَلِق حسب context), comparatives `glatter / am glattesten`; `glatte` is adjective inflection, not separate lexeme. Example `Die Straße ist glatt.` = الطريق زَلِق. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md). Only `introduced`, no independent recall test or mastery.
+- Inventory totals **315 verbs + 391 vocabulary**. Original frozen introduced-only mixed recall scope **446 items / 100 tested / 346 unseen / 26 retest flags**, **R06 next**, remains unchanged by subsequent vocabulary intake. Preserve paused activity and prior evidence. Structured `progress.json` sync remains outstanding.
+
+
 ## Vocabulary intake — 2026-11-13: Nahrungsmittel (V390)
 
 - Learner submitted `Nahrungsmittel`; checked complete canonical verbs and vocabulary inventories and found no matching existing standalone entry. Added **V390 das Nahrungsmittel** (plural `die Nahrungsmittel`, مادة غذائية / مواد غذائية), bilingual example `Frische Nahrungsmittel sind wichtig für eine gesunde Ernährung.` = المواد الغذائية الطازة مهمة للأكل الصحي. `introduced` only, not tested or mastered. Recorded in [vocabulary inventory](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
