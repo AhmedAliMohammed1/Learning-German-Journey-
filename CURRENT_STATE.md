@@ -1,5 +1,12 @@
 # Current study state
 
+## New verb introduction — 2026-11-13: begleiten (#314)
+
+- User submitted `begleiten` for translation and unique intake. Full canonical verb/vocabulary duplicate audit found none. Added **#314 begleiten**, introduced (not mastered), with Präsens `ich begleite; du begleitest; er begleitet`, Perfekt `hat begleitet`, Präteritum `begleitete`, and German/Egyptian-Arabic example `Ich begleite meine Mutter zum Arzt.` = أنا بروح مع أمي للدكتور. Regular inseparable `be-` verb, Akkusativ companion.
+- Inventory now **314 verbs, 383 vocabulary**. Existing mixed-review **446 frozen baseline-introduced entries** remain unchanged: **100 tested, 346 untested, 26 retry flags, R06 next**; #314 introduced after that baseline selection and is not retroactively counted inside it. Preserve learner pause and all other older pending exercises.
+- Recorded in [Nov 13 day log](days/2026-11-13.md). Large stale `progress.json` structured sync remains unresolved; this note and canonical curriculum reflect the new intake.
+
+
 ## User-requested pause after R05 — 2026-11-13
 
 - Learner explicitly requested to **save everything and pause**. R01–R05 original responses, grading and corrections are in [Nov 13 log](days/2026-11-13.md). 100 unique mixed baseline-introduced items were tested from 446, **346 unseen**, with **26 prior retest flags** retained (some valid alternative forms awaiting target confirmation, not all mistakes).
