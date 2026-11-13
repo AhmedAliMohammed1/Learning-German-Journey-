@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Hübsch → hübsch (V393)
+
+- Learner submitted `Hübsch`; checked complete canonical verb/vocabulary inventory and found no existing `hübsch`. Registered **V393 hübsch**, an adjective normally written lowercase, meaning جميل / حلو / جذّاب المظهر, comparative `hübscher`, superlative `am hübschesten`. Example `Das Kleid ist sehr hübsch.` = الفستان ده جميل جدًا. `introduced` only, not assessed/mastered. See [vocabulary register](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
+- Canonical totals now **315 verbs + 393 vocabulary**. Historic frozen introduced-only recall pool stays **446 (100 tested, 346 unseen, 26 retest flags; next R06)**; later-added V393 excluded from that original cohort. Preserve all previous learner evidence and pending sessions. Large `progress.json` structured synchronization still pending.
+
+
 ## Vocabulary intake — 2026-11-13: Wasserdicht → wasserdicht (V392)
 
 - User supplied `Wasserdicht`, corrected to normal lowercase adjective lemma `wasserdicht`. Full canonical verb/vocabulary duplicate audit found no existing entry. Added **V392 wasserdicht** (ضد الميه / محكم ضد دخول الميه), with `Diese Jacke ist wasserdicht.` = الجاكيت ده ضد الميه ومش بيسربها. Distinguish weaker `wasserabweisend` (repels water). Status `introduced`, no assessment or mastery. Recorded in [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
