@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-13: decken (#318)
+
+- Learner supplied `decken`; full canonical verb/vocabulary duplicate audit found no existing standalone verb. Added **#318 decken**, meaning يغطّي / يجهّز السفرة / يغطي التكاليف أو يلبي الاحتياج, regular weak verb; `ich decke; du deckst; er deckt`, Präteritum `deckte`, Perfekt `hat gedeckt`. Example `Ich decke den Tisch für das Abendessen.` = أنا بجهّز السفرة للعشا. Direct object Akkusativ; common `den Tisch decken`, `die Kosten decken`, `den Bedarf decken`. Introduced only, no independent recall or mastery. Saved in [verb inventory](curriculum/verbs.md) and [Nov 13 log](days/2026-11-13.md).
+- Canonical inventory now **318 verbs + 433 vocabulary**. Frozen original 446 introduced-only R01–R05 review items stay 100 answered, 346 unseen and 26 retest flags, **R06 next**; this later addition #318 not retroactively included. Old records and paused tasks preserved; stale large `progress.json` structured synchronization remains pending.
+
+
 ## Photo textbook intake checkpoint — 2026-11-13
 
 - User sent photograph of p.44 (German grammar: Präteritum of sein/haben; Perfekt with nonseparable verbs; adjectives about appearance/character; talking about the past; reactions). Full canonical audit prevented duplicates: existing #1 sein, #2 haben, #316 erkennen, #39 bekommen, #103 vergessen, #156 sich entschuldigen, #155 sich beschweren, #277 reagieren and V372 dick, V278 lustig, V397 Wahnsinn were retained. Forms war/hatte/erkannt etc. were not independently registered as new verbs.
