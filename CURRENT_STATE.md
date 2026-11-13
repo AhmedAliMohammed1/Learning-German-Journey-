@@ -1,5 +1,12 @@
 # Current study state
 
+## Targeted introduced-only recall — R04 issued, unanswered (2026-11-13)
+
+- Learner selected another mixed isolated Arabic→German batch. **20 fresh previously untested IDs** (10 verbs, 10 vocabulary) issued as `2026-11-13-S01-R04-E01–E20`; verified against all R01–R03 60 distinct IDs and the canonical `introduced` rows. Exact prompts and IDs saved in [Nov 13 day log](days/2026-11-13.md). No answers received for R04, so no attempt or mastery updates.
+- Baseline total **446 eligible**: **60 answered**, **20 R04 issued but unanswered**, **366 not yet issued**, hence **386 still untested**. All **11 prior retest flags** and older pending activities preserved. Exact next action: receive and grade R04 answers in order, save verbatim and keep errors for separate shuffled retest.
+- Large stale `progress.json` synchronization discrepancy remains unresolved; day log and current state are the verified written checkpoint.
+
+
 ## Targeted introduced-only recall — R03 graded, 2026-11-13
 
 - User answered 20 mixed isolated Arabic→German items from R03 (`2026-11-13-S01-R03-E01–E20`); original submissions and corrections stored in [Nov 13 day log](days/2026-11-13.md). **19/20 exact independent recall (95%)**. One error on #192 `sich verspäten`: learner wrote `verspaten` (missing `sich` and umlaut); form retry due. `beschäftigen` was correctly accepted for the transitive sense of the deliberately ambiguous prompt; reflexive `sich beschäftigen mit` not assessed.
