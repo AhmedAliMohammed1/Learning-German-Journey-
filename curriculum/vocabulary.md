@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**391 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**392 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -397,6 +397,7 @@
 | V389 | der Körper | die Körper | الجسم / جسم الإنسان | Bewegung ist gut für den Körper. | الحركة مفيدة للجسم. | noun | introduced |
 | V390 | das Nahrungsmittel | die Nahrungsmittel | مادة غذائية / نوع من الأكل؛ مواد غذائية (بالجمع) | Frische Nahrungsmittel sind wichtig für eine gesunde Ernährung. | المواد الغذائية الطازة مهمة للأكل الصحي. | noun | introduced |
 | V391 | glatt | — (Adjektiv: glatter; am glattesten; flektiert z. B. glatte) | ناعم / أملس؛ مستوٍ؛ زَلِق حسب السياق | Die Straße ist glatt. | الطريق زَلِق. | adjective | introduced |
+| V392 | wasserdicht | — (Adjektiv: auch wasserdichte, wasserdichter; Steigerung selten) | ضد الميه / ما بيسربش مية / محكم ضد دخول الماء | Diese Jacke ist wasserdicht. | الجاكيت ده ضد الميه ومش بيسربها. | adjective | introduced |
 
 ## Learning notes
 
