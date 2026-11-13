@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: fröhlich (V395), traurig (V396)
+
+- User gave two adjectives, `fröhlich` and `traurig`. Audited canonical verb and vocabulary inventories, neither registered previously. Added **V395 fröhlich** (فرحان/مبسوط/بشوش; `fröhlicher`, `am fröhlichsten`), example `Die Kinder sind heute sehr fröhlich.` = الأطفال مبسوطين جدًا النهارده; and **V396 traurig** (حزين/زعلان; `trauriger`, `am traurigsten`), example `Sie ist traurig, weil ihr Freund wegzieht.` = هي زعلانة عشان صاحبها هينقل يعيش في مكان تاني. Both status `introduced` only; no actual learner recall test. See [vocabulary](curriculum/vocabulary.md), [Nov 13 log](days/2026-11-13.md).
+- Canonical totals **315 verbs + 396 vocabulary**. Historical frozen initial mixed introduced-only recall pool still **446 items, 100 tested, 346 unseen, 26 retest flags; R06 next**, with new entries not retroactively counted. Old paused tasks, attempts and mistakes preserved; structured `progress.json` still awaiting reconciliation.
+
+
 ## Vocabulary intake — 2026-11-13: komisch (V394)
 
 - Learner submitted `komisch`, absent from complete canonical verb/vocabulary check. Registered **V394 komisch** (غريب / مش طبيعي؛ أحيانًا مضحك according to context), adjective comparative `komischer`, superlative `am komischsten`; `Das klingt komisch.` = الكلام ده غريب. Contrasts with more unambiguous `seltsam` (odd) and `lustig` (funny). Status `introduced` only, no attempt or mastery; see [vocabulary](curriculum/vocabulary.md) and [Nov 13 day evidence](days/2026-11-13.md).
