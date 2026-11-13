@@ -1,5 +1,14 @@
 # Current study state
 
+## Targeted introduced-only recall — R05 graded (2026-11-13)
+
+- R05 `2026-11-13-S01-R05-E01–E20` answered and graded, all original responses saved verbatim in [Nov 13 day log](days/2026-11-13.md). **13/20 exact canonical recall (65%)**, **6 actual errors**, **one valid plural variant** (V354 learner `die Heilkräuter` instead of singular target `das Heilkraut`, singular unconfirmed), hence **14/20 meaning/related-form accepted**. Learner gave `jeden / alle` for V383; `alle` matches the required plural and is credited. No automatic global mastery promotion.
+- Six R05 error flags: V037 `das Krankenhaus` (learner `die Krankenhaus`), V222 `die Welt` (`das Wlet`), V272 `der Bademantel` (`der Badmantel`), V298 `die Notiz` (verb `bemerken` not noun), V324 `nächstes Jahr` (`nächste Jahr`), V371 `die Rasse` (`?`, not recalled). V354 `das Heilkraut` added as separate singular/article retest despite valid plural recall.
+- Baseline pool remains **446 introduced items**. **100 distinct items tested**, **346 unseen**. Earlier **19 retest flags** retained plus 7 R05 flags = **26 retest targets in combined queue** (not all outright semantic errors). No new items introduced or Perfekt/context/skill mastery inferred.
+- **Exact next step:** R06 with 20 other fresh untested IDs, Arabic→German isolated recall (Infinitiv for verbs and nominative article for nouns), record issued prompts first. Retest errors/uncertain forms later separately in fresh shuffled pass. Preserve all older pending work.
+- Large stale `progress.json` structured synchronization remains unresolved; dated log + this current state are the verified evidence, not a claim of full structured sync.
+
+
 ## Targeted introduced-only recall — R05 issued, unanswered (2026-11-13)
 
 - User requested 20 fresh Arabic→German isolated recall prompts from the frozen 446-entry baseline `introduced` list. Verified exactly 10 verbs + 10 vocabulary with canonical introduced status, disjoint from all 80 R01–R04 tested IDs. Recorded prompts and stable IDs as `2026-11-13-S01-R05-E01–E20` in [Nov 13 day log](days/2026-11-13.md). No learner answers received, no attempts, outcomes or mastery changed.
