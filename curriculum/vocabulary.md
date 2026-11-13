@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**398 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**424 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -404,6 +404,32 @@
 | V396 | traurig | — (Adjektiv: trauriger; am traurigsten) | زعلان / حزين | Sie ist traurig, weil ihr Freund wegzieht. | هي زعلانة عشان صاحبها هينقل يعيش في مكان تاني. | adjective | introduced |
 | V397 | der Wahnsinn | normalerweise kein Plural (selten: Wahnsinne) | الجنون / حاجة مش معقولة؛ يا نهار أبيض / تحفة / رهيب حسب السياق | Wahnsinn! Das ist ja unglaublich! | يا نهار أبيض! ده مش معقول! | noun_or_exclamation | introduced |
 | V398 | nämlich | — (erklärendes Adverb / Partikel; keine Steigerung) | لأن / والسبب إن / بمعنى أو تحديدًا / ألا وهو، حسب السياق | Ich kann heute nicht kommen. Ich muss nämlich arbeiten. | مش هقدر أجي النهارده، عشان أنا لازم أشتغل. | explanatory_adverb | introduced |
+| V399 | sympathisch | — (Adjektiv: sympathischer; am sympathischsten) | لطيف / محبوب / مريح في التعامل | Er ist sehr sympathisch. | هو شخص لطيف جدًا. | adjective | introduced |
+| V400 | unsympathisch | — (Adjektiv: unsympathischer; am unsympathischsten) | مش محبوب / مش مريح في التعامل | Ich finde ihn unsympathisch. | أنا مش مرتاح له ومش شايفه شخص لطيف. | adjective | introduced |
+| V401 | schlank | — (Adjektiv: schlanker; am schlanksten) | رفيع / رشيق | Sie ist groß und schlank. | هي طويلة ورشيقة. | adjective | introduced |
+| V402 | blond | — (Adjektiv: blonde, blondes, blonder) | أشقر / شعره أصفر | Sie hat blonde Haare. | هي شعرها أشقر. | adjective | introduced |
+| V403 | dunkel | — (Adjektiv: dunkler; am dunkelsten) | غامق / مُظلم | Er hat dunkle Haare. | هو شعره غامق. | adjective | introduced |
+| V404 | lang | — (Adjektiv: länger; am längsten) | طويل (في الطول أو المدة) | Sie hat lange Haare. | هي شعرها طويل. | adjective | introduced |
+| V405 | kurz | — (Adjektiv: kürzer; am kürzesten) | قصير | Er hat kurze Haare. | هو شعره قصير. | adjective | introduced |
+| V406 | das Haar | die Haare | الشعرة / الشعر (الجمع) | Sie hat lange Haare. | هي شعرها طويل. | noun | introduced |
+| V407 | der Bart | die Bärte | الدقن / اللحية | Er hat einen Bart. | هو عنده دقن. | noun | introduced |
+| V408 | die Brille | die Brillen | النضارة / النظارة | Sie trägt eine Brille. | هي لابسة نضارة. | noun | introduced |
+| V409 | nett | — (Adjektiv: netter; am nettesten) | لطيف / ذوق / طيب | Meine Kollegin ist sehr nett. | زميلتي لطيفة جدًا. | adjective | introduced |
+| V410 | interessant | — (Adjektiv: interessanter; am interessantesten) | مثير للاهتمام / شيّق | Das Buch ist interessant. | الكتاب شيّق. | adjective | introduced |
+| V411 | früher | — (Zeitadverb; Komparativ von früh auch möglich) | زمان / في الماضي / قبل كده | Früher hatte ich lange Haare. | زمان كان شعري طويل. | time_adverb | introduced |
+| V412 | die Sekretärin | die Sekretärinnen | السكرتيرة / مساعدة إدارية | Früher war sie Sekretärin. | زمان كانت سكرتيرة. | noun | introduced |
+| V413 | das Baby | die Babys | الطفل الرضيع / البيبي | Sie haben vor zwei Jahren ein Baby bekommen. | هم خلّفوا بيبي من سنتين. | noun | introduced |
+| V414 | erstaunt | — (Adjektiv / Partizip II zu erstaunen) | مندهش / مستغرب / متفاجئ | Ich bin erstaunt über die Nachricht. | أنا متفاجئ من الخبر. | adjective | introduced |
+| V415 | echt | — (Adjektiv/Adverb; Ausruf: Echt?) | حقيقي / بجد؟ | Echt? Das wusste ich nicht! | بجد؟ أنا مكنتش أعرف ده! | adjective_or_exclamation | introduced |
+| V416 | Ach komm! | — (Ausruf) | يا عم بلاش! / معقول! | Ach komm! Das glaube ich nicht. | يا عم بلاش! مش مصدق. | expression | introduced |
+| V417 | Ach du liebe Zeit! | — (Ausruf) | يا نهار أبيض! / يا ساتر! | Ach du liebe Zeit! Es ist schon acht Uhr! | يا نهار أبيض! الساعة بقت تمانية! | expression | introduced |
+| V418 | Ach was! | — (Ausruf) | يا راجل! / مش معقول! | Ach was! Das kann nicht sein. | يا راجل! ده مش ممكن. | expression | introduced |
+| V419 | der Single | die Singles (für Männer und Frauen; auch die Single als Person möglich) | شخص أعزب / مش مرتبط | Er ist wieder Single. | هو بقى سنجل تاني. | noun | introduced |
+| V420 | das Aussehen | normalerweise kein Plural | المظهر / الشكل الخارجي | Das Aussehen ist nicht alles. | الشكل مش كل حاجة. | noun | introduced |
+| V421 | der Charakter | die Charaktere | الشخصية / الطباع | Sie hat einen freundlichen Charakter. | شخصيتها طيبة. | noun | introduced |
+| V422 | die Person | die Personen | الشخص | Diese Person ist sehr nett. | الشخص ده لطيف جدًا. | noun | introduced |
+| V423 | ein bisschen | — (Mengen-/Gradangabe) | شوية / قليلًا | Er ist ein bisschen müde. | هو تعبان شوية. | expression | introduced |
+| V424 | der Prominente / die Prominente | die Prominenten | شخص مشهور / شخصية مشهورة | Sie spricht über einen Prominenten. | هي بتتكلم عن شخصية مشهورة. | noun | introduced |
 
 ## Learning notes
 
