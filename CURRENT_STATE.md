@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: boden → der Boden (V425)
+
+- Learner submitted lowercase `boden`, corrected to capitalized German noun **der Boden**, plural **die Böden**, meaning الأرض / الأرضية / التربة حسب السياق. Full current canonical verb/vocabulary duplicate audit found no independent `Boden` entry. Added **V425** with reference example `Der Boden ist nass.` = الأرضية مبلولة. Introduced only, no assessed learner production or mastery. See [vocabulary inventory](curriculum/vocabulary.md) and [dated log](days/2026-11-13.md).
+- Canonical totals now **317 verbs and 425 vocabulary** (recent prior updates included #317 and V399–V424; preserve all entries). Earlier frozen introduced-only review pool of **446** stays **100 tested, 346 unseen, 26 flags, R06 next**, not retroactively expanded. Prior pauses and learning records preserved. Large `progress.json` structured sync still pending.
+
+
 ## Vocabulary intake — 2026-11-13: nämlich (V398)
 
 - Learner submitted `nämlich`; full duplicate audit of canonical verb/vocabulary registers found none. Added **V398 nämlich** as explanatory particle/adverb meaning والسبب إن / لأن / ألا وهو according to context. Example `Ich kann heute nicht kommen. Ich muss nämlich arbeiten.` = مش هقدر أجي النهارده، عشان أنا لازم أشتغل. Also appositional use `zwei Katzen, nämlich Mia und Leo`. `introduced` only, no learner tested recall/mastery. See [vocabulary register](curriculum/vocabulary.md) and [dated evidence](days/2026-11-13.md).
