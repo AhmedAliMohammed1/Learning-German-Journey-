@@ -1,5 +1,13 @@
 # Current study state
 
+## Targeted introduced-only recall — R04 graded (2026-11-13)
+
+- R04 `2026-11-13-S01-R04-E01–E20` answered and graded; original learner responses preserved in [Nov 13 day log](days/2026-11-13.md). **12/20 exact canonical target-form matches**, 6 true form/article/meaning errors, 2 meaningful/regional alternative forms with exact intended target lemma unconfirmed. No mastery promotion or new curriculum entries. `die Sitzung/ Meeting` accepted because `die Sitzung` was recalled.
+- R04 six error retests: #226 `sich verabreden` (missing reflexive); V307 `allein` (not `selbst`); V259 `die Heizung` (article); V301 `die Klasse` (vs `Semester`); V362 `die Wirklichkeit` (spelling); V349 `das Ohr` (article). Two target-specific checks: #193 `ausfallen` (learner `absagen`, which can correctly mean cancelling a lecture, not a train failing to operate); #236 `sich hinsetzen` (learner `sich hinsitzen`, regional/colloquial alternative).
+- Cumulative initial **446 introduced eligible items**: **80 unique items answered** in R01–R04, **366 unseen**. Prior 11 retest flags carried forward; 8 new R04 flags (6 errors + 2 distinctions) → **19 review flags in total**, not all semantic failures.
+- **Exact next step: issue R05 with 20 new, previously unseen, non-overlapping IDs**, Arabic→German isolated recall, then grade and keep original answers. Preserve old deferred exercises and separate retry queue. `progress.json` large stale structured snapshot still awaiting reconciliation and should not be reported synchronized.
+
+
 ## Targeted introduced-only recall — R04 issued, unanswered (2026-11-13)
 
 - Learner selected another mixed isolated Arabic→German batch. **20 fresh previously untested IDs** (10 verbs, 10 vocabulary) issued as `2026-11-13-S01-R04-E01–E20`; verified against all R01–R03 60 distinct IDs and the canonical `introduced` rows. Exact prompts and IDs saved in [Nov 13 day log](days/2026-11-13.md). No answers received for R04, so no attempt or mastery updates.
