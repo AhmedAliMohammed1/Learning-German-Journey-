@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Ziel and Leitungswasser (V385–V386)
+
+- Learner supplied `Ziel` and misspelled `Leitungwasser`; full verb/vocab duplicate audit found no matches. Saved corrected **V385 das Ziel** (die Ziele; الهدف / الغاية / الوجهة) and **V386 das Leitungswasser** (uncountable; مياه الحنفية) in [vocabulary register](curriculum/vocabulary.md), with German/Egyptian-Arabic examples; additional dated evidence in [Nov 13 log](days/2026-11-13.md). Both introduced only, not mastered.
+- Canonical totals now **314 verbs + 386 vocabulary**. Previously frozen mixed introduced recall pool stays **446**, 100 answered, 346 unseen, 26 review flags, **R06 next**. Later additions #314 and V384–V386 are outside this baseline and must not shift the previous coverage counts. Preserve all prior answers, errors and paused work.
+- Known large stale `progress.json` structured synchronization discrepancy still unresolved; canonical inventories, day log and current state updated.
+
+
 ## New vocabulary intake — 2026-11-13: Himmel (V384)
 
 - User submitted `Himmel`, checked full canonical verb and vocabulary inventories for prior occurrence. New **V384 der Himmel** = السما / السماء، وبحسب السياق الجنة / الفردوس; rare plural `die Himmel`, normally singular in everyday speech. Bilingual reference example: `Heute ist der Himmel blau.` = النهارده السما لونها أزرق. Status `introduced`, no mastery or test evidence. Saved in [vocabulary register](curriculum/vocabulary.md) and [Nov 13 day log](days/2026-11-13.md).
