@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-13: Körper (V389)
+
+- Learner submitted `Körper`; comprehensive duplicate check against canonical verb/vocabulary found no existing entry. Registered **V389 der Körper** (die Körper; الجسم / جسم الإنسان) with example `Bewegung ist gut für den Körper.` = الحركة مفيدة للجسم. Masculine noun, taught nominative article and plural; introduced only, not attempted/mastered. See [vocabulary inventory](curriculum/vocabulary.md) and [Nov 13 log](days/2026-11-13.md).
+- Inventory now **315 verbs + 389 vocabulary**. Previously frozen baseline 446 introduced review elements remains unchanged (**100 tested, 346 unseen, 26 retest flags, R06 next**); newer V389 excluded from that historical baseline. Previous paused learning and all old entries preserved. `progress.json` structured reconciliation still pending.
+
+
 ## New verb intake — 2026-11-13: aussagen (#315)
 
 - Learner submitted `aussagen`, not present in complete canonical verb/vocabulary search. Registered **#315 aussagen** as separable regular verb, `ich sage aus; du sagst aus; er sagt aus`, `hat ausgesagt`, `sagte aus`; meanings يدلي بشهادة / يصرّح, and يدل على / يوضح معنى. Example `Der Zeuge sagt vor Gericht aus.` = الشاهد بيدلي بشهادته قدام المحكمة. Status `introduced` only. See [verb inventory](curriculum/verbs.md) and [dated log](days/2026-11-13.md).
