@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**396 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**397 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -402,6 +402,7 @@
 | V394 | komisch | — (Adjektiv: komischer; am komischsten) | غريب / مش طبيعي؛ مضحك أحيانًا حسب السياق | Das klingt komisch. | ده شكله / كلامه غريب. | adjective | introduced |
 | V395 | fröhlich | — (Adjektiv: fröhlicher; am fröhlichsten) | فرحان / مبسوط / بشوش | Die Kinder sind heute sehr fröhlich. | الأطفال مبسوطين جدًا النهارده. | adjective | introduced |
 | V396 | traurig | — (Adjektiv: trauriger; am traurigsten) | زعلان / حزين | Sie ist traurig, weil ihr Freund wegzieht. | هي زعلانة عشان صاحبها هينقل يعيش في مكان تاني. | adjective | introduced |
+| V397 | der Wahnsinn | normalerweise kein Plural (selten: Wahnsinne) | الجنون / حاجة مش معقولة؛ يا نهار أبيض / تحفة / رهيب حسب السياق | Wahnsinn! Das ist ja unglaublich! | يا نهار أبيض! ده مش معقول! | noun_or_exclamation | introduced |
 
 ## Learning notes
 
