@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: großartige → großartig (V440)
+
+- Learner submitted inflected `großartige`. Canonical lemma **großartig**, adjective = رائع / عظيم / ممتاز; comparative `großartiger`, superlative `am großartigsten`. Full current verb/vocabulary duplicate audit found only a usage within example for V212 `die Theateraufführung`, not its own lemma. Added **V440 großartig** with example `Das ist eine großartige Idee!` = دي فكرة رائعة! `großartige` is a declined attributive form while `Die Idee ist großartig.` uses base form. Marked `introduced`, no independent tested recall or mastery. See [vocabulary](curriculum/vocabulary.md), [2026-11-14 log](days/2026-11-14.md).
+- Totals **319 verbs + 440 vocabulary**. Original frozen 446 introduced-only R01–R05 cohort unchanged: 100 tested, 346 unseen, 26 distinct retest flags, **R06 next**. V440 is a later new entry, not retroactively counted. Old paused exercises, mistakes and learner responses preserved. Full structured `progress.json` reconciliation still pending.
+
+
 ## Vocabulary intake — 2026-11-14: ziemlich (V439)
 
 - Learner supplied `ziemlich`; canonical verb/vocabulary inventories checked. Only earlier occurrence was *within V230 genervt example*, not an independent entry. Added **V439 ziemlich**, Gradadverb = إلى حد كبير / نوعًا ما / بدرجة ملحوظة, example `Heute ist es ziemlich kalt.` = النهارده الجو برد إلى حد كبير. No comparative/superlative of `ziemlich`; contrasts `ein bisschen` < `ziemlich` < `sehr` approximately. `introduced` only, no independent tested recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 log](days/2026-11-14.md).
