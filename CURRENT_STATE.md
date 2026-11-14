@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: sowie (V449)
+
+- Learner submitted `sowie`; audited full canonical verb/vocabulary inventories for duplicates, none found. Registered **V449 sowie**, coordinating conjunction = وكذلك / بالإضافة إلى / و, example `Ich spreche Deutsch sowie Englisch.` = أنا بتكلم ألماني وكمان إنجليزي. Rare/formal also `sowie` = بمجرد ما (more usual `sobald`). Different from spaced `so wie` = زي ما / بنفس الطريقة اللي. `introduced` only; no independent recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [2026-11-14 log](days/2026-11-14.md).
+- Totals **319 verbs + 449 vocabulary**. Historical frozen 446-item mixed introduced-only R01–R05 cohort unchanged (100 tested, 346 unseen, 26 retest flags, **R06 next**); V449 not added retroactively. Preserve earlier raw user responses, old mistakes and paused exercises. Structured `progress.json` reconciliation pending.
+
+
 ## Vocabulary intake — 2026-11-14: geschieden (V448)
 
 - Learner submitted `geschieden`, checked canonical verbs/vocabulary registers and found no independent entry. Added **V448 geschieden** = مطلّق / مطلّقة (marital status), adjective/past participle, main example `Meine Eltern sind geschieden.` = أبويا وأمي مطلّقين. Related `sich scheiden lassen` = يتطلّق and `die Scheidung` = الطلاق, not independently registered. `introduced` only, no independent test/mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 14 day log](days/2026-11-14.md).
