@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: ziemlich (V439)
+
+- Learner supplied `ziemlich`; canonical verb/vocabulary inventories checked. Only earlier occurrence was *within V230 genervt example*, not an independent entry. Added **V439 ziemlich**, Gradadverb = إلى حد كبير / نوعًا ما / بدرجة ملحوظة, example `Heute ist es ziemlich kalt.` = النهارده الجو برد إلى حد كبير. No comparative/superlative of `ziemlich`; contrasts `ein bisschen` < `ziemlich` < `sehr` approximately. `introduced` only, no independent tested recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 log](days/2026-11-14.md).
+- Canonical totals **319 verbs + 439 vocabulary**. Historical original 446 frozen introduced-only mixed R01–R05 recall cohort still 100 tested, 346 unseen, 26 retest flags; **R06 next**. V439 not retroactively included. Previous attempts/errors/paused tasks preserved. Large `progress.json` structured reconciliation remains pending.
+
+
 ## Vocabulary intake — 2026-11-14: verrückt (V438)
 
 - Learner submitted `verrückt`; full canonical verb/vocabulary duplicate audit found no existing entry. Added **V438 verrückt** = مجنون / غريب جدًا / غير معقول، وقد تعني رهيب in informal context; adjective comparative `verrückter`, superlative `am verrücktesten`. Example `Bist du verrückt?` = إنت مجنون؟ Extra `Das ist eine verrückte Idee.` = دي فكرة مجنونة. `introduced` only, not independently tested/mastered. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 daily log](days/2026-11-14.md).
