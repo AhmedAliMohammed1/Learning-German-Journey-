@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: einstein → Einstein (V443)
+
+- User typed `einstein`. Interpreted literally as proper name **Einstein** (not the verb `einsteigen`); capitalized as German proper noun. Full verb/vocabulary audit: Einstein unregistered; verb **#92 einsteigen** = يركب وسيلة مواصلات already exists. Added **V443 Einstein (Albert Einstein)** = أينشتاين، اسم عالم الفيزياء, example `Albert Einstein war ein berühmter Physiker.` = ألبرت أينشتاين كان عالم فيزياء مشهور. User's intent is potentially ambiguous; if user meant `einsteigen`, recognize #92 without creating a duplicate, and clarify/update the erroneous V443 intake as appropriate. Status for V443 is `introduced` only. See [vocabulary](curriculum/vocabulary.md), [Nov 14 log](days/2026-11-14.md).
+- Totals **319 verbs + 443 vocabulary**. Historical frozen original 446-item mixed review cohort unchanged: 100 tested R01–R05, 346 unseen, 26 retry flags, **R06 next**. New post-baseline V443 not retroactively counted. Preserve paused tasks and all earlier raw responses/errors; stale `progress.json` structured reconciliation remains pending.
+
+
 ## Vocabulary intake — 2026-11-14: Komponisten → Komponist (V442)
 
 - Learner submitted `Komponisten`, plural or singular weak-noun inflection of `der Komponist`. Complete canonical verb/vocabulary audit found `komponieren` already registered as verb **#292**, but not `Komponist` noun. Registered **V442 der Komponist / die Komponistin**, plural `die Komponisten / die Komponistinnen`, meaning مؤلف موسيقي / مؤلفة موسيقية. Example `Der Komponist schreibt Musik für einen Film.` = المؤلف الموسيقي بيألّف موسيقى لفيلم. N-Deklination singular `den/dem/des Komponisten` is also relevant. Marked `introduced` only, no test or mastery. [Vocabulary](curriculum/vocabulary.md) / [Nov 14 learning log](days/2026-11-14.md).
