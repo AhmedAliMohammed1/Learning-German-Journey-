@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: Komponisten → Komponist (V442)
+
+- Learner submitted `Komponisten`, plural or singular weak-noun inflection of `der Komponist`. Complete canonical verb/vocabulary audit found `komponieren` already registered as verb **#292**, but not `Komponist` noun. Registered **V442 der Komponist / die Komponistin**, plural `die Komponisten / die Komponistinnen`, meaning مؤلف موسيقي / مؤلفة موسيقية. Example `Der Komponist schreibt Musik für einen Film.` = المؤلف الموسيقي بيألّف موسيقى لفيلم. N-Deklination singular `den/dem/des Komponisten` is also relevant. Marked `introduced` only, no test or mastery. [Vocabulary](curriculum/vocabulary.md) / [Nov 14 learning log](days/2026-11-14.md).
+- Totals **319 verbs + 442 vocabulary**. Original frozen 446 introduced-only mixed review cohort remains 100 tested in R01–R05, 346 unseen, 26 review flags, **R06 next**. New V442 not retroactively inserted. All prior paused learning, mistakes and entries preserved; `progress.json` structured synchronization pending.
+
+
 ## Vocabulary intake — 2026-11-14: bestimmit → bestimmt (V441)
 
 - Learner supplied misspelled `bestimmit`; corrected canonical lemma to `bestimmt` (adverb أكيد / بالتأكيد / غالبًا, adjective محدد / معيّن). Full verb/vocabulary duplicate check found no independent existing item. Registered **V441 bestimmt** with example `Er kommt bestimmt morgen.` = هو أكيد هييجي بكرة. Attributive `ein bestimmtes Buch` = كتاب معين. Original submitted spelling retained in [Nov 14 day log](days/2026-11-14.md); `introduced` only, no recall/mastery claims. See [vocabulary](curriculum/vocabulary.md).
