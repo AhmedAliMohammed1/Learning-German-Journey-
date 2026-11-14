@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: Ehrlich → ehrlich (V437)
+
+- Learner submitted `Ehrlich`; corrected canonical adjective/adverb to lowercase `ehrlich` except beginning of sentences. Full verb/vocabulary duplicate audit found none. Registered **V437 ehrlich** = صادق / أمين / بصراحة; comparative `ehrlicher`, superlative `am ehrlichsten`. Main example `Ehrlich gesagt, habe ich keine Zeit.` = بصراحة، أنا معنديش وقت. New `introduced` item, no independent recall or mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 14 daily log](days/2026-11-14.md).
+- Current canonical totals **319 verbs and 437 vocabulary**. Historical frozen original 446 introduced-only recall cohort stays 100 tested, 346 unseen, 26 distinct retest flags, **R06 next**; newly added V437 not retroactively counted. Prior paused exercises, answers, mistakes preserved; structured `progress.json` sync still pending.
+
+
 ## Vocabulary intake — 2026-11-14: Buchhändler (V436)
 
 - Learner submitted `Buchhändler`; canonical full verb/vocabulary duplicate search found no prior entry. Added **V436 der Buchhändler / die Buchhändlerin**, plural `die Buchhändler / die Buchhändlerinnen`, meaning بائع كتب / بائعة كتب, bilingual example `Der Buchhändler empfiehlt mir ein interessantes Buch.` = بائع الكتب بيرشّحلي كتاب ممتع. Compare `die Buchhandlung` bookstore vs `die Bibliothek` library. Status `introduced` only, no independent recall or mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 day log](days/2026-11-14.md).
