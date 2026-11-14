@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**440 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**441 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -446,6 +446,7 @@
 | V438 | verrückt | — (Adjektiv: verrückter; am verrücktesten) | مجنون / غريب جدًا / غير معقول؛ جامد أو رهيب حسب السياق | Bist du verrückt? | إنت مجنون؟ | adjective | introduced |
 | V439 | ziemlich | — (Gradadverb, nicht steigerbar) | إلى حد كبير / نوعًا ما / بدرجة ملحوظة؛ أحيانًا جدًا حسب النبرة | Heute ist es ziemlich kalt. | النهارده الجو برد إلى حد كبير. | adverb | introduced |
 | V440 | großartig | — (Adjektiv: großartiger; am großartigsten; flektiert z. B. großartige) | رائع / عظيم / ممتاز / مذهل | Das ist eine großartige Idee! | دي فكرة رائعة! | adjective | introduced |
+| V441 | bestimmt | — (Adverb: sicherlich / vermutlich; Adjektiv: bestimmt = محدد / معين; vor Nomen flektiert, z. B. bestimmte) | أكيد / بالتأكيد / غالبًا (كحال)، أو محدّد / معيّن (كصفة) | Er kommt bestimmt morgen. | هو أكيد هييجي بكرة. | adverb_or_adjective | introduced |
 
 ## Learning notes
 
