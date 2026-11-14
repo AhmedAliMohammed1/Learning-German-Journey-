@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**444 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**445 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -450,6 +450,7 @@
 | V442 | der Komponist / die Komponistin | die Komponisten / die Komponistinnen (Komponisten auch Akk./Dat./Gen. Singular maskulin) | مؤلف موسيقي / مؤلفة موسيقية / ملحّن | Der Komponist schreibt Musik für einen Film. | المؤلف الموسيقي بيألّف موسيقى لفيلم. | noun | introduced |
 | V443 | Einstein (Albert Einstein) | — (Eigenname; kein üblicher Plural) | أينشتاين (اسم عالِم الفيزياء ألبرت أينشتاين) | Albert Einstein war ein berühmter Physiker. | ألبرت أينشتاين كان عالم فيزياء مشهور. | proper_name | introduced |
 | V444 | schrecklich | — (Adjektiv/Adverb: schrecklicher; am schrecklichsten) | فظيع / بشع / سيئ جدًا؛ للغاية للتأكيد في بعض الاستخدامات | Das Wetter ist heute schrecklich. | الجو النهارده فظيع. | adjective_or_adverb | introduced |
+| V445 | die Ansicht | die Ansichten | الرأي / وجهة النظر؛ المنظر / طريقة العرض حسب السياق | Meiner Ansicht nach ist das eine gute Idee. | من وجهة نظري دي فكرة كويسة. | noun | introduced |
 
 ## Learning notes
 
