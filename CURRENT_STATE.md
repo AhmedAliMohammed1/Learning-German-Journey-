@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: nah (V434) and weit (V435)
+
+- Learner submitted `nah` and `weit`; complete canonical inventories checked (neither lemma previously registered; `weiter` V327 is related but distinct). Added **V434 nah** = قريب (`näher; am nächsten`), example `Die Schule ist ganz nah.` = المدرسة قريبة جدًا; **V435 weit** = بعيد / مسافة كبيرة (`weiter; am weitesten`), example `Der Bahnhof ist weit weg.` = المحطة بعيدة. Both introduced only, no learner test or mastery. Saved in [vocabulary register](curriculum/vocabulary.md) and [November 14 day log](days/2026-11-14.md).
+- Current canonical total **318 verbs + 435 vocabulary**. Previously frozen 446 introduced-only R01–R05 review set unchanged: 100 tested, 346 unseen, 26 retest flags, **R06 next**; V434/V435 not retroactively included. Previous paused exercises, mistakes and logs preserved. Large structured `progress.json` sync still pending.
+
+
 ## Verb intake — 2026-11-13: decken (#318)
 
 - Learner supplied `decken`; full canonical verb/vocabulary duplicate audit found no existing standalone verb. Added **#318 decken**, meaning يغطّي / يجهّز السفرة / يغطي التكاليف أو يلبي الاحتياج, regular weak verb; `ich decke; du deckst; er deckt`, Präteritum `deckte`, Perfekt `hat gedeckt`. Example `Ich decke den Tisch für das Abendessen.` = أنا بجهّز السفرة للعشا. Direct object Akkusativ; common `den Tisch decken`, `die Kosten decken`, `den Bedarf decken`. Introduced only, no independent recall or mastery. Saved in [verb inventory](curriculum/verbs.md) and [Nov 13 log](days/2026-11-13.md).
