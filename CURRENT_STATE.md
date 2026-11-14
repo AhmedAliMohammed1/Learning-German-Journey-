@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: geschieden (V448)
+
+- Learner submitted `geschieden`, checked canonical verbs/vocabulary registers and found no independent entry. Added **V448 geschieden** = مطلّق / مطلّقة (marital status), adjective/past participle, main example `Meine Eltern sind geschieden.` = أبويا وأمي مطلّقين. Related `sich scheiden lassen` = يتطلّق and `die Scheidung` = الطلاق, not independently registered. `introduced` only, no independent test/mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 14 day log](days/2026-11-14.md).
+- Canonical inventory now **319 verbs + 448 vocabulary**. Original frozen 446-item mixed introduced-only R01–R05 baseline remains **100 tested, 346 unseen, 26 retest flags, R06 next**; new V448 not counted retroactively. Earlier paused activities, raw learner answers and mistakes preserved; structured `progress.json` reconciliation pending.
+
+
 ## Vocabulary intake — 2026-11-14: Promi (V446), berühmte → berühmt (V447)
 
 - Learner submitted `Promi` and `berühmte`; full canonical verb/vocabulary audit showed related **V424 der/die Prominente** and an older `berühmter` usage in V443 example, but neither supplied standalone lemma registered previously. Added **V446 der/die Promi**, plural `die Promis` = شخص مشهور / مشاهير, colloquial shortening of Prominente; example `Auf der Party waren viele Promis.` = كان فيه مشاهير كتير في الحفلة. Added **V447 berühmt** = مشهور / معروف جدًا, adjective `berühmter; am berühmtesten`, inflected learner form `berühmte`; example `Sie ist eine berühmte Schauspielerin.` = هي ممثلة مشهورة. Both `introduced` only, not tested/mastered. See [vocabulary](curriculum/vocabulary.md), [2026-11-14 log](days/2026-11-14.md).
