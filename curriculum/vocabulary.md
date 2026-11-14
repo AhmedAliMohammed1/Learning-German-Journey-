@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**441 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**442 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -447,6 +447,7 @@
 | V439 | ziemlich | — (Gradadverb, nicht steigerbar) | إلى حد كبير / نوعًا ما / بدرجة ملحوظة؛ أحيانًا جدًا حسب النبرة | Heute ist es ziemlich kalt. | النهارده الجو برد إلى حد كبير. | adverb | introduced |
 | V440 | großartig | — (Adjektiv: großartiger; am großartigsten; flektiert z. B. großartige) | رائع / عظيم / ممتاز / مذهل | Das ist eine großartige Idee! | دي فكرة رائعة! | adjective | introduced |
 | V441 | bestimmt | — (Adverb: sicherlich / vermutlich; Adjektiv: bestimmt = محدد / معين; vor Nomen flektiert, z. B. bestimmte) | أكيد / بالتأكيد / غالبًا (كحال)، أو محدّد / معيّن (كصفة) | Er kommt bestimmt morgen. | هو أكيد هييجي بكرة. | adverb_or_adjective | introduced |
+| V442 | der Komponist / die Komponistin | die Komponisten / die Komponistinnen (Komponisten auch Akk./Dat./Gen. Singular maskulin) | مؤلف موسيقي / مؤلفة موسيقية / ملحّن | Der Komponist schreibt Musik für einen Film. | المؤلف الموسيقي بيألّف موسيقى لفيلم. | noun | introduced |
 
 ## Learning notes
 
