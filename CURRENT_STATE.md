@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: Ansicht (V445)
+
+- Learner submitted `Ansicht`; full verb/vocabulary duplicate audit found no standalone entry. Registered **V445 die Ansicht**, plural `die Ansichten` = رأي / وجهة نظر; also منظر / طريقة عرض depending on context. Main example `Meiner Ansicht nach ist das eine gute Idee.` = من وجهة نظري دي فكرة كويسة. As interface display `die Ansicht ändern` = يغيّر طريقة العرض. `introduced` only, no learner recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 log](days/2026-11-14.md).
+- Canonical totals **319 verbs + 445 vocabulary**. Historical frozen initial 446 introduced-only mixed R01–R05 cohort unchanged: 100 tested, 346 unseen, 26 retest flags, **R06 next**, V445 not counted retroactively. Preserve learner mistakes, old attempts and paused work; large `progress.json` structured reconciliation still pending.
+
+
 ## Vocabulary intake — 2026-11-14: schrecklich (V444)
 
 - Learner submitted `schrecklich`; entire canonical verb/vocabulary inventories checked for duplicates; none found. Registered **V444 schrecklich** = فظيع / بشع / سيئ جدًا (also intensifier للغاية/جدًا), adjective/adverb with `schrecklicher`, `am schrecklichsten`. Main example `Das Wetter ist heute schrecklich.` = الجو النهارده فظيع. Attributive example `eine schreckliche Nachricht` = خبر فظيع. Status `introduced` only, no independently tested recall/mastery. See [vocabulary](curriculum/vocabulary.md), [Nov 14 log](days/2026-11-14.md).
