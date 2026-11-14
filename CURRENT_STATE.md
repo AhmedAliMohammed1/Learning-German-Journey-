@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: Promi (V446), berühmte → berühmt (V447)
+
+- Learner submitted `Promi` and `berühmte`; full canonical verb/vocabulary audit showed related **V424 der/die Prominente** and an older `berühmter` usage in V443 example, but neither supplied standalone lemma registered previously. Added **V446 der/die Promi**, plural `die Promis` = شخص مشهور / مشاهير, colloquial shortening of Prominente; example `Auf der Party waren viele Promis.` = كان فيه مشاهير كتير في الحفلة. Added **V447 berühmt** = مشهور / معروف جدًا, adjective `berühmter; am berühmtesten`, inflected learner form `berühmte`; example `Sie ist eine berühmte Schauspielerin.` = هي ممثلة مشهورة. Both `introduced` only, not tested/mastered. See [vocabulary](curriculum/vocabulary.md), [2026-11-14 log](days/2026-11-14.md).
+- Canonical totals **319 verbs + 447 vocabulary**. Historical original frozen 446-item introduced-only R01–R05 cohort still 100 tested, 346 unseen, 26 retest flags; **R06 next**. V446/V447 are post-baseline; preserve earlier attempts/errors/pauses. Structured stale `progress.json` sync remains pending.
+
+
 ## Vocabulary intake — 2026-11-14: Ansicht (V445)
 
 - Learner submitted `Ansicht`; full verb/vocabulary duplicate audit found no standalone entry. Registered **V445 die Ansicht**, plural `die Ansichten` = رأي / وجهة نظر; also منظر / طريقة عرض depending on context. Main example `Meiner Ansicht nach ist das eine gute Idee.` = من وجهة نظري دي فكرة كويسة. As interface display `die Ansicht ändern` = يغيّر طريقة العرض. `introduced` only, no learner recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 log](days/2026-11-14.md).
