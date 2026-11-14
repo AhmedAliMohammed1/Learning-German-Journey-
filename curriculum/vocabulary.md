@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**448 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**449 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -454,6 +454,7 @@
 | V446 | der Promi / die Promi | die Promis | شخص مشهور / شخصية مشهورة (تعبير عامي مختصر من Prominente) | Auf der Party waren viele Promis. | كان فيه مشاهير كتير في الحفلة. | colloquial_noun | introduced |
 | V447 | berühmt | — (Adjektiv: berühmter; am berühmtesten; flektiert z. B. berühmte) | مشهور / معروف جدًا | Sie ist eine berühmte Schauspielerin. | هي ممثلة مشهورة. | adjective | introduced |
 | V448 | geschieden | — (Adjektiv: Familienstand; Partizip II von scheiden, in dieser Bedeutung kaum gesteigert) | مُطلَّق / مُطلَّقة (الحالة الاجتماعية) | Meine Eltern sind geschieden. | أبويا وأمي مطلّقين. | adjective_participle | introduced |
+| V449 | sowie | — (Konjunktion: und/außerdem; auch: sobald in gehobener Verwendung; getrennt so wie = wie/genauso wie) | وكذلك / بالإضافة إلى / و؛ وأحيانًا بمجرد ما، حسب السياق | Ich spreche Deutsch sowie Englisch. | أنا بتكلم ألماني وكمان إنجليزي. | conjunction | introduced |
 
 ## Learning notes
 
