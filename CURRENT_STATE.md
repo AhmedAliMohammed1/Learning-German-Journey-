@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: schrecklich (V444)
+
+- Learner submitted `schrecklich`; entire canonical verb/vocabulary inventories checked for duplicates; none found. Registered **V444 schrecklich** = فظيع / بشع / سيئ جدًا (also intensifier للغاية/جدًا), adjective/adverb with `schrecklicher`, `am schrecklichsten`. Main example `Das Wetter ist heute schrecklich.` = الجو النهارده فظيع. Attributive example `eine schreckliche Nachricht` = خبر فظيع. Status `introduced` only, no independently tested recall/mastery. See [vocabulary](curriculum/vocabulary.md), [Nov 14 log](days/2026-11-14.md).
+- Canonical inventory **319 verbs and 444 vocabulary**. Frozen original 446 introduced-only mixed R01–R05 cohort unchanged: 100 tested, 346 unseen, 26 retest flags, **R06 next**; V444 not retroactively counted. Preserve earlier attempts, errors, pauses. Large stale structured `progress.json` sync still pending.
+
+
 ## Vocabulary intake — 2026-11-14: einstein → Einstein (V443)
 
 - User typed `einstein`. Interpreted literally as proper name **Einstein** (not the verb `einsteigen`); capitalized as German proper noun. Full verb/vocabulary audit: Einstein unregistered; verb **#92 einsteigen** = يركب وسيلة مواصلات already exists. Added **V443 Einstein (Albert Einstein)** = أينشتاين، اسم عالم الفيزياء, example `Albert Einstein war ein berühmter Physiker.` = ألبرت أينشتاين كان عالم فيزياء مشهور. User's intent is potentially ambiguous; if user meant `einsteigen`, recognize #92 without creating a duplicate, and clarify/update the erroneous V443 intake as appropriate. Status for V443 is `introduced` only. See [vocabulary](curriculum/vocabulary.md), [Nov 14 log](days/2026-11-14.md).
