@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: bestimmit → bestimmt (V441)
+
+- Learner supplied misspelled `bestimmit`; corrected canonical lemma to `bestimmt` (adverb أكيد / بالتأكيد / غالبًا, adjective محدد / معيّن). Full verb/vocabulary duplicate check found no independent existing item. Registered **V441 bestimmt** with example `Er kommt bestimmt morgen.` = هو أكيد هييجي بكرة. Attributive `ein bestimmtes Buch` = كتاب معين. Original submitted spelling retained in [Nov 14 day log](days/2026-11-14.md); `introduced` only, no recall/mastery claims. See [vocabulary](curriculum/vocabulary.md).
+- Canonical totals **319 verbs + 441 vocabulary**. Frozen original 446 introduced-only mixed recall baseline still 100 tested, 346 unseen, 26 retest flags, **R06 next**; new V441 not retroactively counted. Preserve all prior attempts/errors and paused work. Large `progress.json` reconciliation remains pending.
+
+
 ## Vocabulary intake — 2026-11-14: großartige → großartig (V440)
 
 - Learner submitted inflected `großartige`. Canonical lemma **großartig**, adjective = رائع / عظيم / ممتاز; comparative `großartiger`, superlative `am großartigsten`. Full current verb/vocabulary duplicate audit found only a usage within example for V212 `die Theateraufführung`, not its own lemma. Added **V440 großartig** with example `Das ist eine großartige Idee!` = دي فكرة رائعة! `großartige` is a declined attributive form while `Die Idee ist großartig.` uses base form. Marked `introduced`, no independent tested recall or mastery. See [vocabulary](curriculum/vocabulary.md), [2026-11-14 log](days/2026-11-14.md).
