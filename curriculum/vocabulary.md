@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**447 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**448 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -453,6 +453,7 @@
 | V445 | die Ansicht | die Ansichten | الرأي / وجهة النظر؛ المنظر / طريقة العرض حسب السياق | Meiner Ansicht nach ist das eine gute Idee. | من وجهة نظري دي فكرة كويسة. | noun | introduced |
 | V446 | der Promi / die Promi | die Promis | شخص مشهور / شخصية مشهورة (تعبير عامي مختصر من Prominente) | Auf der Party waren viele Promis. | كان فيه مشاهير كتير في الحفلة. | colloquial_noun | introduced |
 | V447 | berühmt | — (Adjektiv: berühmter; am berühmtesten; flektiert z. B. berühmte) | مشهور / معروف جدًا | Sie ist eine berühmte Schauspielerin. | هي ممثلة مشهورة. | adjective | introduced |
+| V448 | geschieden | — (Adjektiv: Familienstand; Partizip II von scheiden, in dieser Bedeutung kaum gesteigert) | مُطلَّق / مُطلَّقة (الحالة الاجتماعية) | Meine Eltern sind geschieden. | أبويا وأمي مطلّقين. | adjective_participle | introduced |
 
 ## Learning notes
 
