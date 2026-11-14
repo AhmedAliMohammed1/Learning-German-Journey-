@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: Buchhändler (V436)
+
+- Learner submitted `Buchhändler`; canonical full verb/vocabulary duplicate search found no prior entry. Added **V436 der Buchhändler / die Buchhändlerin**, plural `die Buchhändler / die Buchhändlerinnen`, meaning بائع كتب / بائعة كتب, bilingual example `Der Buchhändler empfiehlt mir ein interessantes Buch.` = بائع الكتب بيرشّحلي كتاب ممتع. Compare `die Buchhandlung` bookstore vs `die Bibliothek` library. Status `introduced` only, no independent recall or mastery. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 day log](days/2026-11-14.md).
+- Canonical totals **319 verbs and 436 vocabulary**. Original frozen introduced-only R01–R05 recall pool **446, 100 answered, 346 unseen, 26 retest flags, R06 next**; newly introduced V436 not retroactively counted. Preserve all prior paused tasks, attempts, and mistakes; `progress.json` reconciliation still pending.
+
+
 ## Verb intake — 2026-11-14: einreiben (#319)
 
 - Learner submitted `einreiben`; full canonical verb/vocabulary duplicate audit found no existing entry. Added **#319 einreiben** = يدهن / يفرك كريم أو مرهم على الجلد, strong separable verb: Präsens `ich reibe ein; du reibst ein; er reibt ein`; Präteritum `rieb ein`; Perfekt `hat eingerieben`. Example `Ich reibe meine Hände mit Creme ein.` = أنا بدهن إيدي بكريم. Also `Ich reibe mir die Hände mit Creme ein.` with dative reflexive pronoun. New `introduced` only, no tested form or mastery. See [verb curriculum](curriculum/verbs.md) and [Nov 14 log](days/2026-11-14.md).
