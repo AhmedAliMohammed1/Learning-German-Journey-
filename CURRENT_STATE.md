@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-14: verrückt (V438)
+
+- Learner submitted `verrückt`; full canonical verb/vocabulary duplicate audit found no existing entry. Added **V438 verrückt** = مجنون / غريب جدًا / غير معقول، وقد تعني رهيب in informal context; adjective comparative `verrückter`, superlative `am verrücktesten`. Example `Bist du verrückt?` = إنت مجنون؟ Extra `Das ist eine verrückte Idee.` = دي فكرة مجنونة. `introduced` only, not independently tested/mastered. See [vocabulary](curriculum/vocabulary.md) and [Nov 14 daily log](days/2026-11-14.md).
+- Canonical inventory **319 verbs + 438 vocabulary**. Original frozen 446 introduced-only recall cohort remains 100 tested, 346 unseen, 26 retest flags, **R06 next**; late V438 not retroactively counted. Preserve all earlier learner attempts, mistakes and paused tasks. Large structured `progress.json` reconciliation still pending.
+
+
 ## Vocabulary intake — 2026-11-14: Ehrlich → ehrlich (V437)
 
 - Learner submitted `Ehrlich`; corrected canonical adjective/adverb to lowercase `ehrlich` except beginning of sentences. Full verb/vocabulary duplicate audit found none. Registered **V437 ehrlich** = صادق / أمين / بصراحة; comparative `ehrlicher`, superlative `am ehrlichsten`. Main example `Ehrlich gesagt, habe ich keine Zeit.` = بصراحة، أنا معنديش وقت. New `introduced` item, no independent recall or mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 14 daily log](days/2026-11-14.md).
