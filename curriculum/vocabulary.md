@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**435 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**436 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -441,6 +441,7 @@
 | V433 | Vergangenes | — (substantiviertes Adjektiv) | حاجات حصلت في الماضي / أمور فاتت | Wir sprechen über Vergangenes. | إحنا بنتكلم عن حاجات حصلت زمان. | nominalized_adjective | introduced |
 | V434 | nah | — (Adjektiv/Adverb: näher; am nächsten; vor Nomen oft nahe) | قريب / على مسافة قريبة | Die Schule ist ganz nah. | المدرسة قريبة جدًا. | adjective_or_adverb | introduced |
 | V435 | weit | — (Adjektiv/Adverb: weiter; am weitesten) | بعيد / على مسافة كبيرة؛ واسع أو ممتد حسب السياق | Der Bahnhof ist weit weg. | المحطة بعيدة. | adjective_or_adverb | introduced |
+| V436 | der Buchhändler / die Buchhändlerin | die Buchhändler / die Buchhändlerinnen | بائع كتب / بائعة كتب | Der Buchhändler empfiehlt mir ein interessantes Buch. | بائع الكتب بيرشّحلي كتاب ممتع. | noun | introduced |
 
 ## Learning notes
 
