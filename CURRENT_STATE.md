@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-14: einreiben (#319)
+
+- Learner submitted `einreiben`; full canonical verb/vocabulary duplicate audit found no existing entry. Added **#319 einreiben** = يدهن / يفرك كريم أو مرهم على الجلد, strong separable verb: Präsens `ich reibe ein; du reibst ein; er reibt ein`; Präteritum `rieb ein`; Perfekt `hat eingerieben`. Example `Ich reibe meine Hände mit Creme ein.` = أنا بدهن إيدي بكريم. Also `Ich reibe mir die Hände mit Creme ein.` with dative reflexive pronoun. New `introduced` only, no tested form or mastery. See [verb curriculum](curriculum/verbs.md) and [Nov 14 log](days/2026-11-14.md).
+- Registered totals **319 verbs + 435 vocabulary**. Original frozen 446 introduced-only R01–R05 baseline unchanged: 100 tested, 346 untested, 26 retest flags, next R06. Post-baseline #319 not counted retroactively. Preserve all paused work, original answers and errors; stale `progress.json` structured reconciliation pending.
+
+
 ## Vocabulary intake — 2026-11-14: nah (V434) and weit (V435)
 
 - Learner submitted `nah` and `weit`; complete canonical inventories checked (neither lemma previously registered; `weiter` V327 is related but distinct). Added **V434 nah** = قريب (`näher; am nächsten`), example `Die Schule ist ganz nah.` = المدرسة قريبة جدًا; **V435 weit** = بعيد / مسافة كبيرة (`weiter; am weitesten`), example `Der Bahnhof ist weit weg.` = المحطة بعيدة. Both introduced only, no learner test or mastery. Saved in [vocabulary register](curriculum/vocabulary.md) and [November 14 day log](days/2026-11-14.md).
