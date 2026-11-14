@@ -451,7 +451,7 @@
 | V443 | Einstein (Albert Einstein) | — (Eigenname; kein üblicher Plural) | أينشتاين (اسم عالِم الفيزياء ألبرت أينشتاين) | Albert Einstein war ein berühmter Physiker. | ألبرت أينشتاين كان عالم فيزياء مشهور. | proper_name | introduced |
 | V444 | schrecklich | — (Adjektiv/Adverb: schrecklicher; am schrecklichsten) | فظيع / بشع / سيئ جدًا؛ للغاية للتأكيد في بعض الاستخدامات | Das Wetter ist heute schrecklich. | الجو النهارده فظيع. | adjective_or_adverb | introduced |
 | V445 | die Ansicht | die Ansichten | الرأي / وجهة النظر؛ المنظر / طريقة العرض حسب السياق | Meiner Ansicht nach ist das eine gute Idee. | من وجهة نظري دي فكرة كويسة. | noun | introduced |
-| V446 | der Promi / die Promin | die Promis | شخص مشهور / شخصية مشهورة (تعبير عامي مختصر من Prominente) | Auf der Party waren viele Promis. | كان فيه مشاهير كتير في الحفلة. | colloquial_noun | introduced |
+| V446 | der Promi / die Promi | die Promis | شخص مشهور / شخصية مشهورة (تعبير عامي مختصر من Prominente) | Auf der Party waren viele Promis. | كان فيه مشاهير كتير في الحفلة. | colloquial_noun | introduced |
 | V447 | berühmt | — (Adjektiv: berühmter; am berühmtesten; flektiert z. B. berühmte) | مشهور / معروف جدًا | Sie ist eine berühmte Schauspielerin. | هي ممثلة مشهورة. | adjective | introduced |
 
 ## Learning notes
