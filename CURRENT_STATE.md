@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: das Geschirr (V452)
+
+- Checked full canonical inventories before registering **V452 das Geschirr** = المواعين / أدوات المائدة (collective neuter noun, generally uncountable in everyday meaning, no common plural). `Ich spüle nach dem Essen das Geschirr.` = أنا بغسل المواعين بعد الأكل. Related `das Geschirr spülen` = يغسل المواعين. Newly `introduced`, not tested/mastered; logged in [vocabulary](curriculum/vocabulary.md) and [Nov 15 study log](days/2026-11-15.md).
+- Canonical inventory **320 verbs + 452 vocabulary**. **R10 stays graded and paused**, no R11 issued, previous raw learner answers and retest flags untouched. Structured `progress.json` still pending synchronization.
+
+
 ## Verb intake — 2026-11-15: stecken (#320)
 
 - Learner submitted `stecken`; checked entire canonical verb and vocabulary registers. Related compound `feststecken` already #275, but standalone **stecken** was not independently registered. Added **#320 stecken** meaning يحط حاجة داخل حاجة / يكون موجود أو محشور؛ `ich stecke, du steckst, er steckt`, Präteritum `steckte`, Perfekt `hat gesteckt`. Example `Ich stecke den Schlüssel in die Tasche.` = أنا بحط المفتاح في الشنطة; contrasted `Der Schlüssel steckt in der Tasche.` = المفتاح موجود في الشنطة (Akk direction vs Dat location). Newly introduced only, not recall-tested/mastered. See [verbs](curriculum/verbs.md) and [daily log](days/2026-11-15.md).
