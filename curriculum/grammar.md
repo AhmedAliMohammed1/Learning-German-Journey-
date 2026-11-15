@@ -84,6 +84,79 @@
 
 **ضمائر الملكية تبع مين؟** \`ich → mein\`; \`du → dein\`; \`er → sein\`; \`sie (هي) → ihr\`; \`es → sein\`; \`wir → unser\`; \`ihr → euer\`; \`sie (هم) → ihr\`; \`Sie (حضرتك) → Ihr\`. النهاية بتتغير **حسب جنس وعدد وحالة الشيء المملوك**، مش حسب جنس صاحبه. مثال \`mein Bruder\` / \`meine Schwester\` / \`meinem Bruder\`. مع \`euer\` بنشوف غالبًا \`eure\`, \`euren\`, \`eurem\`, \`eurer\`.
 
+### 5b) Possessivpronomen — ضمائر الملكية (كاملة: قبل الاسم وبدون اسم)
+
+**فيه فرق مهم بين نوعين:**
+1. **Possessivartikel / Possessivbegleiter**: بييجي **قبل اسم**: `Das ist **mein Buch**.` = ده كتابي.
+2. **Selbstständiges Possessivpronomen**: بييجي **لوحده بدل الاسم**: `Das ist **meins**.` = ده بتاعي. الاسم `Buch` اتشال لأننا عارفينه من السياق.
+
+#### A) صاحب الحاجة مين؟ — جميع ضمائر الملكية الأساسية
+
+| Personalpronomen | الجذر قبل الاسم (Possessivartikel) | المعنى | مثال |
+| --- | --- | --- | --- |
+| **ich** | **mein-** | بتاعي | `mein Bruder` = أخويا |
+| **du** | **dein-** | بتاعك | `dein Bruder` = أخوك |
+| **er** | **sein-** | بتاعه | `sein Bruder` = أخوه |
+| **sie** (هي) | **ihr-** | بتاعها | `ihr Bruder` = أخوها |
+| **es** | **sein-** | بتاعه (محايد) | `sein Name` = اسمه |
+| **wir** | **unser-** | بتاعنا | `unser Bruder` = أخونا |
+| **ihr** | **euer-** | بتاعكم | `euer Bruder` = أخوكم |
+| **sie** (هم) | **ihr-** | بتاعهم | `ihr Bruder` = أخوهم |
+| **Sie** (حضرتك/حضراتكم) | **Ihr-** | بتاع حضرتك | `Ihr Bruder` = أخو حضرتك |
+
+**قاعدة:** الجذر بيتحدد حسب **صاحب الحاجة**، لكن النهاية بتتحدد حسب **جنس الشيء المملوك وعدده وحالته الإعرابية**. مع `euer-` بيقع حرف e الداخلي غالبًا لما نضيف نهاية: `euer Vater` لكن `eure Mutter`, `euren Vater`, `eurem Vater`.
+
+#### B) Possessivartikel — قبل الاسم: تصريف mein- (ونفس النهايات لباقي الجذور)
+
+| Kasus | Maskulin (Bruder) | Feminin (Schwester) | Neutrum (Kind) | Plural (Freunde) |
+| --- | --- | --- | --- | --- |
+| **Nominativ** | **mein** Bruder | **meine** Schwester | **mein** Kind | **meine** Freunde |
+| **Akkusativ** | **meinen** Bruder | **meine** Schwester | **mein** Kind | **meine** Freunde |
+| **Dativ** | **meinem** Bruder | **meiner** Schwester | **meinem** Kind | **meinen** Freunden |
+| **Genitiv** | **meines** Bruders | **meiner** Schwester | **meines** Kindes | **meiner** Freunde |
+
+بدّل `mein-` بـ `dein-/sein-/ihr-/unser-/euer-/Ihr-` وطبّق نفس نهايات الحالة. أمثلة:
+- `Ich sehe **deinen Bruder**.` = أنا شايف أخوك (Akk. mask.).
+- `Ich helfe **meiner Schwester**.` = أنا بساعد أختي (Dat. fem.).
+- `Er spricht mit **unseren Freunden**.` = هو بيتكلم مع أصحابنا (Dat. plural).
+- `Das ist das Auto **meines Vaters**.` = دي عربية أبويا (Gen. mask.).
+
+#### C) Selbstständige Possessivpronomen — من غير اسم: meiner / meine / meins
+
+| Kasus | Maskulin | Feminin | Neutrum | Plural |
+| --- | --- | --- | --- | --- |
+| **Nominativ** | **meiner** | **meine** | **meins** (أو meines) | **meine** |
+| **Akkusativ** | **meinen** | **meine** | **meins** (أو meines) | **meine** |
+| **Dativ** | **meinem** | **meiner** | **meinem** | **meinen** |
+| **Genitiv** (نادر هنا) | **meines** | **meiner** | **meines** | **meiner** |
+
+**نفس طريقة التصريف مع باقي أصحاب الحاجة:**
+
+| صاحب الحاجة | مذكر (Nominativ) | مؤنث (Nominativ) | محايد (Nominativ) | جمع (Nominativ) |
+| --- | --- | --- | --- | --- |
+| ich | meiner | meine | meins / meines | meine |
+| du | deiner | deine | deins / deines | deine |
+| er / es | seiner | seine | seins / seines | seine |
+| sie (هي) | ihrer | ihre | ihres / ihrs | ihre |
+| wir | unserer | unsere | unseres / unsers | unsere |
+| ihr | eurer | eure | eures / euers | eure |
+| sie (هم) | ihrer | ihre | ihres / ihrs | ihre |
+| Sie | Ihrer | Ihre | Ihres / Ihrs | Ihre |
+
+**مهم:** بعض صيغ المحايد المختصرة في الجدول عامّية/أقل رسمية من الصيغة الكاملة (`meins`, `deins` مألوفتين جدًا)، وفي الألماني الطبيعي صيغ زي `ihres`, `unseres`, `eures` أوضح وآمنة في الكتابة. استخدم نفس نهايات الجدول الشامل لحالات Akk/Dat/Gen؛ مش محتاج تحفظ جدول 9×16 منفصل.
+
+أمثلة توضّح الفرق:
+- `Ist das **dein** Buch?` — `Nein, das ist **meins**.` = ده كتابك؟ لأ، ده بتاعي. (**mein** قبل اسم؛ **meins** لوحدها)
+- `Mein Bruder ist hier. **Deiner** ist zu Hause.` = أخويا هنا، وأخوك في البيت. (مذكر Nominativ)
+- `Ich nehme **meinen** Stift, du nimmst **deinen**.` = أنا هاخد قلمي وإنت قلمك. (مذكر Akkusativ)
+- `Ich fahre mit **meinem** Auto, du mit **deinem**.` = أنا هروح بعربيتي، وإنت بعربيتك. (محايد Dativ بعد mit)
+- `Das ist **meine** Tasche, nicht **deine**.` = دي شنطتي مش شنطتك. (مؤنث Nominativ)
+- `Das sind **unsere** Bücher, nicht **eure**.` = دي كتبنا مش كتبكم. (جمع Nominativ)
+
+**فرق لازم تحفظه:** `meiner` في جدول Genitiv القديم للـ**Personalpronomen** مع `ich` مختلف عن `meiner` هنا كـ**Possessivpronomen**؛ نفس الكتابة ممكن يكون ليها وظيفة مختلفة حسب الجملة.
+
+---
+
 ### 6) Was bestimmt den Kasus? — أختار Akk/Dativ/Genitiv إمتى؟
 
 | الحالة | الاستخدام أو حرف الجر | مثال |
