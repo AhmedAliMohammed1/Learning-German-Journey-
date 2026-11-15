@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**452 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**453 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -458,6 +458,7 @@
 | V450 | leider | — (Adverb; nicht steigerbar) | للأسف / يا للأسف | Leider kann ich heute nicht kommen. | للأسف مش هقدر أجي النهارده. | adverb | introduced |
 | V451 | unglücklicherweise | — (Satzadverb; nicht steigerbar) | لسوء الحظ / للأسف | Unglücklicherweise habe ich den Zug verpasst. | لسوء الحظ القطر فاتني. | adverb | introduced |
 | V452 | das Geschirr | normalerweise kein Plural als Sammelbegriff; selten die Geschirre (Arten/Service; auch Tiergeschirr) | المواعين / أدوات الأكل والشرب زي الأطباق والكوبايات | Ich spüle nach dem Essen das Geschirr. | أنا بغسل المواعين بعد الأكل. | noun_collective | introduced |
+| V453 | der Eintrag | die Einträge | مُدخَل / تسجيل / بند مكتوب في قائمة أو سجل أو قاعدة بيانات | Ich habe einen neuen Eintrag in der Liste erstellt. | أنا عملت مُدخَل جديد في القائمة. | noun | introduced |
 
 ## Learning notes
 
