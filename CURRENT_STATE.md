@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — folgend (user: flogenden), V470, 2026-11-15
+
+- Learner supplied `flogenden`, interpreted as misspelling of **folgenden**, an inflected form of adjective **folgend** (next/following). Audited entire canonical verbs and vocabulary inventories; no standalone `folgend`/`folgenden` or `folgen` entry. Registered base adjective **V470 folgend** (following / next): `die folgenden Fragen`, `am folgenden Tag`, `in der folgenden Woche`. Example `Bitte beantworten Sie die folgenden Fragen.` = من فضلك جاوب على الأسئلة التالية. The adjective ending depends on article, gender, number and case; `folgenden` is not a standalone infinitive or dictionary adjective lemma. Related verb `folgen` not separately registered.
+- Introduced only, not independently tested/mastered. Totals **321 verbs / 470 vocabulary**. Preserve paused graded R10, no R11 issued, and all earlier answers/pending work. `progress.json` structural reconciliation still pending.
+
+
 ## Vocabulary intake — ca. / circa (V469), 2026-11-15
 
 - Learner supplied `ca.`. Audited complete canonical vocabulary and verb inventories: no standalone `ca.`, `circa`, `zirka` or `ungefähr` entry found. Registered **V469 ca. (circa / zirka)** as an abbreviation meaning **حوالي / تقريبًا**; it commonly precedes approximate numbers, lengths, amounts and durations. It is not an inflected adjective or verb. Example `Die Fahrt dauert ca. zwei Stunden.` = الرحلة بتاخد حوالي ساعتين. Related `ungefähr` is a contextual synonym, not separately added.
