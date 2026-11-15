@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — ca. / circa (V469), 2026-11-15
+
+- Learner supplied `ca.`. Audited complete canonical vocabulary and verb inventories: no standalone `ca.`, `circa`, `zirka` or `ungefähr` entry found. Registered **V469 ca. (circa / zirka)** as an abbreviation meaning **حوالي / تقريبًا**; it commonly precedes approximate numbers, lengths, amounts and durations. It is not an inflected adjective or verb. Example `Die Fahrt dauert ca. zwei Stunden.` = الرحلة بتاخد حوالي ساعتين. Related `ungefähr` is a contextual synonym, not separately added.
+- Marked introduced only, not recall-tested/mastered. Canonical totals **321 verbs / 469 vocabulary**. R10 graded and paused, R11 not issued; previous pending exercises, learner responses and retest flags preserved. `progress.json` structured reconciliation still pending.
+
+
 ## Vocabulary intake — wahnsinnig (V468), 2026-11-15
 
 - Learner supplied `wahnsinnig`. Full canonical audit of curriculum/verbs.md and curriculum/vocabulary.md found **no standalone `wahnsinnig` entry**. Related existing **V397 der Wahnsinn** is a distinct noun, retained unchanged.
