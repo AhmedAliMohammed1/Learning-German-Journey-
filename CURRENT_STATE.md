@@ -1,5 +1,13 @@
 # Current study state
 
+## Pause saved after R10 — 2026-11-15 (latest state)
+
+- Learner requested to save latest changes and continue later. **S01 paused**, no R11 questions issued, R10 graded and preserved. Same Nov 15 dated log is [days/2026-11-15.md](days/2026-11-15.md); all original answers and previous paused work unchanged.
+- Most recent teaching clarification: **`wahrscheinlich` (V239)** = probably / likely, explicit prediction; **`wohl` (V234)** = probably/apparently in everyday assumption and inference, a very common spoken modal particle. Both are common daily German; no fixed universal certainty ordering; `wohl` also means comfortable in `sich wohlfühlen`. **`ziemlich` = quite/fairly, not probability**. Examples and nuances recorded verbatim at end of Nov 15 log; exposure only, no graded attempt or mastery.
+- Frozen initial 446-item cohort: **200 distinct answers R01–R10, 246 unseen**. **67 separate error/target-form retest flags** including V234 and V239 retained. When user resumes: **R11 with 20 fresh non-repeated items from 246 unseen** if they choose to continue new-only recall; otherwise separate review of flagged errors. No duplicate R11, no inferred progress.
+- Canonical inventories **319 verbs + 451 vocabulary** (later new V450/451 excluded from frozen cohort). `progress.json` is still blank/stale and un-synced; day log and CURRENT_STATE are saved source of truth.
+
+
 ## R10 graded — 2026-11-15 (latest checkpoint)
 
 - Learner submitted all twenty independent typed R10 answers, stable IDs `2026-11-15-S01-R10-E01–E20`; original strings preserved verbatim in [2026-11-15 daily evidence](days/2026-11-15.md), with explanations and independent grading. **14 exact**, **1 semantically acceptable alternative** E13 `aufbewahren` for `behalten` (the additional `erhalten` is not generally equivalent), and **5 errors** E02, E04, E06, E08, E14. No mastery promotion or contextual/Perfekt/oral inference.
