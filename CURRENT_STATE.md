@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: schmutzig (V461)
+
+- Full duplicate audit of verb and vocabulary registers found no standalone `schmutzig`; registered **V461 schmutzig**, adjective = متسخ / وسخ, `schmutziger`, `am schmutzigsten`; `Das Geschirr ist schmutzig.` = المواعين وسخة. Opposite `sauber`. Status `introduced` only, not tested/mastered. See [vocabulary register](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Totals **320 verbs + 461 vocabulary**. **R10 graded and paused**, no R11 issued, raw learner answers and retest flags preserved; structured `progress.json` still pending sync.
+
+
 ## Vocabulary intake — 2026-11-15: die Gemeinschaft (V460)
 
 - Learner wrote `meinschaft`; most likely intended **Gemeinschaft** (correct spelling). Audited full canonical vocabulary and verbs registers; no previous standalone occurrence. Registered **V460 die Gemeinschaft**, plural `die Gemeinschaften`, = مجتمع / جماعة / ترابط وانتماء, example `In unserer Gemeinschaft helfen wir einander.` = في مجتمعنا بنساعد بعض. Newly `introduced` only; not recall-tested or mastered. See [vocabulary](curriculum/vocabulary.md), [day log](days/2026-11-15.md).
