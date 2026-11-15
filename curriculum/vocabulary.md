@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**456 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**457 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -462,6 +462,7 @@
 | V454 | peinlich | peinlicher; am peinlichsten | مُحرِج / يكسّف / حاجة تسبب إحراج | Das war mir sehr peinlich. | الموقف ده كان محرج جدًا بالنسبالي. | adjective | introduced |
 | V455 | das Gedächtnis | die Gedächtnisse (selten; meist Singular) | الذاكرة / القدرة على التذكّر | Meine Oma hat ein gutes Gedächtnis. | جدتي عندها ذاكرة كويسة. | noun | introduced |
 | V456 | die Tätigkeit | die Tätigkeiten (user input: Tätigkeiten) | النشاط / العمل / المهمة أو المهام والأنشطة حسب السياق | Zu meinen Tätigkeiten gehört die Softwareentwicklung. | من ضمن مهامي تطوير البرمجيات. | noun | introduced |
+| V457 | das Bewegungsspiel | die Bewegungsspiele | لعبة حركية / لعبة فيها حركة ونشاط بدني | Die Kinder spielen im Kindergarten ein Bewegungsspiel. | الأطفال بيلعبوا لعبة حركية في الحضانة. | noun | introduced |
 
 ## Learning notes
 
