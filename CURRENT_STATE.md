@@ -1,5 +1,12 @@
 # Current study state
 
+## R10 issued, awaiting learner answers — 2026-11-15 (latest active checkpoint)
+
+- Learner requested 20 previously unseen items from original **266 untested** baseline introduced-only entries. Verified entire canonical verb/vocabulary inventories and 180 prior tested R01–R09 IDs; issued **2026-11-15-S01-R10-E01–E20** (10 verbs, 10 vocabulary) under [Nov 15 learner log](days/2026-11-15.md), with Arabic prompts, exact canonical IDs and hidden targets. No duplication; no mastery or attempted score credited yet.
+- Frozen original 446: **180 answered**, **20 R10 issued but unanswered**, **246 not issued**, hence **266 still not tested**. Once learner submits R10 and it is graded, becomes 200 answered / 246 unseen. Earlier **61** error/form-confirmation flags untouched.
+- Active session remains open S01 on Nov 15. Current canonical inventories **319 verbs, 451 vocabulary**; V450/451 added after frozen cohort. Structured `progress.json` still blank/stale; daily evidence and this state summary are verified saved checkpoint. Next action: receive and grade original answers to R10 in order.
+
+
 ## R09 graded — 2026-11-15 (latest checkpoint)
 
 - Learner answered all 20 isolated Arabic→German R09 prompts, IDs `2026-11-15-S01-R09-E01–E20`. Verbatim originals and per-item explanations are in [today's dated log](days/2026-11-15.md). **8 exact**: E02/E03/E04/E05/E11/E17/E18/E19; **2 semantically accepted alternate nouns/words**: E08 `die Sitzung` for meeting (canonical `die Besprechung` unconfirmed, extra `die Meeting` wrong, correct `das Meeting`); E14 `deshalb` for `darum` (extra `nämlich` not equivalent). **1 partial lexical answer**: E15 `ansehen` without the requested reflexive `sich etwas ansehen`; **9 errors/form failures** at E01/E06/E07/E09/E10/E12/E13/E16/E20.
