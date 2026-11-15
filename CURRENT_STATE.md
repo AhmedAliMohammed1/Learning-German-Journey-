@@ -1,5 +1,12 @@
 # Current study state
 
+## Active continuation — 2026-11-15: R06 issued, unanswered
+
+- Learner selected main-menu **3 Continue previous session**. Opened today's one day file [2026-11-15](days/2026-11-15.md), session S01; recorded **2026-11-15-S01-R06-E01–E20** (10 new-to-review verbs and 10 new-to-review vocabulary IDs) after complete inventory and previous R01–R05 coverage audit. The 20 exact Arabic prompts and targets are saved in today's log; **answers are pending**. No attempts or mastery changes.
+- Initial frozen 446 introduced-only baseline: **100 actually answered** in R01–R05, **20 R06 issued but unanswered**, **326 not yet issued**, thus **346 still untested**. Keep **26 prior retest/form-confirmation flags** separate. Once the learner submits R06 answers, grade and preserve verbatim; do not silently award credit before receipt.
+- Latest recorded study day is Nov 15 (open); prior Nov 13 pause and older pending work preserved. Canonical inventories remain **319 verbs and 449 vocabulary**. Known stale/oversized structured `progress.json` synchronization is **not resolved** by this update.
+
+
 ## Vocabulary intake — 2026-11-14: sowie (V449)
 
 - Learner submitted `sowie`; audited full canonical verb/vocabulary inventories for duplicates, none found. Registered **V449 sowie**, coordinating conjunction = وكذلك / بالإضافة إلى / و, example `Ich spreche Deutsch sowie Englisch.` = أنا بتكلم ألماني وكمان إنجليزي. Rare/formal also `sowie` = بمجرد ما (more usual `sobald`). Different from spaced `so wie` = زي ما / بنفس الطريقة اللي. `introduced` only; no independent recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [2026-11-14 log](days/2026-11-14.md).
