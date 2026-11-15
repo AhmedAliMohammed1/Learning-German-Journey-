@@ -1,5 +1,11 @@
 # Current study state
 
+## Grammar clarification — 2026-11-15: WURDE → wurde
+
+- Explained `wurde` = Präteritum of existing **verb #296 werden** (no new registration). Meaning became (`Er wurde Arzt.`), and past passive `wurde + Partizip II` (`Das Auto wurde repariert.`). Distinguished `war` (sein Präteritum) and `würde` (Konjunktiv II), with full ich/du/er/wir/ihr/sie past conjugations. This is a clarification, not graded learner recall, so earlier flags and statuses remain. See [Nov 15 learning log](days/2026-11-15.md).
+- **R10 remains graded and paused, R11 not issued**, all original answers/errors retained. Existing curriculum totals unchanged, `progress.json` structured synchronization still pending.
+
+
 ## Pause saved after R10 — 2026-11-15 (latest state)
 
 - Learner requested to save latest changes and continue later. **S01 paused**, no R11 questions issued, R10 graded and preserved. Same Nov 15 dated log is [days/2026-11-15.md](days/2026-11-15.md); all original answers and previous paused work unchanged.
