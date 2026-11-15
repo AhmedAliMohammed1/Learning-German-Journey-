@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: للأسف / لسوء الحظ → leider (V450), unglücklicherweise (V451)
+
+- Learner requested equivalents for Arabic `للأسف أو لسوء الحظ`. Full canonical duplicate audit found neither standalone lemma. Registered **V450 leider** = للأسف, example `Leider kann ich heute nicht kommen.` = للأسف مش هقدر أجي النهارده; **V451 unglücklicherweise** = لسوء الحظ, example `Unglücklicherweise habe ich den Zug verpasst.` = لسوء الحظ القطر فاتني. Both are adverbs, no inflection; `leider` is the everyday default, `unglücklicherweise` more formal/strong. Both marked `introduced` only; no assessment or mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
+- Canonical totals **319 verbs + 451 vocabulary**. **R08 is issued, pending learner answers**; historical frozen pool of 446 remains **140 answered / 20 issued unanswered / 286 unissued**, with **41 retest flags**. Do not disturb or reveal saved German R08 targets; new V450/V451 are outside frozen pool. Structured `progress.json` sync pending.
+
+
 ## R08 issued — 2026-11-15 (latest active checkpoint)
 
 - Learner requested twenty **fresh untouched** introduced-only items from the **306 unseen original frozen baseline entries**, excluding all 140 R01–R07 attempted IDs. Verified full canonical inventories (319 verbs / 449 vocabulary) and dated coverage; recorded **2026-11-15-S01-R08-E01–E20** (10 verbs, 10 vocabulary) with original Arabic questions and stable IDs in [2026-11-15 day log](days/2026-11-15.md). **Answers not yet submitted**.
