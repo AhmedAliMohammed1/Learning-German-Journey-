@@ -1,5 +1,12 @@
 # Current study state
 
+## R08 issued — 2026-11-15 (latest active checkpoint)
+
+- Learner requested twenty **fresh untouched** introduced-only items from the **306 unseen original frozen baseline entries**, excluding all 140 R01–R07 attempted IDs. Verified full canonical inventories (319 verbs / 449 vocabulary) and dated coverage; recorded **2026-11-15-S01-R08-E01–E20** (10 verbs, 10 vocabulary) with original Arabic questions and stable IDs in [2026-11-15 day log](days/2026-11-15.md). **Answers not yet submitted**.
+- Frozen initial pool **446**: **140 answered**, **20 R08 issued but unanswered**, **286 not yet issued**; thus **306 remain untested**. Upon actual answer submission, grade and save original writing, then 160/446 answered, 286 unseen. Prior **41 distinct retry/target confirmation flags** preserved. No new verb, vocabulary, session, mastery, or closure.
+- Active open study day **2026-11-15**, same S01. Continue R08 collection only; do not show German targets before response. `progress.json` still empty/stale; dated learner log and CURRENT_STATE are the verified checkpoint.
+
+
 ## R07 graded — 2026-11-15 (latest checkpoint)
 
 - Learner's 20 R07 written answers to **2026-11-15-S01-R07-E01–E20** are graded and saved **verbatim** (including alternate words and spacing) in [Nov 15 learner evidence](days/2026-11-15.md). **17/20 canonical exact**, E14 `die Laden / das Geschäft` accepted via valid synonym `das Geschäft` but target masculine article `der Laden` still unresolved, E18 `benoten` vs `unbedingt` is wrong meaning, E20 `Ratschlag / Empfehlung` correct noun meanings but both nominative articles missing (`der Ratschlag` / `die Empfehlung`). E06 contains canonical `jetzt`; `nun` also acceptable; `derzeit` means currently over a period.
