@@ -1,5 +1,13 @@
 # Current study state
 
+## R08 graded — 2026-11-15 (latest checkpoint)
+
+- All 20 R08 answers received and graded independently. Raw learner responses preserved verbatim in [Nov 15 dated evidence](days/2026-11-15.md), activity IDs **2026-11-15-S01-R08-E01–E20**. **12 exact**, **2 valid related forms/semantic alternatives with exact target still unconfirmed**, **6 genuine lexical/form/article mistakes**.
+- R08 errors: V072 `der Flughafen` article, #230 `sich interessieren für` vs caring for/handling `sich kümmern um`, V102 `das Restaurant` article, V159 `der Lieferant` spelling, #280 `sich verhalten` missing reflexive, #294 `sich verlieben` wrong form/meaning. Separate target-specific confirmations: V209 singular `die Ware` vs valid plural `die Waren`; #303 `beantworten` vs valid `antworten` requiring a different construction. Eight R08 flags; previous **41 flags** retained => **49 total distinct flags**, including acceptable variants.
+- Original frozen baseline **446**: **160 unique IDs tested** R01–R08, **286 still unseen**. Exact next new-only round **R09, 20 non-overlapping IDs** when learner asks; defer shuffled separate retests. Canonical inventory now **319 verbs + 451 vocabulary** following newly introduced V450/V451 `leider / unglücklicherweise`, outside original frozen review pool. No mastery inferred from isolated written recall, no new study day or session; Nov 15 S01 remains open.
+- `progress.json` currently empty and not synchronized; dated evidence and CURRENT_STATE are latest verified records. Do not claim structured snapshot is fixed.
+
+
 ## Vocabulary intake — 2026-11-15: للأسف / لسوء الحظ → leider (V450), unglücklicherweise (V451)
 
 - Learner requested equivalents for Arabic `للأسف أو لسوء الحظ`. Full canonical duplicate audit found neither standalone lemma. Registered **V450 leider** = للأسف, example `Leider kann ich heute nicht kommen.` = للأسف مش هقدر أجي النهارده; **V451 unglücklicherweise** = لسوء الحظ, example `Unglücklicherweise habe ich den Zug verpasst.` = لسوء الحظ القطر فاتني. Both are adverbs, no inflection; `leider` is the everyday default, `unglücklicherweise` more formal/strong. Both marked `introduced` only; no assessment or mastery. See [vocabulary register](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
