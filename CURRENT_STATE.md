@@ -1,5 +1,12 @@
 # Current study state
 
+## R07 issued — 2026-11-15 (latest active checkpoint)
+
+- Learner requested R07 with 20 untouched entries from the **326 unseen** items of the original **446-item introduced-only frozen cohort**. Audited the full canonical verb/vocabulary inventories and all R01–R06 coverage, then recorded 10 verbs and 10 vocabulary under **2026-11-15-S01-R07-E01–E20** in [today's dated log](days/2026-11-15.md). Original R01–R06 answers and 38 separate retest/target confirmation flags kept unchanged.
+- **R07 issued but unanswered**: 120 previously answered; 20 newly issued; 306 still not issued; therefore **326 not yet answered**. After R07 learner submissions and grading, coverage will become 140 answered / 306 unseen. Do not record attempts or mastery until actual responses arrive. Await 20 Arabic→German isolated responses; verbs Infinitiv, nouns with nominative article.
+- Same Nov 15 open day, existing S01; no new grammar or lexemes added. Canonical inventories **319 verbs + 449 vocabulary**. Known empty/stale `progress.json` structured snapshot remains unreconciled, dated log and this summary are verified evidence.
+
+
 ## R06 graded — 2026-11-15 (latest checkpoint)
 
 - The learner submitted all 20 independent written answers for `2026-11-15-S01-R06-E01–E20`. Original answers **verbatim**, target IDs, exact corrections and outcomes saved in [2026-11-15 daily evidence](days/2026-11-15.md). Day **open**, session S01; this is isolated vocabulary/infinitive recall, not sentence, tense, oral or listening mastery.
