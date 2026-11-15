@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: der Haushalt (V467)
+
+- Checked entire canonical verb/vocabulary inventories and registered new **V467 der Haushalt**, plural **die Haushalte**, = أعمال البيت / شؤون المنزل؛ أسرة كوحدة معيشية؛ ميزانية حسب السياق. Example `Ich helfe meiner Frau im Haushalt.` = أنا بساعد مراتي في شغل البيت. Marked `introduced` only; no graded recall/mastery. See [vocabulary](curriculum/vocabulary.md), [Nov 15 log](days/2026-11-15.md).
+- Totals **321 verbs / 467 vocabulary**. R10 stays graded/paused, no R11 issued; prior responses and retry flags preserved; `progress.json` synchronization pending.
+
+
 ## Vocabulary intake — 2026-11-15: gründlich (V466)
 
 - User typed `gündlich`, corrected to **gründlich** (missing `r`). Verified canonical inventories had no independent entry; registered **V466 gründlich** = بدقة / بعناية / بشكل شامل, comparisons `gründlicher`, `am gründlichsten`; `Ich prüfe den Bericht gründlich.` = أنا براجع التقرير بدقة. Status introduced only, not graded or mastered. See [vocabulary](curriculum/vocabulary.md) and [Nov 15 log](days/2026-11-15.md).
