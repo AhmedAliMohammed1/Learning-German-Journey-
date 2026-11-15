@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: das Gedächtnis (V455) and die Tätigkeit (V456)
+
+- Audited canonical vocabulary and verbs registers; added **V455 das Gedächtnis** = الذاكرة, plural `die Gedächtnisse` (rare), example `Meine Oma hat ein gutes Gedächtnis.` = جدتي عندها ذاكرة كويسة. Added **V456 die Tätigkeit**, plural `die Tätigkeiten` (submitted `tätigkeiten`), = نشاط/عمل/مهمة/مهام, example `Zu meinen Tätigkeiten gehört die Softwareentwicklung.` = من ضمن مهامي تطوير البرمجيات. Both marked `introduced` only, no recall/mastery; see [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Totals **320 verbs / 456 vocabulary**. **R10 stays graded and paused**, R11 not issued; prior mistakes and responses preserved; `progress.json` sync pending.
+
+
 ## Vocabulary intake — 2026-11-15: peinlich (V454)
 
 - User submitted `peinlich`; audited complete canonical vocabulary and verbs inventories (no standalone entry), registered **V454 peinlich**, adjective = مُحرِج / مكسوف من موقف; comparative `peinlicher`, superlative `am peinlichsten`. Example `Das war mir sehr peinlich.` = الموقف ده كان محرج جدًا بالنسبالي (`mir` Dativ). Item marked `introduced` only; not an independent recall test. See [vocabulary](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
