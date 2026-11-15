@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: der Eintrag (V453)
+
+- Learner supplied `eintrag`; after full canonical duplicate checks of verb/vocabulary registers, registered **V453 der Eintrag**, plural **die Einträge**, = مُدخَل / تسجيل / بند مكتوب في قائمة أو سجل أو قاعدة بيانات. Example: `Ich habe einen neuen Eintrag in der Liste erstellt.` = أنا عملت مُدخَل جديد في القائمة. Related `eintragen` = يسجّل / يدوّن was not separately introduced. Newly introduced only, without recall attempt/mastery. Details in [vocabulary register](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
+- Totals **320 verbs and 453 vocabulary**. **R10 graded and paused**, no R11 issued, all errors and raw learner answers intact. `progress.json` structured sync still pending.
+
+
 ## Vocabulary intake — 2026-11-15: das Geschirr (V452)
 
 - Checked full canonical inventories before registering **V452 das Geschirr** = المواعين / أدوات المائدة (collective neuter noun, generally uncountable in everyday meaning, no common plural). `Ich spüle nach dem Essen das Geschirr.` = أنا بغسل المواعين بعد الأكل. Related `das Geschirr spülen` = يغسل المواعين. Newly `introduced`, not tested/mastered; logged in [vocabulary](curriculum/vocabulary.md) and [Nov 15 study log](days/2026-11-15.md).
