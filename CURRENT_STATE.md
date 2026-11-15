@@ -1,5 +1,13 @@
 # Current study state
 
+## R09 graded — 2026-11-15 (latest checkpoint)
+
+- Learner answered all 20 isolated Arabic→German R09 prompts, IDs `2026-11-15-S01-R09-E01–E20`. Verbatim originals and per-item explanations are in [today's dated log](days/2026-11-15.md). **8 exact**: E02/E03/E04/E05/E11/E17/E18/E19; **2 semantically accepted alternate nouns/words**: E08 `die Sitzung` for meeting (canonical `die Besprechung` unconfirmed, extra `die Meeting` wrong, correct `das Meeting`); E14 `deshalb` for `darum` (extra `nämlich` not equivalent). **1 partial lexical answer**: E15 `ansehen` without the requested reflexive `sich etwas ansehen`; **9 errors/form failures** at E01/E06/E07/E09/E10/E12/E13/E16/E20.
+- **12 additional retry/target-clarification flags:** #144 weiterleiten, V084 die Kirche, #233 lüften, V136 die Besprechung, #248 sich verletzen, V201 die Steckdosenleiste, V234 wohl, #270 sich konzentrieren, V249 darum, #283 sich etwas ansehen, V264 die Lust, V346 der Finger. Preserve previous **49 flags**; now **61 distinct flags**, including accepted synonyms not meaning failures. No global mastery, contextual or oral evidence inferred.
+- Frozen baseline **446**: **180 distinct items actually tested R01–R09**, **266 untested**, **R10** next fresh 20 unseen items upon request. Day 2026-11-15 still open, same S01; previous pending tasks preserved. Canonical registers **319 verbs + 451 vocabulary**; later entries V450/V451 not added to frozen pool.
+- `progress.json` still blank/stale and not reconciled. Dated learner evidence + this state summary are saved checkpoint; no claim of structured synchronization.
+
+
 ## R09 issued — 2026-11-15 (latest active checkpoint)
 
 - Learner requested 20 untouched entries from the **286 unseen** original frozen introduced-only review items. Audited all original R01–R08 canonical IDs and complete verb/vocabulary inventories, then recorded **2026-11-15-S01-R09-E01–E20** (10 verbs, 10 vocabulary) in [today's Nov 15 log](days/2026-11-15.md). These are issued **unanswered**, and answers remain hidden until independent submission.
