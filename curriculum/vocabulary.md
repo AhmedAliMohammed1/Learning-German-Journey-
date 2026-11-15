@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**470 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**471 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -476,6 +476,7 @@
 | V468 | wahnsinnig | wahnsinniger; am wahnsinnigsten (als Verstärker meist nicht gesteigert) | مجنون / جنوني / غير معقول؛ وفي الكلام اليومي جدًا أو رهيب للتأكيد | Das Konzert war wahnsinnig schön. | الحفلة كانت جميلة جدًا بشكل مش معقول. | adjective_adverb | introduced |
 | V469 | ca. (circa / zirka) | Abkürzung; unveränderlich; ähnlich: ungefähr | حوالي / تقريبًا (اختصار يُستخدم مع الأرقام والمقادير والمدة) | Die Fahrt dauert ca. zwei Stunden. | الرحلة بتاخد حوالي ساعتين. | abbreviation_adverb | introduced |
 | V470 | folgend (user typo: flogenden → folgenden) | adjective inflection: folgende / folgender / folgendes / folgenden; e.g. die folgenden Fragen | التالي / القادم / الآتي؛ folgenden صيغة متصرفة حسب الحالة والاسم | Bitte beantworten Sie die folgenden Fragen. | من فضلك جاوب على الأسئلة التالية. | adjective | introduced |
+| V471 | das Au-pair | die Au-pairs | شاب أو شابة بيعيش مع أسرة مضيفة في بلد تاني وبيساعد في رعاية الأطفال وشغل بيت خفيف مقابل السكن والأكل ومصروف جيب | Meine Freundin arbeitet als Au-pair bei einer Familie in München. | صاحبتي شغالة أو بير مع أسرة في ميونخ. | noun | introduced |
 
 ## Learning notes
 
