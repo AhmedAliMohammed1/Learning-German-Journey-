@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: sauber (V462)
+
+- Learner sent `sauber`; checked full canonical verb/vocabulary inventories and found no independent entry (only explanatory contrast with V461 schmutzig). Registered **V462 sauber**, adjective = نضيف / نظيف, comparison `sauberer`, `am saubersten`, example `Das Geschirr ist jetzt sauber.` = المواعين بقت نضيفة دلوقتي. New `introduced` only; no recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Canonical totals **320 verbs + 462 vocabulary**. **R10 graded and paused**, no R11 issued; preserve raw answers and review errors. Structured `progress.json` still pending sync.
+
+
 ## Vocabulary intake — 2026-11-15: schmutzig (V461)
 
 - Full duplicate audit of verb and vocabulary registers found no standalone `schmutzig`; registered **V461 schmutzig**, adjective = متسخ / وسخ, `schmutziger`, `am schmutzigsten`; `Das Geschirr ist schmutzig.` = المواعين وسخة. Opposite `sauber`. Status `introduced` only, not tested/mastered. See [vocabulary register](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
