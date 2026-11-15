@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**462 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**463 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -468,6 +468,7 @@
 | V460 | die Gemeinschaft | die Gemeinschaften | الجماعة / المجتمع / روح الانتماء والتعاون | In unserer Gemeinschaft helfen wir einander. | في مجتمعنا بنساعد بعض. | noun | introduced |
 | V461 | schmutzig | schmutziger; am schmutzigsten | متّسخ / وسخ | Das Geschirr ist schmutzig. | المواعين وسخة. | adjective | introduced |
 | V462 | sauber | sauberer; am saubersten | نضيف / نظيف؛ بشكل نظيف أو مرتب | Das Geschirr ist jetzt sauber. | المواعين بقت نضيفة دلوقتي. | adjective | introduced |
+| V463 | leise | leiser; am leisesten | هادي / واطي الصوت / بهدوء | Bitte sprich leise. | اتكلم بصوت واطي لو سمحت. | adjective_adverb | introduced |
 
 ## Learning notes
 
