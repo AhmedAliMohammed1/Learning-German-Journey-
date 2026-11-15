@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: gründlich (V466)
+
+- User typed `gündlich`, corrected to **gründlich** (missing `r`). Verified canonical inventories had no independent entry; registered **V466 gründlich** = بدقة / بعناية / بشكل شامل, comparisons `gründlicher`, `am gründlichsten`; `Ich prüfe den Bericht gründlich.` = أنا براجع التقرير بدقة. Status introduced only, not graded or mastered. See [vocabulary](curriculum/vocabulary.md) and [Nov 15 log](days/2026-11-15.md).
+- Totals **321 verbs / 466 vocabulary**. **R10 graded and paused**, no R11 issued; prior learner answers/errors intact; structured `progress.json` sync still pending.
+
+
 ## Vocabulary intake — 2026-11-15: ordentlich (V464), freiwillig (V465)
 
 - Audited full canonical verbs/vocabulary inventories; registered new **V464 ordentlich** = مرتب / منظم / بشكل مظبوط, comparison `ordentlicher`, `am ordentlichsten`, example `Mein Zimmer ist sauber und ordentlich.` = أوضتي نضيفة ومرتبة. Registered new **V465 freiwillig** = طوعًا / باختياره / تطوعي / من غير إجبار, example `Ich helfe freiwillig bei der Veranstaltung.` = أنا بساعد في الفعالية بمزاجي ومن غير إجبار. Both adjective/adverb and `introduced` only, not recall-tested/mastered. See [vocabulary list](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
