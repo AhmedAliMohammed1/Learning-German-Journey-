@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: rechte (V458) and passende (V459)
+
+- Duplicate check: full verb/vocabulary lists, existing **#202 passen** preserved (correct R10 response), but adjective `passend` new. Registered **V458 recht (rechte)** = يمين / ناحية اليمين (adjective), example `Meine rechte Hand tut weh.` = إيدي اليمين بتوجعني; also note possible unrelated `die Rechte` (plural of `das Recht` = الحقوق) if context means rights; no independent noun added. Registered **V459 passend (passende)** = مناسب / ملائم, `Ich suche eine passende Jacke.` = بدوّر على جاكيت مناسب. Both introduced only. Details in [vocabulary](curriculum/vocabulary.md), [Nov 15 log](days/2026-11-15.md).
+- **320 verbs / 459 vocabulary**. R10 graded and paused, no R11 issued; raw answers and retest flags preserved; `progress.json` sync pending.
+
+
 ## Vocabulary intake — 2026-11-15: das Bewegungsspiel (V457)
 
 - Learner supplied `bewegungsspiel`; duplicate audit across canonical inventories found none. Added **V457 das Bewegungsspiel**, plural **die Bewegungsspiele**, = لعبة حركية / لعبة بنعمل فيها نشاط بدني; `Die Kinder spielen im Kindergarten ein Bewegungsspiel.` = الأطفال بيلعبوا لعبة حركية في الحضانة. Marked `introduced` only; no independent recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
