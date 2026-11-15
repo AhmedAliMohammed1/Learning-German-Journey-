@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: das Bewegungsspiel (V457)
+
+- Learner supplied `bewegungsspiel`; duplicate audit across canonical inventories found none. Added **V457 das Bewegungsspiel**, plural **die Bewegungsspiele**, = لعبة حركية / لعبة بنعمل فيها نشاط بدني; `Die Kinder spielen im Kindergarten ein Bewegungsspiel.` = الأطفال بيلعبوا لعبة حركية في الحضانة. Marked `introduced` only; no independent recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Totals **320 verbs + 457 vocabulary**. **R10 graded and paused** stays unchanged, no R11 questions issued, original learner errors/answers preserved; `progress.json` pending reconciliation.
+
+
 ## Vocabulary intake — 2026-11-15: das Gedächtnis (V455) and die Tätigkeit (V456)
 
 - Audited canonical vocabulary and verbs registers; added **V455 das Gedächtnis** = الذاكرة, plural `die Gedächtnisse` (rare), example `Meine Oma hat ein gutes Gedächtnis.` = جدتي عندها ذاكرة كويسة. Added **V456 die Tätigkeit**, plural `die Tätigkeiten` (submitted `tätigkeiten`), = نشاط/عمل/مهمة/مهام, example `Zu meinen Tätigkeiten gehört die Softwareentwicklung.` = من ضمن مهامي تطوير البرمجيات. Both marked `introduced` only, no recall/mastery; see [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
