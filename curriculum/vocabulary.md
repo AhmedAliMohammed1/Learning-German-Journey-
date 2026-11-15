@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**455 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**456 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -461,6 +461,7 @@
 | V453 | der Eintrag | die Einträge | مُدخَل / تسجيل / بند مكتوب في قائمة أو سجل أو قاعدة بيانات | Ich habe einen neuen Eintrag in der Liste erstellt. | أنا عملت مُدخَل جديد في القائمة. | noun | introduced |
 | V454 | peinlich | peinlicher; am peinlichsten | مُحرِج / يكسّف / حاجة تسبب إحراج | Das war mir sehr peinlich. | الموقف ده كان محرج جدًا بالنسبالي. | adjective | introduced |
 | V455 | das Gedächtnis | die Gedächtnisse (selten; meist Singular) | الذاكرة / القدرة على التذكّر | Meine Oma hat ein gutes Gedächtnis. | جدتي عندها ذاكرة كويسة. | noun | introduced |
+| V456 | die Tätigkeit | die Tätigkeiten (user input: Tätigkeiten) | النشاط / العمل / المهمة أو المهام والأنشطة حسب السياق | Zu meinen Tätigkeiten gehört die Softwareentwicklung. | من ضمن مهامي تطوير البرمجيات. | noun | introduced |
 
 ## Learning notes
 
