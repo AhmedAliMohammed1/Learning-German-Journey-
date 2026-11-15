@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-15: stecken (#320)
+
+- Learner submitted `stecken`; checked entire canonical verb and vocabulary registers. Related compound `feststecken` already #275, but standalone **stecken** was not independently registered. Added **#320 stecken** meaning يحط حاجة داخل حاجة / يكون موجود أو محشور؛ `ich stecke, du steckst, er steckt`, Präteritum `steckte`, Perfekt `hat gesteckt`. Example `Ich stecke den Schlüssel in die Tasche.` = أنا بحط المفتاح في الشنطة; contrasted `Der Schlüssel steckt in der Tasche.` = المفتاح موجود في الشنطة (Akk direction vs Dat location). Newly introduced only, not recall-tested/mastered. See [verbs](curriculum/verbs.md) and [daily log](days/2026-11-15.md).
+- Canonical totals **320 verbs + 451 vocabulary**. Preserve existing **R10 graded and paused**, no R11 issued, past errors and answers preserved. Structured `progress.json` reconciliation still outstanding.
+
+
 ## Grammar clarification — 2026-11-15: WURDE → wurde
 
 - Explained `wurde` = Präteritum of existing **verb #296 werden** (no new registration). Meaning became (`Er wurde Arzt.`), and past passive `wurde + Partizip II` (`Das Auto wurde repariert.`). Distinguished `war` (sein Präteritum) and `würde` (Konjunktiv II), with full ich/du/er/wir/ihr/sie past conjugations. This is a clarification, not graded learner recall, so earlier flags and statuses remain. See [Nov 15 learning log](days/2026-11-15.md).
