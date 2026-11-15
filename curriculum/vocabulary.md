@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**473 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**474 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -479,6 +479,7 @@
 | V471 | das Au-pair | die Au-pairs | شاب أو شابة بيعيش مع أسرة مضيفة في بلد تاني وبيساعد في رعاية الأطفال وشغل بيت خفيف مقابل السكن والأكل ومصروف جيب | Meine Freundin arbeitet als Au-pair bei einer Familie in München. | صاحبتي شغالة أو بير مع أسرة في ميونخ. | noun | introduced |
 | V472 | der Ausflug | die Ausflüge | فسحة / خروجة / رحلة قصيرة للترفيه (غالبًا يوم واحد) | Wir machen am Sonntag einen Ausflug an den See. | إحنا هنعمل فسحة عند البحيرة يوم الأحد. | noun | introduced |
 | V473 | auf jeden Fall | fixed expression; unveränderlich | بالتأكيد / أكيد / في كل الأحوال / مهما حصل حسب السياق | Ich komme auf jeden Fall morgen. | أنا جاي بكرة أكيد. | expression | introduced |
+| V474 | verfügbar | Adjektiv: verfügbar / nicht verfügbar; Komparativ verfügbarer (selten) | متاح / موجود للاستخدام / متفرّغ حسب السياق | Ist dieser Termin noch verfügbar? | هل المعاد ده لسه متاح؟ | adjective | introduced |
 
 ## Learning notes
 
