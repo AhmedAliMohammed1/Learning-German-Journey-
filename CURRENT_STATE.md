@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: die Gemeinschaft (V460)
+
+- Learner wrote `meinschaft`; most likely intended **Gemeinschaft** (correct spelling). Audited full canonical vocabulary and verbs registers; no previous standalone occurrence. Registered **V460 die Gemeinschaft**, plural `die Gemeinschaften`, = مجتمع / جماعة / ترابط وانتماء, example `In unserer Gemeinschaft helfen wir einander.` = في مجتمعنا بنساعد بعض. Newly `introduced` only; not recall-tested or mastered. See [vocabulary](curriculum/vocabulary.md), [day log](days/2026-11-15.md).
+- Totals **320 verbs + 460 vocabulary**. R10 graded and paused, no R11 issued, learner answers and retry flags preserved; `progress.json` pending structured sync.
+
+
 ## Vocabulary intake — 2026-11-15: rechte (V458) and passende (V459)
 
 - Duplicate check: full verb/vocabulary lists, existing **#202 passen** preserved (correct R10 response), but adjective `passend` new. Registered **V458 recht (rechte)** = يمين / ناحية اليمين (adjective), example `Meine rechte Hand tut weh.` = إيدي اليمين بتوجعني; also note possible unrelated `die Rechte` (plural of `das Recht` = الحقوق) if context means rights; no independent noun added. Registered **V459 passend (passende)** = مناسب / ملائم, `Ich suche eine passende Jacke.` = بدوّر على جاكيت مناسب. Both introduced only. Details in [vocabulary](curriculum/vocabulary.md), [Nov 15 log](days/2026-11-15.md).
