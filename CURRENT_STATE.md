@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Ausflug (V472), 2026-11-15
+
+- Learner supplied `ausflug`, corrected capitalization **der Ausflug**, plural **die Ausflüge** = فسحة / خروجة / رحلة قصيرة للترفيه (عادة يوم واحد). Complete canonical verb/vocabulary inventory audit found no standalone `Ausflug` entry; the noun occurs only inside the existing teaching example for V301 `die Klasse`, which is exposure, not an independent entry. Added **V472** with example `Wir machen am Sonntag einen Ausflug an den See.` = إحنا هنعمل فسحة عند البحيرة يوم الأحد. Common collocation `einen Ausflug machen`; distinguish `die Reise` as a journey/trip often longer. Existing verb `ausgehen` is a distinct lemma and is unchanged.
+- Introduced, not independently tested/mastered. Canonical totals **321 verbs / 472 vocabulary**. Existing R10 graded/paused; R11 not issued, all learner answers/retests and earlier pending work preserved. `progress.json` remains pending structured reconciliation.
+
+
 ## Vocabulary intake — das Au-pair (V471), 2026-11-15
 
 - Learner supplied `au pair`; standardized German noun spelling **das Au-pair** (also written Au-pair), plural **die Au-pairs**. Complete canonical verb/vocabulary duplicate check found no entry `Au-pair` or `Aupair`. Registered **V471** = شخص (غالبًا شاب/شابة) بيقيم مع أسرة مضيفة في بلد تاني ويساعد في رعاية الأطفال وبعض مهام البيت مقابل إقامة وأكل ومصروف جيب؛ لا يعني موظف منزل كامل. Example `Meine Freundin arbeitet als Au-pair bei einer Familie in München.` = صاحبتي شغالة أو بير في أسرة في ميونخ. Related compound `die Au-pair-Familie` not independently registered.
