@@ -1,5 +1,12 @@
 # Current study state
 
+## R07 graded — 2026-11-15 (latest checkpoint)
+
+- Learner's 20 R07 written answers to **2026-11-15-S01-R07-E01–E20** are graded and saved **verbatim** (including alternate words and spacing) in [Nov 15 learner evidence](days/2026-11-15.md). **17/20 canonical exact**, E14 `die Laden / das Geschäft` accepted via valid synonym `das Geschäft` but target masculine article `der Laden` still unresolved, E18 `benoten` vs `unbedingt` is wrong meaning, E20 `Ratschlag / Empfehlung` correct noun meanings but both nominative articles missing (`der Ratschlag` / `die Empfehlung`). E06 contains canonical `jetzt`; `nun` also acceptable; `derzeit` means currently over a period.
+- **18/20 fully semantically accepted, plus E20 partially correct lemma with missing articles**; 1 wrong meaning (E18). **3 new review flags**: V218 `der Laden`, V291 `unbedingt`, V338 `der Ratschlag`. **41 combined flags** including 38 prior; keep nuanced status. No automatic mastery promotion, no new vocabulary or skills assessment.
+- Frozen original baseline **446**: **140 tested R01–R07, 306 unseen**. **R08 is exact next untouched 20-item round** after user requests, plus separate later shuffled retry pool. Today **2026-11-15**, open S01. Canonical **319 verbs + 449 vocabulary**. `progress.json` remains empty/stale and not synchronized; dated day log and this checkpoint supply verified evidence.
+
+
 ## R07 issued — 2026-11-15 (latest active checkpoint)
 
 - Learner requested R07 with 20 untouched entries from the **326 unseen** items of the original **446-item introduced-only frozen cohort**. Audited the full canonical verb/vocabulary inventories and all R01–R06 coverage, then recorded 10 verbs and 10 vocabulary under **2026-11-15-S01-R07-E01–E20** in [today's dated log](days/2026-11-15.md). Original R01–R06 answers and 38 separate retest/target confirmation flags kept unchanged.
