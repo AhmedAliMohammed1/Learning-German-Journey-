@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — wahnsinnig (V468), 2026-11-15
+
+- Learner supplied `wahnsinnig`. Full canonical audit of curriculum/verbs.md and curriculum/vocabulary.md found **no standalone `wahnsinnig` entry**. Related existing **V397 der Wahnsinn** is a distinct noun, retained unchanged.
+- Registered **V468 wahnsinnig**, adjective/adverb = مجنون / غير معقول / رهيب جدًا؛ وفي الكلام اليومي بتستخدم للتأكيد بمعنى جدًا (زي `wahnsinnig schön`, `wahnsinnig teuer`). Comparison: `wahnsinniger`, `am wahnsinnigsten` (less common for intensifier use). Example `Das Konzert war wahnsinnig schön.` = الحفلة كانت جميلة جدًا بشكل مش معقول.
+- Marked introduced only, not tested/mastered. Canonical totals **321 verbs / 468 vocabulary**. R10 remains graded and paused; R11 not issued. All previous learner answers, retry flags and pending exercises preserved; `progress.json` structured sync remains pending.
+
+
 ## Vocabulary intake — 2026-11-15: der Haushalt (V467)
 
 - Checked entire canonical verb/vocabulary inventories and registered new **V467 der Haushalt**, plural **die Haushalte**, = أعمال البيت / شؤون المنزل؛ أسرة كوحدة معيشية؛ ميزانية حسب السياق. Example `Ich helfe meiner Frau im Haushalt.` = أنا بساعد مراتي في شغل البيت. Marked `introduced` only; no graded recall/mastery. See [vocabulary](curriculum/vocabulary.md), [Nov 15 log](days/2026-11-15.md).
