@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: peinlich (V454)
+
+- User submitted `peinlich`; audited complete canonical vocabulary and verbs inventories (no standalone entry), registered **V454 peinlich**, adjective = مُحرِج / مكسوف من موقف; comparative `peinlicher`, superlative `am peinlichsten`. Example `Das war mir sehr peinlich.` = الموقف ده كان محرج جدًا بالنسبالي (`mir` Dativ). Item marked `introduced` only; not an independent recall test. See [vocabulary](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
+- Totals **320 verbs + 454 vocabulary**. Preserve **R10 graded and paused** (R11 not issued), all raw responses and retest flags intact; `progress.json` structured sync still pending.
+
+
 ## Vocabulary intake — 2026-11-15: der Eintrag (V453)
 
 - Learner supplied `eintrag`; after full canonical duplicate checks of verb/vocabulary registers, registered **V453 der Eintrag**, plural **die Einträge**, = مُدخَل / تسجيل / بند مكتوب في قائمة أو سجل أو قاعدة بيانات. Example: `Ich habe einen neuen Eintrag in der Liste erstellt.` = أنا عملت مُدخَل جديد في القائمة. Related `eintragen` = يسجّل / يدوّن was not separately introduced. Newly introduced only, without recall attempt/mastery. Details in [vocabulary register](curriculum/vocabulary.md) and [Nov 15 day log](days/2026-11-15.md).
