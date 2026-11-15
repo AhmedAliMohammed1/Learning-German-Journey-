@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: leise (V463)
+
+- Audited canonical verb/vocabulary lists: `leise` occurred in an example for #321 auffordern, but not as standalone vocabulary. Added **V463 leise**, adjective/adverb = هادي / بصوت واطي, `leiser`, `am leisesten`; example `Bitte sprich leise.` = اتكلم بصوت واطي لو سمحت. `introduced` only, not tested/mastered. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Totals **321 verbs / 463 vocabulary**. Existing R10 graded/paused, no R11 issued; previous raw learner answers and retry flags unchanged. Structured `progress.json` sync pending.
+
+
 ## Verb intake — 2026-11-15: auffordern (#321)
 
 - Learner submitted `auffordern`; verified no standalone lemma in canonical verb/vocabulary inventories. Registered **#321 auffordern** = يطلب من شخص / يحثّه على فعل شيء, regular separable verb, `ich fordere auf; du forderst auf; er fordert auf`, Präteritum `forderte auf`, Perfekt `hat aufgefordert`, pattern `jemanden (Akk) auffordern, etwas zu tun`. Example `Der Lehrer fordert die Schüler auf, leise zu sein.` = المدرس بيطلب من الطلبة يهدوا. Status `introduced` only, not tested/mastered. See [verb list](curriculum/verbs.md) and [day log](days/2026-11-15.md).
