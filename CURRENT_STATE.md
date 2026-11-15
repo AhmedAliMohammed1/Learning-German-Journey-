@@ -1,5 +1,13 @@
 # Current study state
 
+## R06 graded — 2026-11-15 (latest checkpoint)
+
+- The learner submitted all 20 independent written answers for `2026-11-15-S01-R06-E01–E20`. Original answers **verbatim**, target IDs, exact corrections and outcomes saved in [2026-11-15 daily evidence](days/2026-11-15.md). Day **open**, session S01; this is isolated vocabulary/infinitive recall, not sentence, tense, oral or listening mastery.
+- **8/20 exact canonical answers**, **9/20 genuine capitalization/spelling/article/meaning errors**, and **3/20 semantically acceptable but target-specific still-unconfirmed outcomes**: V082 `die Gebäude` (valid plural; target singular `das Gebäude`), #276 `machen` (valid synonym; target `tun`), #287 `ausschalten` (valid switching-off synonym; target `ausmachen`; extra `ausmache` not infinitive). Thus **11/20 accepted meaning/related form**, **8/20 exact**; preserve nuances.
+- Nine error retests: #206 klappen, V020 dort, #219 abwaschen, V036 die Tasse, V067 die Stadt, V132 die Haltestelle, V176 die Rückmeldung, #296 werden, #306 zeichnen. Three target confirmation checks: V082 das Gebäude (singular), #276 tun, #287 ausmachen. Combined **12 new R06 flags**, previous **26 R01–R05 flags** retained, **38 total** (not all wrong meanings).
+- Original frozen introduced pool **446**, **120 distinct items answered R01–R06**, **326 unseen**, **R07 next** with 20 fresh non-overlapping introduced IDs. Then revisit errors in separate shuffled retests. Canonical inventories unchanged: **319 verbs + 449 vocabulary**. **`progress.json` still an empty/stale unsynchronized snapshot**; dated evidence + this current-state summary authoritative; no claim of full structured sync.
+
+
 ## Active continuation — 2026-11-15: R06 issued, unanswered
 
 - Learner selected main-menu **3 Continue previous session**. Opened today's one day file [2026-11-15](days/2026-11-15.md), session S01; recorded **2026-11-15-S01-R06-E01–E20** (10 new-to-review verbs and 10 new-to-review vocabulary IDs) after complete inventory and previous R01–R05 coverage audit. The 20 exact Arabic prompts and targets are saved in today's log; **answers are pending**. No attempts or mastery changes.
