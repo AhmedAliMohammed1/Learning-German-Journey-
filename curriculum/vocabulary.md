@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**449 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**451 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -455,6 +455,8 @@
 | V447 | berühmt | — (Adjektiv: berühmter; am berühmtesten; flektiert z. B. berühmte) | مشهور / معروف جدًا | Sie ist eine berühmte Schauspielerin. | هي ممثلة مشهورة. | adjective | introduced |
 | V448 | geschieden | — (Adjektiv: Familienstand; Partizip II von scheiden, in dieser Bedeutung kaum gesteigert) | مُطلَّق / مُطلَّقة (الحالة الاجتماعية) | Meine Eltern sind geschieden. | أبويا وأمي مطلّقين. | adjective_participle | introduced |
 | V449 | sowie | — (Konjunktion: und/außerdem; auch: sobald in gehobener Verwendung; getrennt so wie = wie/genauso wie) | وكذلك / بالإضافة إلى / و؛ وأحيانًا بمجرد ما، حسب السياق | Ich spreche Deutsch sowie Englisch. | أنا بتكلم ألماني وكمان إنجليزي. | conjunction | introduced |
+| V450 | leider | — (Adverb; nicht steigerbar) | للأسف / يا للأسف | Leider kann ich heute nicht kommen. | للأسف مش هقدر أجي النهارده. | adverb | introduced |
+| V451 | unglücklicherweise | — (Satzadverb; nicht steigerbar) | لسوء الحظ / للأسف | Unglücklicherweise habe ich den Zug verpasst. | لسوء الحظ القطر فاتني. | adverb | introduced |
 
 ## Learning notes
 
