@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — 2026-11-15: auffordern (#321)
+
+- Learner submitted `auffordern`; verified no standalone lemma in canonical verb/vocabulary inventories. Registered **#321 auffordern** = يطلب من شخص / يحثّه على فعل شيء, regular separable verb, `ich fordere auf; du forderst auf; er fordert auf`, Präteritum `forderte auf`, Perfekt `hat aufgefordert`, pattern `jemanden (Akk) auffordern, etwas zu tun`. Example `Der Lehrer fordert die Schüler auf, leise zu sein.` = المدرس بيطلب من الطلبة يهدوا. Status `introduced` only, not tested/mastered. See [verb list](curriculum/verbs.md) and [day log](days/2026-11-15.md).
+- Totals **321 verbs / 462 vocabulary**. **R10 graded and paused**, no R11 issued; previous raw answers and retry flags unchanged; `progress.json` structured sync pending.
+
+
 ## Vocabulary intake — 2026-11-15: sauber (V462)
 
 - Learner sent `sauber`; checked full canonical verb/vocabulary inventories and found no independent entry (only explanatory contrast with V461 schmutzig). Registered **V462 sauber**, adjective = نضيف / نظيف, comparison `sauberer`, `am saubersten`, example `Das Geschirr ist jetzt sauber.` = المواعين بقت نضيفة دلوقتي. New `introduced` only; no recall/mastery. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
