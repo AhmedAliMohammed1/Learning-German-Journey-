@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**460 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**461 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -466,6 +466,7 @@
 | V458 | recht (rechte) | Adjektiv: rechte/rechter/rechtes; als Ortsrichtung auch rechts; andere Bedeutung: Recht haben | يمين / الموجود في الناحية اليمين؛ صح أو على حق حسب التعبير | Meine rechte Hand tut weh. | إيدي اليمين بتوجعني. | adjective | introduced |
 | V459 | passend (passende) | Adjektiv: passende/passender/passendes; Komparativ passender; Superlativ am passendsten | مناسب / ملائم / لايق | Ich suche eine passende Jacke. | أنا بدوّر على جاكيت مناسب. | adjective | introduced |
 | V460 | die Gemeinschaft | die Gemeinschaften | الجماعة / المجتمع / روح الانتماء والتعاون | In unserer Gemeinschaft helfen wir einander. | في مجتمعنا بنساعد بعض. | noun | introduced |
+| V461 | schmutzig | schmutziger; am schmutzigsten | متّسخ / وسخ | Das Geschirr ist schmutzig. | المواعين وسخة. | adjective | introduced |
 
 ## Learning notes
 
