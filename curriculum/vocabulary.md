@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**465 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**466 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -471,6 +471,7 @@
 | V463 | leise | leiser; am leisesten | هادي / واطي الصوت / بهدوء | Bitte sprich leise. | اتكلم بصوت واطي لو سمحت. | adjective_adverb | introduced |
 | V464 | ordentlich | ordentlicher; am ordentlichsten | مرتب / منظم / بشكل سليم ومظبوط؛ كويس جدًا أو قدر كبير (عامي حسب السياق) | Mein Zimmer ist sauber und ordentlich. | أوضتي نضيفة ومرتبة. | adjective_adverb | introduced |
 | V465 | freiwillig | — (Adjektiv/Adverb; usually not compared in meaning without obligation) | طوعًا / باختياره / تطوعي / من غير إجبار | Ich helfe freiwillig bei der Veranstaltung. | أنا بساعد في الفعالية بمزاجي ومن غير إجبار. | adjective_adverb | introduced |
+| V466 | gründlich (user typo: gündlich) | gründlicher; am gründlichsten | بدقة / بعناية / بشكل شامل ومن غير ما يسيب تفاصيل | Ich prüfe den Bericht gründlich. | أنا براجع التقرير بدقة. | adjective_adverb | introduced |
 
 ## Learning notes
 
