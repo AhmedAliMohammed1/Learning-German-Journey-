@@ -1,4 +1,4 @@
-# Verb curriculum — 321 introduced verbs
+# Verb curriculum — 322 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -329,6 +329,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 319 | einreiben | يدهن / يفرك كريم أو مرهم على الجلد / يدعك حاجة بمادة | ich reibe ein; du reibst ein; er reibt ein | hat eingerieben | Ich reibe meine Hände mit Creme ein. | introduced | Strong separable verb (ein + reiben); Präteritum rieb ein; Perfekt hat eingerieben. Pattern jemanden/etwas mit etwas (Dat) einreiben; often reflexive sich (Dat) + body part (Akk): Ich reibe mir die Hände mit Creme ein. Also Creme in die Haut einreiben. Arabic example: أنا بدهن إيدي بكريم. Do not confuse reiben (يفرك) with einreiben (يدهن/يفرك مادة على الجلد). |
 | 320 | stecken | يحط / يدخل حاجة في حاجة؛ يكون موجود أو محشور داخل حاجة | ich stecke; du steckst; er steckt | hat gesteckt | Ich stecke den Schlüssel in die Tasche. | introduced | Regular weak verb: Präteritum steckte; Perfekt hat gesteckt. With placement (Wohin?) + Akk: Ich stecke den Schlüssel in die Tasche. = أنا بحط المفتاح في الشنطة. With position (Wo?) + Dat: Der Schlüssel steckt in der Tasche. = المفتاح موجود في الشنطة. Related separable feststecken already #275; not a duplicate of stecken. |
 | 321 | auffordern | يطلب من شخص يعمل حاجة / يدعوه أو يحثّه على فعل شيء | ich fordere auf; du forderst auf; er fordert auf | hat aufgefordert | Der Lehrer fordert die Schüler auf, leise zu sein. | introduced | Regular separable auf-fordern: Präteritum forderte auf; Perfekt hat aufgefordert. Pattern jemanden (Akk) auffordern, etwas zu tun (zu + Infinitiv): Ich fordere dich auf, mir zu helfen. = أنا بطلب منك تساعدني. Often means firm request/demand, stronger than bitten. Contrast fordern = يطالب بشيء؛ bitten um / jemanden bitten, ... zu = يطلب بأدب. |
+| 322 | hassen | يكره / يبغض؛ أقوى من nicht mögen | ich hasse; du hasst; er/sie/es hasst | hat gehasst | Ich hasse diese Situation. | introduced | Regular inseparable? No: simple non-separable verb; Präteritum hasste. Takes Akkusativ: jemanden/etwas hassen. Example = أنا بكره الموقف ده. Softer everyday alternative: nicht mögen. |
 
 ## How to read the table
 
