@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**454 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**455 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -460,6 +460,7 @@
 | V452 | das Geschirr | normalerweise kein Plural als Sammelbegriff; selten die Geschirre (Arten/Service; auch Tiergeschirr) | المواعين / أدوات الأكل والشرب زي الأطباق والكوبايات | Ich spüle nach dem Essen das Geschirr. | أنا بغسل المواعين بعد الأكل. | noun_collective | introduced |
 | V453 | der Eintrag | die Einträge | مُدخَل / تسجيل / بند مكتوب في قائمة أو سجل أو قاعدة بيانات | Ich habe einen neuen Eintrag in der Liste erstellt. | أنا عملت مُدخَل جديد في القائمة. | noun | introduced |
 | V454 | peinlich | peinlicher; am peinlichsten | مُحرِج / يكسّف / حاجة تسبب إحراج | Das war mir sehr peinlich. | الموقف ده كان محرج جدًا بالنسبالي. | adjective | introduced |
+| V455 | das Gedächtnis | die Gedächtnisse (selten; meist Singular) | الذاكرة / القدرة على التذكّر | Meine Oma hat ein gutes Gedächtnis. | جدتي عندها ذاكرة كويسة. | noun | introduced |
 
 ## Learning notes
 
