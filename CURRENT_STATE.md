@@ -1,5 +1,12 @@
 # Current study state
 
+## R09 issued — 2026-11-15 (latest active checkpoint)
+
+- Learner requested 20 untouched entries from the **286 unseen** original frozen introduced-only review items. Audited all original R01–R08 canonical IDs and complete verb/vocabulary inventories, then recorded **2026-11-15-S01-R09-E01–E20** (10 verbs, 10 vocabulary) in [today's Nov 15 log](days/2026-11-15.md). These are issued **unanswered**, and answers remain hidden until independent submission.
+- Original frozen 446-item scope: **160 answered**, **20 R09 issued but not yet answered**, **266 not yet issued**, hence **286 not yet tested**. On actual R09 answer submission and grading, becomes **180 answered and 266 untouched**. Prior **49** review/target-confirmation flags and all older pending work preserved. No new lexemes, mastery promotion or duplicate study session.
+- Date **2026-11-15** Berlin; same open S01. Canonical inventory currently **319 verbs and 451 vocabulary**; newer V450/451 excluded from frozen cohort. `progress.json` remains empty/unsynced; dated log + CURRENT_STATE supply the saved checkpoint.
+
+
 ## R08 graded — 2026-11-15 (latest checkpoint)
 
 - All 20 R08 answers received and graded independently. Raw learner responses preserved verbatim in [Nov 15 dated evidence](days/2026-11-15.md), activity IDs **2026-11-15-S01-R08-E01–E20**. **12 exact**, **2 valid related forms/semantic alternatives with exact target still unconfirmed**, **6 genuine lexical/form/article mistakes**.
