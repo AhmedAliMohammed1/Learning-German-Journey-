@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — hassen (#322), 2026-11-15
+
+- Learner submitted `hassen`. Full canonical inventory audit of curriculum/verbs.md and curriculum/vocabulary.md found no existing lemma `hassen` or its inflections. Registered **#322 hassen** = يكره / يبغض, regular non-separable verb: Präsens `ich hasse; du hasst; er/sie/es hasst`, Perfekt `hat gehasst`, Präteritum `hasste`. Takes **Akkusativ** (`jemanden/etwas hassen`): `Ich hasse diese Situation.` = أنا بكره الموقف ده. `nicht mögen` is a softer alternative; `hassen` expresses stronger dislike. Introduced only, not mastered.
+- Totals **322 verbs / 473 vocabulary**. R10 graded and paused, R11 not issued; existing learner answers, retest flags and pending work preserved. `progress.json` structured synchronization remains pending.
+
+
 ## Vocabulary intake — auf jeden Fall (V473), 2026-11-15
 
 - Learner supplied `auf jeden fall`, corrected capitalization to **auf jeden Fall**. Complete canonical verb/vocabulary inventory audit found no existing exact expression. **V292 auf keinen Fall** already exists but has the opposite meaning and was retained without duplication. Registered **V473 auf jeden Fall** = بالتأكيد / أكيد / في كل الأحوال / مهما حصل حسب السياق, a fixed adverbial expression. Example `Ich komme auf jeden Fall morgen.` = أنا جاي بكرة أكيد. Contrast `auf keinen Fall` = أبدًا / مستحيل.
