@@ -1,5 +1,13 @@
 # Current study state
 
+## R10 graded — 2026-11-15 (latest checkpoint)
+
+- Learner submitted all twenty independent typed R10 answers, stable IDs `2026-11-15-S01-R10-E01–E20`; original strings preserved verbatim in [2026-11-15 daily evidence](days/2026-11-15.md), with explanations and independent grading. **14 exact**, **1 semantically acceptable alternative** E13 `aufbewahren` for `behalten` (the additional `erhalten` is not generally equivalent), and **5 errors** E02, E04, E06, E08, E14. No mastery promotion or contextual/Perfekt/oral inference.
+- New review flags: V022 `der Apfel` masculine article; V078 `das Einkaufszentrum` missing linking s; V110 `der Brief` spelling vs `Berif`; V164 `die Datei` feminine article; #268 `behalten` exact-target confirmation distinct from `aufbewahren`; V239 `wahrscheinlich` vs `ziemlich` probability-versus-degree. **6 flags** added to previously retained **61**, now **67 distinct flags** across R01–R10 (some valid alternatives, not all errors).
+- Frozen original 446-entry introduced-only cohort: **200 distinct attempted R01–R10, 246 unseen**. Exact next fresh round **R11**, twenty non-overlapping baseline introduced items if requested. Earlier retests and pending work deferred intact. Same open Nov 15 day S01, inventories **319 verbs + 451 vocabulary**, V450/V451 post-baseline.
+- `progress.json` remains empty/stale and is not reconciled; day log and this checkpoint are verified evidence.
+
+
 ## R10 issued, awaiting learner answers — 2026-11-15 (latest active checkpoint)
 
 - Learner requested 20 previously unseen items from original **266 untested** baseline introduced-only entries. Verified entire canonical verb/vocabulary inventories and 180 prior tested R01–R09 IDs; issued **2026-11-15-S01-R10-E01–E20** (10 verbs, 10 vocabulary) under [Nov 15 learner log](days/2026-11-15.md), with Arabic prompts, exact canonical IDs and hidden targets. No duplication; no mastery or attempted score credited yet.
