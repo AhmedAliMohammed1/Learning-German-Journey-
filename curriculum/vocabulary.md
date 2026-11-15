@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**457 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**459 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -463,6 +463,8 @@
 | V455 | das Gedächtnis | die Gedächtnisse (selten; meist Singular) | الذاكرة / القدرة على التذكّر | Meine Oma hat ein gutes Gedächtnis. | جدتي عندها ذاكرة كويسة. | noun | introduced |
 | V456 | die Tätigkeit | die Tätigkeiten (user input: Tätigkeiten) | النشاط / العمل / المهمة أو المهام والأنشطة حسب السياق | Zu meinen Tätigkeiten gehört die Softwareentwicklung. | من ضمن مهامي تطوير البرمجيات. | noun | introduced |
 | V457 | das Bewegungsspiel | die Bewegungsspiele | لعبة حركية / لعبة فيها حركة ونشاط بدني | Die Kinder spielen im Kindergarten ein Bewegungsspiel. | الأطفال بيلعبوا لعبة حركية في الحضانة. | noun | introduced |
+| V458 | recht (rechte) | Adjektiv: rechte/rechter/rechtes; als Ortsrichtung auch rechts; andere Bedeutung: Recht haben | يمين / الموجود في الناحية اليمين؛ صح أو على حق حسب التعبير | Meine rechte Hand tut weh. | إيدي اليمين بتوجعني. | adjective | introduced |
+| V459 | passend (passende) | Adjektiv: passende/passender/passendes; Komparativ passender; Superlativ am passendsten | مناسب / ملائم / لايق | Ich suche eine passende Jacke. | أنا بدوّر على جاكيت مناسب. | adjective | introduced |
 
 ## Learning notes
 
