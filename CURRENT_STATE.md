@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — verfügbar (V474), 2026-11-16
+
+- Learner supplied `verfügbar`. Audited entire canonical curriculum/verbs.md and curriculum/vocabulary.md; no standalone lemma or inflection found. Registered **V474 verfügbar**, adjective = متاح / موجود للاستخدام / فاضي أو متفرّغ (حسب السياق). Reference: `verfügbarer`, `am verfügbarsten` (uncommon; normally just verfügbar / nicht verfügbar). Example `Ist dieser Termin noch verfügbar?` = هل المعاد ده لسه متاح؟. Usage: `verfügbar sein`, `zur Verfügung stehen` (related expression, not new register entry).
+- Introduced, not tested/mastered. Totals **322 verbs / 474 vocabulary**. Previous day 2026-11-15 paused after graded R10, R11 not issued; 200/446 baseline items reviewed, 246 unseen and 67 retry/confirmation flags. Old unfinished work and learner evidence preserved. `progress.json` structured sync still pending.
+
+
 ## Verb intake — hassen (#322), 2026-11-15
 
 - Learner submitted `hassen`. Full canonical inventory audit of curriculum/verbs.md and curriculum/vocabulary.md found no existing lemma `hassen` or its inflections. Registered **#322 hassen** = يكره / يبغض, regular non-separable verb: Präsens `ich hasse; du hasst; er/sie/es hasst`, Perfekt `hat gehasst`, Präteritum `hasste`. Takes **Akkusativ** (`jemanden/etwas hassen`): `Ich hasse diese Situation.` = أنا بكره الموقف ده. `nicht mögen` is a softer alternative; `hassen` expresses stronger dislike. Introduced only, not mastered.
