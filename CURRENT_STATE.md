@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — 2026-11-15: ordentlich (V464), freiwillig (V465)
+
+- Audited full canonical verbs/vocabulary inventories; registered new **V464 ordentlich** = مرتب / منظم / بشكل مظبوط, comparison `ordentlicher`, `am ordentlichsten`, example `Mein Zimmer ist sauber und ordentlich.` = أوضتي نضيفة ومرتبة. Registered new **V465 freiwillig** = طوعًا / باختياره / تطوعي / من غير إجبار, example `Ich helfe freiwillig bei der Veranstaltung.` = أنا بساعد في الفعالية بمزاجي ومن غير إجبار. Both adjective/adverb and `introduced` only, not recall-tested/mastered. See [vocabulary list](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
+- Canonical totals **321 verbs + 465 vocabulary**. **R10 graded and paused**, no R11 issued; earlier answers and retest flags preserved, `progress.json` structured sync pending.
+
+
 ## Vocabulary intake — 2026-11-15: leise (V463)
 
 - Audited canonical verb/vocabulary lists: `leise` occurred in an example for #321 auffordern, but not as standalone vocabulary. Added **V463 leise**, adjective/adverb = هادي / بصوت واطي, `leiser`, `am leisesten`; example `Bitte sprich leise.` = اتكلم بصوت واطي لو سمحت. `introduced` only, not tested/mastered. See [vocabulary](curriculum/vocabulary.md) and [day log](days/2026-11-15.md).
