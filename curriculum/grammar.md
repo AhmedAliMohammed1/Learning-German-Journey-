@@ -1,5 +1,117 @@
 # Grammar curriculum
 
+## Quick reference — Personalpronomen, Reflexivpronomen und die vier Fälle (2026-11-15)
+
+**المفتاح:** Nominativ = مين اللي بيعمل الفعل؟ (Subjekt)؛ Akkusativ = مين/إيه اللي وقع عليه الفعل مباشرة؟ (Wen/was?)؛ Dativ = لمين/لصالح مين؟ (Wem?)؛ Genitiv = بتاع مين؟ (Wessen?)، وكمان بعد حروف جر وأفعال معيّنة. **الفعل/حرف الجر هو اللي بيحدد الحالة أحيانًا، مش الترجمة العربية لوحدها.**
+
+### 1) Personalpronomen — الضمائر الشخصية في الأربع حالات
+
+| Nominativ (فاعل) | Akkusativ (مفعول مباشر) | Dativ (مفعول غير مباشر) | Genitiv (نادر للضمائر الشخصية) | المعنى |
+| --- | --- | --- | --- | --- |
+| **ich** | **mich** | **mir** | meiner | أنا / إياي / لي |
+| **du** | **dich** | **dir** | deiner | إنت / إياك / لك |
+| **er** | **ihn** | **ihm** | seiner | هو / إياه / له |
+| **sie** | **sie** | **ihr** | ihrer | هي / إياها / لها |
+| **es** | **es** | **ihm** | seiner | هو/هي لشيء محايد |
+| **wir** | **uns** | **uns** | unser | إحنا / لينا |
+| **ihr** | **euch** | **euch** | euer | إنتوا / ليكوا |
+| **sie** (جمع) | **sie** | **ihnen** | ihrer | هم / لهم |
+| **Sie** (حضرتك/حضراتكم) | **Sie** | **Ihnen** | Ihrer | حضرتك / لحضرتك |
+
+**مهم:** Genitiv في الجدول ده أشكال *الضمائر الشخصية المستقلة*، وهي نادرة في الكلام العادي: مثل \`Wir gedenken seiner.\` = إحنا بنحيي ذكراه. ده **مش نفس جدول ضمائر الملكية** \`mein/dein/sein\`. للتعبير عن الملكية العادية بنقول \`mein Buch\` أو \`das Buch meines Bruders\`، ومش \`meiner Buch\`.
+
+أمثلة للحالات:
+- \`Ich sehe **dich**.\` = أنا شايفك (**Akkusativ**؛ \`sehen\` بياخد Akk.).
+- \`Du hilfst **mir**.\` = إنت بتساعدني (**Dativ**؛ \`helfen\` بياخد Dat.).
+- \`Ich gebe **dir** **das Buch**.\` = أنا بديك الكتاب (**dir** Dativ، **das Buch** Akkusativ).
+- \`Er kennt **mich**.\` = هو يعرفني (Akk.).
+- \`Er antwortet **mir**.\` = هو بيرد عليّا (Dat.).
+
+### 2) Reflexivpronomen — الضمائر الانعكاسية: mich ولا mir؟
+
+| الفاعل | Reflexiv Akkusativ | Reflexiv Dativ |
+| --- | --- | --- |
+| ich | **mich** | **mir** |
+| du | **dich** | **dir** |
+| er | **sich** | **sich** |
+| sie (هي) | **sich** | **sich** |
+| es | **sich** | **sich** |
+| wir | **uns** | **uns** |
+| ihr | **euch** | **euch** |
+| sie (هم) | **sich** | **sich** |
+| Sie (حضرتك) | **sich** | **sich** |
+
+**ملاحظات:** \`sich\` مش مخصوص لـich؛ مع ich بنقول **mich أو mir** حسب الـKasus. مفيش جدول شائع منفصل لـ **Reflexiv Genitiv** في الاستعمال العادي. نفس \`mich/mir\` ممكن يكون ضمير شخصي عادي أو انعكاسي؛ بنعرف من رجوعه للفاعل.
+
+- **Reflexiv Akkusativ**: \`Ich wasche **mich**.\` = أنا بغسل نفسي؛ \`Du erinnerst **dich** an den Termin.\` = إنت بتفتكر المعاد؛ \`Er freut **sich**.\` = هو مبسوط.
+- **Reflexiv Dativ**: \`Ich wasche **mir** die Hände.\` = أنا بغسل إيدي؛ \`Du kaufst **dir** ein Buch.\` = إنت بتشتري لنفسك كتاب؛ \`Er zieht **sich** die Jacke an.\` = هو بيلبس الجاكيت لنفسه (في الجملة دي \`sich\` = Dativ).
+- **القاعدة العملية للمبتدئين:** لما يكون فيه عضو جسم/حاجة تانية واخدة الـAkkusativ، الضمير الانعكاسي غالبًا بيكون **Dativ**: \`Ich putze mir die Zähne.\` (\`die Zähne\` Akk., \`mir\` Dat.). لكن لازم تحفظ **الفعل مع حالته**؛ مش قاعدة تنفع لكل الأفعال.
+- **مقارنة مباشرة:** \`Ich wasche mich.\` = بغسل نفسي؛ \`Ich wasche mir das Gesicht.\` = بغسل وشي. \`Ich ziehe mich an.\` = بلبس هدومي؛ \`Ich ziehe mir eine Jacke an.\` = بلبس جاكيت.
+- **Reflexiv + حرف جر:** \`Ich interessiere mich **für** Deutsch.\` = أنا مهتم بالألماني (für + Akk.)؛ \`Ich beschäftige mich **mit** Deutsch.\` = أنا منشغل بالألماني (mit + Dat.). الحالة اللي بعد حرف الجر حاجة، وحالة الضمير الانعكاسي حاجة تانية.
+
+### 3) Bestimmter Artikel — أدوات التعريف (der/die/das)
+
+| Kasus | Maskulin (مذكر) | Feminin (مؤنث) | Neutrum (محايد) | Plural (جمع) |
+| --- | --- | --- | --- | --- |
+| **Nominativ** | **der** Mann | **die** Frau | **das** Kind | **die** Kinder |
+| **Akkusativ** | **den** Mann | **die** Frau | **das** Kind | **die** Kinder |
+| **Dativ** | **dem** Mann | **der** Frau | **dem** Kind | **den** Kindern |
+| **Genitiv** | **des** Mannes | **der** Frau | **des** Kindes | **der** Kinder |
+
+**احفظ:** المذكر في Akk يتغيّر **der → den**؛ وفي Dativ: **dem/der/dem/den**؛ وفي Genitiv: **des/der/des/der**. في Dativ Plural غالبًا نضيف **-n** للاسم نفسه لو ينفع: \`mit den Kindern\`؛ لكن \`mit den Autos\` من غير -n إضافية. في Genitiv مفرد مذكر/محايد غالبًا الاسم بياخد \`-s/-es\`: \`des Mannes\`, \`des Kindes\`.
+
+### 4) Unbestimmter Artikel — أدوات النكرة (ein/eine)
+
+| Kasus | Maskulin | Feminin | Neutrum | Plural |
+| --- | --- | --- | --- | --- |
+| **Nominativ** | **ein** Mann | **eine** Frau | **ein** Kind | — (مفيش جمع لـein) |
+| **Akkusativ** | **einen** Mann | **eine** Frau | **ein** Kind | — |
+| **Dativ** | **einem** Mann | **einer** Frau | **einem** Kind | — |
+| **Genitiv** | **eines** Mannes | **einer** Frau | **eines** Kindes | — |
+
+\`Ich sehe **einen Mann**.\` = أنا شايف راجل؛ \`Ich helfe **einer Frau**.\` = أنا بساعد ست؛ \`Das Auto **eines Mannes**.\` = عربية راجل.
+
+### 5) Negativartikel und Possessivartikel — kein + mein/dein...
+
+**نفس النهايات الأساسية** لـ \`kein-\` وكلمات الملكية قبل الاسم: \`mein-\`, \`dein-\`, \`sein-\`, \`ihr-\`, \`sein-\`, \`unser-\`, \`euer-\`, \`ihr-\`, \`Ihr-\`.
+
+| Kasus | Maskulin | Feminin | Neutrum | Plural |
+| --- | --- | --- | --- | --- |
+| **Nominativ** | **kein / mein** Mann | **keine / meine** Frau | **kein / mein** Kind | **keine / meine** Kinder |
+| **Akkusativ** | **keinen / meinen** Mann | **keine / meine** Frau | **kein / mein** Kind | **keine / meine** Kinder |
+| **Dativ** | **keinem / meinem** Mann | **keiner / meiner** Frau | **keinem / meinem** Kind | **keinen / meinen** Kindern |
+| **Genitiv** | **keines / meines** Mannes | **keiner / meiner** Frau | **keines / meines** Kindes | **keiner / meiner** Kinder |
+
+**ضمائر الملكية تبع مين؟** \`ich → mein\`; \`du → dein\`; \`er → sein\`; \`sie (هي) → ihr\`; \`es → sein\`; \`wir → unser\`; \`ihr → euer\`; \`sie (هم) → ihr\`; \`Sie (حضرتك) → Ihr\`. النهاية بتتغير **حسب جنس وعدد وحالة الشيء المملوك**، مش حسب جنس صاحبه. مثال \`mein Bruder\` / \`meine Schwester\` / \`meinem Bruder\`. مع \`euer\` بنشوف غالبًا \`eure\`, \`euren\`, \`eurem\`, \`eurer\`.
+
+### 6) Was bestimmt den Kasus? — أختار Akk/Dativ/Genitiv إمتى؟
+
+| الحالة | الاستخدام أو حرف الجر | مثال |
+| --- | --- | --- |
+| **Nominativ** | الفاعل؛ وبعد \`sein\` للخبر الاسمي | \`**Der Mann** ist Lehrer.\` |
+| **Akkusativ** | مفعول مباشر؛ \`sehen, haben, kaufen, kennen\`؛ \`für, ohne, durch, gegen, um\` | \`Ich sehe **den Mann**.\` / \`für **mich**\` |
+| **Dativ** | مفعول بعد \`helfen, danken, antworten, gefallen\`؛ \`mit, nach, bei, seit, von, zu, aus\` | \`Ich helfe **dem Mann**.\` / \`mit **mir**\` |
+| **Genitiv** | الملكية أو تبعية؛ \`wegen, trotz, während, statt\` غالبًا في القياسي المكتوب | \`Das Auto **des Mannes**.\` / \`wegen **des Wetters**\` |
+
+**Wechselpräpositionen** (\`in, an, auf, unter, über, vor, hinter, neben, zwischen\`): **Wo?** مكان ثابت → Dativ: \`Das Buch liegt **auf dem Tisch**.\`؛ **Wohin?** انتقال لمكان/هدف → Akkusativ: \`Ich lege das Buch **auf den Tisch**.\` مش أي حركة لوحدها معناها Akk؛ المهم هل فيه انتقال لوجهة جديدة.
+
+### 7) Mini-Vergleich — نفس المعنى مع تغيّر الضمير
+
+| سؤال | مثال | السبب |
+| --- | --- | --- |
+| مين؟ **Wer?** | \`**Ich** wasche das Auto.\` | ich = Nominativ |
+| مين/إيه؟ **Wen/was?** | \`Er sieht **mich**.\` | mich = Akkusativ |
+| لمين؟ **Wem?** | \`Er hilft **mir**.\` | mir = Dativ |
+| انعكاسي Akk | \`Ich wasche **mich**.\` | بنغسل نفسنا |
+| انعكاسي Dat | \`Ich wasche **mir** die Hände.\` | \`die Hände\` = Akk |
+| ملكية قبل اسم | \`Das ist **mein** Buch.\` | Possessivartikel، مش \`meiner\` الشخصي النادر |
+| ملكية Genitiv | \`Das ist das Buch **meines Bruders**.\` | Genitiv على الاسم |
+
+**للتمرين:** غيّر الفاعل في \`Ich wasche mir die Hände\` إلى \`du / er / wir / ihr / Sie\`، وبعدها جرّب نفس الجملة بدون \`die Hände\`: \`Ich wasche mich\`. اعتبر الجداول مرجعًا جديدًا للحفظ والمراجعة، مش دليل إن الحالات كلها اتقنتها بالفعل.
+
+---
+
+
 Backfilled from prior conversation using the learner's supplied history, 2026-10-03. **Genitiv is practicing**, not mastered. Studied topics remain available for cumulative review; "introduced" never means mastered.
 
 ## Topic status map
