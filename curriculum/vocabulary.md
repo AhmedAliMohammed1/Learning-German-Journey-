@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**474 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**481 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -480,6 +480,13 @@
 | V472 | der Ausflug | die Ausflüge | فسحة / خروجة / رحلة قصيرة للترفيه (غالبًا يوم واحد) | Wir machen am Sonntag einen Ausflug an den See. | إحنا هنعمل فسحة عند البحيرة يوم الأحد. | noun | introduced |
 | V473 | auf jeden Fall | fixed expression; unveränderlich | بالتأكيد / أكيد / في كل الأحوال / مهما حصل حسب السياق | Ich komme auf jeden Fall morgen. | أنا جاي بكرة أكيد. | expression | introduced |
 | V474 | verfügbar | Adjektiv: verfügbar / nicht verfügbar; Komparativ verfügbarer (selten) | متاح / موجود للاستخدام / متفرّغ حسب السياق | Ist dieser Termin noch verfügbar? | هل المعاد ده لسه متاح؟ | adjective | introduced |
+| V475 | gültig | gültiger; am gültigsten (selten) | ساري المفعول / صالح / معترف به رسميًا | Mein Ticket ist noch gültig. | تذكرتي لسه سارية. | adjective | introduced |
+| V476 | die Wiederholung | die Wiederholungen | مراجعة / تكرار (خصوصًا للدروس) | Heute mache ich eine Wiederholung der Grammatik. | النهارده هراجع الجرامر. | noun | introduced |
+| V477 | die Prüfungsvorbereitung | die Prüfungsvorbereitungen (selten) | التحضير للامتحان / الاستعداد للامتحان | Die Prüfungsvorbereitung beginnt nächste Woche. | التحضير للامتحان هيبدأ الأسبوع الجاي. | noun | introduced |
+| V478 | die Überarbeitung | die Überarbeitungen | مراجعة بهدف التعديل والتحسين / نسخة منقحة | Die Überarbeitung des Berichts dauert zwei Stunden. | مراجعة التقرير وتعديله هتاخد ساعتين. | noun | introduced |
+| V479 | die Revision | die Revisionen | تدقيق / مراجعة رسمية؛ وأحيانًا مراجعة إصدار أو قرار حسب السياق | Die Revision der Unterlagen ist abgeschlossen. | التدقيق الرسمي في المستندات خلص. | noun | introduced |
+| V480 | das Code-Review | die Code-Reviews | مراجعة الكود البرمجي | Wir machen heute ein Code-Review. | هنراجع الكود النهارده. | noun | introduced |
+| V481 | zur Verfügung stehen | feste Wendung; steht zur Verfügung; hat zur Verfügung gestanden | يكون متاح / تحت تصرف حد | Ich stehe Ihnen bei Fragen zur Verfügung. | أنا تحت تصرف حضرتك لو فيه أسئلة. | expression | introduced |
 
 ## Learning notes
 
