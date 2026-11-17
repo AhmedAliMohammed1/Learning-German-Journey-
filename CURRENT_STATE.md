@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — manche (V495), 2026-11-17
+
+- Learner submitted `Manche` (capitalized at beginning of message), canonical lowercase **manche** except sentence-initial position. Audited the complete verb and vocabulary registries: no independent `manch-` entry.
+- Registered **V495 manche** = بعض / بعض الناس / مش الكل, indefinite determiner/pronoun. Common `manche Leute` = بعض الناس; `manche` as pronoun = بعضهم / ناس منهم; inflected forms `mancher`, `manches`, `manchen`, `manchem`. Example `Manche Menschen arbeiten lieber von zu Hause.` = بعض الناس بيفضلوا يشتغلوا من البيت. Contrast `einige` (some), `viele` (many), and existing `alle` V383 (all). Not introduced as separate words.
+- Introduced only, not independently tested/mastered. Canonical totals **335 verbs / 495 vocabulary**. R10 graded/paused, R11 not issued; previous review attempts, open retries and learner originals unaffected. `progress.json` structured synchronization remains pending.
+
+
 ## Vocabulary intake — die Dienststelle (V494), 2026-11-17
 
 - Learner supplied `Dienesstelle`, corrected likely intended spelling to **die Dienststelle**. Audited full canonical verb/vocabulary inventories: no independent `Dienststelle` entry. The typo was interpreted as `Dienststelle` (official/public-service office, branch or duty station) and recorded with original spelling for error awareness.
