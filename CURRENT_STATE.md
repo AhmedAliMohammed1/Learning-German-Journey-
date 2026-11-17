@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary and verb intake — Plakate / ankleben, 2026-11-17
+
+- Learner provided `Plakate` (plural) and `ankleben`. Checked both complete canonical vocab and verb inventories; neither had its own lemma. Verified that prior **V499 das Betreten** actually exists and remained unchanged.
+- Registered **V500 das Plakat**, plural **die Plakate** = بوستر / ملصق / إعلان ورقي كبير على الحيطة. Example `Die Plakate hängen an der Wand.` = البوسترات معلقة على الحيطة.
+- Registered **#339 ankleben** = يلزق حاجة على سطح; separable regular: `ich klebe ... an; du klebst ... an; er klebt ... an`; Perfekt `hat angeklebt`; Präteritum `klebte ... an`. Example `Wir kleben die Plakate an die Wand an.` = إحنا بنلزق البوسترات على الحيطة. `etwas (Akk) an + Akk ankleben` for movement/placing onto surface; `festkleben` can mean stuck fast; distinct from `kleben` generic stick.
+- Introduced only, no recall/mastery. Canonical totals **339 verbs / 500 vocabulary**. Existing graded/paused R10, pending retries and untouched originals remain preserved, no R11 issued; progress.json reconciliation pending.
+
+
 ## Vocabulary intake — das Betreten (V499), 2026-11-17
 
 - Learner submitted `Das Betreten`; dictionary normalized **das Betreten**, nominalized infinitive from verb `betreten` = الدخول إلى / وطء أو دخول مكان. Full verb and vocabulary inventory check found no standalone `Betreten` or `betreten` entry; only **the explicitly requested noun** was registered, avoiding unrequested verb addition.
