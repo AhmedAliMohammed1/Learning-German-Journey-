@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**490 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**491 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -496,6 +496,7 @@
 | V488 | gefährlich | gefährlicher; am gefährlichsten | خطير / فيه خطر | Es ist gefährlich, beim Fahren aufs Handy zu schauen. | خطر تبص على الموبايل وإنت سايق. | adjective | introduced |
 | V489 | das Aufnahmegerät | die Aufnahmegeräte | جهاز تسجيل صوت أو فيديو حسب السياق | Ich benutze ein Aufnahmegerät, um das Interview aufzunehmen. | أنا بستخدم جهاز تسجيل علشان أسجل المقابلة. | noun | introduced |
 | V490 | vorher | Zeitadverb; keine Flexion | قبل كده / قبلها / مسبقًا (زمنيًا) | Ich habe vorher mit ihm gesprochen. | أنا اتكلمت معاه قبل كده. | adverb | introduced |
+| V491 | sonst | Adverb; sonst noch; ansonsten (verwandt) | وإلا / غير كده / تاني، حسب السياق | Beeil dich, sonst verpassen wir den Bus. | استعجل، وإلا هنفوّت الأتوبيس. | adverb | introduced |
 
 ## Learning notes
 
