@@ -1,5 +1,13 @@
 # Current study state
 
+## Verb intake — mitmachen (#336) and einchecken (#337), 2026-11-17
+
+- Learner supplied `mitmachen` and `einchecken`. Audited both full canonical verb and vocabulary lists: neither appeared as an independent entry.
+- Added **#336 mitmachen** = يشارك / ينضم لنشاط; separable regular, Präsens `ich mache ... mit; du machst ... mit; er macht ... mit`, Perfekt `hat mitgemacht`, Präteritum `machte ... mit`. Example `Machst du beim Spiel mit?` = هتشارك في اللعبة؟ Often `bei + Dativ` for activity.
+- Added **#337 einchecken** = يعمل تسجيل دخول/وصول في الفندق أو تسجيل إجراءات الرحلة (check in); separable regular, Präsens `ich checke ... ein; du checkst ... ein; er checkt ... ein`, Perfekt `hat eingecheckt`, Präteritum `checkte ... ein`. Example `Wir haben online für den Flug eingecheckt.` = إحنا عملنا تشيك إن أونلاين للرحلة. `im Hotel einchecken` and `für den Flug einchecken`.
+- Introduced only; no independent attempts or mastery. Canonical totals **337 verbs / 497 vocabulary**. R10 graded/paused and R11 not issued; pending retries and original learner answers unchanged, `progress.json` sync unresolved.
+
+
 ## Vocabulary intake — der Künstlername (V497), 2026-11-17
 
 - Learner entered `Künshlernamen`; corrected spelling to **Künstlernamen**, a plural of **der Künstlername** (also the singular weak-noun Akkusativ/Dativ/Genitiv form). Complete verb/vocabulary inventory audit found no registered standalone `Künstlername` or `Künstlernamen`.
