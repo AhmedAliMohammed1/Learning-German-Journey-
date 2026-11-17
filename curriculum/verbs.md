@@ -1,4 +1,4 @@
-# Verb curriculum — 331 introduced verbs
+# Verb curriculum — 332 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -339,6 +339,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 329 | grillen | يشوي / يعمل باربكيو | ich grille; du grillst; er/sie/es grillt | hat gegrillt | Wir grillen heute im Garten. | introduced | Regular; Präteritum grillte; etwas grillen or simply grillen. |
 | 330 | angeln | يصطاد السمك بالسنارة | ich angle; du angelst; er/sie/es angelt | hat geangelt | Mein Bruder angelt gern am See. | introduced | Regular; Präteritum angelte; fishing using a rod. |
 | 331 | rauchen | يدخن | ich rauche; du rauchst; er/sie/es raucht | hat geraucht | Rauchen ist hier verboten. | introduced | Regular; Präteritum rauchte; also intransitive or Akk: eine Zigarette rauchen. |
+| 332 | anlegen | يربط أو يلبس (حزام أمان)؛ ينشئ حساب أو ملف؛ يستثمر أموال؛ ترسو سفينة (حسب السياق) | ich lege ... an; du legst ... an; er/sie/es legt ... an | hat angelegt | Bitte legen Sie den Sicherheitsgurt an. | introduced | Regular separable an-legen; Präteritum legte ... an. Usually Akkusativ: den Gurt anlegen, ein Konto anlegen, Geld anlegen; intransitive: Das Schiff legt an. Example = من فضلك اربط حزام الأمان. |
 
 ## How to read the table
 
