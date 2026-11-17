@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Dienststelle (V494), 2026-11-17
+
+- Learner supplied `Dienesstelle`, corrected likely intended spelling to **die Dienststelle**. Audited full canonical verb/vocabulary inventories: no independent `Dienststelle` entry. The typo was interpreted as `Dienststelle` (official/public-service office, branch or duty station) and recorded with original spelling for error awareness.
+- Registered **V494 die Dienststelle**, plural **die Dienststellen** = مقر / مكتب / جهة عمل رسمية أو حكومية، مثل قسم الشرطة. Example `Er arbeitet bei einer Polizeidienststelle.` = هو بيشتغل في قسم شرطة. Composite `Dienst` (service/duty) + `Stelle` (position/office); compound feminine from final `Stelle`. Distinguish `die Arbeitsstelle` (job/workplace generally), not separately registered.
+- Introduced only, not independently recalled/mastered. Counts **335 verbs / 494 vocabulary**. R10 graded/paused; R11 not issued; pending retries and historical learner answers unchanged. `progress.json` synchronization still pending.
+
+
 ## Vocabulary intake — bloß (V493), 2026-11-17
 
 - Learner supplied `bloß`. Audited canonical verb and vocabulary inventories for `bloß`/variant `bloss`: no standalone entry.
