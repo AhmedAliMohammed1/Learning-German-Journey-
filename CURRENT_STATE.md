@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — anlegen (#332), 2026-11-17
+
+- Learner supplied `anlegen`. Checked full canonical verb and vocabulary inventories, no existing registered standalone `anlegen`. Added **#332 anlegen**, separable regular verb: Präsens `ich lege ... an; du legst ... an; er legt ... an`, Perfekt `hat angelegt`, Präteritum `legte ... an`.
+- Context-dependent meanings: `einen Sicherheitsgurt anlegen` = يربط حزام الأمان; `ein Konto / eine Datei anlegen` = ينشئ حساب / ملف; `Geld anlegen` = يستثمر فلوس; `ein Schiff legt an` = سفينة ترسو. Example `Bitte legen Sie den Sicherheitsgurt an.` = من فضلك اربط حزام الأمان. Objects normally Akkusativ (Gurt/Konto/Geld); ship docks intransitively.
+- Introduced only, not independently tested/mastered. Totals **332 verbs / 486 vocabulary**. R10 paused/graded; R11 not issued; previous attempts, retests, and other pending exercises preserved; progress.json sync unresolved.
+
+
 ## Vocabulary intake — der Mofafahrer (V486), 2026-11-17
 
 - Learner submitted `Mofafahrer`. Audited complete unified verb and vocabulary inventories: no existing standalone `Mofafahrer`, `Mofa`, `Fahrer` or `Mofafahrerin` entry. Registered **V486 der Mofafahrer**, plural **die Mofafahrer**, = سائق/راكب موتوسيكل صغير من نوع Mofa (دراجة نارية خفيفة). Feminine **die Mofafahrerin**, plural **die Mofafahrerinnen**, is a related form, not a separate numbered item. Example `Der Mofafahrer trägt einen Helm.` = سائق الموتوسيكل الصغير لابس خوذة. Compound `das Mofa` + `der Fahrer`.
