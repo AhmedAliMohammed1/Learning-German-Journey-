@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Gurt (V487), 2026-11-17
+
+- Learner supplied `gurt`, corrected capitalization **der Gurt** (plural **die Gurte**). Audited complete canonical vocabulary and verbs; this noun was not previously registered. It had appeared only in explanatory examples for verb #332 `anlegen`. Registered **V487 der Gurt** = حزام / سير للتثبيت (خصوصًا حزام الأمان `der Sicherheitsgurt`). Example `Bitte leg den Gurt an.` = من فضلك اربط الحزام. The noun **der Gürtel** usually refers to a clothing belt and is distinct; no new standalone entry for it.
+- Introduced only, not independently assessed or mastered. Current canonical totals **332 verbs / 487 vocabulary**. Previously graded/paused R10 and other pending exercises remain unchanged; R11 not issued. `progress.json` structured synchronization remains pending.
+
+
 ## Verb intake — anlegen (#332), 2026-11-17
 
 - Learner supplied `anlegen`. Checked full canonical verb and vocabulary inventories, no existing registered standalone `anlegen`. Added **#332 anlegen**, separable regular verb: Präsens `ich lege ... an; du legst ... an; er legt ... an`, Perfekt `hat angelegt`, Präteritum `legte ... an`.
