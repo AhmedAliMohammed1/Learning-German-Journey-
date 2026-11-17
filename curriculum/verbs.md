@@ -1,4 +1,4 @@
-# Verb curriculum — 324 introduced verbs
+# Verb curriculum — 331 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -332,6 +332,13 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 322 | hassen | يكره / يبغض؛ أقوى من nicht mögen | ich hasse; du hasst; er/sie/es hasst | hat gehasst | Ich hasse diese Situation. | introduced | Regular inseparable? No: simple non-separable verb; Präteritum hasste. Takes Akkusativ: jemanden/etwas hassen. Example = أنا بكره الموقف ده. Softer everyday alternative: nicht mögen. |
 | 323 | wiederholen | يراجع درس / يكرر حاجة | ich wiederhole; du wiederholst; er/sie/es wiederholt | hat wiederholt | Ich wiederhole heute die neuen Wörter. | introduced | Regular inseparable in the sense repeat/revise (different from separable wieder holen = fetch again). Takes Akkusativ: etwas wiederholen. Example = النهارده براجع الكلمات الجديدة. |
 | 324 | eingeben | يُدخل بيانات / نص / رقم / كلمة سر على جهاز أو في برنامج | ich gebe ... ein; du gibst ... ein; er/sie/es gibt ... ein | hat eingegeben | Ich gebe mein Passwort am Computer ein. | introduced | Separable irregular ein-geben. Präteritum gab ... ein. Takes Akkusativ (etwas eingeben); optional in + Akk for target field. Example = أنا بدخل كلمة السر على الكمبيوتر. Distinct from #139 einfügen (paste/insert). |
+| 325 | reiten | يركب حصان / يمتطي | ich reite; du reitest; er/sie/es reitet | ist geritten (reiten als Fortbewegung); auch hat geritten regional/je nach Verwendung | Ich reite am Wochenende auf einem Pferd. | introduced | Irregular; Präteritum ritt. Usually sein for riding/travel. auf einem Pferd reiten (location + Dat). |
+| 326 | zelten | يخيم / ينام في خيمة | ich zelte; du zeltest; er/sie/es zeltet | hat gezeltet | Wir zelten im Sommer am See. | introduced | Regular; Präteritum zeltete; camping in a tent. |
+| 327 | baden | يستحم في بانيو / يسبح أو ينزل الميه للترفيه | ich bade; du badest; er/sie/es badet | hat gebadet | Die Kinder baden im See. | introduced | Regular; Präteritum badete; distinct from duschen; schwimmen emphasizes swimming. |
+| 328 | parken | يركن العربية / يصف السيارة | ich parke; du parkst; er/sie/es parkt | hat geparkt | Ich parke mein Auto vor dem Haus. | introduced | Regular; Präteritum parkte; etwas (Akk) parken. |
+| 329 | grillen | يشوي / يعمل باربكيو | ich grille; du grillst; er/sie/es grillt | hat gegrillt | Wir grillen heute im Garten. | introduced | Regular; Präteritum grillte; etwas grillen or simply grillen. |
+| 330 | angeln | يصطاد السمك بالسنارة | ich angle; du angelst; er/sie/es angelt | hat geangelt | Mein Bruder angelt gern am See. | introduced | Regular; Präteritum angelte; fishing using a rod. |
+| 331 | rauchen | يدخن | ich rauche; du rauchst; er/sie/es raucht | hat geraucht | Rauchen ist hier verboten. | introduced | Regular; Präteritum rauchte; also intransitive or Akk: eine Zigarette rauchen. |
 
 ## How to read the table
 
