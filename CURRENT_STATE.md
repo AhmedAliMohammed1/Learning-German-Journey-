@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Künstlername (V497), 2026-11-17
+
+- Learner entered `Künshlernamen`; corrected spelling to **Künstlernamen**, a plural of **der Künstlername** (also the singular weak-noun Akkusativ/Dativ/Genitiv form). Complete verb/vocabulary inventory audit found no registered standalone `Künstlername` or `Künstlernamen`.
+- Registered **V497 der Künstlername**, plural **die Künstlernamen**, Egyptian Arabic = الاسم الفني / الاسم المستعار للفنان. Example `Der Sänger tritt unter einem Künstlernamen auf.` = المغني بيظهر باسم فني. Compound `der Künstler` + `der Name`, gender masculine. Weak masculine noun (N-Deklination): Nom. `der Künstlername`, Akk. `den Künstlernamen`, Dat. `dem Künstlernamen`, Gen. `des Künstlernamens`. Distinguish `der Spitzname` = nickname; `das Pseudonym` = assumed/pen name.
+- Introduced only, not recall-tested/mastered. Canonical inventory **335 verbs / 497 vocabulary entries**. R10 remains graded/paused and R11 not issued; preserve pending exercises, original attempts and retry flags; `progress.json` synchronization unresolved.
+
+
 ## Vocabulary intake — selbständig / selbstständig (V496), 2026-11-17
 
 - Learner supplied `selbständig`, a valid spelling; `selbstständig` is an equally accepted spelling. Audited full canonical verb and vocabulary inventories for both variants and transliterations; no prior entry.
