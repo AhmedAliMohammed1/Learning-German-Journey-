@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Betreten (V499), 2026-11-17
+
+- Learner submitted `Das Betreten`; dictionary normalized **das Betreten**, nominalized infinitive from verb `betreten` = الدخول إلى / وطء أو دخول مكان. Full verb and vocabulary inventory check found no standalone `Betreten` or `betreten` entry; only **the explicitly requested noun** was registered, avoiding unrequested verb addition.
+- Registered **V499 das Betreten** = الدخول / دخول مكان (formal, frequently on prohibition notices). As a nominalized action verb, generally uncountable/no ordinary plural. Example `Das Betreten der Baustelle ist verboten.` = ممنوع دخول موقع البناء. `der Baustelle` is genitive feminine dependent on the nominalization; verb `betreten` normally takes Akkusativ: `die Baustelle betreten`.
+- Introduced only, not recall-tested/mastered. Totals **338 verbs / 499 vocabulary**. R10 graded/paused, R11 unissued; preserve all prior exercise responses, outstanding retests and `progress.json` sync discrepancy.
+
+
 ## Verb intake — anlehnen (#338), 2026-11-17
 
 - Learner supplied `anlehnen`. Full canonical vocabulary and verb audit found no standalone entry. Existing **#150 ablehnen** means refuse and is a distinct verb, not duplicated.
