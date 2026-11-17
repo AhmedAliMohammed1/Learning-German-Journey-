@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**492 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**493 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -498,6 +498,7 @@
 | V490 | vorher | Zeitadverb; keine Flexion | قبل كده / قبلها / مسبقًا (زمنيًا) | Ich habe vorher mit ihm gesprochen. | أنا اتكلمت معاه قبل كده. | adverb | introduced |
 | V491 | sonst | Adverb; sonst noch; ansonsten (verwandt) | وإلا / غير كده / تاني، حسب السياق | Beeil dich, sonst verpassen wir den Bus. | استعجل، وإلا هنفوّت الأتوبيس. | adverb | introduced |
 | V492 | der Bericht | die Berichte | تقرير / تقارير | Ich lese die Berichte am Morgen. | أنا بقرأ التقارير الصبح. | noun | introduced |
+| V493 | bloß | Adverb/Modalpartikel; adjektivisch: bloße, bloßen usw. | بس / مجرد / فقط؛ للتأكيد أو التحذير؛ كصفة: عاري | Ich wollte bloß helfen. | أنا كنت عايز أساعد بس. | adverb_particle_adjective | introduced |
 
 ## Learning notes
 
