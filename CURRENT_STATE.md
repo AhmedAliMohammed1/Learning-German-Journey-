@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Aufnahmegerät (V489), 2026-11-17
+
+- Learner submitted `Aufnahmegerät`. Audited complete verbs and vocabulary registers; no independent matching compound. Existing **V287 die Aufnahme** (recording) and **#290 aufnehmen** (record) are distinct and retained.
+- Registered **V489 das Aufnahmegerät** (plural **die Aufnahmegeräte**) = جهاز تسجيل صوت أو فيديو، depending on context. Example `Ich benutze ein Aufnahmegerät, um das Interview aufzunehmen.` = أنا بستخدم جهاز تسجيل علشان أسجل المقابلة. Compound `die Aufnahme` + `das Gerät`; ending component sets neutral gender.
+- Introduced only, not tested or mastered. Canonical totals **334 verbs / 489 vocabulary**. R10 remains graded/paused, R11 not issued; previous pending reviews and learner originals preserved, `progress.json` structured sync pending.
+
+
 ## Verb intake — schieben (#334), 2026-11-17
 
 - Learner submitted `schieben`. Audited complete canonical verb and vocabulary inventories. No standalone `schieben`; existing **#145 verschieben** is a different verb (postpone/move) and remains unchanged.
