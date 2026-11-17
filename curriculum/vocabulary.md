@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**486 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**487 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -492,6 +492,7 @@
 | V484 | der Hund | die Hunde | الكلب / Hunde = كلاب (جمع) | Der Hund spielt mit den Kindern. | الكلب بيلعب مع الأطفال. | noun | introduced |
 | V485 | die Wiese | die Wiesen | مرج / أرض خضرا فيها حشائش أو نجيلة | Die Kinder spielen auf der Wiese. | الأطفال بيلعبوا على النجيلة في المرج. | noun | introduced |
 | V486 | der Mofafahrer | die Mofafahrer; feminin: die Mofafahrerin / die Mofafahrerinnen | راكب / سائق موتوسيكل صغير (Mofa) | Der Mofafahrer trägt einen Helm. | سائق الموتوسيكل الصغير لابس خوذة. | noun | introduced |
+| V487 | der Gurt | die Gurte | حزام / سير تثبيت، خصوصًا حزام الأمان (Sicherheitsgurt) | Bitte leg den Gurt an. | من فضلك اربط الحزام. | noun | introduced |
 
 ## Learning notes
 
