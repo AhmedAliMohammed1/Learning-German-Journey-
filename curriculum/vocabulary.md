@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**508 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**509 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -514,6 +514,7 @@
 | V506 | der Pazifik | Eigenname: der Pazifische Ozean; normalerweise kein Plural | المحيط الهادئ | Der Pazifik ist der größte Ozean der Erde. | المحيط الهادئ أكبر محيط على الأرض. | proper_noun_geography | introduced |
 | V507 | das Schild (user typo: Schlid) | die Schilder | لافتة / يافطة / علامة مرورية / درع حسب السياق | Auf dem Schild steht: Betreten verboten. | مكتوب على اليافطة: ممنوع الدخول. | noun | introduced |
 | V508 | der Verkehr | meist kein Plural in der Bedeutung Straßenverkehr | المرور / حركة السير / المواصلات والنقل حسب السياق | Heute gibt es viel Verkehr in der Stadt. | النهارده فيه زحمة مرور كبيرة في المدينة. | noun | introduced |
+| V509 | die Umwelt | im ökologischen Sinn meist ohne Plural | البيئة / البيئة المحيطة | Wir müssen die Umwelt schützen. | لازم نحمي البيئة. | noun | introduced |
 
 ## Learning notes
 
