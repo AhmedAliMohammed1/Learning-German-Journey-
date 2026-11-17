@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**493 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**494 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -499,6 +499,7 @@
 | V491 | sonst | Adverb; sonst noch; ansonsten (verwandt) | وإلا / غير كده / تاني، حسب السياق | Beeil dich, sonst verpassen wir den Bus. | استعجل، وإلا هنفوّت الأتوبيس. | adverb | introduced |
 | V492 | der Bericht | die Berichte | تقرير / تقارير | Ich lese die Berichte am Morgen. | أنا بقرأ التقارير الصبح. | noun | introduced |
 | V493 | bloß | Adverb/Modalpartikel; adjektivisch: bloße, bloßen usw. | بس / مجرد / فقط؛ للتأكيد أو التحذير؛ كصفة: عاري | Ich wollte bloß helfen. | أنا كنت عايز أساعد بس. | adverb_particle_adjective | introduced |
+| V494 | die Dienststelle (user typo: Dienesstelle) | die Dienststellen | مكتب / مقر رسمي أو حكومي / جهة عمل رسمية (مثل قسم الشرطة) | Er arbeitet bei einer Polizeidienststelle. | هو بيشتغل في قسم شرطة. | noun | introduced |
 
 ## Learning notes
 
