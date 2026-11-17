@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — streichen (#342), 2026-11-17
+
+- Learner supplied `streichen`. Checked full canonical verbs and vocabulary registers. No independent `streichen` entry; `streicheln` #282 is a different verb meaning pet/stroke gently.
+- Registered **#342 streichen** (strong verb): `ich streiche; du streichst; er streicht`; Präteritum `strich`; Perfekt `hat gestrichen`. Senses: `die Wand streichen` = يدهن الحيطة; `ein Wort streichen` = يشطب/يحذف كلمة; `einen Termin streichen` = يلغي موعد; `Butter aufs Brot streichen` = يفرد زبدة على العيش. Example `Ich streiche die Wand weiß.` = أنا بدهن الحيطة أبيض. Common + Akk object.
+- Introduced only, no independent testing/mastery. Totals **342 verbs / 504 vocabulary**. R10 graded/paused, R11 not issued, earlier answers and pending exercises preserved. progress.json sync remains unresolved.
+
+
 ## Vocabulary intake — die Mütze (V504), 2026-11-17
 
 - Learner supplied `Mütze`. Full canonical verb and vocabulary audits found no separate `Mütze` entry.
