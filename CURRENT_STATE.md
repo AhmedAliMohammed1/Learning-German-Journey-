@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — aufwachsen (#341), 2026-11-17
+
+- Learner submitted `aufwachsen`. Audited complete canonical verb and vocabulary inventories: no standalone entry `aufwachsen`. Existing **#340 wachsen** (grow in size, grow, increase) is related but separate and unchanged.
+- Registered **#341 aufwachsen** = يكبر / يتربّى في مكان خلال الطفولة. Separable irregular: `ich wachse ... auf; du wächst ... auf; er/sie/es wächst ... auf`; Präteritum `wuchs ... auf`; Perfekt `ist aufgewachsen`. Example `Ich bin in Kairo aufgewachsen.` = أنا اتربيت وكبرت في القاهرة. Related use `bei den Großeltern aufwachsen` = يتربّى عند الجد والجدة, `mit Geschwistern aufwachsen` = يكبر مع إخواته. Distinguish `wachsen` = grows larger.
+- Introduced only; no recall/mastery. Canonical totals **341 verbs / 501 vocabulary**. R10 previously graded/paused, R11 not issued; prior answers, retry flags and pending exercises untouched; `progress.json` sync pending.
+
+
 ## Verb intake — wächst → wachsen (#340), 2026-11-17
 
 - Learner submitted `wächst`, the 3rd-person singular Präsens of **wachsen** = يكبر / ينمو / يزداد. Audited canonical verb + vocabulary inventories: no independent lemma `wachsen`; it appeared only inflected as `wachsen` in an unrelated teaching example V369 `der Busch`, not a registered verb.
