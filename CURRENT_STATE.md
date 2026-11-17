@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — verändern (#346), 2026-11-17
+
+- Learner wrote `veränderen`, corrected to **verändern** (without extra e). Entire canonical verb/vocabulary inventory checked: no existing independent `verändern` item.
+- Added **#346 verändern** = يغيّر / يبدّل؛ **sich verändern** = يتغيّر. Regular inseparable verb: `ich verändere; du veränderst; er/sie/es verändert`; Präteritum `veränderte`; Perfekt `hat verändert` (no ge-). Example `Die Stadt hat sich sehr verändert.` = المدينة اتغيرت جدًا. `Ich möchte etwas verändern.` = أنا عايز أغيّر حاجة. Related `ändern` = يغيّر, often specific adjustment, while `verändern` stresses broader change.
+- Introduced only, not tested/mastered. Totals **346 verbs / 509 vocabulary entries**. R10 graded/paused, no R11; original answers, pending exercises and retries preserved. progress.json structured sync still pending.
+
+
 ## Vocabulary intake — die Umwelt (V509), 2026-11-17
 
 - Learner submitted `Umwelt`. Checked full canonical vocabulary and verb inventories: the independent noun `die Umwelt` was not registered.
