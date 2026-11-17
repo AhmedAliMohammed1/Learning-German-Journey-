@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**506 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**507 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -512,6 +512,7 @@
 | V504 | die Mütze | die Mützen | طاقية / غطاء رأس من قماش أو صوف | Im Winter trage ich eine warme Mütze. | في الشتا بلبس طاقية دافية. | noun | introduced |
 | V505 | außerdem | Konjunktionaladverb; Satzstellung: außerdem + finites Verb (V2) | بالإضافة إلى ذلك / وكمان / علاوة على كده | Ich lerne Deutsch. Außerdem arbeite ich in München. | أنا بتعلم ألماني. وكمان بشتغل في ميونخ. | adverb | introduced |
 | V506 | der Pazifik | Eigenname: der Pazifische Ozean; normalerweise kein Plural | المحيط الهادئ | Der Pazifik ist der größte Ozean der Erde. | المحيط الهادئ أكبر محيط على الأرض. | proper_noun_geography | introduced |
+| V507 | das Schild (user typo: Schlid) | die Schilder | لافتة / يافطة / علامة مرورية / درع حسب السياق | Auf dem Schild steht: Betreten verboten. | مكتوب على اليافطة: ممنوع الدخول. | noun | introduced |
 
 ## Learning notes
 
