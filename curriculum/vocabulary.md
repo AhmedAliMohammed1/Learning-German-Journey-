@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**501 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**503 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -507,6 +507,8 @@
 | V499 | das Betreten | substantivierter Infinitiv; gewöhnlich kein Plural | دخول مكان / الدخول، خصوصًا في التحذيرات واللافتات الرسمية | Das Betreten der Baustelle ist verboten. | ممنوع دخول موقع البناء. | noun_nominalized_infinitive | introduced |
 | V500 | das Plakat (user form: Plakate) | die Plakate | بوستر / ملصق / إعلان ورقي كبير بيتعلق على الحيطة | Die Plakate hängen an der Wand. | البوسترات معلقة على الحيطة. | noun | introduced |
 | V501 | der Entertainer | die Entertainer; feminin: die Entertainerin / die Entertainerinnen | فنان أو مؤدّي ترفيهي بيقدم عروض للجمهور | Der Entertainer bringt das Publikum zum Lachen. | الفنان الترفيهي بيخلّي الجمهور يضحك. | noun | introduced |
+| V502 | der Durchbruch | die Durchbrüche | إنجاز كبير / اختراق / نقلة نوعية؛ وأحيانًا اختراق مادي | Die Forscher haben einen wichtigen Durchbruch erzielt. | الباحثين حققوا إنجاز علمي مهم. | noun | introduced |
+| V503 | bekannt (confirmed after typo bekannen) | Adjektiv: bekannter; am bekanntesten; nominalisiert: ein Bekannter / eine Bekannte | معروف / مشهور / مألوف | Diese Sängerin ist in Deutschland sehr bekannt. | المغنية دي مشهورة جدًا في ألمانيا. | adjective | introduced |
 
 ## Learning notes
 
