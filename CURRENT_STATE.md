@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Mofafahrer (V486), 2026-11-17
+
+- Learner submitted `Mofafahrer`. Audited complete unified verb and vocabulary inventories: no existing standalone `Mofafahrer`, `Mofa`, `Fahrer` or `Mofafahrerin` entry. Registered **V486 der Mofafahrer**, plural **die Mofafahrer**, = سائق/راكب موتوسيكل صغير من نوع Mofa (دراجة نارية خفيفة). Feminine **die Mofafahrerin**, plural **die Mofafahrerinnen**, is a related form, not a separate numbered item. Example `Der Mofafahrer trägt einen Helm.` = سائق الموتوسيكل الصغير لابس خوذة. Compound `das Mofa` + `der Fahrer`.
+- Introduced only, not independently tested/mastered. Canonical totals **331 verbs / 486 vocabulary entries**. Previous R10 graded/paused, R11 not issued; preserve historical answers, retry flags and deferred exercises. `progress.json` synchronization remains pending.
+
+
 ## Vocabulary intake — die Wiese (V485), 2026-11-17
 
 - Learner supplied `Wiese`. Audited both complete canonical verb and vocabulary inventories and found no independent entry. Registered **V485 die Wiese**, plural **die Wiesen** = مرج / مساحة أرض خضراء عليها حشائش (غالبًا مكان مفتوح). Example `Die Kinder spielen auf der Wiese.` = الأطفال بيلعبوا على النجيلة في المرج. `auf der Wiese` = location (Dativ), `auf die Wiese` = destination (Akkusativ).
