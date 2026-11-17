@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Mütze (V504), 2026-11-17
+
+- Learner supplied `Mütze`. Full canonical verb and vocabulary audits found no separate `Mütze` entry.
+- Added **V504 die Mütze**, plural **die Mützen** = كاب / طاقية / غطاء رأس (غالبًا طاقية قماش أو صوف). Example `Im Winter trage ich eine warme Mütze.` = في الشتا بلبس طاقية دافية. Compared to `der Hut` (hat with brim) and `die Kappe` (cap), not registered as new items.
+- Introduced only, not independently recalled/mastered. Totals **341 verbs / 504 vocabulary entries**. R10 remains graded/paused, R11 not issued, original review answers and pending flags preserved; `progress.json` sync still pending.
+
+
 ## Vocabulary intake — der Durchbruch (V502) and bekannt (V503), 2026-11-17
 
 - Learner submitted `Durchbruch` and explicitly confirmed `bekannt` after earlier typo `bekannen`. Audited complete canonical verbs and vocabulary inventories; neither base lemma registered.
