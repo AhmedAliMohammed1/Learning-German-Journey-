@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Umwelt (V509), 2026-11-17
+
+- Learner submitted `Umwelt`. Checked full canonical vocabulary and verb inventories: the independent noun `die Umwelt` was not registered.
+- Registered **V509 die Umwelt**, usually without plural in ecological sense, = البيئة / البيئة المحيطة; example `Wir müssen die Umwelt schützen.` = لازم نحمي البيئة. Related `der Umweltschutz` = حماية البيئة; `umweltfreundlich` = صديق للبيئة; `die Umweltverschmutzung` = التلوث البيئي. `die Natur` = الطبيعة, related but not identical.
+- Introduced only; no independent test/mastery. Totals **345 verbs / 509 vocabulary entries**. R10 graded and paused; R11 not issued; prior original answers and retry flags preserved; `progress.json` structured sync pending.
+
+
 ## Verb intake — anschnallen (#345), 2026-11-17
 
 - Learner submitted `anschnallen`. Checked full canonical verb and vocabulary lists: no existing independent item.
