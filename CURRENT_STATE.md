@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — vorher (V490), 2026-11-17
+
+- Learner supplied `Vorher` (capitalized at the start of the message); canonical lemma lowercase **vorher**. Audited the full verb and vocabulary inventories and found no standalone entry.
+- Registered **V490 vorher** = قبل كده / قبلها / مسبقًا (time adverb). Example `Ich habe vorher mit ihm gesprochen.` = أنا اتكلمت معاه قبل كده. `vorher` refers to an earlier point relative to another action or time; **bevor** introduces a subordinate clause and **früher** often describes an earlier period/in the past; no new entries added for these incidental comparisons.
+- Introduced only; not recall-tested or mastered. Totals **334 verbs / 490 vocabulary entries**. R10 graded/paused and R11 not issued; pending exercises, learner answers and retry flags retained; `progress.json` sync unresolved.
+
+
 ## Vocabulary intake — das Aufnahmegerät (V489), 2026-11-17
 
 - Learner submitted `Aufnahmegerät`. Audited complete verbs and vocabulary registers; no independent matching compound. Existing **V287 die Aufnahme** (recording) and **#290 aufnehmen** (record) are distinct and retained.
