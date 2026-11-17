@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Entertainer (V501), 2026-11-17
+
+- Learner supplied `Entertainer`. Audited canonical complete verbs and vocabulary inventories and found no registered independent entry.
+- Registered **V501 der Entertainer**, plural **die Entertainer** = فنان ترفيهي / مؤدّي بيقدم عروض أو فقرات للجمهور (مقدم فقرات، كوميدي، مغنّي حسب السياق); feminine **die Entertainerin**, plural **die Entertainerinnen** (inflected variant, not separate ID). Example `Der Entertainer bringt das Publikum zum Lachen.` = الفنان الترفيهي بيخلّي الجمهور يضحك. Loanword from English, commonly used in German.
+- Introduced only, not recall-tested/mastered. Totals **339 verbs / 501 vocabulary**. Previous graded/paused R10, pending retests, original responses and unfinished exercises preserved; R11 not issued; `progress.json` sync remains pending.
+
+
 ## Vocabulary and verb intake — Plakate / ankleben, 2026-11-17
 
 - Learner provided `Plakate` (plural) and `ankleben`. Checked both complete canonical vocab and verb inventories; neither had its own lemma. Verified that prior **V499 das Betreten** actually exists and remained unchanged.
