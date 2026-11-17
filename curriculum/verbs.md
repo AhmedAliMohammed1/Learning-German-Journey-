@@ -1,4 +1,4 @@
-# Verb curriculum — 338 introduced verbs
+# Verb curriculum — 339 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -346,6 +346,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 336 | mitmachen | يشارك في نشاط / ينضم ويشارك | ich mache ... mit; du machst ... mit; er/sie/es macht ... mit | hat mitgemacht | Machst du beim Spiel mit? | introduced | Regular separable mit-machen; Präteritum machte ... mit. Often bei + Dativ for an activity (beim Spiel mitmachen). Example = هتشارك في اللعبة؟ |
 | 337 | einchecken | يعمل تشيك إن / يسجّل الوصول للفندق أو للرحلة | ich checke ... ein; du checkst ... ein; er/sie/es checkt ... ein | hat eingecheckt | Wir haben online für den Flug eingecheckt. | introduced | Regular separable ein-checken; Präteritum checkte ... ein. im Hotel einchecken; für einen Flug einchecken; online einchecken. Example = إحنا عملنا تشيك إن أونلاين للرحلة. |
 | 338 | anlehnen | يسند حاجة على حاجة / يتسند أو يميل على حاجة (sich anlehnen) | ich lehne ... an; du lehnst ... an; er/sie/es lehnt ... an | hat angelehnt | Ich lehne das Fahrrad an die Wand an. | introduced | Regular separable an-lehnen; Präteritum lehnte ... an. jemanden/etwas an + Akk anlehnen; sich an + Akk anlehnen (reflexive). Example = أنا بسند العجلة على الحيطة. Distinct from #150 ablehnen = يرفض. |
+| 339 | ankleben | يلزق / يلصق حاجة على سطح | ich klebe ... an; du klebst ... an; er/sie/es klebt ... an | hat angeklebt | Wir kleben die Plakate an die Wand an. | introduced | Regular separable an-kleben; Präteritum klebte ... an. etwas (Akkusativ) an + Akkusativ ankleben, e.g. poster to wall. Example = إحنا بنلزق البوسترات على الحيطة. |
 
 ## How to read the table
 
