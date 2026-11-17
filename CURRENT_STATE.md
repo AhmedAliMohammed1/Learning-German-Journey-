@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — wächst → wachsen (#340), 2026-11-17
+
+- Learner submitted `wächst`, the 3rd-person singular Präsens of **wachsen** = يكبر / ينمو / يزداد. Audited canonical verb + vocabulary inventories: no independent lemma `wachsen`; it appeared only inflected as `wachsen` in an unrelated teaching example V369 `der Busch`, not a registered verb.
+- Registered **#340 wachsen** strong intransitive verb: Präsens `ich wachse; du wächst; er/sie/es wächst`; Präteritum `wuchs`; Perfekt `ist gewachsen`. Example `Die Pflanze wächst schnell.` = النبتة بتنمو بسرعة. Other contexts: `Das Kind wächst.` = الطفل بيكبر; `Die Stadt wächst.` = المدينة بتكبر/بتتوسع. Note unrelated verb `wachsen` = wax something has `hat gewachst` but not the learner meaning here.
+- Introduced only; not recall tested/mastered. Canonical totals **340 verbs / 501 vocabulary**. R10 remains graded/paused, R11 not issued; past original answers, retest flags and pending exercises unchanged; progress.json structured sync unresolved.
+
+
 ## Vocabulary intake — der Entertainer (V501), 2026-11-17
 
 - Learner supplied `Entertainer`. Audited canonical complete verbs and vocabulary inventories and found no registered independent entry.
