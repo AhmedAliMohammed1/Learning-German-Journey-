@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — eigen / eigenen (V498), 2026-11-17
+
+- Learner supplied `eigenen`, an inflected form of the adjective **eigen** = خاص بـ / بتاع الشخص نفسه / ملكه. Audited full canonical verb and vocabulary inventories: no independent `eigen` lemma. Registered base adjective as **V498 eigen** with supplied form `eigenen`, rather than falsely treating `eigenen` as the dictionary lemma.
+- **eigen** inflects with determiner, gender, number and case: `mein eigenes Zimmer` (Nom/Akk neuter), `meinen eigenen Computer` (Akk masc), `mit meinem eigenen Auto` (Dat neuter). Example `Ich möchte meinen eigenen Computer kaufen.` = أنا عايز أشتري الكمبيوتر بتاعي أنا. Also `sein eigenes Geschäft` = مشروعه الخاص. Contrast `selbst` (in person/by oneself) and `eigen` (one's own).
+- Introduced only, no recall/mastery claim. Counts **337 verbs / 498 vocabulary**. R10 remains graded/paused; R11 not issued; previous learner answers, retest flags and unfinished exercises unchanged; `progress.json` sync pending.
+
+
 ## Verb intake — mitmachen (#336) and einchecken (#337), 2026-11-17
 
 - Learner supplied `mitmachen` and `einchecken`. Audited both full canonical verb and vocabulary lists: neither appeared as an independent entry.
