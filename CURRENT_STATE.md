@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Schild (V507), 2026-11-17
+
+- Learner typed `Schlid`, corrected to **das Schild** (sign/notice/traffic sign), plural **die Schilder**. Full canonical verb and vocabulary audits confirmed no independently registered `Schild`.
+- Registered **V507 das Schild**, plural **die Schilder** = لافتة / يافطة / علامة مرورية / درع حسب السياق. Example `Auf dem Schild steht: Betreten verboten.` = مكتوب على اليافطة: ممنوع الدخول. Uses include `das Verkehrsschild` (traffic sign) and `das Namensschild` (name tag); distinguish `der Schild` only in rare specialized usage and avoid. User typo logged as `Schlid`.
+- Introduced only, not independently tested/mastered. Totals **342 verbs / 507 vocabulary**. R10 remains graded/paused, R11 not issued; previous raw answers and retry flags unchanged; `progress.json` sync still pending.
+
+
 ## Vocabulary intake — der Pazifik (V506), 2026-11-17
 
 - Learner supplied `Pazifik`. Checked entire canonical verb and vocabulary inventories: no registered independent `Pazifik` item.
