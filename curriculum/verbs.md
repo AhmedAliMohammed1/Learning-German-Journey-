@@ -1,4 +1,4 @@
-# Verb curriculum — 339 introduced verbs
+# Verb curriculum — 340 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -347,6 +347,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 337 | einchecken | يعمل تشيك إن / يسجّل الوصول للفندق أو للرحلة | ich checke ... ein; du checkst ... ein; er/sie/es checkt ... ein | hat eingecheckt | Wir haben online für den Flug eingecheckt. | introduced | Regular separable ein-checken; Präteritum checkte ... ein. im Hotel einchecken; für einen Flug einchecken; online einchecken. Example = إحنا عملنا تشيك إن أونلاين للرحلة. |
 | 338 | anlehnen | يسند حاجة على حاجة / يتسند أو يميل على حاجة (sich anlehnen) | ich lehne ... an; du lehnst ... an; er/sie/es lehnt ... an | hat angelehnt | Ich lehne das Fahrrad an die Wand an. | introduced | Regular separable an-lehnen; Präteritum lehnte ... an. jemanden/etwas an + Akk anlehnen; sich an + Akk anlehnen (reflexive). Example = أنا بسند العجلة على الحيطة. Distinct from #150 ablehnen = يرفض. |
 | 339 | ankleben | يلزق / يلصق حاجة على سطح | ich klebe ... an; du klebst ... an; er/sie/es klebt ... an | hat angeklebt | Wir kleben die Plakate an die Wand an. | introduced | Regular separable an-kleben; Präteritum klebte ... an. etwas (Akkusativ) an + Akkusativ ankleben, e.g. poster to wall. Example = إحنا بنلزق البوسترات على الحيطة. |
+| 340 | wachsen (user form: wächst) | يكبر / ينمو / يزداد / يتوسع | ich wachse; du wächst; er/sie/es wächst | ist gewachsen | Die Pflanze wächst schnell. | introduced | Strong intransitive verb; Präteritum wuchs. Example = النبتة بتنمو بسرعة. Also Das Kind wächst = الطفل بيكبر; Die Stadt wächst = المدينة بتتوسع. Distinguish growth verb from waxing verb (hat gewachst). |
 
 ## How to read the table
 
