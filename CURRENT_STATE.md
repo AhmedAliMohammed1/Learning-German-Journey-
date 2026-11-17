@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — schieben (#334), 2026-11-17
+
+- Learner submitted `schieben`. Audited complete canonical verb and vocabulary inventories. No standalone `schieben`; existing **#145 verschieben** is a different verb (postpone/move) and remains unchanged.
+- Added **#334 schieben** = يزق / يدفع حاجة لقدام (push), irregular strong verb: Präsens `ich schiebe; du schiebst; er/sie/es schiebt`; Perfekt `hat geschoben`; Präteritum `schob`. Common use `etwas (Akkusativ) schieben`, e.g. `Ich schiebe den Kinderwagen.` = أنا بزق عربية الأطفال. Distinguish `ziehen` = يسحب and `verschieben` = يؤجل أو يحرّك.
+- Introduced, not tested/mastered. Counts **334 verbs / 488 vocabulary**. R10 paused/graded, R11 not issued; original learner attempts, previous pending exercises and retry flags unchanged; `progress.json` structured sync remains pending.
+
+
 ## Vocabulary and verb intake — hupen / gefährlich — 2026-11-17
 
 - Learner submitted `hupen` and `gefährlich`. Audited the full unified verb and vocabulary inventories before addition: neither standalone lemma appeared; no duplicate.
