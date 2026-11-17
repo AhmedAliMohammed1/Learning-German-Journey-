@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**496 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**497 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -502,6 +502,7 @@
 | V494 | die Dienststelle (user typo: Dienesstelle) | die Dienststellen | مكتب / مقر رسمي أو حكومي / جهة عمل رسمية (مثل قسم الشرطة) | Er arbeitet bei einer Polizeidienststelle. | هو بيشتغل في قسم شرطة. | noun | introduced |
 | V495 | manche | Indefinitpronomen/Artikelwort: mancher, manche, manches, manchen, manchem | بعض / بعض الناس / مش الكل | Manche Menschen arbeiten lieber von zu Hause. | بعض الناس بيفضلوا يشتغلوا من البيت. | determiner_or_pronoun | introduced |
 | V496 | selbständig (auch: selbstständig) | Adjektiv/Adverb; selbständiger; am selbständigsten | مستقل / بيعتمد على نفسه / شغال لحسابه | Sie arbeitet selbständig als Grafikdesignerin. | هي بتشتغل لحسابها كمصممة جرافيك. | adjective_adverb | introduced |
+| V497 | der Künstlername (user typo: Künshlernamen) | die Künstlernamen; schwaches Nomen: den Künstlernamen | الاسم الفني / اسم الشهرة اللي الفنان بيستخدمه | Der Sänger tritt unter einem Künstlernamen auf. | المغني بيظهر باسم فني. | noun | introduced |
 
 ## Learning notes
 
