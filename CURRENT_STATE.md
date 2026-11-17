@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — bloß (V493), 2026-11-17
+
+- Learner supplied `bloß`. Audited canonical verb and vocabulary inventories for `bloß`/variant `bloss`: no standalone entry.
+- Registered **V493 bloß**, colloquial adverb/particle = بس / مجرد / فقط (like `nur`); also adds emphasis or warning in `Mach bloß keinen Fehler!` = إوعى تغلط!; interrogative `Was soll ich bloß machen?` = أعمل إيه بس؟. Adjective also means bare/uncovered in phrases like `mit bloßen Händen` = بإيدين عارية. Canonical example `Ich wollte bloß helfen.` = أنا كنت عايز أساعد بس.
+- Introduced only, no independent recall or mastery. Inventory totals **335 verbs / 493 vocabulary**. R10 remains graded/paused; R11 not issued; pending exercises, attempts and retry flags unchanged. `progress.json` sync still unresolved.
+
+
 ## Ambiguous form intake — berichte: berichten (#335) / der Bericht (V492), 2026-11-17
 
 - Learner supplied lowercase `berichte`. It can be **ich berichte** (present tense of `berichten` = يحكي / يبلّغ / يقدّم تقريرًا) or, with German noun capitalization, **Berichte** (plural of `der Bericht` = تقارير). Full canonical verbs and vocab audit confirmed neither standalone `berichten` nor `der Bericht` was registered (word Bericht appeared incidentally in example for V466). Registered both interpretations to preserve intent; request clarification if future context distinguishes them.
