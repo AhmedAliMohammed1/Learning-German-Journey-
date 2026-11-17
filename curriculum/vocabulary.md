@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**509 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**510 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -515,6 +515,7 @@
 | V507 | das Schild (user typo: Schlid) | die Schilder | لافتة / يافطة / علامة مرورية / درع حسب السياق | Auf dem Schild steht: Betreten verboten. | مكتوب على اليافطة: ممنوع الدخول. | noun | introduced |
 | V508 | der Verkehr | meist kein Plural in der Bedeutung Straßenverkehr | المرور / حركة السير / المواصلات والنقل حسب السياق | Heute gibt es viel Verkehr in der Stadt. | النهارده فيه زحمة مرور كبيرة في المدينة. | noun | introduced |
 | V509 | die Umwelt | im ökologischen Sinn meist ohne Plural | البيئة / البيئة المحيطة | Wir müssen die Umwelt schützen. | لازم نحمي البيئة. | noun | introduced |
+| V510 | die Hürde | die Hürden | عقبة / حاجز / صعوبة لازم نتغلب عليها (في الرياضة أو بشكل مجازي) | Die Sprache ist für mich eine große Hürde. | اللغة بالنسبة لي عقبة كبيرة. | noun | introduced |
 
 ## Learning notes
 
