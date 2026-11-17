@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Pazifik (V506), 2026-11-17
+
+- Learner supplied `Pazifik`. Checked entire canonical verb and vocabulary inventories: no registered independent `Pazifik` item.
+- Added **V506 der Pazifik**, proper geographical noun, commonly `der Pazifische Ozean`, = المحيط الهادئ. Usually no plural. Example `Der Pazifik ist der größte Ozean der Erde.` = المحيط الهادئ أكبر محيط على الأرض. Common `im Pazifik` (in dem Pazifik, Dativ), `über den Pazifik` (across/over the Pacific); don't confuse `pazifisch` (Pacific-related adjective) with noun.
+- Introduced only, no independent recall test/mastery. Canonical totals **342 verbs / 506 vocabulary entries**. R10 paused/graded; no R11 issued, all previously logged attempts, retry flags, and pending exercises kept. `progress.json` structured sync remains unresolved.
+
+
 ## Vocabulary intake — außerdem (V505), 2026-11-17
 
 - Learner supplied `außerdem`. Checked entire canonical vocabulary and verb inventories: not registered independently; the word occurs only as a gloss for existing `sowie` V449 and must not be considered a duplicate.
