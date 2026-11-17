@@ -1,5 +1,12 @@
 # Current study state
 
+## Mixed intake — Picknick, Reiten, Zelten, Hunde, Baden, Parken, Grillen, Angeln, Rauchen — 2026-11-17
+
+- Learner provided nine items. Audited the whole canonical verb and vocabulary inventories first. None was registered as a standalone lemma. `Hunde` was normalized to singular `der Hund`; capitalized noun `das Picknick`. Existing uses of Hund and Rauchen inside other verb examples remain exposure only, not duplicate entries.
+- Added **V483 das Picknick** (die Picknicks), **V484 der Hund** (die Hunde), and seven new verbs **#325 reiten**, **#326 zelten**, **#327 baden**, **#328 parken**, **#329 grillen**, **#330 angeln**, **#331 rauchen**, with Präsens and Perfekt forms. Vocabulary entries have complete German example and Egyptian-Arabic translations. Verbs have contextual German examples and usage notes. `reiten`: `ist geritten` commonly for riding/movement.
+- All nine introduced only; no independent attempt/mastery. Canonical inventory **331 verbs / 484 vocabulary entries**. R10 remains graded/paused; R11 not issued; old pending work, 67 retry flags and learner original answers unchanged. `progress.json` reconciliation remains outstanding.
+
+
 ## Verb intake — eingeben (#324), 2026-11-17
 
 - Learner provided `eingeben` and explicitly clarified meaning "يدخل حاجه علي جهاز" (enter/input something on a device). Full canonical verb + vocabulary inventories checked: no existing `eingeben`. Related **#139 einfügen** (insert/paste) is distinct and retained.
