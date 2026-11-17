@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — achten (#343), 2026-11-17
+
+- Learner submitted `Achten`; canonical infinitive **achten** lower-case. Full verb/vocabulary inventory audit found no standalone verb `achten`; existing **#208 aufpassen** is related but distinct.
+- Registered **#343 achten**, regular verb: `ich achte; du achtest; er/sie/es achtet`, Präteritum `achtete`, Perfekt `hat geachtet`. Main meanings **auf etwas (Akk) achten** = ياخد باله من / ينتبه لـ / يراعي، e.g. `Achte auf den Verkehr!` = خد بالك من المرور!; **jemanden (Akk) achten** = يحترم / يقدّر شخصًا; **etwas achten** more formal for respecting values. Distinguish `beachten` = يراعي/ينتبه لشيء + Akk, and `aufpassen` = ينتبه/ياخد باله.
+- Introduced only, not tested/mastered. Totals **343 verbs / 508 vocabulary**. R10 remains graded and paused; no R11 issued. Preserve original answers, retry flags and unfinished exercises; `progress.json` structured sync pending.
+
+
 ## Vocabulary intake — der Verkehr (V508), 2026-11-17
 
 - Learner submitted `Verkehr`. Audited full canonical vocab and verb inventories: the independent noun `der Verkehr` was absent. Existing V189 `das öffentliche Verkehrsmittel` is a different compound/phrase, not a duplicate.
