@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — anschauen (#344), 2026-11-17
+
+- Learner supplied `anschauen`. Checked full canonical inventories: not an existing verb entry; `nachschauen` #166 is different (check/consult information).
+- Registered **#344 anschauen** = يتفرج على / يبص على / يعاين، separable regular verb: `ich schaue ... an; du schaust ... an; er/sie/es schaut ... an`, Präteritum `schaute ... an`, Perfekt `hat angeschaut`. Common direct Akk object `Ich schaue mir den Film an.` (reflexive Dativ `mir`, film Akk) = أنا بتفرج على الفيلم. `Schau dir das an!` = بص على ده! Distinguished from `ansehen` near synonym and `nachschauen` information lookup.
+- Introduced only; no independent test/mastery. Totals **344 verbs / 508 vocabulary entries**. R10 remains paused after grading, R11 not issued; preserve pending work and retries; `progress.json` structured sync pending.
+
+
 ## Verb intake — achten (#343), 2026-11-17
 
 - Learner submitted `Achten`; canonical infinitive **achten** lower-case. Full verb/vocabulary inventory audit found no standalone verb `achten`; existing **#208 aufpassen** is related but distinct.
