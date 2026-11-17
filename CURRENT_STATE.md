@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — erforderlich (V482), 2026-11-17
+
+- Learner submitted `erforderlich`. Audited full canonical verb and vocabulary inventories; no standalone `erforderlich` or `erfordern` present. Registered adjective **V482 erforderlich** = ضروري / مطلوب / لازم لتحقيق غرض معين, typical in formal/professional contexts. Example: `Für die Bewerbung sind Deutschkenntnisse erforderlich.` = للتقديم على الوظيفة مطلوب معرفة باللغة الألمانية. Related `notwendig` = ضروري, `nötig` = لازم; these are explanation-only, not separately added.
+- Introduced only, not tested/mastered. Totals **323 verbs / 482 vocabulary**. R10 remains graded/paused, no R11 issued, all original answers/flags and older pending work preserved; `progress.json` structured sync remains unresolved.
+
+
 ## Vocabulary and verb intake from Revision / verfügbar vs gültig explanation — 2026-11-16
 
 - Learner requested saving all newly taught vocabulary from the two latest explanations. Audited complete unified verb and vocabulary tables. Existing V474 verfügbar retained; no duplicates. Incidental example nouns (Ticket, Aufenthaltstitel, Gutschein) were not separately registered as teaching targets.
