@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary intake — der Durchbruch (V502) and bekannt (V503), 2026-11-17
+
+- Learner submitted `Durchbruch` and explicitly confirmed `bekannt` after earlier typo `bekannen`. Audited complete canonical verbs and vocabulary inventories; neither base lemma registered.
+- Registered **V502 der Durchbruch**, plural **die Durchbrüche**, = اختراق / إنجاز كبير / نقلة نوعية، وأحيانًا فتحة أو اختراق مادي حسب السياق. Example `Die Forscher haben einen wichtigen Durchbruch erzielt.` = الباحثين حققوا إنجاز علمي مهم. Phrase `einen Durchbruch erzielen`.
+- Registered **V503 bekannt**, adjective = معروف / مشهور / مألوف, `bekannter; am bekanntesten`; `jemandem bekannt sein` takes Dativ, `bekannt für + Akk` = مشهور بـ. Example `Diese Sängerin ist in Deutschland sehr bekannt.` = المغنية دي مشهورة جدًا في ألمانيا. Distinguish `ein Bekannter / eine Bekannte` (an acquaintance), an adjective nominalization rather than a new numbered entry.
+- Both introduced only, not independently tested/mastered. Totals **341 verbs / 503 vocabulary**. R10 remains graded/paused and R11 not issued; pending original answers, retry flags and exercises preserved; progress.json structured sync still unresolved.
+
+
 ## Verb intake — aufwachsen (#341), 2026-11-17
 
 - Learner submitted `aufwachsen`. Audited complete canonical verb and vocabulary inventories: no standalone entry `aufwachsen`. Existing **#340 wachsen** (grow in size, grow, increase) is related but separate and unchanged.
