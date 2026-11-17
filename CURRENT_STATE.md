@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — die Wiese (V485), 2026-11-17
+
+- Learner supplied `Wiese`. Audited both complete canonical verb and vocabulary inventories and found no independent entry. Registered **V485 die Wiese**, plural **die Wiesen** = مرج / مساحة أرض خضراء عليها حشائش (غالبًا مكان مفتوح). Example `Die Kinder spielen auf der Wiese.` = الأطفال بيلعبوا على النجيلة في المرج. `auf der Wiese` = location (Dativ), `auf die Wiese` = destination (Akkusativ).
+- Introduced only, not independently tested/mastered. Totals **331 verbs / 485 vocabulary**. Previous graded/paused R10, no R11 issued; all earlier learner answers, retry flags and exercises preserved; `progress.json` sync remains pending.
+
+
 ## Mixed intake — Picknick, Reiten, Zelten, Hunde, Baden, Parken, Grillen, Angeln, Rauchen — 2026-11-17
 
 - Learner provided nine items. Audited the whole canonical verb and vocabulary inventories first. None was registered as a standalone lemma. `Hunde` was normalized to singular `der Hund`; capitalized noun `das Picknick`. Existing uses of Hund and Rauchen inside other verb examples remain exposure only, not duplicate entries.
