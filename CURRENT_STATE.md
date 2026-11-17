@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — selbständig / selbstständig (V496), 2026-11-17
+
+- Learner supplied `selbständig`, a valid spelling; `selbstständig` is an equally accepted spelling. Audited full canonical verb and vocabulary inventories for both variants and transliterations; no prior entry.
+- Registered **V496 selbständig (auch: selbstständig)** = مستقل / بيعتمد على نفسه / شغال لحسابه حسب السياق. Example `Sie arbeitet selbständig als Grafikdesignerin.` = هي بتشتغل لحسابها كمصممة جرافيك. Contrast `selbständig arbeiten` (working independently/self-employed depending on context), `selbstständig eine Aufgabe erledigen` (do task independently), `angestellt` (employed). Adjective/adverb, comparative `selbständiger` or `selbstständiger`, superlative `am selbständigsten` or `am selbstständigsten`.
+- Introduced only, not independently tested/mastered. Canonical totals **335 verbs / 496 vocabulary**. R10 paused/graded; R11 not issued; prior learner answers, open tasks, retest flags preserved; `progress.json` structured synchronization pending.
+
+
 ## Vocabulary intake — manche (V495), 2026-11-17
 
 - Learner submitted `Manche` (capitalized at beginning of message), canonical lowercase **manche** except sentence-initial position. Audited the complete verb and vocabulary registries: no independent `manch-` entry.
