@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — eingeben (#324), 2026-11-17
+
+- Learner provided `eingeben` and explicitly clarified meaning "يدخل حاجه علي جهاز" (enter/input something on a device). Full canonical verb + vocabulary inventories checked: no existing `eingeben`. Related **#139 einfügen** (insert/paste) is distinct and retained.
+- Registered **#324 eingeben** = يُدخل بيانات/نص/رقم أو كلمة سر على جهاز/كمبيوتر، separable irregular verb `ich gebe ... ein; du gibst ... ein; er gibt ... ein`, Perfekt `hat eingegeben`, Präteritum `gab ... ein`. Construction `etwas (Akkusativ) eingeben`, optional `in + Akkusativ` destination. Example `Ich gebe mein Passwort am Computer ein.` = أنا بدخل كلمة السر على الكمبيوتر.
+- Introduced only, not tested/mastered. Canonical totals **324 verbs / 482 vocabulary**. Earlier R10 remains graded/paused; no R11 issued, all learner answers, unfinished exercises and retry flags intact; `progress.json` sync unresolved.
+
+
 ## Vocabulary intake — erforderlich (V482), 2026-11-17
 
 - Learner submitted `erforderlich`. Audited full canonical verb and vocabulary inventories; no standalone `erforderlich` or `erfordern` present. Registered adjective **V482 erforderlich** = ضروري / مطلوب / لازم لتحقيق غرض معين, typical in formal/professional contexts. Example: `Für die Bewerbung sind Deutschkenntnisse erforderlich.` = للتقديم على الوظيفة مطلوب معرفة باللغة الألمانية. Related `notwendig` = ضروري, `nötig` = لازم; these are explanation-only, not separately added.
