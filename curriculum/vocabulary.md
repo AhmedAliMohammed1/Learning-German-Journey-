@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**500 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**501 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -506,6 +506,7 @@
 | V498 | eigen (user form: eigenen) | Adjektiv, flektiert: eigene, eigenes, eigener, eigenen, eigenem | خاص بيا/بيك/بيه؛ بتاع الشخص نفسه / ملكه | Ich möchte meinen eigenen Computer kaufen. | أنا عايز أشتري الكمبيوتر الخاص بيا أنا. | adjective | introduced |
 | V499 | das Betreten | substantivierter Infinitiv; gewöhnlich kein Plural | دخول مكان / الدخول، خصوصًا في التحذيرات واللافتات الرسمية | Das Betreten der Baustelle ist verboten. | ممنوع دخول موقع البناء. | noun_nominalized_infinitive | introduced |
 | V500 | das Plakat (user form: Plakate) | die Plakate | بوستر / ملصق / إعلان ورقي كبير بيتعلق على الحيطة | Die Plakate hängen an der Wand. | البوسترات معلقة على الحيطة. | noun | introduced |
+| V501 | der Entertainer | die Entertainer; feminin: die Entertainerin / die Entertainerinnen | فنان أو مؤدّي ترفيهي بيقدم عروض للجمهور | Der Entertainer bringt das Publikum zum Lachen. | الفنان الترفيهي بيخلّي الجمهور يضحك. | noun | introduced |
 
 ## Learning notes
 
