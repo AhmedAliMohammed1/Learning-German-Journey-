@@ -1,4 +1,4 @@
-# Verb curriculum — 333 introduced verbs
+# Verb curriculum — 334 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -341,6 +341,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 331 | rauchen | يدخن | ich rauche; du rauchst; er/sie/es raucht | hat geraucht | Rauchen ist hier verboten. | introduced | Regular; Präteritum rauchte; also intransitive or Akk: eine Zigarette rauchen. |
 | 332 | anlegen | يربط أو يلبس (حزام أمان)؛ ينشئ حساب أو ملف؛ يستثمر أموال؛ ترسو سفينة (حسب السياق) | ich lege ... an; du legst ... an; er/sie/es legt ... an | hat angelegt | Bitte legen Sie den Sicherheitsgurt an. | introduced | Regular separable an-legen; Präteritum legte ... an. Usually Akkusativ: den Gurt anlegen, ein Konto anlegen, Geld anlegen; intransitive: Das Schiff legt an. Example = من فضلك اربط حزام الأمان. |
 | 333 | hupen | يضرب كلاكس / يستخدم بوق العربية | ich hupe; du hupst; er/sie/es hupt | hat gehupt | Der Autofahrer hupt an der Ampel. | introduced | Regular non-separable verb; Präteritum hupte. Often intransitive: hupen (sound horn). Example = سواق العربية بيضرب كلاكس عند الإشارة. |
+| 334 | schieben | يزق / يدفع حاجة لقدام (على الأرض أو بعجلات) | ich schiebe; du schiebst; er/sie/es schiebt | hat geschoben | Ich schiebe den Kinderwagen. | introduced | Strong irregular verb, Präteritum schob; transitive + Akkusativ (etwas schieben). Distinguish ziehen = يسحب and #145 verschieben = يؤجل / يحرّك. Example = أنا بزق عربية الأطفال. |
 
 ## How to read the table
 
