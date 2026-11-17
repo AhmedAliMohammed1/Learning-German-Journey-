@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — außerdem (V505), 2026-11-17
+
+- Learner supplied `außerdem`. Checked entire canonical vocabulary and verb inventories: not registered independently; the word occurs only as a gloss for existing `sowie` V449 and must not be considered a duplicate.
+- Registered **V505 außerdem** = بالإضافة إلى ذلك / وكمان / علاوة على كده; a sentence adverb (Konjunktionaladverb), often introduces an additional statement and follows verb-second rule: `Außerdem habe ich keine Zeit.` Example `Ich lerne Deutsch. Außerdem arbeite ich in München.` = أنا بتعلم ألماني. وكمان بشتغل في ميونخ. Contrast `auch` = كمان, `sonst` = وإلا / غير كده.
+- Introduced only, no independent recall/mastery. Canonical totals **342 verbs / 505 vocabulary entries**. Previous R10 graded/paused, R11 not issued; historical answers, retry flags and pending exercises unchanged. `progress.json` structured sync remains pending.
+
+
 ## Verb intake — streichen (#342), 2026-11-17
 
 - Learner supplied `streichen`. Checked full canonical verbs and vocabulary registers. No independent `streichen` entry; `streicheln` #282 is a different verb meaning pet/stroke gently.
