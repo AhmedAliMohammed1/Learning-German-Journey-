@@ -1,4 +1,4 @@
-# Verb curriculum — 342 introduced verbs
+# Verb curriculum — 343 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -350,6 +350,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 340 | wachsen (user form: wächst) | يكبر / ينمو / يزداد / يتوسع | ich wachse; du wächst; er/sie/es wächst | ist gewachsen | Die Pflanze wächst schnell. | introduced | Strong intransitive verb; Präteritum wuchs. Example = النبتة بتنمو بسرعة. Also Das Kind wächst = الطفل بيكبر; Die Stadt wächst = المدينة بتتوسع. Distinguish growth verb from waxing verb (hat gewachst). |
 | 341 | aufwachsen | يكبر ويتربّى في مكان خلال طفولته | ich wachse ... auf; du wächst ... auf; er/sie/es wächst ... auf | ist aufgewachsen | Ich bin in Kairo aufgewachsen. | introduced | Strong separable auf-wachsen; Präteritum wuchs ... auf. in + Dativ (مكان النشأة): in Kairo aufwachsen; bei + Dativ (مَن ربّاه): bei den Großeltern aufwachsen. Example = أنا اتربيت وكبرت في القاهرة. Distinct from #340 wachsen (ينمو/يكبر في الحجم). |
 | 342 | streichen | يدهن / يطلي؛ يشطب / يحذف؛ يلغي؛ يفرد زبدة حسب السياق | ich streiche; du streichst; er/sie/es streicht | hat gestrichen | Ich streiche die Wand weiß. | introduced | Strong verb; Präteritum strich; + Akk object. die Wand streichen = يدهن الحيطة; ein Wort/einen Termin streichen = يحذف كلمة/يلغي موعد; Butter aufs Brot streichen = يفرد زبدة. Example = أنا بدهن الحيطة أبيض. Distinct from #282 streicheln = يطبطب على. |
+| 343 | achten (user form: Achten) | ينتبه لـ / ياخد باله من؛ يحترم شخصًا حسب السياق | ich achte; du achtest; er/sie/es achtet | hat geachtet | Achte auf den Verkehr! | introduced | Regular: Präteritum achtete. auf + Akkusativ achten = ياخد باله من، ينتبه لـ; jemanden (Akkusativ) achten = يحترم شخصًا. Example = خد بالك من المرور! Related but distinct from #208 aufpassen. |
 
 ## How to read the table
 
