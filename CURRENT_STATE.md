@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — anschnallen (#345), 2026-11-17
+
+- Learner submitted `anschnallen`. Checked full canonical verb and vocabulary lists: no existing independent item.
+- Added **#345 anschnallen** = يربط حزام الأمان / يثبّت بالحزام. Regular separable: `ich schnalle ... an; du schnallst ... an; er schnallt ... an`; Präteritum `schnallte ... an`; Perfekt `hat angeschnallt`. Common **sich anschnallen** = يربط حزامه (reflexive Akkusativ): `Schnall dich bitte an!` = اربط حزامك من فضلك; `Ich habe mich angeschnallt.` = أنا ربطت الحزام. Object: `den Sicherheitsgurt anschnallen`. Contrast `abschnallen` = يفك الحزام.
+- Introduced only, no recall test/mastery. Totals **345 verbs / 508 vocabulary**. R10 graded/paused, R11 not issued; preserve earlier answers, retries and pending tasks. `progress.json` remains not structurally synced.
+
+
 ## Verb intake — anschauen (#344), 2026-11-17
 
 - Learner supplied `anschauen`. Checked full canonical inventories: not an existing verb entry; `nachschauen` #166 is different (check/consult information).
