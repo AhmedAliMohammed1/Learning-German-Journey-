@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Hürde (V510), 2026-11-17
+
+- Learner submitted `Hürde`. Full canonical vocabulary and verb inventories checked: no existing independent registered entry.
+- Registered **V510 die Hürde**, plural **die Hürden**, literal hurdle (sports obstacle) or figurative difficulty/obstacle = عقبة / حاجز / صعوبة لازم نتغلب عليها. Example `Die Sprache ist für mich eine große Hürde.` = اللغة بالنسبة لي عقبة كبيرة. Common `eine Hürde überwinden` = يتغلب على عقبة; `bürokratische Hürden` = عقبات بيروقراطية.
+- Introduced only, no standalone test/mastery. Canonical totals **346 verbs / 510 vocabulary**. R10 graded/paused, R11 not issued; prior answers/retry flags/pending tasks preserved. `progress.json` remains structurally unsynchronized.
+
+
 ## Verb intake — verändern (#346), 2026-11-17
 
 - Learner wrote `veränderen`, corrected to **verändern** (without extra e). Entire canonical verb/vocabulary inventory checked: no existing independent `verändern` item.
