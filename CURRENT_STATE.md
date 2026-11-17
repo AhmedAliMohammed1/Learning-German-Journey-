@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — sonst (V491), 2026-11-17
+
+- Learner supplied `sonst`. Full canonical verb and vocabulary audit found no independent `sonst` entry.
+- Added **V491 sonst**, adverb = وإلا / غير كده / بخلاف كده / تاني (حسب السياق). Example `Beeil dich, sonst verpassen wir den Bus.` = استعجل، وإلا هنفوّت الأتوبيس. Other useful usage: `Hast du sonst noch Fragen?` = عندك أسئلة تانية؟; `Sonst geht es mir gut.` = غير كده أنا كويس. After sentence-initial `sonst`, finite verb comes immediately second (`Sonst verpassen wir ...`). `ansonsten` is related and not independently registered.
+- Introduced only, not independently tested or mastered. Canonical counts **334 verbs / 491 vocabulary entries**. R10 paused/graded; R11 not issued; preserve all original review answers, pending exercises, retry flags; `progress.json` sync remains pending.
+
+
 ## Vocabulary intake — vorher (V490), 2026-11-17
 
 - Learner supplied `Vorher` (capitalized at the start of the message); canonical lemma lowercase **vorher**. Audited the full verb and vocabulary inventories and found no standalone entry.
