@@ -1,4 +1,4 @@
-# Verb curriculum — 345 introduced verbs
+# Verb curriculum — 346 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -353,6 +353,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 343 | achten (user form: Achten) | ينتبه لـ / ياخد باله من؛ يحترم شخصًا حسب السياق | ich achte; du achtest; er/sie/es achtet | hat geachtet | Achte auf den Verkehr! | introduced | Regular: Präteritum achtete. auf + Akkusativ achten = ياخد باله من، ينتبه لـ; jemanden (Akkusativ) achten = يحترم شخصًا. Example = خد بالك من المرور! Related but distinct from #208 aufpassen. |
 | 344 | anschauen | يتفرج على / يبص على / يعاين | ich schaue ... an; du schaust ... an; er/sie/es schaut ... an | hat angeschaut | Ich schaue mir den Film an. | introduced | Regular separable verb, Präteritum schaute ... an. jemanden/etwas (Akk) anschauen; sich (Dativ) etwas (Akk) anschauen is common: Ich schaue mir den Film an = أنا بتفرج على الفيلم; Schau dir das an! = بص على ده! Distinct from #166 nachschauen = يدور على معلومة للتأكد. |
 | 345 | anschnallen | يربط حزام الأمان / يثبّت بالحزام | ich schnalle ... an; du schnallst ... an; er/sie/es schnallt ... an | hat angeschnallt | Schnall dich bitte an! | introduced | Regular separable verb; Präteritum schnallte ... an. sich anschnallen (reflexive Akkusativ) = يربط حزام الأمان لنفسه; den Sicherheitsgurt anschnallen = يربط حزام الأمان; Schnall dich bitte an! = اربط حزامك من فضلك. Gegenwort: abschnallen = يفك الحزام. |
+| 346 | verändern (user typo: veränderen) | يغيّر / يبدّل؛ sich verändern = يتغيّر | ich verändere; du veränderst; er/sie/es verändert | hat verändert | Die Stadt hat sich sehr verändert. | introduced | Regular inseparable ver- verb, Präteritum veränderte, Perfekt without ge-. Etwas (Akk) verändern = يغيّر شيئًا; sich verändern = يتغيّر. Example = المدينة اتغيرت جدًا. Related ändern often smaller or specific alteration; verändern can emphasize an overall change. |
 
 ## How to read the table
 
