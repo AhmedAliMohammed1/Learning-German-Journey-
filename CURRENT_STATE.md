@@ -1,5 +1,13 @@
 # Current study state
 
+## Ambiguous form intake — berichte: berichten (#335) / der Bericht (V492), 2026-11-17
+
+- Learner supplied lowercase `berichte`. It can be **ich berichte** (present tense of `berichten` = يحكي / يبلّغ / يقدّم تقريرًا) or, with German noun capitalization, **Berichte** (plural of `der Bericht` = تقارير). Full canonical verbs and vocab audit confirmed neither standalone `berichten` nor `der Bericht` was registered (word Bericht appeared incidentally in example for V466). Registered both interpretations to preserve intent; request clarification if future context distinguishes them.
+- **#335 berichten** regular verb: `ich berichte; du berichtest; er/sie/es berichtet`; Perfekt `hat berichtet`; Präteritum `berichtete`; `über + Akk` for topic and `jemandem (Dat) etwas (Akk) berichten`. Example `Ich berichte über das Ereignis.` = أنا بحكي / بقدم تقرير عن الحدث.
+- **V492 der Bericht**, plural `die Berichte` = تقرير / تقارير. Example `Ich lese die Berichte am Morgen.` = أنا بقرأ التقارير الصبح.
+- Both introduced only, not tested/mastered. Totals **335 verbs / 492 vocabulary entries**. R10 remains paused/graded; R11 not issued; previous answers, unfinished exercises and retry flags preserved. `progress.json` sync still pending.
+
+
 ## Vocabulary intake — sonst (V491), 2026-11-17
 
 - Learner supplied `sonst`. Full canonical verb and vocabulary audit found no independent `sonst` entry.
