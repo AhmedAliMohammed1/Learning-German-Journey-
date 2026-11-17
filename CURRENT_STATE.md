@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary and verb intake — hupen / gefährlich — 2026-11-17
+
+- Learner submitted `hupen` and `gefährlich`. Audited the full unified verb and vocabulary inventories before addition: neither standalone lemma appeared; no duplicate.
+- Registered **#333 hupen** = يضرب كلاكس / يستخدم بوق السيارة; regular, nonseparable; Präsens `ich hupe; du hupst; er/sie/es hupt`; Perfekt `hat gehupt`; Präteritum `hupte`. Example `Der Autofahrer hupt an der Ampel.` = سواق العربية بيضرب كلاكس عند الإشارة. Often intransitive; `jemanden anhupen` is another verb, not registered.
+- Registered **V488 gefährlich**, adjective = خطير / فيه خطر; comparison `gefährlicher`, `am gefährlichsten`. Example `Es ist gefährlich, beim Fahren aufs Handy zu schauen.` = خطر تبص على الموبايل وإنت سايق. Related `die Gefahr` and `ungefährlich` are explanatory and not separately registered.
+- Both new items introduced, not mastered or recall-tested. Current inventory **333 verbs / 488 vocabulary**. R10 remains paused/graded; R11 not issued, all prior raw responses and flags preserved. `progress.json` structural reconciliation remains pending.
+
+
 ## Vocabulary intake — der Gurt (V487), 2026-11-17
 
 - Learner supplied `gurt`, corrected capitalization **der Gurt** (plural **die Gurte**). Audited complete canonical vocabulary and verbs; this noun was not previously registered. It had appeared only in explanatory examples for verb #332 `anlegen`. Registered **V487 der Gurt** = حزام / سير للتثبيت (خصوصًا حزام الأمان `der Sicherheitsgurt`). Example `Bitte leg den Gurt an.` = من فضلك اربط الحزام. The noun **der Gürtel** usually refers to a clothing belt and is distinct; no new standalone entry for it.
