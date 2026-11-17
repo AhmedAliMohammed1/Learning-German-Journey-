@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Verkehr (V508), 2026-11-17
+
+- Learner submitted `Verkehr`. Audited full canonical vocab and verb inventories: the independent noun `der Verkehr` was absent. Existing V189 `das öffentliche Verkehrsmittel` is a different compound/phrase, not a duplicate.
+- Registered **V508 der Verkehr** = المرور / حركة السير / النقل أو المواصلات حسب السياق. Usually no plural in traffic sense. Example `Heute gibt es viel Verkehr in der Stadt.` = النهارده فيه زحمة مرور كبيرة في المدينة. `im Verkehr` = في حركة المرور; `der Straßenverkehr` road traffic, `der öffentliche Verkehr` public transport; related incidental words not independently registered.
+- Introduced only, not tested/mastered. Totals **342 verbs / 508 vocabulary**. R10 graded/paused, R11 not issued; preserve prior tests, flags, original answers and pending exercises. progress.json structured sync pending.
+
+
 ## Vocabulary intake — das Schild (V507), 2026-11-17
 
 - Learner typed `Schlid`, corrected to **das Schild** (sign/notice/traffic sign), plural **die Schilder**. Full canonical verb and vocabulary audits confirmed no independently registered `Schild`.
