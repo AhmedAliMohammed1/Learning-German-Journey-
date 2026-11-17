@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**482 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**484 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -488,6 +488,8 @@
 | V480 | das Code-Review | die Code-Reviews | مراجعة الكود البرمجي | Wir machen heute ein Code-Review. | هنراجع الكود النهارده. | noun | introduced |
 | V481 | zur Verfügung stehen | feste Wendung; steht zur Verfügung; hat zur Verfügung gestanden | يكون متاح / تحت تصرف حد | Ich stehe Ihnen bei Fragen zur Verfügung. | أنا تحت تصرف حضرتك لو فيه أسئلة. | expression | introduced |
 | V482 | erforderlich | adjective; in formal contexts often „erforderlich sein“ | ضروري / مطلوب / لازم (خصوصًا كشرط رسمي) | Für die Bewerbung sind Deutschkenntnisse erforderlich. | للتقديم على الوظيفة مطلوب معرفة باللغة الألمانية. | adjective | introduced |
+| V483 | das Picknick | die Picknicks | نزهة / خروجة للأكل برّه | Wir machen am Sonntag ein Picknick im Park. | هنعمل نزهة ونأكل في الحديقة يوم الأحد. | noun | introduced |
+| V484 | der Hund | die Hunde | الكلب / Hunde = كلاب (جمع) | Der Hund spielt mit den Kindern. | الكلب بيلعب مع الأطفال. | noun | introduced |
 
 ## Learning notes
 
