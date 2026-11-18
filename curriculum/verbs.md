@@ -1,4 +1,4 @@
-# Verb curriculum — 351 introduced verbs
+# Verb curriculum — 352 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -359,6 +359,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 349 | sterben (user form: sterbe) | يموت / يتوفّى | ich sterbe; du stirbst; er/sie/es stirbt | ist gestorben | Die Pflanze ist ohne Wasser gestorben. | introduced | Strong intransitive verb; Präteritum starb; Perfekt with sein; sterbe is ich form. Distinguish töten = يقتل. |
 | 350 | anfassen (user form: Anfassen) | يلمس / يمسك حاجة بإيده | ich fasse ... an; du fasst ... an; er/sie/es fasst ... an | hat angefasst | Fass das bitte nicht an! | introduced | Regular separable verb, Präteritum fasste ... an; Akkusativ object. etwas anfassen = يلمس/يمسك حاجة، especially with hands; Nicht anfassen! = ممنوع اللمس. Contrast berühren = يلمس وقد يكون لمس خفيفًا. |
 | 351 | kleckern (user form: gekleckert) | يوقع/يكبّ أكل أو شرب وهو بياكل أو بيشرب؛ يوسّخ بالانسكاب | ich kleckere; du kleckerst; er/sie/es kleckert | hat gekleckert | Das Kind hat beim Essen gekleckert. | introduced | Regular inseparable verb, Präteritum kleckerte; gekleckert = Partizip II, usually with haben. Beim Essen kleckern = يوقع أكل أثناء الأكل؛ mit Farbe kleckern = يلطّخ بالدهان. |
+| 352 | abräumen (user form: Abräumen) | يلمّ أو يشيل الأطباق والحاجات من السفرة؛ يفضّي المكان | ich räume ... ab; du räumst ... ab; er/sie/es räumt ... ab | hat abgeräumt | Nach dem Essen räume ich den Tisch ab. | introduced | Regular separable verb; Präteritum räumte ... ab. den Tisch abräumen = يلم السفرة؛ das Geschirr abräumen = يشيل المواعين المستخدمة. Contrast aufräumen = يرتّب/ينضّف المكان، ausräumen = يفضّي المحتويات من داخل شيء. |
 
 ## How to read the table
 
