@@ -1,5 +1,13 @@
 # Current study state
 
+## Intake — abräumen (#352) and satt (V518), 2026-11-18
+
+- Learner submitted `Abräumen` and `Satt`. Audited all canonical verb and vocabulary inventory rows; neither lemma existed independently.
+- Registered **#352 abräumen** = يشيل/يلم الأطباق والحاجات من السفرة, separable regular verb `ich räume ... ab; du räumst ... ab; er räumt ... ab`, Perfekt `hat abgeräumt`. Example `Nach dem Essen räume ich den Tisch ab.` = بعد الأكل بلم السفرة. Distinguish `aufräumen` = يرتّب و`ausräumen` = يفضّي.
+- Registered **V518 satt** = شبعان/مش جعان; adjective, example `Ich bin satt, danke.` = أنا شبعت، شكرًا.
+- New canonical totals **352 verbs / 518 vocabulary**. These items are introduced, not independently tested/mastered. R10 graded/paused; R11 not issued. `progress.json` remains structurally unsynchronized, without changing prior learner answers or pending reviews.
+
+
 ## Verb intake — anfassen (#350), kleckern (#351), 2026-11-18
 
 - Learner submitted `Anfassen` and `Gekleckert`. Fully audited canonical verbs and vocabulary rows; no registered independent lemmas `anfassen` or `kleckern`. Normalized `gekleckert` = Partizip II of `kleckern`, not a separate base verb.
