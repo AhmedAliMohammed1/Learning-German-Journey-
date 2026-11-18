@@ -1,5 +1,13 @@
 # Current study state
 
+## Intake reconciliation — 2026-11-18: V512–V515 and verbs #347–#349
+
+- Learner explicitly wants every newly supplied German lemma checked against both canonical inventories and saved to GitHub automatically when not already registered; verify successful remote writes, never claim a pending write is saved.
+- Canonical registers audited completely and added **V512 die Variante**, **V513 daran**, **V514 selten**, **V515 soweit**, and **#347 verschlingen**, **#348 abonnieren**, **#349 sterben** (user form `sterbe`). Examples, Arabic translations and verb Präsens/Perfekt forms saved in curriculum. Existing V503 bekannt and V511 tätig untouched.
+- Canonical totals now **349 verbs / 515 vocabulary entries**. All new items **introduced**, no independent recall/mastery. Logged in `days/2026-11-18.md` without opening a study session.
+- Preserve graded/paused R10, unissued R11, earlier pending learner exercises and retry flags. `progress.json` remains structurally unsynchronized from the latest canonical inventory and requires a separate safe reconciliation.
+
+
 ## Vocabulary intake — tätig (V511), 2026-11-18
 
 - Learner explicitly requested adding **tätig**. Verified full canonical vocabulary and verb inventories; no standalone adjective existed. Related **V456 die Tätigkeit** remains a distinct noun.
