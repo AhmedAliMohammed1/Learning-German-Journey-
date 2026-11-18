@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**518 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**519 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -524,6 +524,7 @@
 | V516 | die Kraft | die Kräfte | القوة / الطاقة / القدرة؛ وأحيانًا قوة بدنية أو نفسية | Nach der Arbeit habe ich keine Kraft mehr. | بعد الشغل مبقاش عندي طاقة. | noun | introduced |
 | V517 | der Schritt | die Schritte | خطوة؛ مرحلة أو إجراء في عملية | Wir machen einen Schritt nach dem anderen. | إحنا بناخد خطوة ورا خطوة. | noun | introduced |
 | V518 | satt (user form: Satt) | Adjektiv; usual use: satt sein; not typically compared | شبعان / مش جعان | Ich bin satt, danke. | أنا شبعت، شكرًا. | adjective | introduced |
+| V519 | tatsächlich | Adverb; auch Adjektiv: tatsächlich, tatsächliche, tatsächlicher | فعلًا / بالفعل / في الحقيقة / حقيقي أو فعلي حسب السياق | Das ist tatsächlich passiert. | ده حصل فعلًا. | adverb_adjective | introduced |
 
 ## Learning notes
 
