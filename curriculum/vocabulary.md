@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**515 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**517 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -521,6 +521,8 @@
 | V513 | daran | Pronominaladverb: da + an; refers to things/ideas, not people | في ده / عليه / بالموضوع ده حسب الفعل والسياق | Ich arbeite daran. | أنا شغال على الموضوع ده. | pronominal_adverb | introduced |
 | V514 | selten | Adverb or adjective; seltener; am seltensten | نادرًا / قليل الحدوث / نادر | Ich gehe selten ins Kino. | أنا نادرًا ما بروح السينما. | adverb_adjective | introduced |
 | V515 | soweit | Konjunktion/Adverb: soweit ich weiß; contrast so weit in Es ist so weit | على حد علمي / بقدر ما / لحد ما حسب السياق | Soweit ich weiß, kommt er morgen. | على حد علمي، هو جاي بكرة. | conjunction_adverb | introduced |
+| V516 | die Kraft | die Kräfte | القوة / الطاقة / القدرة؛ وأحيانًا قوة بدنية أو نفسية | Nach der Arbeit habe ich keine Kraft mehr. | بعد الشغل مبقاش عندي طاقة. | noun | introduced |
+| V517 | der Schritt | die Schritte | خطوة؛ مرحلة أو إجراء في عملية | Wir machen einen Schritt nach dem anderen. | إحنا بناخد خطوة ورا خطوة. | noun | introduced |
 
 ## Learning notes
 
