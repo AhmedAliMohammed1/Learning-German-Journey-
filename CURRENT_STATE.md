@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — tatsächlich (V519), 2026-11-18
+
+- Learner submitted `Tatsächlich`. Audited complete unified verb and vocabulary registers; no independent `tatsächlich` entry existed.
+- Registered **V519 tatsächlich**, adverb/adjective = فعلًا / بالفعل / في الحقيقة / حقيقي أو فعلي. Example `Das ist tatsächlich passiert.` = ده حصل فعلًا. Contrast `eigentlich` = في الأصل / في الحقيقة بمعنى مختلف حسب السياق; `wirklich` = فعلًا/بجد.
+- Introduced only, no independent learner testing/mastery. Canonical totals **352 verbs / 519 vocabulary**. Preserve R10 graded/paused, R11 unissued and all previous answers/pending tasks. Structured `progress.json` is still not fully reconciled.
+
+
 ## Intake — abräumen (#352) and satt (V518), 2026-11-18
 
 - Learner submitted `Abräumen` and `Satt`. Audited all canonical verb and vocabulary inventory rows; neither lemma existed independently.
