@@ -1,4 +1,4 @@
-# Verb curriculum — 349 introduced verbs
+# Verb curriculum — 351 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -357,6 +357,8 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 347 | verschlingen | يلتهم / يستهلك الكثير / يقرأ بنهم | ich verschlinge; du verschlingst; er verschlingt | hat verschlungen | Das Projekt hat viel Zeit verschlungen. | introduced | Strong verb; Präteritum verschlang; + Akkusativ. Food: den Kuchen verschlingen = يلتهم الكيكة; time/money: viel Zeit oder Geld verschlingen = يستهلك الكثير. |
 | 348 | abonnieren | يشترك في قناة أو مجلة أو خدمة | ich abonniere; du abonnierst; er abonniert | hat abonniert | Ich habe diesen Kanal abonniert. | introduced | Regular inseparable -ieren verb, Präteritum abonnierte, Perfekt without ge-; + Akkusativ. |
 | 349 | sterben (user form: sterbe) | يموت / يتوفّى | ich sterbe; du stirbst; er/sie/es stirbt | ist gestorben | Die Pflanze ist ohne Wasser gestorben. | introduced | Strong intransitive verb; Präteritum starb; Perfekt with sein; sterbe is ich form. Distinguish töten = يقتل. |
+| 350 | anfassen (user form: Anfassen) | يلمس / يمسك حاجة بإيده | ich fasse ... an; du fasst ... an; er/sie/es fasst ... an | hat angefasst | Fass das bitte nicht an! | introduced | Regular separable verb, Präteritum fasste ... an; Akkusativ object. etwas anfassen = يلمس/يمسك حاجة، especially with hands; Nicht anfassen! = ممنوع اللمس. Contrast berühren = يلمس وقد يكون لمس خفيفًا. |
+| 351 | kleckern (user form: gekleckert) | يوقع/يكبّ أكل أو شرب وهو بياكل أو بيشرب؛ يوسّخ بالانسكاب | ich kleckere; du kleckerst; er/sie/es kleckert | hat gekleckert | Das Kind hat beim Essen gekleckert. | introduced | Regular inseparable verb, Präteritum kleckerte; gekleckert = Partizip II, usually with haben. Beim Essen kleckern = يوقع أكل أثناء الأكل؛ mit Farbe kleckern = يلطّخ بالدهان. |
 
 ## How to read the table
 
