@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**511 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**515 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -517,6 +517,10 @@
 | V509 | die Umwelt | im ökologischen Sinn meist ohne Plural | البيئة / البيئة المحيطة | Wir müssen die Umwelt schützen. | لازم نحمي البيئة. | noun | introduced |
 | V510 | die Hürde | die Hürden | عقبة / حاجز / صعوبة لازم نتغلب عليها (في الرياضة أو بشكل مجازي) | Die Sprache ist für mich eine große Hürde. | اللغة بالنسبة لي عقبة كبيرة. | noun | introduced |
 | V511 | tätig | Adjektiv; häufig: als + Beruf tätig sein, bei + Arbeitgeber tätig sein, in + Dativ tätig sein | شغال / بيزاول مهنة أو نشاط / نشيط في مجال معيّن | Ich bin als Softwareentwickler tätig. | أنا شغال كمطوّر برمجيات. | adjective | introduced |
+| V512 | die Variante | die Varianten | نسخة / شكل مختلف / اختيار أو بديل من عدة اختيارات | Welche Variante ist besser? | أنهي نسخة أو اختيار أحسن؟ | noun | introduced |
+| V513 | daran | Pronominaladverb: da + an; refers to things/ideas, not people | في ده / عليه / بالموضوع ده حسب الفعل والسياق | Ich arbeite daran. | أنا شغال على الموضوع ده. | pronominal_adverb | introduced |
+| V514 | selten | Adverb or adjective; seltener; am seltensten | نادرًا / قليل الحدوث / نادر | Ich gehe selten ins Kino. | أنا نادرًا ما بروح السينما. | adverb_adjective | introduced |
+| V515 | soweit | Konjunktion/Adverb: soweit ich weiß; contrast so weit in Es ist so weit | على حد علمي / بقدر ما / لحد ما حسب السياق | Soweit ich weiß, kommt er morgen. | على حد علمي، هو جاي بكرة. | conjunction_adverb | introduced |
 
 ## Learning notes
 
