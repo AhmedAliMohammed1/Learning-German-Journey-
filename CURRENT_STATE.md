@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — tätig (V511), 2026-11-18
+
+- Learner explicitly requested adding **tätig**. Verified full canonical vocabulary and verb inventories; no standalone adjective existed. Related **V456 die Tätigkeit** remains a distinct noun.
+- Registered **V511 tätig** = شغال / بيزاول مهنة أو نشاط / نشيط في مجال معيّن. Adjective commonly with `als + profession tätig sein`, `bei + employer`, `in + Dativ + field`. Example `Ich bin als Softwareentwickler tätig.` = أنا شغال كمطوّر برمجيات.
+- Introduced only; no learner recall, contextual test or mastery. Canonical totals **346 verbs / 511 vocabulary**. Today's log `days/2026-11-18.md` is open with zero study sessions. R10 graded/paused; R11 not issued. Preserve all earlier pending reviews, answers and retry flags. The structured `progress.json` sync discrepancy is still outstanding.
+
+
 ## Vocabulary intake — die Hürde (V510), 2026-11-17
 
 - Learner submitted `Hürde`. Full canonical vocabulary and verb inventories checked: no existing independent registered entry.
