@@ -1,5 +1,13 @@
 # Current study state
 
+## Verb intake — anfassen (#350), kleckern (#351), 2026-11-18
+
+- Learner submitted `Anfassen` and `Gekleckert`. Fully audited canonical verbs and vocabulary rows; no registered independent lemmas `anfassen` or `kleckern`. Normalized `gekleckert` = Partizip II of `kleckern`, not a separate base verb.
+- Added **#350 anfassen** = يلمس/يمسك حاجة بإيده, separable regular `ich fasse ... an; du fasst ... an; er fasst ... an`, Perfekt `hat angefasst`. Example `Fass das bitte nicht an!` = متلمسش ده من فضلك.
+- Added **#351 kleckern** = يكبّ أو يوقع أكل أو شرب وهو بياكل/يشرب، regular `ich kleckere; du kleckerst; er kleckert`, Perfekt `hat gekleckert`. Example `Das Kind hat beim Essen gekleckert.` = الطفل وقع أكل وهو بياكل.
+- Both introduced only; no independent learner test/mastery. Canonical totals **351 verbs / 517 vocabulary**. R10 graded/paused and R11 not issued; pending exercises unchanged. `progress.json` structural sync remains outstanding.
+
+
 ## Vocabulary intake — Kraft (V516) and Schritt (V517), 2026-11-18
 
 - Learner submitted `Kraft` and `Schritt`. Audited the full canonical verb and vocabulary inventories: no registered independent entry for either word.
