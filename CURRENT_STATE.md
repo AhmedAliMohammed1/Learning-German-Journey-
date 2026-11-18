@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary intake — Kraft (V516) and Schritt (V517), 2026-11-18
+
+- Learner submitted `Kraft` and `Schritt`. Audited the full canonical verb and vocabulary inventories: no registered independent entry for either word.
+- Registered **V516 die Kraft**, plural **die Kräfte**, = القوة / الطاقة / القدرة. Example `Nach der Arbeit habe ich keine Kraft mehr.` = بعد الشغل مبقاش عندي طاقة.
+- Registered **V517 der Schritt**, plural **die Schritte**, = خطوة / مرحلة أو إجراء. Example `Wir machen einen Schritt nach dem anderen.` = إحنا بناخد خطوة ورا خطوة.
+- Both introduced only, not independently tested or mastered. Canonical totals **349 verbs / 517 vocabulary entries**. Preserve paused R10, pending R11 and other older reviews. `progress.json` structural sync remains outstanding.
+
+
 ## Intake reconciliation — 2026-11-18: V512–V515 and verbs #347–#349
 
 - Learner explicitly wants every newly supplied German lemma checked against both canonical inventories and saved to GitHub automatically when not already registered; verify successful remote writes, never claim a pending write is saved.
