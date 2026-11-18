@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**510 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**511 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -516,6 +516,7 @@
 | V508 | der Verkehr | meist kein Plural in der Bedeutung Straßenverkehr | المرور / حركة السير / المواصلات والنقل حسب السياق | Heute gibt es viel Verkehr in der Stadt. | النهارده فيه زحمة مرور كبيرة في المدينة. | noun | introduced |
 | V509 | die Umwelt | im ökologischen Sinn meist ohne Plural | البيئة / البيئة المحيطة | Wir müssen die Umwelt schützen. | لازم نحمي البيئة. | noun | introduced |
 | V510 | die Hürde | die Hürden | عقبة / حاجز / صعوبة لازم نتغلب عليها (في الرياضة أو بشكل مجازي) | Die Sprache ist für mich eine große Hürde. | اللغة بالنسبة لي عقبة كبيرة. | noun | introduced |
+| V511 | tätig | Adjektiv; häufig: als + Beruf tätig sein, bei + Arbeitgeber tätig sein, in + Dativ tätig sein | شغال / بيزاول مهنة أو نشاط / نشيط في مجال معيّن | Ich bin als Softwareentwickler tätig. | أنا شغال كمطوّر برمجيات. | adjective | introduced |
 
 ## Learning notes
 
