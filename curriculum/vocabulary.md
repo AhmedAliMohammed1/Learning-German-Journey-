@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**519 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**520 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -525,6 +525,7 @@
 | V517 | der Schritt | die Schritte | خطوة؛ مرحلة أو إجراء في عملية | Wir machen einen Schritt nach dem anderen. | إحنا بناخد خطوة ورا خطوة. | noun | introduced |
 | V518 | satt (user form: Satt) | Adjektiv; usual use: satt sein; not typically compared | شبعان / مش جعان | Ich bin satt, danke. | أنا شبعت، شكرًا. | adjective | introduced |
 | V519 | tatsächlich | Adverb; auch Adjektiv: tatsächlich, tatsächliche, tatsächlicher | فعلًا / بالفعل / في الحقيقة / حقيقي أو فعلي حسب السياق | Das ist tatsächlich passiert. | ده حصل فعلًا. | adverb_adjective | introduced |
+| V520 | zumindest (user form: Zu mindest) | Adverb; written as one word; compare mindestens for minimum quantities | على الأقل / على أي حال / على الأقل من الناحية دي | Ich kann heute zumindest eine Stunde Deutsch lernen. | أقدر النهارده على الأقل أذاكر ألماني ساعة. | adverb | introduced |
 
 ## Learning notes
 
