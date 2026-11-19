@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**523 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**524 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -529,6 +529,7 @@
 | V521 | umsichtig (user form: Umsichtig) | Adjektiv/Adverb; umsichtiger; am umsichtigsten | حريص / متأنّي / بيتصرف بحكمة وبيفكر في العواقب | Sie handelt in schwierigen Situationen sehr umsichtig. | هي بتتصرف بحرص وحكمة في المواقف الصعبة. | adjective_adverb | introduced |
 | V522 | trotzdem (user typo: Trotzem) | Konjunktionaladverb; danach steht das finite Verb an Position 2 | رغم كده / ومع ذلك / بالرغم من ده | Es regnet, trotzdem gehe ich spazieren. | الدنيا بتمطر، ومع ذلك هخرج أتمشى. | adverb | introduced |
 | V523 | tief (user form: Tief) | Adjektiv/Adverb; tiefer; am tiefsten | عميق / منخفض / واطي حسب السياق | Der See ist sehr tief. | البحيرة دي عميقة جدًا. | adjective_adverb | introduced |
+| V524 | überhaupt (user form: Überhaupt) | Adverb/Modalpartikel; häufig: überhaupt nicht, überhaupt kein, überhaupt ...? | أصلًا / عمومًا / خالص أو إطلاقًا مع النفي، حسب السياق | Ich habe überhaupt keine Zeit. | أنا معنديش أي وقت خالص. | adverb_particle | introduced |
 
 ## Learning notes
 
