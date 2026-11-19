@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — tief (V523), 2026-11-19
+
+- Learner submitted `Tief`. Entire canonical vocabulary and verb inventories audited; the independent adjective/adverb `tief` was not registered.
+- Registered **V523 tief**, comparative `tiefer`, superlative `am tiefsten`, meaning عميق / منخفض / واطي حسب السياق. Example `Der See ist sehr tief.` = البحيرة دي عميقة جدًا. Contrast `hoch` (high), `flach` (shallow/flat) depending on context; `tiefe Stimme` = صوت غليظ/منخفض.
+- Introduced only, no independent learner recall/mastery. Canonical totals **352 verbs / 523 vocabulary**. Preserve paused R10, unissued R11 and existing pending work; `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary intake — trotzdem (V522), 2026-11-19
 
 - Learner supplied `Trotzem`. Corrected spelling to **trotzdem** (with **tz** and **d**). Full canonical verb/vocabulary inventories checked: no existing independently registered `trotzdem`.
