@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — überhaupt (V524), 2026-11-19
+
+- Learner submitted `Überhaupt`. Complete canonical verb and vocabulary tables checked; no independently registered `überhaupt` entry existed.
+- Added **V524 überhaupt**, adverb/modal particle meaning أصلًا / عمومًا / خالص أو إطلاقًا مع النفي حسب السياق. Reference patterns: `überhaupt nicht` = خالص / إطلاقًا, `überhaupt kein` = ولا أي / إطلاقًا, and `überhaupt` in questions for general emphasis. Example `Ich habe überhaupt keine Zeit.` = أنا معنديش أي وقت خالص.
+- Introduced only, not independently tested/mastered. Canonical totals **352 verbs / 524 vocabulary**. R10 graded/paused, R11 unissued, existing pending work and original answers retained. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary intake — tief (V523), 2026-11-19
 
 - Learner submitted `Tief`. Entire canonical vocabulary and verb inventories audited; the independent adjective/adverb `tief` was not registered.
