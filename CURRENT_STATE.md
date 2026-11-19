@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — umsichtig (V521), 2026-11-19
+
+- Learner submitted `Umsichtig`. Checked the full canonical verb and vocabulary inventories; no independent `umsichtig` entry existed.
+- Added **V521 umsichtig**, adjective/adverb = حريص / متأنّي / بيتصرف بحكمة وبيفكر في العواقب; comparative `umsichtiger`, superlative `am umsichtigsten`. Example: `Sie handelt in schwierigen Situationen sehr umsichtig.` = هي بتتصرف بحرص وحكمة في المواقف الصعبة.
+- Introduced only, not independently tested/mastered. Canonical totals **352 verbs / 521 vocabulary**. Paused R10, unissued R11, pending items and original answers preserved. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary intake — zumindest (V520), 2026-11-19
 
 - Learner submitted `Zu mindest`. Correct standard spelling is **zumindest** (one word). Full canonical verb and vocabulary inventories checked; no independent lemma `zumindest` existed.
