@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — zumindest (V520), 2026-11-19
+
+- Learner submitted `Zu mindest`. Correct standard spelling is **zumindest** (one word). Full canonical verb and vocabulary inventories checked; no independent lemma `zumindest` existed.
+- Registered **V520 zumindest** = على الأقل / على أي حال / على الأقل من الناحية دي; adverb. Example `Ich kann heute zumindest eine Stunde Deutsch lernen.` = أقدر النهارده على الأقل أذاكر ألماني ساعة. Distinguish `mindestens` = على الأقل من حيث عدد أو مقدار، e.g. mindestens drei Stunden.
+- Introduced only, not independently tested/mastered. Canonical totals **352 verbs / 520 vocabulary**. R10 graded/paused, R11 not issued; earlier learner answers and pending exercises preserved. Structured `progress.json` reconciliation still outstanding.
+
+
 ## Vocabulary intake — tatsächlich (V519), 2026-11-18
 
 - Learner submitted `Tatsächlich`. Audited complete unified verb and vocabulary registers; no independent `tatsächlich` entry existed.
