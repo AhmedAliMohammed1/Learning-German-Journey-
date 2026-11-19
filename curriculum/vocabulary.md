@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**521 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**522 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -527,6 +527,7 @@
 | V519 | tatsächlich | Adverb; auch Adjektiv: tatsächlich, tatsächliche, tatsächlicher | فعلًا / بالفعل / في الحقيقة / حقيقي أو فعلي حسب السياق | Das ist tatsächlich passiert. | ده حصل فعلًا. | adverb_adjective | introduced |
 | V520 | zumindest (user form: Zu mindest) | Adverb; written as one word; compare mindestens for minimum quantities | على الأقل / على أي حال / على الأقل من الناحية دي | Ich kann heute zumindest eine Stunde Deutsch lernen. | أقدر النهارده على الأقل أذاكر ألماني ساعة. | adverb | introduced |
 | V521 | umsichtig (user form: Umsichtig) | Adjektiv/Adverb; umsichtiger; am umsichtigsten | حريص / متأنّي / بيتصرف بحكمة وبيفكر في العواقب | Sie handelt in schwierigen Situationen sehr umsichtig. | هي بتتصرف بحرص وحكمة في المواقف الصعبة. | adjective_adverb | introduced |
+| V522 | trotzdem (user typo: Trotzem) | Konjunktionaladverb; danach steht das finite Verb an Position 2 | رغم كده / ومع ذلك / بالرغم من ده | Es regnet, trotzdem gehe ich spazieren. | الدنيا بتمطر، ومع ذلك هخرج أتمشى. | adverb | introduced |
 
 ## Learning notes
 
