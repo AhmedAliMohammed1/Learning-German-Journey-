@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — trotzdem (V522), 2026-11-19
+
+- Learner supplied `Trotzem`. Corrected spelling to **trotzdem** (with **tz** and **d**). Full canonical verb/vocabulary inventories checked: no existing independently registered `trotzdem`.
+- Registered **V522 trotzdem** = رغم كده / ومع ذلك; a conjunctional adverb that follows verb-second word order: `Es regnet, trotzdem gehe ich spazieren.` = الدنيا بتمطر، ومع ذلك هخرج أتمشى. Distinguish `obwohl` which sends finite verb to clause end, and `trotz + Genitiv`.
+- Introduced only, no independent test or mastery. Canonical totals **352 verbs / 522 vocabulary**. R10 graded/paused; R11 unissued; earlier pending exercises and answers preserved. `progress.json` is still structurally out of sync.
+
+
 ## Vocabulary intake — umsichtig (V521), 2026-11-19
 
 - Learner submitted `Umsichtig`. Checked the full canonical verb and vocabulary inventories; no independent `umsichtig` entry existed.
