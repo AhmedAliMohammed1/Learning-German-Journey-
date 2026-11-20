@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Sache (V546), learner form Sachen, 2026-11-20
+
+- Learner submitted `Sachen` (plural of `die Sache`). Canonical verb and vocabulary tables reviewed; no independent canonical lemma `die Sache` / `Sachen` was registered.
+- Added **V546 die Sache**, plural **die Sachen** = حاجة / شيء / موضوع؛ الحاجات / الأغراض. Example `Ich muss meine Sachen packen.` = لازم ألم حاجتي وأجهزها. Differentiate `das Ding / die Dinge`. `Ich habe viele Sachen zu erledigen` = عندي حاجات كتير لازم أخلصها.
+- Introduced only; no independent testing/mastery. Canonical totals **361 verbs / 546 vocabulary**. R10 paused/graded, R11 unissued; earlier pending reviews and original responses retained. `progress.json` synchronization remains pending.
+
+
 ## Vocabulary intake — quasi (V545), 2026-11-20
 
 - Learner heard the sound `اكفازي`, assistant suggested `quasi`, and learner explicitly instructed to register the proposed word. Full canonical verb/vocabulary inventories audited: no existing standalone `quasi` lemma.
