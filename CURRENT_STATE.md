@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — donnern (#354), 2026-11-20
+
+- Learner supplied `donnert`; normalized to infinitive **donnern**. Audited full canonical vocabulary and verb inventories; no standalone `donnern` entry.
+- Added **#354 donnern** = يرعد / الرعد يدوي. Präsens `ich donnere; du donnerst; er/sie/es donnert`; Präteritum `donnerte`; Perfekt `hat gedonnert`. Example `Es donnert draußen.` = فيه رعد برّه. `donnert` is third-person-singular present as well as `ihr` form. Contrast `der Donner` (noun) and `das Gewitter` (thunderstorm).
+- Introduced only; no independent test/mastery. Canonical totals **354 verbs / 530 vocabulary**. Preserve paused/graded R10, unissued R11, earlier learner answers and pending tasks. Structured `progress.json` reconciliation remains pending.
+
+
 ## Vocabulary intake — der Nebel (V530), 2026-11-20
 
 - Learner submitted `nebel`, normalized capitalization to **der Nebel**. Full canonical verb and vocabulary table check found no existing standalone `Nebel` entry.
