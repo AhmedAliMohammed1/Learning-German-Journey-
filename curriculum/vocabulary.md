@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**533 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**534 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -539,6 +539,7 @@
 | V531 | davon | Pronominaladverb da(r)+von; refers to a thing/topic, not normally to a person | منه / منها / من ده / عن ده حسب الفعل والسياق | Ich habe fünf Bücher. Zwei davon sind auf Deutsch. | عندي خمس كتب، اتنين منهم بالألماني. | pronominal_adverb | introduced |
 | V532 | hart | Adjektiv/Adverb; härter; am härtesten | صلب / قاسي / شديد / شاق حسب السياق | Ich habe hart für die Prüfung gelernt. | أنا ذاكرت بجد وبمجهود كبير للامتحان. | adjective_adverb | introduced |
 | V533 | Südtirol (user form: südtirol) | Eigenname; Region im Norden Italiens; meist ohne Artikel | جنوب تيرول: منطقة في شمال إيطاليا | Südtirol liegt im Norden Italiens. | جنوب تيرول موجودة في شمال إيطاليا. | proper_name | introduced |
+| V534 | das Dach (user form: Dach) | die Dächer | السقف الخارجي للمبنى / سطح البيت | Das Haus hat ein rotes Dach. | البيت ليه سقف أحمر. | noun | introduced |
 
 ## Learning notes
 
