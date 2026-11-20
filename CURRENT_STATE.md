@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — aufgeregt (V541), 2026-11-20
+
+- Learner submitted `Aufgeregt`. Entire canonical verb and vocabulary inventories checked; no registered `aufgeregt` or `aufregen` entry existed.
+- Added **V541 aufgeregt** as adjective/Partizip II meaning متوتر / قلقان / متحمس جدًا حسب السياق. Example `Ich bin vor dem Vorstellungsgespräch aufgeregt.` = أنا متوتر قبل مقابلة الشغل. Related but distinct verb `sich aufregen (über + Akkusativ)` = يتعصب أو ينفعل؛ explained as context, not added as a separate submitted lemma.
+- Introduced only, no independent recall/mastery. Canonical totals **358 verbs / 541 vocabulary**. R10 graded/paused; R11 unissued, original answers and pending reviews preserved. Structured `progress.json` reconciliation outstanding.
+
+
 ## Verb intake — krachen (#358), 2026-11-20
 
 - Learner supplied `Kracht` (initial capital, normalized to conjugated verb `kracht`). Audited full canonical verb and vocabulary registers: no independent `krachen` entry.
