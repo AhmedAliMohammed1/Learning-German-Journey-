@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Gewitter (V529), 2026-11-20
+
+- Learner submitted `Gewitter`. Canonical verb and vocabulary tables checked: no previously registered `Gewitter` entry.
+- Registered **V529 das Gewitter**, plural **die Gewitter**, meaning عاصفة رعدية فيها رعد وبرق وغالبًا مطر. Example: `Heute Abend gibt es ein Gewitter.` = النهارده بالليل فيه عاصفة رعدية. Related terms: `der Donner` = الرعد, `der Blitz` = البرق, `das Unwetter` = طقس شديد أو عاصفة شديدة.
+- Introduced only, no independent test/mastery. Canonical totals **353 verbs / 529 vocabulary**. R10 paused/graded; R11 unissued; earlier pending work and original answers remain. Structured `progress.json` synchronization pending.
+
+
 ## Vocabulary intake — das Kostüm (V528), 2026-11-20
 
 - Learner submitted `Kostüm`. Full canonical verb and vocabulary inventories checked; no independent registered `Kostüm` entry.
