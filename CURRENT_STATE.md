@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Unterschied (V543), 2026-11-20
+
+- Learner submitted `Unterschied`. Checked full canonical vocabulary and verb tables; no independent registered lemma was present.
+- Added **V543 der Unterschied**, plural **die Unterschiede** = الفرق / الاختلاف. Example `Was ist der Unterschied zwischen diesen beiden Wörtern?` = إيه الفرق بين الكلمتين دول؟ Common phrase `Unterschied zwischen A und B` with Dativ.
+- Introduced only, no recall test or mastery. Canonical totals **358 verbs / 543 vocabulary**. R10 graded/paused and R11 unissued; original answers/review queue retained; structured `progress.json` reconciliation remains outstanding.
+
+
 ## Vocabulary intake — witzig (V542), 2026-11-20
 
 - Learner submitted `Witzig`. Full canonical verb and vocabulary inventories checked; no independent `witzig` entry found.
