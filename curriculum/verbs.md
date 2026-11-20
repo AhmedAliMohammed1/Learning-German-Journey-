@@ -1,4 +1,4 @@
-# Verb curriculum — 353 introduced verbs
+# Verb curriculum — 354 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -361,6 +361,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 351 | kleckern (user form: gekleckert) | يوقع/يكبّ أكل أو شرب وهو بياكل أو بيشرب؛ يوسّخ بالانسكاب | ich kleckere; du kleckerst; er/sie/es kleckert | hat gekleckert | Das Kind hat beim Essen gekleckert. | introduced | Regular inseparable verb, Präteritum kleckerte; gekleckert = Partizip II, usually with haben. Beim Essen kleckern = يوقع أكل أثناء الأكل؛ mit Farbe kleckern = يلطّخ بالدهان. |
 | 352 | abräumen (user form: Abräumen) | يلمّ أو يشيل الأطباق والحاجات من السفرة؛ يفضّي المكان | ich räume ... ab; du räumst ... ab; er/sie/es räumt ... ab | hat abgeräumt | Nach dem Essen räume ich den Tisch ab. | introduced | Regular separable verb; Präteritum räumte ... ab. den Tisch abräumen = يلم السفرة؛ das Geschirr abräumen = يشيل المواعين المستخدمة. Contrast aufräumen = يرتّب/ينضّف المكان، ausräumen = يفضّي المحتويات من داخل شيء. |
 | 353 | entwerfen (user form: Entwerfen) | يصمّم / يضع مسودة أو مخططًا مبدئيًا | ich entwerfe; du entwirfst; er/sie/es entwirft | hat entworfen | Ich entwerfe ein neues Design für die App. | introduced | Strong inseparable ent- verb; Präteritum entwarf; + Akkusativ. einen Plan/ein Konzept/ein Gebäude/einen Entwurf entwerfen = يصمّم أو يعد مسودة. Perfekt without ge-. Distinguish entwickeln = يطوّر وينفّذ، entwerfen = يصمّم الفكرة أو المخطط. |
+| 354 | donnern (user form: donnert) | يرعد / صوت الرعد يدوي | ich donnere; du donnerst; er/sie/es donnert | hat gedonnert | Es donnert draußen. | introduced | Regular verb; Präteritum donnerte; standard weather expression es donnert = فيه رعد. ‘donnert’ is 3rd-person singular present (and ihr-form). Example Arabic: فيه رعد برّه. Distinguish der Donner = الرعد (noun), das Gewitter = عاصفة رعدية. |
 
 ## How to read the table
 
