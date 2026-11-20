@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — witzig (V542), 2026-11-20
+
+- Learner submitted `Witzig`. Full canonical verb and vocabulary inventories checked; no independent `witzig` entry found.
+- Added **V542 witzig**, adjective, `witziger`, `am witzigsten` = مضحك / ظريف / دمه خفيف. Example `Der Film war wirklich witzig.` = الفيلم كان مضحك فعلًا. Compare `lustig` = funny / cheerful, `der Witz` = joke.
+- Introduced only; no independent testing or mastery. Canonical totals **358 verbs / 542 vocabulary**. R10 graded/paused; R11 unissued; original answers and pending reviews unchanged. Structured `progress.json` reconciliation outstanding.
+
+
 ## Vocabulary intake — aufgeregt (V541), 2026-11-20
 
 - Learner submitted `Aufgeregt`. Entire canonical verb and vocabulary inventories checked; no registered `aufgeregt` or `aufregen` entry existed.
