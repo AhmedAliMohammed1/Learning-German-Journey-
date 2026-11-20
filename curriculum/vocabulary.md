@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**538 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**539 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -544,6 +544,7 @@
 | V536 | derselbe / dieselbe / dasselbe (user form: selben) | Demonstrativpronomen/Artikelwort; declined e.g. denselben Lehrer, im selben Haus | نفس الشخص أو الشيء بعينه | Wir wohnen im selben Haus. | إحنا ساكنين في نفس البيت. | pronoun_determiner | introduced |
 | V537 | das Pech | normalerweise kein Plural | سوء الحظ / النحس | Ich hatte gestern Pech. | كان حظي وحش امبارح. | noun | introduced |
 | V538 | grau | Adjektiv; grauer; am grau(e)sten | رمادي | Der Himmel ist heute grau. | السما النهارده رمادية. | adjective | introduced |
+| V539 | furchtbar (user correction of fruchbar) | Adjektiv/Adverb; furchtbarer; am furchtbarsten; colloquial intensifier | فظيع / سيئ جدًا / رهيب؛ أحيانًا جدًا للمبالغة | Das Wetter ist heute furchtbar. | الجو النهارده فظيع. | adjective_adverb | introduced |
 
 ## Learning notes
 
