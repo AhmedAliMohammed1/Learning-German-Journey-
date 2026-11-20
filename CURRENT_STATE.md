@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary and verb intake — davon (V531), sammeln (#356), 2026-11-20
+
+- Learner supplied `davon` and `sammle`. Audited complete canonical inventories: neither `davon` nor infinitive `sammeln` registered independently.
+- Added **V531 davon** = منه/منها/من ده/عن ده حسب الفعل (pronominal adverb). Example `Ich habe fünf Bücher. Zwei davon sind auf Deutsch.` = عندي خمس كتب، اتنين منهم بالألماني. Contrast `darüber` as determined by verb's preposition.
+- Added **#356 sammeln** (input `sammle`) = يجمع أو يكتسب خبرة, Präsens `ich sammle, du sammelst, er sammelt`, Präteritum `sammelte`, Perfekt `hat gesammelt`. Example `Ich sammle Erfahrungen bei der Arbeit.` = أنا بكتسب خبرات في الشغل. Contrast `einsammeln`.
+- Introduced only; neither independently tested/mastered. Canonical totals **356 verbs / 531 vocabulary**. R10 graded/paused; R11 unissued; existing review queue and original learner answers unchanged; structured `progress.json` reconciliation remains outstanding.
+
+
 ## Verb intake — erleben (#355), 2026-11-20
 
 - Learner submitted `erleben`. Full canonical verbs and vocabulary tables audited; no existing independent lemma.
