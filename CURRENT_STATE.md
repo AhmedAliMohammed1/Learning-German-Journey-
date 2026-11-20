@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — wegen (V544), 2026-11-20
+
+- Learner submitted `Wegen`. Audited all canonical verb and vocabulary entries, no independently registered `wegen` lemma found.
+- Added **V544 wegen** = بسبب / علشان; preposition with standard **Genitiv**, colloquial **Dativ** sometimes used. Example `Wegen des Regens bleibe ich zu Hause.` = بسبب المطر هفضل في البيت. Compare `weil` subordinate clause (finite verb at end) and `deshalb` V2 sentence.
+- Introduced only; not independently tested/mastered. Totals **360 verbs / 544 vocabulary**. R10 paused/graded, R11 unissued; prior practice and answers preserved. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Verb intake — übertragen (#360), 2026-11-20
 
 - Learner submitted `Übertragen`. Audited full verb and vocabulary inventories; no standalone registered `übertragen` entry.
