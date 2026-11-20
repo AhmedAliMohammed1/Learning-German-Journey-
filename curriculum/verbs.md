@@ -1,4 +1,4 @@
-# Verb curriculum — 358 introduced verbs
+# Verb curriculum — 359 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -366,6 +366,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 356 | sammeln (user form: sammle) | يجمع / يجمّع معلومات أو حاجات / يكتسب خبرة | ich sammle; du sammelst; er/sie/es sammelt | hat gesammelt | Ich sammle Erfahrungen bei der Arbeit. | introduced | Regular verb; Präteritum sammelte, Perfekt hat gesammelt; + Akkusativ. Example Arabic: أنا بكتسب خبرات في الشغل. sammle = 1st person singular Präsens (also imperative singular). Contrast einsammeln = يلمّ أو يجمع أشياء من أماكن/أشخاص. |
 | 357 | greifen (user form: Greifende; Partizip I greifend + adjective ending -e) | يمسك / يقبض على شيء / يمد إيده علشان يمسك حاجة | ich greife; du greifst; er/sie/es greift | hat gegriffen | Das Kind greift nach dem Ball. | introduced | Strong verb, Präteritum griff, Perfekt hat gegriffen. greifen nach + Dativ = يمد إيده علشان يمسك؛ etwas greifen + Akk = يمسك حاجة؛ Partizip I greifend becomes greifende before a noun, e.g. die greifende Hand. Depending on context, Greifende capitalized could also be a nominalized adjective/participle. |
 | 358 | krachen (user form: Kracht) | يُحدث صوت خبطة أو دوي قوي / يقع أو يصطدم بصوت عالٍ | ich krache; du krachst; er/sie/es kracht | hat gekracht | Plötzlich hat es laut gekracht. | introduced | Regular verb; Präteritum krachte. Es kracht = فيه صوت خبطة/دوي؛ der Krach = دوشة أو ضوضاء، أحيانًا خناقة. Distinguish donnern = يرعد, knallen = يفرقع. Example Arabic: فجأة حصل صوت دوي عالي. |
+| 359 | fassen (user form: fassend; Partizip I) | يمسك أو يقبض على شيء / يستوعب أو يصدق / يتخذ قرارًا في تعبير ثابت | ich fasse; du fasst; er/sie/es fasst | hat gefasst | Ich kann das nicht fassen! | introduced | Regular verb; Präteritum fasste, Perfekt hat gefasst; transitive + Akkusativ, e.g. jemanden am Arm fassen. Partizip I: fassend (fassen + d). ‘einen Entschluss fassen’ = يتخذ قرارًا. Example Arabic: أنا مش قادر أستوعب ده! Distinguish ‘zusammenfassend’ (باختصار) is from zusammenfassen, a separate verb. |
 
 ## How to read the table
 
