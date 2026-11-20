@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — treiben (#361), 2026-11-20
+
+- Learner submitted `Treiben`. Checked complete canonical verb and vocabulary entries: no standalone `treiben` registered.
+- Added **#361 treiben** = يمارس نشاطًا / يدفع أو يحرّك شيئًا / يتاجر حسب السياق. Präsens `ich treibe, du treibst, er/sie/es treibt`; Präteritum `trieb`, Perfekt **hat getrieben** in ordinary activity/transitive uses. Example `Ich treibe jeden Tag Sport.` = أنا بمارس رياضة كل يوم. Phrases `Sport treiben`, `Handel treiben`, `Was treibst du?`; some intransitive drifting senses can take `sein`.
+- Introduced only; no independent recall/mastery evidence. Canonical totals **361 verbs / 544 vocabulary**. Preserve paused/graded R10, unissued R11, earlier pending reviews and original answers; structured `progress.json` reconciliation outstanding.
+
+
 ## Vocabulary intake — wegen (V544), 2026-11-20
 
 - Learner submitted `Wegen`. Audited all canonical verb and vocabulary entries, no independently registered `wegen` lemma found.
