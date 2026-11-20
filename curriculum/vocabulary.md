@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**541 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**542 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -547,6 +547,7 @@
 | V539 | furchtbar (user correction of fruchbar) | Adjektiv/Adverb; furchtbarer; am furchtbarsten; colloquial intensifier | فظيع / سيئ جدًا / رهيب؛ أحيانًا جدًا للمبالغة | Das Wetter ist heute furchtbar. | الجو النهارده فظيع. | adjective_adverb | introduced |
 | V540 | der Reiseführer (user form: Reiseführer) | die Reiseführer; may mean travel guidebook or tour guide (male); female tour guide: die Reiseführerin | دليل سياحي (كتاب) / مرشد سياحي (شخص) حسب السياق | Ich habe einen Reiseführer für Berlin gekauft. | أنا اشتريت دليل سياحي عن برلين. | noun | introduced |
 | V541 | aufgeregt (user form: Aufgeregt) | Adjektiv; Partizip II of aufregen; usually describes nervousness or excitement | متوتر / قلقان / متحمس جدًا حسب السياق | Ich bin vor dem Vorstellungsgespräch aufgeregt. | أنا متوتر قبل مقابلة الشغل. | adjective_participle | introduced |
+| V542 | witzig (user form: Witzig) | Adjektiv; witziger; am witzigsten | مضحك / ظريف / دمه خفيف | Der Film war wirklich witzig. | الفيلم كان مضحك فعلًا. | adjective | introduced |
 
 ## Learning notes
 
