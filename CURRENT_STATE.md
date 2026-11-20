@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — krachen (#358), 2026-11-20
+
+- Learner supplied `Kracht` (initial capital, normalized to conjugated verb `kracht`). Audited full canonical verb and vocabulary registers: no independent `krachen` entry.
+- Added **#358 krachen**, meaning يحدث خبطة أو دوي قوي / يقع أو يصطدم بصوت عالٍ. Präsens `ich krache; du krachst; er/sie/es kracht`, Präteritum `krachte`, Perfekt `hat gekracht`. Example `Plötzlich hat es laut gekracht.` = فجأة حصل صوت دوي عالي. Related noun `der Krach` = دوشة أو ضوضاء / خناقة حسب السياق; `donnern` for thunder.
+- Introduced only, not independently tested/mastered. Canonical totals **358 verbs / 540 vocabulary**. R10 remains graded/paused and R11 unissued; retain prior learner answers and review work. Structured `progress.json` reconciliation outstanding.
+
+
 ## Verb intake — greifen (#357), 2026-11-20
 
 - Learner wrote `Greifende`. Interpreted as inflected present participle/adjective `greifende` from the verb `greifen` (although a specific phrase could alter the interpretation). Audited canonical verbs and vocabulary; no independent `greifen` entry existed.
