@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Reiseführer (V540), 2026-11-20
+
+- Learner submitted `Reiseführer`. Full canonical verb and vocabulary inventories audited: no standalone registered `Reiseführer`.
+- Added **V540 der Reiseführer**, plural **die Reiseführer** = دليل سياحي (كتاب) أو مرشد سياحي (شخص) حسب السياق; female tour guide **die Reiseführerin**. Example `Ich habe einen Reiseführer für Berlin gekauft.` = أنا اشتريت دليل سياحي عن برلين. Another example `Der Reiseführer zeigt uns die Stadt.` = المرشد السياحي بيورّينا المدينة.
+- Introduced only; no independent test/mastery. Canonical totals **356 verbs / 540 vocabulary**. R10 graded/paused, R11 unissued; original learner answers and pending practice retained; `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary confirmation — furchtbar (V539), 2026-11-20
 
 - Learner explicitly confirmed the intended correction of prior input `fruchbar` is **furchtbar**, *not* `fruchtbar`; ambiguity resolved.
