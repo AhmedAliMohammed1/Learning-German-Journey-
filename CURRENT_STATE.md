@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — entwerfen (#353), 2026-11-20
+
+- Learner provided `Entwerfen`. Audited complete canonical verb and vocabulary tables; no standalone `entwerfen` entry existed.
+- Registered **#353 entwerfen** = يصمّم / يحط مسودة أو مخطط مبدئي؛ strong inseparable `ent-` verb. Präsens `ich entwerfe; du entwirfst; er/sie/es entwirft`, Präteritum `entwarf`, Perfekt `hat entworfen` without ge-. Example `Ich entwerfe ein neues Design für die App.` = أنا بصمّم شكل جديد للتطبيق. Takes Akkusativ. Distinguish `entwickeln` = يطوّر.
+- Introduced only, no independent recall or mastery. Canonical totals **353 verbs / 526 vocabulary**. R10 graded/paused, R11 not yet issued; earlier pending work untouched; structured `progress.json` synchronization still outstanding.
+
+
 ## Vocabulary intake — mindestens (V526), 2026-11-20
 
 - Learner asked for English `at least` in German. Fully checked the canonical verb and vocabulary tables. Existing **V520 zumindest** covers the non-numerical sense; no standalone `mindestens` entry was found.
