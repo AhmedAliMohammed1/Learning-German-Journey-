@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb confirmation — fassen (#359), observed fassend, 2026-11-20
+
+- Learner clarified previously unclear `Fasend` as `fassend`; resolved to Partizip I of **fassen**. Full canonical verbs/vocabulary inventories checked; no `fassen` entry previously existed.
+- Added **#359 fassen** = يمسك أو يقبض / يستوعب أو يصدق / يتخذ قرارًا in `einen Entschluss fassen`. Präsens `ich fasse, du fasst, er/sie/es fasst`; Präteritum `fasste`, Perfekt `hat gefasst`, Partizip I `fassend`. Example `Ich kann das nicht fassen!` = أنا مش قادر أستوعب ده! `zusammenfassend` belongs to a different compound verb `zusammenfassen` and was not separately registered.
+- Introduced only, not independently tested/mastered. Canonical totals **359 verbs / 543 vocabulary**. Preserve graded/paused R10, unissued R11, all original practice answers and review queue; `progress.json` reconciliation remains outstanding.
+
+
 ## Vocabulary intake — der Unterschied (V543), 2026-11-20
 
 - Learner submitted `Unterschied`. Checked full canonical vocabulary and verb tables; no independent registered lemma was present.
