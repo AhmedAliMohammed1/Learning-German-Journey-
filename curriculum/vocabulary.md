@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**528 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**529 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -534,6 +534,7 @@
 | V526 | mindestens | Adverb; at least a minimum numerical quantity/amount; contrast zumindest V520 | على الأقل (للعدد / الكمية / المدة كحد أدنى) | Ich brauche mindestens zwei Stunden. | أنا محتاج ساعتين على الأقل. | adverb | introduced |
 | V527 | die Zeitschrift (user form: zeitschrift) | die Zeitschriften | مجلة / دورية (ورقية أو إلكترونية) | Ich lese jeden Monat eine Zeitschrift über Technik. | أنا بقرأ كل شهر مجلة عن التكنولوجيا. | noun | introduced |
 | V528 | das Kostüm | die Kostüme | زي تنكري / زي مسرحي؛ وأحيانًا طقم رسمي نسائي | Sie trägt ein Kostüm für die Karnevalsparty. | هي لابسة زي تنكري لحفلة الكرنفال. | noun | introduced |
+| V529 | das Gewitter | die Gewitter | عاصفة رعدية فيها رعد وبرق، وغالبًا مطر | Heute Abend gibt es ein Gewitter. | النهارده بالليل فيه عاصفة رعدية. | noun | introduced |
 
 ## Learning notes
 
