@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary contrast — am meisten / am wenigsten, 2026-11-20
+
+- Learner asked about `am meisten` and its opposite. Full canonical vocab and verb inventory audited before any additions. Existing **V325 viel** already covers `viel → mehr → am meisten`, so preserved as-is without duplicate. The opposite lemma `wenig` was not independently registered.
+- Added **V525 wenig** = قليل, comparison `weniger` = أقل and `am wenigsten` = الأقل / أقل حاجة, with natural German example `Am Wochenende arbeite ich am wenigsten.` = في الويك إند بشتغل أقل حاجة.
+- New entry introduced only, with no independent test/mastery. Canonical totals **352 verbs / 525 vocabulary**. R10 graded/paused and R11 not issued; older pending work preserved. Structured `progress.json` reconciliation remains outstanding.
+
+
 ## Vocabulary intake — überhaupt (V524), 2026-11-19
 
 - Learner submitted `Überhaupt`. Complete canonical verb and vocabulary tables checked; no independently registered `überhaupt` entry existed.
