@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**535 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**538 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -541,6 +541,9 @@
 | V533 | Südtirol (user form: südtirol) | Eigenname; Region im Norden Italiens; meist ohne Artikel | جنوب تيرول: منطقة في شمال إيطاليا | Südtirol liegt im Norden Italiens. | جنوب تيرول موجودة في شمال إيطاليا. | proper_name | introduced |
 | V534 | das Dach (user form: Dach) | die Dächer | السقف الخارجي للمبنى / سطح البيت | Das Haus hat ein rotes Dach. | البيت ليه سقف أحمر. | noun | introduced |
 | V535 | die Geschwindigkeit | die Geschwindigkeiten | السرعة | Du musst deine Geschwindigkeit reduzieren. | لازم تقلل سرعتك. | noun | introduced |
+| V536 | derselbe / dieselbe / dasselbe (user form: selben) | Demonstrativpronomen/Artikelwort; declined e.g. denselben Lehrer, im selben Haus | نفس الشخص أو الشيء بعينه | Wir wohnen im selben Haus. | إحنا ساكنين في نفس البيت. | pronoun_determiner | introduced |
+| V537 | das Pech | normalerweise kein Plural | سوء الحظ / النحس | Ich hatte gestern Pech. | كان حظي وحش امبارح. | noun | introduced |
+| V538 | grau | Adjektiv; grauer; am grau(e)sten | رمادي | Der Himmel ist heute grau. | السما النهارده رمادية. | adjective | introduced |
 
 ## Learning notes
 
