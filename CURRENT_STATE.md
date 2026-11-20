@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Geschwindigkeit (V535), 2026-11-20
+
+- Learner submitted `Geschwindigkeit`. Full canonical verb and vocabulary inventories audited; no independently registered `Geschwindigkeit` found.
+- Added **V535 die Geschwindigkeit**, plural **die Geschwindigkeiten** = السرعة. Example `Du musst deine Geschwindigkeit reduzieren.` = لازم تقلل سرعتك. Related contrast: `schnell` (سريع), `langsam` (بطيء), `die Geschwindigkeitsbegrenzung` (حد السرعة المسموح).
+- Introduced only, no independent learner recall/mastery. Totals **356 verbs / 535 vocabulary**. R10 paused/graded, R11 unissued; all prior pending exercises and original answers preserved. Structured `progress.json` remains pending reconciliation.
+
+
 ## Vocabulary intake — das Dach (V534), 2026-11-20
 
 - Learner submitted `Dach`. Audited both complete canonical verb and vocabulary tables; no standalone `Dach` entry existed.
