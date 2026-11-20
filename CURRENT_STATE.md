@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — mindestens (V526), 2026-11-20
+
+- Learner asked for English `at least` in German. Fully checked the canonical verb and vocabulary tables. Existing **V520 zumindest** covers the non-numerical sense; no standalone `mindestens` entry was found.
+- Registered **V526 mindestens** = على الأقل من حيث العدد/الكمية/المدة كحد أدنى. Example `Ich brauche mindestens zwei Stunden.` = أنا محتاج ساعتين على الأقل. Compared `zumindest` = على الأقل (في جانب معين أو كحل أدنى).
+- Introduced only, not independently tested/mastered. Canonical totals **352 verbs / 526 vocabulary**. R10 graded/paused; R11 not issued, older tasks and original answers preserved; `progress.json` structural sync remains outstanding.
+
+
 ## Vocabulary contrast — am meisten / am wenigsten, 2026-11-20
 
 - Learner asked about `am meisten` and its opposite. Full canonical vocab and verb inventory audited before any additions. Existing **V325 viel** already covers `viel → mehr → am meisten`, so preserved as-is without duplicate. The opposite lemma `wenig` was not independently registered.
