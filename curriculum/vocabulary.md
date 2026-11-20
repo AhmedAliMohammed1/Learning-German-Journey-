@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**543 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**544 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -549,6 +549,7 @@
 | V541 | aufgeregt (user form: Aufgeregt) | Adjektiv; Partizip II of aufregen; usually describes nervousness or excitement | متوتر / قلقان / متحمس جدًا حسب السياق | Ich bin vor dem Vorstellungsgespräch aufgeregt. | أنا متوتر قبل مقابلة الشغل. | adjective_participle | introduced |
 | V542 | witzig (user form: Witzig) | Adjektiv; witziger; am witzigsten | مضحك / ظريف / دمه خفيف | Der Film war wirklich witzig. | الفيلم كان مضحك فعلًا. | adjective | introduced |
 | V543 | der Unterschied | die Unterschiede; häufig: Unterschied zwischen + Dativ und + Dativ | الفرق / الاختلاف بين حاجتين | Was ist der Unterschied zwischen diesen beiden Wörtern? | إيه الفرق بين الكلمتين دول؟ | noun | introduced |
+| V544 | wegen (user form: Wegen) | Präposition; standard: + Genitiv, colloquial Dativ also common | بسبب / علشان | Wegen des Regens bleibe ich zu Hause. | بسبب المطر هفضل في البيت. | preposition | introduced |
 
 ## Learning notes
 
