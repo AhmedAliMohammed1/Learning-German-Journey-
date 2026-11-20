@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**526 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**527 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -532,6 +532,7 @@
 | V524 | überhaupt (user form: Überhaupt) | Adverb/Modalpartikel; häufig: überhaupt nicht, überhaupt kein, überhaupt ...? | أصلًا / عمومًا / خالص أو إطلاقًا مع النفي، حسب السياق | Ich habe überhaupt keine Zeit. | أنا معنديش أي وقت خالص. | adverb_particle | introduced |
 | V525 | wenig | weniger; am wenigsten (opposite of viel; mehr; am meisten) | قليل / أقل / الأقل؛ am wenigsten = أقل حاجة | Am Wochenende arbeite ich am wenigsten. | في الويك إند بشتغل أقل حاجة. | adverb_adjective | introduced |
 | V526 | mindestens | Adverb; at least a minimum numerical quantity/amount; contrast zumindest V520 | على الأقل (للعدد / الكمية / المدة كحد أدنى) | Ich brauche mindestens zwei Stunden. | أنا محتاج ساعتين على الأقل. | adverb | introduced |
+| V527 | die Zeitschrift (user form: zeitschrift) | die Zeitschriften | مجلة / دورية (ورقية أو إلكترونية) | Ich lese jeden Monat eine Zeitschrift über Technik. | أنا بقرأ كل شهر مجلة عن التكنولوجيا. | noun | introduced |
 
 ## Learning notes
 
