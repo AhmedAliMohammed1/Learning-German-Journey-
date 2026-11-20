@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Kostüm (V528), 2026-11-20
+
+- Learner submitted `Kostüm`. Full canonical verb and vocabulary inventories checked; no independent registered `Kostüm` entry.
+- Registered **V528 das Kostüm**, plural **die Kostüme**, = زي تنكري / زي مسرحي، وأحيانًا طقم رسمي نسائي حسب السياق. Example `Sie trägt ein Kostüm für die Karnevalsparty.` = هي لابسة زي تنكري لحفلة الكرنفال. Note `der Anzug` = بدلة رجالي typically, while `das Kostüm` can also denote a woman's jacket-and-skirt suit.
+- Introduced only, not independently tested/mastered. Canonical totals **353 verbs / 528 vocabulary**. Preserve paused R10, R11 not issued, previous raw answers and pending tasks. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary intake — die Zeitschrift (V527), 2026-11-20
 
 - Learner submitted `zeitschrift`, normalized capitalization to **die Zeitschrift**. Full canonical verb/vocabulary inventories audited: no standalone `Zeitschrift` entry existed.
