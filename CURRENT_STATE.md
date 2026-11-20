@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — quasi (V545), 2026-11-20
+
+- Learner heard the sound `اكفازي`, assistant suggested `quasi`, and learner explicitly instructed to register the proposed word. Full canonical verb/vocabulary inventories audited: no existing standalone `quasi` lemma.
+- Added **V545 quasi**, colloquial adverb = يعتبر / كأن / نوعًا ما / عمليًا حسب السياق. Example `Wir sind quasi fertig.` = إحنا نعتبر خلصنا / تقريبًا خلصنا. Compare `fast` = almost but not yet, and `ungefähr` = approximately, especially with numbers.
+- Introduced only, no independent recall/mastery evidence. Canonical totals **361 verbs / 545 vocabulary**. R10 graded/paused, R11 unissued; original learner answers and pending review queue preserved; structured `progress.json` synchronization remains outstanding.
+
+
 ## Verb intake — treiben (#361), 2026-11-20
 
 - Learner submitted `Treiben`. Checked complete canonical verb and vocabulary entries: no standalone `treiben` registered.
