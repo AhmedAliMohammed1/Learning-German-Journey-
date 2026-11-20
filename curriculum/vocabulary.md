@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**529 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**530 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -535,6 +535,7 @@
 | V527 | die Zeitschrift (user form: zeitschrift) | die Zeitschriften | مجلة / دورية (ورقية أو إلكترونية) | Ich lese jeden Monat eine Zeitschrift über Technik. | أنا بقرأ كل شهر مجلة عن التكنولوجيا. | noun | introduced |
 | V528 | das Kostüm | die Kostüme | زي تنكري / زي مسرحي؛ وأحيانًا طقم رسمي نسائي | Sie trägt ein Kostüm für die Karnevalsparty. | هي لابسة زي تنكري لحفلة الكرنفال. | noun | introduced |
 | V529 | das Gewitter | die Gewitter | عاصفة رعدية فيها رعد وبرق، وغالبًا مطر | Heute Abend gibt es ein Gewitter. | النهارده بالليل فيه عاصفة رعدية. | noun | introduced |
+| V530 | der Nebel (user form: nebel) | normalerweise kein Plural; selten: die Nebel | الضباب / الشبورة | Heute Morgen gibt es viel Nebel. | النهارده الصبح فيه شبورة كتير. | noun | introduced |
 
 ## Learning notes
 
