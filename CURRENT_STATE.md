@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — übertragen (#360), 2026-11-20
+
+- Learner submitted `Übertragen`. Audited full verb and vocabulary inventories; no standalone registered `übertragen` entry.
+- Registered **#360 übertragen** = ينقل بيانات/معلومات، يبث، ينقل حقوق أو مسؤولية، ينقل عدوى; strong verb, ordinary senses inseparable. Präsens `ich übertrage; du überträgst; er/sie/es überträgt`; Präteritum `übertrug`, Perfekt `hat übertragen`. Example `Ich übertrage die Daten auf meinen Computer.` = أنا بنقل البيانات إلى الكمبيوتر بتاعي. `jemandem eine Aufgabe übertragen`: recipient Dativ, object Akkusativ.
+- Introduced only, no independent recall/mastery. Canonical totals **360 verbs / 543 vocabulary**. Paused/graded R10, unissued R11, prior learner answers and review queue preserved. Structured `progress.json` reconciliation outstanding.
+
+
 ## Verb confirmation — fassen (#359), observed fassend, 2026-11-20
 
 - Learner clarified previously unclear `Fasend` as `fassend`; resolved to Partizip I of **fassen**. Full canonical verbs/vocabulary inventories checked; no `fassen` entry previously existed.
