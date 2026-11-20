@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — greifen (#357), 2026-11-20
+
+- Learner wrote `Greifende`. Interpreted as inflected present participle/adjective `greifende` from the verb `greifen` (although a specific phrase could alter the interpretation). Audited canonical verbs and vocabulary; no independent `greifen` entry existed.
+- Registered **#357 greifen** = يمسك / يقبض على شيء; Präsens `ich greife; du greifst; er greift`, Präteritum `griff`, Perfekt `hat gegriffen`. Example `Das Kind greift nach dem Ball.` = الطفل بيمد إيده يمسك الكورة. `greifend` is Partizip I; `greifende` is a declined form such as `die greifende Hand`. Distinguish `nach etwas greifen` + Dativ and `etwas greifen` + Akkusativ.
+- Introduced only, not independently tested/mastered. Canonical totals **357 verbs / 540 vocabulary**. R10 graded/paused, R11 unissued, prior practice and original answers preserved; `progress.json` reconciliation remains outstanding.
+
+
 ## Vocabulary intake — der Reiseführer (V540), 2026-11-20
 
 - Learner submitted `Reiseführer`. Full canonical verb and vocabulary inventories audited: no standalone registered `Reiseführer`.
