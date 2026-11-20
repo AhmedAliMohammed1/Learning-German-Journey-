@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — das Dach (V534), 2026-11-20
+
+- Learner submitted `Dach`. Audited both complete canonical verb and vocabulary tables; no standalone `Dach` entry existed.
+- Registered **V534 das Dach**, plural **die Dächer** = سقف البيت الخارجي / سطح المبنى. Example `Das Haus hat ein rotes Dach.` = البيت ليه سقف أحمر. Contrast `die Decke` = سقف الأوضة الداخلي / بطانية حسب السياق; common phrase `ein Dach über dem Kopf haben`.
+- Introduced only, not independently tested/mastered. Canonical totals **356 verbs / 534 vocabulary**. Preserve graded/paused R10, unissued R11, pending practice and learner's original answers. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Vocabulary intake — hart (V532), Südtirol (V533), 2026-11-20
 
 - Learner provided `hart` and `südtirol`. Audited complete canonical verbs/vocabulary entries; neither was registered.
