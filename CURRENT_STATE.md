@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — erleben (#355), 2026-11-20
+
+- Learner submitted `erleben`. Full canonical verbs and vocabulary tables audited; no existing independent lemma.
+- Added **#355 erleben** = يعيش تجربة أو يمرّ بموقف / يشهد حدث بنفسه. Präsens `ich erlebe; du erlebst; er/sie/es erlebt`; Präteritum `erlebte`; Perfekt `hat erlebt` (insep. `er-` no ge-); + Akkusativ. Example `Ich habe in Deutschland viel Neues erlebt.` = عشت تجارب جديدة كتير في ألمانيا. Contrast `leben` = يعيش / يكون حيًا and `erfahren` = يعرف معلومة أو يمرّ بتجربة حسب السياق.
+- Introduced only, no independent test or mastery evidence. Totals **355 verbs / 530 vocabulary**. Preserve paused graded R10, unissued R11, old answers, review queue. Structured `progress.json` synchronization remains outstanding.
+
+
 ## Verb intake — donnern (#354), 2026-11-20
 
 - Learner supplied `donnert`; normalized to infinitive **donnern**. Audited full canonical vocabulary and verb inventories; no standalone `donnern` entry.
