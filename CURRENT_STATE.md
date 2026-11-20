@@ -1,5 +1,15 @@
 # Current study state
 
+## Vocabulary intake — selben (V536), Pech (V537), grau (V538); fruchbar unresolved, 2026-11-20
+
+- Learner provided `fruchbar`, `selben`, `Pech`, `grau`. Audited entire canonical vocabulary and verb inventory; none of these exact independent entries was present.
+- `fruchbar` is a misspelling that could mean `fruchtbar` (خصب / مثمر) or `furchtbar` (فظيع). Clarification is pending; **neither was added as a presumed target**, preserving accuracy.
+- Registered **V536 derselbe / dieselbe / dasselbe**, learner form `selben` = نفس الشيء بعينه, declined, e.g. `Wir wohnen im selben Haus.` = إحنا ساكنين في نفس البيت. Contrast `der gleiche` = the same kind.
+- Registered **V537 das Pech**, no usual plural, = سوء الحظ, `Ich hatte gestern Pech.` = كان حظي وحش امبارح. Opposite `das Glück`.
+- Registered **V538 grau**, adjective, `grauer; am grau(e)sten`, = رمادي, `Der Himmel ist heute grau.` = السما النهارده رمادية.
+- Three new entries introduced only; no independent practice or mastery. Canonical totals **356 verbs / 538 vocabulary**. R10 graded/paused and R11 not issued; original learner answers and pending review retained; `progress.json` synchronization remains pending.
+
+
 ## Vocabulary intake — die Geschwindigkeit (V535), 2026-11-20
 
 - Learner submitted `Geschwindigkeit`. Full canonical verb and vocabulary inventories audited; no independently registered `Geschwindigkeit` found.
