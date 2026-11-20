@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**530 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**531 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -536,6 +536,7 @@
 | V528 | das Kostüm | die Kostüme | زي تنكري / زي مسرحي؛ وأحيانًا طقم رسمي نسائي | Sie trägt ein Kostüm für die Karnevalsparty. | هي لابسة زي تنكري لحفلة الكرنفال. | noun | introduced |
 | V529 | das Gewitter | die Gewitter | عاصفة رعدية فيها رعد وبرق، وغالبًا مطر | Heute Abend gibt es ein Gewitter. | النهارده بالليل فيه عاصفة رعدية. | noun | introduced |
 | V530 | der Nebel (user form: nebel) | normalerweise kein Plural; selten: die Nebel | الضباب / الشبورة | Heute Morgen gibt es viel Nebel. | النهارده الصبح فيه شبورة كتير. | noun | introduced |
+| V531 | davon | Pronominaladverb da(r)+von; refers to a thing/topic, not normally to a person | منه / منها / من ده / عن ده حسب الفعل والسياق | Ich habe fünf Bücher. Zwei davon sind auf Deutsch. | عندي خمس كتب، اتنين منهم بالألماني. | pronominal_adverb | introduced |
 
 ## Learning notes
 
