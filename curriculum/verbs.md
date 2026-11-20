@@ -1,4 +1,4 @@
-# Verb curriculum — 355 introduced verbs
+# Verb curriculum — 356 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -363,6 +363,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 353 | entwerfen (user form: Entwerfen) | يصمّم / يضع مسودة أو مخططًا مبدئيًا | ich entwerfe; du entwirfst; er/sie/es entwirft | hat entworfen | Ich entwerfe ein neues Design für die App. | introduced | Strong inseparable ent- verb; Präteritum entwarf; + Akkusativ. einen Plan/ein Konzept/ein Gebäude/einen Entwurf entwerfen = يصمّم أو يعد مسودة. Perfekt without ge-. Distinguish entwickeln = يطوّر وينفّذ، entwerfen = يصمّم الفكرة أو المخطط. |
 | 354 | donnern (user form: donnert) | يرعد / صوت الرعد يدوي | ich donnere; du donnerst; er/sie/es donnert | hat gedonnert | Es donnert draußen. | introduced | Regular verb; Präteritum donnerte; standard weather expression es donnert = فيه رعد. ‘donnert’ is 3rd-person singular present (and ihr-form). Example Arabic: فيه رعد برّه. Distinguish der Donner = الرعد (noun), das Gewitter = عاصفة رعدية. |
 | 355 | erleben (user form: erleben) | يعيش تجربة أو يمرّ بموقف / يشهد حدث بنفسه | ich erlebe; du erlebst; er/sie/es erlebt | hat erlebt | Ich habe in Deutschland viel Neues erlebt. | introduced | Regular inseparable er- verb; Präteritum erlebte, Perfekt hat erlebt (no ge-); takes Akkusativ. Example Arabic: أنا عشت تجارب جديدة كتير في ألمانيا. Contrast erleben = experience first-hand vs leben = live / be alive; erfahren = find out or learn something, sometimes experience. |
+| 356 | sammeln (user form: sammle) | يجمع / يجمّع معلومات أو حاجات / يكتسب خبرة | ich sammle; du sammelst; er/sie/es sammelt | hat gesammelt | Ich sammle Erfahrungen bei der Arbeit. | introduced | Regular verb; Präteritum sammelte, Perfekt hat gesammelt; + Akkusativ. Example Arabic: أنا بكتسب خبرات في الشغل. sammle = 1st person singular Präsens (also imperative singular). Contrast einsammeln = يلمّ أو يجمع أشياء من أماكن/أشخاص. |
 
 ## How to read the table
 
