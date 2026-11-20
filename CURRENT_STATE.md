@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Nebel (V530), 2026-11-20
+
+- Learner submitted `nebel`, normalized capitalization to **der Nebel**. Full canonical verb and vocabulary table check found no existing standalone `Nebel` entry.
+- Registered **V530 der Nebel** = الضباب / الشبورة, generally uncountable with no usual plural (rare plural `die Nebel`). Example `Heute Morgen gibt es viel Nebel.` = النهارده الصبح فيه شبورة كتير. Common phrases: `Es ist neblig` = الجو فيه شبورة; `dichter Nebel` = ضباب كثيف.
+- Introduced only, no independent test/mastery. Canonical totals **353 verbs / 530 vocabulary**. Preserve paused/graded R10, unissued R11 and pending work; structured `progress.json` reconciliation remains outstanding.
+
+
 ## Vocabulary intake — das Gewitter (V529), 2026-11-20
 
 - Learner submitted `Gewitter`. Canonical verb and vocabulary tables checked: no previously registered `Gewitter` entry.
