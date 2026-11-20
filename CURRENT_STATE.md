@@ -1,5 +1,13 @@
 # Current study state
 
+## Vocabulary intake — hart (V532), Südtirol (V533), 2026-11-20
+
+- Learner provided `hart` and `südtirol`. Audited complete canonical verbs/vocabulary entries; neither was registered.
+- Added **V532 hart** = صلب/قاسي/شديد حسب السياق, `härter`, `am härtesten`; example `Ich habe hart für die Prüfung gelernt.` = أنا ذاكرت بجد وبمجهود كبير للامتحان.
+- Added **V533 Südtirol** (proper name, normalized capitalization) = جنوب تيرول, region in northern Italy; example `Südtirol liegt im Norden Italiens.` = جنوب تيرول موجودة في شمال إيطاليا; location `in Südtirol`, direction `nach Südtirol`.
+- Introduced only, no independent recall/mastery. Canonical totals **356 verbs / 533 vocabulary**. R10 graded/paused, R11 unissued; past learner answers and review tasks preserved; `progress.json` structural synchronization remains outstanding.
+
+
 ## Vocabulary and verb intake — davon (V531), sammeln (#356), 2026-11-20
 
 - Learner supplied `davon` and `sammle`. Audited complete canonical inventories: neither `davon` nor infinitive `sammeln` registered independently.
