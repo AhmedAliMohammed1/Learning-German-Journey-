@@ -1,4 +1,4 @@
-# Verb curriculum — 356 introduced verbs
+# Verb curriculum — 357 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -364,6 +364,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 354 | donnern (user form: donnert) | يرعد / صوت الرعد يدوي | ich donnere; du donnerst; er/sie/es donnert | hat gedonnert | Es donnert draußen. | introduced | Regular verb; Präteritum donnerte; standard weather expression es donnert = فيه رعد. ‘donnert’ is 3rd-person singular present (and ihr-form). Example Arabic: فيه رعد برّه. Distinguish der Donner = الرعد (noun), das Gewitter = عاصفة رعدية. |
 | 355 | erleben (user form: erleben) | يعيش تجربة أو يمرّ بموقف / يشهد حدث بنفسه | ich erlebe; du erlebst; er/sie/es erlebt | hat erlebt | Ich habe in Deutschland viel Neues erlebt. | introduced | Regular inseparable er- verb; Präteritum erlebte, Perfekt hat erlebt (no ge-); takes Akkusativ. Example Arabic: أنا عشت تجارب جديدة كتير في ألمانيا. Contrast erleben = experience first-hand vs leben = live / be alive; erfahren = find out or learn something, sometimes experience. |
 | 356 | sammeln (user form: sammle) | يجمع / يجمّع معلومات أو حاجات / يكتسب خبرة | ich sammle; du sammelst; er/sie/es sammelt | hat gesammelt | Ich sammle Erfahrungen bei der Arbeit. | introduced | Regular verb; Präteritum sammelte, Perfekt hat gesammelt; + Akkusativ. Example Arabic: أنا بكتسب خبرات في الشغل. sammle = 1st person singular Präsens (also imperative singular). Contrast einsammeln = يلمّ أو يجمع أشياء من أماكن/أشخاص. |
+| 357 | greifen (user form: Greifende; Partizip I greifend + adjective ending -e) | يمسك / يقبض على شيء / يمد إيده علشان يمسك حاجة | ich greife; du greifst; er/sie/es greift | hat gegriffen | Das Kind greift nach dem Ball. | introduced | Strong verb, Präteritum griff, Perfekt hat gegriffen. greifen nach + Dativ = يمد إيده علشان يمسك؛ etwas greifen + Akk = يمسك حاجة؛ Partizip I greifend becomes greifende before a noun, e.g. die greifende Hand. Depending on context, Greifende capitalized could also be a nominalized adjective/participle. |
 
 ## How to read the table
 
