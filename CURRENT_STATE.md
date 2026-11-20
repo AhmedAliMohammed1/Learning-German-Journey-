@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary confirmation — furchtbar (V539), 2026-11-20
+
+- Learner explicitly confirmed the intended correction of prior input `fruchbar` is **furchtbar**, *not* `fruchtbar`; ambiguity resolved.
+- Audited canonical vocabulary and verb entries before addition; no existing standalone `furchtbar` lemma. Registered **V539 furchtbar** (adjective/adverb), comparative `furchtbarer`, superlative `am furchtbarsten`, meaning فظيع / سيئ جدًا / رهيب. Example `Das Wetter ist heute furchtbar.` = الجو النهارده فظيع. Also `furchtbar müde` can mean تعبان جدًا colloquially.
+- Introduced only; no independent recall/mastery evidence. Canonical totals **356 verbs / 539 vocabulary**. R10 graded/paused, R11 unissued, original answers and review queue preserved. Structured `progress.json` still awaiting synchronization.
+
+
 ## Vocabulary intake — selben (V536), Pech (V537), grau (V538); fruchbar unresolved, 2026-11-20
 
 - Learner provided `fruchbar`, `selben`, `Pech`, `grau`. Audited entire canonical vocabulary and verb inventory; none of these exact independent entries was present.
