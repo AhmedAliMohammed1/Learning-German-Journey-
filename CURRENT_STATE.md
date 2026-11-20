@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Zeitschrift (V527), 2026-11-20
+
+- Learner submitted `zeitschrift`, normalized capitalization to **die Zeitschrift**. Full canonical verb/vocabulary inventories audited: no standalone `Zeitschrift` entry existed.
+- Added **V527 die Zeitschrift**, plural **die Zeitschriften** = مجلة / دورية ورقية أو إلكترونية. Example `Ich lese jeden Monat eine Zeitschrift über Technik.` = أنا بقرأ كل شهر مجلة عن التكنولوجيا. Contrast `die Zeitung` (newspaper) and `das Magazin` (near synonym, not added independently).
+- Introduced only; no independent recall or mastery evidence. Canonical totals **353 verbs / 527 vocabulary**. R10 remains graded/paused; R11 unissued, earlier pending tasks and raw answers preserved. Structured `progress.json` reconciliation remains outstanding.
+
+
 ## Verb intake — entwerfen (#353), 2026-11-20
 
 - Learner provided `Entwerfen`. Audited complete canonical verb and vocabulary tables; no standalone `entwerfen` entry existed.
