@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — stolz (V578) and beschränkt (V579), 2026-11-22
+
+- Learner submitted `Stolz` and `Beschränkt aus`. Audited the full canonical vocabulary and verb inventories: no standalone `stolz`, `beschränkt`, or `beschränken` entry. The likely intended restriction construction is `beschränkt auf + Akkusativ`, not `beschränkt aus`; preserve original learner wording.
+- Added **V578 stolz**, adjective = فخور / معتز; `stolz auf + Akkusativ`. Example `Ich bin stolz auf dich.` = أنا فخور بيك.
+- Added **V579 beschränkt**, adjective/participle = محدود / مقيّد / مقتصر على; `beschränkt auf + Akkusativ`. Example `Das Angebot ist auf Studierende beschränkt.` = العرض مقتصر على الطلاب. Related verb `beschränken` explained but not registered as a standalone learned verb; using `beschränkt` for a person can be insulting.
+- Both introduced only, no independent mastery evidence. Canonical totals **366 verbs / 579 vocabulary**. R10 graded/paused, R11 unissued, pending review and learner answers preserved. Structured `progress.json` reconciliation still pending.
+
 ## Vocabulary intake — fidel (V576) and quietschfidel (V577), 2026-11-22
 
 - Learner submitted `Fidel` and `Quietschfidel`. Checked entire canonical vocabulary and verb inventories, neither standalone word present. Meanings also verified against Duden.
