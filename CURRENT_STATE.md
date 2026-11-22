@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — bekämpfen (#370), learner form Bekämpft, 2026-11-22
+
+- Learner submitted `Bekämpft`. Audited complete canonical verb and vocabulary inventories: no previously registered `bekämpfen` or `bekämpft` lemma.
+- Registered **#370 bekämpfen** = يكافح / يحارب / يقاوم شيئًا مباشرة؛ Präsens `ich bekämpfe; du bekämpfst; er/sie/es bekämpft`; Präteritum `bekämpfte`; Perfekt **hat bekämpft**. Inseparable be- verb, takes Akkusativ; contrast `kämpfen gegen + Akkusativ`. Example `Die Feuerwehr bekämpft das Feuer.` = المطافي بتحارب الحريق.
+- Introduced only, no independent recall/mastery. Canonical totals **370 verbs / 582 vocabulary**. R10 graded/paused, R11 unissued; deferred work and learner answer history preserved. `progress.json` still pending reconciliation.
+
 ## Verb intake — überwinden (#369), 2026-11-22
 
 - Learner submitted `Überwinden`. Audited full canonical verb and vocabulary inventories: no previously registered standalone `überwinden`.
