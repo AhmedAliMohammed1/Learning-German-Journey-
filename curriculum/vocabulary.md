@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**570 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**571 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -576,6 +576,7 @@
 | V568 | Bielefeld (user form: bielefeld) | Eigenname; Stadt in Nordrhein-Westfalen; normalerweise ohne Artikel; nach Bielefeld / in Bielefeld | بيليفيلد، مدينة ألمانية في ولاية شمال الراين-وستفاليا | Morgen fahre ich nach Bielefeld. | بكرة هسافر لبيليفيلد. | proper name / place | introduced |
 | V569 | der Fallschirm | die Fallschirme; mit einem Fallschirm; Fallschirmspringen = القفز بالمظلات | باراشوت / مظلة قفز | Ich springe mit einem Fallschirm aus dem Flugzeug. | أنا بقفز من الطيارة بباراشوت. | noun | introduced |
 | V570 | der Hintergrund (user form: Huntergrund) | die Hintergründe; im Hintergrund; beruflicher Hintergrund | الخلفية / خلفية الموضوع / الظروف أو الأسباب وراء شيء | Im Hintergrund sieht man die Berge. | في الخلفية تقدر تشوف الجبال. | noun | introduced |
+| V571 | zufällig | Adjektiv/Adverb; zufälliger; am zufälligsten (selten); related noun der Zufall V565 | بالصدفة / عشوائي / غير مقصود | Ich habe ihn zufällig getroffen. | أنا قابلته بالصدفة. | adjective / adverb | introduced |
 
 ## Learning notes
 
