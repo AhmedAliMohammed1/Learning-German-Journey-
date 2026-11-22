@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary review — Schilder / Zettel, 2026-11-22
+
+- Learner submitted `Schilder` and `Zettel`. Audited both canonical inventories. `das Schild`, plural `die Schilder`, already registered **V507**, so not duplicated.
+- Introduced **V548 der Zettel**, plural `die Zettel` = قصاصة ورق / ورقة صغيرة فيها ملاحظة. Example `Schreib das bitte auf einen Zettel.` = اكتب ده على ورقة من فضلك. Related `der Einkaufszettel`, `der Notizzettel`; contrast `das Schild` = لافتة.
+- New word marked introduced only, not mastered/tested. Totals **362 verbs / 548 vocabulary**. R10 graded/paused, R11 unissued; pending reviews and past answers preserved; structured `progress.json` reconciliation remains pending.
+
+
 ## Grammar review and livelihood phrase — denn, sichern (#362), der Lebensunterhalt (V547), 2026-11-22
 
 - Learner requested an explanation of `denn` and how to say “while finishing my master's, I had to work to secure my living expenses.” Audited canonical inventories: `denn` already registered as **V229** (causal coordinating conjunction and modal particle); `glauben` already registered as **#25**. No duplicate entries created.
