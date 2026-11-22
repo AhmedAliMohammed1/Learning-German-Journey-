@@ -1,5 +1,13 @@
 # Current study state
 
+## Grammar review and livelihood phrase — denn, sichern (#362), der Lebensunterhalt (V547), 2026-11-22
+
+- Learner requested an explanation of `denn` and how to say “while finishing my master's, I had to work to secure my living expenses.” Audited canonical inventories: `denn` already registered as **V229** (causal coordinating conjunction and modal particle); `glauben` already registered as **#25**. No duplicate entries created.
+- Introduced **#362 sichern** = يؤمّن / يضمن; Perfekt `hat gesichert`, Präteritum `sicherte`. Introduced **V547 der Lebensunterhalt** = مصاريف المعيشة, common phrase `seinen Lebensunterhalt sichern`.
+- Natural example: `Während ich meinen Master abgeschlossen habe, musste ich arbeiten, um meinen Lebensunterhalt zu sichern.` Alternatively for ongoing studies `Während meines Masterstudiums musste ich arbeiten, um meinen Lebensunterhalt zu finanzieren.` Distinguish `glauben` = يؤمن بمعنى يعتقد vs `sichern` = يؤمّن اقتصاديًا. `denn` as conjunction uses V2 in clause; `weil` ends its clause with the finite verb; `denn` in questions is a modal particle.
+- Introduced only; no independent recall/mastery claim. Canonical totals **362 verbs / 547 vocabulary**. R10 graded/paused, R11 unissued; original responses and review queue retained. Structured `progress.json` reconciliation outstanding.
+
+
 ## Vocabulary intake — die Sache (V546), learner form Sachen, 2026-11-20
 
 - Learner submitted `Sachen` (plural of `die Sache`). Canonical verb and vocabulary tables reviewed; no independent canonical lemma `die Sache` / `Sachen` was registered.
