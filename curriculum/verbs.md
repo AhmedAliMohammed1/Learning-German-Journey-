@@ -1,4 +1,4 @@
-# Verb curriculum — 361 introduced verbs
+# Verb curriculum — 362 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -369,6 +369,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 359 | fassen (user form: fassend; Partizip I) | يمسك أو يقبض على شيء / يستوعب أو يصدق / يتخذ قرارًا في تعبير ثابت | ich fasse; du fasst; er/sie/es fasst | hat gefasst | Ich kann das nicht fassen! | introduced | Regular verb; Präteritum fasste, Perfekt hat gefasst; transitive + Akkusativ, e.g. jemanden am Arm fassen. Partizip I: fassend (fassen + d). ‘einen Entschluss fassen’ = يتخذ قرارًا. Example Arabic: أنا مش قادر أستوعب ده! Distinguish ‘zusammenfassend’ (باختصار) is from zusammenfassen, a separate verb. |
 | 360 | übertragen (user form: Übertragen) | ينقل بيانات/معلومات أو حقوقًا أو مسؤولية؛ يبث؛ ينقل عدوى | ich übertrage; du überträgst; er/sie/es überträgt | hat übertragen | Ich übertrage die Daten auf meinen Computer. | introduced | Strong inseparable verb (main senses), Präteritum übertrug, Perfekt hat übertragen (no ge-). überträgt = stem vowel change a→ä; transitive + Akkusativ. eine Aufgabe jemandem übertragen = يكلّف شخصًا بمهمة (+ Dativ recipient). live übertragen = يبث مباشرًا. Example Arabic: أنا بنقل البيانات إلى الكمبيوتر بتاعي. |
 | 361 | treiben (user form: Treiben) | يمارس نشاطًا / يدفع أو يحرّك شيئًا / يتاجر بحسب السياق | ich treibe; du treibst; er/sie/es treibt | hat getrieben | Ich treibe jeden Tag Sport. | introduced | Strong verb; Präteritum trieb; standard Perfekt hat getrieben in transitive and activity uses; + Akkusativ e.g. Sport treiben, Handel treiben, etwas treiben. In some intransitive drift/movement senses, sein may be used. Was treibst du? = إنت بتعمل إيه؟ Example Arabic: أنا بمارس رياضة كل يوم. |
+| 362 | sichern | يؤمّن / يضمن / يحافظ على شيء؛ يؤمّن متطلبات المعيشة | ich sichere; du sicherst; er/sie/es sichert | hat gesichert | Ich musste arbeiten, um meinen Lebensunterhalt zu sichern. | introduced | Regular verb, Präteritum sicherte; transitive + Akkusativ; seinen Lebensunterhalt sichern = يؤمّن تكاليف معيشته. Distinguish glauben = يؤمن بفكرة; finanzieren = يموّل، absichern = يحمي من مخاطر. Example Arabic: كان لازم أشتغل علشان أؤمّن مصاريف معيشتي. |
 
 ## How to read the table
 
