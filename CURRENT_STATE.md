@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Quatsch (V572), 2026-11-22
+
+- Learner submitted `Quatsch`. Checked complete canonical vocabulary and verb inventories: no previous standalone entry.
+- Added **V572 der Quatsch**, colloquial noun, usually uncountable without plural, meaning كلام فارغ / هبل / كلام مالوش معنى. Example `Das ist doch Quatsch!` = ده كلام فارغ خالص! Related phrases `Quatsch machen`, `Quatsch erzählen`, and `Ach, Quatsch!` explained.
+- Introduced only, no independent recall/mastery. Canonical totals **366 verbs / 572 vocabulary**. R10 graded/paused and R11 unissued; previous exercises and original answers preserved. `progress.json` sync remains outstanding.
+
 ## Vocabulary intake — zufällig (V571), 2026-11-22
 
 - Learner supplied `Zufällig`. Complete canonical verb and vocabulary inventories audited: `zufällig` was only mentioned in reference notes for existing noun **V565 der Zufall**, not independently registered.
