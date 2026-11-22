@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**563 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**566 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -569,6 +569,9 @@
 | V561 | zufrieden | Adjektiv; zufriedener; am zufriedensten; zufrieden sein mit + Dativ; Gegenteil unzufrieden | راضي / قانع / مبسوط من حاجة | Ich bin mit meiner Arbeit zufrieden. | أنا راضي عن شغلي. | adjective | introduced |
 | V562 | froh (user form: frohe) | Adjektiv; froher; am frohesten; frohe Weihnachten / frohe Ostern; froh über + Akkusativ | سعيد / فرحان / مرتاح بسبب شيء | Ich bin froh, dass ich die Prüfung bestanden habe. | أنا سعيد إني نجحت في الامتحان. | adjective | introduced |
 | V563 | die Integration | meist Singular; Integration in + Akkusativ; related verb sich integrieren | الاندماج / الاندماج في المجتمع أو سوق العمل | Die Integration in den Arbeitsmarkt ist wichtig. | الاندماج في سوق العمل مهم. | noun | introduced |
+| V564 | ums | Kurzform von um das; Präposition um + Akkusativ; z. B. ums Essen | اختصار عن um das / بخصوص أو حول حاجة | Ich kümmere mich ums Essen. | أنا بهتم بموضوع الأكل. | contraction / expression | introduced |
+| V565 | der Zufall | die Zufälle; durch Zufall = بالصدفة; zufällig = صدفةً | الصدفة / حدوث شيء من غير تخطيط | Das war nur ein Zufall. | دي كانت مجرد صدفة. | noun | introduced |
+| V566 | die Tatsache | die Tatsachen; tatsächlich = فعلًا أو في الحقيقة | حقيقة / واقع ثابت | Das ist eine Tatsache. | دي حقيقة. | noun | introduced |
 
 ## Learning notes
 
