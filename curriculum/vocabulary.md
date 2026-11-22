@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**550 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**551 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -556,6 +556,7 @@
 | V548 | der Zettel (user form: Zettel) | die Zettel; compounds: der Einkaufszettel, der Notizzettel | ورقة صغيرة / ورقة ملاحظات / قصاصة ورق | Schreib das bitte auf einen Zettel. | اكتب ده على ورقة من فضلك. | noun | introduced |
 | V549 | die Inventur | die Inventuren; Inventur machen = جرد المخزون | جرد البضاعة / عملية عدّ ومراجعة المخزون | Wir machen heute Inventur. | إحنا بنعمل جرد النهارده. | noun | introduced |
 | V550 | die Hochzeit | die Hochzeiten; auf einer Hochzeit sein; Hochzeit feiern | فرح / حفل الزفاف | Ich bin morgen auf einer Hochzeit. | أنا رايح فرح بكرة. | noun | introduced |
+| V551 | zuletzt | Adverb; last time / last, finally in sequence; contrast letztens and endlich | آخر مرة / آخر شيء / في النهاية حسب السياق | Wann warst du zuletzt in Ägypten? | إمتى كانت آخر مرة كنت في مصر؟ | adverb | introduced |
 
 ## Learning notes
 
