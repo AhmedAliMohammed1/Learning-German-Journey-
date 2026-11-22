@@ -1,5 +1,14 @@
 # Current study state
 
+## Vocabulary and verb intake — ums, Zufall, Tatsache, befürchten, 2026-11-22
+
+- Learner submitted six forms: `bloß`, `ums`, `zufall`, `tatsache`, `befürchtet`, `sonst`. Audited full canonical inventories before writing. Existing: **V493 bloß** and **V491 sonst**, not duplicated.
+- Added **V564 ums**, contraction of `um das` (preposition `um` + Akkusativ), example `Ich kümmere mich ums Essen.` = أنا بهتم بموضوع الأكل.
+- Added **V565 der Zufall**, plural `die Zufälle` = الصدفة; example `Das war nur ein Zufall.` = دي كانت مجرد صدفة.
+- Added **V566 die Tatsache**, plural `die Tatsachen` = الحقيقة / الأمر الواقع; example `Das ist eine Tatsache.` = دي حقيقة.
+- Added **#365 befürchten** (learner form `befürchtet`) = يخشى / يتوقع أمرًا سيئًا, Präsens `ich befürchte, du befürchtest, er/sie/es befürchtet`; Perfekt `hat befürchtet`. Example `Ich befürchte, dass ich die Prüfung nicht bestehe.` = أنا خايف إني ما أنجحش في الامتحان.
+- All four entries introduced only, no mastery inference. Canonical totals **365 verbs / 566 vocabulary**. R10 graded/paused, R11 unissued, prior pending work and raw learner answers preserved. Structured progress.json remains outdated, reconciliation pending.
+
 ## Vocabulary intake — die Integration (V563), 2026-11-22
 
 - Learner asked for Arabic `الاندماج` in German. Audited all canonical vocabulary and verbs: neither `Integration` nor `integrieren` registered. Recorded requested noun **V563 die Integration** = الاندماج, usually singular; construction `Integration in + Akkusativ`. Related reflexive verb `sich integrieren` explained but not separately registered as a learned verb.
