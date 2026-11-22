@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — überwinden (#369), 2026-11-22
+
+- Learner submitted `Überwinden`. Audited full canonical verb and vocabulary inventories: no previously registered standalone `überwinden`.
+- Added **#369 überwinden** = يتغلب على خوف أو صعوبة / يتجاوز عقبة. Präsens `ich überwinde; du überwindest; er/sie/es überwindet`; Präteritum `überwand`; Perfekt `hat überwunden`. Strong inseparable verb; Akkusativ object; reflexive `sich überwinden` = يشجع نفسه على عمل شيء صعب. Example `Ich möchte meine Angst überwinden.` = أنا عايز أتغلب على خوفي.
+- Introduced only, no independent mastery evidence. Canonical totals **369 verbs / 582 vocabulary**. R10 graded/paused, R11 unissued, pending work and learner answers preserved. Structured `progress.json` reconciliation still outstanding.
+
 ## Vocabulary intake — mutig (V582), 2026-11-22
 
 - Learner submitted `Mutig`; canonical form `mutig`. Audited full verb and vocabulary inventories: no standalone `mutig` entry.
