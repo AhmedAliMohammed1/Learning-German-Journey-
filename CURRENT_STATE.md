@@ -1,5 +1,15 @@
 # Current study state
 
+## Vocabulary intake — holidays and housewarming (V554–V558), 2026-11-22
+
+- Learner supplied `Weihnachten`, `Ostern`, `Silvester`, `Neujahr`, and `Einweihungsparty`. Checked the complete canonical `curriculum/vocabulary.md` and `curriculum/verbs.md`: none was independently registered; no duplicate lemma created.
+- Added **V554 Weihnachten** = عيد الميلاد / الكريسماس; example `Ich feiere Weihnachten mit meiner Familie.` = بحتفل بالكريسماس مع عيلتي.
+- Added **V555 Ostern** = عيد الفصح / عيد القيامة; example `An Ostern haben wir frei.` = عندنا إجازة في عيد الفصح.
+- Added **V556 Silvester** = ليلة رأس السنة / 31 ديسمبر; example `An Silvester feiern wir zusammen.` = بنحتفل مع بعض ليلة رأس السنة.
+- Added **V557 Neujahr** = أول يوم في السنة الجديدة / 1 يناير; example `An Neujahr besuche ich meine Freunde.` = بزور أصحابي أول يوم في السنة الجديدة.
+- Added **V558 die Einweihungsparty**, plural `die Einweihungspartys` = حفلة افتتاح بيت أو شقة جديدة; example `Ich lade dich zu meiner Einweihungsparty ein.` = بدعوك لحفلة البيت الجديد.
+- Introduced only, not independently recalled or mastered. Canonical totals **363 verbs / 558 vocabulary entries**. Latest R10 graded/paused and R11 not issued; previous answers, deferred tasks and review evidence unchanged. Structured `progress.json` remains unreconciled.
+
 ## Vocabulary intake — traumhaft (V553), 2026-11-22
 
 - Learner submitted `traumhaft`. Full canonical verb and vocabulary tables checked; no previous standalone registration.
