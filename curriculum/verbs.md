@@ -1,4 +1,4 @@
-# Verb curriculum — 365 introduced verbs
+# Verb curriculum — 366 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -373,6 +373,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 363 | anhaben | يكون لابس حاجة بالفعل / يرتدي حاليًا | ich habe ... an; du hast ... an; er/sie/es hat ... an | hat angehabt | Ich habe heute eine schwarze Jacke an. | introduced | Separable verb; present habe/hast/hat ... an, Präteritum hatte ... an, Perfekt hat angehabt. Common question Was hast du an? = إنت لابس إيه؟ Distinguish anziehen = فعل ارتداء اللبس; tragen = يرتدي/يحمل. Example Arabic: أنا لابس جاكيت أسود النهارده. |
 | 364 | sich entspannen (user form: entspannen) | يسترخي / يريّح أعصابه؛ entspannen + Akk = يخفف توتر شخص | ich entspanne mich; du entspannst dich; er/sie/es entspannt sich | hat sich entspannt | Ich entspanne mich nach der Arbeit. | introduced | Regular verb; usual everyday use reflexive sich entspannen (mich/dich/sich/uns/euch/sich); Perfekt hat sich entspannt. Non-reflexive jemanden entspannen = يجعل شخصًا يسترخي, Akkusativ. Example Arabic: أنا باسترخي بعد الشغل. |
 | 365 | befürchten (user form: befürchtet) | يخشى / يتوقع حصول حاجة سيئة أو غير مرغوبة | ich befürchte; du befürchtest; er/sie/es befürchtet | hat befürchtet | Ich befürchte, dass ich die Prüfung nicht bestehe. | introduced | Regular inseparable verb with be-: Perfekt hat befürchtet (no ge-). Takes Akkusativ object or dass-clause. Example Arabic: أنا خايف إني ما أنجحش في الامتحان. |
+| 366 | springen | يقفز / ينط | ich springe; du springst; er/sie/es springt | ist gesprungen | Ich springe ins Wasser. | introduced | Strong verb: Präteritum sprang, Perfekt ist gesprungen in ordinary jumping/movement use. ins Wasser springen = ينط في الميه. Example Arabic: أنا بنط في الميه. |
 
 ## How to read the table
 
