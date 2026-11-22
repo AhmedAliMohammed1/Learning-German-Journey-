@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — zufrieden (V561), 2026-11-22
+
+- Learner submitted `zufrieden`. Full canonical verb and vocabulary tables audited; no previous standalone registration.
+- Added **V561 zufrieden**, adjective = راضي / قانع / مبسوط من حاجة; comparative `zufriedener`, superlative `am zufriedensten`. Construction `zufrieden sein mit + Dativ`, antonym `unzufrieden` (explained, not separately registered).
+- Example `Ich bin mit meiner Arbeit zufrieden.` = أنا راضي عن شغلي. Distinguished from `glücklich` (happy).
+- Introduced only, no independent recall/mastery. Canonical totals **364 verbs / 561 vocabulary**. R10 paused/graded, R11 unissued; previous pending exercises and answers preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Verb intake — sich entspannen (#364), learner form entspannen, 2026-11-22
 
 - Learner submitted `entspannen`. Full canonical verb and vocabulary tables audited: no previous entry. Registered **#364 sich entspannen** = يسترخي / يريّح أعصابه (common reflexive use); Präsens `ich entspanne mich, du entspannst dich, er/sie/es entspannt sich`; Perfekt `hat sich entspannt`. Non-reflexive `jemanden entspannen` + Akkusativ means to relax someone.
