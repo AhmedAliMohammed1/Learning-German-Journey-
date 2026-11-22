@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — wiederherstellen (#368), learner form Wiederhergestellt, 2026-11-22
+
+- Learner submitted `Wiederhergestellt` (Partizip II). Full canonical verb and vocabulary inventories audited: no independent `wiederherstellen` entry.
+- Added **#368 wiederherstellen** = يستعيد / يرجّع الشيء لحالته الأصلية, separable: `ich stelle ... wieder her; du stellst ... wieder her; er/sie/es stellt ... wieder her`; Präteritum `stellte ... wieder her`; Perfekt **hat wiederhergestellt**. Example `Ich habe die gelöschten Dateien wiederhergestellt.` = أنا استرجعت الملفات المحذوفة.
+- Introduced only, no independent mastery evidence. Canonical totals **368 verbs / 581 vocabulary**. R10 graded/paused, R11 unissued, prior pending work and original learner answers preserved. Structured progress.json reconciliation still pending.
+
 ## Vocabulary intake — erschöpft (V581), 2026-11-22
 
 - Learner submitted `Erschöpft`. Checked the entire canonical vocabulary and verb registers; no independent `erschöpft` or `erschöpfen` entry.
