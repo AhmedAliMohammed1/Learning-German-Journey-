@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — typisch (V573), learner form Typische, 2026-11-22
+
+- Learner submitted `Typische`; normalized to adjective `typisch`. Audited the complete canonical verb and vocabulary inventories; no prior standalone `typisch` lemma.
+- Added **V573 typisch** = نموذجي / معتاد / شائع أو مميز لحاجة; adjective forms `typische, typischer, typisches`, expression `typisch für + Akkusativ`. Example `Das ist ein typischer Fehler.` = ده خطأ شائع.
+- Introduced only, not independently mastered. Canonical totals **366 verbs / 573 vocabulary**. R10 graded/paused, R11 unissued, earlier pending work preserved. Structured `progress.json` reconciliation remains outstanding.
+
 ## Vocabulary intake — der Quatsch (V572), 2026-11-22
 
 - Learner submitted `Quatsch`. Checked complete canonical vocabulary and verb inventories: no previous standalone entry.
