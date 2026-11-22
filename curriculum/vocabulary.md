@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**558 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**559 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -564,6 +564,7 @@
 | V556 | Silvester | der Silvesterabend; 31. Dezember; normalerweise ohne Plural | ليلة رأس السنة / 31 ديسمبر | An Silvester feiern wir zusammen. | بنحتفل مع بعض ليلة رأس السنة. | proper name / holiday | introduced |
 | V557 | Neujahr | das Neujahr; 1. Januar; normalerweise ohne Plural | أول يوم في السنة الجديدة / 1 يناير | An Neujahr besuche ich meine Freunde. | بزور أصحابي أول يوم في السنة الجديدة. | proper name / holiday | introduced |
 | V558 | die Einweihungsparty | die Einweihungspartys | حفلة افتتاح البيت أو الشقة الجديدة | Ich lade dich zu meiner Einweihungsparty ein. | بدعوك لحفلة البيت الجديد. | noun | introduced |
+| V559 | heilig (user form: Heiligen) | Adjektiv; heilige / heiligen / heiliger by gender, case and article; der Heilige (noun) | مقدس / ديني؛ والقديس عند استخدامها اسمًا | Wir besuchen die heiligen Orte. | إحنا بنزور الأماكن المقدسة. | adjective | introduced |
 
 ## Learning notes
 
