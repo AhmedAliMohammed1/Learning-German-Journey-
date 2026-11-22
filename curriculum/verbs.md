@@ -1,4 +1,4 @@
-# Verb curriculum — 369 introduced verbs
+# Verb curriculum — 370 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -377,6 +377,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 367 | weinen (user form: Weinen) | يعيّط / يبكي | ich weine; du weinst; er/sie/es weint | hat geweint | Das Kind weint, weil es Hunger hat. | introduced | Regular verb; Präteritum weinte; Perfekt hat geweint; vor Freude weinen = يعيّط من الفرحة; vor Schmerz weinen = يعيّط من الألم. Example Arabic: الطفل بيعيط علشان جعان. |
 | 368 | wiederherstellen (user form: Wiederhergestellt) | يستعيد / يرجّع شيئًا لحالته الأصلية أو لوضعه السابق | ich stelle ... wieder her; du stellst ... wieder her; er/sie/es stellt ... wieder her | hat wiederhergestellt | Ich habe die gelöschten Dateien wiederhergestellt. | introduced | Separable verb: wieder + herstellen; Präteritum stellte ... wieder her; Perfekt hat wiederhergestellt (not wiederhergegestellt). Often used with Akkusativ for deleted files, connections and original condition. Example Arabic: أنا استرجعت الملفات المحذوفة. |
 | 369 | überwinden (user form: Überwinden) | يتغلّب على / يتجاوز خوفًا أو صعوبة أو عقبة | ich überwinde; du überwindest; er/sie/es überwindet | hat überwunden | Ich möchte meine Angst überwinden. | introduced | Strong inseparable verb, stress on -win-; Präteritum überwand, Perfekt hat überwunden without ge-. Takes Akkusativ: Angst, Schwierigkeiten, Hindernisse überwinden. Reflexive sich überwinden = يجبر نفسه / يشجع نفسه على شيء صعب. Example Arabic: أنا عايز أتغلب على خوفي. |
+| 370 | bekämpfen (user form: Bekämpft) | يكافح / يحارب / يقاوم شيئًا بشكل مباشر | ich bekämpfe; du bekämpfst; er/sie/es bekämpft | hat bekämpft | Die Feuerwehr bekämpft das Feuer. | introduced | Regular inseparable be- verb; Präteritum bekämpfte, Perfekt hat bekämpft without ge-. Transitive + Akkusativ; contrast kämpfen gegen + Akkusativ. Passive: Die Krankheit wurde bekämpft. Example Arabic: المطافي بتحارب الحريق. |
 
 ## How to read the table
 
