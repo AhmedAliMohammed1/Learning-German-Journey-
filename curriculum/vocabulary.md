@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**552 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**553 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -558,6 +558,7 @@
 | V550 | die Hochzeit | die Hochzeiten; auf einer Hochzeit sein; Hochzeit feiern | فرح / حفل الزفاف | Ich bin morgen auf einer Hochzeit. | أنا رايح فرح بكرة. | noun | introduced |
 | V551 | zuletzt | Adverb; last time / last, finally in sequence; contrast letztens and endlich | آخر مرة / آخر شيء / في النهاية حسب السياق | Wann warst du zuletzt in Ägypten? | إمتى كانت آخر مرة كنت في مصر؟ | adverb | introduced |
 | V552 | kühl | Adjektiv; kühler; am kühlsten; kühl = mild cool, contrast kalt | بارد شوية / مائل للبرودة / منعش؛ ببرود في التعامل | Heute ist es ziemlich kühl. | الجو النهارده بارد شوية. | adjective | introduced |
+| V553 | traumhaft | Adjektiv; traumhafter; am traumhaftesten; von der Traum = الحلم | خيالي / رائع جدًا / زي الحلم | Die Aussicht ist traumhaft. | المنظر خيالي! | adjective | introduced |
 
 ## Learning notes
 
