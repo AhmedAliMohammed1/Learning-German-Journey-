@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — traumhaft (V553), 2026-11-22
+
+- Learner submitted `traumhaft`. Full canonical verb and vocabulary tables checked; no previous standalone registration.
+- Added **V553 traumhaft**, adjective = خيالي / رائع جدًا / زي الحلم; comparative `traumhafter`, superlative `am traumhaftesten`. Example `Die Aussicht ist traumhaft.` = المنظر خيالي! Compare `schön` = جميل; `wunderschön` = جميل جدًا; `fantastisch` = رائع.
+- Introduced only, not independently tested/mastered. Canonical totals **363 verbs / 553 vocabulary**. R10 paused/graded; R11 unissued; past answers and pending review preserved. Structured `progress.json` synchronization remains pending.
+
+
 ## Vocabulary intake — kühl (V552), 2026-11-22
 
 - Learner submitted `kühl`. Full canonical verb/vocabulary inventories checked; no separate registered `kühl` entry found.
