@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — Bielefeld (V568), 2026-11-22
+
+- Learner submitted `bielefeld`. Full canonical vocabulary and verb inventories checked: no prior standalone `Bielefeld` entry.
+- Registered **V568 Bielefeld**, proper city name in Nordrhein-Westfalen, Germany, usually no article; example `Morgen fahre ich nach Bielefeld.` = بكرة هسافر لبيليفيلد. Distinguish `nach` for movement to cities and `in` for location.
+- Introduced only, no independent test/mastery. Canonical totals **365 verbs / 568 vocabulary**. R10 graded/paused and R11 unissued; pending work and original answers preserved. `progress.json` reconciliation still pending.
+
 ## Vocabulary intake — die Aussicht (V567), 2026-11-22
 
 - Learner submitted `Aussicht`. Fully checked both canonical inventories: appeared only in example for V553 `traumhaft`, not as a standalone lemma, and no matching verb.
