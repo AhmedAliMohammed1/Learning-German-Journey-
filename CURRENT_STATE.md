@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — enttäuscht (V574), 2026-11-22
+
+- Learner submitted `Enttäuscht`. Audited complete canonical verb and vocabulary inventories; neither `enttäuscht` nor `enttäuschen` had an existing standalone entry.
+- Registered **V574 enttäuscht**, adjective/participle = محبط / خائب الأمل, with `enttäuscht von + Dativ`. Related verb `enttäuschen` = يخيّب الأمل explained but not registered separately.
+- Example `Ich bin von dem Ergebnis enttäuscht.` = أنا محبط من النتيجة. Contrasted with `traurig` and `unzufrieden`.
+- Introduced only, no independent recall/mastery. Canonical totals **366 verbs / 574 vocabulary**. R10 graded/paused, R11 unissued, earlier learner answers and pending reviews preserved. Structured progress.json reconciliation still pending.
+
 ## Vocabulary intake — typisch (V573), learner form Typische, 2026-11-22
 
 - Learner submitted `Typische`; normalized to adjective `typisch`. Audited the complete canonical verb and vocabulary inventories; no prior standalone `typisch` lemma.
