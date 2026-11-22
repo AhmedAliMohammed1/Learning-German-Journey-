@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — die Integration (V563), 2026-11-22
+
+- Learner asked for Arabic `الاندماج` in German. Audited all canonical vocabulary and verbs: neither `Integration` nor `integrieren` registered. Recorded requested noun **V563 die Integration** = الاندماج, usually singular; construction `Integration in + Akkusativ`. Related reflexive verb `sich integrieren` explained but not separately registered as a learned verb.
+- Example: `Die Integration in den Arbeitsmarkt ist wichtig.` = الاندماج في سوق العمل مهم.
+- Introduced only, not independently mastered. Canonical totals **364 verbs / 563 vocabulary**. R10 graded/paused, R11 unissued; previous pending work preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Vocabulary intake — froh (V562), learner form frohe, 2026-11-22
 
 - Learner submitted `frohe`; normalized to adjective `froh`. Full canonical vocabulary and verb inventory audited. `fröhlich` exists as V395 but has a distinct meaning; `froh` was not independently registered. Holiday formula `frohe Weihnachten/Ostern` appears as a reference but not as a canonical standalone adjective.
