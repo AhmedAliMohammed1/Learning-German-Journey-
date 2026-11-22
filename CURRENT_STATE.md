@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb and vocabulary intake — springen (#366), der Fallschirm (V569), 2026-11-22
+
+- Learner supplied `springen` and `Fallschirm`. Audited complete canonical verb/vocabulary inventories; neither lemma previously registered.
+- Added **#366 springen** = يقفز / ينط, `ich springe; du springst; er springt`, Präteritum `sprang`, Perfekt **ist gesprungen** (ordinary jumping/motion use). Example `Ich springe ins Wasser.` = أنا بنط في الميه.
+- Added **V569 der Fallschirm**, plural **die Fallschirme** = الباراشوت / مظلة القفز. Example `Ich springe mit einem Fallschirm aus dem Flugzeug.` = أنا بقفز من الطيارة بباراشوت. Explained related `Fallschirmspringen` without separate canonical registration.
+- Both introduced only, no independent mastery. Canonical totals **366 verbs / 569 vocabulary**. R10 graded/paused, R11 unissued, pending work and original answers preserved. Structured progress.json sync remains outstanding.
+
 ## Vocabulary intake — Bielefeld (V568), 2026-11-22
 
 - Learner submitted `bielefeld`. Full canonical vocabulary and verb inventories checked: no prior standalone `Bielefeld` entry.
