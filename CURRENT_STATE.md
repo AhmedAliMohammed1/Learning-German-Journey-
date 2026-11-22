@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — heilig (V559), learner form Heiligen, 2026-11-22
+
+- Learner submitted `Heiligen`. Checked the entire canonical vocabulary and verb inventories: no existing `heilig` or `Heilige` entry. Recorded underlying adjective **V559 heilig** = مقدّس, with adjective forms `heilige/heiligen/heiliger` and related substantive `der Heilige / die Heiligen` explained (not a second entry).
+- Example: `Wir besuchen die heiligen Orte.` = إحنا بنزور الأماكن المقدسة.
+- Introduced only, no independent mastery evidence. Canonical totals **363 verbs / 559 vocabulary**. R10 graded/paused, R11 unissued; previous pending work preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Vocabulary intake — holidays and housewarming (V554–V558), 2026-11-22
 
 - Learner supplied `Weihnachten`, `Ostern`, `Silvester`, `Neujahr`, and `Einweihungsparty`. Checked the complete canonical `curriculum/vocabulary.md` and `curriculum/verbs.md`: none was independently registered; no duplicate lemma created.
