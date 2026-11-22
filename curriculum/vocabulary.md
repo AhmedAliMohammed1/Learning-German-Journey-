@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**560 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**561 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -566,6 +566,7 @@
 | V558 | die Einweihungsparty | die Einweihungspartys | حفلة افتتاح البيت أو الشقة الجديدة | Ich lade dich zu meiner Einweihungsparty ein. | بدعوك لحفلة البيت الجديد. | noun | introduced |
 | V559 | heilig (user form: Heiligen) | Adjektiv; heilige / heiligen / heiliger by gender, case and article; der Heilige (noun) | مقدس / ديني؛ والقديس عند استخدامها اسمًا | Wir besuchen die heiligen Orte. | إحنا بنزور الأماكن المقدسة. | adjective | introduced |
 | V560 | die Hantel (user form: Hanteln) | die Hanteln; mit Hanteln trainieren | دمبل / وزن يد للتمرين | Ich trainiere mit Hanteln. | أنا بتمرن بالدمبلز. | noun | introduced |
+| V561 | zufrieden | Adjektiv; zufriedener; am zufriedensten; zufrieden sein mit + Dativ; Gegenteil unzufrieden | راضي / قانع / مبسوط من حاجة | Ich bin mit meiner Arbeit zufrieden. | أنا راضي عن شغلي. | adjective | introduced |
 
 ## Learning notes
 
