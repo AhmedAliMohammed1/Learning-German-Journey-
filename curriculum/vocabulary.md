@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**553 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**558 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -559,6 +559,11 @@
 | V551 | zuletzt | Adverb; last time / last, finally in sequence; contrast letztens and endlich | آخر مرة / آخر شيء / في النهاية حسب السياق | Wann warst du zuletzt in Ägypten? | إمتى كانت آخر مرة كنت في مصر؟ | adverb | introduced |
 | V552 | kühl | Adjektiv; kühler; am kühlsten; kühl = mild cool, contrast kalt | بارد شوية / مائل للبرودة / منعش؛ ببرود في التعامل | Heute ist es ziemlich kühl. | الجو النهارده بارد شوية. | adjective | introduced |
 | V553 | traumhaft | Adjektiv; traumhafter; am traumhaftesten; von der Traum = الحلم | خيالي / رائع جدًا / زي الحلم | Die Aussicht ist traumhaft. | المنظر خيالي! | adjective | introduced |
+| V554 | Weihnachten | Festname; normalerweise ohne Plural; frohe Weihnachten | عيد الميلاد / الكريسماس | Ich feiere Weihnachten mit meiner Familie. | بحتفل بالكريسماس مع عيلتي. | proper name / holiday | introduced |
+| V555 | Ostern | Festname; normalerweise ohne Plural; frohe Ostern | عيد الفصح / عيد القيامة | An Ostern haben wir frei. | عندنا إجازة في عيد الفصح. | proper name / holiday | introduced |
+| V556 | Silvester | der Silvesterabend; 31. Dezember; normalerweise ohne Plural | ليلة رأس السنة / 31 ديسمبر | An Silvester feiern wir zusammen. | بنحتفل مع بعض ليلة رأس السنة. | proper name / holiday | introduced |
+| V557 | Neujahr | das Neujahr; 1. Januar; normalerweise ohne Plural | أول يوم في السنة الجديدة / 1 يناير | An Neujahr besuche ich meine Freunde. | بزور أصحابي أول يوم في السنة الجديدة. | proper name / holiday | introduced |
+| V558 | die Einweihungsparty | die Einweihungspartys | حفلة افتتاح البيت أو الشقة الجديدة | Ich lade dich zu meiner Einweihungsparty ein. | بدعوك لحفلة البيت الجديد. | noun | introduced |
 
 ## Learning notes
 
