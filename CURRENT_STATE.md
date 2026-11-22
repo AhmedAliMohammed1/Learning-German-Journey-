@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — die Hantel (V560), user form Hanteln, 2026-11-22
+
+- Learner supplied `Hanteln`. Full canonical verb and vocabulary inventories checked, no prior `Hantel` entry found.
+- Added **V560 die Hantel**, plural **die Hanteln** = دمبل / وزن يد للتمرين. Example `Ich trainiere mit Hanteln.` = أنا بتمرن بالدمبلز. `mit + Dativ` noted.
+- Introduced only, not independently mastered. Canonical totals **363 verbs / 560 vocabulary**. R10 graded/paused, R11 unissued; prior exercises unchanged. Structured `progress.json` reconciliation pending.
+
 ## Vocabulary intake — heilig (V559), learner form Heiligen, 2026-11-22
 
 - Learner submitted `Heiligen`. Checked the entire canonical vocabulary and verb inventories: no existing `heilig` or `Heilige` entry. Recorded underlying adjective **V559 heilig** = مقدّس, with adjective forms `heilige/heiligen/heiliger` and related substantive `der Heilige / die Heiligen` explained (not a second entry).
