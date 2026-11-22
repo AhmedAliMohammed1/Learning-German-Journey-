@@ -1,4 +1,4 @@
-# Verb curriculum — 366 introduced verbs
+# Verb curriculum — 367 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -374,6 +374,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 364 | sich entspannen (user form: entspannen) | يسترخي / يريّح أعصابه؛ entspannen + Akk = يخفف توتر شخص | ich entspanne mich; du entspannst dich; er/sie/es entspannt sich | hat sich entspannt | Ich entspanne mich nach der Arbeit. | introduced | Regular verb; usual everyday use reflexive sich entspannen (mich/dich/sich/uns/euch/sich); Perfekt hat sich entspannt. Non-reflexive jemanden entspannen = يجعل شخصًا يسترخي, Akkusativ. Example Arabic: أنا باسترخي بعد الشغل. |
 | 365 | befürchten (user form: befürchtet) | يخشى / يتوقع حصول حاجة سيئة أو غير مرغوبة | ich befürchte; du befürchtest; er/sie/es befürchtet | hat befürchtet | Ich befürchte, dass ich die Prüfung nicht bestehe. | introduced | Regular inseparable verb with be-: Perfekt hat befürchtet (no ge-). Takes Akkusativ object or dass-clause. Example Arabic: أنا خايف إني ما أنجحش في الامتحان. |
 | 366 | springen | يقفز / ينط | ich springe; du springst; er/sie/es springt | ist gesprungen | Ich springe ins Wasser. | introduced | Strong verb: Präteritum sprang, Perfekt ist gesprungen in ordinary jumping/movement use. ins Wasser springen = ينط في الميه. Example Arabic: أنا بنط في الميه. |
+| 367 | weinen (user form: Weinen) | يعيّط / يبكي | ich weine; du weinst; er/sie/es weint | hat geweint | Das Kind weint, weil es Hunger hat. | introduced | Regular verb; Präteritum weinte; Perfekt hat geweint; vor Freude weinen = يعيّط من الفرحة; vor Schmerz weinen = يعيّط من الألم. Example Arabic: الطفل بيعيط علشان جعان. |
 
 ## How to read the table
 
