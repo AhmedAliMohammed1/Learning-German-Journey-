@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**579 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**580 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -585,6 +585,7 @@
 | V577 | quietschfidel (user form: Quietschfidel) | Adjektiv; umgangssprachlich; sehr fidel, munter, wohlauf; gewöhnlich nicht gesteigert | زي الفل / كله نشاط وحيوية / مبسوط جدًا | Meine Oma ist 80 Jahre alt, aber sie ist noch quietschfidel. | جدتي عندها 80 سنة، لكن لسه زي الفل ومليانة نشاط. | adjective | introduced |
 | V578 | stolz (user form: Stolz) | Adjektiv; stolz auf + Akkusativ; stolzer; am stolzesten; related noun der Stolz | فخور / معتز بنفسه أو بحد | Ich bin stolz auf dich. | أنا فخور بيك. | adjective | introduced |
 | V579 | beschränkt (user form: Beschränkt aus) | Adjektiv / Partizip II von beschränken; beschränkt auf + Akkusativ (not aus); can be derogatory about people | محدود / مقيّد / مقتصر على؛ وأحيانًا ضيق الأفق | Das Angebot ist auf Studierende beschränkt. | العرض مقتصر على الطلاب. | adjective / participle | introduced |
+| V580 | der Umstand (user form: Umständen) | die Umstände; Dativ plural: den Umständen; unter Umständen; unter diesen Umständen; unter keinen Umständen | ظرف / ملابسة؛ في الجمع: الظروف / الأحوال | Unter diesen Umständen kann ich nicht arbeiten. | في ظل الظروف دي مش هقدر أشتغل. | noun | introduced |
 
 ## Learning notes
 
