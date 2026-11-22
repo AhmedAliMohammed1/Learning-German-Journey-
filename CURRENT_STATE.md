@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — mutig (V582), 2026-11-22
+
+- Learner submitted `Mutig`; canonical form `mutig`. Audited full verb and vocabulary inventories: no standalone `mutig` entry.
+- Registered **V582 mutig** = شجاع / جريء, `mutiger`, `am mutigsten`. Example `Es war mutig von dir, die Wahrheit zu sagen.` = كانت شجاعة منك إنك تقول الحقيقة. Related `der Mut`, `mutlos`, `ängstlich` explained, not separately registered.
+- Introduced only, not independently tested/mastered. Canonical totals **368 verbs / 582 vocabulary**. R10 graded/paused, R11 unissued, earlier exercises and learner answers preserved. `progress.json` reconciliation outstanding.
+
 ## Verb intake — wiederherstellen (#368), learner form Wiederhergestellt, 2026-11-22
 
 - Learner submitted `Wiederhergestellt` (Partizip II). Full canonical verb and vocabulary inventories audited: no independent `wiederherstellen` entry.
