@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**567 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**568 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -573,6 +573,7 @@
 | V565 | der Zufall | die Zufälle; durch Zufall = بالصدفة; zufällig = صدفةً | الصدفة / حدوث شيء من غير تخطيط | Das war nur ein Zufall. | دي كانت مجرد صدفة. | noun | introduced |
 | V566 | die Tatsache | die Tatsachen; tatsächlich = فعلًا أو في الحقيقة | حقيقة / واقع ثابت | Das ist eine Tatsache. | دي حقيقة. | noun | introduced |
 | V567 | die Aussicht | die Aussichten; Aussicht auf + Akkusativ; gute Aussichten haben | المنظر / الإطلالة؛ فرصة أو احتمال للمستقبل | Von hier aus hat man eine tolle Aussicht auf die Berge. | من هنا فيه إطلالة رائعة على الجبال. | noun | introduced |
+| V568 | Bielefeld (user form: bielefeld) | Eigenname; Stadt in Nordrhein-Westfalen; normalerweise ohne Artikel; nach Bielefeld / in Bielefeld | بيليفيلد، مدينة ألمانية في ولاية شمال الراين-وستفاليا | Morgen fahre ich nach Bielefeld. | بكرة هسافر لبيليفيلد. | proper name / place | introduced |
 
 ## Learning notes
 
