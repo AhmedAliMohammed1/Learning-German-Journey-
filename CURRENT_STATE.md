@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — erschöpft (V581), 2026-11-22
+
+- Learner submitted `Erschöpft`. Checked the entire canonical vocabulary and verb registers; no independent `erschöpft` or `erschöpfen` entry.
+- Registered **V581 erschöpft**, adjective / participle of `erschöpfen`, = منهك جدًا / مرهق للغاية. Example `Nach der Arbeit bin ich völlig erschöpft.` = بعد الشغل ببقى مرهق جدًا. Contrasted `müde` = تعبان / نعسان, `genervt` = مخنوق / متضايق, `ausgeruht` = مرتاح.
+- Introduced only, not independently recalled or mastered. Canonical totals **367 verbs / 581 vocabulary**. R10 graded/paused, R11 unissued; previous answers and deferred work unchanged. Structured `progress.json` synchronization still pending.
+
 ## Verb intake — weinen (#367), 2026-11-22
 
 - Learner submitted `Weinen`. Audited full canonical verb and vocabulary inventories: no earlier standalone `weinen` entry.
