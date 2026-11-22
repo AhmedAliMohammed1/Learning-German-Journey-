@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**546 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**547 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -552,6 +552,7 @@
 | V544 | wegen (user form: Wegen) | Präposition; standard: + Genitiv, colloquial Dativ also common | بسبب / علشان | Wegen des Regens bleibe ich zu Hause. | بسبب المطر هفضل في البيت. | preposition | introduced |
 | V545 | quasi (learner heard: اكفازي) | Adverb; umgangssprachlich: sozusagen, gewissermaßen, praktisch | يعتبر / كأن / نوعًا ما / عمليًا حسب السياق | Wir sind quasi fertig. | إحنا تقريبًا خلصنا / نعتبر خلصنا. | adverb | introduced |
 | V546 | die Sache (user form: Sachen) | die Sachen (Plural); Sache = أمر / موضوع أيضًا | حاجة / شيء / موضوع؛ الجمع حاجات / أغراض | Ich muss meine Sachen packen. | لازم ألم حاجتي وأجهزها. | noun | introduced |
+| V547 | der Lebensunterhalt | normally singular; seinen Lebensunterhalt sichern / finanzieren | مصاريف المعيشة / متطلبات الحياة الأساسية | Ich muss arbeiten, um meinen Lebensunterhalt zu sichern. | لازم أشتغل علشان أؤمّن مصاريف معيشتي. | noun | introduced |
 
 ## Learning notes
 
