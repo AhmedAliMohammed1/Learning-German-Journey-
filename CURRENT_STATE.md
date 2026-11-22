@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — froh (V562), learner form frohe, 2026-11-22
+
+- Learner submitted `frohe`; normalized to adjective `froh`. Full canonical vocabulary and verb inventory audited. `fröhlich` exists as V395 but has a distinct meaning; `froh` was not independently registered. Holiday formula `frohe Weihnachten/Ostern` appears as a reference but not as a canonical standalone adjective.
+- Added **V562 froh**, adjective = سعيد / فرحان / مرتاح بسبب شيء, `froher / am frohesten`. Example `Ich bin froh, dass ich die Prüfung bestanden habe.` = أنا سعيد إني نجحت في الامتحان. Learner form `frohe` is an inflected adjective; contrast `fröhlich` = بشوش/مرح, `zufrieden` = راضي.
+- Introduced only; no independent recall/mastery. Canonical totals **364 verbs / 562 vocabulary**. R10 paused/graded, R11 unissued, older pending work retained. Structured `progress.json` reconciliation remains outstanding.
+
 ## Vocabulary intake — zufrieden (V561), 2026-11-22
 
 - Learner submitted `zufrieden`. Full canonical verb and vocabulary tables audited; no previous standalone registration.
