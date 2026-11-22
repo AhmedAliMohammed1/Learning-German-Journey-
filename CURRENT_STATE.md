@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — zuletzt (V551), 2026-11-22
+
+- Learner submitted `zuletzt`. Full canonical verb and vocabulary tables audited; no registered standalone `zuletzt`.
+- Added **V551 zuletzt** = آخر مرة / آخر شيء / في النهاية حسب السياق. Example `Wann warst du zuletzt in Ägypten?` = إمتى كانت آخر مرة كنت في مصر؟ Distinguish `letztens` (مؤخرًا) and `endlich` (أخيرًا بعد انتظار).
+- Introduced only; no recall/mastery test. Canonical totals **363 verbs / 551 vocabulary**. R10 graded/paused and R11 unissued, previous original answers and pending reviews preserved. Structured `progress.json` reconciliation remains pending.
+
+
 ## Verb intake — anhaben (#363), 2026-11-22
 
 - Learner submitted `anhaben`. Both full canonical curricula checked: `anhaben` absent, while `anziehen` already exists as **#73**; no duplication.
