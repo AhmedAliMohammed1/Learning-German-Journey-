@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Umstand (V580), learner form Umständen, 2026-11-22
+
+- Learner submitted `Umständen`. Full canonical vocabulary and verb inventories audited: no independent entry for `Umstand/Umstände/Umständen`.
+- Registered **V580 der Umstand**, plural `die Umstände`, Dativ plural `den Umständen` = ظرف / ملابسة؛ الظروف / الأحوال. Example `Unter diesen Umständen kann ich nicht arbeiten.` = في ظل الظروف دي مش هقدر أشتغل. Expressions `unter Umständen` = ربما أو في ظروف معينة; `unter keinen Umständen` = تحت أي ظرف من الظروف بصيغة النفي.
+- Introduced only, not independently tested/mastered. Canonical totals **366 verbs / 580 vocabulary**. R10 graded/paused, R11 unissued, older deferred work and original answers preserved. `progress.json` remains pending reconciliation.
+
 ## Vocabulary intake — stolz (V578) and beschränkt (V579), 2026-11-22
 
 - Learner submitted `Stolz` and `Beschränkt aus`. Audited the full canonical vocabulary and verb inventories: no standalone `stolz`, `beschränkt`, or `beschränken` entry. The likely intended restriction construction is `beschränkt auf + Akkusativ`, not `beschränkt aus`; preserve original learner wording.
