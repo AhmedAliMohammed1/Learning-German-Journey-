@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Inventur (V549), 2026-11-22
+
+- Learner submitted `Inventur`. Both canonical inventories audited; no independent `Inventur` lemma previously registered.
+- Added **V549 die Inventur**, plural `die Inventuren` = جرد البضاعة / مراجعة المخزون. Example `Wir machen heute Inventur.` = إحنا بنعمل جرد النهارده. Phrase `Inventur machen`; contrast `das Inventar` (الموجودات), `der Bestand` (المخزون), `das Lager` (المخزن).
+- Introduced only, not tested/mastered. Canonical totals **362 verbs / 549 vocabulary**. Prior R10 graded/paused and R11 unissued; learner responses and pending review preserved. Structured `progress.json` reconciliation still pending.
+
+
 ## Vocabulary review — Schilder / Zettel, 2026-11-22
 
 - Learner submitted `Schilder` and `Zettel`. Audited both canonical inventories. `das Schild`, plural `die Schilder`, already registered **V507**, so not duplicated.
