@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**566 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**567 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -572,6 +572,7 @@
 | V564 | ums | Kurzform von um das; Präposition um + Akkusativ; z. B. ums Essen | اختصار عن um das / بخصوص أو حول حاجة | Ich kümmere mich ums Essen. | أنا بهتم بموضوع الأكل. | contraction / expression | introduced |
 | V565 | der Zufall | die Zufälle; durch Zufall = بالصدفة; zufällig = صدفةً | الصدفة / حدوث شيء من غير تخطيط | Das war nur ein Zufall. | دي كانت مجرد صدفة. | noun | introduced |
 | V566 | die Tatsache | die Tatsachen; tatsächlich = فعلًا أو في الحقيقة | حقيقة / واقع ثابت | Das ist eine Tatsache. | دي حقيقة. | noun | introduced |
+| V567 | die Aussicht | die Aussichten; Aussicht auf + Akkusativ; gute Aussichten haben | المنظر / الإطلالة؛ فرصة أو احتمال للمستقبل | Von hier aus hat man eine tolle Aussicht auf die Berge. | من هنا فيه إطلالة رائعة على الجبال. | noun | introduced |
 
 ## Learning notes
 
