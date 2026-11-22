@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — fidel (V576) and quietschfidel (V577), 2026-11-22
+
+- Learner submitted `Fidel` and `Quietschfidel`. Checked entire canonical vocabulary and verb inventories, neither standalone word present. Meanings also verified against Duden.
+- Added **V576 fidel** = فرحان / مبسوط / مرح; colloquial and somewhat old-fashioned. Example `Die Kinder sind heute fidel.` = الأطفال النهارده فرحانين ونشيطين.
+- Added **V577 quietschfidel** = زي الفل / مليان نشاط وحيوية / مبسوط جدًا, colloquial and emphatic, often implies well and lively. Example `Meine Oma ist 80 Jahre alt, aber sie ist noch quietschfidel.` = جدتي عندها 80 سنة، لكن لسه زي الفل ومليانة نشاط.
+- Both introduced only, not independently assessed/mastered. Canonical totals **366 verbs / 577 vocabulary**. R10 paused/graded, R11 unissued; prior learner answers and pending exercises preserved. Structured `progress.json` reconciliation still pending.
+
 ## Vocabulary intake — herunter (V575), 2026-11-22
 
 - Learner submitted `Herunter`. Complete canonical verb and vocabulary registers checked. Standalone `herunter` absent, while **#133 herunterladen** already registered and preserved without duplicate.
