@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Hochzeit (V550), 2026-11-22
+
+- Learner submitted `Hochzeit`. Checked complete canonical vocabulary and verb inventories; no standalone `Hochzeit` entry found.
+- Added **V550 die Hochzeit**, plural **die Hochzeiten** = فرح / حفل الزفاف. Example `Ich bin morgen auf einer Hochzeit.` = أنا رايح فرح بكرة. Useful phrases `auf einer Hochzeit sein`, `zur Hochzeit einladen`, `Hochzeit feiern`. Compare `die Heirat` (الزواج كحدث) and `die Ehe` (الزواج كعلاقة قانونية/اجتماعية).
+- Introduced only; no independently tested recall/mastery. Canonical totals **362 verbs / 550 vocabulary**. Paused/graded R10 and unissued R11 preserved; previous answers and pending reviews retained. Structured `progress.json` reconciliation remains pending.
+
+
 ## Vocabulary intake — die Inventur (V549), 2026-11-22
 
 - Learner submitted `Inventur`. Both canonical inventories audited; no independent `Inventur` lemma previously registered.
