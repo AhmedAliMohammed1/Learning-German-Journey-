@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Hintergrund (V570), learner typo Huntergrund, 2026-11-22
+
+- Learner supplied `Huntergrund`, corrected to **der Hintergrund**. Audited complete canonical vocabulary and verb registers: no previous `Hintergrund` lemma.
+- Added **V570 der Hintergrund**, plural **die Hintergründe**, meaning الخلفية / خلفية الموضوع / الأسباب والظروف وراء شيء. Example `Im Hintergrund sieht man die Berge.` = في الخلفية تقدر تشوف الجبال. Also explained `im Hintergrund`, `im Vordergrund`, `beruflicher Hintergrund`, `Hintergrundwissen` as related phrases, not separately registered.
+- Introduced only; no independent testing/mastery. Canonical totals **366 verbs / 570 vocabulary**. R10 graded/paused, R11 unissued; earlier pending work intact. Structured `progress.json` synchronization remains outstanding.
+
 ## Verb and vocabulary intake — springen (#366), der Fallschirm (V569), 2026-11-22
 
 - Learner supplied `springen` and `Fallschirm`. Audited complete canonical verb/vocabulary inventories; neither lemma previously registered.
