@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — anhaben (#363), 2026-11-22
+
+- Learner submitted `anhaben`. Both full canonical curricula checked: `anhaben` absent, while `anziehen` already exists as **#73**; no duplication.
+- Introduced **#363 anhaben** = يكون لابس حاجة بالفعل. Separable: `ich habe ... an, du hast ... an, er/sie/es hat ... an`; Präteritum `hatte ... an`, Perfekt `hat angehabt`. Example `Ich habe heute eine schwarze Jacke an.` = أنا لابس جاكيت أسود النهارده. Distinguish `anziehen` = فعل ارتداء الملابس and `tragen` = يرتدي/يحمل.
+- Introduced only, no independently tested recall/mastery. Canonical totals **363 verbs / 550 vocabulary**. R10 graded/paused; R11 unissued; original learner answers and review queue preserved. Structured `progress.json` reconciliation pending.
+
+
 ## Vocabulary intake — die Hochzeit (V550), 2026-11-22
 
 - Learner submitted `Hochzeit`. Checked complete canonical vocabulary and verb inventories; no standalone `Hochzeit` entry found.
