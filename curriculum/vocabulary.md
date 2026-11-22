@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**574 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**575 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -580,6 +580,7 @@
 | V572 | der Quatsch | meist Singular, gewöhnlich kein Plural; umgangssprachlich; Quatsch machen/erzählen | كلام فارغ / هبل / كلام مالوش معنى | Das ist doch Quatsch! | ده كلام فارغ خالص! | noun | introduced |
 | V573 | typisch (user form: Typische) | Adjektiv; typische/typischer/typisches according to case and gender; typisch für + Akkusativ | نموذجي / معتاد / شائع أو مميز لحاجة | Das ist ein typischer Fehler. | ده خطأ شائع. | adjective | introduced |
 | V574 | enttäuscht (user form: Enttäuscht) | Adjektiv / Partizip II von enttäuschen; enttäuscht von + Dativ; Verb enttäuschen = يخيّب الأمل | محبط / خائب الأمل / زعلان لأن التوقعات ما اتحققتش | Ich bin von dem Ergebnis enttäuscht. | أنا محبط من النتيجة. | adjective / participle | introduced |
+| V575 | herunter (user form: Herunter) | Richtungsadverb/Verbpartikel; kurz umgangssprachlich runter; hinunter für Bewegung vom Sprecher weg; herunterladen bereits Verb #133 | إلى أسفل / لتحت | Komm bitte herunter! | انزل تحت من فضلك! | adverb / verb particle | introduced |
 
 ## Learning notes
 
