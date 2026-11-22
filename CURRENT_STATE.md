@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — kühl (V552), 2026-11-22
+
+- Learner submitted `kühl`. Full canonical verb/vocabulary inventories checked; no separate registered `kühl` entry found.
+- Added **V552 kühl**, adjective = بارد شوية / منعش / ببرود حسب السياق; `kühler`, `am kühlsten`. Example `Heute ist es ziemlich kühl.` = الجو النهارده بارد شوية. Contrast `kalt` = بارد, sometimes intensely; emotional `kühl reagieren` = يرد ببرود.
+- Introduced only, not tested/mastered. Canonical totals **363 verbs / 552 vocabulary**. R10 graded/paused and R11 unissued; past answers and review queue preserved. Structured `progress.json` reconciliation remains pending.
+
+
 ## Vocabulary intake — zuletzt (V551), 2026-11-22
 
 - Learner submitted `zuletzt`. Full canonical verb and vocabulary tables audited; no registered standalone `zuletzt`.
