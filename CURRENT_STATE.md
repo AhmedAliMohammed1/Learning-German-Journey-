@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — herunter (V575), 2026-11-22
+
+- Learner submitted `Herunter`. Complete canonical verb and vocabulary registers checked. Standalone `herunter` absent, while **#133 herunterladen** already registered and preserved without duplicate.
+- Added **V575 herunter**, directional adverb and verb particle = إلى أسفل / لتحت; informal shortening `runter`; contrast `hinunter` for movement away from speaker. Example `Komm bitte herunter!` = انزل تحت من فضلك.
+- Introduced only, not independently tested/mastered. Canonical totals **366 verbs / 575 vocabulary**. R10 graded/paused, R11 unissued, historical answers and pending work retained. `progress.json` remains pending reconciliation.
+
 ## Vocabulary intake — enttäuscht (V574), 2026-11-22
 
 - Learner submitted `Enttäuscht`. Audited complete canonical verb and vocabulary inventories; neither `enttäuscht` nor `enttäuschen` had an existing standalone entry.
