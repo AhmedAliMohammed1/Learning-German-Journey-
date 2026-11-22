@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — zufällig (V571), 2026-11-22
+
+- Learner supplied `Zufällig`. Complete canonical verb and vocabulary inventories audited: `zufällig` was only mentioned in reference notes for existing noun **V565 der Zufall**, not independently registered.
+- Added **V571 zufällig**, adjective/adverb = بالصدفة / عشوائي / غير مقصود. Example `Ich habe ihn zufällig getroffen.` = أنا قابلته بالصدفة. Contrast `der Zufall` = الصدفة and `durch Zufall` = بالصدفة.
+- Introduced only, no independent recall/mastery. Canonical totals **366 verbs / 571 vocabulary**. R10 graded/paused, R11 unissued, past answers and deferred exercises unchanged. Structured progress.json reconciliation remains pending.
+
 ## Vocabulary intake — der Hintergrund (V570), learner typo Huntergrund, 2026-11-22
 
 - Learner supplied `Huntergrund`, corrected to **der Hintergrund**. Audited complete canonical vocabulary and verb registers: no previous `Hintergrund` lemma.
