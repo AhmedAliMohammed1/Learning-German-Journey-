@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — weinen (#367), 2026-11-22
+
+- Learner submitted `Weinen`. Audited full canonical verb and vocabulary inventories: no earlier standalone `weinen` entry.
+- Added **#367 weinen** = يعيّط / يبكي, `ich weine; du weinst; er/sie/es weint`; Präteritum `weinte`; Perfekt **hat geweint**. Example `Das Kind weint, weil es Hunger hat.` = الطفل بيعيط علشان جعان. Compared `weinen` with `schreien`, and taught `vor Freude/Schmerz weinen`.
+- Introduced only, no independent recall or mastery. Canonical totals **367 verbs / 580 vocabulary**. R10 graded/paused, R11 unissued; older pending review and learner answers preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Vocabulary intake — der Umstand (V580), learner form Umständen, 2026-11-22
 
 - Learner submitted `Umständen`. Full canonical vocabulary and verb inventories audited: no independent entry for `Umstand/Umstände/Umständen`.
