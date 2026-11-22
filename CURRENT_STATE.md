@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — sich entspannen (#364), learner form entspannen, 2026-11-22
+
+- Learner submitted `entspannen`. Full canonical verb and vocabulary tables audited: no previous entry. Registered **#364 sich entspannen** = يسترخي / يريّح أعصابه (common reflexive use); Präsens `ich entspanne mich, du entspannst dich, er/sie/es entspannt sich`; Perfekt `hat sich entspannt`. Non-reflexive `jemanden entspannen` + Akkusativ means to relax someone.
+- Example `Ich entspanne mich nach der Arbeit.` = أنا باسترخي بعد الشغل. Introduced, not independently mastered.
+- Canonical totals **364 verbs / 560 vocabulary**. R10 graded/paused and R11 unissued; previous answers and pending review preserved. Large structured `progress.json` still awaiting reconciliation.
+
 ## Vocabulary intake — die Hantel (V560), user form Hanteln, 2026-11-22
 
 - Learner supplied `Hanteln`. Full canonical verb and vocabulary inventories checked, no prior `Hantel` entry found.
