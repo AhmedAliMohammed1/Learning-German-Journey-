@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — die Aussicht (V567), 2026-11-22
+
+- Learner submitted `Aussicht`. Fully checked both canonical inventories: appeared only in example for V553 `traumhaft`, not as a standalone lemma, and no matching verb.
+- Added **V567 die Aussicht**, plural `die Aussichten` = المنظر / الإطلالة، وأيضًا فرصة أو احتمال مستقبلي. Common `Aussicht auf + Akkusativ`, `gute Aussichten haben`. Example `Von hier aus hat man eine tolle Aussicht auf die Berge.` = من هنا فيه إطلالة رائعة على الجبال.
+- Introduced only, not tested/mastered. Canonical totals **365 verbs / 567 vocabulary**. R10 graded/paused, R11 unissued; past answers and pending reviews unchanged. Structured progress.json reconciliation pending.
+
 ## Vocabulary and verb intake — ums, Zufall, Tatsache, befürchten, 2026-11-22
 
 - Learner submitted six forms: `bloß`, `ums`, `zufall`, `tatsache`, `befürchtet`, `sonst`. Audited full canonical inventories before writing. Existing: **V493 bloß** and **V491 sonst**, not duplicated.
