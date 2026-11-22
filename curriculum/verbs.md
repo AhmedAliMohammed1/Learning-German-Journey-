@@ -1,4 +1,4 @@
-# Verb curriculum — 363 introduced verbs
+# Verb curriculum — 364 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -371,6 +371,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 361 | treiben (user form: Treiben) | يمارس نشاطًا / يدفع أو يحرّك شيئًا / يتاجر بحسب السياق | ich treibe; du treibst; er/sie/es treibt | hat getrieben | Ich treibe jeden Tag Sport. | introduced | Strong verb; Präteritum trieb; standard Perfekt hat getrieben in transitive and activity uses; + Akkusativ e.g. Sport treiben, Handel treiben, etwas treiben. In some intransitive drift/movement senses, sein may be used. Was treibst du? = إنت بتعمل إيه؟ Example Arabic: أنا بمارس رياضة كل يوم. |
 | 362 | sichern | يؤمّن / يضمن / يحافظ على شيء؛ يؤمّن متطلبات المعيشة | ich sichere; du sicherst; er/sie/es sichert | hat gesichert | Ich musste arbeiten, um meinen Lebensunterhalt zu sichern. | introduced | Regular verb, Präteritum sicherte; transitive + Akkusativ; seinen Lebensunterhalt sichern = يؤمّن تكاليف معيشته. Distinguish glauben = يؤمن بفكرة; finanzieren = يموّل، absichern = يحمي من مخاطر. Example Arabic: كان لازم أشتغل علشان أؤمّن مصاريف معيشتي. |
 | 363 | anhaben | يكون لابس حاجة بالفعل / يرتدي حاليًا | ich habe ... an; du hast ... an; er/sie/es hat ... an | hat angehabt | Ich habe heute eine schwarze Jacke an. | introduced | Separable verb; present habe/hast/hat ... an, Präteritum hatte ... an, Perfekt hat angehabt. Common question Was hast du an? = إنت لابس إيه؟ Distinguish anziehen = فعل ارتداء اللبس; tragen = يرتدي/يحمل. Example Arabic: أنا لابس جاكيت أسود النهارده. |
+| 364 | sich entspannen (user form: entspannen) | يسترخي / يريّح أعصابه؛ entspannen + Akk = يخفف توتر شخص | ich entspanne mich; du entspannst dich; er/sie/es entspannt sich | hat sich entspannt | Ich entspanne mich nach der Arbeit. | introduced | Regular verb; usual everyday use reflexive sich entspannen (mich/dich/sich/uns/euch/sich); Perfekt hat sich entspannt. Non-reflexive jemanden entspannen = يجعل شخصًا يسترخي, Akkusativ. Example Arabic: أنا باسترخي بعد الشغل. |
 
 ## How to read the table
 
