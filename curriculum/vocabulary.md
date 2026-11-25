@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**582 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**583 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -588,6 +588,7 @@
 | V580 | der Umstand (user form: Umständen) | die Umstände; Dativ plural: den Umständen; unter Umständen; unter diesen Umständen; unter keinen Umständen | ظرف / ملابسة؛ في الجمع: الظروف / الأحوال | Unter diesen Umständen kann ich nicht arbeiten. | في ظل الظروف دي مش هقدر أشتغل. | noun | introduced |
 | V581 | erschöpft (user form: Erschöpft) | Adjektiv / Partizip II von erschöpfen; völlig / total erschöpft; compare müde and ausgeruht | منهك جدًا / مرهق لدرجة إن الطاقة خلصت | Nach der Arbeit bin ich völlig erschöpft. | بعد الشغل ببقى مرهق جدًا. | adjective / participle | introduced |
 | V582 | mutig (user form: Mutig) | Adjektiv; mutiger; am mutigsten; related der Mut = الشجاعة; mutlos = فاقد الشجاعة | شجاع / جريء / عنده جرأة | Es war mutig von dir, die Wahrheit zu sagen. | كانت شجاعة منك إنك تقول الحقيقة. | adjective | introduced |
+| V583 | der Alltag | die Alltage (selten); im Alltag; alltäglich = يومي / معتاد | الحياة اليومية / الروتين اليومي | Ich lerne Deutsch für den Alltag. | أنا بتعلم ألماني علشان أستخدمه في حياتي اليومية. | noun | introduced |
 
 ## Learning notes
 
