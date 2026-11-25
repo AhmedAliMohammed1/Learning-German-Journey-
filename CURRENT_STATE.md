@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — ausrichten (#372), 2026-11-25
+
+- Learner submitted `ausrichten`. Audited full canonical verb and vocabulary inventories: no prior registered standalone `ausrichten`.
+- Added **#372 ausrichten** = يبلّغ رسالة / ينظّم مناسبة / يوجّه شيئًا; separable, Präsens `ich richte ... aus; du richtest ... aus; er/sie/es richtet ... aus`, Präteritum `richtete ... aus`, Perfekt `hat ausgerichtet`. Example `Kannst du ihm bitte etwas von mir ausrichten?` = ممكن تبلّغه حاجة مني؟ Uses Dativ person + Akkusativ message, and `etwas auf + Akkusativ ausrichten` for goal orientation.
+- Introduced only, no independent recall or mastery. Canonical totals **372 verbs / 584 vocabulary**. R10 graded/paused, R11 unissued; earlier pending work and original answers preserved. Structured `progress.json` reconciliation remains outstanding.
+
 ## Verb intake — besichtigen (#371), learner form besichtigt, 2026-11-25
 
 - Learner submitted `besichtigt`. Audited full canonical verb and vocabulary inventories: no prior standalone `besichtigen` registered.
