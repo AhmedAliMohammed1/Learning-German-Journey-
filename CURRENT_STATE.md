@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — besichtigen (#371), learner form besichtigt, 2026-11-25
+
+- Learner submitted `besichtigt`. Audited full canonical verb and vocabulary inventories: no prior standalone `besichtigen` registered.
+- Added **#371 besichtigen** = يعاين / يزور مكانًا لمشاهدته؛ Präsens `ich besichtige; du besichtigst; er/sie/es besichtigt`; Präteritum `besichtigte`; Perfekt `hat besichtigt`. Regular inseparable `be-` verb, takes Akkusativ. Example `Ich habe gestern eine Wohnung besichtigt.` = أنا عاينت شقة امبارح. Contrast `besuchen` = يزور بشكل عام.
+- Introduced only, no independent recall/mastery. Canonical totals **371 verbs / 584 vocabulary**. R10 graded/paused, R11 unissued; historical attempts and deferred work preserved. Structured `progress.json` remains pending reconciliation.
+
 ## Vocabulary intake — der Stiefel (V584), 2026-11-25
 
 - Learner submitted `stiefel`. Audited complete canonical vocabulary and verb inventories: no previous standalone `Stiefel` lemma.
