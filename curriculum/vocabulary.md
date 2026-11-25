@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**584 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**586 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -590,6 +590,8 @@
 | V582 | mutig (user form: Mutig) | Adjektiv; mutiger; am mutigsten; related der Mut = الشجاعة; mutlos = فاقد الشجاعة | شجاع / جريء / عنده جرأة | Es war mutig von dir, die Wahrheit zu sagen. | كانت شجاعة منك إنك تقول الحقيقة. | adjective | introduced |
 | V583 | der Alltag | die Alltage (selten); im Alltag; alltäglich = يومي / معتاد | الحياة اليومية / الروتين اليومي | Ich lerne Deutsch für den Alltag. | أنا بتعلم ألماني علشان أستخدمه في حياتي اليومية. | noun | introduced |
 | V584 | der Stiefel (user form: stiefel) | die Stiefel; Winterstiefel / Gummistiefel; trägt man im Winter oder bei Regen | بوت / جزمة برقبة طويلة | Im Winter trage ich warme Stiefel. | في الشتا بلبس بوت دافي. | noun | introduced |
+| V585 | der Regisseur | die Regisseure; weiblich: die Regisseurin / die Regisseurinnen | المخرج السينمائي أو المسرحي | Der Regisseur hat einen neuen Film gedreht. | المخرج صوّر فيلم جديد. | noun | introduced |
+| V586 | unkompliziert | Adjektiv; unkomplizierter; am unkompliziertesten; Gegenteil kompliziert | بسيط / مش معقد / سهل التعامل | Die Anmeldung ist unkompliziert. | التسجيل سهل ومش معقد. | adjective | introduced |
 
 ## Learning notes
 
