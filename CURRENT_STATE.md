@@ -1,5 +1,13 @@
 # Current study state
 
+## Workbook 72 and verb intake — drehen (#373), 2026-11-25
+
+- Learner showed a relative-clause multiple-choice exercise `Von dem Regisseur, ___ den neuen Fußballfilm gedreht hat`; correct answer `der` (Nominativ subject of relative clause; `dem` belongs to outer `von + Dativ`).
+- Learner highlighted `gedreht`. Audited entire canonical verb and vocabulary inventories: standalone `drehen` absent (previous related verbs `sich umdrehen`, `aufdrehen`, `zudrehen` exist).
+- Registered **#373 drehen**, regular verb = يلف / يدور / يصوّر فيلم, Präsens `ich drehe; du drehst; er dreht`; Perfekt `hat gedreht`. Example `Der Regisseur hat einen neuen Film gedreht.` = المخرج صوّر فيلم جديد.
+- Previously requested `der Regisseur` still awaits successful vocabulary upload (intended V585); don't claim saved until verified.
+- Canonical verified totals **373 verbs / 584 vocabulary** at this point; previous R10 review remains paused and older pending work unchanged. Large progress.json reconciliation still pending.
+
 ## Verb intake — ausrichten (#372), 2026-11-25
 
 - Learner submitted `ausrichten`. Audited full canonical verb and vocabulary inventories: no prior registered standalone `ausrichten`.
