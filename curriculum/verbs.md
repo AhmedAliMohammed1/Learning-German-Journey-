@@ -1,4 +1,4 @@
-# Verb curriculum — 373 introduced verbs
+# Verb curriculum — 374 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -381,6 +381,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 371 | besichtigen (user form: besichtigt) | يعاين / يزور مكانًا لمشاهدته والتفرج عليه | ich besichtige; du besichtigst; er/sie/es besichtigt | hat besichtigt | Ich habe gestern eine Wohnung besichtigt. | introduced | Regular inseparable be- verb; Präteritum besichtigte, Perfekt hat besichtigt (no ge-); takes Akkusativ: eine Wohnung, das Schloss besichtigen; contrast besuchen = يزور عمومًا. Example Arabic: أنا عاينت شقة امبارح. |
 | 372 | ausrichten | يبلّغ رسالة لشخص / ينظّم مناسبة / يوجّه شيئًا ناحية هدف أو اتجاه | ich richte ... aus; du richtest ... aus; er/sie/es richtet ... aus | hat ausgerichtet | Kannst du ihm bitte etwas von mir ausrichten? | introduced | Regular separable verb; Präteritum richtete ... aus; Perfekt hat ausgerichtet. jemandem (Dativ) etwas (Akkusativ) ausrichten = يبلّغ رسالة; eine Feier ausrichten = ينظّم مناسبة; etwas auf + Akkusativ ausrichten = يوجّه نحو هدف. Example Arabic: ممكن تبلّغه حاجة مني؟ |
 | 373 | drehen (user form: gedreht) | يلف / يدور / يصوّر فيلم | ich drehe; du drehst; er/sie/es dreht | hat gedreht | Der Regisseur hat einen neuen Film gedreht. | introduced | Regular verb; Präteritum drehte; einen Film drehen = يصوّر فيلم; Akkusativ object; distinct from earlier umdrehen / aufdrehen / zudrehen. Example Arabic: المخرج صوّر فيلم جديد. |
+| 374 | vergehen (user form: vergeht) | يمرّ / ينقضي (الوقت)؛ يزول (الألم) | ich vergehe; du vergehst; er/sie/es vergeht | ist vergangen | Die Zeit vergeht schnell. | introduced | Strong inseparable ver- verb; Präteritum verging; Perfekt ist vergangen, no ge-; Die Schmerzen vergehen = الألم بيزول. Contrast verbringen = يقضي وقتًا. Example Arabic: الوقت بيعدّي بسرعة. |
 
 ## How to read the table
 
