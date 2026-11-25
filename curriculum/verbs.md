@@ -1,4 +1,4 @@
-# Verb curriculum — 371 introduced verbs
+# Verb curriculum — 372 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -379,6 +379,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 369 | überwinden (user form: Überwinden) | يتغلّب على / يتجاوز خوفًا أو صعوبة أو عقبة | ich überwinde; du überwindest; er/sie/es überwindet | hat überwunden | Ich möchte meine Angst überwinden. | introduced | Strong inseparable verb, stress on -win-; Präteritum überwand, Perfekt hat überwunden without ge-. Takes Akkusativ: Angst, Schwierigkeiten, Hindernisse überwinden. Reflexive sich überwinden = يجبر نفسه / يشجع نفسه على شيء صعب. Example Arabic: أنا عايز أتغلب على خوفي. |
 | 370 | bekämpfen (user form: Bekämpft) | يكافح / يحارب / يقاوم شيئًا بشكل مباشر | ich bekämpfe; du bekämpfst; er/sie/es bekämpft | hat bekämpft | Die Feuerwehr bekämpft das Feuer. | introduced | Regular inseparable be- verb; Präteritum bekämpfte, Perfekt hat bekämpft without ge-. Transitive + Akkusativ; contrast kämpfen gegen + Akkusativ. Passive: Die Krankheit wurde bekämpft. Example Arabic: المطافي بتحارب الحريق. |
 | 371 | besichtigen (user form: besichtigt) | يعاين / يزور مكانًا لمشاهدته والتفرج عليه | ich besichtige; du besichtigst; er/sie/es besichtigt | hat besichtigt | Ich habe gestern eine Wohnung besichtigt. | introduced | Regular inseparable be- verb; Präteritum besichtigte, Perfekt hat besichtigt (no ge-); takes Akkusativ: eine Wohnung, das Schloss besichtigen; contrast besuchen = يزور عمومًا. Example Arabic: أنا عاينت شقة امبارح. |
+| 372 | ausrichten | يبلّغ رسالة لشخص / ينظّم مناسبة / يوجّه شيئًا ناحية هدف أو اتجاه | ich richte ... aus; du richtest ... aus; er/sie/es richtet ... aus | hat ausgerichtet | Kannst du ihm bitte etwas von mir ausrichten? | introduced | Regular separable verb; Präteritum richtete ... aus; Perfekt hat ausgerichtet. jemandem (Dativ) etwas (Akkusativ) ausrichten = يبلّغ رسالة; eine Feier ausrichten = ينظّم مناسبة; etwas auf + Akkusativ ausrichten = يوجّه نحو هدف. Example Arabic: ممكن تبلّغه حاجة مني؟ |
 
 ## How to read the table
 
