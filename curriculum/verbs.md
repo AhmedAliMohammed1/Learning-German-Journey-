@@ -1,4 +1,4 @@
-# Verb curriculum — 376 introduced verbs
+# Verb curriculum — 377 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -384,6 +384,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 374 | vergehen (user form: vergeht) | يمرّ / ينقضي (الوقت)؛ يزول (الألم) | ich vergehe; du vergehst; er/sie/es vergeht | ist vergangen | Die Zeit vergeht schnell. | introduced | Strong inseparable ver- verb; Präteritum verging; Perfekt ist vergangen, no ge-; Die Schmerzen vergehen = الألم بيزول. Contrast verbringen = يقضي وقتًا. Example Arabic: الوقت بيعدّي بسرعة. |
 | 375 | duzen (user form: geduzt) | يخاطب شخص بصيغة du غير الرسمية | ich duze; du duzt; er duzt | hat geduzt | Darf ich dich duzen? | introduced | Regular verb, Präteritum duzte. Takes Akkusativ; opposite siezen. Example Arabic: ينفع أكلمك بصيغة du؟ |
 | 376 | herausfordern | يتحدى شخصًا / يدفعه لمواجهة تحدي | ich fordere ... heraus; du forderst ... heraus; er/sie/es fordert ... heraus | hat herausgefordert | Ich fordere dich heraus! | introduced | Separable regular verb, Präteritum forderte ... heraus; jemanden (Akkusativ) herausfordern; die Herausforderung = التحدي (V603). Example Arabic: أنا بتحداك! |
+| 377 | atmen | يتنفس | ich atme; du atmest; er/sie/es atmet | hat geatmet | Nach dem Sport atme ich schnell. | introduced | Regular weak verb, Präteritum atmete, Perfekt hat geatmet. Note: ich atme (not ateme), du atmest. Related einatmen = يشهق, ausatmen = يزفر; nouns der Atem = النَّفَس. Example Arabic: بعد الرياضة بتنفس بسرعة. |
 
 ## How to read the table
 
