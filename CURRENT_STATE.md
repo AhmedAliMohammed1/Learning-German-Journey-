@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Stiefel (V584), 2026-11-25
+
+- Learner submitted `stiefel`. Audited complete canonical vocabulary and verb inventories: no previous standalone `Stiefel` lemma.
+- Added **V584 der Stiefel**, plural **die Stiefel** = بوت / جزمة برقبة طويلة. Example `Im Winter trage ich warme Stiefel.` = في الشتا بلبس بوت دافي. Related `Winterstiefel` and `Gummistiefel` explained without additional independent entries.
+- Introduced only, no independent recall or mastery. Canonical totals **370 verbs / 584 vocabulary**. R10 graded/paused, R11 unissued; previous pending work and original answers preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Vocabulary intake — der Alltag (V583), 2026-11-25
 
 - Learner submitted `Alltag`. Audited complete canonical verb and vocabulary inventories: the word appeared only in usage notes for V359 and V384, not as a standalone lemma.
