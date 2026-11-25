@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**603 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**604 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -609,6 +609,7 @@
 | V601 | die Ausrede | die Ausreden; häufig: keine Ausreden! | حجة / عذر للتهرب من حاجة | Du findest immer eine Ausrede. | إنت دايمًا بتلاقي حجة. | noun | introduced |
 | V602 | die Entschuldigung | die Entschuldigungen; related verb sich entschuldigen (#156) | اعتذار / عذر أو تبرير | Ich habe keine Entschuldigung dafür. | معنديش عذر لده. | noun | introduced |
 | V603 | die Herausforderung | die Herausforderungen; related verb herausfordern | تحدي / صعوبة محتاجة مجهود للتغلب عليها | Deutsch zu lernen ist eine große Herausforderung. | تعلم الألماني تحدي كبير. | noun | introduced |
+| V604 | die Armut | meist ohne Plural; in Armut leben; Gegensatz: der Reichtum; related arm = فقير | الفقر | Viele Menschen leben in Armut. | ناس كتير عايشين في فقر. | noun | introduced |
 
 ## Learning notes
 
