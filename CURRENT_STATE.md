@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — unkompliziert (V586) and pending Regisseur (V585), 2026-11-25
+
+- Learner submitted `verändert` and `unkompliziert`. Full canonical vocabulary and verb inventories audited: `verändern` already registered as **#346**, including form `verändert`; no duplicate. `unkompliziert` was not independently present.
+- Added **V586 unkompliziert**, adjective = بسيط / مش معقد / سهل التعامل; antonym `kompliziert`, comparative `unkomplizierter`, superlative `am unkompliziertesten`. Example `Die Anmeldung ist unkompliziert.` = التسجيل سهل ومش معقد.
+- Also reconciled the earlier unsaved learner request **V585 der Regisseur**, plural `die Regisseure` = مخرج فيلم أو مسرحية, with example `Der Regisseur hat einen neuen Film gedreht.` = المخرج صوّر فيلم جديد. No longer pending.
+- Both newly registered vocabulary entries introduced only; no mastery inference. Canonical totals **374 verbs / 586 vocabulary**. R10 graded/paused, R11 unissued; old pending exercises and original learner answers preserved. Structured `progress.json` still awaits reconciliation.
+
 ## Verb intake — vergehen (#374), learner form vergeht, 2026-11-25
 
 - Learner submitted `vergeht`. Audited complete canonical verb and vocabulary inventories: standalone `vergehen` absent; related `Vergangenes` exists as V433 but is not the verb.
