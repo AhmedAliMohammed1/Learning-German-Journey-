@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**583 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**584 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -589,6 +589,7 @@
 | V581 | erschöpft (user form: Erschöpft) | Adjektiv / Partizip II von erschöpfen; völlig / total erschöpft; compare müde and ausgeruht | منهك جدًا / مرهق لدرجة إن الطاقة خلصت | Nach der Arbeit bin ich völlig erschöpft. | بعد الشغل ببقى مرهق جدًا. | adjective / participle | introduced |
 | V582 | mutig (user form: Mutig) | Adjektiv; mutiger; am mutigsten; related der Mut = الشجاعة; mutlos = فاقد الشجاعة | شجاع / جريء / عنده جرأة | Es war mutig von dir, die Wahrheit zu sagen. | كانت شجاعة منك إنك تقول الحقيقة. | adjective | introduced |
 | V583 | der Alltag | die Alltage (selten); im Alltag; alltäglich = يومي / معتاد | الحياة اليومية / الروتين اليومي | Ich lerne Deutsch für den Alltag. | أنا بتعلم ألماني علشان أستخدمه في حياتي اليومية. | noun | introduced |
+| V584 | der Stiefel (user form: stiefel) | die Stiefel; Winterstiefel / Gummistiefel; trägt man im Winter oder bei Regen | بوت / جزمة برقبة طويلة | Im Winter trage ich warme Stiefel. | في الشتا بلبس بوت دافي. | noun | introduced |
 
 ## Learning notes
 
