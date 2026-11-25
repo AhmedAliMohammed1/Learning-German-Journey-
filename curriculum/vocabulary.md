@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**602 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**603 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -608,6 +608,7 @@
 | V600 | im Grunde | fixed phrase; dative -e ending of Grund; im Grunde genommen = في الأساس | في الأساس / في الحقيقة | Im Grunde hast du recht. | في الأساس، إنت عندك حق. | expression | introduced |
 | V601 | die Ausrede | die Ausreden; häufig: keine Ausreden! | حجة / عذر للتهرب من حاجة | Du findest immer eine Ausrede. | إنت دايمًا بتلاقي حجة. | noun | introduced |
 | V602 | die Entschuldigung | die Entschuldigungen; related verb sich entschuldigen (#156) | اعتذار / عذر أو تبرير | Ich habe keine Entschuldigung dafür. | معنديش عذر لده. | noun | introduced |
+| V603 | die Herausforderung | die Herausforderungen; related verb herausfordern | تحدي / صعوبة محتاجة مجهود للتغلب عليها | Deutsch zu lernen ist eine große Herausforderung. | تعلم الألماني تحدي كبير. | noun | introduced |
 
 ## Learning notes
 
