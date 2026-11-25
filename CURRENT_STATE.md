@@ -1,5 +1,12 @@
 # Current study state
 
+## Word intake — duzen (#375) and übrigens (V587), 2026-11-25
+
+- Learner submitted `geduzt`, `Übrigens`. Full canonical verb and vocabulary registers audited: no standalone `duzen` or `übrigens` existing.
+- Registered **#375 duzen** = يكلم حد بصيغة du غير الرسمية; Präsens `ich duze; du duzt; er duzt`; Präteritum `duzte`; Perfekt `hat geduzt`. Example `Darf ich dich duzen?` = ينفع أكلمك بصيغة du؟ Contrasted `siezen` as formality reference (not separately added).
+- Registered **V587 übrigens**, adverb = بالمناسبة / على فكرة. Example `Übrigens, ich habe einen neuen Job gefunden!` = على فكرة، أنا لقيت شغل جديد! Contrasted `außerdem` (already taught).
+- Both introduced only; no independent mastery. Canonical totals **375 verbs / 587 vocabulary**. R10 paused/graded, R11 unissued, earlier pending work and original answers preserved. Structured `progress.json` synchronization remains outstanding.
+
 ## Vocabulary intake — unkompliziert (V586) and pending Regisseur (V585), 2026-11-25
 
 - Learner submitted `verändert` and `unkompliziert`. Full canonical vocabulary and verb inventories audited: `verändern` already registered as **#346**, including form `verändert`; no duplicate. `unkompliziert` was not independently present.
