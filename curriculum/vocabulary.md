@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**592 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**594 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -598,6 +598,8 @@
 | V590 | einerseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية / من جهة | Einerseits können Kinder neue Dinge lernen. | من ناحية، الأطفال يقدروا يتعلموا حاجات جديدة. | adverb | introduced |
 | V591 | andererseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية تانية / من جهة أخرى | Andererseits können sie viel Zeit verlieren. | من ناحية تانية، ممكن يضيّعوا وقت كتير. | adverb | introduced |
 | V592 | Uf Wiederluege mitenand! (user form: aufwiederluege mitenand) | Schweizerdeutsch; alternative spelling Uf Widerluege mitenand; Standarddeutsch: Auf Wiedersehen zusammen! | مع السلامة يا جماعة / أشوفكم على خير كلكم | Uf Wiederluege mitenand! | مع السلامة يا جماعة! | Swiss German expression | introduced |
+| V593 | bereit | Adjektiv; bereit sein für + Akkusativ / zu + Dativ; bereit sein, etwas zu tun; nicht zwingend schon vorbereitet | مستعد / جاهز | Ich bin bereit für die Prüfung. | أنا مستعد للامتحان. | adjective | introduced |
+| V594 | vorbereitet | Adjektiv / Partizip II von vorbereiten (#106); auf + Akkusativ vorbereitet sein | مُحضَّر / مستعد بعد تجهيز | Ich bin gut auf das Vorstellungsgespräch vorbereitet. | أنا محضّر نفسي كويس لمقابلة الشغل. | adjective / participle | introduced |
 
 ## Learning notes
 
