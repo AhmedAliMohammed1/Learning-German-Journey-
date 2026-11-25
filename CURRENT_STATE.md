@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — der Alltag (V583), 2026-11-25
+
+- Learner submitted `Alltag`. Audited complete canonical verb and vocabulary inventories: the word appeared only in usage notes for V359 and V384, not as a standalone lemma.
+- Added **V583 der Alltag**, plural `die Alltage` (rare), = الحياة اليومية / الروتين اليومي. Example `Ich lerne Deutsch für den Alltag.` = أنا بتعلم ألماني علشان أستخدمه في حياتي اليومية. Contrast `der Tagesablauf` = تسلسل أنشطة اليوم. Expression `im Alltag`; adjective `alltäglich` explained but not separately registered.
+- Introduced only, no independent recall/mastery. Canonical totals **370 verbs / 583 vocabulary**. Latest graded R10 remains paused and R11 unissued; older pending exercises and answers preserved. Structured `progress.json` remains pending reconciliation.
+
 ## Verb intake — bekämpfen (#370), learner form Bekämpft, 2026-11-22
 
 - Learner submitted `Bekämpft`. Audited complete canonical verb and vocabulary inventories: no previously registered `bekämpfen` or `bekämpft` lemma.
