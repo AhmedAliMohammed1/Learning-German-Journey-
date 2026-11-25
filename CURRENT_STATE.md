@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — betrachten #378, 2026-11-25
+
+- Learner submitted `betrachte` and explicitly requested registration. Complete canonical verb and vocabulary inventories checked; no duplicate. Existing `schlagen` #301 retained.
+- Registered **#378 betrachten** = يتأمل / ينظر باهتمام / يعتبر; Präsens `ich betrachte, du betrachtest, er betrachtet`; Präteritum `betrachtete`; Perfekt `hat betrachtet`. Example `Ich betrachte das als Chance.` = أنا بعتبر ده فرصة.
+- Introduced, not mastered. Canonical totals **378 verbs / 604 vocabulary**. R10 graded/paused, R11 unissued; structured progress.json synchronization remains pending.
+
 ## Verb intake — atmen #377, 2026-11-25
 
 - Learner submitted `atmen`. Audited full canonical vocabulary and verb inventories; no matching standalone lemma found.
