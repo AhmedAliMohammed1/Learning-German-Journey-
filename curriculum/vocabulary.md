@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**587 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**589 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -593,6 +593,8 @@
 | V585 | der Regisseur | die Regisseure; weiblich: die Regisseurin / die Regisseurinnen | المخرج السينمائي أو المسرحي | Der Regisseur hat einen neuen Film gedreht. | المخرج صوّر فيلم جديد. | noun | introduced |
 | V586 | unkompliziert | Adjektiv; unkomplizierter; am unkompliziertesten; Gegenteil kompliziert | بسيط / مش معقد / سهل التعامل | Die Anmeldung ist unkompliziert. | التسجيل سهل ومش معقد. | adjective | introduced |
 | V587 | übrigens (user form: Übrigens) | Adverb; übrigens = بالمناسبة, auf eine beiläufige Zusatzinformation hinweisen; contrast außerdem | بالمناسبة / على فكرة | Übrigens, ich habe einen neuen Job gefunden! | على فكرة، أنا لقيت شغل جديد! | adverb | introduced |
+| V588 | der Vorteil | die Vorteile; Vorteil von + Dativ; Vor- und Nachteile | ميزة / فائدة | Ein Fernseher im Kinderzimmer hat einige Vorteile. | وجود تلفزيون في أوضة الأطفال ليه شوية مميزات. | noun | introduced |
+| V589 | der Nachteil | die Nachteile; Nachteil von + Dativ; Gegensatz: Vorteil | عيب / جانب سلبي | Ein Nachteil ist, dass Kinder zu viel fernsehen. | من العيوب إن الأطفال بيتفرجوا على التلفزيون كتير. | noun | introduced |
 
 ## Learning notes
 
