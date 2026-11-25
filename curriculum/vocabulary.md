@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**600 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**602 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -606,6 +606,8 @@
 | V598 | zurzeit | Adverb; bedeutet aktuell/gegenwärtig; Schreibweise: zurzeit | حاليًا / في الوقت الحالي | Zurzeit lerne ich Deutsch. | حاليًا أنا بتعلم ألماني. | adverb | introduced |
 | V599 | der Grund (user form: grunde) | die Gründe; aus diesem Grund = للسبب ده; für + Akkusativ | السبب / الأساس | Ich habe viele Gründe, Deutsch zu lernen. | عندي أسباب كتير إني أتعلم ألماني. | noun | introduced |
 | V600 | im Grunde | fixed phrase; dative -e ending of Grund; im Grunde genommen = في الأساس | في الأساس / في الحقيقة | Im Grunde hast du recht. | في الأساس، إنت عندك حق. | expression | introduced |
+| V601 | die Ausrede | die Ausreden; häufig: keine Ausreden! | حجة / عذر للتهرب من حاجة | Du findest immer eine Ausrede. | إنت دايمًا بتلاقي حجة. | noun | introduced |
+| V602 | die Entschuldigung | die Entschuldigungen; related verb sich entschuldigen (#156) | اعتذار / عذر أو تبرير | Ich habe keine Entschuldigung dafür. | معنديش عذر لده. | noun | introduced |
 
 ## Learning notes
 
