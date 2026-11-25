@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — Swiss German farewell V592, 2026-11-25
+
+- Learner wrote `aufwiederluege mitenand`. Full canonical vocabulary and verb inventories checked; no duplicate.
+- Registered **V592 Uf Wiederluege mitenand!** (also written `Uf Widerluege mitenand!`), Swiss German farewell meaning **مع السلامة يا جماعة**, standard German `Auf Wiedersehen zusammen!`. Example `Uf Wiederluege mitenand!` = مع السلامة يا جماعة!
+- This is dialect, not standard German. Introduced only. Canonical totals **375 verbs / 592 vocabulary**; keep older pending practice and R10/R11 progression unchanged; `progress.json` reconciliation outstanding.
+
 ## Vocabulary intake — einerseits V590 and andererseits V591, 2026-11-25
 
 - Learner asked whether `einerseits` and `andererseits` were missing. Audited complete canonical verb and vocabulary lists: both absent.
