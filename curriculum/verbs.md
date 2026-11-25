@@ -1,4 +1,4 @@
-# Verb curriculum — 375 introduced verbs
+# Verb curriculum — 376 introduced verbs
 
 There is **no fixed final verb target**. This is one open-ended verb inventory. Every future new verb gets the next sequential ID.
 
@@ -383,6 +383,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 373 | drehen (user form: gedreht) | يلف / يدور / يصوّر فيلم | ich drehe; du drehst; er/sie/es dreht | hat gedreht | Der Regisseur hat einen neuen Film gedreht. | introduced | Regular verb; Präteritum drehte; einen Film drehen = يصوّر فيلم; Akkusativ object; distinct from earlier umdrehen / aufdrehen / zudrehen. Example Arabic: المخرج صوّر فيلم جديد. |
 | 374 | vergehen (user form: vergeht) | يمرّ / ينقضي (الوقت)؛ يزول (الألم) | ich vergehe; du vergehst; er/sie/es vergeht | ist vergangen | Die Zeit vergeht schnell. | introduced | Strong inseparable ver- verb; Präteritum verging; Perfekt ist vergangen, no ge-; Die Schmerzen vergehen = الألم بيزول. Contrast verbringen = يقضي وقتًا. Example Arabic: الوقت بيعدّي بسرعة. |
 | 375 | duzen (user form: geduzt) | يخاطب شخص بصيغة du غير الرسمية | ich duze; du duzt; er duzt | hat geduzt | Darf ich dich duzen? | introduced | Regular verb, Präteritum duzte. Takes Akkusativ; opposite siezen. Example Arabic: ينفع أكلمك بصيغة du؟ |
+| 376 | herausfordern | يتحدى شخصًا / يدفعه لمواجهة تحدي | ich fordere ... heraus; du forderst ... heraus; er/sie/es fordert ... heraus | hat herausgefordert | Ich fordere dich heraus! | introduced | Separable regular verb, Präteritum forderte ... heraus; jemanden (Akkusativ) herausfordern; die Herausforderung = التحدي (V603). Example Arabic: أنا بتحداك! |
 
 ## How to read the table
 
