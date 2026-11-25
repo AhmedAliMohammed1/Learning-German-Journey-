@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — einerseits V590 and andererseits V591, 2026-11-25
+
+- Learner asked whether `einerseits` and `andererseits` were missing. Audited complete canonical verb and vocabulary lists: both absent.
+- Registered **V590 einerseits** = من ناحية; example `Einerseits können Kinder neue Dinge lernen.` = من ناحية، الأطفال يقدروا يتعلموا حاجات جديدة.
+- Registered **V591 andererseits** = من ناحية تانية; example `Andererseits können sie viel Zeit verlieren.` = من ناحية تانية، ممكن يضيّعوا وقت كتير.
+- Useful paired contrast `einerseits ... andererseits`; finite verb in second position when these lead their own clauses. Introduced only, no mastery inference. Canonical totals **375 verbs / 591 vocabulary**; existing R10 paused/R11 not issued preserved, `progress.json` remains pending synchronization.
+
 ## Vocabulary intake — Vorteil V588 / Nachteil V589, 2026-11-25
 
 - User explicitly requested adding "مميزات وعيوب". Full vocabulary and verb lists checked; standalone Vorteil/Nachteil were absent.
