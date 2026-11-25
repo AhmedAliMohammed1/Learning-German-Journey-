@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — die Ausrede V601 / die Entschuldigung V602, 2026-11-25
+
+- User asked meaning of `أعذار`. Full canonical verb/vocabulary inventories reviewed: neither noun present; related verb `sich entschuldigen` already #156, not duplicated.
+- Registered **V601 die Ausrede**, plural `die Ausreden` = حجة / عذر للتهرب; example `Du findest immer eine Ausrede.` = إنت دايمًا بتلاقي حجة.
+- Registered **V602 die Entschuldigung**, plural `die Entschuldigungen` = اعتذار / عذر أو تبرير; example `Ich habe keine Entschuldigung dafür.` = معنديش عذر لده.
+- Both introduced only, no mastery inference. Canonical totals **375 verbs / 602 vocabulary**; prior review progression unchanged; structured progress.json still not synchronized.
+
 ## Vocabulary intake — der Grund V599 / im Grunde V600, 2026-11-25
 
 - Learner submitted ambiguous `grunde`. Inspected entire canonical verb/vocabulary files: `der Grund` and `im Grunde` absent (related `der Hintergrund` V570 already recorded, not equivalent).
