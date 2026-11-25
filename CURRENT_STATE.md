@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — der Grund V599 / im Grunde V600, 2026-11-25
+
+- Learner submitted ambiguous `grunde`. Inspected entire canonical verb/vocabulary files: `der Grund` and `im Grunde` absent (related `der Hintergrund` V570 already recorded, not equivalent).
+- Registered **V599 der Grund**, plural `die Gründe` = السبب / الأساس. Example `Ich habe viele Gründe, Deutsch zu lernen.` = عندي أسباب كتير إني أتعلم ألماني.
+- Registered **V600 im Grunde**, idiomatic fixed expression = في الأساس / في الحقيقة. Example `Im Grunde hast du recht.` = في الأساس، إنت عندك حق. Explained `Gründe` (plural) vs `Grunde` old dative form.
+- Introduced, no mastery inference. Totals **375 verbs / 600 vocabulary**. R10 paused/R11 unissued; structured progress.json not synchronized.
+
 ## Temporal phrases intake V595–V598, 2026-11-25
 
 - User asked how to say `في هذا الوقت`. Checked entire canonical vocabulary and verbs: four target phrases absent.
