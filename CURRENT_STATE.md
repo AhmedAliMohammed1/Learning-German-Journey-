@@ -1,5 +1,12 @@
 # Current study state
 
+## Verb intake — atmen #377, 2026-11-25
+
+- Learner submitted `atmen`. Audited full canonical vocabulary and verb inventories; no matching standalone lemma found.
+- Registered **#377 atmen** = يتنفس; Präsens `ich atme, du atmest, er atmet`; Präteritum `atmete`; Perfekt `hat geatmet`. Example `Nach dem Sport atme ich schnell.` = بعد الرياضة بتنفس بسرعة.
+- Explained related `einatmen` = ياخد نفس, `ausatmen` = يزفر, `der Atem` = النفس; not registered separately yet.
+- Introduced, not mastered. Canonical totals **377 verbs / 604 vocabulary**. R10 graded/paused, R11 unissued; structured progress.json remains unsynchronized.
+
 ## Vocabulary intake — die Armut V604, 2026-11-25
 
 - Learner submitted `Armut`; full verb and vocabulary registers checked; `die Armut` absent (distinct from `der Arm` V336).
