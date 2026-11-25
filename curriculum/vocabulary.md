@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**586 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**587 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -592,6 +592,7 @@
 | V584 | der Stiefel (user form: stiefel) | die Stiefel; Winterstiefel / Gummistiefel; trägt man im Winter oder bei Regen | بوت / جزمة برقبة طويلة | Im Winter trage ich warme Stiefel. | في الشتا بلبس بوت دافي. | noun | introduced |
 | V585 | der Regisseur | die Regisseure; weiblich: die Regisseurin / die Regisseurinnen | المخرج السينمائي أو المسرحي | Der Regisseur hat einen neuen Film gedreht. | المخرج صوّر فيلم جديد. | noun | introduced |
 | V586 | unkompliziert | Adjektiv; unkomplizierter; am unkompliziertesten; Gegenteil kompliziert | بسيط / مش معقد / سهل التعامل | Die Anmeldung ist unkompliziert. | التسجيل سهل ومش معقد. | adjective | introduced |
+| V587 | übrigens (user form: Übrigens) | Adverb; übrigens = بالمناسبة, auf eine beiläufige Zusatzinformation hinweisen; contrast außerdem | بالمناسبة / على فكرة | Übrigens, ich habe einen neuen Job gefunden! | على فكرة، أنا لقيت شغل جديد! | adverb | introduced |
 
 ## Learning notes
 
