@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**594 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**598 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -600,6 +600,10 @@
 | V592 | Uf Wiederluege mitenand! (user form: aufwiederluege mitenand) | Schweizerdeutsch; alternative spelling Uf Widerluege mitenand; Standarddeutsch: Auf Wiedersehen zusammen! | مع السلامة يا جماعة / أشوفكم على خير كلكم | Uf Wiederluege mitenand! | مع السلامة يا جماعة! | Swiss German expression | introduced |
 | V593 | bereit | Adjektiv; bereit sein für + Akkusativ / zu + Dativ; bereit sein, etwas zu tun; nicht zwingend schon vorbereitet | مستعد / جاهز | Ich bin bereit für die Prüfung. | أنا مستعد للامتحان. | adjective | introduced |
 | V594 | vorbereitet | Adjektiv / Partizip II von vorbereiten (#106); auf + Akkusativ vorbereitet sein | مُحضَّر / مستعد بعد تجهيز | Ich bin gut auf das Vorstellungsgespräch vorbereitet. | أنا محضّر نفسي كويس لمقابلة الشغل. | adjective / participle | introduced |
+| V595 | zu dieser Zeit | Zeitangabe für einen bestimmten Zeitpunkt/Zeitraum (oft in der Vergangenheit); zu + Dativ | في الوقت ده / في الفترة دي | Zu dieser Zeit habe ich viel gearbeitet. | في الوقت ده كنت بشتغل كتير. | expression | introduced |
+| V596 | in dieser Zeit | in + Dativ; während dieses Zeitraums | خلال الفترة دي | In dieser Zeit habe ich Deutsch gelernt. | خلال الفترة دي اتعلمت ألماني. | expression | introduced |
+| V597 | im Moment | im = in dem; aktuell / gerade jetzt | في الوقت الحالي / دلوقتي | Im Moment lerne ich Deutsch. | دلوقتي أنا بتعلم ألماني. | expression | introduced |
+| V598 | zurzeit | Adverb; bedeutet aktuell/gegenwärtig; Schreibweise: zurzeit | حاليًا / في الوقت الحالي | Zurzeit lerne ich Deutsch. | حاليًا أنا بتعلم ألماني. | adverb | introduced |
 
 ## Learning notes
 
