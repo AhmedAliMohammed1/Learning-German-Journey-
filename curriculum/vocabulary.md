@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**589 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**591 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -595,6 +595,8 @@
 | V587 | übrigens (user form: Übrigens) | Adverb; übrigens = بالمناسبة, auf eine beiläufige Zusatzinformation hinweisen; contrast außerdem | بالمناسبة / على فكرة | Übrigens, ich habe einen neuen Job gefunden! | على فكرة، أنا لقيت شغل جديد! | adverb | introduced |
 | V588 | der Vorteil | die Vorteile; Vorteil von + Dativ; Vor- und Nachteile | ميزة / فائدة | Ein Fernseher im Kinderzimmer hat einige Vorteile. | وجود تلفزيون في أوضة الأطفال ليه شوية مميزات. | noun | introduced |
 | V589 | der Nachteil | die Nachteile; Nachteil von + Dativ; Gegensatz: Vorteil | عيب / جانب سلبي | Ein Nachteil ist, dass Kinder zu viel fernsehen. | من العيوب إن الأطفال بيتفرجوا على التلفزيون كتير. | noun | introduced |
+| V590 | einerseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية / من جهة | Einerseits können Kinder neue Dinge lernen. | من ناحية، الأطفال يقدروا يتعلموا حاجات جديدة. | adverb | introduced |
+| V591 | andererseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية تانية / من جهة أخرى | Andererseits können sie viel Zeit verlieren. | من ناحية تانية، ممكن يضيّعوا وقت كتير. | adverb | introduced |
 
 ## Learning notes
 
