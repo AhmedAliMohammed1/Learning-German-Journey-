@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — bereit V593 and vorbereitet V594, 2026-11-25
+
+- User asked translation of Arabic مستعد. Complete vocabulary and verb inventories checked: standalone adjectives `bereit`, `vorbereitet` not present; related `vorbereiten` already registered verb #106, supplemented V142, so no verb duplicate.
+- Registered **V593 bereit**, adjective = مستعد / جاهز; `Ich bin bereit für die Prüfung.` = أنا مستعد للامتحان.
+- Registered **V594 vorbereitet**, adjective / Partizip II = مُحضّر / مستعد بعد تجهيز; `Ich bin gut auf das Vorstellungsgespräch vorbereitet.` = أنا محضّر نفسي كويس لمقابلة الشغل.
+- Distinction: bereit = ready to start, vorbereitet = prepared through advance work. Introduced not mastered. Canonical totals **375 verbs / 594 vocabulary**; prior review progression unchanged; structured progress.json pending.
+
 ## Vocabulary intake — Swiss German farewell V592, 2026-11-25
 
 - Learner wrote `aufwiederluege mitenand`. Full canonical vocabulary and verb inventories checked; no duplicate.
