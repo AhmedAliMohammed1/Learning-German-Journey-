@@ -1,5 +1,11 @@
 # Current study state
 
+## Vocabulary intake — die Armut V604, 2026-11-25
+
+- Learner submitted `Armut`; full verb and vocabulary registers checked; `die Armut` absent (distinct from `der Arm` V336).
+- Registered **V604 die Armut**, usually uncountable feminine noun = الفقر; related `arm` = فقير, `reich` = غني, `der Reichtum` = الثروة. Example `Viele Menschen leben in Armut.` = ناس كتير عايشين في فقر.
+- Introduced only, not mastered. Current canonical totals **376 verbs / 604 vocabulary**; previously graded R10 and unissued R11 preserved, structured `progress.json` reconciliation remains outstanding.
+
 ## Word intake — Herausforderung V603 and herausfordern #376, 2026-11-25
 
 - User asked `تحدي`. Full canonical verb and vocabulary inventories reviewed; neither target lemma present.
