@@ -1,5 +1,12 @@
 # Current study state
 
+## Word intake — Herausforderung V603 and herausfordern #376, 2026-11-25
+
+- User asked `تحدي`. Full canonical verb and vocabulary inventories reviewed; neither target lemma present.
+- Registered **V603 die Herausforderung**, plural `die Herausforderungen` = تحدي. Example `Deutsch zu lernen ist eine große Herausforderung.` = تعلم الألماني تحدي كبير.
+- Registered **#376 herausfordern**, separable regular verb; Präsens `ich fordere ... heraus; du forderst ... heraus; er fordert ... heraus`; Perfekt `hat herausgefordert`; jemanden (Akkusativ) herausfordern = يتحدى شخصًا. Example `Ich fordere dich heraus!` = أنا بتحداك!
+- Introduced only, not mastered. Canonical totals **376 verbs / 603 vocabulary**. Review status R10 paused/R11 not issued preserved. `progress.json` synchronization still pending.
+
 ## Vocabulary intake — die Ausrede V601 / die Entschuldigung V602, 2026-11-25
 
 - User asked meaning of `أعذار`. Full canonical verb/vocabulary inventories reviewed: neither noun present; related verb `sich entschuldigen` already #156, not duplicated.
