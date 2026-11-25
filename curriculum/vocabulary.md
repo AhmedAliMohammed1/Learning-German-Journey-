@@ -1,6 +1,6 @@
 # Vocabulary register
 
-**591 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
+**592 distinct registered entries** (nouns, expressions, proper names and previously encountered supplemental verbs). This is the register count, **not** the number mastered. Original teaching evidence and exercises remain in the dated day files and `progress.json`.
 
 ## Unified vocabulary inventory
 
@@ -597,6 +597,7 @@
 | V589 | der Nachteil | die Nachteile; Nachteil von + Dativ; Gegensatz: Vorteil | عيب / جانب سلبي | Ein Nachteil ist, dass Kinder zu viel fernsehen. | من العيوب إن الأطفال بيتفرجوا على التلفزيون كتير. | noun | introduced |
 | V590 | einerseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية / من جهة | Einerseits können Kinder neue Dinge lernen. | من ناحية، الأطفال يقدروا يتعلموا حاجات جديدة. | adverb | introduced |
 | V591 | andererseits | Adverb; pair: einerseits ... andererseits; verb-second word order | من ناحية تانية / من جهة أخرى | Andererseits können sie viel Zeit verlieren. | من ناحية تانية، ممكن يضيّعوا وقت كتير. | adverb | introduced |
+| V592 | Uf Wiederluege mitenand! (user form: aufwiederluege mitenand) | Schweizerdeutsch; alternative spelling Uf Widerluege mitenand; Standarddeutsch: Auf Wiedersehen zusammen! | مع السلامة يا جماعة / أشوفكم على خير كلكم | Uf Wiederluege mitenand! | مع السلامة يا جماعة! | Swiss German expression | introduced |
 
 ## Learning notes
 
