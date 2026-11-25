@@ -1,5 +1,12 @@
 # Current study state
 
+## Vocabulary intake — Vorteil V588 / Nachteil V589, 2026-11-25
+
+- User explicitly requested adding "مميزات وعيوب". Full vocabulary and verb lists checked; standalone Vorteil/Nachteil were absent.
+- Registered **V588 der Vorteil**, plural **die Vorteile** = ميزة / فائدة; example `Ein Fernseher im Kinderzimmer hat einige Vorteile.` = وجود تلفزيون في أوضة الأطفال ليه شوية مميزات.
+- Registered **V589 der Nachteil**, plural **die Nachteile** = عيب / جانب سلبي; example `Ein Nachteil ist, dass Kinder zu viel fernsehen.` = من العيوب إن الأطفال بيتفرجوا على التلفزيون كتير.
+- Fixed phrase **Vor- und Nachteile** = مميزات وعيوب; both entries introduced, not mastered. Canonical totals **375 verbs / 589 vocabulary**; earlier R10 paused / R11 unissued remain unchanged, structured progress.json still pending.
+
 ## Word intake — duzen (#375) and übrigens (V587), 2026-11-25
 
 - Learner submitted `geduzt`, `Übrigens`. Full canonical verb and vocabulary registers audited: no standalone `duzen` or `übrigens` existing.
