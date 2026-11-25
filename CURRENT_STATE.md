@@ -1,5 +1,14 @@
 # Current study state
 
+## Temporal phrases intake V595–V598, 2026-11-25
+
+- User asked how to say `في هذا الوقت`. Checked entire canonical vocabulary and verbs: four target phrases absent.
+- Registered **V595 zu dieser Zeit** = في الوقت ده; example `Zu dieser Zeit habe ich viel gearbeitet.` = في الوقت ده كنت بشتغل كتير.
+- Registered **V596 in dieser Zeit** = خلال الفترة دي; example `In dieser Zeit habe ich Deutsch gelernt.` = خلال الفترة دي اتعلمت ألماني.
+- Registered **V597 im Moment** = في الوقت الحالي; example `Im Moment lerne ich Deutsch.` = دلوقتي أنا بتعلم ألماني.
+- Registered **V598 zurzeit** = حاليًا; example `Zurzeit lerne ich Deutsch.` = حاليًا أنا بتعلم ألماني.
+- Introduced, not mastered. Totals **375 verbs / 598 vocabulary**. Existing review state preserved and structured progress.json reconciliation still pending.
+
 ## Vocabulary intake — bereit V593 and vorbereitet V594, 2026-11-25
 
 - User asked translation of Arabic مستعد. Complete vocabulary and verb inventories checked: standalone adjectives `bereit`, `vorbereitet` not present; related `vorbereiten` already registered verb #106, supplemented V142, so no verb duplicate.
