@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — vergehen (#374), learner form vergeht, 2026-11-25
+
+- Learner submitted `vergeht`. Audited complete canonical verb and vocabulary inventories: standalone `vergehen` absent; related `Vergangenes` exists as V433 but is not the verb.
+- Registered **#374 vergehen** = الوقت يمرّ / ينقضي، أو الألم يزول; Präsens `ich vergehe; du vergehst; er/sie/es vergeht`; Präteritum `verging`; Perfekt `ist vergangen`. Strong inseparable verb with ver-. Example `Die Zeit vergeht schnell.` = الوقت بيعدّي بسرعة. Distinguished from `verbringen`.
+- Introduced only, no independent recall/mastery. Canonical totals **374 verbs / 584 vocabulary**; previously requested Regisseur V585 still not verified uploaded. R10 graded/paused, R11 unissued, earlier learner answers and pending work intact. Structured `progress.json` synchronization pending.
+
 ## Workbook 72 and verb intake — drehen (#373), 2026-11-25
 
 - Learner showed a relative-clause multiple-choice exercise `Von dem Regisseur, ___ den neuen Fußballfilm gedreht hat`; correct answer `der` (Nominativ subject of relative clause; `dem` belongs to outer `von + Dativ`).
