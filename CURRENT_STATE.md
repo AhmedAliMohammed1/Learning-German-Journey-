@@ -1,5 +1,11 @@
 # Current study state
 
+## Verb intake — übergeben #379, 2026-11-26
+
+- Learner submitted `Übergeben`; complete canonical verb and vocabulary inventories checked, no matching lemma.
+- Registered **#379 übergeben** = يسلّم / يناول / ينقل المسؤولية; Präsens `ich übergebe, du übergibst, er übergibt`; Präteritum `übergab`; Perfekt `hat übergeben`. Example `Ich übergebe dir die Schlüssel.` = أنا بسلّمك المفاتيح. Reflexive `sich übergeben` = يتقيأ / يرجّع, Perfekt `hat sich übergeben`, documented under same lemma to avoid duplication.
+- Introduced only, not mastered. Canonical totals **379 verbs / 604 vocabulary**. R10 graded/paused, R11 unissued; structured progress.json reconciliation remains pending.
+
 ## Verb intake — betrachten #378, 2026-11-25
 
 - Learner submitted `betrachte` and explicitly requested registration. Complete canonical verb and vocabulary inventories checked; no duplicate. Existing `schlagen` #301 retained.
