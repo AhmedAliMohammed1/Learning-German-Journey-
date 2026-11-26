@@ -386,6 +386,7 @@ There is **no fixed final verb target**. This is one open-ended verb inventory. 
 | 376 | herausfordern | يتحدى شخصًا / يدفعه لمواجهة تحدي | ich fordere ... heraus; du forderst ... heraus; er/sie/es fordert ... heraus | hat herausgefordert | Ich fordere dich heraus! | introduced | Separable regular verb, Präteritum forderte ... heraus; jemanden (Akkusativ) herausfordern; die Herausforderung = التحدي (V603). Example Arabic: أنا بتحداك! |
 | 377 | atmen | يتنفس | ich atme; du atmest; er/sie/es atmet | hat geatmet | Nach dem Sport atme ich schnell. | introduced | Regular weak verb, Präteritum atmete, Perfekt hat geatmet. Note: ich atme (not ateme), du atmest. Related einatmen = يشهق, ausatmen = يزفر; nouns der Atem = النَّفَس. Example Arabic: بعد الرياضة بتنفس بسرعة. |
 | 378 | betrachten | يتأمل / ينظر إلى شيء باهتمام / يعتبر | ich betrachte; du betrachtest; er/sie/es betrachtet | hat betrachtet | Ich betrachte das als Chance. | introduced | Regular inseparable verb; Präteritum betrachtete; Akk object; etwas als etwas betrachten. Example Arabic: أنا بعتبر ده فرصة. |
+| 379 | übergeben | يسلّم / يناول / ينقل المسؤولية؛ sich übergeben = يتقيأ | ich übergebe; du übergibst; er/sie/es übergibt | hat übergeben | Ich übergebe dir die Schlüssel. | introduced | Inseparable strong verb; Präteritum übergab; Dat recipient + Akk thing; reflexive sich übergeben = vomit, hat sich übergeben. Example Arabic: أنا بسلّمك المفاتيح. |
 
 ## How to read the table
 
