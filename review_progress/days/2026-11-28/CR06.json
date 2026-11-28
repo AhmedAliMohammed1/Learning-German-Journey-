@@ -1,0 +1,183 @@
+{
+  "batch_id": "CR06",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E01",
+      "item_id": "V044",
+      "prompt_ar": "القاعدة (زي قاعدة نحوية أو قاعدة في لعبة)",
+      "reference": {
+        "german": "die Regel",
+        "plural_or_reference": "die Regeln",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E02",
+      "item_id": "V528",
+      "prompt_ar": "زي تنكري / زي مسرحي",
+      "reference": {
+        "german": "das Kostüm",
+        "plural_or_reference": "die Kostüme",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E03",
+      "item_id": "V511",
+      "prompt_ar": "شغال في مهنة أو مجال معين (صفة تُستخدم مع فعل يكون)",
+      "reference": {
+        "german": "tätig",
+        "plural_or_reference": "Adjektiv; häufig: als + Beruf tätig sein, bei + Arbeitgeber tätig sein, in + Dativ tätig sein",
+        "type": "adjective"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E04",
+      "item_id": "V275",
+      "prompt_ar": "ملتزم بالمواعيد / في المعاد بالضبط",
+      "reference": {
+        "german": "pünktlich",
+        "plural_or_reference": "—",
+        "type": "adjective_adverb"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E05",
+      "item_id": "V125",
+      "prompt_ar": "جدول مواعيد المواصلات",
+      "reference": {
+        "german": "der Fahrplan",
+        "plural_or_reference": "die Fahrpläne",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E06",
+      "item_id": "V474",
+      "prompt_ar": "متاح / متوفر للاستخدام",
+      "reference": {
+        "german": "verfügbar",
+        "plural_or_reference": "Adjektiv: verfügbar / nicht verfügbar; Komparativ verfügbarer (selten)",
+        "type": "adjective"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E07",
+      "item_id": "V038",
+      "prompt_ar": "الوظيفة / الشغل",
+      "reference": {
+        "german": "der Job",
+        "plural_or_reference": "die Jobs",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E08",
+      "item_id": "V094",
+      "prompt_ar": "القرب (زي: محطة القطار قريبة من هنا)",
+      "reference": {
+        "german": "die Nähe",
+        "plural_or_reference": "—",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E09",
+      "item_id": "V350",
+      "prompt_ar": "العين",
+      "reference": {
+        "german": "das Auge",
+        "plural_or_reference": "die Augen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR06-E10",
+      "item_id": "V027",
+      "prompt_ar": "الباب",
+      "reference": {
+        "german": "die Tür",
+        "plural_or_reference": "die Türen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
