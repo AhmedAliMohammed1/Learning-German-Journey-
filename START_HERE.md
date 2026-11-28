@@ -2,6 +2,11 @@
 
 Read the [current study state](CURRENT_STATE.md), then follow the startup reads below. For the latest pause and next exercise choice, use the dated learner evidence and structured progress. A pause leaves the day open.
 
+
+## Active comprehensive review plan — 2026-11-28
+
+Read [COMPREHENSIVE_REVIEW_PLAN.md](COMPREHENSIVE_REVIEW_PLAN.md) at startup before choosing exercises. Learner approved 30 verbs + 40 vocabulary entries daily, 7 days/week; temporarily freeze new material. The plan is approved but not started, and supersedes new-material requirements during review. Preserve historical pending work; do not reset mastery or assume progress.json is synchronized.
+
 ## 1. Required startup reads
 
 Every new chat starts with a **mandatory read-only check**. Complete it before teaching, choosing a continuation, or editing repository files.
