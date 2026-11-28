@@ -1,0 +1,185 @@
+{
+  "batch_id": "CR07",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. Accept either gender form for composer. If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E01",
+      "item_id": "V442",
+      "prompt_ar": "مؤلف موسيقي / ملحّن",
+      "reference": {
+        "german": "der Komponist / die Komponistin",
+        "plural_or_reference": "die Komponisten / die Komponistinnen (Komponisten auch Akk./Dat./Gen. Singular maskulin)",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E02",
+      "item_id": "V124",
+      "prompt_ar": "إيصال الدفع أو الشراء",
+      "reference": {
+        "german": "die Quittung",
+        "plural_or_reference": "die Quittungen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E03",
+      "item_id": "V150",
+      "prompt_ar": "في البيت (مش إلى البيت)",
+      "reference": {
+        "german": "zu Hause",
+        "plural_or_reference": "—",
+        "type": "expression"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E04",
+      "item_id": "V011",
+      "prompt_ar": "الهدية",
+      "reference": {
+        "german": "das Geschenk",
+        "plural_or_reference": "die Geschenke",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E05",
+      "item_id": "V571",
+      "prompt_ar": "بالصدفة / بشكل غير مقصود",
+      "reference": {
+        "german": "zufällig",
+        "plural_or_reference": "Adjektiv/Adverb; zufälliger; am zufälligsten (selten); related noun der Zufall V565",
+        "type": "adjective / adverb"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E06",
+      "item_id": "V042",
+      "prompt_ar": "وجبة العشاء",
+      "reference": {
+        "german": "das Abendessen",
+        "plural_or_reference": "die Abendessen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E07",
+      "item_id": "V063",
+      "prompt_ar": "الترابيزة / الطاولة",
+      "reference": {
+        "german": "der Tisch",
+        "plural_or_reference": "die Tische",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E08",
+      "item_id": "V390",
+      "prompt_ar": "مادة غذائية / نوع من الأكل",
+      "reference": {
+        "german": "das Nahrungsmittel",
+        "plural_or_reference": "die Nahrungsmittel",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E09",
+      "item_id": "V002",
+      "prompt_ar": "الموبايل / الهاتف المحمول",
+      "reference": {
+        "german": "das Handy",
+        "plural_or_reference": "die Handys",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR07-E10",
+      "item_id": "V046",
+      "prompt_ar": "المياه / الماء",
+      "reference": {
+        "german": "das Wasser",
+        "plural_or_reference": "—",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
