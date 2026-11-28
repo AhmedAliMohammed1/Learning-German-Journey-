@@ -1,0 +1,126 @@
+{
+  "batch_id": "GR01",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "grammar_context_translation",
+  "status": "issued_pending_answers",
+  "topic": "Nominativ, Akkusativ, Dativ, Genitiv",
+  "source": "curriculum/grammar.md",
+  "lesson_status": "explained_pending_assessment",
+  "rule_summary": [
+    "Nominativ subject; Akkusativ direct object; Dativ recipient or governed by verb/preposition; Genitiv possession or governed case.",
+    "Definite articles: der/die/das/die; den/die/das/die; dem/der/dem/den; des/der/des/der.",
+    "Indefinite and possessive articles follow ein-pattern; no plural ein; possessive stem owner, ending case/gender/number of possessed noun.",
+    "Personal and reflexive pronouns distinguish mich/mir, dich/dir; third-person reflexive sich; Genitiv personal pronouns rare.",
+    "Dativ plural adds n where applicable; Genitiv masculine/neuter singular usually s/es; two-way prepositions location Dativ, destination Akkusativ."
+  ],
+  "instructions": "Translate five full sentences; no multiple choice. Grade case dimensions separately from vocabulary, spelling, word order and agreement; accept equivalent natural sentences, but note when target structure not demonstrated.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-GR01-E01",
+      "prompt_ar": "المدرس بيشوف راجل.",
+      "reference": {
+        "sentence": "Der Lehrer sieht einen Mann.",
+        "accept_natural_equivalents": true
+      },
+      "dimensions": [
+        "nominativ",
+        "akkusativ",
+        "indefinite_article",
+        "verb_agreement"
+      ],
+      "curriculum_ids": [
+        "V008",
+        "V098",
+        11
+      ],
+      "kind": "context",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-GR01-E02",
+      "prompt_ar": "أنا بساعد أخويا.",
+      "reference": {
+        "sentence": "Ich helfe meinem Bruder.",
+        "accept_natural_equivalents": true
+      },
+      "dimensions": [
+        "dativ",
+        "possessive_article",
+        "verb_government"
+      ],
+      "curriculum_ids": [
+        "V004",
+        17
+      ],
+      "kind": "context",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-GR01-E03",
+      "prompt_ar": "هي بتديني مفتاح العربية.",
+      "reference": {
+        "sentence": "Sie gibt mir den Autoschlüssel.",
+        "accept_natural_equivalents": true
+      },
+      "dimensions": [
+        "nominativ",
+        "dativ_pronoun",
+        "akkusativ",
+        "definite_article"
+      ],
+      "curriculum_ids": [
+        "V012",
+        19
+      ],
+      "kind": "context",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-GR01-E04",
+      "prompt_ar": "الكتاب بتاع أبويا موجود على الترابيزة. (استخدم Genitiv للملكية)",
+      "reference": {
+        "sentence": "Das Buch meines Vaters liegt auf dem Tisch.",
+        "accept_natural_equivalents": true
+      },
+      "dimensions": [
+        "genitiv",
+        "possessive_article",
+        "noun_ending",
+        "dativ_location"
+      ],
+      "curriculum_ids": [
+        "V009",
+        "V007",
+        "V063",
+        51
+      ],
+      "kind": "context",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-GR01-E05",
+      "prompt_ar": "أنا بشتري هدية لنفسي.",
+      "reference": {
+        "sentence": "Ich kaufe mir ein Geschenk.",
+        "accept_natural_equivalents": true
+      },
+      "dimensions": [
+        "reflexive_dativ",
+        "akkusativ",
+        "indefinite_article"
+      ],
+      "curriculum_ids": [
+        "V011",
+        40
+      ],
+      "kind": "context",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
