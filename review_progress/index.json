@@ -24,14 +24,16 @@
   "current_day": 1,
   "current_date": "2026-11-28",
   "session_id": "2026-11-28-S01",
-  "active_batch": "review_progress/days/2026-11-28/GR01.json",
+  "active_batch": null,
   "day_plan": "review_progress/days/2026-11-28/plan.json",
   "coverage": {
     "verbs": 30,
     "vocabulary": 39,
     "perfekt": 29,
-    "vocabulary_skipped": 1
+    "vocabulary_skipped": 1,
+    "grammar_topics_reviewed": 1,
+    "context_sentences": 5
   },
   "status": "active",
-  "next_action": "Await GR01 five translation answers; grade contextual dimensions and save before closing day 1."
+  "next_action": "Day 1 completed; on next actual study session prioritize due retests including Genitiv possessive articles and Akkusativ indefinite articles, then day 2 immutable order. Retests start 2026-11-29."
 }

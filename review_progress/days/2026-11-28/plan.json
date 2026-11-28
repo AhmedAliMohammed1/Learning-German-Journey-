@@ -95,8 +95,10 @@
     "CR04",
     "CR05",
     "CR06",
-    "CR07"
+    "CR07",
+    "GR01"
   ],
-  "status": "open",
-  "grammar_status": "explained_pending_assessment"
+  "status": "completed",
+  "grammar_status": "reviewed_assessed_needs_retest",
+  "sentences_completed": 5
 }

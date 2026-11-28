@@ -3,10 +3,10 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "grammar_context_translation",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "topic": "Nominativ, Akkusativ, Dativ, Genitiv",
   "source": "curriculum/grammar.md",
-  "lesson_status": "explained_pending_assessment",
+  "lesson_status": "reviewed_assessed_needs_retest",
   "rule_summary": [
     "Nominativ subject; Akkusativ direct object; Dativ recipient or governed by verb/preposition; Genitiv possession or governed case.",
     "Definite articles: der/die/das/die; den/die/das/die; dem/der/dem/den; des/der/des/der.",
@@ -35,8 +35,37 @@
         11
       ],
       "kind": "context",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Der Lehrer sieht den Man",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "nominativ": "correct",
+        "akkusativ": "correct",
+        "indefinite_article": "incorrect",
+        "verb_agreement": "correct",
+        "spelling": "incorrect",
+        "meaning": "partial"
+      },
+      "sentence_result": "partial",
+      "correction": "Der Lehrer sieht einen Mann.",
+      "note": "Accusative selected correctly but definite den instead of indefinite einen; Mann spelling missing n.",
+      "dimension_status": {
+        "nominativ": "practicing",
+        "akkusativ": "practicing",
+        "indefinite_article": "weak",
+        "verb_agreement": "practicing",
+        "spelling": "weak",
+        "meaning": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-GR01-E02",
@@ -55,8 +84,30 @@
         17
       ],
       "kind": "context",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Ich helfe meinem Bruder",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "dativ": "correct",
+        "possessive_article": "correct",
+        "verb_government": "correct"
+      },
+      "sentence_result": "correct",
+      "correction": "Ich helfe meinem Bruder.",
+      "note": "Correct throughout.",
+      "dimension_status": {
+        "dativ": "practicing",
+        "possessive_article": "practicing",
+        "verb_government": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-GR01-E03",
@@ -76,8 +127,32 @@
         19
       ],
       "kind": "context",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Sie gibt mir den Autoschlüssel",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "nominativ": "correct",
+        "dativ_pronoun": "correct",
+        "akkusativ": "correct",
+        "definite_article": "correct"
+      },
+      "sentence_result": "correct",
+      "correction": "Sie gibt mir den Autoschlüssel.",
+      "note": "Correct throughout.",
+      "dimension_status": {
+        "nominativ": "practicing",
+        "dativ_pronoun": "practicing",
+        "akkusativ": "practicing",
+        "definite_article": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-GR01-E04",
@@ -99,8 +174,35 @@
         51
       ],
       "kind": "context",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Das Buch des Vaters liegt auf dem Tisch",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "genitiv": "correct",
+        "possessive_article": "incorrect",
+        "noun_ending": "correct",
+        "dativ_location": "correct",
+        "meaning": "partial"
+      },
+      "sentence_result": "partial",
+      "correction": "Das Buch meines Vaters liegt auf dem Tisch.",
+      "note": "Genitive morphology and location correct; des Vaters does not express my father; meines Vaters required.",
+      "dimension_status": {
+        "genitiv": "practicing",
+        "possessive_article": "weak",
+        "noun_ending": "practicing",
+        "dativ_location": "practicing",
+        "meaning": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-GR01-E05",
@@ -119,8 +221,55 @@
         40
       ],
       "kind": "context",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Ich kaufe mir einen Geschenk",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "reflexive_dativ": "correct",
+        "akkusativ": "partial",
+        "indefinite_article": "incorrect"
+      },
+      "sentence_result": "partial",
+      "correction": "Ich kaufe mir ein Geschenk.",
+      "note": "Reflexive mir correct; einen is masculine accusative, Geschenk neuter requires ein.",
+      "dimension_status": {
+        "reflexive_dativ": "practicing",
+        "akkusativ": "weak",
+        "indefinite_article": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     }
-  ]
+  ],
+  "summary": {
+    "graded_items": 5,
+    "full_sentences_correct": 2,
+    "partial_sentences": 3,
+    "secure_promotions": 0,
+    "focus": [
+      "Genitiv possessive articles and noun endings",
+      "Accusative indefinite articles and noun gender",
+      "Mann spelling"
+    ]
+  },
+  "followup_lesson": {
+    "date": "2026-11-28",
+    "requested_by_learner": true,
+    "topic": "Genitiv articles",
+    "rules": [
+      "Definite des/der/des/der; indefinite eines/einer/eines/no plural; possessive meines/meiner/meines/meiner.",
+      "Possessive stem identifies owner; ending agrees with following noun gender/number/case.",
+      "Masculine and neuter singular nouns generally take s/es, weak masculine exceptions; feminine and plural no additional genitive ending.",
+      "Contrast des Vaters (the father) and meines Vaters (my father)."
+    ],
+    "status": "explained_not_independently_retested",
+    "next_retest_date": "2026-11-29"
+  }
 }
