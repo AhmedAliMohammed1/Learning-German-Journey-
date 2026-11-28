@@ -3,7 +3,7 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "isolated_recall",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "instructions": "Arabic to German; nouns with article and plural; other entries in registered form. If unknown write مش فاكر. Score separately.",
   "prompts": [
     {
@@ -21,8 +21,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "der Zug",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "der Zug — die Züge",
+      "note": "Plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E02",
@@ -39,8 +61,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Bild",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "das Bild — die Bilder",
+      "note": "Plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E03",
@@ -55,8 +99,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "nur",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "nur",
+      "note": "Correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E04",
@@ -71,8 +132,21 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "skipped",
+      "learner_answer_raw": "مش مهمه !",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "skipped"
+      },
+      "correction": "Bielefeld",
+      "note": "Learner says not important; skip this proper name without mastery or deletion; no automatic retest unless requested",
+      "dimension_status": {
+        "lexical_recall": "untested"
+      },
+      "next_retest_date": null,
+      "retest_intervals_days": [],
+      "skip_reason": "learner_deprioritized_proper_name"
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E05",
@@ -89,8 +163,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "der Mütze / der Hut",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "incorrect",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Mütze — die Mützen; der Hut — die Hüte",
+      "note": "Canonical lemma recalled, wrong article; Hut is a broader/different hat; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "weak",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E06",
@@ -105,8 +201,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "witzig / lustig",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "lustig; witzig also valid",
+      "note": "Canonical and alternative correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E07",
@@ -123,8 +236,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Entschuldigung",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Entschuldigung — die Entschuldigungen",
+      "note": "Plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E08",
@@ -141,8 +276,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "der Autoschlüssel",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "der Autoschlüssel — die Autoschlüssel",
+      "note": "Plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E09",
@@ -157,8 +314,27 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "zusamen / gemeinsam",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial"
+      },
+      "correction": "zusammen; gemeinsam also valid",
+      "note": "Canonical spelling missing m; exact valid alternative independently supplied",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "accepted_alternative": "gemeinsam"
     },
     {
       "exercise_id": "2026-11-28-S01-CR04-E10",
@@ -175,8 +351,45 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect",
+        "article_recall": "incorrect",
+        "plural_recall": "incorrect"
+      },
+      "correction": "das Bewegungsspiel — die Bewegungsspiele",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     }
-  ]
+  ],
+  "summary": {
+    "issued_items": 10,
+    "graded_items": 9,
+    "skipped_items": 1,
+    "canonical_lexical_correct": 7,
+    "semantic_correct_including_alternatives": 8,
+    "article_correct": 4,
+    "article_incorrect": 1,
+    "article_unknown": 1,
+    "noun_items": 6,
+    "plural_omitted": 5,
+    "plural_unknown": 1,
+    "plural_correct": 0,
+    "secure_promotions": 0
+  }
 }
