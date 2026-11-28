@@ -1,0 +1,160 @@
+{
+  "batch_id": "CR01",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; provide infinitive and full Perfekt (auxiliary + participle); if unknown write مش فاكر. Score dimensions separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E01",
+      "item_id": 100,
+      "prompt_ar": "يطفئ / يغلق جهازًا أو النور",
+      "reference": {
+        "infinitive": "ausschalten",
+        "perfekt": "hat ausgeschaltet"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E02",
+      "item_id": 255,
+      "prompt_ar": "يمشي من مكان / يخرج",
+      "reference": {
+        "infinitive": "weggehen",
+        "perfekt": "ist weggegangen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E03",
+      "item_id": 14,
+      "prompt_ar": "يكتب",
+      "reference": {
+        "infinitive": "schreiben",
+        "perfekt": "hat geschrieben"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E04",
+      "item_id": 370,
+      "prompt_ar": "يكافح / يحارب / يقاوم شيئًا بشكل مباشر",
+      "reference": {
+        "infinitive": "bekämpfen (user form: Bekämpft)",
+        "perfekt": "hat bekämpft"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E05",
+      "item_id": 175,
+      "prompt_ar": "يكون طعمه / يعجب حد طعمه",
+      "reference": {
+        "infinitive": "schmecken",
+        "perfekt": "hat geschmeckt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E06",
+      "item_id": 340,
+      "prompt_ar": "يكبر / ينمو / يزداد / يتوسع",
+      "reference": {
+        "infinitive": "wachsen (user form: wächst)",
+        "perfekt": "ist gewachsen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E07",
+      "item_id": 336,
+      "prompt_ar": "يشارك في نشاط / ينضم ويشارك",
+      "reference": {
+        "infinitive": "mitmachen",
+        "perfekt": "hat mitgemacht"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E08",
+      "item_id": 63,
+      "prompt_ar": "يتصل هاتفيًا",
+      "reference": {
+        "infinitive": "anrufen",
+        "perfekt": "hat angerufen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E09",
+      "item_id": 32,
+      "prompt_ar": "يستطيع",
+      "reference": {
+        "infinitive": "können",
+        "perfekt": "hat gekonnt; with another infinitive: hat ... können"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR01-E10",
+      "item_id": 116,
+      "prompt_ar": "تنتهي مدة صلاحية / ينتهي عقد",
+      "reference": {
+        "infinitive": "ablaufen",
+        "perfekt": "ist abgelaufen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}

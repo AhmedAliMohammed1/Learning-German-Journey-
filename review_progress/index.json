@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "scope": "comprehensive_review_2026-11-28",
+  "legacy": {
+    "path": "progress.json",
+    "blob_sha": "7da11092dc29360e3a5d58fa058df7be0b136dd9",
+    "last_updated": "2026-11-04",
+    "status": "preserved_read_only_stale",
+    "reconciliation": "pending; retain dated logs and sync_pending"
+  },
+  "inventory": {
+    "verbs": 379,
+    "vocabulary": 604,
+    "verb_source_sha": "ef801787f431546a2abc53bc1ea751e3383f32be",
+    "vocabulary_source_sha": "3d73ded472c0301733289e9d7484556d54cbf67c"
+  },
+  "settings": {
+    "verbs_per_day": 30,
+    "vocabulary_per_day": 40,
+    "days_per_week": 7,
+    "new_material_frozen": true
+  },
+  "order_path": "review_progress/order.json",
+  "current_day": 1,
+  "current_date": "2026-11-28",
+  "session_id": "2026-11-28-S01",
+  "active_batch": "review_progress/days/2026-11-28/CR01.json",
+  "day_plan": "review_progress/days/2026-11-28/plan.json",
+  "coverage": {
+    "verbs": 0,
+    "vocabulary": 0,
+    "perfekt": 0
+  },
+  "status": "active",
+  "next_action": "Await CR01 answers; grade or explicitly pause before issuing another batch."
+}
