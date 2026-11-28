@@ -3,7 +3,7 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "isolated_recall",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. If unknown write مش فاكر. Score separately.",
   "prompts": [
     {
@@ -21,8 +21,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Regel",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Regel — die Regeln",
+      "note": "Singular and article correct, plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E02",
@@ -39,8 +61,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect",
+        "article_recall": "incorrect",
+        "plural_recall": "incorrect"
+      },
+      "correction": "das Kostüm — die Kostüme",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E03",
@@ -55,8 +99,26 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Beruflich",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial"
+      },
+      "correction": "tätig; beruflich = work-related/professionally",
+      "note": "Related adjective, not equivalent in the intended tätig sein construction; lowercase beruflich",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E04",
@@ -71,8 +133,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "pünktlich",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "pünktlich",
+      "note": "Correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E05",
@@ -89,8 +168,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect",
+        "article_recall": "incorrect",
+        "plural_recall": "incorrect"
+      },
+      "correction": "der Fahrplan — die Fahrpläne",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E06",
@@ -105,8 +206,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "verfügbar",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "verfügbar",
+      "note": "Correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E07",
@@ -123,8 +241,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Arbeit",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "valid_alternative",
+        "article_recall": "incorrect",
+        "plural_recall": "not_answered"
+      },
+      "correction": "der Job — die Jobs; alternative die Arbeit — die Arbeiten (depending on sense)",
+      "note": "Arbeit is an acceptable semantic alternative for work; wrong article das, target Job not recalled",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E08",
@@ -140,8 +280,28 @@
         "article_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "in der Nahe",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "correct"
+      },
+      "correction": "die Nähe; in der Nähe",
+      "note": "Recognizable target, missing umlaut; der in correct dative phrase demonstrates appropriate contextual article",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "practicing"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E09",
@@ -158,8 +318,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Augen",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "not_answered",
+        "plural_recall": "correct"
+      },
+      "correction": "das Auge — die Augen",
+      "note": "Correct plural including plural article, singular and singular article not supplied",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "untested",
+        "plural_recall": "practicing"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR06-E10",
@@ -176,8 +358,44 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Tür",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Tür — die Türen",
+      "note": "Singular and article correct, plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     }
-  ]
+  ],
+  "summary": {
+    "graded_items": 10,
+    "canonical_lexical_correct": 4,
+    "valid_alternative": 1,
+    "partial_lexical": 3,
+    "explicit_unknown": 2,
+    "article_correct": 3,
+    "article_incorrect": 3,
+    "article_omitted": 1,
+    "plural_correct": 1,
+    "plural_omitted": 3,
+    "plural_unknown": 2,
+    "secure_promotions": 0
+  }
 }
