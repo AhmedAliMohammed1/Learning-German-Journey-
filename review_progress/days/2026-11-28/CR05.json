@@ -3,7 +3,7 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "isolated_recall",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. Item 10 asks singular and plural. If unknown write مش فاكر. Score separately.",
   "prompts": [
     {
@@ -21,8 +21,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "dinge",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "valid_alternative",
+        "article_recall": "not_answered",
+        "plural_recall": "valid_alternative"
+      },
+      "correction": "die Sache — die Sachen; alternative das Ding — die Dinge",
+      "note": "Valid alternative plural Dinge, lowercase noun; target Sache not recalled, article omitted",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "untested",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E02",
@@ -37,8 +59,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "selbst",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "selbst",
+      "note": "Correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E03",
@@ -53,8 +92,26 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "schade",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial"
+      },
+      "correction": "leider; schade = what a pity / unfortunate",
+      "note": "Close meaning but not interchangeable in sentence syntax",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E04",
@@ -69,8 +126,26 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "trotzem",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial"
+      },
+      "correction": "trotzdem",
+      "note": "Missing d",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E05",
@@ -86,8 +161,28 @@
         "article_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Abiturn",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "incorrect"
+      },
+      "correction": "das Abitur (normally no plural)",
+      "note": "Recognizable target, extra n and wrong article",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E06",
@@ -102,8 +197,25 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "zur Arbeit",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct"
+      },
+      "correction": "zur Arbeit",
+      "note": "Correct",
+      "dimension_status": {
+        "lexical_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E07",
@@ -120,8 +232,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Ratschlag / die Empfahlung",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Empfehlung — die Empfehlungen; der Ratschlag — die Ratschläge",
+      "note": "Target recognizable with vowel error; correct target article die; alternative Ratschlag valid for advice but article der, no plural",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E08",
@@ -138,8 +272,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect",
+        "article_recall": "incorrect",
+        "plural_recall": "incorrect"
+      },
+      "correction": "die Landschaft — die Landschaften",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E09",
@@ -156,8 +312,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Dusch",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "incorrect",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Dusche — die Duschen",
+      "note": "Missing final e and wrong article",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR05-E10",
@@ -175,8 +353,47 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Menschen , der Mensch",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "singular_recall": "correct",
+        "plural_recall": "correct"
+      },
+      "correction": "der Mensch — die Menschen",
+      "note": "Both singular and plural with correct articles",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "singular_recall": "practicing",
+        "plural_recall": "practicing"
+      },
+      "next_retest_date": "2026-12-01",
+      "retest_intervals_days": [
+        3,
+        7,
+        14,
+        30
+      ]
     }
-  ]
+  ],
+  "summary": {
+    "graded_items": 10,
+    "canonical_lexical_correct": 3,
+    "valid_alternative": 1,
+    "partial_lexical": 5,
+    "explicit_unknown": 1,
+    "article_correct": 2,
+    "article_incorrect": 3,
+    "article_omitted": 1,
+    "plural_correct": 1,
+    "plural_alternative": 1,
+    "plural_omitted": 2,
+    "plural_unknown": 1,
+    "plural_not_applicable": 1,
+    "secure_promotions": 0
+  }
 }
