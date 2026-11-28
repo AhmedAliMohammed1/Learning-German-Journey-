@@ -81,6 +81,8 @@
   "issued_batches": [
     "CR01"
   ],
-  "completed_batches": [],
+  "completed_batches": [
+    "CR01"
+  ],
   "status": "open"
 }

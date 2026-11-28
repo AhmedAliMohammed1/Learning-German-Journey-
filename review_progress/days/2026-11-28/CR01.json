@@ -3,7 +3,7 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "isolated_recall",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "instructions": "Arabic to German; provide infinitive and full Perfekt (auxiliary + participle); if unknown write مش فاكر. Score dimensions separately.",
   "prompts": [
     {
@@ -18,8 +18,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "ausschalten  .. ausgeschaltet",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "partial",
+        "participle_recall": "correct"
+      },
+      "correction": "hat ausgeschaltet",
+      "note": "Missing auxiliary.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E02",
@@ -33,8 +55,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "ausgehen .. ausgegangen    or weggehen",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "partial",
+        "participle_recall": "valid_alternative"
+      },
+      "correction": "ist weggegangen; alternative ist ausgegangen",
+      "note": "Target infinitive explicitly supplied; correct participle of alternative only; missing auxiliary.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E03",
@@ -48,8 +92,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "schreiben",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "not_answered",
+        "participle_recall": "not_answered"
+      },
+      "correction": "hat geschrieben",
+      "note": "No past supplied.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E04",
@@ -63,8 +129,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "incorrect",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "bekämpfen — hat bekämpft",
+      "note": "Explicit unknown.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "weak",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E05",
@@ -78,8 +166,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "schmecken .. geschmeket",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "hat geschmeckt",
+      "note": "Participle spelling error.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E06",
@@ -93,8 +203,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "incorrect",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "wachsen — ist gewachsen",
+      "note": "Explicit unknown.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "weak",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E07",
@@ -108,8 +240,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "teilnehmen ..teilgenommen",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "valid_alternative",
+        "perfekt_form_recall": "partial",
+        "participle_recall": "valid_alternative"
+      },
+      "correction": "mitmachen — hat mitgemacht; teilnehmen — hat teilgenommen",
+      "note": "Valid alternative; canonical target not recalled; auxiliary omitted.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "weak",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E08",
@@ -123,8 +277,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "anrufen .. angeruft",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "hat angerufen",
+      "note": "Wrong participle.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E09",
@@ -138,8 +314,30 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "können .. konnte",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "hat gekonnt; with another infinitive hat ... können",
+      "note": "konnte is valid Präteritum, not Perfekt.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     },
     {
       "exercise_id": "2026-11-28-S01-CR01-E10",
@@ -153,8 +351,40 @@
         "infinitive_recall",
         "perfekt_form_recall"
       ],
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "ablaufen .. abgelauft",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "kind": "first_pass",
+      "results": {
+        "infinitive_recall": "correct",
+        "perfekt_form_recall": "incorrect",
+        "participle_recall": "incorrect"
+      },
+      "correction": "ist abgelaufen",
+      "note": "Wrong participle.",
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ],
+      "dimension_status": {
+        "infinitive_recall": "practicing",
+        "perfekt_form_recall": "weak"
+      }
     }
-  ]
+  ],
+  "summary": {
+    "graded_items": 10,
+    "canonical_infinitive_correct": 7,
+    "semantic_infinitive_correct_including_alternatives": 8,
+    "participle_correct_including_alternatives": 3,
+    "full_perfekt_correct": 0,
+    "perfekt_supplied_or_explicit_unknown": 9,
+    "perfekt_omitted": 1,
+    "secure_promotions": 0
+  }
 }
