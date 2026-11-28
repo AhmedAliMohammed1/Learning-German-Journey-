@@ -83,7 +83,8 @@
     "CR02"
   ],
   "completed_batches": [
-    "CR01"
+    "CR01",
+    "CR02"
   ],
   "status": "open"
 }
