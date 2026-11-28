@@ -1,0 +1,182 @@
+{
+  "batch_id": "CR04",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; nouns with article and plural; other entries in registered form. If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E01",
+      "item_id": "V014",
+      "prompt_ar": "القطار",
+      "reference": {
+        "german": "der Zug",
+        "plural_or_reference": "die Züge",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E02",
+      "item_id": "V010",
+      "prompt_ar": "الصورة (زي صورة معلقة على الحيطة)",
+      "reference": {
+        "german": "das Bild",
+        "plural_or_reference": "die Bilder",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E03",
+      "item_id": "V322",
+      "prompt_ar": "بس / فقط",
+      "reference": {
+        "german": "nur",
+        "plural_or_reference": "—",
+        "type": "adverb_or_adjective"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E04",
+      "item_id": "V568",
+      "prompt_ar": "بيليفيلد (اسم مدينة ألمانية في شمال الراين-وستفاليا)",
+      "reference": {
+        "german": "Bielefeld",
+        "plural_or_reference": "Eigenname; Stadt in Nordrhein-Westfalen; normalerweise ohne Artikel; nach Bielefeld / in Bielefeld",
+        "type": "proper name / place"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E05",
+      "item_id": "V504",
+      "prompt_ar": "الطاقية / غطاء الرأس من القماش أو الصوف",
+      "reference": {
+        "german": "die Mütze",
+        "plural_or_reference": "die Mützen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E06",
+      "item_id": "V278",
+      "prompt_ar": "مضحك / مسلّي / مرح",
+      "reference": {
+        "german": "lustig",
+        "plural_or_reference": "—",
+        "type": "adjective"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E07",
+      "item_id": "V602",
+      "prompt_ar": "الاعتذار / عذر أو تبرير",
+      "reference": {
+        "german": "die Entschuldigung",
+        "plural_or_reference": "die Entschuldigungen; related verb sich entschuldigen (#156)",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E08",
+      "item_id": "V012",
+      "prompt_ar": "مفتاح العربية",
+      "reference": {
+        "german": "der Autoschlüssel",
+        "plural_or_reference": "die Autoschlüssel",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E09",
+      "item_id": "V058",
+      "prompt_ar": "مع بعض / معًا",
+      "reference": {
+        "german": "zusammen",
+        "plural_or_reference": "—",
+        "type": "adverb_or_adjective"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR04-E10",
+      "item_id": "V457",
+      "prompt_ar": "لعبة حركية فيها نشاط بدني",
+      "reference": {
+        "german": "das Bewegungsspiel",
+        "plural_or_reference": "die Bewegungsspiele",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
