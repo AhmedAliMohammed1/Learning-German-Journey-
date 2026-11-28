@@ -24,7 +24,7 @@
   "current_day": 1,
   "current_date": "2026-11-28",
   "session_id": "2026-11-28-S01",
-  "active_batch": null,
+  "active_batch": "review_progress/days/2026-11-28/CR03.json",
   "day_plan": "review_progress/days/2026-11-28/plan.json",
   "coverage": {
     "verbs": 20,
@@ -32,5 +32,5 @@
     "perfekt": 19
   },
   "status": "active",
-  "next_action": "CR02 graded; await explicit continuation, then issue CR03 from day plan verb IDs 21–30. Retests due 2026-11-29 and 2026-12-01."
+  "next_action": "Await CR03 answers; grade or explicitly pause before issuing another batch."
 }

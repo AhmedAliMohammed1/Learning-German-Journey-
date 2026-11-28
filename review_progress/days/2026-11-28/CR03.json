@@ -1,0 +1,170 @@
+{
+  "batch_id": "CR03",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; infinitive and full Perfekt (auxiliary + participle). If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E01",
+      "item_id": 214,
+      "prompt_ar": "يفضّي مكان أو جهاز من اللي جواه (زي غسالة الأطباق)",
+      "reference": {
+        "infinitive": "ausräumen",
+        "perfekt": "hat ausgeräumt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E02",
+      "item_id": 34,
+      "prompt_ar": "ينبغي / من المفترض أن يعمل حاجة (فعل مساعد)",
+      "reference": {
+        "infinitive": "sollen",
+        "perfekt": "hat gesollt; with another infinitive: hat ... sollen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E03",
+      "item_id": 288,
+      "prompt_ar": "يتعرف على شخص لأول مرة",
+      "reference": {
+        "infinitive": "kennenlernen",
+        "perfekt": "hat kennengelernt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E04",
+      "item_id": 350,
+      "prompt_ar": "يلمس أو يمسك حاجة بإيده",
+      "reference": {
+        "infinitive": "anfassen",
+        "perfekt": "hat angefasst"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E05",
+      "item_id": 363,
+      "prompt_ar": "يكون لابس حاجة بالفعل، مش فعل ارتداء اللبس نفسه",
+      "reference": {
+        "infinitive": "anhaben",
+        "perfekt": "hat angehabt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E06",
+      "item_id": 3,
+      "prompt_ar": "يعمل / يفعل",
+      "reference": {
+        "infinitive": "machen",
+        "perfekt": "hat gemacht"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E07",
+      "item_id": 4,
+      "prompt_ar": "يذهب / يروح",
+      "reference": {
+        "infinitive": "gehen",
+        "perfekt": "ist gegangen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E08",
+      "item_id": 180,
+      "prompt_ar": "يصحّي حد تاني من النوم",
+      "reference": {
+        "infinitive": "aufwecken",
+        "perfekt": "hat aufgeweckt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E09",
+      "item_id": 54,
+      "prompt_ar": "يُجلس شخصًا / يخليه يقعد على كرسي",
+      "reference": {
+        "infinitive": "setzen",
+        "perfekt": "hat gesetzt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR03-E10",
+      "item_id": 72,
+      "prompt_ar": "يستحم بالدش",
+      "reference": {
+        "infinitive": "duschen",
+        "perfekt": "hat geduscht"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}

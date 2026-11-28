@@ -80,7 +80,8 @@
   "sentence_count": 5,
   "issued_batches": [
     "CR01",
-    "CR02"
+    "CR02",
+    "CR03"
   ],
   "completed_batches": [
     "CR01",
