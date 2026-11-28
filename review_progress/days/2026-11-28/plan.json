@@ -79,7 +79,8 @@
   "grammar": "Nominativ, Akkusativ, Dativ, Genitiv",
   "sentence_count": 5,
   "issued_batches": [
-    "CR01"
+    "CR01",
+    "CR02"
   ],
   "completed_batches": [
     "CR01"

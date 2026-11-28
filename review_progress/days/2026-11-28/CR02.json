@@ -1,0 +1,170 @@
+{
+  "batch_id": "CR02",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; infinitive and full Perfekt (auxiliary + participle). If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E01",
+      "item_id": 343,
+      "prompt_ar": "ينتبه لحاجة / ياخد باله منها (زي المرور)",
+      "reference": {
+        "infinitive": "achten",
+        "perfekt": "hat geachtet"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E02",
+      "item_id": 309,
+      "prompt_ar": "يُسمّى / يكون اسمه",
+      "reference": {
+        "infinitive": "heißen",
+        "perfekt": "hat geheißen"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E03",
+      "item_id": 123,
+      "prompt_ar": "يوضّب الأمتعة أو يحط الحاجات في الشنطة",
+      "reference": {
+        "infinitive": "einpacken",
+        "perfekt": "hat eingepackt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E04",
+      "item_id": 311,
+      "prompt_ar": "يثبّت أو يربط حاجة بإحكام (زي العجلة في السور)",
+      "reference": {
+        "infinitive": "festmachen",
+        "perfekt": "hat festgemacht"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E05",
+      "item_id": 171,
+      "prompt_ar": "يقلّب خليط أو الشوربة",
+      "reference": {
+        "infinitive": "rühren",
+        "perfekt": "hat gerührt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E06",
+      "item_id": 361,
+      "prompt_ar": "يمارس الرياضة (الفعل المستخدم مع Sport)",
+      "reference": {
+        "infinitive": "treiben",
+        "perfekt": "hat getrieben"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E07",
+      "item_id": 277,
+      "prompt_ar": "يستجيب / يكون له رد فعل على موقف",
+      "reference": {
+        "infinitive": "reagieren",
+        "perfekt": "hat reagiert"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E08",
+      "item_id": 23,
+      "prompt_ar": "يعرف شخص أو مكان معرفة شخصية",
+      "reference": {
+        "infinitive": "kennen",
+        "perfekt": "hat gekannt"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E09",
+      "item_id": 12,
+      "prompt_ar": "يسمع",
+      "reference": {
+        "infinitive": "hören",
+        "perfekt": "hat gehört"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR02-E10",
+      "item_id": 362,
+      "prompt_ar": "يؤمّن أو يضمن متطلبات المعيشة",
+      "reference": {
+        "infinitive": "sichern",
+        "perfekt": "hat gesichert"
+      },
+      "dimensions": [
+        "infinitive_recall",
+        "perfekt_form_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
