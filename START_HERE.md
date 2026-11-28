@@ -3,9 +3,13 @@
 Read the [current study state](CURRENT_STATE.md), then follow the startup reads below. For the latest pause and next exercise choice, use the dated learner evidence and structured progress. A pause leaves the day open.
 
 
+## Active LLM operating protocol (2026-11-28)
+
+**For comprehensive review, [review_progress/LLM_PROTOCOL.md](review_progress/LLM_PROTOCOL.md) is the authoritative workflow.** Read it and [review_progress/index.json](review_progress/index.json) first. It explicitly overrides historical startup, monolithic JSON, new-material and exercise-selection instructions for the active plan. Preserve legacy evidence. Resume the saved batch on explicit continuation; never create a replacement merely because a new chat opened.
+
 ## Active comprehensive review plan — 2026-11-28
 
-Read [COMPREHENSIVE_REVIEW_PLAN.md](COMPREHENSIVE_REVIEW_PLAN.md) at startup before choosing exercises. Learner approved 30 verbs + 40 vocabulary entries daily, 7 days/week; temporarily freeze new material. The plan is approved but not started, and supersedes new-material requirements during review. Preserve historical pending work; do not reset mastery or assume progress.json is synchronized.
+Read [COMPREHENSIVE_REVIEW_PLAN.md](COMPREHENSIVE_REVIEW_PLAN.md) at startup before choosing exercises. Learner approved 30 verbs + 40 vocabulary entries daily, 7 days/week; temporarily freeze new material. The plan is active; derive the current status from the v2 index, and supersedes new-material requirements during review. Preserve historical pending work; do not reset mastery or assume progress.json is synchronized.
 
 ## Active storage v2 — 2026-11-28
 
@@ -17,7 +21,7 @@ Every new chat starts with a **mandatory read-only check**. Complete it before t
 
 1. Read CURRENT_STATE.md.
 2. Read LEARNING_PROFILE.md, including preference changes.
-3. Parse progress.json.
+3. For active comprehensive review, read the v2 index, day plan and batch instead of parsing legacy progress.json; otherwise consult historical progress and dated evidence.
 4. Determine the actual current calendar date in **Europe/Berlin** from the current client's date/time. Do not use the stored last_updated date as today's date.
 5. Check for days/YYYY-MM-DD.md for that date and read it if it exists.
 6. List date-named files in days/ and read the latest by filename date. If today's file is also the latest, one read satisfies both. Ignore templates and future-dated files when identifying the latest actual study day.
@@ -26,7 +30,7 @@ Every new chat starts with a **mandatory read-only check**. Complete it before t
 9. Read AGENTS.md and REPOSITORY_HEALTH.md. Confirm the checkout and branch correspond to the requested repository and verify that the records being used are current. If GitHub is newer, consult the newer records before proceeding.
 10. Cross-check the latest study date, day and session status, selected activity, exact continuation and deferred work, and canonical inventory counts. Identify which records are learner evidence and which are summaries. If a required read is incomplete, retry through a full file or blob read. If the evidence still cannot be verified, state what is missing and keep dependent study and edits on hold.
 
-Before a write, check for local or remote changes and preserve existing learner answers, IDs, curriculum entries, preferences, and pending work. Keep the change scoped to the request. Before saving, review the diff and run `python scripts/validate_repo.py`. Resolve failures caused by the change and report any remaining discrepancy. Verify the remote revision before reporting a successful upload.
+Before a write, check for local or remote changes and preserve existing learner answers, IDs, curriculum entries, preferences, and pending work. Keep the change scoped to the request. Before saving, review the diff and run `python scripts/validate_review_progress.py` for active review (or equivalent remote checks if no checkout); use `python scripts/validate_repo.py` for legacy reconciliation. Resolve failures caused by the change and report any remaining discrepancy. Verify the remote revision before reporting a successful upload.
 
 Never reset the learner to zero. Read the live learned-verb count from progress.json/CURRENT_STATE.md rather than relying on any historical milestone. The verb inventory is **open-ended**: there is no final target such as 100/100. All learned verbs belong to one continuous inventory in curriculum/verbs.md, and every new verb receives the next sequential ID. Historical IDs are preserved. Introduced never means mastered.
 

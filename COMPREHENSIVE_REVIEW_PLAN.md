@@ -2,6 +2,8 @@
 
 Status: active; day 1 started 2026-11-28. Live checkpoint: [review_progress/index.json](review_progress/index.json). Explicit learner request: 30 verbs, 40 vocabulary entries daily, 7 days/week. Freeze new material temporarily until learner agrees to resume. This overrides new-vocabulary requirements during this review. Do not reset prior mastery/evidence or delete pending R10/R11 or any other exercises.
 
+Operational rules: [LLM protocol](review_progress/LLM_PROTOCOL.md); live status is the index, not historical initial notes.
+
 ## Scope and schedule
 Verified main inventory row counts: 379 verbs (#1–379), 604 vocabulary entries (V001–V604); 983 entries total. Verb header says 377 but rows and latest dated evidence confirm 379; do not treat header as authoritative. Snapshot all stable IDs, including previously strong items. First coverage pass: 16 study days; days 1–12 up to 30 unseen verbs and 40 unseen vocabulary daily; day 13 remaining 19 verbs and 40 vocabulary; days 14–15 40 vocabulary each; day 16 remaining 4 vocabulary. Fill spare capacity with due retests. Days are study-day indices, not fabricated dates. Use mixed early/middle/recent IDs, deterministic shuffled order recorded before issuing, no repeated first-pass IDs. Daily targets are coverage quotas, with due retests and grammar additional; split into manageable batches of 10–20. If overloaded, carry remainder forward rather than falsely marking complete.
 

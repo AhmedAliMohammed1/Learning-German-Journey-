@@ -1,5 +1,9 @@
 # Learning profile
 
+## Active LLM operating protocol (2026-11-28)
+
+**For comprehensive review, [review_progress/LLM_PROTOCOL.md](review_progress/LLM_PROTOCOL.md) is the authoritative workflow.** Read it and [review_progress/index.json](review_progress/index.json) first. It explicitly overrides historical startup, monolithic JSON, new-material and exercise-selection instructions for the active plan. Preserve legacy evidence. Resume the saved batch on explicit continuation; never create a replacement merely because a new chat opened.
+
 ## Permanent learner preferences
 
 - Explain grammar and corrections in simple **Egyptian Arabic**.

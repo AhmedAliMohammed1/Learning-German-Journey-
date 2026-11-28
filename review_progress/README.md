@@ -1,5 +1,7 @@
 # Small-file progress storage v2
 
+Read [LLM_PROTOCOL.md](LLM_PROTOCOL.md) for the authoritative startup, selection, grading, scheduling and persistence workflow.
+
 Active comprehensive review uses [index.json](index.json), immutable [order.json](order.json), and one small JSON file per batch under days/YYYY-MM-DD/. Root progress.json is preserved as a legacy snapshot, NOT current; ordinary fetch_file can return empty, but GitHub contents API can read it. Historical reconciliation remains pending; preserve all prior attempts, dated evidence and sync_pending files.
 
 On startup read index, current day plan, active batch, earlier due batches and latest dated evidence. Update only affected small files using current blob SHAs, preferably atomically. Keep raw answers, corrections, separate dimensions, hint flags, assessment, next due dates and exact continuation. Coverage counts graded unique IDs, not issued prompts. Keep first-pass order immutable; split growing files before 50 KB. Never reset prior mastery. Freeze new material during review. Old validator checks legacy monolithic state and cannot certify this new workflow; use scripts/validate_review_progress.py in addition. Never report historical reconciliation as complete.

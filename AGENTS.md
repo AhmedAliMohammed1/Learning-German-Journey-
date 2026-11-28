@@ -1,5 +1,9 @@
 # German learning repository instructions
 
+## Active LLM operating protocol (2026-11-28)
+
+**For comprehensive review, [review_progress/LLM_PROTOCOL.md](review_progress/LLM_PROTOCOL.md) is the authoritative workflow.** Read it and [review_progress/index.json](review_progress/index.json) first. It explicitly overrides historical startup, monolithic JSON, new-material and exercise-selection instructions for the active plan. Preserve legacy evidence. Resume the saved batch on explicit continuation; never create a replacement merely because a new chat opened.
+
 ## Strict startup rule for every new chat
 
 Before giving a study response, proposing an exercise, or making any repository change, the assistant MUST complete the [startup checks in START_HERE.md](START_HERE.md#1-required-startup-reads) against the current repository. This applies to continuation, progress-only requests, and maintenance. Prior chat context, archive notes, and README figures may guide the lookup. Dated learner evidence and the verified live records determine the current state.
