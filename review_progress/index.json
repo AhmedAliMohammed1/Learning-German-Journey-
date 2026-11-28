@@ -24,7 +24,7 @@
   "current_day": 1,
   "current_date": "2026-11-28",
   "session_id": "2026-11-28-S01",
-  "active_batch": null,
+  "active_batch": "review_progress/days/2026-11-28/CR05.json",
   "day_plan": "review_progress/days/2026-11-28/plan.json",
   "coverage": {
     "verbs": 30,
@@ -33,5 +33,5 @@
     "vocabulary_skipped": 1
   },
   "status": "active",
-  "next_action": "CR04 graded (9 assessed, 1 learner-skipped proper name V568); await explicit continuation then issue CR05 from vocabulary IDs 11–20; keep skipped distinct from mastered and do not retest it automatically."
+  "next_action": "Await CR05 vocabulary answers; grade or explicitly pause before issuing another batch."
 }

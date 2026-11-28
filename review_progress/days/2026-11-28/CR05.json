@@ -1,0 +1,182 @@
+{
+  "batch_id": "CR05",
+  "session_id": "2026-11-28-S01",
+  "date": "2026-11-28",
+  "mode": "isolated_recall",
+  "status": "issued_pending_answers",
+  "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. Item 10 asks singular and plural. If unknown write مش فاكر. Score separately.",
+  "prompts": [
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E01",
+      "item_id": "V546",
+      "prompt_ar": "حاجة / شيء / موضوع (وفي الجمع حاجات أو أغراض)",
+      "reference": {
+        "german": "die Sache",
+        "plural_or_reference": "die Sachen (Plural); Sache = أمر / موضوع أيضًا",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E02",
+      "item_id": "V280",
+      "prompt_ar": "بنفسه / بنفسي (من غير مساعدة)",
+      "reference": {
+        "german": "selbst",
+        "plural_or_reference": "—",
+        "type": "pronoun_adverb"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E03",
+      "item_id": "V450",
+      "prompt_ar": "للأسف",
+      "reference": {
+        "german": "leider",
+        "plural_or_reference": "— (Adverb; nicht steigerbar)",
+        "type": "adverb"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E04",
+      "item_id": "V522",
+      "prompt_ar": "رغم كده / ومع ذلك",
+      "reference": {
+        "german": "trotzdem",
+        "plural_or_reference": "Konjunktionaladverb; danach steht das finite Verb an Position 2",
+        "type": "adverb"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E05",
+      "item_id": "V375",
+      "prompt_ar": "شهادة إنهاء الثانوية المؤهلة للدراسة الجامعية في ألمانيا",
+      "reference": {
+        "german": "das Abitur",
+        "plural_or_reference": "gewöhnlich kein Plural",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E06",
+      "item_id": "V192",
+      "prompt_ar": "إلى الشغل",
+      "reference": {
+        "german": "zur Arbeit",
+        "plural_or_reference": "—",
+        "type": "phrase"
+      },
+      "dimensions": [
+        "lexical_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E07",
+      "item_id": "V139",
+      "prompt_ar": "التوصية / الترشيح أو النصيحة",
+      "reference": {
+        "german": "die Empfehlung",
+        "plural_or_reference": "die Empfehlungen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E08",
+      "item_id": "V224",
+      "prompt_ar": "المناظر الطبيعية / طبيعة المنطقة",
+      "reference": {
+        "german": "die Landschaft",
+        "plural_or_reference": "die Landschaften",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E09",
+      "item_id": "V255",
+      "prompt_ar": "الدش / مكان الاستحمام",
+      "reference": {
+        "german": "die Dusche",
+        "plural_or_reference": "die Duschen",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    },
+    {
+      "exercise_id": "2026-11-28-S01-CR05-E10",
+      "item_id": "V056",
+      "prompt_ar": "الناس (اكتب المفرد والجمع)",
+      "reference": {
+        "german": "die Menschen",
+        "plural_or_reference": "already plural; singular: der Mensch",
+        "type": "noun"
+      },
+      "dimensions": [
+        "lexical_recall",
+        "article_recall",
+        "singular_recall",
+        "plural_recall"
+      ],
+      "kind": "first_pass",
+      "status": "pending",
+      "learner_answer_raw": null
+    }
+  ]
+}
