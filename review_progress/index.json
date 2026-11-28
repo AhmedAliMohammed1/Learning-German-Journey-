@@ -24,14 +24,14 @@
   "current_day": 1,
   "current_date": "2026-11-28",
   "session_id": "2026-11-28-S01",
-  "active_batch": "review_progress/days/2026-11-28/CR07.json",
+  "active_batch": null,
   "day_plan": "review_progress/days/2026-11-28/plan.json",
   "coverage": {
     "verbs": 30,
-    "vocabulary": 29,
+    "vocabulary": 39,
     "perfekt": 29,
     "vocabulary_skipped": 1
   },
   "status": "active",
-  "next_action": "Await CR07 vocabulary answers; grade or explicitly pause before issuing another batch."
+  "next_action": "CR07 graded; all 40 planned vocabulary entries processed (39 assessed, 1 skipped). Await explicit continuation for day 1 grammar Nominativ, Akkusativ, Dativ, Genitiv and five translation sentences. Day remains open."
 }

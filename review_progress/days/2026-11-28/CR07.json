@@ -3,7 +3,7 @@
   "session_id": "2026-11-28-S01",
   "date": "2026-11-28",
   "mode": "isolated_recall",
-  "status": "issued_pending_answers",
+  "status": "graded",
   "instructions": "Arabic to German; nouns with article and plural where applicable; other entries in registered form. Accept either gender form for composer. If unknown write مش فاكر. Score separately.",
   "prompts": [
     {
@@ -21,8 +21,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Kompester",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "not_answered",
+        "plural_recall": "not_answered"
+      },
+      "correction": "der Komponist — die Komponisten; die Komponistin — die Komponistinnen",
+      "note": "Approximate target recall, not standard spelling; article and plural omitted",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "untested",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E02",
@@ -39,8 +61,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Quittung",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "die Quittung — die Quittungen",
+      "note": "Correct singular and article; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E03",
@@ -55,8 +99,26 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "Im Hause",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial"
+      },
+      "correction": "zu Hause; im Hause = in the house, formal/older usage; im Haus common",
+      "note": "Grammatical locative phrase in some contexts, but not standard everyday expression for being at home; target not recalled",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E04",
@@ -73,8 +135,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Geschenk",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "das Geschenk — die Geschenke",
+      "note": "Correct singular and article; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E05",
@@ -89,8 +173,26 @@
         "lexical_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect"
+      },
+      "correction": "zufällig",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E06",
@@ -107,8 +209,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Abendessen",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "das Abendessen — die Abendessen",
+      "note": "Correct singular and article; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E07",
@@ -125,8 +249,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "der Tisch",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "der Tisch — die Tische",
+      "note": "Correct singular and article; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E08",
@@ -143,8 +289,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "مش فاكر",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "incorrect",
+        "article_recall": "incorrect",
+        "plural_recall": "incorrect"
+      },
+      "correction": "das Nahrungsmittel — die Nahrungsmittel; das Lebensmittel — die Lebensmittel",
+      "note": "Explicit unknown",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "weak",
+        "plural_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E09",
@@ -161,8 +329,30 @@
         "plural_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "das Hendy",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "partial",
+        "article_recall": "correct",
+        "plural_recall": "not_answered"
+      },
+      "correction": "das Handy — die Handys",
+      "note": "Recognizable target with vowel spelling error; article correct; plural omitted",
+      "dimension_status": {
+        "lexical_recall": "weak",
+        "article_recall": "practicing",
+        "plural_recall": "untested"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     },
     {
       "exercise_id": "2026-11-28-S01-CR07-E10",
@@ -178,8 +368,42 @@
         "article_recall"
       ],
       "kind": "first_pass",
-      "status": "pending",
-      "learner_answer_raw": null
+      "status": "graded",
+      "learner_answer_raw": "die Wasser",
+      "assessment_date": "2026-11-28",
+      "hint_used": false,
+      "results": {
+        "lexical_recall": "correct",
+        "article_recall": "incorrect"
+      },
+      "correction": "das Wasser (normally no plural in everyday mass-noun use)",
+      "note": "Target noun correct, article incorrect; no plural dimension",
+      "dimension_status": {
+        "lexical_recall": "practicing",
+        "article_recall": "weak"
+      },
+      "next_retest_date": "2026-11-29",
+      "retest_intervals_days": [
+        1,
+        3,
+        7,
+        14,
+        30
+      ]
     }
-  ]
+  ],
+  "summary": {
+    "graded_items": 10,
+    "canonical_lexical_correct": 5,
+    "valid_alternative": 0,
+    "partial_lexical": 3,
+    "explicit_unknown": 2,
+    "article_correct": 5,
+    "article_incorrect": 2,
+    "article_omitted": 1,
+    "plural_correct": 0,
+    "plural_omitted": 6,
+    "plural_unknown": 1,
+    "secure_promotions": 0
+  }
 }
